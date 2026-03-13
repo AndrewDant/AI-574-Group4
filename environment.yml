@@ -1,0 +1,17 @@
+name: Group4
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - tensorflow
+  - lime
+  - pytorch
+  - transformers
+  - datasets
+  - accelerate>=1.1.0
+# prefix: C:\Users\andre\anaconda3\envs\NLP
