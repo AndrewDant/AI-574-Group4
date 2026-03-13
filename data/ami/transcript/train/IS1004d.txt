@@ -1,0 +1,703 @@
+A	25.38	Okay .	opening
+A	26.0	Good afternoon again .	opening
+A	28.45	So we should have our final meeting about the detail designed of detail design of the product of the remote control .	opening
+A	41.17	Um So here is the agenda for today .	opening
+A	45.31	Uh uh just going to go quickly through the minutes of the last last uh meeting then we have a p presentation of prototype of you two , sounds interesting .	opening
+A	57.34	And we'll have um presentation of evaluation crit criteria by ou our Marketing Experts .	opening
+A	63.16	Then we'll have to go through finance evaluation of the of the cost of the thing and um hopefully uh we should fit the target o tw of twelve point five uh uh Euro .	opening
+A	79.84	Okay .	opening
+A	80.26	So let's go .	opening
+A	81.25	Uh if I go quickly through the minutes of the last meeting .	opening
+A	87.2	So we went through th uh w we took this following decisions .	opening
+A	93.81	No L_C_D_ , no speech recognition technology , okay , we went through a b to a banana look and feel for the remote control .	opening
+A	103.07	We went through the use of wheels and but buttons .	opening
+A	108.52	And also the use of a basis station for battery ch charging and uh also to um call the to call the mot mote remote control when it is lost .	opening
+A	120.2	Okay .	presentation of prototype(s)
+A	121.78	Um .	presentation of prototype(s)
+A	122.8	Good .	presentation of prototype(s)
+A	124.44	So guys let this uh wonderful thing .	presentation of prototype(s)
+C	131.95	Okay so we can go to the slides .	presentation of prototype(s)
+A	133.85	Oh yeah .	presentation of prototype(s)
+A	134.18	Sorry .	presentation of prototype(s)
+C	134.67	Yeah .	presentation of prototype(s)
+A	136.98	Um .	presentation of prototype(s)
+C	137.51	Number three .	presentation of prototype(s)
+C	138.39	Oh number two sorry .	presentation of prototype(s)
+A	142.93	Which is Yeah can you show it to the the camera maybe .	presentation of prototype(s)
+C	143.23	So final design .	presentation of prototype(s)
+C	144.19	Final design .	presentation of prototype(s)
+C	146.39	Okay so Michael you can go ahead .	presentation of prototype(s)
+B	150.72	Yeah so uh following our decision to uh make a yellow well to make a banana remote okay so we actually have a We've well first first of all we made a an attractive base station uh with a banana leaf uh look and feel um and uh bana sit the banana sits in there k you know nicely weighted so that it's not gonna tip over and um this is the remote itself , it's kind of it's it's ergonomic , it fits in the hand uh rather well .	presentation of prototype(s)
+C	165.46	You can pull it out first , maybe .	presentation of prototype(s)
+A	173.75	Mm-hmm .	presentation of prototype(s)
+B	191.32	We've got the two uh uh scroll wheels here which you know one on the the left for the uh volume and the one on the right for for the channel and uh underneath we have the uh the turbo button which is in like a nice uh trigger position for you know for pressing quite naturally .	presentation of prototype(s)
+A	210.56	What's the use uh of the t turbo button already ?	presentation of prototype(s)
+B	213.27	This is when you when you uh are scrolling the uh through the channels you can tell it to to skip th past channels that you quickly rather th Yeah .	presentation of prototype(s)
+A	220.35	Ah yeah yeah an then you stop when you stop it stops .	presentation of prototype(s)
+B	225.03	Well when you stop scrolling the wheel it stops .	presentation of prototype(s)
+B	227.11	But normally with uh it will just uh s stay on each station briefly so you can see the the picture .	presentation of prototype(s)
+C	227.23	Uh And we we do have one more functionality .	presentation of prototype(s)
+A	231.39	Uh-huh .	presentation of prototype(s)
+C	234.45	If you take the banana as such and uh you press the turbo button , so it switch ons the switch ons the T_V_ .	presentation of prototype(s)
+B	240.72	The T_V_ yeah .	presentation of prototype(s)
+A	241.48	Which one ?	presentation of prototype(s)
+B	242.09	The s the turbo button .	presentation of prototype(s)
+C	242.3	The turbo button .	presentation of prototype(s)
+B	243.26	So rather than having uh an extra button for um for the on off switch you just use the turbo button .	presentation of prototype(s)
+A	243.35	Okay .	presentation of prototype(s)
+C	244.9	Additional button .	presentation of prototype(s)
+D	250.76	What this button for ?	presentation of prototype(s)
+B	251.33	This is a teletext button .	presentation of prototype(s)
+D	252.93	Okay .	presentation of prototype(s)
+B	253.27	So once you press that then you get teletext and you can use the the channel selector scroll wheel as uh To navigate yeah .	presentation of prototype(s)
+A	258.58	To navigate it through th through teletext .	presentation of prototype(s)
+D	258.79	But if you want to go to page seven hundred ?	presentation of prototype(s)
+C	259.36	That's right , that's right .	presentation of prototype(s)
+B	263.59	Yeah .	presentation of prototype(s)
+A	264.98	with the wheel it's easy .	presentation of prototype(s)
+D	264.98	How man I don't understand it .	presentation of prototype(s)
+B	265.94	Well then you can you you have like a little uh number selection thing , you press the the the teletext button uh to move between uh the fields and then you can just scroll the number back and forth so you have s you go you scroll to seven and then zero zero and then you can uh Well you can you can press press the teletext button and then you then you can you can f Mm uh And this is the uh the infrared uh port .	presentation of prototype(s)
+D	284.85	Can you repeat it ?	presentation of prototype(s)
+D	290.26	Yeah .	presentation of prototype(s)
+C	290.37	So then then both the scroll buttons they are for teletext browsing .	presentation of prototype(s)
+C	295.52	And you can tele yeah , once you press the teletext button then the scroll buttons they are more for teletext , they are no more for channel or vol volume .	presentation of prototype(s)
+D	296.23	Ah okay okay .	presentation of prototype(s)
+D	297.11	Okay .	presentation of prototype(s)
+D	297.6	Okay okay .	presentation of prototype(s)
+D	300.14	Okay .	presentation of prototype(s)
+D	303.17	I see .	presentation of prototype(s)
+D	303.48	I see .	presentation of prototype(s)
+C	303.74	Yeah .	presentation of prototype(s)
+D	303.75	Okay .	presentation of prototype(s)
+D	304.33	Okay .	presentation of prototype(s)
+C	309.91	That's right .	presentation of prototype(s)
+B	311.17	Also the top of the banana .	presentation of prototype(s)
+C	312.75	Yeah .	presentation of prototype(s)
+A	312.99	Excellent .	presentation of prototype(s)
+B	313.01	So .	presentation of prototype(s)
+B	313.64	And then we have in the uh in the base station we have the the button at the front for uh for calling the uh the banana .	presentation of prototype(s)
+A	319.19	Calling .	presentation of prototype(s)
+C	321.58	Yeah .	presentation of prototype(s)
+A	321.78	Excellent .	presentation of prototype(s)
+A	322.16	And the the leaves plays the roles of of antennas ?	presentation of prototype(s)
+B	325.52	Actually they do .	presentation of prototype(s)
+B	326.88	That's that's yeah that's uh that's form and function in the one in the one uh object .	presentation of prototype(s)
+A	326.96	Oh .	presentation of prototype(s)
+C	328.96	Yeah .	presentation of prototype(s)
+C	330.57	So it always means , whatever the rays goes by they they get reflected and then you are having a better coverage .	presentation of prototype(s)
+C	336.74	It's like antennas .	presentation of prototype(s)
+B	338.12	Yeah .	presentation of prototype(s)
+B	339.33	So .	presentation of prototype(s)
+B	341.3	But yeah that's um that's just like that's an attractive um base station .	presentation of prototype(s)
+A	345.89	Great .	presentation of prototype(s)
+B	347.15	So .	presentation of prototype(s)
+B	348.93	Okay .	presentation of prototype(s)
+A	349.01	So , what else ?	presentation of prototype(s)
+C	351.2	And for the power source we are having solar cells and rechargeable batteries and this and uh the basis station is going to have the input from the mm power line for for charging the batteries .	presentation of prototype(s)
+D	365.38	Is it really weight ?	presentation of prototype(s)
+D	366.72	Is it light or Okay .	presentation of prototype(s)
+C	367.89	It is very light .	presentation of prototype(s)
+A	368.9	Yeah , they're light .	presentation of prototype(s)
+B	369.48	It's it's uh it's about the weight of a banana .	presentation of prototype(s)
+D	372.76	Okay .	presentation of prototype(s)
+B	373.43	You know , to give you the correct look and feel .	presentation of prototype(s)
+C	375.44	Yeah .	presentation of prototype(s)
+D	375.55	Ok Okay .	presentation of prototype(s)
+C	376.44	And we have put these different colours so that people don't mistake them mistake it as a banana .	presentation of prototype(s)
+C	382.23	Otherwise it's you know a child comes and so Yeah .	presentation of prototype(s)
+D	383.4	Yeah yeah yeah , I see .	presentation of prototype(s)
+D	384.33	I under I understand .	presentation of prototype(s)
+B	385.97	I think a child would try to eat it anyway , so maybe we should consider that .	presentation of prototype(s)
+B	391.49	maybe health and safety aspects .	presentation of prototype(s)
+A	393.04	Ah yeah .	presentation of prototype(s)
+C	393.58	Mm-hmm .	presentation of prototype(s)
+C	394.98	Oh we didn't think of that yet .	presentation of prototype(s)
+B	396.3	Yeah .	presentation of prototype(s)
+C	396.54	Yeah .	presentation of prototype(s)
+A	396.98	So for the power source , apparently you still you you want to use both solar cells and batteries .	presentation of prototype(s)
+C	403.28	Oh yeah that's right .	presentation of prototype(s)
+A	405.22	Uh you mean okay .	presentation of prototype(s)
+A	407.18	So Yeah , where are going to where are you are you going to place them ?	presentation of prototype(s)
+B	407.18	I don't really know if the solar cells are actually necessary any more if you have a recharging base station .	presentation of prototype(s)
+C	411.01	Mm-hmm mm-hmm .	presentation of prototype(s)
+C	413.77	It'll It'll be always at top somewhere at there .	presentation of prototype(s)
+B	415.67	If I was gonna place them I'd put them on the on the top here since that's like uh the black bit but yeah I don't I really don't think it's necessary to have the solar cells anymore .	presentation of prototype(s)
+A	419.61	You have enough surface ?	presentation of prototype(s)
+A	420.89	You Okay .	presentation of prototype(s)
+C	423.88	Yeah because now we are having rechargeable batteries so that that is .	presentation of prototype(s)
+B	426.55	Mm .	presentation of prototype(s)
+A	427.48	What will be the autonomy ?	presentation of prototype(s)
+A	428.93	Roughly ?	presentation of prototype(s)
+B	430.22	The what sorry ?	presentation of prototype(s)
+A	430.88	The autonomy .	presentation of prototype(s)
+A	434.3	Autonomy .	presentation of prototype(s)
+B	435.81	What do you mean ?	presentation of prototype(s)
+A	437.01	Uh I mean how long does i how how how long can it be held off a station ?	presentation of prototype(s)
+D	437.13	How long the how long the bit the batteries long .	presentation of prototype(s)
+B	439.21	Ah .	presentation of prototype(s)
+B	440.92	Ah .	presentation of prototype(s)
+B	442.63	A long time .	presentation of prototype(s)
+A	443.56	Yeah .	presentation of prototype(s)
+C	444.53	Eight to ten eight to ten hours .	presentation of prototype(s)
+A	444.55	A long Yeah , so it's It's used only when you Yeah .	presentation of prototype(s)
+B	446.53	No no no , it can it should be weeks .	presentation of prototype(s)
+C	448.25	N most no most of the time it's not being used .	presentation of prototype(s)
+B	452.08	Yeah but y people don't like to put it back in the base station all the time people leave wanna leave it on the couch so Ah , okay .	presentation of prototype(s)
+C	452.1	So when when you are making it on Mm .	presentation of prototype(s)
+C	456.69	Mm-hmm .	presentation of prototype(s)
+C	457.48	No eight or eight or ten hours of working .	presentation of prototype(s)
+C	460.18	If you are just leaving like that it'll be much longer .	presentation of prototype(s)
+B	461.56	Okay .	presentation of prototype(s)
+A	463.04	F weeks .	presentation of prototype(s)
+C	463.83	Yeah .	presentation of prototype(s)
+B	464.16	Yeah .	presentation of prototype(s)
+C	464.39	That's right .	presentation of prototype(s)
+A	466.56	Right .	presentation of prototype(s)
+A	468.42	Next slide ?	presentation of prototype(s)
+C	469.51	Yeah .	presentation of prototype(s)
+C	473.37	And we are having the speakers regular chip for control .	presentation of prototype(s)
+C	475.99	Pricing is was a factor so that's why we have gone for a regular chip only not the advanced chip .	presentation of prototype(s)
+C	481.86	And uh that's it .	presentation of prototype(s)
+A	485.97	Okay .	presentation of prototype(s)
+A	487.12	Okay .	presentation of prototype(s)
+A	487.76	Those really sounds very good .	presentation of prototype(s)
+C	488.74	That's right .	presentation of prototype(s)
+A	493.95	Nothing else to add ?	presentation of prototype(s)
+B	496.36	It seems to be falling over .	presentation of prototype(s)
+D	497.12	I l yeah .	presentation of prototype(s)
+A	498.05	Yeah .	presentation of prototype(s)
+D	499.92	I like I like it .	presentation of prototype(s)
+D	500.92	Maybe the the thing that convince me the less is the the multifunctional buttons .	presentation of prototype(s)
+D	510.49	Looks a bit Looks a bit puzzled uh I dunno how to say that .	presentation of prototype(s)
+C	513.8	You want to have more functional buttons ?	presentation of prototype(s)
+D	523.76	You the the b the buttons change h h their function depending if y it's teletext or not And the volume button will will become And what about people who want to use digits ?	presentation of prototype(s)
+C	523.93	You are not convinced .	presentation of prototype(s)
+C	528.04	Not not many , we we want to keep it simple .	presentation of prototype(s)
+C	530.55	So that this button fo is for teletext which is usually also the case , that usually there is a teletext button and once you press that , the channel buttons , they baco become the scrolling buttons .	presentation of prototype(s)
+C	544.79	It's up to you , means .	presentation of prototype(s)
+C	545.95	Now that Means let's say this this can move the the larger digits and this can move the smaller digits .	presentation of prototype(s)
+A	546.15	Well in fact b both will be could be useful , navigating through teletext .	presentation of prototype(s)
+B	554.88	Or can move between positions in the in the number .	presentation of prototype(s)
+C	556.35	That's right .	presentation of prototype(s)
+A	557.26	Yeah .	presentation of prototype(s)
+D	560.01	Butto real buttons ?	presentation of prototype(s)
+A	562.84	Wow .	presentation of prototype(s)
+C	563.34	Yeah .	presentation of prototype(s)
+C	563.57	So there was there was a constraint that the surface area which we have on this banana on one side because of the shape .	presentation of prototype(s)
+C	570.9	So we are targeting a segment which is which is just very trendy kind of thing , they they don't care about the buttons any more .	presentation of prototype(s)
+D	579.72	Okay .	presentation of prototype(s)
+C	579.97	And anyway Evalua yeah .	evaluation of prototype(s) presentation of prototype(s)
+D	580.39	Because have you thought about configuration and all this kind of uh stuff ?	presentation of prototype(s)
+B	584.12	It's all automatic .	presentation of prototype(s)
+D	585.14	It's all automatic .	presentation of prototype(s)
+B	586.12	Yep .	presentation of prototype(s)
+D	588.62	Okay .	presentation of prototype(s)
+D	589.52	Okay yeah it's fine .	presentation of prototype(s)
+A	590.08	Very good uh yeah you th yeah .	presentation of prototype(s)
+D	590.53	W we are living in a wonderful world .	presentation of prototype(s)
+B	592.77	Uh .	presentation of prototype(s)
+A	594.59	Bananas everywhere .	presentation of prototype(s)
+A	596.91	Okay , so So we have to go through now evaluations .	evaluation of prototype(s) presentation of prototype(s)
+D	597.49	Automatically configure .	presentation of prototype(s)
+D	605.44	Yeah .	evaluation of prototype(s)
+A	606.56	So your slides are ready ?	evaluation of prototype(s)
+D	607.62	S Yeah .	evaluation of prototype(s)
+A	610.52	Uh you're four I think .	evaluation of prototype(s)
+A	612.55	So this is one , which one is this one ?	evaluation of prototype(s)
+D	614.27	Yeah .	evaluation of prototype(s)
+D	620.96	Okay .	evaluation of prototype(s)
+D	621.49	I I const I constructed a a list of criteria based on the on the general user requirements .	evaluation of prototype(s)
+D	632.04	And each criteria is will be evaluated it's uh logical criteria so we must users must say i if it's true or is or if it's false in a in a scale ranging from zero to seven .	evaluation of prototype(s)
+C	652.03	Why this strange factor of seven ?	evaluation of prototype(s)
+D	655.29	Because i I'm sorry .	evaluation of prototype(s)
+D	659.63	Sorry .	evaluation of prototype(s)
+C	661.06	Usually I have seen that scales are from one to ten .	evaluation of prototype(s)
+D	661.55	Ah yeah .	evaluation of prototype(s)
+D	661.81	It's from sorry , it's from one to seven .	evaluation of prototype(s)
+D	664.24	It's from from one to seven sorry .	evaluation of prototype(s)
+D	666.13	Because it should be an even it should be an even uh scale , and five is too short and nine is too long .	evaluation of prototype(s)
+C	669.06	Okay .	evaluation of prototype(s)
+A	670.63	Num number So to have in order to have enough granularity it's in order to have enough granularity in the evaluation .	evaluation of prototype(s)
+C	670.65	Okay .	evaluation of prototype(s)
+C	671.68	Mm-hmm .	evaluation of prototype(s)
+C	677.42	Okay .	evaluation of prototype(s)
+C	679.41	Okay fine , got the idea .	evaluation of prototype(s)
+D	680.28	I'm a I I'm Sorry ?	evaluation of prototype(s)
+D	686.41	Yeah yeah .	evaluation of prototype(s)
+C	688.29	Okay .	evaluation of prototype(s)
+D	688.37	The variance is mi it's is minimal .	evaluation of prototype(s)
+A	689.99	Okay .	evaluation of prototype(s)
+C	690.37	Okay , okay , great .	evaluation of prototype(s)
+D	691.71	I'm um answering your question .	evaluation of prototype(s)
+C	692.99	Okay .	evaluation of prototype(s)
+D	693.43	Okay .	evaluation of prototype(s)
+C	693.5	Yeah yeah .	evaluation of prototype(s)
+C	694.25	Go ahead .	evaluation of prototype(s)
+D	695.09	And that's the criteria I I found more useful .	evaluation of prototype(s)
+D	698.94	I think I sh I I could write the criteria in the on the whiteboard ?	evaluation of prototype(s)
+C	702.67	Mm-hmm .	evaluation of prototype(s)
+C	703.03	Sure .	evaluation of prototype(s)
+D	703.07	And we all four could range could evaluate the Okay let's let's evaluate if it's fancy or Seven but I would say seven .	evaluation of prototype(s)
+C	706.48	Okay .	evaluation of prototype(s)
+C	707.31	Yeah yeah .	evaluation of prototype(s)
+C	708.48	Yeah .	evaluation of prototype(s)
+A	709.04	Okay .	evaluation of prototype(s)
+C	719.43	So you can say fancy , handy .	evaluation of prototype(s)
+C	730.87	Handy .	evaluation of prototype(s)
+C	735.31	Yeah , it's fancy , according to me .	evaluation of prototype(s)
+A	739.1	Yeah , six .	evaluation of prototype(s)
+C	741.52	Seven .	evaluation of prototype(s)
+A	741.59	S seven .	evaluation of prototype(s)
+C	741.79	Seven by me .	evaluation of prototype(s)
+A	742.7	Six .	evaluation of prototype(s)
+C	744.33	Okay .	evaluation of prototype(s)
+D	744.34	It's quite fancy .	evaluation of prototype(s)
+C	747.25	So you can add seven plus six plus seven plus Five .	evaluation of prototype(s)
+A	750.34	No , wait .	evaluation of prototype(s)
+B	750.63	Yeah uh five .	evaluation of prototype(s)
+A	751.54	What do you say seven ?	evaluation of prototype(s)
+A	752.72	Five ?	evaluation of prototype(s)
+B	752.98	Five , maybe maybe maybe six it's it's I guess it's yeah .	evaluation of prototype(s)
+A	756.11	Okay , six point five .	evaluation of prototype(s)
+A	760.84	Handy ?	evaluation of prototype(s)
+C	766.22	Again I'll give seven .	evaluation of prototype(s)
+A	769.39	Seven .	evaluation of prototype(s)
+B	769.72	I'd give it a six like I'd I think it's probably more handy than my current remote , 'cause of the scroll wheels but maybe loses the point for not having you know the extra buttons when you reall if you do need them for some reason but you know you can always use your other remote .	evaluation of prototype(s)
+D	770.93	Six .	evaluation of prototype(s)
+C	774.34	Yep .	evaluation of prototype(s)
+A	786.5	So seven , seven , six , six point five .	evaluation of prototype(s)
+C	787.57	Seven for me .	evaluation of prototype(s)
+B	788.77	Yeah .	evaluation of prototype(s)
+D	789.28	Six .	evaluation of prototype(s)
+A	795.42	Functional .	evaluation of prototype(s)
+C	801.44	I'll give five .	evaluation of prototype(s)
+A	803.12	Four .	evaluation of prototype(s)
+D	803.16	I would say Everything ar Mm everything It's compared to the all remote controls .	evaluation of prototype(s)
+B	806.24	Well it depends when you say functional , do you mean it does what we want it to do , or d does what it does , you know , can it make you coffee ?	evaluation of prototype(s)
+B	814.66	You know .	evaluation of prototype(s)
+A	815.21	Uh for a remote control , does he have all the you could expect .	evaluation of prototype(s)
+B	818.73	Yeah .	evaluation of prototype(s)
+B	819.84	Yeah .	evaluation of prototype(s)
+C	823.54	That's right .	evaluation of prototype(s)
+C	824.65	That's right .	evaluation of prototype(s)
+B	824.71	That's before Yeah .	evaluation of prototype(s)
+C	827.19	The standards .	evaluation of prototype(s)
+C	828.42	What is available in the market off the shelf .	evaluation of prototype(s)
+B	830.24	I have to say four .	evaluation of prototype(s)
+D	831.23	Actually I don't know what are the r the real specification of a of a universal remote contro Ah it's not an univer but it's for all kind of T_V_s ?	evaluation of prototype(s)
+B	836.77	Well it's not a universal remote .	evaluation of prototype(s)
+B	838.44	Remember we're focus we're supposed to focus just on T_V_s .	evaluation of prototype(s)
+C	838.51	We Five .	evaluation of prototype(s)
+A	842.23	Yeah .	evaluation of prototype(s)
+B	843.14	Well all T_V_s but only T_ only T_V_s I guess .	evaluation of prototype(s)
+A	846.04	So it's universal but for T_V_s .	evaluation of prototype(s)
+D	851.24	Yeah .	evaluation of prototype(s)
+A	851.32	So s uh four ?	evaluation of prototype(s)
+A	854.02	Five ?	evaluation of prototype(s)
+B	854.51	Four .	evaluation of prototype(s)
+A	855.14	Four .	evaluation of prototype(s)
+D	855.14	Four .	evaluation of prototype(s)
+D	856.25	Four .	evaluation of prototype(s)
+C	857.44	So four point two ?	evaluation of prototype(s)
+B	858.68	Just four .	evaluation of prototype(s)
+A	859.28	Four .	evaluation of prototype(s)
+C	860.11	four .	evaluation of prototype(s)
+D	861.21	So four ?	evaluation of prototype(s)
+B	861.38	Obviously there are some outliers so Which I'll say five .	evaluation of prototype(s)
+A	864.82	Okay cool ?	evaluation of prototype(s)
+A	866.02	Cool device .	evaluation of prototype(s)
+C	868.13	There I'll give it seven .	evaluation of prototype(s)
+D	872.28	It means cool features , like new features actually .	evaluation of prototype(s)
+C	876.5	That's right .	evaluation of prototype(s)
+C	878.96	For a T_V_ the most important feature which I felt was the locator which is a cool feature .	evaluation of prototype(s)
+C	885.18	And then the scroll buttons are again cool features .	evaluation of prototype(s)
+C	888.07	We don't have L_C_D_ for it but that we decided we don't want to have .	evaluation of prototype(s)
+A	893.06	Yeah .	evaluation of prototype(s)
+A	894.16	Seven .	evaluation of prototype(s)
+D	894.87	I would say five .	evaluation of prototype(s)
+C	896.63	Mm-hmm .	evaluation of prototype(s)
+A	896.85	Six .	evaluation of prototype(s)
+C	897.76	Seven .	evaluation of prototype(s)
+A	898.4	Plus six , I say I said seven .	evaluation of prototype(s)
+B	899.17	Yeah .	evaluation of prototype(s)
+A	901.55	So it's six .	evaluation of prototype(s)
+B	901.77	S yeah .	evaluation of prototype(s)
+D	901.79	You said seven ?	evaluation of prototype(s)
+A	902.44	Yeah .	evaluation of prototype(s)
+B	903.93	'Cause it's five five seven seven so Uh , okay , definitely easy to use .	evaluation of prototype(s)
+C	905.77	Okay .	evaluation of prototype(s)
+C	908.99	Definitely seven .	evaluation of prototype(s)
+B	910.52	Seven .	evaluation of prototype(s)
+A	912.47	Seven .	evaluation of prototype(s)
+A	914.53	Seven .	evaluation of prototype(s)
+A	915.45	And you ?	evaluation of prototype(s)
+D	917.08	Five .	evaluation of prototype(s)
+A	917.16	Outl you are not lik outlier .	evaluation of prototype(s)
+A	918.89	Seven Okay okay okay okay .	evaluation of prototype(s)
+D	923.51	Sorry , I have them Of cour Of course the most difficult question for the end .	evaluation of prototype(s)
+C	923.63	Okay .	evaluation of prototype(s)
+B	924.96	Alright , now here's the sixty million Dollar question , well , twenty five twenty five Euro question .	evaluation of prototype(s)
+A	931.85	Of course I'll buy the banana .	evaluation of prototype(s)
+B	936.96	What do you what do you guys reckon ?	evaluation of prototype(s)
+C	938.53	I'll say five .	evaluation of prototype(s)
+A	938.75	Well Twenty five Euros .	evaluation of prototype(s)
+C	941.37	I'll say five .	evaluation of prototype(s)
+B	941.41	Hmm .	evaluation of prototype(s)
+D	949.56	I find it quite cheap actually .	evaluation of prototype(s)
+D	951.17	I dunno .	evaluation of prototype(s)
+D	951.58	If i i it depends , if you live in in Switzerland or you live in I don't know .	evaluation of prototype(s)
+A	952.74	Cheap .	evaluation of prototype(s)
+A	955.32	Yeah , so the target price is for all Europe , or only for rich countries ?	evaluation of prototype(s)
+A	961.51	It's more targeting U_K_ or So this is selling costs , not production costs .	evaluation of prototype(s)
+D	963.78	Wha the initial specifications were for the whole all Europe or Yeah this is the the initial specifications .	evaluation of prototype(s)
+B	969.6	Uh Yeah .	evaluation of prototype(s)
+B	973.25	Yeah .	evaluation of prototype(s)
+A	974.39	Yeah yeah sure .	evaluation of prototype(s)
+A	975.61	Um Five .	evaluation of prototype(s)
+D	979.78	I would say six .	evaluation of prototype(s)
+D	980.94	It's quite cheap actually .	evaluation of prototype(s)
+B	981.78	I'd say two .	evaluation of prototype(s)
+C	984.36	Why ?	evaluation of prototype(s)
+B	984.96	I don't want a banana on my living room table , a banana remote .	evaluation of prototype(s)
+A	988.81	Aw , should be nice in your It's kitsch .	evaluation of prototype(s)
+C	989.75	No but it's really handy actually if you see .	evaluation of prototype(s)
+B	992.37	It is handy , it's handy , but it it's terrible .	evaluation of prototype(s)
+C	992.43	It's it's so handy .	evaluation of prototype(s)
+C	993.8	And then Anyb anybody who comes here anybody who comes to your home he'll at least ask once what is this .	evaluation of prototype(s)
+B	997.18	Yeah .	evaluation of prototype(s)
+B	1002.02	Yeah , but it's not a positive thing .	evaluation of prototype(s)
+C	1003.92	It's a very positive thing if you see like that .	evaluation of prototype(s)
+B	1004.9	Well , you know , it's it's handy , it's ergonomic , but it's a banana .	evaluation of prototype(s)
+A	1007.49	Well , don't forget well , don't for don't forget who we're targeting also who are f f who are wh yeah , youngst youngst No well yeah I if you would be young .	evaluation of prototype(s)
+C	1013.08	Youngsters .	evaluation of prototype(s)
+D	1013.51	Actually maybe Yeah I change the question .	evaluation of prototype(s)
+B	1013.92	Yeah but it says I , I would buy this , so .	evaluation of prototype(s)
+A	1021.6	Not telling that you are young .	evaluation of prototype(s)
+A	1022.91	Li li like a teenager for instance .	evaluation of prototype(s)
+B	1025.47	No , it's I .	evaluation of prototype(s)
+A	1026.98	Okay you're you're crazy teenager and you like fun things .	evaluation of prototype(s)
+B	1026.99	I would buy S s Still I I'd say two .	evaluation of prototype(s)
+C	1031.08	You want to flaunt .	evaluation of prototype(s)
+A	1032.18	Yeah .	evaluation of prototype(s)
+C	1032.2	You with your girlfriend or something .	evaluation of prototype(s)
+A	1033.65	Yeah , you want to show the beautiful banana you have .	evaluation of prototype(s)
+C	1035.84	Or might be it does some other kind of thing but Uh yeah , crazy .	evaluation of prototype(s)
+B	1039.44	I don't think I at any stage in my life I would want a banana remote control , really .	evaluation of prototype(s)
+A	1044.32	Okay so you s you give oh yeah yeah I know I know .	evaluation of prototype(s)
+B	1044.63	I can say , maybe there is a market for it , I dunno .	evaluation of prototype(s)
+A	1047.8	So you say two .	evaluation of prototype(s)
+B	1048.73	Yeah .	evaluation of prototype(s)
+C	1048.84	I say five .	evaluation of prototype(s)
+A	1049.53	F I d I say five .	evaluation of prototype(s)
+A	1052.42	You say ?	evaluation of prototype(s)
+A	1057.95	So what's the new question ?	evaluation of prototype(s)
+C	1058.37	And you have saved it ?	evaluation of prototype(s)
+D	1060.68	So yeah upload the Yeah it's two different situations .	evaluation of prototype(s)
+C	1062.32	You'll have to reload .	evaluation of prototype(s)
+A	1063.54	Uh yeah , I think so .	evaluation of prototype(s)
+B	1072.51	Okay , so , it depends if uh If I had t if I had to spend twenty five Euro , if that was like my limit , maybe I would buy it .	evaluation of prototype(s)
+D	1077.64	If you really need an universal remote control or if you would change your remote control for a n for a new one .	evaluation of prototype(s)
+A	1085.68	Yeah that's two different question .	evaluation of prototype(s)
+B	1093.32	Because the other twenty five Euro remote controls are probably gonna look worse than a banana .	evaluation of prototype(s)
+C	1097.35	They're not going to be as And they they might not be a as easy as this yeah .	evaluation of prototype(s)
+A	1097.58	Ugly .	evaluation of prototype(s)
+B	1101.78	And it yeah this is gonna f you know handy to use .	evaluation of prototype(s)
+C	1104.65	Yeah .	evaluation of prototype(s)
+D	1106.56	So ?	evaluation of prototype(s)
+D	1106.91	What now ?	evaluation of prototype(s)
+C	1107.08	S I go slightly up .	evaluation of prototype(s)
+A	1107.36	I stick to five .	evaluation of prototype(s)
+D	1107.7	What range ?	evaluation of prototype(s)
+B	1109.24	Although it still has it still has the word of course at the beginning so I dunno .	evaluation of prototype(s)
+C	1109.93	Six .	evaluation of prototype(s)
+D	1110.87	Six .	evaluation of prototype(s)
+B	1115.42	Um .	evaluation of prototype(s)
+A	1117.0	W we have six , five Three So we are six , five , four Yeah .	evaluation of prototype(s)
+B	1117.83	I'd give it I'd give it a I give it a four now .	evaluation of prototype(s)
+D	1124.02	Six ?	evaluation of prototype(s)
+D	1124.74	Six ?	evaluation of prototype(s)
+C	1124.91	Six , five , four .	evaluation of prototype(s)
+D	1126.84	Six , so it's uh five point five , or less .	evaluation of prototype(s)
+A	1133.3	So So and last question , will I change my rem change my remote control from Mando banana .	evaluation of prototype(s)
+C	1142.36	Okay .	evaluation of prototype(s)
+A	1149.92	Um , zero .	evaluation of prototype(s)
+A	1151.99	No uh we can't .	evaluation of prototype(s)
+A	1154.63	So one .	evaluation of prototype(s)
+D	1157.66	Actually yeah , I we Five ?	evaluation of prototype(s)
+A	1159.14	Well if .	evaluation of prototype(s)
+A	1163.16	No uh let's say I'll put two .	evaluation of prototype(s)
+B	1163.22	Yeah .	evaluation of prototype(s)
+B	1165.63	I'd say three , I mean my remote control is kinda at home is pretty terrible .	evaluation of prototype(s)
+B	1171.64	If it was change my remote control of my D_V_D_ player for a Mando banana then I would be more inclined to but uh 'cause it's really bad but uh I'd say a three .	evaluation of prototype(s)
+A	1177.61	It's for the T_V_ .	evaluation of prototype(s)
+C	1183.35	I'll still give it five .	evaluation of prototype(s)
+C	1185.76	Yeah .	evaluation of prototype(s)
+A	1187.28	Two three five two three fi and two .	evaluation of prototype(s)
+D	1187.63	You are romantic , really .	evaluation of prototype(s)
+D	1189.67	I would say two .	evaluation of prototype(s)
+C	1192.05	So it's somewhere three point five I think .	evaluation of prototype(s)
+A	1192.15	So it's r Yeah , three point five .	evaluation of prototype(s)
+D	1198.43	Who is the outlier ?	evaluation of prototype(s)
+D	1199.36	Wh wh you said five ?	evaluation of prototype(s)
+C	1202.65	No I said five .	evaluation of prototype(s)
+A	1202.8	No no you say five , he is the outlier .	evaluation of prototype(s)
+A	1207.48	Okay just just do a sum .	evaluation of prototype(s)
+D	1210.82	I don't know if it's a No because there are more yeah , we shouldn't sum like that .	evaluation of prototype(s)
+B	1214.34	It's not very promising but you know we're not young trendsetters .	evaluation of prototype(s)
+A	1222.69	Well maybe we should we should uh have a look globally glob Yeah .	evaluation of prototype(s)
+D	1225.24	Because the the last two questions is much more important than the rest actually .	evaluation of prototype(s)
+C	1229.67	Mm-hmm .	evaluation of prototype(s)
+D	1229.89	Otherwise we wouldn't we will not sell .	evaluation of prototype(s)
+B	1231.05	Is there some some formula you're using that says you have to sum them up ?	evaluation of prototype(s)
+D	1235.35	Uh no I didn't anything .	evaluation of prototype(s)
+B	1237.6	Well just leave it at that then .	evaluation of prototype(s)
+C	1241.15	Oops .	evaluation of prototype(s)
+D	1241.7	Yeah , the uh Yeah .	evaluation of prototype(s)
+A	1242.17	So maybe maybe w we can we should stick to general feeling .	evaluation of prototype(s)
+A	1246.41	We can had uh have a out of these numbers , which which is that well we should go for it .	evaluation of prototype(s)
+D	1257.55	Do you want me to sum o I think it's not S Actually what's the differen Too expensive .	evaluation of prototype(s) costing
+A	1257.56	Problem with connectors ?	evaluation of prototype(s)
+B	1258.97	No .	evaluation of prototype(s)
+B	1259.88	I think it it kind of you just lose information if you sum it , so .	evaluation of prototype(s)
+C	1260.52	Yeah it's it's funny .	evaluation of prototype(s)
+A	1263.2	Okay .	costing
+A	1265.1	So let's move uh let's move on .	costing
+C	1267.24	Yeah , sure .	costing
+A	1268.71	Okay , now now we have to mm to estimate uh the cost okay .	costing
+A	1276.48	So I prepare an Excel sh uh an Excel sheet .	costing
+A	1281.23	Um well we are going to calculate the production costs .	costing
+A	1286.05	We should we should be below twelve point five .	costing
+A	1291.99	So I already uh put some pu some numbers here , okay .	costing
+A	1298.5	We are going to go through so this is the number the mm number of components we need for this thing .	costing
+A	1305.87	So it appears that there were things that we didn't thought about .	costing
+A	1310.77	Uh and also things that I uh I d I forget to uh to put like solar cells .	costing
+C	1316.48	Mm-hmm .	costing
+B	1316.8	Well we decided against the solar cells so You mean , charging it by shaking the banana .	costing
+A	1318.87	Oh yeah finally we say no .	costing
+C	1318.87	Solar cells , yeah yeah yeah yeah yeah , we said no to that .	costing
+A	1320.66	Okay so let's let's go let's go let go through all the lines .	costing
+A	1324.62	So hand dynamo .	costing
+A	1325.89	This something we didn't thought about .	costing
+A	1328.47	But Yeah .	costing
+C	1332.9	I think rechargeable batteries will take care of the power thing .	costing
+A	1336.0	Yeah .	costing
+C	1336.44	Yeah .	costing
+C	1336.85	To bring the cost Yeah .	costing
+A	1337.1	Okay so we we stick to battery , one .	costing
+A	1341.12	No kinetic also .	costing
+A	1342.12	I don't I don't see the difference between kinetic and dynamo .	costing
+B	1349.16	Well maybe dynamo is like you have to actually Yeah .	costing
+A	1352.34	Ah you have to ah okay I see so kinetic is really uh shaking the banana .	costing
+C	1357.49	Yeah .	costing
+A	1358.51	Crazy .	costing
+A	1359.45	Okay .	costing
+A	1360.78	So those banana is falling .	costing
+A	1366.71	Let's go ahead .	costing
+A	1367.21	So we we st only have one for battery .	costing
+C	1367.29	Okay .	costing
+A	1370.96	Uh then for electronics um so I didn't put anything for the .	costing
+C	1375.43	So we have the regular chip on the print , which is one .	costing
+A	1377.41	Yeah .	costing
+A	1379.14	Yeah .	costing
+C	1379.9	And that's it .	costing
+A	1380.85	Okay .	costing
+A	1382.04	No so we hin Yeah so one .	costing
+C	1383.31	And we have sample speaker .	costing
+C	1385.96	Yeah .	costing
+C	1386.87	Yeah .	costing
+C	1387.54	the cost of that is very high .	costing
+A	1388.64	Ooh ye ye ye the cost is increasing .	costing
+B	1391.15	Well actually that that no that sample speaker is not we we're not using that , we're just using the the very beep simple beep , that s that sample thing is like the voice recording and everything .	costing
+A	1391.26	So we are The beep .	costing
+C	1398.4	Uh-huh .	costing
+A	1399.57	That's what Okay so I'll remove it .	costing
+C	1400.89	Mm-hmm .	costing
+C	1401.24	Mm-hmm .	costing
+B	1402.37	So Yeah .	costing
+B	1403.81	I say that Yeah .	costing
+A	1404.06	S So don't we need a Oh there is no listing for r radio frequency thing .	costing
+C	1408.21	And we have sev Yeah .	costing
+A	1418.29	So Yeah maybe .	costing
+C	1418.31	So we we'll put some extras , if there is something .	costing
+A	1422.38	We'll see later .	costing
+B	1422.64	Mm .	costing
+A	1423.34	Okay so in for the case um I put single curved .	costing
+C	1427.77	Okay .	costing
+C	1428.49	To reduce the cost , it's okay .	costing
+B	1430.78	Well , wait a second , no , it's it's double curved , it's got a c , it's uh Well d yeah it's monotonic but it's got but if you hold it if you hold it that way that's two curved , one on this side , one on that side , but they're opposite sides .	costing
+A	1432.47	Because we have two things .	costing
+C	1435.03	Oh it's got all the directions so don't worry .	costing
+A	1435.67	No .	costing
+C	1442.32	It's got a direction .	costing
+A	1453.16	Well .	costing
+A	1458.52	What a what i if I put one here .	costing
+B	1458.86	This is actually I mean this probably this probably actually costs more than three if you Yeah .	costing
+A	1463.67	Yeah so let's put one here in the then instead of single oka all right .	costing
+C	1466.79	Okay .	costing
+C	1467.34	Okay .	costing
+A	1469.07	So we stick to plastic , it cost nothing .	costing
+C	1470.53	Yeah .	costing
+C	1471.28	That's right .	costing
+B	1471.91	Well no didn't we say we wanted to do a rubber if you drop it ?	costing
+A	1474.32	No , it's too no .	costing
+A	1478.06	It's too expensive .	costing
+B	1480.22	Well when okay .	costing
+A	1480.52	We're already at eleven .	costing
+B	1481.11	Well we we'll come back we'll come back and see if we can fit it in .	costing
+A	1484.26	Okay so I put rubber one .	costing
+A	1487.7	Okay so special colour , yellow .	costing
+B	1490.74	Yeah .	costing
+A	1491.96	Uh for the interface we have We have three .	costing
+C	1495.03	We don't have any push buttons .	costing
+B	1496.27	No , we have two push buttons .	costing
+C	1498.29	No that is a scroll wheel itself , it'll be put in that .	costing
+B	1499.66	Huh .	costing
+A	1501.49	No no .	costing
+A	1502.25	We have two scroll , and we have three push buttons .	costing
+C	1502.96	Ah okay , okay .	costing
+B	1503.93	Uh .	costing
+C	1505.32	Okay , okay .	costing
+D	1509.55	Actually whe whe when you wrote regular chip you should put two , because there is another chip here .	costing
+B	1509.58	Okay it's gonna have to be plastic .	costing
+A	1509.84	And No it's no chip .	costing
+A	1517.36	This is just radio frequency .	costing
+C	1519.19	Yeah .	costing
+A	1519.2	Th This is no chip .	costing
+D	1519.87	Yeah but you need Fo i it does nothing actually ?	costing
+C	1520.72	No .	costing
+C	1521.54	There's no chip there .	costing
+C	1523.09	It just emits the signal .	costing
+A	1525.06	It's just Yeah .	costing
+C	1525.33	And the receiver accepts it and that's it .	costing
+A	1529.89	No .	costing
+C	1530.67	Just se sends the signal , that's it .	costing
+A	1530.71	Just only .	costing
+B	1532.65	It's a recharger thing and uh Well I actually did um think about it myself but I thought you know because you could potentially you know you could be pushing it down as you scroll it for a instead of a turbo button but you know the turbo button does add that extra class .	costing
+A	1535.27	Okay w we didn't think a thought about uh integrated scroll wheel push buttons .	costing
+A	1552.73	Yeah , so Yeah .	costing
+B	1557.16	You know .	costing
+B	1558.22	So I mean if we're if we're over budget then maybe we could we could rethink that .	costing
+A	1563.78	Okay .	costing
+A	1564.29	So no L_C_D_ , so for we have no button supplements , right ?	costing
+C	1569.38	Yep .	costing
+C	1570.04	No .	costing
+A	1571.0	Uh well in fact could we could not we consider this button as a button supplement because oh no , these are these are for colours , co and special forms , special colours and special materials .	costing
+B	1582.0	Yeah .	costing
+B	1584.08	No we're not we don't need anything special for the buttons .	costing
+A	1585.16	So Okay so we are over budget .	costing
+C	1588.42	Yeah .	costing
+C	1588.72	So first thing which we should take care of is , instead of rubber , let it be plastic .	costing
+B	1592.51	Make it plastic instead of rubber .	costing
+A	1593.99	Yeah .	costing
+B	1594.74	And then we're basically o on budget except for you know ten cents .	costing
+C	1599.15	And uh that much money will be required for the base station , which is not there .	costing
+A	1603.51	Yeah .	costing
+B	1605.67	Yeah .	costing
+A	1608.19	So mayb in fact n we have to put two here because it cost nothing .	costing
+B	1617.17	Yeah well pl the base station is made out of m many units of plastic .	costing
+C	1617.5	Yeah .	costing
+C	1619.54	That's right .	costing
+C	1620.81	So might be ninety centimes for the the remaining things which the cord and everything which'll go That's right .	costing
+A	1626.02	Exactly exactly so we have margin for that stuff .	costing
+B	1629.04	Does that include charging circuitry and everything ?	costing
+A	1631.93	Yeah maybe .	costing
+A	1634.07	Okay good .	costing
+C	1635.28	Yeah .	costing
+A	1635.7	Wha Excellent .	costing
+B	1640.64	So what do we do with the extra profits ?	costing
+A	1643.59	Um we'll invest in R_ and D_ .	costing
+B	1646.06	Okay .	costing
+B	1647.24	The next fruit .	costing
+A	1648.44	Yeah .	costing
+A	1649.52	So well we're under the the the cost .	costing
+A	1653.6	So we can go to through to project evaluation .	costing
+D	1662.48	Okay so now we have a product which nobody would would buy .	costing
+D	1666.28	Would yeah , would buy .	costing
+A	1668.86	Sorry ?	costing
+B	1669.27	No we have a product which none of us would buy .	costing
+D	1669.58	Yeah because th th the evaluation project Ah would buy , yeah .	costing
+A	1672.12	Which is different .	costing
+A	1673.43	Which is different .	costing
+A	1674.27	None of us will buy it .	costing
+B	1675.11	No it's people in in in Milan and uh in Paris that are gonna buy it .	costing
+D	1679.76	Massively , yeah .	costing
+B	1679.83	We're n yeah .	costing
+B	1680.95	We're not in Milan or Paris .	costing
+D	1682.33	Yeah .	costing
+D	1682.66	Okay .	costing
+D	1684.46	Uh you have been in Milan a couple of times , so .	costing
+B	1687.84	Actually there were a lot of That's 'cause I'm sick of Milan .	costing
+A	1688.0	This is a battery .	costing
+D	1690.71	And you said the lowest .	costing
+A	1693.76	This is what we which you can mm It did yeah .	costing
+C	1693.99	S Detachable battery .	costing
+D	1697.34	Yeah , for the batteries Mm-hmm .	evaluation of project process costing
+A	1698.79	Extra battery , yeah .	costing
+A	1701.2	Exac Well in fact I I did not know I didn't know really what to say here .	evaluation of project process costing
+B	1701.22	Okay so um project process .	evaluation of project process costing
+A	1715.3	If uh if you have any ideas of what we can we can say .	evaluation of project process
+A	1719.25	So I don't I don't I don't understand what what they mean by satisfaction um and for and for example .	evaluation of project process
+A	1731.76	Should it be more like um like a status of of the these meetings in fact .	evaluation of project process
+B	1738.6	Yeah .	evaluation of project process
+A	1739.2	Yeah well in fact uh we we use a little bit the white board and the digital pen , not that much .	evaluation of project process
+B	1745.6	I dunno I think we had a fair bit of creativity .	evaluation of project process
+A	1747.99	Oh yeah it's really creative .	evaluation of project process
+B	1752.25	And uh but I think one thing we m missed out of this whole process was a um like a focus group with the actual people we're targeting .	evaluation of project process
+B	1762.42	We needed some of these kind of young trendsetters to come in and play with the banana and you know see if they see if they like it .	evaluation of project process
+A	1764.94	Yeah .	evaluation of project process
+C	1770.09	They like that .	evaluation of project process
+C	1771.79	Mm-hmm .	evaluation of project process
+A	1772.02	Yeah maybe we should go through , yeah an uh evaluation .	evaluation of project process
+B	1776.04	Because yeah the evaluation for us is is kind of pointless .	evaluation of project process
+C	1779.98	Biased .	evaluation of project process
+A	1780.72	So maybe you should we should do a kinda evaluation in the streets like asking to young peoples well , do you like to have a banana as a remote control .	evaluation of project process
+B	1788.64	Yeah .	evaluation of project process
+B	1790.91	Because it it would also be interesting to uh you to know find out if we have a market in really young children as well , to see you know how to how to market this thing .	evaluation of project process
+C	1790.95	Mm-hmm .	evaluation of project process
+C	1799.36	Mm-hmm .	evaluation of project process
+A	1799.81	Yeah .	evaluation of project process
+B	1800.24	'Cause you know if well I mean maybe you don't wanna give all your kids their own remote because they'll be changing the channel all the time but you know maybe in some households where there is you know a T_V_ for each kid , then you know , banana remote control could be fun for them as well .	evaluation of project process
+B	1815.69	Might have to draw a face on it .	evaluation of project process
+A	1815.7	Mm-hmm .	evaluation of project process
+B	1818.76	So but I think that's something we need to to work on next time is really finding out more about the target market .	evaluation of project process
+A	1828.02	Yep .	evaluation of project process
+A	1829.38	Any any new ideas we could uh we could investigate next time ?	evaluation of project process
+A	1834.85	Dunno , oranges ?	evaluation of project process
+C	1837.33	Yeah .	evaluation of project process
+C	1837.6	The cost of the thing can be made more than might be .	evaluation of project process
+C	1842.02	Because I think it's just the optimal , what we have done for the cost which we are looking forward to .	evaluation of project process
+B	1848.39	Yeah .	evaluation of project process
+B	1848.54	I think there are ways we could maybe simplify the Well just the the the circuit board that we're using inside , I'm not sure really how complicated our um our needs are .	evaluation of project process
+C	1851.94	Interface .	evaluation of project process
+C	1856.73	Mm-hmm .	evaluation of project process
+B	1861.01	I mean all we have is two push buttons and two scrollers , do we really need an integrated circuit to you know to process that .	evaluation of project process
+A	1867.52	Hmm .	evaluation of project process
+C	1868.2	Mm-hmm .	evaluation of project process
+C	1868.58	Mm-hmm .	evaluation of project process
+C	1869.33	Mm-hmm .	evaluation of project process
+D	1870.98	So more general remote control instead of just focusing on uh on T_V_ .	evaluation of project process
+C	1876.7	That's right .	evaluation of project process
+D	1876.82	The complexity shouldn't be much higher .	evaluation of project process
+C	1879.94	Yeah .	evaluation of project process
+D	1882.12	For you said if it good for D_V_D_ then I would Bye .	evaluation of project process closing
+B	1885.48	And also fo you know for mood lighting and and stuff , that would be rather cool .	evaluation of project process
+B	1890.39	I think that's actually something that should be in version two , is the ability to you know to control things other than the T_V_ and not just electronic equipment but you know the whole environment of the room .	evaluation of project process
+C	1896.62	Integrate .	evaluation of project process
+C	1900.01	Mm-hmm .	evaluation of project process
+A	1905.62	Okay .	closing
+A	1907.24	Very good .	closing
+C	1909.01	So What else ?	closing
+A	1909.74	So Well done .	closing
+A	1913.98	I think we we can go home .	closing
+C	1914.03	Okay .	closing
+C	1916.25	Home ?	closing
+C	1917.86	Happily satisfied .	closing
+A	1918.75	Yeah .	closing
+A	1919.38	Maybe maybe we can hassle the the production department to to make a a real prototype that we can use at home to to evaluate .	closing
+C	1929.78	Mm-hmm .	closing
+B	1932.68	Yep .	closing
+A	1933.08	Okay so thanks very much .	closing
+C	1934.57	Thank you .	closing
+B	1934.66	Okay .	closing
+A	1934.9	Bye .	closing
+B	1935.2	Thank you .	closing

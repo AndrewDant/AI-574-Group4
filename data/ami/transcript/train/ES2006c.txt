@@ -1,0 +1,605 @@
+B	0	.	NO_TOPIC
+C	2.37	Excellent .	NO_TOPIC
+C	3.5	So um I sent you the agenda , it was on the in the project documents .	NO_TOPIC
+C	10.44	I don't know if you got a chance to just have a look at it .	NO_TOPIC
+C	13.85	Anyway , it's the meeting's gonna follow more or less the same structure as last time , so we'll go round each of you in turn and you can give your presentations on what you've been up to .	NO_TOPIC
+C	26.15	Um and at the end of that we need to discuss what you've come up with , so that we can make a decision on the key remote control concepts , so that's we need to know about the components' properties , materials , the user interface and any trends that the Marketing Expert has been watching .	NO_TOPIC
+A	51.65	Right .	NO_TOPIC
+C	51.8	Okay .	NO_TOPIC
+C	52.54	Um , do you wanna start again ?	NO_TOPIC
+A	53.94	Okay .	NO_TOPIC
+C	54.7	Let me we've got forty minutes .	NO_TOPIC
+A	55.62	Right s so I haven't made a PowerPoint presentation , yeah , I I thought I'll use the whiteboard instead .	NO_TOPIC
+C	59.97	You haven't made a PowerPoint , okay .	NO_TOPIC
+C	63.33	Mm-hmm .	NO_TOPIC
+A	64.08	Um mm , okay , so basically I'll start off by uh I thought I'll use the whiteboard because we have so many different options and what we can do is that we can start um uh rubbing off the options that we do not require and putting in the options that uh are m or highlighting or underlining them or something like that .	NO_TOPIC
+C	65.14	Let's hope the pen holds out .	NO_TOPIC
+C	86.72	Mm-hmm .	NO_TOPIC
+A	93.03	Okay , so uh I'll start again with a brief introduction to connect that anyway brief introduction to the insides of a remote control and uh then we can probably uh discuss the various components .	NO_TOPIC
+C	98.31	Yeah .	NO_TOPIC
+A	112.05	Yeah .	NO_TOPIC
+A	112.96	Okay , so w what you see here is so this is the outside of the remote , right ?	NO_TOPIC
+C	119.36	Mm-hmm .	NO_TOPIC
+A	119.68	If you open it , you have a circuit board here , right , and this is the chip that I was talking about last time .	NO_TOPIC
+A	127.83	This basically sends information to a tr uh transistor here , which then uh sends the information to an L_E_D_ device here .	NO_TOPIC
+C	135.95	Mm-hmm .	NO_TOPIC
+A	136.27	If you flip the printed circuit board , and this is th the most important point here , uh everything else is kind of Okay , so if you flip the circuit board , this is what it looks like .	NO_TOPIC
+A	148.89	So you see for example a particular button attaches to a particular place on the P_C_B_ and uh on pressing this button I a circuit completes , the information goes to the chip , which is somewhere here and the chip that tra then translates the code into an infra infrared radiation , which goes goes out through there .	NO_TOPIC
+C	154.47	Yeah .	NO_TOPIC
+A	171.57	So uh the important point that I read over the website was uh that the configurations of these printed circuit circuit boards uh are quite cheap to make , you can ge get them printed as you want to , so w we can have a configuration um irrespective of the cost , the way we want to have .	NO_TOPIC
+C	183.2	Mm-hmm .	NO_TOPIC
+C	191.52	Mm-hmm .	NO_TOPIC
+A	191.9	Right ?	NO_TOPIC
+A	192.2	So that's the important point here , so these are the different options that we have .	NO_TOPIC
+A	198.6	Okay .	NO_TOPIC
+A	199.57	So the batteries , I'll start with the battery , right ?	NO_TOPIC
+C	203.4	Mm-hmm .	NO_TOPIC
+A	208.6	So they can be simple which is like uh the normal batteries in uh our uh the cells , yeah ?	NO_TOPIC
+C	217.63	Yeah .	NO_TOPIC
+A	218.54	Uh thes these are the kind different kind of batteries that the company makes , right ?	NO_TOPIC
+A	224.19	So .	NO_TOPIC
+A	226.42	And dynamos .	NO_TOPIC
+A	230.49	Um yeah , yeah .	NO_TOPIC
+B	231.06	Does that mean like a wind-up one ?	NO_TOPIC
+A	234.64	So uh I don't know if even if you want to consider this , but these are the different things that the company makes , so th they'll they'll since uh they'll come internally from the company , they'll be eas uh cheaper , uh all these options .	NO_TOPIC
+B	235.93	A wind-up remote .	NO_TOPIC
+C	240.94	Okay .	NO_TOPIC
+C	247.0	Mm-hmm .	NO_TOPIC
+A	247.5	So the third one is uh the kinetic energy ones .	NO_TOPIC
+B	253.36	You could make the hand dynamo into an exercise bike , and then people could exercise whilst watching T_V_ .	NO_TOPIC
+A	257.98	Yeah .	NO_TOPIC
+C	258.01	And charging their remote , yeah .	NO_TOPIC
+B	259.51	Yeah , and stop worrying about the whole R_S_I_ from the remote thing , 'cause that's just Yay .	NO_TOPIC
+A	263.2	Yeah , it's a good option .	NO_TOPIC
+D	264.92	So what was what was this k ka Okay .	NO_TOPIC
+A	265.75	The the kinetic energy one is uh that e uh uh they are usually modern watches , since our hand keeps moving , it keeps the watch ticking .	NO_TOPIC
+C	271.75	Uh yeah .	NO_TOPIC
+A	274.38	But I dunno i if it is a good idea for a remote control , because it'll just lie there for a long while sometimes .	NO_TOPIC
+C	274.4	Mm-hmm .	NO_TOPIC
+C	276.2	For a remote , 'cause you Yeah .	NO_TOPIC
+A	278.95	But as soon as you pick it up it moves and then again it uh re recharges or something .	NO_TOPIC
+D	279.09	Mm-hmm .	NO_TOPIC
+C	283.71	Yeah .	NO_TOPIC
+A	284.42	And the fourth option is the solar cells , which are also made by the company .	NO_TOPIC
+A	290.55	Environment friendly .	NO_TOPIC
+A	292.34	Okay um so I'll list things and then we can come back and discuss what what we think from uh everybody's perspective .	NO_TOPIC
+C	296.85	Yeah .	NO_TOPIC
+A	301.47	There are different cases that can be provided .	NO_TOPIC
+A	304.88	They can be basically the shape of the cases , they can be flat , they can be curved with uh one-sided curved and one side flat , and they can be curved with on both the sides .	NO_TOPIC
+C	309.82	Mm-hmm .	NO_TOPIC
+C	322.42	Mm-hmm .	NO_TOPIC
+A	325.19	These are the three options , right ?	NO_TOPIC
+A	327.42	Um Yeah , would it be flat on both the sides , would be curved from one side , or whatever uh there were different kind of supplements available , um like it can be in plastic , rubber , wood , or titanium , right ?	NO_TOPIC
+D	329.01	Um you mean this would be like the the overall shape of the remote control , yeah , mm-hmm .	NO_TOPIC
+D	335.05	Yeah , mm-hmm , mm-hmm .	NO_TOPIC
+D	337.46	Mm-hmm mm-hmm .	NO_TOPIC
+C	337.49	Mm-hmm .	NO_TOPIC
+C	345.64	Mm-hmm .	NO_TOPIC
+C	346.8	Okay .	NO_TOPIC
+B	347.65	Did you say wool ?	NO_TOPIC
+A	347.91	Wo wo wood .	NO_TOPIC
+C	348.77	Wood , wood .	NO_TOPIC
+B	349.71	Wood .	NO_TOPIC
+A	350.21	Yeah .	NO_TOPIC
+B	350.25	Oh right .	NO_TOPIC
+C	351.25	A fluffy remote .	NO_TOPIC
+A	351.35	Not wool .	NO_TOPIC
+B	352.89	Yeah , you'll understand why when we get to my presenta .	NO_TOPIC
+A	355.43	Oh really ?	NO_TOPIC
+A	356.24	Okay .	NO_TOPIC
+C	357.43	Huh .	NO_TOPIC
+A	357.47	Um the so uh we can use even um a certain titanium is also used uh in the company to make uh uh some space design equipment , so it's kind of um uh it'll be probably nicer to use , because it relates to the overall image of the company , but uh it cannot be used on a double curved surface .	NO_TOPIC
+A	379.48	If we choose this , we cannot use titanium .	NO_TOPIC
+C	381.56	Mm .	NO_TOPIC
+A	381.97	For for these two we can use titanium , wood , rubber , or plastic .	NO_TOPIC
+C	387.93	Mm-hmm .	NO_TOPIC
+A	388.06	Yeah ?	NO_TOPIC
+A	390.01	Uh okay , the interface options now .	NO_TOPIC
+A	392.76	So we can have push-buttons , like most remotes do and our company is an expert in making push-buttons .	NO_TOPIC
+A	404.15	Ooh .	NO_TOPIC
+A	405.04	Uh we can have scroll wheels like the ones on um uh mouse pointers uh uh Yeah , yeah , something like that .	NO_TOPIC
+B	408.06	Sony .	NO_TOPIC
+C	409.83	Mm-hmm .	NO_TOPIC
+B	410.93	Sony Ericsson mobile phones has it .	NO_TOPIC
+B	414.41	Mm .	NO_TOPIC
+A	415.59	So , and they have they can even have an an integrated uh push-button inside the scrolling thing .	NO_TOPIC
+C	420.79	Okay .	NO_TOPIC
+A	421.72	The scroll plus push .	NO_TOPIC
+A	424.6	So this is something that has been recently developed by the company , um in the last decade , so not too recent .	NO_TOPIC
+A	431.78	And L_C_D_s , we can have L_C_D_s .	NO_TOPIC
+A	434.02	So these two are recent and and this is q quite old .	NO_TOPIC
+C	439.16	Mm-hmm .	NO_TOPIC
+A	440.36	The various electronic options are um uh so th this concerns firs first of all the the chips I I showed you at uh so there's there's a chip behind this one , right ?	NO_TOPIC
+A	456.51	The P_C_B_ is uh inexpensive , so we can put put in uh whatever we want , but the various integrated circuit options are , we have either a simple one or a regular or advanced .	NO_TOPIC
+C	461.64	Mm-hmm .	NO_TOPIC
+A	476.9	And uh the price goes up as we go down , obviously .	NO_TOPIC
+C	479.96	Mm-hmm .	NO_TOPIC
+A	484.14	Um okay , so the good thing about uh wh wh why why we would want to use advanced u why we might want to use advanced is that L_C_D_s can only come with the advanced chip .	NO_TOPIC
+C	496.92	Mm-hmm .	NO_TOPIC
+A	497.83	Um the we need regular or advanced for uh scroll wheels .	NO_TOPIC
+A	508.34	Right ?	NO_TOPIC
+A	509.26	Um and the chip basically includes the infra infrared sender .	NO_TOPIC
+C	513.86	Mm-hmm .	NO_TOPIC
+A	514.61	Yeah .	NO_TOPIC
+A	515.29	Uh besides this in electr under electronics uh also the company has started making a sample sender , which is did not explained what i what it was , but I'm guessing that uh so they have a sample sender and a sample speaker .	NO_TOPIC
+A	535.19	So I'm guessing that uh the sample speaker is probably something like um uh you know , as soon as you press a button , it it mm uh give gives you feedback , one five or whatever .	NO_TOPIC
+A	547.27	Yeah , on .	NO_TOPIC
+C	547.33	Mm-hmm .	NO_TOPIC
+A	548.53	Um and uh I dunno whether sample sender sender has to do something with voice recognition or not , but anyway .	NO_TOPIC
+C	556.41	Mm-hmm .	NO_TOPIC
+A	556.93	So , these are the different options that we have .	NO_TOPIC
+A	560.32	Okay , so th that's that's basically now now uh I think that uh we can integrate um uh you know , uh the user interface uh and uh the marketing things in that , keep uh taking out things from this and uh underlining things that are important , yeah .	NO_TOPIC
+C	572.69	Yeah .	NO_TOPIC
+C	575.65	Mm-hmm .	NO_TOPIC
+C	577.73	Excellent .	NO_TOPIC
+C	578.75	Do you wanna stay somewhere near the board , so that if we need to you can sit down , but just we might need you to leap up .	NO_TOPIC
+D	578.93	Okay .	NO_TOPIC
+A	582.01	Yeah , yeah , sure .	NO_TOPIC
+A	583.56	Sure .	NO_TOPIC
+A	584.27	Yeah .	NO_TOPIC
+C	587.76	What are you , PowerPoint , or Okay .	NO_TOPIC
+D	587.82	Okay .	NO_TOPIC
+D	589.96	Um I have some PowerPoint , yeah .	NO_TOPIC
+A	591.65	Right .	NO_TOPIC
+D	595.06	Oh .	NO_TOPIC
+C	620.04	Do you think these pens can give you cancer of the hand ?	NO_TOPIC
+D	620.12	'Kay .	NO_TOPIC
+C	622.41	Some sort of radiation ?	NO_TOPIC
+B	624.88	No it's got its little camera in there , plug it in .	NO_TOPIC
+C	626.69	Yeah .	NO_TOPIC
+D	628.98	Okay .	NO_TOPIC
+B	629.38	'S a Ugly .	NO_TOPIC
+A	629.67	Yeah , it should should do it .	NO_TOPIC
+A	630.75	Yeah .	NO_TOPIC
+C	633.6	Right , interface concept .	NO_TOPIC
+D	635.4	Okay .	NO_TOPIC
+D	636.55	Um to be honest actually , I mentioned some some of the things which which could fit on the on the this talk um this time , I m I mentioned them already in the previous talk .	NO_TOPIC
+C	646.7	That's fine .	NO_TOPIC
+D	647.04	So um yeah , this time um I might not have them on the slides but I I can just mention them aw again .	NO_TOPIC
+C	653.19	Mm-hmm .	NO_TOPIC
+D	655.25	Okay .	NO_TOPIC
+D	657.27	So um I thought um I would also include the definition of user interface um so it's the aspects of a of of a computer system or programme which can be seen uh by the user um and and which uh the mechanisms that the user uses to control its operation and input data .	NO_TOPIC
+D	677.04	So this would p includes things like shape and size and buttons and um voice recognition as well , and colour , and so on .	NO_TOPIC
+C	683.66	Mm-hmm .	NO_TOPIC
+D	685.53	Um um the method I employed this time was a again having a look to related products and mainly on the internet and then um analyse them uh from the point of view of user fen friendliness and also um whether their appearance was was pleasant .	NO_TOPIC
+D	709.83	Um and then um this uh this um this can help us to decide which features we want to incorporate in our product .	NO_TOPIC
+C	719.21	Mm-hmm .	NO_TOPIC
+D	721.88	So some findings um um .	NO_TOPIC
+D	726.42	So in in the case of many user interfaces , they're just so full of buttons that it's actually uh hard to find the ones you you really um want to use and um and it's just confusing , it takes y know time to learn .	NO_TOPIC
+D	741.81	Um okay , and I thought I would just quickly show some of them that I found .	NO_TOPIC
+D	750.82	Okay , some of them are here .	NO_TOPIC
+D	752.99	Um well the picture is not very clear , but as you can see , there are actu oi , oh oh oh , sorry for that .	NO_TOPIC
+D	759.97	'S go back .	NO_TOPIC
+A	762.83	That's nice one .	NO_TOPIC
+D	762.94	Ah , no , please .	NO_TOPIC
+D	767.46	Okay , so yeah , they're quite big and have many many buttons .	NO_TOPIC
+D	771.41	Actually of the of all these I personally p prefer this one , because it's it's the smallest and and with with least uh with the smallest number of buttons as well .	NO_TOPIC
+D	781.68	And I would say even the appearance of some of them is kind of not so nice .	NO_TOPIC
+C	787.09	Mm .	NO_TOPIC
+D	789.21	Um okay .	NO_TOPIC
+D	793.08	So let's carry on with this .	NO_TOPIC
+D	797.83	Um So uh um o other findings um some new things um used , uh some of them were mentioned already by our Technical um Designer uh .	NO_TOPIC
+D	814.15	Our own company has developed a new in user interface uh wait , no this is not the one .	NO_TOPIC
+D	819.61	Okay , there is a we can uh include voice recognition and um it allows i it's possible to record eighty different voice samples on it .	NO_TOPIC
+C	829.72	Mm-hmm .	NO_TOPIC
+A	829.92	Mm .	NO_TOPIC
+D	830.88	Uh so uh this uh this one was already mentioned uh the L_C_ display .	NO_TOPIC
+C	834.99	It's yeah .	NO_TOPIC
+D	836.29	Um s another new development is a scroll button , which was also th also already mentioned .	NO_TOPIC
+D	842.37	And uh our own manufacturing division ha has uh designed a new um uh programmable speech uh mm sorry uh speaker unit I guess it's it should be .	NO_TOPIC
+C	858.02	Yeah .	NO_TOPIC
+D	858.29	Um and this means that um once uh uh it it it comes together with a voice recognition , but it's once once the mm um gadget uh recognises uh the voice of the speaker , there can be a um pre-programmed answer , for example , you can pick up the remote control and say something to it like hello and it says some hello and your name or whatever .	NO_TOPIC
+C	879.93	Uh-huh , hi yeah .	NO_TOPIC
+D	882.49	So I mean this is also one of the n dev new developments which we might consider if we wanted to include .	NO_TOPIC
+A	882.64	Mm .	NO_TOPIC
+A	888.74	Uh sorry , uh can you go back for a second ?	NO_TOPIC
+A	890.96	Um uh are you sure wha what this means , a spinning wheel with the L_C_ display ?	NO_TOPIC
+A	895.69	Uh oh yeah are th Oh okay , the iPod thing , yeah .	NO_TOPIC
+C	896.38	It's like the like you said , no ?	NO_TOPIC
+C	898.69	The scroll scroll wheel .	NO_TOPIC
+B	899.87	Yeah , you can't Oh , it's like the iPod .	NO_TOPIC
+D	900.14	No no , the scroll button is a different thing .	NO_TOPIC
+D	902.31	I I have a picture if you just a moment , I'll I'll show you .	NO_TOPIC
+D	907.28	I wasn't completely sure myself , but I think it's just like um it's it's a wheel , it's like not separate buttons .	NO_TOPIC
+D	915.17	Look , this one here .	NO_TOPIC
+D	916.7	But I'm I'm not really sure whether whether you can really turn it round , it's like you press this or this or Uh-huh .	NO_TOPIC
+B	920.23	G yeah , no , you can .	NO_TOPIC
+A	921.33	Uh it's the iPod uh kind of uh Alright , right .	NO_TOPIC
+B	921.64	It's like it's like where you you know how you have your your mouse , and y you go round and i it's kind of like that and you spin round and it yeah .	NO_TOPIC
+C	926.13	Uh-huh .	NO_TOPIC
+A	929.48	Okay , okay .	NO_TOPIC
+A	931.88	So instead of going down you just spin yeah , yeah .	NO_TOPIC
+B	931.91	It is You just go round and it is a bit weird at first , but it's actually very like fast .	NO_TOPIC
+C	934.42	Mm-hmm .	NO_TOPIC
+A	938.83	Uh-huh .	NO_TOPIC
+C	939.02	Mm-hmm .	NO_TOPIC
+B	939.42	I like the the wheels that click on the side you you get 'em much slower , so it's quite good if you like searching quite a lot of stuff .	NO_TOPIC
+C	945.69	Mm-hmm .	NO_TOPIC
+A	945.72	Right .	NO_TOPIC
+B	946.17	Do you know , if you're lookin if you're th scrolling through the A_ to Z_ of your music and you're looking for something at T_ , then it's a lot faster than the wheel , but you've got a lot less control over it .	NO_TOPIC
+A	950.86	Mm-hmm .	NO_TOPIC
+C	954.57	Mm-hmm .	NO_TOPIC
+A	954.58	Right .	NO_TOPIC
+A	954.84	So maybe I should include that here as well , L_C_D_s um plus spinning .	NO_TOPIC
+D	955.47	Mm .	NO_TOPIC
+C	957.6	Yeah .	NO_TOPIC
+D	958.96	Uh Okay , and the personal preferences are pretty much the same as as as last time .	NO_TOPIC
+C	962.28	Yeah .	NO_TOPIC
+C	968.6	Mm-hmm .	NO_TOPIC
+D	968.71	It it has to be small , simple .	NO_TOPIC
+D	971.29	Okay , we decided to include voice recognition , so to have the standard uh major buttons like on , off , um ch the channels and and then um volume and then the rest would be a menu on the screen .	NO_TOPIC
+D	985.92	Um and I I also thought uh if we want to keep it small and nice um and actually I I quite like the idea of a scroll a scrolling button , I thought it could be for for voice like , I dunno , it mm like on a um i like it used to be on Walkmans or something .	NO_TOPIC
+D	1003.53	There is uh I think there is no reason why we couldn't use something like this for for the remote control .	NO_TOPIC
+A	1008.74	Mm-hmm .	NO_TOPIC
+C	1008.93	Mm-hmm .	NO_TOPIC
+D	1010.45	So yeah , that's uh that's it .	NO_TOPIC
+C	1012.28	Excellent .	NO_TOPIC
+C	1013.84	Okay , straight to trends , and then we can discuss it all at once .	NO_TOPIC
+A	1016.98	Right .	NO_TOPIC
+B	1025.65	Okay , I've put the copy of the presentation in um the yeah .	NO_TOPIC
+C	1029.49	The project documents .	NO_TOPIC
+C	1031.59	Excellent .	NO_TOPIC
+C	1032.45	If you two could both do that as well , in case we need to refer to it .	NO_TOPIC
+A	1033.93	Mm-hmm .	NO_TOPIC
+B	1050.6	Cool .	NO_TOPIC
+C	1058.13	Here it comes .	NO_TOPIC
+C	1068.72	Okay .	NO_TOPIC
+B	1070.44	Fabulous .	NO_TOPIC
+B	1071.84	Okay , cool .	NO_TOPIC
+B	1073.29	Um so what I did was to search the internet to come up with market trends and you know what users are gonna be wanting in the the near future .	NO_TOPIC
+C	1081.54	Mm-hmm .	NO_TOPIC
+B	1082.74	Okay .	NO_TOPIC
+B	1084.6	Right .	NO_TOPIC
+B	1085.04	Now , the first aspect is apparently twice as important as the second aspect , which is twice as important as the third a aspect .	NO_TOPIC
+C	1092.01	Okay .	NO_TOPIC
+B	1092.37	So , I mean the the easy to use thing is fairly low down on the which I think given the target group is what you would expect , really .	NO_TOPIC
+A	1096.57	Mm-hmm .	NO_TOPIC
+C	1100.58	Mm-hmm .	NO_TOPIC
+B	1101.75	Um , you know , people want something new , something technologically innovative and different , so the whole idea with the L_C_D_s and the spinning and the colours and the voice recognition is quite like , quite the thing to go for .	NO_TOPIC
+C	1114.41	Mm-hmm .	NO_TOPIC
+A	1114.67	Okay .	NO_TOPIC
+B	1114.8	And um , yeah it wants to look fancy , fancy look and feel .	NO_TOPIC
+A	1119.48	So um uh maybe uh as you're discussing things , is it okay if we just uh keep highlighting things here ?	NO_TOPIC
+B	1119.64	So Yeah , yeah .	NO_TOPIC
+C	1123.96	Yeah , yeah , sure .	NO_TOPIC
+C	1125.71	Yeah .	NO_TOPIC
+A	1126.43	Right .	NO_TOPIC
+A	1126.96	So mm uh so it yeah , so probably voice recognition is is kind of important , right ?	NO_TOPIC
+C	1127.73	That's over on the interface , if if you could put Yeah .	NO_TOPIC
+A	1135.38	Um and an yeah .	NO_TOPIC
+C	1135.74	And maybe the L_C_D_ and spinning so that means we need an advanced thing .	NO_TOPIC
+A	1138.64	Okay , I I have a point about L_C_D_ , I dunno if it is the right point to take it up .	NO_TOPIC
+A	1143.3	W uh L_C_D_s are basically for feedback , right , to the user who's pressing buttons , and the feedback can come through television itself , so do we need an L_C_D_ on the remote ?	NO_TOPIC
+C	1146.01	Mm-hmm .	NO_TOPIC
+B	1146.67	Mm .	NO_TOPIC
+B	1152.49	Depends how fast your television runs , really , don't don't you think ?	NO_TOPIC
+B	1155.86	I mean we've got one of those um Telewest boxes and you put the number in the remote and then you wait and then it goes to the T_V_ and then you wait , and then it comes , so i it actually takes quite a long time .	NO_TOPIC
+A	1159.03	Mm .	NO_TOPIC
+C	1165.67	Mm .	NO_TOPIC
+B	1165.98	And if you get the number in wrong , then it's a bit of a pain , so I think , you know , a screen on the remote would probably cut down your time on that .	NO_TOPIC
+A	1166.78	Right .	NO_TOPIC
+B	1173.7	But like remotes do tend to get f thrown about a bit .	NO_TOPIC
+A	1176.47	Right .	NO_TOPIC
+C	1176.57	It it is also quite nice though to to have something here so you don't interrupt the picture on the screen , so if you're watching something Yeah .	NO_TOPIC
+B	1177.32	You know ?	NO_TOPIC
+B	1181.89	Yeah .	NO_TOPIC
+A	1182.8	That's true , yeah , that's also Right .	NO_TOPIC
+B	1183.49	And i it would be like I mean if you could make it integrate with the T_V_ then it could come up with new information about what's on , and you could just see that on the remote rather than Yeah .	NO_TOPIC
+C	1191.33	Rather than having to interrupt your viewing pleasure .	NO_TOPIC
+B	1194.24	But um I think maybe a way to do it would be a similar way to how you have your mobile phone , you know , like you have the slidey ones and you have the flippy ones and then the screen's protected so it doesn't actually get scratched .	NO_TOPIC
+C	1203.22	Mm .	NO_TOPIC
+A	1204.55	Mm-hmm .	NO_TOPIC
+B	1204.91	So you can have like what looks like a normal remote control , you know or like a minimalist remote control .	NO_TOPIC
+C	1208.34	Yeah .	NO_TOPIC
+B	1209.98	So you got your buttons one to nine , your on and off and your volume on that and then if you want to mess about with it , you flip it open and , yeah .	NO_TOPIC
+A	1212.34	Mm right .	NO_TOPIC
+C	1214.16	And then you can flip it open .	NO_TOPIC
+A	1218.01	Okay .	NO_TOPIC
+A	1219.03	So now we seem to have a consensus that L_C_D_s are definitely the way to go because of style and Right .	NO_TOPIC
+C	1222.56	Yeah , I think so .	NO_TOPIC
+B	1224.12	Yeah , so that kind of decides your whole chip thing .	NO_TOPIC
+C	1226.81	Yeah .	NO_TOPIC
+A	1228.05	You you agree ?	NO_TOPIC
+A	1229.21	Maarika , yeah ?	NO_TOPIC
+D	1229.24	Yep , yeah .	NO_TOPIC
+A	1229.97	Yeah .	NO_TOPIC
+C	1231.32	Right .	NO_TOPIC
+A	1232.18	So L_C_D_s , yeah , definitely .	NO_TOPIC
+B	1232.81	Okay ?	NO_TOPIC
+A	1235.61	Go on .	NO_TOPIC
+B	1236.88	Cool .	NO_TOPIC
+B	1238.01	Okay , apparently , fruit and vegetables will be providing inspiration .	NO_TOPIC
+B	1241.9	Sorry , I discovered clip art .	NO_TOPIC
+B	1245.6	Um so these will be an important feature for clothes , shoes and furniture .	NO_TOPIC
+B	1250.25	So I mean , I'm taking this to mean , you know , curviness .	NO_TOPIC
+B	1255.06	Do you know ?	NO_TOPIC
+B	1255.52	'Cause you don't tend to get flat vegetables .	NO_TOPIC
+C	1257.38	Yeah , and possibly even uneven , like not not symmet yeah .	NO_TOPIC
+A	1257.95	Mm-hmm .	NO_TOPIC
+B	1258.08	You know ?	NO_TOPIC
+B	1259.67	Yeah , bit of asymmetry and stuff .	NO_TOPIC
+B	1261.93	But that would be a good way to to get in the whole um R_S_I_ issue in there , because I mean if you think most people use the remote control with their right hand ha right hands so you wanna you curve it so that it's suitable for use with the right hand .	NO_TOPIC
+C	1268.46	Mm-hmm .	NO_TOPIC
+A	1268.75	Right .	NO_TOPIC
+D	1276.5	Mm-hmm .	NO_TOPIC
+A	1277.89	Mm .	NO_TOPIC
+C	1278.0	Mm-hmm .	NO_TOPIC
+B	1278.19	Um yeah , I'm not quite sure about the relevance of material will be spongy .	NO_TOPIC
+B	1283.55	Um Yeah , but I mean y you have to Well I suppose you wouldn't get a remote uh an electric shock off your remote control if it was made of rubber .	NO_TOPIC
+C	1283.74	Something a bit squishy and Yeah , and it'd help if you drop it , it protects it as well .	NO_TOPIC
+A	1287.16	Yeah , we we have we have rubber , but there is a problem that I forgot to discuss with the um with using So if if we use uh latex cases , they won't allow us to use solar cells , as an energy source that is the constraint , so um we could use titanium , wood or plastic uh or uh Yeah , w energy source .	NO_TOPIC
+D	1287.3	So it could be like a rubbery yeah , uh-huh .	NO_TOPIC
+B	1307.85	Yeah , yeah .	NO_TOPIC
+C	1308.85	To some degree .	NO_TOPIC
+C	1317.44	Uh-huh .	NO_TOPIC
+C	1326.29	Or if we want to use the the latex , then we have to go with one of the other um power things .	NO_TOPIC
+B	1332.0	If it's made of rubber you could get the kinetic energy fairly easily there , you could just bounce it up and down .	NO_TOPIC
+C	1335.36	From from bouncing it .	NO_TOPIC
+A	1336.31	Yeah , tap it on the desk , yeah .	NO_TOPIC
+C	1337.91	You can have it as like a little ball to bounce , that flips open .	NO_TOPIC
+B	1340.68	Yeah .	NO_TOPIC
+B	1343.31	Um so yeah , um okay .	NO_TOPIC
+A	1343.84	Mm .	NO_TOPIC
+A	1346.15	So probably double curved surface is the way to go , yeah , .	NO_TOPIC
+B	1349.97	Yeah , yeah .	NO_TOPIC
+C	1350.23	Mm yeah .	NO_TOPIC
+A	1351.75	Or or curved at one end and flat on the top , because I I'm not sure if it is flat on both both the sides , then ho how much easy would it be to reach for buttons , etcetera .	NO_TOPIC
+A	1361.92	Um Yeah .	NO_TOPIC
+B	1362.77	You have to have a certain element of flatness , I think .	NO_TOPIC
+B	1365.39	It it depends on the whole ergonomics of it , you know , it's like how you put your hands so y it's the least movement basically .	NO_TOPIC
+A	1371.04	Yeah .	NO_TOPIC
+A	1371.37	Yeah , singe single side curved or double side curved does not say too much , does it ?	NO_TOPIC
+C	1372.5	Uh-huh .	NO_TOPIC
+A	1376.2	It uh Mm .	NO_TOPIC
+B	1376.21	No , I d I don't think it makes a lot of difference .	NO_TOPIC
+B	1379.37	I I have one of those s slidey phones and I mean the back is essentially straight , but it's curvy , so .	NO_TOPIC
+C	1384.09	Mm .	NO_TOPIC
+B	1386.8	Besides , you have four sides to a thing , so I mean does curved one side mean one side is straight and , you know curved two sides means the whole thing is just a big curvy p thing ?	NO_TOPIC
+C	1386.8	Yeah , 'cause the Yeah .	NO_TOPIC
+A	1386.92	Uh I think uh Right .	NO_TOPIC
+A	1397.46	Right .	NO_TOPIC
+C	1397.92	Dunno .	NO_TOPIC
+A	1398.03	Di now did it say anywhere in your research material about this sliding stuff uh because um according to the information that I have , I think uh the onl only options that we have with the case is are these three .	NO_TOPIC
+B	1410.24	Yeah .	NO_TOPIC
+A	1410.26	Uh eith either we have uh a flat surfaced uh case or a curved surfaced case .	NO_TOPIC
+A	1415.19	It does not say anything about uh whether technically , you know , this this stuff is available at all .	NO_TOPIC
+C	1415.35	Nothing to open them .	NO_TOPIC
+B	1419.84	Yeah .	NO_TOPIC
+B	1420.41	Uh it's it's more about the protecting the L_C_D_ , which I think is where it came from .	NO_TOPIC
+A	1423.47	Right , yeah , yeah .	NO_TOPIC
+B	1425.44	But no , my research didn't tell me anything , which is why we have all the pictures , 'cause I had nothing better to do with my time .	NO_TOPIC
+A	1430.01	Right .	NO_TOPIC
+A	1431.14	Okay .	NO_TOPIC
+B	1431.36	Okay , cool .	NO_TOPIC
+C	1431.98	Anything else ?	NO_TOPIC
+C	1432.85	What've we got ?	NO_TOPIC
+B	1433.61	Uh combine style with a level of functionality , um beauty and practicality and a thing of beauty and p function .	NO_TOPIC
+C	1441.71	Okay , so .	NO_TOPIC
+A	1441.76	Cool , thanks .	NO_TOPIC
+B	1442.55	Okay ?	NO_TOPIC
+D	1443.63	Thanks Yeah uh-hum yeah .	NO_TOPIC
+C	1445.78	Looking at what we've got , we we want an L_C_D_ display with a spinning wheel .	NO_TOPIC
+A	1450.59	Yeah .	NO_TOPIC
+A	1451.62	Let's let's try to r rub off things and yeah , so um hand dynamos are definitely out , right ?	NO_TOPIC
+C	1453.65	Yeah , rub off some of those .	NO_TOPIC
+A	1460.3	You you got a wind dynamo , yeah .	NO_TOPIC
+C	1460.78	Yeah , it's not that's not streamlined and sexy , having a having a wind up .	NO_TOPIC
+A	1464.73	Okay .	NO_TOPIC
+A	1466.24	Um kinetic energy does seem to have some kind of uh uh appeal , but uh it's Yeah .	NO_TOPIC
+C	1470.53	I think tha Depends how much how much movement it really needs .	NO_TOPIC
+B	1473.75	It's about the practicality of it really , isn't it ?	NO_TOPIC
+B	1475.81	You know ?	NO_TOPIC
+A	1476.46	As against a watch , which constantly keeps moving , this this thing will have to be tapped every time , which which might be very frustrating for the user .	NO_TOPIC
+B	1476.51	I mean if I can't imagine a m wooden remote control .	NO_TOPIC
+A	1486.12	Kinetic energy it needs I don't have too much technical information on that , yeah , right .	NO_TOPIC
+C	1488.09	Pr presumably if they're suggesting it , then we could use it .	NO_TOPIC
+A	1492.66	Okay , let's keep it option uh keep an option , yeah .	NO_TOPIC
+C	1493.31	I'd I'd keep it on .	NO_TOPIC
+A	1495.03	Um the flat co completely flat case is definitely out , right ?	NO_TOPIC
+C	1499.1	We don't want that it's no it's not not vegetable .	NO_TOPIC
+A	1499.49	It has to be at least curved from one side , yeah .	NO_TOPIC
+D	1499.57	Yeah it's yeah .	NO_TOPIC
+A	1504.39	Um okay , we still have all all the options .	NO_TOPIC
+A	1508.98	Wood , do you think wood will be a good idea ?	NO_TOPIC
+D	1510.4	N wood is I can't n how do you uh I mean you can't keep it really small uh you can't make it like thin and The wood thing .	NO_TOPIC
+A	1515.91	Mm .	NO_TOPIC
+A	1518.71	Right .	NO_TOPIC
+C	1519.65	Mm .	NO_TOPIC
+D	1520.03	Because you need to you n you need to put all the technology in , so I mean if the case you add the case and it it becomes a bit bulky wi mm-mm yeah .	NO_TOPIC
+A	1526.12	Yeah if if it is really thin if it is really thin it it's likely to break , it's it's much more uh Right .	NO_TOPIC
+C	1529.3	Mm .	NO_TOPIC
+D	1531.6	Yeah , yeah .	NO_TOPIC
+C	1533.12	Yeah , and given that we're we're looking at more spongy material preferences , I ha would think maybe rubber or plastic is more Yeah .	NO_TOPIC
+D	1533.2	Yeah .	NO_TOPIC
+D	1539.47	U yeah wood is not really yeah .	NO_TOPIC
+B	1541.6	Well it's not very cleanable either , do you know .	NO_TOPIC
+A	1543.86	That's true .	NO_TOPIC
+D	1543.99	Yeah .	NO_TOPIC
+B	1544.86	It's it's not a practical I mean it's it's alright for a table , but for a remote control , you know .	NO_TOPIC
+A	1550.35	Yeah .	NO_TOPIC
+B	1551.0	And splinters and stuff and It just m doesn't make any sense , I think is the thing with wood .	NO_TOPIC
+A	1552.69	Yeah , okay wood is out .	NO_TOPIC
+C	1553.24	Yeah .	NO_TOPIC
+A	1556.79	Right .	NO_TOPIC
+D	1556.79	Yeah , yeah , in the case of remote control not really .	NO_TOPIC
+C	1559.75	Yeah .	NO_TOPIC
+A	1560.47	Okay , now for the really interesting stuff , the interface .	NO_TOPIC
+C	1564.17	Yeah .	NO_TOPIC
+A	1564.31	Right , so uh the the push-buttons is is our expertise uh in the industry , but uh it seems to be out of trend , you know , nobody seems to be Mm right .	NO_TOPIC
+B	1574.88	You have to have some push-buttons , don't you ?	NO_TOPIC
+D	1575.12	Yeah , but you um I think for for the channel numb uh channel numbers you still need them , wouldn't you ?	NO_TOPIC
+C	1580.22	Mm-hmm .	NO_TOPIC
+B	1580.84	G yeah , yeah .	NO_TOPIC
+D	1581.99	Yeah , so for channel numbers but But I th yeah but I think the L_C_D_ display is kind of yeah , it's faster with a m yeah and w if we dis and when we s um discussed that we might like this flipping open thing , then I mean y you can use it as a normal remote control , but if you do want to use L_C_D_ , then you flip it open , but it's it it's more time-consuming .	NO_TOPIC
+A	1583.52	Oh , if if we have L_C_D_ displays , that opens up a whole world , you know , if you have an L_C_D_ display , then mm you can select almost everything on the L_C_D_ display .	NO_TOPIC
+C	1592.92	Just for fast Yeah .	NO_TOPIC
+A	1601.12	Right .	NO_TOPIC
+A	1603.95	Okay .	NO_TOPIC
+C	1604.05	Yeah .	NO_TOPIC
+B	1607.52	Yeah .	NO_TOPIC
+C	1608.06	Yeah .	NO_TOPIC
+B	1608.79	I think this is going back to the the graph at the beginning that I made , where , you know , the buttons that people use all the time , you want buttons for them and everything else menu-driven .	NO_TOPIC
+A	1615.62	Mm right .	NO_TOPIC
+D	1615.86	Yeah .	NO_TOPIC
+C	1616.22	And it yeah L_ L_C_D_ .	NO_TOPIC
+A	1618.78	So uh in in the buttons we have for the channels also we have options .	NO_TOPIC
+A	1622.72	Do you do we enumerate everything from zero to nine ?	NO_TOPIC
+A	1625.81	Or do we have just uh channel plus , channel minus , just to just to scroll ?	NO_TOPIC
+D	1629.17	No , no , I mean mm we we definitely need the the numbers , because it's uh otherwise people don't want to flip through all the channels .	NO_TOPIC
+A	1632.75	The numbers .	NO_TOPIC
+B	1633.73	Yeah .	NO_TOPIC
+B	1636.77	Yeah .	NO_TOPIC
+C	1636.91	Do we need them on as buttons or do we need them as L_C_D_ ?	NO_TOPIC
+A	1637.07	Right .	NO_TOPIC
+D	1637.31	Um Yeah , I would say buttons , because it's yeah .	NO_TOPIC
+A	1638.88	Or on the L_C_D_ we can , you know Okay .	NO_TOPIC
+B	1641.57	G yeah , I would think buttons , yeah .	NO_TOPIC
+C	1644.38	Buttons .	NO_TOPIC
+B	1645.68	It's it's the I think the thing is , so if someone just wants to turn on their T_V_ and put on a channel , then it should be easier to use than any other remote , and then if someone wants to , you know , change the contrast on their T_V_ and they should be able to do that and it should be accessible , but , you know , I mean most of the time I mean there's a limit to how much the biggest techno geek can spend fiddling with the T_V_ , I think is the the the issue there .	NO_TOPIC
+D	1646.57	I Yeah .	NO_TOPIC
+A	1646.86	So mm Alright .	NO_TOPIC
+C	1650.03	Mm .	NO_TOPIC
+C	1652.13	Yeah .	NO_TOPIC
+D	1663.85	Mm-hmm .	NO_TOPIC
+C	1670.8	Yeah .	NO_TOPIC
+A	1670.97	Right .	NO_TOPIC
+A	1674.04	Okay , so buttons definitely in but oh shall we uh try to draw a prec um Uh okay .	NO_TOPIC
+C	1680.66	I think that's what you guys are gonna do next , so if we put down the key um things that we want .	NO_TOPIC
+A	1685.42	Okay , okay , so the components .	NO_TOPIC
+D	1686.55	Yeah .	NO_TOPIC
+A	1688.17	Right , so uh what about the the scrolling uh ?	NO_TOPIC
+D	1692.81	Yeah but n I I'm not completely um completely clear uh I yeah , about the spinning wheel .	NO_TOPIC
+D	1699.05	So I think it it doesn't make sense to have both like a scrolling and spinning thing , it's uh you can al include everything in the spinning if you yeah , yeah , in that case .	NO_TOPIC
+B	1703.18	E either or G yeah .	NO_TOPIC
+C	1707.28	Just spinning and not scrolling , I would say .	NO_TOPIC
+B	1709.19	I would say the s the s the spinning goes at a high speed to th to the scrolling wheel , so you have to decide whether you you know , you want to be going so fast or not .	NO_TOPIC
+C	1712.24	Yeah .	NO_TOPIC
+B	1718.13	But I mean the the thing with this whole if y you're planning on making it out of rubber , on the basis that it's spongy , then I'm not sure how well a scrolling wheel would work .	NO_TOPIC
+C	1724.36	Hmm .	NO_TOPIC
+A	1726.5	Mm um I'm not sure it'll be a good idea to construct the whole thing out of rubber .	NO_TOPIC
+C	1726.82	But if you've got a if if you've got a flipped thing , effectively it's something that's curved on one side and flat on the other side , but you folded it in half .	NO_TOPIC
+D	1728.2	Ah , but I mean you can Yeah , I um I think so too , I mean the case would be yeah the case would be rubber and the the buttons , rubber buttons , but then Yeah .	NO_TOPIC
+B	1734.85	Yeah , but y your spinning wheel tends to go to one side .	NO_TOPIC
+C	1736.64	Th that would be on one side , uh-huh .	NO_TOPIC
+A	1743.12	Uh i it Or or at the corners , edges , just the edges covered by rubber or something like that .	NO_TOPIC
+C	1743.19	No , I think it's just the casing rubber on the outside .	NO_TOPIC
+B	1745.34	You want an outside of rubber and then open it up and Or maybe like interchangeable cases .	NO_TOPIC
+C	1748.07	Yeah .	NO_TOPIC
+C	1751.16	Yeah .	NO_TOPIC
+A	1751.66	Everything else in plastic or even titanium if we want to use it .	NO_TOPIC
+A	1757.92	Mm-hmm .	NO_TOPIC
+B	1758.55	'Cause I know like we're going back to iPods again n the whole spinning wheel , but I have like a you know , obviously my iPod's not made of rubber , but then I have a little rubber case that goes over the top of it and I can change the colour , theoretically , to match my outfit .	NO_TOPIC
+A	1769.4	Right , right .	NO_TOPIC
+C	1769.5	Mm .	NO_TOPIC
+A	1775.09	Right , okay , so so that gives us a more trendy look as well .	NO_TOPIC
+A	1779.47	Um Right .	NO_TOPIC
+B	1779.56	Yeah , I think the spinning wheel is definitely very now .	NO_TOPIC
+C	1783.24	Mm-hmm .	NO_TOPIC
+A	1783.69	Yeah , and uh we're going more for the trends than for the usability anyway , right ?	NO_TOPIC
+D	1783.82	Mm-hmm .	NO_TOPIC
+C	1786.78	That's right , that's what they're after .	NO_TOPIC
+B	1787.25	Yeah .	NO_TOPIC
+A	1788.64	So I'll rub that out .	NO_TOPIC
+A	1793.59	And uh colours can be provided with the case rather than Um but we still need to te think about the colour of our remote as such , you know , just keep it black , or Mm .	NO_TOPIC
+C	1798.17	Mm-hmm .	NO_TOPIC
+D	1802.24	Yeah I think we um it was a a requirement that we use our um th the colours of our company , so would it be like yellow , grey and black or something , or Yeah , does Yeah .	NO_TOPIC
+C	1811.55	I guess .	NO_TOPIC
+B	1811.91	That doesn't fit in with the whole vegetable theme though .	NO_TOPIC
+C	1814.96	Bananas .	NO_TOPIC
+D	1815.96	Banana's yellow , yeah , definitely .	NO_TOPIC
+B	1817.42	Yeah , but I mean do you think we could incorporate the colours of the company into the buttons and then make the colour of the main remote the colour like vegetable colours , do you know ?	NO_TOPIC
+B	1826.51	So you could have like I mean I suppose vegetable colours would be orange and green and some reds and um maybe purple and that and then you'd pick the buttons in company colours to to match with it .	NO_TOPIC
+C	1826.65	Mm-hmm .	NO_TOPIC
+C	1830.18	Green .	NO_TOPIC
+C	1833.39	Yeah .	NO_TOPIC
+A	1841.2	Okay .	NO_TOPIC
+A	1842.22	Um okay , if you g go over to uh the integrated circuits .	NO_TOPIC
+A	1846.73	Uh since we're having L_C_D_s there there's no way that we're will be able to um what we do need to consider , however , is that the price is going up for the ever every such thing that we are considering , but since L_C_D_s seems to be uh a definite yes , so it seems to be one area where we would want to spend .	NO_TOPIC
+C	1848.42	We need the advanced yeah .	NO_TOPIC
+C	1857.04	Yeah .	NO_TOPIC
+C	1860.84	Yeah .	NO_TOPIC
+A	1865.35	So I'll rub off the other two .	NO_TOPIC
+C	1866.42	Mm-hmm .	NO_TOPIC
+B	1868.86	So are we discounting solar energy because rubber's gonna be used in there somewhere or If solar panels with the rubber .	NO_TOPIC
+C	1874.58	That was the We can't have solar panels with rubber , so .	NO_TOPIC
+A	1875.75	Oh is oh the constraint was uh yeah .	NO_TOPIC
+A	1880.32	Yeah .	NO_TOPIC
+A	1881.5	So I think uh we'll have uh uh using the simple battery will be a safer option as compared to the kinetic energy one , I mean , a although it does seem uh interesting .	NO_TOPIC
+B	1882.36	Yeah , okay , so we lose that I think .	NO_TOPIC
+C	1886.54	Shall we go for if we're going for rubber , we think uh on as our case , and then Yeah .	NO_TOPIC
+D	1891.69	Mm-hmm .	NO_TOPIC
+D	1893.01	And the buttons as well , I think .	NO_TOPIC
+D	1895.17	Yeah .	NO_TOPIC
+C	1897.89	We've got five more minutes .	NO_TOPIC
+C	1906.68	Mm-hmm .	NO_TOPIC
+B	1910.07	Yeah .	NO_TOPIC
+C	1910.1	Yeah .	NO_TOPIC
+A	1910.17	But it does not hold any advantages as such for a yeah .	NO_TOPIC
+C	1911.88	Yeah , mm-hmm .	NO_TOPIC
+B	1912.21	It's just a gimmick .	NO_TOPIC
+A	1918.05	Okay .	NO_TOPIC
+A	1919.11	Uh okay , so r we understand this better now that uh the the speaker is for the feedback , right ?	NO_TOPIC
+C	1924.06	Mm-hmm .	NO_TOPIC
+A	1924.28	It it says uh the things that you type in or something like that , so Ye yeah , we we don't have too much information about it , um Yeah , okay , so so th this is in as well then , the sample speaker .	NO_TOPIC
+C	1927.44	Yeah .	NO_TOPIC
+C	1928.44	I think if we can if we can include them at not too much extra cost , then I'd put them in , but if it's Yeah .	NO_TOPIC
+D	1936.93	Yeah , but it it I think it should be quite cheap because it's from our own company , yeah .	NO_TOPIC
+C	1940.35	It's from the company , so Yeah .	NO_TOPIC
+C	1948.29	Okay .	NO_TOPIC
+A	1948.78	Right .	NO_TOPIC
+C	1949.68	And the case is curved on one side , but then flat flat , so it's flipped into each other .	NO_TOPIC
+A	1952.64	Flat on the top .	NO_TOPIC
+D	1955.6	Mm-hmm .	NO_TOPIC
+A	1955.82	Yeah .	NO_TOPIC
+A	1960.77	Okay .	NO_TOPIC
+C	1964.82	Can I pull the thing out the back of your computer ?	NO_TOPIC
+B	1966.6	Yeah , sure j Sorry , do you want me to What does um I_C_S_ mean ?	NO_TOPIC
+C	1974.48	Just so we can Nothing , it's right , I'm just There we go .	NO_TOPIC
+A	1992.97	I_C_s ?	NO_TOPIC
+A	1993.88	Uh integrated circuits .	NO_TOPIC
+B	1995.52	Okay , cool .	NO_TOPIC
+B	1997.51	So it's advanced integrated circuits ?	NO_TOPIC
+A	1999.88	Yeah .	NO_TOPIC
+C	2000.34	Uh oh now I've gone too far .	NO_TOPIC
+A	2004.74	Uh um we we're definitely going in for voice recognition as well as L_C_D_s , mm .	NO_TOPIC
+D	2009.21	Yeah .	NO_TOPIC
+C	2009.86	Yeah .	NO_TOPIC
+C	2015.88	We're on our way .	NO_TOPIC
+C	2031.43	Okay .	NO_TOPIC
+C	2033.15	So we've basically worked out that we're going with a simple battery , the advanced chip and a curved on one side case which is folded in on itself , um made out of rubber and the buttons are also rubber .	NO_TOPIC
+A	2041.3	Right .	NO_TOPIC
+A	2046.7	Yep .	NO_TOPIC
+C	2053.11	We're having push-buttons on the outside and then on the inside an L_C_D_ with spinning wheel , and we're incorporating voice recognition .	NO_TOPIC
+C	2062.15	That's our overall concept , and it's gonna look sort of vegetable , and be in bright vegetable colours .	NO_TOPIC
+D	2064.22	Um Uh-huh .	NO_TOPIC
+D	2070.58	So w w would with have the spinning wheel inside with the L_C_D_ , or would it be on the outer Okay .	NO_TOPIC
+C	2076.82	I think it's on the Mm-mm .	NO_TOPIC
+B	2076.98	Imagine it would be inside .	NO_TOPIC
+B	2079.3	So um actually that could like really cut down your thing , so you've got your outside , which is like minimalist , and then you open it up and you've got a screen and a spinning wheel , which you can incorporate buttons into .	NO_TOPIC
+A	2080.79	Mm .	NO_TOPIC
+D	2086.7	Mm-hmm .	NO_TOPIC
+D	2088.56	Yeah , okay .	NO_TOPIC
+D	2092.99	Mm-hmm .	NO_TOPIC
+B	2093.59	Um so you've still not got like a lot of stuff in the You've maybe got , you know like if you're modelling on iPod you've got five buttons and a wheel , and four of the buttons are in the wheel , and the other one's the little bit inside the wheel , yeah .	NO_TOPIC
+C	2094.82	Yeah .	NO_TOPIC
+C	2098.36	On the Mm-hmm .	NO_TOPIC
+C	2109.6	In the centre , yeah , sure .	NO_TOPIC
+D	2110.96	Mm yeah .	NO_TOPIC
+C	2112.66	Okay , so now we've got thirty minutes before our next meeting .	NO_TOPIC
+C	2117.11	In the meantime , the Industrial Designer over here is gonna work on the look and feel design , which I'll presume he'll work out what that means .	NO_TOPIC
+A	2123.18	Mm-hmm .	NO_TOPIC
+C	2126.33	Um the User Interface Designer will work on the user interface design and the Marketing Expert is going to work on product evaluation .	NO_TOPIC
+C	2137.41	And as well as that , the two designers are going to work together on our prototype following those instructions that we've just come up with using modelling clay and you will get extra instructions from your personal coach .	NO_TOPIC
+D	2148.88	Mm-hmm .	NO_TOPIC
+A	2150.85	Cool .	NO_TOPIC
+C	2152.97	Is that all okay ?	NO_TOPIC
+C	2153.86	And anyone who hasn't put their their presentation in the project documents folder , it would be good just so in case we have to refer to it .	NO_TOPIC
+D	2154.25	Yeah .	NO_TOPIC
+A	2157.36	Yeah , okay .	NO_TOPIC
+D	2159.25	Mm-hmm .	NO_TOPIC
+B	2165.77	Cool , I'm gonna go and sit on my own .	NO_TOPIC
+C	2168.84	Y ah nobody wants to talk to you .	NO_TOPIC
+B	2170.82	I know , I'm hated .	NO_TOPIC
+C	2171.42	Unplug yourself .	NO_TOPIC
+D	2172.47	Hmm .	NO_TOPIC
+B	2173.7	I've got a bit tangled up in all this .	NO_TOPIC

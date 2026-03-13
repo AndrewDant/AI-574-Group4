@@ -1,0 +1,527 @@
+B	35.7	Mm uh .	agenda/equipment issues
+D	42.15	We're the first .	agenda/equipment issues
+B	43.14	Mm .	agenda/equipment issues
+B	44.82	We're the first ones .	agenda/equipment issues
+D	47.66	Marketing Expert , yes .	agenda/equipment issues
+A	51.73	Mm .	agenda/equipment issues
+A	64.32	So you found your spots .	agenda/equipment issues
+D	65.92	Yes .	agenda/equipment issues
+B	74.69	Move to the meeting room .	agenda/equipment issues
+D	74.79	Bling bling .	agenda/equipment issues
+D	76.2	Yeah .	agenda/equipment issues
+B	77.83	Okay .	agenda/equipment issues
+D	81.76	Right .	agenda/equipment issues
+A	83.16	Okay .	agenda/equipment issues
+D	85.14	Uh where has my screen gone ?	agenda/equipment issues
+C	89.63	Hi .	agenda/equipment issues
+B	91.63	Hello , good day .	agenda/equipment issues
+C	93.86	Oh yeah , we have to talk in English , huh .	agenda/equipment issues
+D	94.67	Hmm .	agenda/equipment issues
+B	96.81	Yep .	agenda/equipment issues
+D	96.95	Yeah .	agenda/equipment issues
+D	98.27	My screen is gone .	agenda/equipment issues
+D	101.35	Oh .	agenda/equipment issues
+A	101.48	It's called black .	agenda/equipment issues
+B	104.39	Kick-off meeting , wow .	agenda/equipment issues
+C	106.91	I'm afraid I'm a bit slow for this stuff uh .	agenda/equipment issues
+B	106.94	It's uh looks uh nice .	agenda/equipment issues
+B	110.99	Hmm ?	agenda/equipment issues
+A	111.26	Okay .	agenda/equipment issues
+C	111.63	I'm afraid I'm a bit too slow .	agenda/equipment issues
+C	113.33	I don't know how much preparation you guys did , but not a lot .	agenda/equipment issues
+B	114.96	Yeah .	agenda/equipment issues
+D	115.57	Yeah .	agenda/equipment issues
+B	116.38	No , it's it was uh not enough .	agenda/equipment issues
+A	117.99	You see this beautiful presentation .	opening
+D	120.06	Yeah .	opening
+D	121.04	Very nice .	opening
+A	121.23	Okay let's get started .	opening
+D	123.28	Yeah .	opening
+A	125.0	Uh I sort of prepared this .	opening
+A	128.39	Uh opening acquaintance , tool training , uh how to use the things here .	opening
+D	134.58	Mm .	opening
+A	134.9	Uh project plan discussion , and yeah then the rest of the meeting .	opening
+C	140.79	Mm-hmm .	opening
+A	141.6	Um we're supposed to develop a new remote control , that's both original , trendy and user-friendly .	opening
+A	149.14	So , hope you have good ideas .	opening
+A	151.87	I don't .	opening
+B	152.08	I did my best .	opening
+A	153.89	Um we're work we're working uh from top to bottom .	opening
+C	155.12	Not yet .	opening
+A	158.64	Uh functional design , then we do some in individual work , then we have a meeting to discuss the results , etcetera etcetera .	opening
+A	166.73	And at the end of the day we should have a prototype drawn up .	opening
+A	172.13	Uh we have available the smart board and the whiteboard .	opening
+A	176.62	Um uh we should take some practice .	opening
+A	181.11	I have some instructions now to do that .	opening
+D	183.09	Yeah .	opening
+A	184.55	Uh well you know how to the documents work .	opening
+A	187.36	So Uh this for toolbar .	drawing exercise
+A	191.28	You see it next .	drawing exercise
+A	192.56	Um we have a pen .	drawing exercise
+A	197.65	And we can use this pen to perform .	drawing exercise
+C	202.73	Operations .	drawing exercise
+A	202.87	Yes .	drawing exercise
+A	204.34	So It doesn't always work .	drawing exercise
+A	212.68	Yes .	drawing exercise
+D	212.77	Yeah .	drawing exercise
+A	213.85	Okay so you can draw .	drawing exercise
+D	217.4	Draw .	drawing exercise
+A	218.21	Okay and in the format menu you can select colour and line width , etcetera etcetera .	drawing exercise
+D	218.3	Alright .	drawing exercise
+D	223.84	'Kay .	drawing exercise
+A	224.31	Okay ?	drawing exercise
+A	225.6	Uh Okay .	drawing exercise
+A	232.11	Each of you can uh take some practice and you should draw an animal .	drawing exercise
+A	237.44	Uh you should explain Uh with different colours and with different pen widths .	drawing exercise
+A	241.96	And you should explain why you draw that particular animal .	drawing exercise
+A	246.53	So , Julian .	drawing exercise
+B	247.86	Okay .	drawing exercise
+D	249.06	Don't take up too much space .	drawing exercise
+B	251.01	Um yeah .	drawing exercise
+C	254.62	Different pen widths , how do you do that ?	drawing exercise
+A	257.02	Uh with the format menu .	drawing exercise
+C	258.33	Oh okay .	drawing exercise
+A	261.47	And use different colours etcetera .	drawing exercise
+C	266.27	Are you serious ?	drawing exercise
+A	266.36	And what's that supposed to be ?	drawing exercise
+B	270.27	It's a giraffe .	drawing exercise
+D	270.62	Should it be one Giraffe's yellow .	drawing exercise
+B	271.85	Yeah .	drawing exercise
+A	271.86	Oh yeah .	drawing exercise
+A	274.71	Oh yeah four legs .	drawing exercise
+B	275.41	Okay .	drawing exercise
+A	275.63	Uh-huh .	drawing exercise
+B	277.12	Uh it needs some uh some yellow uh Oh format .	drawing exercise
+D	282.36	Can you use one blank sheet per drawing ?	drawing exercise
+D	284.81	Or so y you must save it at the end and then Okay , then m make a new one .	drawing exercise
+A	284.86	Yeah .	drawing exercise
+A	287.67	Yeah you can press the next button , which is uh yeah .	drawing exercise
+B	291.91	That's some spots .	drawing exercise
+A	292.29	I'll show you .	drawing exercise
+C	292.52	I in the file option menu .	drawing exercise
+A	293.56	Yeah .	drawing exercise
+A	294.32	In file menu .	drawing exercise
+B	296.73	No .	drawing exercise
+C	297.96	How much time do we have to draw anyway ?	drawing exercise
+C	299.9	'Cause I can take forever on this .	drawing exercise
+A	300.96	Yeah .	drawing exercise
+B	303.0	Okay .	drawing exercise
+B	303.15	Do I have to explain uh why I chose this uh this animal ?	drawing exercise
+A	306.26	Yeah .	drawing exercise
+B	307.53	I think it's a it's a great animal .	drawing exercise
+A	309.39	What is it ?	drawing exercise
+B	310.79	It's a it's a giraffe .	drawing exercise
+A	311.99	A giraffe okay .	drawing exercise
+B	313.52	Yeah , that's a Um Okay I'll will give it an uh an eye .	drawing exercise
+A	313.74	Yeah I see a long neck but Okay .	drawing exercise
+D	315.28	It's more like a dinosaur .	drawing exercise
+D	324.11	Uh .	drawing exercise
+A	324.21	That's nice of you .	drawing exercise
+B	325.02	Hey .	drawing exercise
+B	325.46	Come on .	drawing exercise
+D	325.8	Some leaf to eat .	drawing exercise
+A	328.17	Okay .	drawing exercise
+A	328.7	Yeah pretty good .	drawing exercise
+A	330.7	Uh could you press the next uh Okay .	drawing exercise
+B	332.82	The next ?	drawing exercise
+B	334.21	Yes .	drawing exercise
+A	335.89	Then uh .	drawing exercise
+D	337.06	Yeah .	drawing exercise
+B	337.38	Here you go .	drawing exercise
+D	338.15	Thanks .	drawing exercise
+B	340.85	Hmm .	drawing exercise
+D	342.26	Yeah .	drawing exercise
+C	350.13	Is this part of our a acquai or introduction to each other ?	drawing exercise
+A	353.28	Yeah sorry , introduction and get acquainted and That's the idea , so Yeah it's a bit slow , so Yeah .	drawing exercise
+D	354.34	Uh Yeah .	drawing exercise
+C	356.65	Alright .	drawing exercise
+C	365.47	Uh .	drawing exercise
+C	367.3	Your line broke .	drawing exercise
+D	370.94	Alright .	drawing exercise
+D	372.25	It's not that fast .	drawing exercise
+D	373.5	Yeah .	drawing exercise
+D	376.31	I see .	drawing exercise
+D	377.67	It misses the spot .	drawing exercise
+A	379.75	pressure .	drawing exercise
+C	380.01	I'm guessing a turtle .	drawing exercise
+C	382.52	No .	drawing exercise
+C	383.74	I'm kidding .	drawing exercise
+D	385.35	I say good guess .	drawing exercise
+D	388.9	Uh Because it's slow .	drawing exercise
+A	389.8	Why a turtle ?	drawing exercise
+C	391.46	Because of its shell .	drawing exercise
+A	394.25	It's slow .	drawing exercise
+B	394.3	'Cause it's so 'cause it's green .	drawing exercise
+A	395.56	You were slow too so Yeah sure .	drawing exercise
+D	396.65	Yeah I was a bit slow too .	drawing exercise
+C	398.61	Dude you're a good drawer .	drawing exercise
+D	398.83	So Uh some other line uh width uh No .	drawing exercise
+C	408.93	Do you have a turtle pet ?	drawing exercise
+C	412.34	Uh okay .	drawing exercise
+D	416.5	I dunno .	drawing exercise
+D	417.38	Does it have legs ?	drawing exercise
+C	418.59	Yeah yeah yeah .	drawing exercise
+D	419.47	Yeah ?	drawing exercise
+A	420.18	Yeah not exactly legs but More like fins or Yeah .	drawing exercise
+C	422.95	Stumpy stuff .	drawing exercise
+D	424.57	It's more like a tank .	drawing exercise
+D	427.85	Yeah that's fins but I don't know where .	drawing exercise
+C	429.14	They kind of l look like mole legs .	drawing exercise
+C	431.78	With sharp nails on .	drawing exercise
+D	434.69	Some spots .	drawing exercise
+D	437.36	Ah some eye .	drawing exercise
+A	441.34	Yeah it's l looks very friendly .	drawing exercise
+D	441.94	Yeah that's a fr friendly turtle I guess .	drawing exercise
+D	448.72	Yeah well I think it's uh fair enough .	drawing exercise
+A	452.08	Yeah okay .	drawing exercise
+C	452.91	A little tail maybe .	drawing exercise
+D	459.25	Right .	drawing exercise
+D	460.12	I don't know what the position is .	drawing exercise
+D	465.88	Does it have ears ?	drawing exercise
+C	467.39	Uh no .	drawing exercise
+A	468.01	No .	drawing exercise
+D	468.2	No .	drawing exercise
+B	468.35	No .	drawing exercise
+D	468.67	Oh okay .	drawing exercise
+C	469.21	The little holes maybe .	drawing exercise
+D	469.64	Can you erase ears or Yeah ?	drawing exercise
+A	471.21	Yeah yeah yeah .	drawing exercise
+A	471.78	There's a a gum , gum to .	drawing exercise
+D	473.92	Alright .	drawing exercise
+D	474.67	Eraser .	drawing exercise
+C	477.22	And why did you choose this animal ?	drawing exercise
+D	477.38	So I dunno .	drawing exercise
+A	480.32	He said it was slow .	drawing exercise
+D	480.91	I it just came into my mind .	drawing exercise
+D	483.29	So there's no particular reason I pen .	drawing exercise
+C	484.29	Alright .	drawing exercise
+A	493.08	I like it .	drawing exercise
+D	494.14	Yeah .	drawing exercise
+D	495.7	Well I'm guess I'm done .	drawing exercise
+A	497.44	Okay .	drawing exercise
+D	498.15	That's my turtle .	drawing exercise
+A	500.16	Your turn Niels .	drawing exercise
+C	500.49	Alright .	drawing exercise
+D	501.61	How to select the next or here .	drawing exercise
+A	502.95	The next yeah .	drawing exercise
+D	504.61	Yeah .	drawing exercise
+D	505.61	Here you go .	drawing exercise
+A	506.04	Makes new paper .	drawing exercise
+C	506.55	Colours were under format right ?	drawing exercise
+A	508.33	Yeah .	drawing exercise
+C	510.31	Let's see .	drawing exercise
+A	512.78	Orange .	drawing exercise
+C	513.31	How am I gonna do this ?	drawing exercise
+C	515.18	Um Mm uh .	drawing exercise
+B	534.96	A rabbit I think .	drawing exercise
+A	536.04	Kangaroo .	drawing exercise
+B	536.85	Kangaroo .	drawing exercise
+C	538.5	Not quite actually .	drawing exercise
+B	540.56	Fox .	drawing exercise
+D	541.22	A fox yeah .	drawing exercise
+D	543.1	Firefox .	drawing exercise
+A	543.4	Dog .	drawing exercise
+C	544.87	No .	drawing exercise
+A	545.62	Cat .	drawing exercise
+C	546.19	Aye .	drawing exercise
+A	548.58	It's a cat .	drawing exercise
+C	549.36	It's a cat .	drawing exercise
+B	549.88	Mm .	drawing exercise
+C	551.01	Not quite yet through .	drawing exercise
+D	551.06	A cat who had an accident or Yeah .	drawing exercise project specs and roles of participants
+A	554.72	Why a cat ?	drawing exercise
+C	556.23	Uh yeah I dunno .	drawing exercise
+C	557.52	They're my favourite pets .	drawing exercise
+A	559.93	You have some uh ?	drawing exercise
+C	560.79	Uh I have colour already .	drawing exercise
+C	564.67	Yeah I'm not so good at drawing with this kind of st Oh shit .	drawing exercise
+C	568.46	Um Excuse my language .	drawing exercise
+A	569.22	The pen , yeah .	drawing exercise
+A	572.75	Sure .	drawing exercise
+C	574.37	I don't know how to draw its face .	drawing exercise
+C	575.6	But you get the idea .	drawing exercise
+C	576.43	It's a cat .	drawing exercise
+A	576.55	Yeah .	drawing exercise
+C	577.89	It's my favourite uh pet animal , 'cause they're cute , they're independent and cuddly , I dunno .	drawing exercise
+A	578.07	Alright .	drawing exercise
+A	584.43	Okay .	drawing exercise
+C	586.44	That's it .	drawing exercise
+C	587.42	Or do I need to use more colours and Alright .	drawing exercise
+A	587.8	Yeah .	drawing exercise
+A	590.78	I think it's okay .	drawing exercise
+A	592.42	You get idea right ?	drawing exercise
+C	593.38	Yeah .	drawing exercise
+A	595.08	Okay um we have a financial aspect to this project .	project budget
+A	601.97	Um we can sell them at twenty five Euros .	project budget
+A	605.57	Uh the aim is to reach uh uh to sell as much as fifty million Euros .	project budget
+A	613.2	Uh that's quite a big amount of money .	project budget
+A	617.39	And the production cost should be the half of the selling price .	project budget
+C	626.09	So we have to s Yeah .	project budget project specs and roles of participants
+A	626.42	Okay now it's time for some discussion .	project specs and roles of participants
+B	640.45	Okay .	project specs and roles of participants
+A	641.39	Uh Yeah .	project specs and roles of participants
+B	641.44	What uh what uh do you want to discuss ?	project specs and roles of participants
+A	646.17	We should get started .	project specs and roles of participants
+B	648.17	Yep .	project specs and roles of participants
+A	651.22	Uh I'm taking notes .	project specs and roles of participants
+D	652.7	Okay .	project specs and roles of participants
+D	653.33	Great .	project specs and roles of participants
+A	654.28	Um we each have a specific task , as I saw in my mail .	project specs and roles of participants
+C	661.58	Mm-hmm .	project specs and roles of participants
+A	661.64	I didn't know if you received the same mail .	project specs and roles of participants
+D	661.93	Yeah .	project specs and roles of participants
+A	663.98	Yeah ?	project specs and roles of participants
+D	664.01	Yeah .	project specs and roles of participants
+C	664.42	I guess so .	project specs and roles of participants
+A	664.93	Okay so the um uh this industrati Industrial Designer should produce a working design .	project specs and roles of participants
+C	665.03	Yeah .	project specs and roles of participants
+A	674.52	Am I correct ?	project specs and roles of participants
+C	676.18	True .	project specs and roles of participants
+A	676.8	Okay .	project specs and roles of participants
+A	677.97	Uh the User Interface Designer should specify the technical functions .	project specs and roles of participants
+A	684.42	Right ?	project specs and roles of participants
+B	684.8	Yep .	project specs and roles of participants
+A	684.94	Yeah ?	project specs and roles of participants
+A	686.35	And the Marketing uh Expert should come up with user requirements .	project specs and roles of participants
+D	693.25	Yeah .	project specs and roles of participants
+A	694.11	Uh did any of you already do some work on this part or Mm-hmm .	project specs and roles of participants
+C	700.13	Well I started making an overview for myself , um what I had to do , 'cause we have three design steps and in every step I have a s specific task to perform or whatever .	project specs and roles of participants
+A	711.95	Mm-hmm .	project specs and roles of participants
+C	712.2	So I had to uh , I dunno , make an overview for myself about what I have to do , and kind of let it work in to get ideas about well how I have to fill it .	project specs and roles of participants
+A	716.1	Mm-hmm .	project specs and roles of participants
+A	722.26	Mm-hmm .	project specs and roles of participants
+A	723.04	And do you have any ideas about the product uh so far ?	project specs and roles of participants
+C	725.62	Well I started I started with the first phase , I think was the functional .	project specs and roles of participants
+A	729.6	Mm-hmm .	project specs and roles of participants
+C	730.02	And uh let's see I had to focus on the working design , which you said .	project specs and roles of participants
+A	737.06	Mm-hmm .	project specs and roles of participants
+C	738.09	How does the apparatus work ?	project specs and roles of participants
+C	740.2	And well I basically had two points .	project specs and roles of participants
+C	743.05	Uh according to the coffee uh machine example , I have batteries to supply energy , and we ye use button presses to activate or deactivate certain functions on the T_V_ .	project specs and roles of participants
+D	747.58	Yeah .	project specs and roles of participants
+A	747.67	Yeah .	project specs and roles of participants
+A	757.13	Mm-hmm .	project specs and roles of participants
+A	758.53	Okay .	project specs and roles of participants
+C	758.57	And that's basically all I have so far .	project specs and roles of participants
+A	760.92	Yeah I got another point .	project specs and roles of participants
+A	762.46	It uses infrared light to communicate the signal to the T_V_ apparatus or stereo .	project specs and roles of participants
+B	764.72	Yeah .	project specs and roles of participants
+B	765.17	Wireless uh huh .	project specs and roles of participants
+D	765.32	Yeah .	project specs and roles of participants
+D	766.78	Yeah .	project specs and roles of participants
+C	767.14	Alright .	project specs and roles of participants
+C	770.34	Yeah .	project specs and roles of participants
+D	770.75	So that's very common .	project specs and roles of participants
+B	771.71	Uh it's uh some buttons for for the on off function .	project specs and roles of participants
+B	774.6	You d you already told that .	project specs and roles of participants
+B	776.17	And for the changing up to the to all the channels and changing the volume .	project specs and roles of participants
+B	783.06	That are the the basic options for a remote control .	project specs and roles of participants
+C	783.09	Yeah .	project specs and roles of participants
+C	785.63	Yeah I kept it global 'cause that it activates or deactivates specific functions , 'cause I wasn't thinking yet about that .	project specs and roles of participants
+B	790.38	Okay , yeah .	project specs and roles of participants
+C	792.43	I mean , you wanna ch ch flip the channel but you might wanna use teletext also .	project specs and roles of participants
+B	793.67	Yeah .	project specs and roles of participants
+B	797.26	Yep .	project specs and roles of participants
+D	797.6	Yeah .	project specs and roles of participants
+C	798.46	I dunno what the word is in English .	project specs and roles of participants
+C	799.96	Uh Yeah .	look and usability project specs and roles of participants
+A	802.83	Same I believe .	project specs and roles of participants
+D	803.93	Yeah .	project specs and roles of participants
+A	807.18	Uh and what did the Marketing Expert do ?	project specs and roles of participants
+D	810.12	Uh well from a marketing uh perspective , um well the function des design phase uh consists out of the user requirements .	project specs and roles of participants
+A	819.36	Mm-hmm .	project specs and roles of participants
+D	819.69	Um what needs and desires are to be fulfilled ?	project specs and roles of participants
+D	823.52	So there are a few means to reach that um by by doing research uh to see what existing products are there out in the market .	project specs and roles of participants
+A	828.97	Mm-hmm .	project specs and roles of participants
+D	833.4	I mean , what functions do they have .	project specs and roles of participants
+A	834.7	Mm .	project specs and roles of participants
+D	835.76	Um especially what are their shortcomings ?	project specs and roles of participants
+D	838.41	Are there any new functions uh which can be added to our product ?	project specs and roles of participants
+A	839.3	Mm-hmm .	project specs and roles of participants
+A	842.92	Mm-hmm .	project specs and roles of participants
+D	844.16	Um therefore we have to to do some internet search .	project specs and roles of participants
+A	848.53	Yep .	project specs and roles of participants
+D	848.71	For example for um well what kind of applications do current remote controls support , and what are f featur features of uh current and future televisions ?	project specs and roles of participants
+A	858.92	Yes .	project specs and roles of participants
+D	859.44	So we can see uh what needs to be supported .	project specs and roles of participants
+D	862.46	Um and we can interview current users and future users .	project specs and roles of participants
+D	867.0	What w what would they like to see uh on a new remote control ?	project specs and roles of participants
+A	867.92	Okay .	project specs and roles of participants
+A	871.35	Okay .	project specs and roles of participants
+D	871.61	Um especially for future users , uh I'm thinking of early adopters , because they they use new technology first , and they play with a lot of tools and stuff so maybe they have some good ideas to uh to add .	project specs and roles of participants
+A	879.95	Mm-hmm .	project specs and roles of participants
+A	885.48	Okay .	project specs and roles of participants
+A	886.38	And you can get that information ?	project specs and roles of participants
+D	888.43	I think I can get that information , yeah .	project specs and roles of participants
+A	890.05	Okay .	project specs and roles of participants
+A	891.28	That would be very handy .	project specs and roles of participants
+D	891.35	So yeah .	project specs and roles of participants
+A	893.34	Um but have you any idea so far as what uh the user requirements are ?	project specs and roles of participants
+D	898.37	No n not specifically .	project specs and roles of participants
+D	900.16	More to how to get them and Yeah ?	look and usability project specs and roles of participants
+A	900.24	No ?	project specs and roles of participants
+A	901.79	No okay .	look and usability
+B	901.89	I got some uh requirements it has uh it has to be user-friendly .	look and usability
+A	903.46	Yeah ?	look and usability
+D	906.07	Yeah .	look and usability
+A	906.32	Of course .	look and usability
+C	906.9	Obviously .	look and usability
+B	907.83	Uh really easy to use buttons , not not uh very small buttons , but not the the also the big big buttons , but just normal buttons .	look and usability
+B	917.3	It has to be a small unit .	look and usability
+B	918.95	It has to be uh yeah , you can take it with you uh everywhere in in your house .	look and usability
+B	923.94	So it has n has not to be l yeah , gigantic uh machine .	look and usability
+A	928.17	Big , mm-hmm .	look and usability
+D	929.04	Yeah .	look and usability
+B	930.24	Uh and a and a good uh zapping range .	look and usability
+A	933.56	Uh what do you mean by that ?	look and usability
+D	934.86	Yeah .	look and usability
+B	935.05	Uh the distance uh from your television to your uh remote control has to be , uh yeah um yeah , quite a big distance .	look and usability
+D	942.8	Yeah .	look and usability
+B	942.83	It has to be capable for zapping uh Yeah .	look and usability
+D	945.88	From the other end of the room or something ?	look and usability
+D	948.24	Yeah .	look and usability
+A	951.41	Okay um Well I don't think I have anything more to add at the moment .	look and usability
+A	962.76	Um I think the best is to go to work .	look and usability
+C	967.41	Whoa .	look and usability
+C	969.31	Is that you or alright .	look and usability
+A	969.95	Yeah .	look and usability
+A	975.13	Okay .	look and usability
+D	976.05	Any more points to discuss ?	look and usability
+A	977.11	Yeah .	look and usability
+A	978.21	I think we can go ahead with what we have .	look and usability
+A	983.39	I will summarise the things we discussed and put it in the project folder .	look and usability
+A	989.52	Uh the use of the Industrial Designer can work on the working design , etcetera etcetera .	project specs and roles of participants
+A	996.43	And it seems you get more information by email .	project specs and roles of participants
+D	1000.49	Alright .	project specs and roles of participants
+A	1000.51	So that was it for me .	project specs and roles of participants
+C	1001.02	Alright .	project specs and roles of participants
+B	1002.22	Okay .	project specs and roles of participants
+D	1005.42	'Kay .	project specs and roles of participants
+D	1005.74	Thanks .	project specs and roles of participants
+A	1007.49	Uh Yeah , in the project folder .	project specs and roles of participants
+B	1007.52	Are you going to put the the notes on the Okay .	project specs and roles of participants
+D	1009.89	Yeah .	project specs and roles of participants
+D	1010.5	The pro okay .	project specs and roles of participants
+A	1011.57	Yeah .	project specs and roles of participants
+C	1012.23	Alright .	project specs and roles of participants
+A	1012.67	I'm writing very fast .	project specs and roles of participants
+B	1014.4	Yeah .	project specs and roles of participants
+D	1014.75	Yeah .	project specs and roles of participants
+D	1015.32	Okay .	project specs and roles of participants
+A	1015.33	Hope it's readable .	project specs and roles of participants
+D	1016.93	Uh .	project specs and roles of participants
+B	1017.02	Yep .	project specs and roles of participants
+A	1017.95	Okay um anything more you want to add to the discussion ?	project specs and roles of participants
+D	1018.49	I guess so .	project specs and roles of participants
+C	1021.97	Well no I'm just a bit wondering what we're gonna do the next uh session ?	project specs and roles of participants
+B	1027.33	Yeah .	project specs and roles of participants
+B	1027.74	Do we only have to to do uh phase one , the functional design uh ?	project specs and roles of participants
+A	1030.99	Yeah .	project specs and roles of participants
+A	1031.51	Because then we have a Yeah .	project specs and roles of participants
+B	1033.14	After that we are going to the conceptual uh Okay .	project specs and roles of participants
+D	1035.53	Yeah .	project specs and roles of participants
+D	1036.19	We're just working the three phases .	project specs and roles of participants
+A	1036.33	Y you do some individual work , we have meeting , individual work , meeting .	project specs and roles of participants
+A	1040.14	And at the end of the day we have a final meeting .	project specs and roles of participants
+A	1042.49	And then I have to prepare uh I have to defend our design , so make it good .	project specs and roles of participants
+C	1048.15	Yeah okay .	project specs and roles of participants
+D	1048.18	Okay .	project specs and roles of participants
+C	1049.09	We'll do our best .	project specs and roles of participants
+A	1049.81	I depend on you .	project specs and roles of participants
+D	1049.81	Better make it Yeah .	project specs and roles of participants
+C	1050.93	I am gonna work on the conceptual design already 'cause yeah it's fairly important to know what kind of components we want to put in .	project specs and roles of participants
+A	1054.79	Yeah ?	project specs and roles of participants
+A	1055.34	If you can mix it it's okay .	project specs and roles of participants
+A	1058.62	Mm-hmm .	project specs and roles of participants
+A	1059.55	Yeah .	project specs and roles of participants
+C	1059.86	Do we I mean , is it gonna be a multimedia control centre ?	project specs and roles of participants
+C	1063.89	Do we want to be able to use the video recorder with it ?	project specs and roles of participants
+A	1067.36	Yeah .	project specs and roles of participants
+D	1067.59	That is my question also because like new new functions Requirements .	project specs and roles of participants
+A	1070.61	Well I think that is the user requirements part .	project specs and roles of participants
+D	1075.41	Yeah .	project specs and roles of participants
+A	1076.36	As to what they want .	project specs and roles of participants
+C	1076.78	Yeah .	project specs and roles of participants
+C	1077.14	True .	project specs and roles of participants
+A	1077.41	Uh do they want all those functions on that small Yeah .	project specs and roles of participants
+D	1079.09	Yeah .	project specs and roles of participants
+C	1080.29	But but we need good communication about this stuff , 'cause I have to f put the components into the design .	project specs and roles of participants
+D	1080.8	Unit .	project specs and roles of participants
+D	1085.41	Yeah .	project specs and roles of participants
+A	1086.06	Mm-hmm .	project specs and roles of participants
+B	1086.42	I would first m Yeah .	project specs and roles of participants
+C	1086.66	So if I don't know what components to put in , it's kind of hard .	project specs and roles of participants
+D	1088.0	Yeah well I I was Yeah well like l li like some like some some remotes who are out there , which I know , there's one button which is very easy to switch between devices .	project specs and roles of participants
+A	1089.29	Yeah I understand .	project specs and roles of participants
+B	1089.78	I I think we have first to start with the basic functions and we can uh expand them .	project specs and roles of participants
+A	1094.2	You can always add a few Yeah .	project specs and roles of participants
+B	1095.54	Yeah .	project specs and roles of participants
+D	1104.54	So you can switch to your video and then the same buttons control your video .	project specs and roles of participants
+A	1106.72	Hmm , the C_D_ player .	project specs and roles of participants
+A	1109.35	Yeah .	project specs and roles of participants
+B	1109.51	Yeah .	project specs and roles of participants
+D	1109.79	And another function I'll think of switch to your media centre , because that's getting very popular .	project specs and roles of participants
+C	1114.99	Yeah so Okay .	project specs and roles of participants
+D	1115.13	And then use your Windows media centre under your T_V_ with the same remote control .	project specs and roles of participants
+A	1120.26	Yeah .	project specs and roles of participants
+D	1120.72	So with the switch , one single switch S Yeah records and stuff like that .	project specs and roles of participants
+C	1122.84	Yeah I I know what you mean , but you'll ne need several other buttons for a video player .	project specs and roles of participants
+A	1122.96	Okay .	project specs and roles of participants
+C	1128.54	You need a play and a forw fast forward and a stop function .	project specs and roles of participants
+A	1128.99	Mm-hmm .	project specs and roles of participants
+C	1131.61	And you you don't need that for a T_V_ .	project specs and roles of participants
+A	1132.1	Okay .	project specs and roles of participants
+D	1134.42	No .	project specs and roles of participants
+C	1134.74	And and for a t uh teletext you need additional buttons as well , so I kind of need to know what we uh need .	project specs and roles of participants
+A	1138.93	You need additional yeah .	project specs and roles of participants
+B	1139.84	Yeah .	project specs and roles of participants
+D	1141.46	Yeah .	project specs and roles of participants
+A	1141.7	Yeah .	project specs and roles of participants
+A	1142.84	Uh Yeah .	project specs and roles of participants
+D	1145.73	Yeah .	project specs and roles of participants
+C	1146.98	Whatever , I'll just put my ideas in uh in here and then we can discuss it with the next uh meeting .	project specs and roles of participants
+D	1151.74	In the project uh Yeah .	project specs and roles of participants
+A	1154.4	Yeah .	project specs and roles of participants
+A	1155.33	We could just start with the assumption that's only for T_V_ and video .	project specs and roles of participants
+A	1159.78	And um reserve the possibility to add other features .	project specs and roles of participants
+C	1163.35	Okay .	project specs and roles of participants
+A	1164.76	So we have a basic starting point and you can always extend that so make sure it's extendible .	project specs and roles of participants
+C	1164.81	Okay .	project specs and roles of participants
+B	1169.75	Yeah it it has yeah it has to be user-friendly .	project specs and roles of participants
+D	1169.81	Yeah .	project specs and roles of participants
+C	1169.97	Alright .	project specs and roles of participants
+A	1170.08	Yeah .	project specs and roles of participants
+B	1172.86	So it's hasn't it's yeah .	project specs and roles of participants
+A	1175.21	Th the least amount of functions possible so it's easier to get to know how it works etcetera .	project specs and roles of participants
+B	1176.74	Yeah .	project specs and roles of participants
+B	1178.08	Okay .	project specs and roles of participants
+C	1179.39	Yeah .	project specs and roles of participants
+B	1179.83	Yeah .	project specs and roles of participants
+C	1179.87	I understand .	project specs and roles of participants
+D	1180.31	Yeah .	project specs and roles of participants
+C	1181.14	Yeah .	project specs and roles of participants
+A	1181.72	Yeah ?	project specs and roles of participants
+A	1182.58	Okay and uh I'll see you again uh when the computer tells us to .	project specs and roles of participants
+C	1182.67	Alright .	project specs and roles of participants
+D	1182.75	Yes .	project specs and roles of participants
+C	1186.56	Yeah .	project specs and roles of participants
+B	1188.57	Can we leave now or Mm .	closing
+D	1188.83	Half an hour .	closing
+A	1189.66	Yeah , you're di dismissed .	closing
+C	1192.21	Thanks .	closing
+D	1192.65	You're fired .	closing
+A	1194.26	Not yet .	closing
+D	1195.0	No .	closing
+C	1196.22	Alright .	closing
+A	1196.72	Okay .	closing
+D	1196.87	Alright let's move on .	closing
+A	1200.58	Let's see what we got to do .	closing
+D	1202.35	Yeah .	closing
+C	1206.88	See you later .	closing
+D	1208.0	Yeah see you later .	closing
+B	1208.13	Okay .	closing
+A	1208.25	Yeah .	closing
+B	1212.44	Good luck .	closing
+A	1213.1	Yeah .	closing
+A	1213.65	Thank you .	closing
+D	1220.59	Well good luck .	closing

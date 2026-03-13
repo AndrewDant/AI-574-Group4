@@ -1,0 +1,490 @@
+D	2.27	Are you sure I got it all head's kinda small .	opening
+C	8.27	How're we placed in terms of the alright .	opening
+D	8.36	Okay .	opening
+D	11.17	We're okay ?	opening
+B	15.12	Guess I should probably try to sit up straight .	opening
+A	19.57	Like that ?	opening
+A	20.32	Okay , cool .	opening
+D	22.16	We're good ?	opening
+B	24.52	Oh , I think mine's fallen off .	opening
+C	25.92	It fell That's why .	opening
+D	35.72	I guess it's gonna be hard to drink coffee .	opening
+D	39.94	Mm .	opening
+D	41.1	Uh okay .	opening
+C	42.65	Ah .	opening
+A	43.71	Okay ?	opening
+A	47.77	Right , so I'm just gonna start this PowerPoint real quick .	opening
+B	51.62	Wow .	opening
+A	51.98	Yeah , PowerPoint .	opening
+D	53.47	Very official .	opening
+A	54.31	Yeah , well , you know , .	opening
+A	69.08	Yeah I kinda like this I'm kinda getting into it .	opening
+A	73.38	Right .	opening
+A	73.76	Um .	opening
+A	75.2	So just to kick off the meeting basically um so we're working now for a real reaction , this is uh so it right .	opening
+A	84.7	Just got an agenda to set out what we're gonna try to accomplish in this particular first meeting .	opening
+A	89.18	Um We're gonna just do a quick opening and we can hopefully all get acquainted with one another um then we're gonna start talk a little bit about tool training .	opening
+A	98.16	Essentially that means getting used to the only thing that we haven't tried out yet , the whiteboard .	opening
+A	103.27	Um we've got a general plan for the project how we're gonna go about accomplishing this and then just a bit of discussion close up .	opening
+A	110.82	Um I guess you know game or something um in real life um so yeah basically I want to I'm just gonna you got of course you can discuss that , I'm thinking about um uh proposing that since we've got this weird blend of ourselves and our roles that we just don't ask , don't tell .	project specs and roles of participants
+A	134.6	Um so um if you say something about marketing , right , sorted , um y is Exactly .	project specs and roles of participants
+D	139.58	You're just gonna believe me , we'll go from there .	project specs and roles of participants
+D	142.01	Fair enough .	project specs and roles of participants
+A	142.3	Um I mean obvi if if you guys if if at the same time if you like logically if something doesn't like if I'm like we're gonna sell a remote control that's the size of this paper book you know um you say like well that doesn't seem like such a good idea because of X_ obviously go with it .	project specs and roles of participants
+A	156.27	I mean we'll discuss it but I'm not gonna ask do you know that or uh yeah it seems like yeah yeah exactly so , 'cause we're what we're sort of role playing is y g yeah you're gonna tap into your own knowledge as well um .	project specs and roles of participants
+D	160.92	Prove it yeah , okay .	project specs and roles of participants
+A	168.64	And that's the same for your when we do introductions I mean um and you talk about your background you know have fun , you know maybe you went to um uh you know maybe i you're like in Maine you went to U_C_S_B_ but you wanna say you went to Harvard or something like that , why not , you know you can this is you know I guess we can have a little bit of fun with it .	project specs and roles of participants
+A	185.31	So are you guys okay with that does that seem logical ?	project specs and roles of participants
+B	188.67	Oh yeah , that's fine .	project specs and roles of participants
+C	189.96	Sure .	project specs and roles of participants
+D	190.16	Works for me .	project specs and roles of participants
+A	190.88	Sweet .	project specs and roles of participants
+A	193.67	Cool .	project specs and roles of participants
+A	194.24	So I guess that that we're totally we're making a remote control which is thrilling um uh but the idea is that we can make something based on the whole corporate model I dunno if you guys had time to check the in real life I dunno if you guys uh checked the um uh the corporate website .	project specs and roles of participants
+B	199.21	Right .	project specs and roles of participants
+A	215.19	Um we've got to make something as fashionable as possible , that's kind of the corporate strategy is we're gonna try to take ordinary stuff that nobody really thinks about and try to make it nice you know like John Lewis nice or you know if you go to Debenham's or something .	project specs and roles of participants
+A	231.44	So um basically we are reinventing the wheel but we wanna try to do it in a user friendly um slick sleek kind of way .	project specs and roles of participants
+A	240.81	Um way we're gonna go about doing that is basically at first we're gonna start on the basics .	project specs and roles of participants
+A	247.01	And that's where I'm gonna need you guys the User Interface Designers and the um um the other designer that I can't remember , the the I_D_ and the U_I_D_ right um the Industrial Designer hey right on alright , getting into it um to guide me and guide us on this project 'cause you're gonna be you're g you guys are the bottom you know you're like no you can't do that you can't have you know X_ and Y_ um at the same time .	project specs and roles of participants
+C	260.39	Mm .	project specs and roles of participants
+D	260.86	There you go .	project specs and roles of participants
+A	274.15	And then um we'll work up from what is necessary to more like what would be good , you know like um I I think you guys probably got the same emails I did but the idea of um , yes a coffee pot needs to be able to hold coffee but it's also better if it's not like really cheap glass so that it if you touch it you hurt your hand , or something like that .	project specs and roles of participants
+A	296.84	Um and so we'll work up from there and um then we'll meet on and talk about it and then finally we'll incorporate as kind of the last stage you know where you guys build or tell me tell us what's possible and then you tell us what we can um hope for and what way to go take the the the take the basics and make it nicer and then ov obviously uh the U_I_D_ and the I_D_ you know you you can keep on the you know sort of at the cutting edge of how to get about maximising what is possible um to try t of sync it all up .	project specs and roles of participants
+A	329.23	So that's the detailed design .	project specs and roles of participants
+A	330.34	So it's a three stage kind of thing .	project specs and roles of participants
+A	332.24	Um right so for now just for th the white board um basically uh just to get used to it , I haven't tried it yet either um I'm just gonna start and um mm carry like five remotes around um and just write down I'm just gonna write down one of the names of my um desert discs you know if you if you were trapped on a desert island and you could only bring five C_D_s along with you name one of them that you could , not all five , if you wanna write all five go for it but name one of them that you could um .	tool training introduction exercise project specs and roles of participants
+A	362.79	Oh , we skipped introductions .	tool training introduction exercise
+A	365.31	Nice .	tool training introduction exercise
+A	366.92	I'm a excellent Project Manager .	tool training introduction exercise
+A	368.57	Um .	tool training introduction exercise
+A	369.32	I'm Marty , um I went to uni at uh U_C_ Santa Barbara and I'm here working on a P_H_D_ in psychology .	tool training introduction exercise
+A	375.83	Um yeah .	tool training introduction exercise
+A	377.74	So Expert Don't play yourself down .	tool training introduction exercise
+D	379.14	I'm Sarah , I went to Michigan , and I'm here doing cultural studies and I'm the Marketing Manager or something .	tool training introduction exercise
+D	386.44	Marketing , yeah Expert .	tool training introduction exercise
+D	388.8	Expert .	tool training introduction exercise
+D	389.83	Fine .	tool training introduction exercise
+A	389.99	Expert Where did you go to uni Nathan ?	tool training introduction exercise
+D	390.65	That's me .	tool training introduction exercise
+C	392.08	I'm Ron .	tool training introduction exercise
+C	392.86	I uh once upon a time studied in Victoria and I am the User Interface Designer .	tool training introduction exercise
+B	401.79	I'm Nathan , I'm from California , and I'm here doing a Masters degree in social anthropology .	tool training introduction exercise
+B	407.94	U_C_L_A_ .	tool training introduction exercise
+A	408.79	Oh brilliant .	tool training introduction exercise
+B	409.43	Yeah .	tool training introduction exercise
+A	409.51	Cool .	tool training introduction exercise
+A	409.69	My little brother goes there .	tool training introduction exercise
+B	410.71	Okay .	tool training introduction exercise
+A	412.03	Right so desert island discs .	tool training introduction exercise
+D	413.1	So .	tool training introduction exercise
+A	415.83	Yeah .	tool training introduction exercise
+D	416.84	So do we have to wait for you to write it down or are you gonna tell us ?	tool training introduction exercise
+A	419.26	Well I'll t i no no yeah I'm just gonna write a couple of 'em down .	tool training introduction exercise
+D	419.47	I'm waiting to know .	tool training introduction exercise
+A	422.37	See I'm a big music fan I don't know if you guys are , I'm assuming everybody likes music to some lesser or greater extent but there's some other options , if you're a T_V_ slut like I am like Smallville terrible television show but I happen to love it , it's rubbish but I love it .	tool training introduction exercise
+D	423.81	Uh Fair enough .	tool training introduction exercise
+D	431.78	Oh , Smallville .	tool training introduction exercise
+D	434.29	I went to high school with Tom Willing actually .	tool training introduction exercise
+A	436.97	T the the main c the main character ?	tool training introduction exercise
+D	438.17	The guy .	tool training introduction exercise
+A	438.72	Wow .	tool training introduction exercise
+D	439.22	Yeah .	tool training introduction exercise
+A	440.56	Is he a wanker ?	tool training introduction exercise
+D	441.4	Yeah .	tool training introduction exercise
+D	442.9	Very much so .	tool training introduction exercise
+D	443.99	Hell of a soccer player but a total bastard nonetheless .	tool training introduction exercise
+A	446.32	He looks really tall , like he's gotta be like six six .	tool training introduction exercise
+D	447.74	Yeah .	tool training introduction exercise
+D	448.62	He is a big guy .	tool training introduction exercise
+A	449.83	Yeah .	tool training introduction exercise
+D	450.34	Yeah .	tool training introduction exercise
+A	451.08	Um okay so I really like Jeff Buckley .	tool training introduction exercise
+A	454.75	You guys heard of Jeff Buckley ?	tool training introduction exercise
+D	455.87	Mm-hmm .	tool training introduction exercise
+B	456.25	Mm-hmm .	tool training introduction exercise
+A	456.83	Um that's cool 'cause like not very many people have .	tool training introduction exercise
+A	460.77	Um and um oh well I might as well throw a British person in there um you can't go wrong with Radiohead .	tool training introduction exercise
+A	467.81	It's a r Okay so it really works just like a pen only makes noises I think .	tool training introduction exercise
+D	468.46	Good call .	tool training introduction exercise
+A	477.98	It's kinda weird .	tool training introduction exercise
+A	478.55	Anyway yeah .	tool training introduction exercise
+D	478.62	Interesting .	tool training introduction exercise
+A	479.94	Yeah , you're like press and it's .	tool training introduction exercise
+A	482.21	Kinda cool .	tool training introduction exercise
+A	483.51	You'll see .	tool training introduction exercise
+A	484.26	Alright so um whoever wants to get up next , you can write down some telly that you watch or whatever you want .	tool training introduction exercise
+D	489.32	I guess I'll go next then .	tool training introduction exercise
+C	490.49	Go for it .	tool training introduction exercise
+A	490.71	Right on .	tool training introduction exercise
+D	491.4	Okay .	tool training introduction exercise
+D	491.77	Don't wanna lose all my mikes , plugged in here .	tool training introduction exercise
+D	494.97	Okay .	tool training introduction exercise
+D	496.27	This is basically just pen practice huh ?	tool training introduction exercise
+A	499.92	W Mm .	tool training introduction exercise
+D	499.97	Okay .	tool training introduction exercise
+D	500.95	Oh you're much taller than me so I'm gonna write down here .	tool training introduction exercise
+D	505.11	Um .	tool training introduction exercise
+D	507.73	Right now I'm listening to a lot of somebody nobody's ever heard of , Chris Bathgate , local Michigan folk singer , really lame and uh uh what else did I bring with me ?	tool training introduction exercise
+A	515.88	Nice .	tool training introduction exercise
+B	516.1	Wow .	tool training introduction exercise
+D	521.67	Probably classical , to totally geek it out , yeah I think .	tool training introduction exercise
+A	523.57	Okay yeah yeah .	tool training introduction exercise
+D	528.36	And my family guy D_V_D_s but we don't need to write that one down .	tool training introduction exercise
+A	529.98	Well yeah .	tool training introduction exercise
+A	531.5	Oh , family guy .	tool training introduction exercise
+D	531.85	So yeah .	tool training introduction exercise
+A	532.86	Isn't h has h do you watch the new season ?	tool training introduction exercise
+D	534.93	No .	tool training introduction exercise
+D	536.13	Are you getting it online , or is it on sky ?	tool training introduction exercise
+A	537.75	I think I'm gonna start downloading it yeah .	tool training introduction exercise
+D	539.06	Yeah , that'd be nice .	tool training introduction exercise
+C	541.53	Alright .	tool training introduction exercise
+C	543.83	Think I'm just gonna put down one uh one C_D_ .	tool training introduction exercise
+C	563.74	Anybody ?	tool training introduction exercise
+A	564.36	Mm-mm .	tool training introduction exercise
+B	564.41	No .	tool training introduction exercise
+C	564.53	No ?	tool training introduction exercise
+D	564.99	'Fraid not .	tool training introduction exercise
+C	565.09	no ?	tool training introduction exercise
+C	565.73	Afro beat orchestra , very cool .	tool training introduction exercise
+A	567.45	Afro beat orchestra ?	tool training introduction exercise
+C	568.56	Yeah .	tool training introduction exercise
+A	568.9	Very cool .	tool training introduction exercise
+D	569.11	Mm .	tool training introduction exercise
+C	569.44	Fift S they like fifteen members from Brooklyn .	tool training introduction exercise
+B	569.56	Sounds nice .	tool training introduction exercise
+A	569.66	Mm .	tool training introduction exercise
+C	572.63	Um and I'm hoping to go to the concert in Belgium , in Brussels in April first .	tool training introduction exercise
+A	576.56	Wow .	tool training introduction exercise
+D	576.7	Exciting .	tool training introduction exercise
+C	578.02	Yeah .	tool training introduction exercise
+C	578.26	It's supposed to be in Brussels anyways .	tool training introduction exercise
+D	578.8	That'd be .	tool training introduction exercise
+C	580.03	Um thing I love about Edinburgh Love um I just came from Glasgow and I'm um happy to say that there's the there's the same quantity approximately .	tool training introduction exercise
+D	584.02	Oh .	tool training introduction exercise
+D	584.41	I didn't even read those .	tool training introduction exercise
+D	585.91	Oops .	tool training introduction exercise
+D	586.34	I shouldn't admit that .	tool training introduction exercise
+A	586.84	That's what a PowerPoint presentation is for .	tool training introduction exercise
+B	588.08	Oh , wow .	tool training introduction exercise
+A	588.52	It's they're designed specifically to ignore .	tool training introduction exercise
+A	590.71	I it's th brilliant .	tool training introduction exercise
+D	590.79	Yeah .	tool training introduction exercise
+D	591.75	It's the five by five , I can't read that much .	tool training introduction exercise
+A	594.57	Ah yes yes yes okay I see that .	tool training introduction exercise
+A	597.45	Vomit .	tool training introduction exercise
+A	597.86	Yes .	tool training introduction exercise
+D	598.22	Yeah oh it's so horrible .	tool training introduction exercise
+A	599.0	Street pizza .	tool training introduction exercise
+A	599.94	It's so brilliant .	tool training introduction exercise
+A	603.35	I've seen more urine in this city than ever before , I mean It's so minging .	tool training introduction exercise
+D	604.98	Oh my God .	tool training introduction exercise
+D	606.07	Seriously ?	tool training introduction exercise
+B	610.37	There's more vomit there .	tool training introduction exercise
+C	613.87	Um .	tool training introduction exercise
+C	614.44	I w Does uh yeah .	tool training introduction exercise
+D	616.2	It really is Yeah .	tool training introduction exercise
+A	616.95	Uh .	tool training introduction exercise
+C	621.25	Ready ?	tool training introduction exercise
+B	621.64	Alright .	tool training introduction exercise
+B	621.95	Yep .	tool training introduction exercise
+C	624.9	Minging ?	tool training introduction exercise
+C	625.45	Nice .	tool training introduction exercise
+A	626.97	I'm going local .	tool training introduction exercise
+D	627.29	Slide it in there .	tool training introduction exercise
+A	628.25	Going local .	tool training introduction exercise
+D	628.25	Yeah .	tool training introduction exercise
+A	628.83	I have to be here for three years so I might as well get the terminology right .	tool training introduction exercise
+D	630.26	Yeah fair enough .	tool training introduction exercise
+D	632.04	I've already got more than I can keep track of .	tool training introduction exercise
+D	633.89	And I'm gonna go home next week and everyone's gonna be like oh my God you're turning into one of those people , no .	tool training introduction exercise
+A	636.9	Oh , have you been home yet ?	tool training introduction exercise
+A	638.87	They'll be like , say something British , and you're like oh shut up family .	tool training introduction exercise
+D	640.88	I know .	tool training introduction exercise
+D	642.12	I know .	tool training introduction exercise
+C	642.28	Uh-huh .	tool training introduction exercise
+B	643.25	Um Let's see .	tool training introduction exercise
+D	643.47	Oh it should be interesting .	tool training introduction exercise
+D	645.52	Wait until I tell them I'm not coming back .	tool training introduction exercise
+D	648.19	They're gonna love that one .	tool training introduction exercise
+A	649.56	Right you s you're gonna stay here ?	tool training introduction exercise
+D	651.08	Probably .	tool training introduction exercise
+D	652.03	Or at least get a work visa for a while and then decide .	tool training introduction exercise
+A	652.07	Wow .	tool training introduction exercise
+D	654.84	'Cause nice .	tool training introduction exercise
+A	654.96	Bad religion ?	tool training introduction exercise
+C	654.96	Nice .	tool training introduction exercise
+B	655.88	Yeah , that's the music I grew up listening to .	tool training introduction exercise
+D	658.12	Of course .	tool training introduction exercise
+A	658.23	Yeah yeah , yeah .	tool training introduction exercise
+D	659.99	Oh , now I can think of so many other ones .	tool training introduction exercise
+B	660.13	And so there Something I miss about my hometown .	tool training introduction exercise
+A	662.2	Well yeah that's why yeah .	tool training introduction exercise
+D	663.08	That's how it works .	tool training introduction exercise
+A	668.44	I miss coffee .	tool training introduction exercise
+B	669.57	Burritos that cost less than eight Pounds .	tool training introduction exercise
+D	669.78	Mm .	tool training introduction exercise
+C	670.47	Nice .	tool training introduction exercise
+A	670.52	Burritos .	tool training introduction exercise
+D	671.55	Oh Any thing that are like free .	tool training introduction exercise
+A	673.09	Oh yeah two two bucks .	tool training introduction exercise
+A	675.75	Where are you from in California by the way ?	tool training introduction exercise
+B	677.08	I grew up in San Diego , but yeah um La Jolla , P_B_ .	tool training introduction exercise
+A	678.24	Did you really ?	tool training introduction exercise
+A	678.57	What part ?	tool training introduction exercise
+A	681.47	Yeah I'm from San Diego as well .	tool training introduction exercise
+D	683.89	Nice .	tool training introduction exercise
+A	684.05	Yeah oh man .	tool training introduction exercise
+B	684.42	But really uh I last lived in San Francisco , I haven't lived in Cali well I haven't lived in southern California since I was eighteen .	tool training introduction exercise
+A	690.52	Going to s like North Carol I'm sorry you you just can't get a better burrito than what's available in the s in San Diego .	tool training introduction exercise
+B	696.91	It's different .	tool training introduction exercise
+B	697.72	'Cause in San Diego th the tortillas are cooked on the grill and in northern California they steam them .	tool training introduction exercise
+D	703.81	It must make all the difference .	tool training introduction exercise
+B	705.01	Yeah , it really does .	tool training introduction exercise
+A	705.94	Well it's it's i there's other things too there's you just can't place it like I when I went to school in the U_ in Santa Barbara which is central California the Mexican food is okay , it's just not good like and yeah it's like two bucks , like literally two bucks for this massive I miss yeah good call on that .	tool training introduction exercise
+D	709.31	Ah .	tool training introduction exercise
+B	717.08	Mm .	tool training introduction exercise
+D	720.66	Right .	tool training introduction exercise
+B	722.89	Yeah .	tool training introduction exercise
+B	723.77	Where you from in San Diego ?	tool training introduction exercise
+D	724.19	Mm .	tool training introduction exercise
+A	725.06	Um just literally just metropolitan San Diego , I live like five minutes from the zoo .	tool training introduction exercise
+B	729.64	Okay .	tool training introduction exercise
+A	730.12	So North Park actually if you want to get real specific .	tool training introduction exercise
+B	731.6	Yeah , my grandparents lived on um thirty second .	tool training introduction exercise
+A	734.62	Yep .	tool training introduction exercise
+B	736.72	Close t uh do you know where Clare de Lune coffee shop is , and Cafe Forte Cool .	tool training introduction exercise
+A	739.0	Yes .	tool training introduction exercise
+A	739.58	On university , yeah .	tool training introduction exercise
+A	741.81	Yeah it's actually like literally half a mile from my house .	tool training introduction exercise
+A	745.54	Yeah , pretty cool .	tool training introduction exercise
+A	746.18	Small world as we were discussing before .	tool training introduction exercise
+B	747.05	Yeah .	tool training introduction exercise
+A	748.97	Especially when we're all from the same general region .	tool training introduction exercise
+A	753.1	Right so okay , success on the whiteboard .	tool training introduction exercise
+D	755.62	There you go .	tool training introduction exercise
+A	755.83	You can harness the awesome power a little bit introductions we talked about some of our C_D_s and things we like about the city you know , I think we'll Um right so moving on to not fun stuff uh project finance .	project specs and roles of participants tool training introduction exercise
+B	756.75	Wow .	tool training introduction exercise
+A	767.41	Um basically what we're trying to do is sell this remote for twenty five Euros .	project specs and roles of participants
+A	771.23	Um .	project specs and roles of participants
+A	773.08	This is what the finance department has told me , the C_F_O_ but I don't know , I'm not sold on this , it's pretty dear , I mean twenty f that's like you know forty bucks for a remote .	project specs and roles of participants
+A	783.48	It would have to pretty much like do my laundry for me .	project specs and roles of participants
+D	785.98	Mm .	project specs and roles of participants
+A	786.19	Um so what we can maybe work on that a later but we're gonna make a lot on it , the profit aims to make fifty million Euros on it .	project specs and roles of participants
+A	792.37	Eur internationally .	project specs and roles of participants
+A	793.84	So um one of the things I I was gonna mention to you um you guys the designers is that um it m we probably need a rever it needs to be a universal remote control probably .	project specs and roles of participants
+B	804.59	Okay .	project specs and roles of participants
+A	804.97	Um so something that could do N_T_S_C_ as well as PAL as well as various other formats like if it's gonna control D_V_D_s but um you know I'll leave that to you guys but that's something that i i it is gonna be an international sold thing .	project specs and roles of participants
+D	807.76	Makes sense .	project specs and roles of participants
+D	812.12	Uh .	project specs and roles of participants
+A	818.3	Um but we wanna try to make it for twelve fifty .	project specs and roles of participants
+A	821.54	So we wanna try to make a hundred percent profit on it if we can .	project specs and roles of participants
+A	825.92	Um s right so um just to close up , I'm not sure how much time I've used mm next time right Project Manager , sorted .	closing
+A	832.28	Um .	closing
+A	833.08	Is uh we'll meet in another half an hour or so um and I'd like the um Industrial Designer to get ge think about what needs to be done , like what the basic function of it .	closing
+A	843.89	Um U_I_D_ well yeah you right g your assignments are up there and you'll also get s assignments from in your email as well more spec specifics on what do do .	closing
+A	854.29	Um mm basic and um so I need you to tell us what um we what the user's gonna want .	closing
+D	860.14	What they're looking for .	closing
+A	860.82	So actually in a way you guys c maybe in our next meeting chat a bit about what the user's gonna want and what the user can have , you know like uh so yeah well it is and we'll discuss the trade-offs in between um so yeah specific instructions will be sent in your email .	closing
+D	869.0	And negotiate that .	closing
+D	871.03	Uh .	closing
+A	878.14	But I think that that is more or less a good place to start for now um and as more things come up we'll have meetings and you'll get emails and so forth .	closing
+A	887.71	Um any questions , before we get started ?	discussion
+C	892.76	I assume that we're building a stand alone uh remote control , we can't kind of build it into other uh products .	existing products
+A	902.22	You mean to like Hmm .	existing products
+C	902.72	For instance like a mobile phone or something like that .	existing products
+B	905.63	Mm .	existing products
+B	907.37	Sounds interesting .	existing products
+A	909.78	Yeah .	existing products
+D	911.04	I don't think there's any rules about it yet .	existing products
+D	912.77	So Yeah .	existing products
+B	912.79	Maybe our personal coach will have something to say about that .	existing products
+C	915.52	Or or you know can we produ can we sell a remote control phone for twenty five pounds or less ?	existing products
+A	922.05	Well , have a think about it .	existing products
+D	922.13	Mm .	existing products
+A	923.28	I mean I'm I'm certainly op it seems like yeah it it seems like it's certainly do-able isn't it .	existing products
+C	923.41	Yep .	existing products
+C	924.2	Okay .	existing products
+D	926.51	W yeah .	existing products
+A	928.76	I mean um or if we can't have a full mobile phone maybe a remote that has some other kind of useful function .	existing products
+C	934.72	Mm-hmm .	existing products
+B	934.91	Yeah .	existing products
+A	936.76	The clapper .	existing products
+A	937.31	No I mean no , good idea , good idea .	existing products
+A	940.46	We'll see what see what Uh-huh y I like that Yeah .	discussion existing products
+B	940.8	Maybe a remote with changeable faces , like the faces that you can buy for phones .	discussion
+D	945.3	I like the little cover thingies .	discussion
+C	945.67	Nice .	discussion
+B	946.32	Yeah .	discussion
+C	947.63	Hot .	discussion
+A	951.01	That's true , I guess we we probably have some time , maybe we should brainstorm a bit like what we wanna do , go back to um I don't really have any .	discussion
+A	959.74	Let me bring up something about our basic goals here , what we want to accomplish .	discussion
+A	967.06	Uh project announcement .	discussion
+A	970.72	Ts ts ts Yeah .	discussion
+A	983.24	Not so much .	discussion
+D	985.52	Hmm .	discussion
+A	986.39	All right we'll find them , we're on our own .	discussion
+C	988.44	Now are we also discussing kind of our initial ideas at all here ?	discussion
+A	991.38	Yeah yeah let's do it , let's do .	discussion
+C	993.84	S does anybody have any initial ideas ?	discussion
+A	996.52	I'm gonna go ahead and take notes on this too 'cause Yeah I mean oh yeah right .	discussion
+D	1001.24	Good idea .	discussion
+D	1002.56	Start your minutes .	discussion
+D	1004.2	Um Well it's pretty much given it's gonna be universal right , we decided that already and it may be functioning for other things , as soon as you said that I was thinking like all the other things you could get a remote to do , like your microwave or your front door or like to have everything on one thing , but then , I've never been a fan of those huge remotes that have like a million buttons , you can't tell what they do .	discussion
+A	1006.4	So initial ideas .	discussion
+A	1012.92	Yeah .	discussion
+B	1021.46	Yeah .	discussion
+B	1027.25	S smaller's better .	discussion
+A	1027.52	Mm-hmm .	discussion
+B	1029.06	Simple .	discussion
+D	1029.12	Yeah .	discussion
+C	1029.17	But I'm thinking I'm thinking kind of P_D_A_ uh design so touch screen design rather than button so that you can kind of flip around all sorts of different things .	discussion
+D	1030.48	Specific .	discussion
+D	1037.68	Okay .	discussion
+B	1038.67	Oh right .	discussion
+B	1039.26	That'd be different .	discussion
+D	1039.66	Interesting .	discussion
+A	1042.75	Yeah that's slick isn't it .	discussion
+A	1044.01	I mean like stylist yeah like a just a yeah .	discussion
+D	1047.03	True .	discussion
+A	1048.95	Right so we got five minutes more to chat about this , perfect .	discussion
+A	1051.83	Um so we've got this kind of an idea of a trade-off between um uh size and functionality .	discussion
+D	1055.83	Mm .	discussion
+D	1058.43	Mm .	discussion
+A	1059.54	Um and we also I'm also gonna note for future reference this idea of um so you like maybe like an L_ like a touch screen type of remote ?	discussion
+D	1059.56	Right .	discussion
+D	1059.91	We want it to be munt multifunctional but at the same time if you get it to do too much you're not gonna be able to tell them apart , that whole yeah .	discussion
+B	1064.49	Yeah .	discussion
+C	1065.23	Too confusing .	discussion
+B	1065.98	It's gonna be too complicated , too crowded with buttons and things .	discussion
+D	1071.76	Hmm .	discussion
+C	1079.33	Mm-hmm .	discussion
+D	1080.02	Mm .	discussion
+C	1080.58	Possibly .	discussion
+A	1081.24	I don't think one exists .	discussion
+D	1081.73	An interesting option .	discussion
+A	1082.66	Be a good idea .	discussion
+B	1082.74	Needs it needs one outstanding feature to set it apart from all the other remotes .	discussion
+D	1084.15	Yeah .	discussion
+D	1086.0	Definitely .	discussion
+A	1086.95	Yeah all the other universal remotes .	discussion
+A	1089.27	Um I don't know if there's such a thing out there , I guess we could do some uh do some research on or one of us could do some research on it about whether or not there are um multi-format like um you know PAL , N_T_S_C_ , region one Okay .	discussion
+D	1104.08	Right .	discussion
+C	1105.24	I'm pretty sure there is .	discussion
+C	1107.27	I mean I I have a friend who has a P_D_A_ that he just points at his telev any television he wants and it'll figure out the the specifications of it and will control it um so I th I assume that that can be done with uh kind of around the world .	discussion
+A	1109.7	Okay .	discussion
+D	1111.53	That Yeah .	discussion
+A	1119.71	Interesting .	discussion
+D	1120.07	Awesome .	discussion
+A	1120.69	Okay .	discussion
+D	1123.42	Yeah .	discussion
+A	1123.43	Okay .	discussion
+A	1124.32	Okay .	discussion
+A	1126.24	Um all right .	discussion
+A	1127.02	So .	discussion
+A	1128.09	I li I'm liking that idea , this idea of a touch screen remote with multi-format features .	discussion
+D	1132.34	Mm-hmm .	discussion
+A	1132.39	Um .	discussion
+B	1133.12	Right .	discussion
+A	1134.41	Um .	discussion
+A	1136.87	Let's see .	discussion
+B	1138.02	I think , making it out of a nice material would be very important , because so many of those remotes that you see , these universal remotes look so cheap and low quality .	components, materials and energy sources
+D	1143.98	Yeah .	components, materials and energy sources
+A	1145.68	Mm .	components, materials and energy sources
+D	1146.2	Yeah .	components, materials and energy sources
+D	1146.38	Keeping it nice and slick , would be important .	components, materials and energy sources
+D	1149.38	And I don't know , like , there's such a problem with losing them , that adding this whole like P_D_A_ pen business is only one more thing to lose , so we're gonna have to be careful with what like Just something like keep in mind when we start actually dealing with this stuff but that would be really cool .	components, materials and energy sources
+B	1156.41	Mm .	components, materials and energy sources
+C	1158.78	Oh .	components, materials and energy sources
+A	1167.43	Uh let's see .	components, materials and energy sources
+A	1169.06	Um .	components, materials and energy sources
+C	1169.92	I like the idea of the uh multi plate .	components, materials and energy sources
+A	1173.14	Yeah yeah okay .	components, materials and energy sources
+D	1173.19	Yeah .	components, materials and energy sources
+D	1173.76	Fi b like what are they called , those face plate things ?	components, materials and energy sources
+C	1173.85	In in I like .	components, materials and energy sources
+D	1176.54	Isn't there a name for them ?	components, materials and energy sources
+A	1176.59	Think they're just called face plates ?	components, materials and energy sources
+D	1177.82	Are they ?	components, materials and energy sources
+A	1178.16	I don't know .	components, materials and energy sources
+B	1178.43	something , uh we'll have to come up with a name , patent it .	components, materials and energy sources
+D	1178.56	I dunno .	components, materials and energy sources
+C	1180.71	We should c we should come up with a fuzzy one as well .	components, materials and energy sources
+D	1180.82	Yeah .	components, materials and energy sources
+D	1181.55	Something really cool .	components, materials and energy sources
+C	1185.24	For those cold winter days .	components, materials and energy sources
+D	1185.29	Leopard print or something .	components, materials and energy sources
+B	1185.93	Leopard print .	components, materials and energy sources
+A	1189.65	Um .	components, materials and energy sources
+D	1196.94	Hmm .	components, materials and energy sources
+B	1197.78	I think , it wouldn't be such a bad idea to have a like a locator device , maybe a simple button that you have on your television to help you find your remote .	components, materials and energy sources
+D	1204.37	True .	components, materials and energy sources
+A	1205.69	Mm .	components, materials and energy sources
+A	1205.95	But if we're bundling it unless we're selling their telly with the remote .	components, materials and energy sources
+D	1209.86	Right .	components, materials and energy sources
+B	1210.58	Mm .	components, materials and energy sources
+A	1211.03	Um Cou could we not do something where like just a little lit like literally just a very small kind of thing that comes with the remote that you could place something else that you press and it makes the remote page .	components, materials and energy sources
+C	1217.03	Well if we bundle it as a phone then you can always call it .	components, materials and energy sources
+B	1220.28	True .	components, materials and energy sources
+C	1220.38	If you're not doing that then we can have something that just kind of rings from either well there used to be those whistling devices but that's a little bit annoying .	components, materials and energy sources
+D	1220.94	True .	components, materials and energy sources
+D	1228.57	Right .	components, materials and energy sources
+A	1239.95	Kinda like how on a lot of um uh cordless regular phones , you have a page button and it goes , could we do something like that ?	components, materials and energy sources
+C	1239.99	Th Yeah .	components, materials and energy sources
+D	1240.31	Right .	components, materials and energy sources
+B	1243.57	Yeah .	components, materials and energy sources
+D	1245.08	Right .	components, materials and energy sources
+C	1246.35	That's cool .	components, materials and energy sources
+B	1246.81	I think so .	components, materials and energy sources
+D	1247.04	Probably .	components, materials and energy sources
+C	1248.87	I think we could design into that .	components, materials and energy sources
+B	1249.86	Yeah .	components, materials and energy sources
+D	1251.26	Good .	components, materials and energy sources
+A	1253.41	Um yeah I think this material quality as well like I guess what we can think about what kind of um uh you know Apple 's been really successful with this surgical white kind of business or this sleek kind of you know Yeah .	components, materials and energy sources
+D	1263.83	Mm .	components, materials and energy sources
+D	1265.87	Yeah .	components, materials and energy sources
+D	1266.72	And that titanium the new silver sleek ones that's last couple of years , very much so .	components, materials and energy sources
+B	1266.82	Mm .	components, materials and energy sources
+C	1271.24	Curves .	components, materials and energy sources
+D	1272.39	Mm .	components, materials and energy sources
+A	1272.71	Yeah .	discussion
+A	1272.94	We do have the minimum am amount I mean we were talking finances I dunno , selling a a forty Pound remote would h or a forty Dollar remote , twenty five Euro remote would be pretty you know it's pretty expensive so maybe we might wanna trade off some of the features for a lower price .	discussion
+D	1282.23	Right .	discussion
+A	1288.82	Without without getting into that whole like you know go down to bargain store remote you know bargain store universal remote that's black and you know m massive , some kind of I dunno a balance there in somewhere .	discussion
+D	1293.92	Right .	discussion
+B	1294.66	Yeah .	discussion
+D	1297.06	Mm .	discussion
+D	1299.35	Definitely .	discussion
+A	1300.0	But um have a think about what we can do , have a think about what we want to do , how we're gonna sell it and um Mm .	discussion
+D	1304.45	Yeah .	discussion
+D	1305.9	Or if you our users in mind , like these grandmas are not gonna be into this whole new let's design , no it's they're used to the buttons so we'll have to be careful of exactly who we're marketing this to , and who we're gonna be able to get it out of .	discussion
+B	1315.35	Yeah .	discussion
+B	1319.35	'S true .	discussion
+D	1323.59	But Euros .	discussion
+C	1325.54	We're talking twenty five Pounds or twenty five Euros ?	discussion
+A	1327.57	Twenty five Euros .	discussion
+C	1336.69	Slight difference I guess .	discussion
+A	1338.77	Yeah .	discussion
+A	1340.44	They're all weaker than they're all stronger than the Dollar .	discussion
+D	1343.06	Mm .	discussion
+A	1343.23	Although , computer parts , all if you're gonna upgrade your computer , buy it in the States .	discussion
+A	1347.97	Like um do you guys know Fry's ?	discussion
+A	1350.37	Huge computer uh electronics store ?	discussion
+C	1350.53	No .	discussion
+D	1350.7	Mm-mm .	discussion
+A	1352.57	They serve um right they sa tha s they will sell things overseas so you can buy stuff in America and have it shipped over for like twenty thirty Pounds about .	discussion
+D	1357.57	Mm .	discussion
+A	1362.15	Right so um let's go ahead and wrap that up here for now , I'm gonna put these initial ideas that we've got in the um project documents , so if you guys wa need a reminder about what we've talked about um the different you know kind of trade-offs that we've got and the other ideas , you can consult them at your leisure .	closing
+D	1380.02	Okay .	closing
+B	1380.44	Okay .	closing
+A	1386.18	And uh right so thanks for that .	closing
+A	1387.87	Let's just uh head back to work on what we were talking about bef uh goi h h getting into .	closing
+D	1392.95	With half an hour ?	closing
+A	1394.18	Um .	closing
+A	1395.01	Yes .	closing
+D	1395.61	'Kay .	closing
+D	1395.95	Perfect .	closing
+A	1396.76	Thanks guys .	closing
+D	1397.49	Cool .	closing
+C	1397.99	Thank you .	closing
+B	1398.3	Alright .	closing

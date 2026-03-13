@@ -1,0 +1,438 @@
+A	3.94	Uh it fell off .	agenda/equipment issues
+A	12.07	One , two , three , four , yeah , we're ready .	agenda/equipment issues
+A	19.48	Okay .	opening
+A	20.51	Welcome to this second meeting .	opening
+A	22.96	Um it's now quarter after twelve and we're given forty minutes um for this meeting .	opening
+A	29.6	This is a meeting on functional design .	opening
+A	33.42	Um and I wanna welcome you all and thank you all for doing some research in between .	opening
+A	39.84	Um I did took the minutes from the first meeting and I'll show them to you in a moment .	opening
+A	46.42	Um I know each of you have a presentation and um in thinking about the forty minutes , I thought it would take only like three minutes for the previous minutes , um each of you having about seven minutes or maybe a little more , maybe a little less for your pre presentations and a little discussion , because there's I happen to have been told there were some new project requirements and we have to make some uh decision on what functions it will have .	opening
+A	76.14	Okay ?	opening
+A	78.12	Is this ap everybody agree with this ?	opening
+C	78.66	Yes .	opening
+B	78.96	Oops .	opening
+D	81.32	Yes .	opening
+A	81.89	Okay .	opening
+A	83.31	Um and after the meeting there'll be things to be done and as you can see it says we get to get lunch , um and then some more individual work and then putting minutes away and individual actions .	opening
+A	99.81	Um but uh now for the minutes of the first meeting .	opening
+A	107.84	And go to that one .	opening
+A	110.52	Um as you can see it was this earlier today .	opening
+A	115.11	Um Kate , Steph , Sarah and myself in our four capacities were present .	opening
+A	121.59	I opened the meeting , the product was developed uh and reviewed , and we talked about the financial end of it .	opening
+A	131.04	Um and it had some implications , um the four million sales target and new ideas of not too many buttons , bright colours and some of the influence of the Japanese .	opening
+A	145.08	And we closed early so you could then proceed with your research and getting your reports together for tod this meeting Anybody have any questions on those minutes ?	opening
+A	156.8	Are they complete , did they discuss everything that we covered last time ?	opening
+A	163.68	'Kay .	opening
+B	165.42	Uh I think so , we we we talked about the the individual roles that we each had as well .	opening
+A	166.45	Did I miss something ?	opening
+D	171.67	Mm-hmm .	opening
+A	172.2	Yeah .	opening
+A	174.04	I'm afraid I incorporated that when I said who was present , but yes , we did , and we did a little bit of uh team building of uh of making the pictures , but I didn't think those were appropriate to the minutes necessarily .	opening
+B	177.03	Okay .	opening
+A	187.69	So um as a group I think we've are they're accepting the minutes .	opening
+D	195.16	Okay , I accept the minutes .	opening
+A	195.91	And uh okay .	opening
+D	198.77	Is that what we're supposed to say ?	opening
+A	200.05	Yeah .	opening
+C	201.14	Yeah , I do .	opening
+A	203.18	Good .	opening
+A	204.16	Um , then we'll move to the three presentations .	opening
+A	208.47	Okay ?	opening
+D	211.06	Okay .	opening
+A	212.57	Okay .	opening
+A	216.19	Mm we need to move this .	opening
+A	218.17	Who wants to go f first ?	opening
+A	224.39	That's as far as it goes .	agenda/equipment issues
+C	229.02	Uh not really meant to touch those microphones .	agenda/equipment issues
+C	231.86	Oh it doesn't have any on , does it ?	agenda/equipment issues
+C	233.34	That's fine .	agenda/equipment issues
+D	237.58	Excellent , thank you .	agenda/equipment issues
+B	238.34	Oy , big loop under the table .	agenda/equipment issues
+A	262.04	She said we didn't need to screw it in .	agenda/equipment issues
+D	264.11	Okay .	agenda/equipment issues
+D	267.38	Okay , that looks good .	agenda/equipment issues
+A	269.61	It's doing its thing .	agenda/equipment issues
+A	271.63	There we are .	agenda/equipment issues
+D	272.56	Alright .	marketing expert presentation
+D	273.82	Thank you very much .	marketing expert presentation
+D	275.14	Um .	marketing expert presentation
+D	277.59	One of the the biggest issues I found about um from last meeting was the fact that we need to sell four million of these um remote controls and I think that this is an opportunity to really take Real Reaction in the direction of of similar of handheld tools that have been used and are used by many of us and to kind of bring the remote control into the si same realm as an accessible um useful electronic device , as opposed to something that is lost in the couch and what have you .	marketing expert presentation
+D	317.19	So um my main goal here is to re-envision the remote control in in this context and to think about menu functionality and current technology and the fact that it could be interactive with other tools .	marketing expert presentation
+D	331.81	Um some of the research uh in the market has shown that people really are not happy with remote controls as they are now , and um that means we do need to make some decisions about what what keys or or buttons on the on the remote control to perhaps keep and and what ones to discard .	marketing expert presentation
+D	353.74	And if we devote some energy into this , I think the um recent productions of Real Reaction , the I go everywhere power and the high definition D_V_D_ players although it makes immediate sense to have our remote control interact with these , I think we can also use this as a platform to make it interact with other tools .	marketing expert presentation
+D	378.72	And um in fact I think the high definition D_V_D_ players and all of this will come along in the uh will only benefit from the positive feedback from our well designed tool .	marketing expert presentation
+D	390.24	So again , most uh users really dislike the current look and feel of remote controls .	marketing expert presentation
+D	397.3	Um fifty percent I think of all these uh numbers the most important is fifty percent of user say they only use ten percent of the buttons .	marketing expert presentation
+D	406.31	And eighty percent of users , and if we think about this there are a lot of uh television , D_V_D_ , stereo remote control users out there , eighty percent would spend more money on a remote control that looks fancy .	marketing expert presentation
+B	421.14	Could can I ask where these figures come from , is this market research we've Mm-hmm .	new requirements marketing expert presentation
+D	423.44	Um it was market research and there were a hundred people in the room , so eighty out of a hundred said they would spend more money .	marketing expert presentation
+A	430.63	Now in between , as the Project Manager , they sent me an email from the powers that be um that teletext is outdated um and the internet is coming in as important , but that they want this remote control to only be for T_V_ um with incorporating the corporate image , colour and slogan .	new requirements
+D	436.56	Mm-hmm .	new requirements
+D	452.1	Mm-hmm .	new requirements
+D	454.19	Well I think we can I I think we can really focus on this remote and and again bring the Real Reaction um brand in in and and get some positive marketing for our other tools , even if we directly don't um advertise for the I go everywhere line .	marketing expert presentation
+A	479.05	Mm .	marketing expert presentation
+D	480.02	So an interesting um element was the would you pay more for speech recognition question .	marketing expert presentation
+D	487.82	So these market research uh uh questionnaires looked into your your uh concern about technology and s specifically wanted to find out information about speech recognition .	marketing expert presentation
+A	489.91	Hmm .	marketing expert presentation
+A	504.1	Okay .	marketing expert presentation
+D	504.96	Now the early adopters , those of us who grew up with technology and uh luck lucky for us have the uh cash to to pay for it , the young age group without the mortgages and responsibilities , ninety one percent of them would pay more for speech recognition in a remote control .	user target group
+D	529.62	Very interesting , I I leave this up to the group to decide if we wanna use this uh if and you know , the the designers , but ninety one percent , fifteen to twenty five Well , I I I think especially in terms of growth , I think this would be a very smart group to target .	user target group
+A	536.17	Mm .	user target group
+A	538.47	Is that a large enough target market to target it ?	user target group
+D	548.45	I mean s three quarters of the next age group , twenty five to thirty five are interested , and uh with the technologies improving , if we can get these uh Yeah .	project budget user target group
+A	558.31	In real numbers , does the ninety one percent and the seventy six percent translate to ex in excess of the four million ?	project budget
+D	564.35	To Um yes .	project budget
+A	567.3	Or eight million .	project budget
+D	568.49	Yes .	project budget
+D	569.72	But would you pay more and does it work and is it approachable and and did I know that it was it was an that's a that's a very good question .	project budget
+A	576.34	Hmm .	project budget
+A	579.36	Yeah .	project budget
+D	579.46	I don't know if speech recognition should be um should be included , but I think it's an interesting I think that maybe shows more about uh being open to technology .	project budget
+B	579.47	Um How d I'm wondering how how ou how our target price compares with the the typical price of these things .	project budget
+A	584.4	Mm .	project budget
+C	591.37	Uh it definitely needs uh a lot more research on like how much more it would be and any , you know , existing examples , and what reactions to them have been , and that sort of thing .	project budget
+A	591.7	Mm .	project budget
+D	593.68	Shall I go back ?	marketing expert presentation
+D	597.91	Yeah , yeah .	marketing expert presentation
+D	603.86	Yeah .	marketing expert presentation
+B	611.21	I expect an Industrial Designer should know that , but if we're aiming to to build this thing for twelve Euros fifty , um is that a lot or a little ?	project budget
+D	620.31	Exactly .	project budget
+D	620.97	I mean I I I uh did not receive any information on that , but I think the competition , sussing out what other people are doing and what's in the pipeline is very very important , because um there is a question about do you want an L_C_D_ screen and and that wasn't responded to , but uh some of the larger remotes do have screens where you can navigate , you know , so it turns into something uh perhaps you all have seen uh the Osbournes where Ozzy Osbourne is is attempting to manage his super entertainment system with something that looks like a uh a small tray .	project budget
+D	662.19	You know , it's I a and I think , you know No , no , you Kate , you're exactly right there .	project budget
+B	664.42	Sh surely he's in the wrong age group .	project budget
+B	666.12	He must be w one of a s small population .	project budget
+A	669.39	Mm .	project budget
+D	671.57	But I think the key is to get the early adopters , people who are familiar with technology and and uh they'll be Uh , mm .	project budget
+A	678.15	But we're not looking at whether they're early adopters on that screen , that's looking at age groups .	project budget
+D	681.82	Exactly .	project budget
+D	683.13	I yes , and I'm making and I'm making the the uh uh leap that people who are familiar younger people are l are more familiar with technology than than older people .	project budget
+A	687.78	Leap .	project budget
+A	694.72	Hmm .	project budget
+D	695.64	Or comfortable , you know , um so I think the most important thing is an attractive streamlined remote control and to be extraordinarily reductionist , power , channel , volume and everything else is is uh up to the designers .	look and usability project budget
+A	696.84	Mm .	project budget
+A	699.22	Okay , you had the other power channel .	marketing expert presentation
+D	718.94	And this is this is also supported by the market research .	look and usability
+A	724.0	Okay .	marketing expert presentation
+D	726.42	Thank you .	marketing expert presentation
+D	727.11	That's my contribution .	marketing expert presentation
+A	728.88	Alright .	marketing expert presentation
+A	731.0	And we'll turn to the next presentation .	agenda/equipment issues
+A	746.21	I think she said we don't need to screw it in , just stick it in .	agenda/equipment issues
+A	751.19	And then press , what ?	agenda/equipment issues
+A	753.46	F F_N_ and F_ eight .	agenda/equipment issues
+A	757.98	Next to the control button on the bottom , and then F_ eight at the top .	agenda/equipment issues
+C	763.03	Yeah , press them .	agenda/equipment issues
+A	763.66	And then w be patient .	agenda/equipment issues
+C	768.49	Yeah , here we go .	agenda/equipment issues
+A	770.36	Tada .	agenda/equipment issues
+B	772.83	And if you want it to go into slide show mode , it's that little button there .	agenda/equipment issues
+C	777.3	Can I not just uh do each one in order ?	agenda/equipment issues
+B	782.47	I you can if you like , it it that that just sets it up to do a p a p no that one , that one there .	agenda/equipment issues
+A	786.47	There we are .	agenda/equipment issues
+C	786.59	That ?	agenda/equipment issues
+A	788.08	Yay .	agenda/equipment issues
+C	788.61	That ?	agenda/equipment issues
+B	789.25	Left , left a bit , left a bit , that one , yep .	agenda/equipment issues
+C	790.27	That ?	agenda/equipment issues
+B	791.55	And then you just press the click when you wanna go on .	agenda/equipment issues
+C	795.99	Right , technical functions design .	interface specialist presentation
+C	800.94	Uh well I think first off , basically I do agree with what Sarah has defined as as uh your personal preferences,yeah .	interface specialist presentation
+C	812.37	I think we need uh a more streamlined volume with no extraneous functions .	interface specialist presentation
+C	820.92	So my method was to look at the existing remotes and what functions they have .	interface specialist presentation
+C	825.88	And what we all need to discuss is whether we want these functions uh pretty much the same as what existing remotes have .	interface specialist presentation
+C	833.92	If we can build on this with the speech recognition , that's not something I'd thought about at all , but it's also something we can discuss .	interface specialist presentation
+A	843.85	Okay .	interface specialist presentation
+C	844.56	Um and and I presume we can miss out the functions really to to a video or D_V_D_ remote control , if this is only gonna be a , you know , satellite , cable , T_V_ remote control .	interface specialist presentation
+A	854.13	T_V_ only .	interface specialist presentation
+C	858.89	So these are two models of existing remote controls .	existing products
+C	863.99	Uh the one on the left seems to be a fairly uh standard universal remote control .	existing products
+A	866.18	Ugh .	existing products
+C	872.23	It has fast-forward , stop , play , all relating to movies .	existing products
+C	877.39	It also has seems to have channel up and channel down , which is which is more what you'd expect from a , you know , like a Sky or cable remote control where you've got hundreds of channels instead of a merely terrestrial one .	existing products
+A	887.13	Hmm .	existing products
+C	894.23	Uh but I think we should be looking more along the lines of the one on the right , which has it also has play , stop and pause and everything , I don't think we need them at all .	existing products
+C	904.21	I think we just need channel selection , volume up , volume down and I think an an enter function where you can access it's not like teletext , but along the same lines , access things on the screen .	look and usability
+C	924.84	Uh not related to the internet one that you mentioned , because that'd be far outside our budget and what we want this to do .	look and usability
+A	933.31	Mm .	look and usability
+A	935.45	And exceed the requirements they're expecting of us .	look and usability
+C	935.51	So it really exceed the requirements , 'cause the requirements really are just want to be able to change channels and functions , which is more a text on the screen thing than uh than actual buttons o I was thinking something some smooth , sleek , little remote control with big user-friendly buttons and uh a menu that you can access .	look and usability
+A	951.52	Okay .	look and usability
+A	959.55	Alright .	look and usability
+C	967.25	Uh but then I do think we need to discuss the speech um recognition possibility .	interface specialist presentation
+A	976.74	Okay .	interface specialist presentation
+A	978.58	Any uh thing else you wanna add ?	interface specialist presentation
+C	979.84	No .	interface specialist presentation
+A	980.77	Okay .	interface specialist presentation
+C	982.48	But we could go back to the pictures of the uh , what're they called ?	interface specialist presentation
+C	989.8	The pictures of the remote controls and possibly discuss what we think about them , but maybe should hear what Kate has to say first .	interface specialist presentation
+D	996.5	Or if Yeah .	interface specialist presentation
+A	1000.87	Yeah .	interface specialist presentation
+A	1001.93	Let's hear what Kate has to say .	agenda/equipment issues
+C	1003.68	Okay then .	agenda/equipment issues
+D	1003.71	Maybe afterwards we could do a uh whiteboard with that your the one on the right as a as a basis .	agenda/equipment issues
+A	1014.53	Hmm .	agenda/equipment issues
+D	1015.36	Whiteboard session .	agenda/equipment issues
+A	1018.38	I think the white that one on the right is , as well as less cluttered , It's there but it's Yeah .	existing products
+D	1023.0	Mm-hmm .	existing products
+C	1023.64	Definitely less cluttered and I mean but still it's Sorry I was just I'll just uh resume something else I was gonna say .	existing products
+C	1032.46	The the style of these is terrible .	existing products
+C	1035.47	I I I really think we need to uh not only possibly even materials , like the type of plastic used , but everything including size and shape of buttons , positioning of buttons , the actual shape of the hand-held device , colours , just every e yeah , everything to do with this has to be revolutionised .	existing products
+D	1054.24	The ergonomics , the way it fits in your Yeah .	existing products
+A	1056.09	Hmm .	existing products
+C	1063.83	But So that's that for now .	interface specialist presentation
+B	1071.38	Cheers .	interface specialist presentation
+B	1099.16	Mm , I haven't actually got a display on my screen .	agenda/equipment issues
+A	1101.37	Okay .	interface specialist presentation
+B	1102.05	Still , I'll do without that .	agenda/equipment issues
+B	1104.89	Okay um , now I wanna bring us down to earth again I'm afraid and talk about the actual practicalities of how the thing needs to work .	industrial designer presentation
+B	1116.75	Um oh and this is the methodology I used in preparing for this meeting .	industrial designer presentation
+B	1123.32	Um basically I've been doing a little bit of web-based research , and if I had a design team , I would've been discussing my ideas with 'em .	industrial designer presentation
+B	1133.19	But the the net result is that I've come up with a first cut for the working design that I'd like to discuss with you .	industrial designer presentation
+B	1141.75	So , let's go back to what the basic function of a remote control is .	components, materials and energy sources
+B	1145.77	It's for sending a message , um typically um via infrared .	components, materials and energy sources
+B	1152.64	And the the basic components we've got to build in for our twelve Euros fifty are um an energy source , the user interface and which will um in incorporate um an integrated circuit that actually composes the message um based on what the which buttons the user presses , we turn that into a message , um and then we need a sending mechanism to send it to the receiver .	components, materials and energy sources
+B	1185.53	Now I would have hoped I think that's my only slide actually , yeah .	components, materials and energy sources
+B	1188.42	I would have have hoped to um do you a pretty PowerPoint slide of um my first cut design , but unfortunately the technology defeated me , so if you'll bear with me I'll do it on the whiteboard .	components, materials and energy sources
+B	1207.19	So we want an energy source which is there .	components, materials and energy sources
+B	1216.5	And we've got to think about what that might be .	components, materials and energy sources
+B	1218.78	Uh we obviously don't want wires on this thing .	components, materials and energy sources
+A	1219.19	Hmm-mm .	components, materials and energy sources
+B	1223.29	Uh typically it would be a battery , but I'm open to suggestions .	components, materials and energy sources
+B	1228.04	Um and then we have the the user interface .	components, materials and energy sources
+B	1239.73	Oops .	components, materials and energy sources
+B	1246.25	And the main components in there are the the th the chip that actually has the intelligence of the machine that translates button presses into a message , which it then transfers to some sending mechanism , which encodes it and sends the message to the receiver .	components, materials and energy sources
+B	1288.09	So those are the basic things that we've got to get in for our twelve Euros fifty .	components, materials and energy sources
+B	1292.8	Thank you .	industrial designer presentation
+A	1295.48	Hmm .	industrial designer presentation
+A	1298.89	Okay .	industrial designer presentation
+A	1303.14	Right .	industrial designer presentation
+A	1307.24	But those things as long as we can get those components , the block , that that rectangle for the user interface , is where the user comes in of what what does it look like ?	components, materials and energy sources
+A	1322.52	What do the buttons look like ?	components, materials and energy sources
+A	1324.94	Uh what does it feel like ?	components, materials and energy sources
+A	1326.4	That's where the user interface is really coming into its own .	components, materials and energy sources
+B	1329.85	Mm-hmm .	components, materials and energy sources
+A	1330.4	The technical end is what's actually gonna be in there , but also it has to be easy enough to change or repair if something goes wrong .	components, materials and energy sources
+A	1344.43	For example the battery energy source or um what if the chip , for whatever reason , breaks down after a certain amount of time , do you just replace it ?	components, materials and energy sources
+A	1357.7	Um is there any um because it may be in the same area with several other user interfaces , like for D_V_D_s , movies , whatever .	components, materials and energy sources
+A	1367.82	Um does it have to have a a way of being segregated from the others , in a different frequency or something ?	components, materials and energy sources
+B	1380.52	Well I may be wrong here , but I'd been thinking of this device as being a a cheap mass-produced device .	components, materials and energy sources
+B	1386.17	We're trying to sell four million of 'em , um that's that's , you know , that's almost one in every tenth household or whatever it is .	components, materials and energy sources
+A	1388.22	Mm .	components, materials and energy sources
+B	1394.15	Um and I hadn't thought of it as being a reparable thing , you just if it goes wrong you chuck it out , and that's why I'm a bit concerned .	components, materials and energy sources
+A	1398.92	Okay .	components, materials and energy sources
+B	1402.17	I like the idea of speech recognition , that's a great idea , but I'm not convinced we can put it into this box for the price that we need gonna need to hit .	components, materials and energy sources
+D	1409.75	Do we have um ki some idea of how much it would cost to create a device that has these basic elements ?	project budget components, materials and energy sources
+C	1409.84	Whoop .	components, materials and energy sources
+A	1410.13	Okay .	components, materials and energy sources
+D	1420.43	Because then No , the chip composer marketing .	project budget
+C	1421.52	Isn't that your job ?	project budget
+A	1423.52	Oh .	project budget
+C	1424.9	Oh right .	project budget
+D	1426.53	Oh no , the chip composer sender .	project budget
+A	1428.24	Mm .	project budget
+B	1429.44	Um , I'm I'm I'm hoping that my personal coach is gonna give me some advice on that , if you're asking me , but Yeah .	project budget
+D	1429.45	I I don't believe I know , um .	project budget
+A	1431.33	What they cost .	project budget
+D	1434.84	Okay .	project budget
+A	1436.29	Okay .	project budget
+D	1436.37	Be because then we would ha ha figure out how much we had to play with in terms of user interface and this look and feel idea .	project budget
+C	1440.39	Yeah .	project budget
+A	1441.39	Mm .	project budget
+C	1444.39	It does it does seem as if we're just to do something really simple and mass-produced , the which is pretty much the same as these existing models , just maybe a little bit more inspired , but basically just the same .	project budget
+D	1448.28	Mm-hmm .	project budget
+D	1453.91	Inspired ?	project budget
+D	1457.78	Mm .	project budget
+C	1460.25	Although what what uh suddenly came into my head is , you know how they always take two A_A_ batteries which which is really not very efficient at all .	components, materials and energy sources
+C	1472.08	Could it be possible to have uh , you know , like a rechargeable internal battery , like , well , like an M_P_ three player does ?	components, materials and energy sources
+D	1477.61	Mm-hmm .	components, materials and energy sources
+C	1481.17	With that you could jus or a mobile phone or whatever .	components, materials and energy sources
+D	1482.99	Mm-hmm .	components, materials and energy sources
+C	1483.98	You could you know , you just plug into a power source for a couple of hours , and then it's recharged for ages and ages and ages , and you don't have to worry with replacing A_A_ batteries , which are You'd never need uh batteries would y uh yeah .	components, materials and energy sources
+D	1493.27	Well that has another element , which is if every time you're done using the remote you put it on a charger , then you then it has a place .	components, materials and energy sources
+A	1500.19	Mm .	components, materials and energy sources
+D	1503.17	Yeah , but it also has a place , so exactly .	components, materials and energy sources
+C	1504.58	And it's not stuck down the back of the sofa .	components, materials and energy sources
+A	1507.21	Mm .	components, materials and energy sources
+C	1507.83	But then again I d I don't know if this is within our price range or not .	components, materials and energy sources
+D	1511.75	That's a really good idea .	components, materials and energy sources
+B	1512.49	Well I uh think that's a very interesting idea , but um I'm not a very good industrial designer and I don't know much about what these things cost .	components, materials and energy sources
+B	1519.6	I'll do some research for the next meeting .	components, materials and energy sources
+D	1521.52	Well it's better than my idea about solar , probably .	components, materials and energy sources
+A	1521.56	Okay .	components, materials and energy sources
+A	1524.81	Uh yeah .	components, materials and energy sources
+B	1526.38	Well solar may not be so good when you're watching T_V_ in the night , but Yeah , I guess .	components, materials and energy sources
+D	1528.39	Yeah , yeah .	components, materials and energy sources
+A	1529.78	Mm .	components, materials and energy sources
+C	1530.83	Well it is just so annoying how No , but just a rechargeable internal battery would probably I mean it might cost more to at first to develop and to install , but for long-term use it'll be so much more convenient and economic than fiddling around trying to replace chunky A_A_ batteries and not having any in your kitchen drawer and you know f Mm .	components, materials and energy sources how to find when misplaced
+D	1530.89	Depen Mm .	components, materials and energy sources
+A	1531.7	It would have to sor store up the energy and then use it .	components, materials and energy sources
+D	1534.2	Yeah .	components, materials and energy sources
+A	1536.16	Solar can do that .	components, materials and energy sources
+B	1536.93	We may be talking quite heavy then .	components, materials and energy sources
+D	1538.8	Yeah .	components, materials and energy sources
+A	1539.06	M yeah , that would be too heavy and it'd cost too much .	components, materials and energy sources
+B	1541.67	Mm-hmm .	components, materials and energy sources
+D	1550.06	Mm-hmm Mm-hmm .	components, materials and energy sources
+B	1565.63	So do you think we might make that a selling point if it was something that we found we could afford to develop ?	components, materials and energy sources
+D	1570.44	Definitely , 'cause I'm thinking in terms of um uh the loss and breakage of um remotes , how much of that is is to do with it not really having a uh a home , a um a nest , a place to live , exactly .	how to find when misplaced
+A	1571.4	Mm .	how to find when misplaced
+A	1587.34	Mm .	how to find when misplaced
+C	1588.08	Sort of have its little dock that you could put it in .	how to find when misplaced
+A	1590.42	Yeah .	how to find when misplaced
+D	1590.49	So if you can dock it , um you know , you could s argue that this is Exactly .	components, materials and energy sources how to find when misplaced
+A	1594.2	And the dock could look very fancy and that could be your inspiration of having it looking decent .	components, materials and energy sources
+C	1598.45	Still I don't know if it's quite within our price range .	components, materials and energy sources
+D	1602.38	Mm .	components, materials and energy sources
+A	1602.47	Hmm .	components, materials and energy sources
+D	1602.64	'Cause you are talking about another component , like another piece of hardware .	components, materials and energy sources
+C	1605.63	Yeah .	components, materials and energy sources
+A	1606.39	Yeah .	components, materials and energy sources
+D	1607.85	Mm .	components, materials and energy sources
+A	1607.95	Okay .	discussion
+A	1608.66	Are we agreed as to what our target group is though ?	user target group
+A	1613.96	Pretty much , so that we'd be looking for the younger end .	user target group
+D	1614.53	Well I I brought up some exactly , but I think you raised some good questions about are there enough of these people out there , or are they making purchasing decisions ?	user target group
+B	1621.69	Mm .	user target group
+D	1623.83	You know , these are the Yeah , exactly .	user target group
+B	1623.99	Yeah , I was wondering that , because I ag I agree that there there're people with uh how can I put it , more money than sense and who are liable to buy something new , but Bu but what I was gonna say was , although they they may be buying um , you know , personal music devices and all that , are they necessarily buying T_V_ remote controls ?	user target group
+A	1624.17	Mm .	user target group
+A	1630.68	I I s usually put more money than brains .	user target group
+D	1634.45	Oh oh oh I'll make a note of that , Kate .	user target group
+D	1636.27	Good , good comment .	user target group
+B	1646.48	Because they probably live in a household that has a T_V_ if they're at the lower end of the age range , I don't know .	user target group
+D	1649.5	Yeah .	user target group
+C	1652.46	Yeah .	user target group
+D	1652.74	It might be good to know um uh who , you know , who's actually buying televisions and are we in a uh uh s region where people have more than one television in a home ?	user target group
+B	1665.65	Mm .	user target group
+B	1666.3	I think we've got a big hill to climb here , haven't we ?	marketing strategy
+B	1668.27	I mean we've gotta persuade people who've got a remote control 'cause it came with the telly that they should buy our product instead .	marketing strategy
+D	1668.63	Yeah .	marketing strategy
+A	1672.06	Mm .	marketing strategy
+D	1674.53	Yeah .	marketing strategy
+A	1674.8	Yeah .	marketing strategy
+A	1675.35	Or do we s make sure that it goes to the man through the manufacturer ?	marketing strategy
+A	1678.62	We sell to the manufacturer as the remote that goes with it .	marketing strategy
+B	1679.78	Right , good point .	marketing strategy
+B	1681.07	Yeah , yeah okay , yeah .	marketing strategy
+D	1681.76	Yeah .	marketing strategy
+C	1682.16	Yeah .	marketing strategy
+B	1683.4	Yeah .	marketing strategy
+D	1683.68	Yeah .	marketing strategy
+C	1684.13	That's probably more what it is .	marketing strategy
+B	1684.58	Yeah , good point .	marketing strategy
+A	1685.49	What would be a more efficient way of doing it ?	marketing strategy
+D	1687.93	Yeah , and and some of our D_V_D_ players incidentally have them , because we have the relationship with our own department , but moreover we need to to go for the the manufacturers .	marketing strategy
+A	1696.75	Mm-hmm .	marketing strategy
+A	1700.11	Okay .	marketing strategy
+A	1701.62	Right .	discussion
+C	1701.65	We're not gonna get any resolutions by the end of the day , are we ?	discussion
+A	1704.8	Probably not .	discussion
+D	1705.01	Mm .	discussion
+A	1706.31	Um the other thing that we're supposed to do is make decision on our functions .	look and usability
+A	1717.66	Our functions , we've so far decided , I think , that power , channel , volume make it attractive .	look and usability
+A	1727.53	Um it has to have an enter key and of course the number keys .	look and usability
+A	1732.42	It has to have big user-friendly buttons and sh n definitely we wanna be inspired that the current styles are just plain awful .	look and usability
+C	1744.52	Yeah .	look and usability
+D	1745.62	Do we need um let me Br actually , um the enter key I have a chart here that I didn't include .	look and usability
+A	1749.76	Is that agreeable to everyone ?	look and usability
+B	1751.2	Mm-hmm .	look and usability
+A	1756.59	Mm-hmm .	look and usability
+D	1757.31	Um yeah , which might Th yeah , th those are felt like had a lot of charts .	look and usability
+B	1758.85	Do you want the gizmo ?	look and usability
+A	1764.29	Throw some light on that .	look and usability
+A	1774.2	Um actually we're , you know , we are almost a half hour out of the forty minutes , so we have to get close to finishing .	look and usability
+D	1780.57	Okay , I I my only comment is I think maybe um we could somehow include an enter key in like a power key if power power was enter and pow that was my only just really in terms of streamlining .	look and usability
+A	1790.04	Ah .	look and usability
+A	1791.46	Mm-hmm .	look and usability
+A	1793.37	Okay .	look and usability
+D	1797.53	Um Exactly .	look and usability
+A	1797.78	Enter , power as a s oh um a sum simultaneous key .	look and usability
+D	1802.64	Again , you know , thinking of menus or Um well if you're pressing enter , the the thing would already be on , and so maybe um when you press power , initially it turns it on , press power again and use that as an enter um so you press power after you've um well I was thinking maybe you to turn it off you'd have to press power twice in succession , and maybe power follows something like a channel up channel down power , and then that would make that choice .	look and usability
+A	1803.35	Is that okay with you ?	look and usability
+C	1806.21	Sorry , I was miles away .	look and usability
+A	1806.88	Would that uh-huh .	look and usability
+B	1807.06	H how does that work ?	look and usability
+C	1807.51	I was re I was reading the chart to be honest .	look and usability
+B	1807.97	How so so how does that work , how do you avoid switching the thing off when you actually wanna press enter ?	look and usability
+A	1828.99	Then you'd have to have an off te off key .	look and usability
+B	1836.1	Okay , yep , mm-hmm .	look and usability
+A	1837.71	Mm .	look and usability
+B	1844.56	It's not getting a bit complicated ?	look and usability
+B	1846.79	Could granny do this , or are we just not aiming at granny ?	look and usability
+D	1846.81	Well Or y yeah .	look and usability
+D	1850.44	Or something that has a a turning dial , where at the far end is on or off .	look and usability
+C	1855.7	Who's got an iPod then ?	look and usability
+D	1857.49	Yeah , I don't um I wish .	look and usability
+A	1858.45	Mm .	look and usability
+D	1860.42	Anyway , uh that was the only comment about um some of the the decisions people have made , what's most important .	look and usability
+A	1863.3	Okay .	look and usability
+D	1868.31	It's definitely channel , volume , power .	look and usability
+A	1868.53	Mm .	look and usability
+C	1870.45	Yeah , things like screen settings and audio settings , I would generally do them on the actual television itself , like here you have a you know , a little flap th with a little control panel on the actual box itself .	look and usability
+D	1877.51	Exactly .	look and usability
+D	1883.04	Exactly .	look and usability
+C	1885.22	I I wouldn't know how to do it using a remote control , so um I would say that they are definitely less relevant .	look and usability
+D	1887.94	Yeah .	look and usability
+D	1894.73	Okay , well .	look and usability
+A	1894.88	Okay .	look and usability
+D	1896.64	Thanks for looking at that .	look and usability
+A	1904.29	So I guess easy to use is the other thing that we want 'em to be able to do .	look and usability
+D	1906.97	Mm-hmm .	look and usability
+D	1908.82	We don't wanna outsmart Hmm .	look and usability
+A	1909.1	As you said , you know , don't make it too hard for the granny .	look and usability
+A	1914.64	I just joined that set last week .	look and usability
+A	1918.08	Um first grandchild arrived .	look and usability
+D	1918.2	Congratulations .	look and usability
+B	1918.84	Mm .	look and usability
+B	1922.48	Uh .	look and usability
+A	1923.11	Um so are we agreed then of those things ?	discussion
+A	1930.05	And let's go back to agenda and hook me up .	agenda/equipment issues
+D	1930.09	D Oh you're fine .	agenda/equipment issues
+A	1939.32	Mm .	agenda/equipment issues
+A	1940.76	This oughta be fun .	agenda/equipment issues
+A	1942.37	It probably won't go the first time , it'll probably be like a g mess .	agenda/equipment issues
+A	1951.49	Come on .	agenda/equipment issues
+A	1956.98	Uh it lost it off here .	agenda/equipment issues
+A	1960.24	Uh No , it was up there , but I couldn't see it down here .	agenda/equipment issues
+D	1962.7	It's fine .	agenda/equipment issues
+A	1979.45	Mm .	agenda/equipment issues
+A	1985.57	This time it should be both .	agenda/equipment issues
+A	1988.13	There we go .	agenda/equipment issues
+B	1989.95	How do you do that ?	agenda/equipment issues
+B	1990.53	How do you make it do both ?	agenda/equipment issues
+A	1995.37	Um you have to keep doing the financi the the F_N_ and F_ eight to five minutes to finish , thank you a lot for telling me .	agenda/equipment issues
+B	2001.99	Ah okay , it toggles through , yeah .	agenda/equipment issues
+D	2005.51	I think you have to cycle through .	closing agenda/equipment issues
+A	2005.66	Um right , we're ready to close .	closing
+B	2007.15	Yeah .	closing
+A	2011.49	Um will be completed q questionnaire , um then we'll have some time for individual work to continue our research um and I'll put some minutes of this meeting together .	closing
+A	2026.37	Um your individual assignments are for um Kate to do the components , for you , Steph , to do the user interface and for you the trend-watching .	closing
+A	2044.15	Um and each of us will get help from our coach .	closing
+A	2048.62	Are we agreed to get ourselves together and then have lunch ?	closing
+C	2052.3	Yes .	closing
+A	2053.28	Okay .	closing
+B	2053.41	Sounds good .	closing
+A	2054.98	Then that's the end of this meeting .	closing
+A	2057.0	And I hope that's good enough for her to tell her that's the end .	closing
+A	2060.89	Okay ?	closing
+B	2061.64	Okay .	closing
+C	2062.96	We didn't come to any sort of decision on the functions though .	discussion
+A	2066.36	Well I think I went over the functions and wrote them down and marked them .	discussion
+C	2071.12	Alright , well that's fine then .	discussion
+A	2072.79	Um that's what I went over and nobody was objecting to them .	discussion
+D	2075.29	Okay .	discussion
+D	2077.73	Um and you'd mentioned I I was just gonna say , could you reiterate the new project requirements , because it they were it has to be for a T_V_ , just to keep myself Yeah , I think I've Okay .	new requirements
+A	2083.22	Okay .	new requirements
+A	2086.53	Um the teletext is outdated , the internet is important , it's only to be for a T_V_ and it must include the corporate image , colour and slogan um which I think is more in the user uh range , with Steph .	new requirements
+B	2089.91	So we're still in meeting , aren't we ?	new requirements
+C	2104.63	Mm .	new requirements
+C	2106.66	Sorry , what what actually are these is that the yellow and black ?	discussion
+A	2109.86	It doesn't tell me .	discussion
+D	2112.49	Mm .	discussion
+C	2114.29	From their I'll just use it from their website .	discussion
+A	2116.43	Mm-hmm .	discussion
+A	2121.06	Okay ?	discussion
+C	2121.93	Okay .	discussion
+B	2122.47	Okay .	discussion
+D	2122.84	Right .	discussion
+D	2124.18	Thank you .	discussion

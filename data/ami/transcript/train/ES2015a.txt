@@ -1,0 +1,280 @@
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	62.51	Alright , that did nothing .	opening
+A	63.43	Okay .	opening
+A	64.63	Welcome to the meeting everyone .	opening
+A	67.89	Just gonna attempt to make this into a slide show .	agenda/equipment issues
+A	83.27	Sorry guys .	agenda/equipment issues
+D	84.83	You may have to do the function F_ eight thing .	agenda/equipment issues
+A	86.81	I did .	agenda/equipment issues
+D	87.42	Oh , okay .	agenda/equipment issues
+A	87.68	Twice .	agenda/equipment issues
+A	93.57	This'll just take a moment .	agenda/equipment issues
+B	94.66	Okay okay Okay .	opening agenda/equipment issues
+A	102.17	Or it won't .	agenda/equipment issues
+A	123.12	Okay we'll have to deal with it like this then .	agenda/equipment issues
+A	126.43	Alright .	agenda/equipment issues
+A	127.23	Um .	agenda/equipment issues
+A	128.05	This is the first meeting uh for developing our , our new product .	opening
+A	135.79	I'm Heather , I'm your Project Manager .	opening
+B	137.98	Hello .	opening
+A	139.08	Okay .	project specs and roles of participants
+A	139.95	So um .	project specs and roles of participants
+A	141.67	So that was the opening .	project specs and roles of participants
+A	142.99	The first thing we'll do is get acquainted with one another .	project specs and roles of participants
+A	146.51	If everyone could go around and explain their role and um , and their name .	project specs and roles of participants
+B	152.51	Okay .	project specs and roles of participants
+B	152.85	My name's Poppy .	project specs and roles of participants
+B	153.76	I'm the Industrial Designer for this project .	project specs and roles of participants
+B	156.66	Um , I'm going to be responsible for the functional design phase .	project specs and roles of participants
+B	160.81	Also the conceptual design and the detailed design for the final product .	project specs and roles of participants
+A	166.65	Nice to meet you Poppy .	project specs and roles of participants
+B	167.55	Okay .	project specs and roles of participants
+C	169.44	My name's Tara and I'm the User Interface Designer .	project specs and roles of participants
+C	173.41	I will also be responsible for the functional design phase , the conceptual design phase and the detailed design phase of the user interface design .	project specs and roles of participants
+A	185.01	Alright .	project specs and roles of participants
+D	185.73	Hi , I'm Genevieve .	project specs and roles of participants
+D	186.52	I'm the Marketing Expert .	project specs and roles of participants
+D	188.81	I'm an expert at marketing .	project specs and roles of participants
+D	190.22	Um , I'll be telling you guys about the user requirement specifications for our new product .	project specs and roles of participants
+D	194.78	Um , I'll be doing some trend-watching in the conceptual design , and product evaluation for the design phase .	project specs and roles of participants
+A	203.11	Alright I'm Heather and I've I said I'm your Project Manager , um Well you can pretty much read what it is that I'm doing .	project specs and roles of participants
+A	212.48	But um um Yeah .	project specs and roles of participants
+A	220.66	And uh tool training is one thing that we're going to be doing today , um um as well as planning the project , how we're going to , uh , create this product , and , um , discuss , um , our aims and objects of this , uh Which brings us to our next subject , is , um , um , as a team we're going to be designing and creating a new kind of remote control .	project specs and roles of participants
+A	249.36	Um , we want this to be a marketable product that can be trendy , um , a completely new style , so that , um , can really appeal to a , to a generation that doesn't want a simple plain kind of , uh , channel-changer .	project specs and roles of participants
+A	268.73	And , um , it needs to be user-friendly for , um , maybe , for an example , for people that , um , can't see the numbers as well , or , um , perhaps an ergonomic design .	project specs and roles of participants
+B	280.91	Okay .	project specs and roles of participants
+B	283.04	So this is a television remote control ?	project specs and roles of participants
+A	285.62	Yes , it's a television remote control .	project specs and roles of participants
+B	285.85	Yeah .	project specs and roles of participants
+A	290.89	Right .	project specs and roles of participants
+A	292.27	I believe I should be taking minutes on this right now .	project specs and roles of participants
+A	296.93	So , alright .	project specs and roles of participants
+B	298.35	Okay .	project specs and roles of participants
+A	302.95	Um , yeah .	project specs and roles of participants
+A	309.07	Um , the way that we're going to go about this is , um , we'll have a time where we can , um come up with new ideas alone , and , and work on the project and then , um , after we've brainstormed and , and thought about , we can come together in a meeting and , and discuss what , what um , what kind of functional design we want to use .	project specs and roles of participants
+A	332.97	Same with conceptual design and detailed design .	project specs and roles of participants
+A	336.92	So , um , making sure that it , it's usable , that as a , um and that it's , it's feasible to create , and uh , to come up with a concept of it want , what we want it to look like .	project specs and roles of participants
+A	352.73	Um , tool training .	project specs and roles of participants
+A	354.76	Is , is everyone , um Okay .	project specs and roles of participants
+B	357.47	Yeah .	project specs and roles of participants
+B	357.92	Got those notes .	project specs and roles of participants
+D	358.02	Yeah .	project specs and roles of participants
+D	358.57	Thank you .	project specs and roles of participants
+A	358.81	Great .	project specs and roles of participants
+A	359.6	Great .	project specs and roles of participants
+A	360.7	Um One thing that , uh , we're going to do is become more acquainted with the , the tools that we have access to for our project .	project specs and roles of participants
+A	371.38	Um , one of them is our whiteboard .	project specs and roles of participants
+A	373.94	And , um , as a sort of team-building moment , um , I , I'd like us to , um , try out the whiteboard by expressing our favourite animal and the charac characteristics of that animal .	project specs and roles of participants
+A	388.15	Um , why that , why that should be your favourite animal .	project specs and roles of participants
+A	392.34	So , um , I , I'm assuming that we should do that now .	project specs and roles of participants
+B	396.62	Okay .	drawing exercise
+A	398.02	'Kay .	drawing exercise
+A	399.57	With our microphones still attached to our bodies .	drawing exercise
+B	401.2	Okay .	drawing exercise
+C	401.39	Gosh .	drawing exercise
+A	401.64	Okay .	drawing exercise
+A	412.91	'Kay , what's my favourite animal ?	drawing exercise
+A	417.4	Do come up .	drawing exercise
+B	418.3	Oh , to go first .	drawing exercise
+B	420.69	Oh , are we all doing it individually ?	drawing exercise
+A	421.24	This is a team-building time where , um , , okay cool , um My favourite animal , which changes all the time , okay , right now it is an elk .	drawing exercise
+B	423.42	Okay , let's stand up and support you Okay .	drawing exercise
+C	426.89	Yeah .	drawing exercise
+C	439.18	An elk ?	drawing exercise
+A	440.59	alright , so And it goes like Yeah it's got like big antlers , yeah .	drawing exercise
+C	440.62	A vicious We have sheep .	drawing exercise
+A	460.32	Looks kinda like , like it has holly growing out of its head .	drawing exercise
+B	467.23	Do you have elk where you come from ?	drawing exercise
+A	469.65	Yes .	drawing exercise
+B	470.34	You do .	drawing exercise
+A	470.91	Yeah we have moose and we have deer .	drawing exercise
+D	470.91	We have moose too .	drawing exercise
+B	472.4	Okay .	drawing exercise
+A	475.14	Do you have 'Kay , um .	drawing exercise
+B	477.91	Sheep .	drawing exercise
+B	478.38	Yeah , cows .	drawing exercise
+B	483.86	That's a great elk .	drawing exercise
+D	484.21	Uh-oh , we have a good artist .	drawing exercise
+C	484.86	That is really good .	drawing exercise
+B	486.07	Yeah .	drawing exercise
+C	486.85	I'm quite Very good .	drawing exercise
+A	487.23	Thanks .	drawing exercise
+A	490.35	This is my Okay .	drawing exercise
+D	492.87	Oh , very shapely .	drawing exercise
+B	494.84	Brilliant .	drawing exercise
+A	495.68	That's a sketching of my my elk , and it , it is my favourite animal right now , 'cause it is a large beautiful majestic creature , that um , that um In a way it looks kind of awkward , because it's on spindly legs and it uh But it can really overcome harsh terrain , and although it's gorgeous it's also very dangerous , because it has um strong antlers , and uh it can really combat its enemies , even like it it's a it's an herbivore but , uh , it can really defend itself .	drawing exercise
+B	532.52	Mm .	drawing exercise
+B	533.94	Very nice .	drawing exercise
+A	534.02	Yeah .	drawing exercise
+B	534.86	Okay .	drawing exercise
+A	535.56	Right .	drawing exercise
+A	550.35	Right , I'm gonna take minutes while , um , you guys express your favourite animals .	drawing exercise
+B	553.25	Okay , I'll go next .	drawing exercise
+B	557.54	I am a big animal lover .	drawing exercise
+B	559.47	I like all sorts of animals , but for the moment I'm gonna draw a cat , in memory of my poor cat that died recently .	drawing exercise
+D	565.68	Oh .	drawing exercise
+A	566.02	Oh .	drawing exercise
+B	570.81	It's gonna be a bit of a strange drawing , but never mind .	drawing exercise
+B	591.47	Not as artistic as Heather's drawing .	drawing exercise
+B	593.3	Bit more cartoon style .	drawing exercise
+B	595.13	But I like cats because they're so independent , and they always seem to be doing what they want to be doing .	drawing exercise
+B	601.85	Um , but that doesn't mean they're completely not sociable , 'cause they enjoy interacting with humans as well , and they seem to enjoy the good things like sunshine and , um , running around outside as well as being inside , and enjoying their food , and generally just , they just seemed so cool and they just know what they're doing .	drawing exercise
+B	624.8	Uh I reckon they're sort of , they got it sorted .	drawing exercise
+B	627.55	They know what they want .	drawing exercise
+B	629.41	Basically , that's why I like cats .	drawing exercise
+A	632.21	Great .	drawing exercise
+B	632.96	I'll rub that out .	drawing exercise
+B	640.31	There you go .	drawing exercise
+C	642.49	Okay .	drawing exercise
+C	643.3	I think my favourite animal would be a dog , but I'm not really sure how to draw one .	drawing exercise
+B	649.21	Ooh .	drawing exercise
+C	649.91	I , I've never drawn a dog , I don't think .	drawing exercise
+C	653.23	I'm tempted to draw a snail 'cause I draw them sometimes and they're really easy to draw .	drawing exercise
+C	659.14	Um , right it's gonna be a really funny dog , 'cause I'm not sure how to draw a dog .	drawing exercise
+A	660.96	I forget her name .	drawing exercise
+D	662.2	Tara or Tara .	drawing exercise
+B	667.34	Well there are loads of different types of dogs , so I'm sure it'll represent one kind of dog .	drawing exercise
+C	671.46	It's a cartoon dog I think .	drawing exercise
+C	674.44	A s I don't ev Oh , oh well .	drawing exercise
+C	678.57	It's a scary cartoon dog .	drawing exercise
+C	684.11	That This , that does not look like a dog .	drawing exercise
+A	687.74	It looks kinda like a person .	drawing exercise
+C	688.01	I'm sorry .	drawing exercise
+B	688.35	We can pretend .	drawing exercise
+D	691.11	That's Pinocchio .	drawing exercise
+C	694.74	How do you draw a dog ?	drawing exercise
+C	696.4	I suppose it has a lon Oh my god .	drawing exercise
+C	698.92	Right .	drawing exercise
+C	699.81	Yous know what it's supposed to be .	drawing exercise
+C	704.0	It's a dog .	drawing exercise
+B	707.3	Okay .	drawing exercise
+C	707.64	Um , I like dogs because , um , they're so good to humans , like they can be trained to be police dogs and seeing-eye dogs , and they're just such friendly animals .	drawing exercise
+C	719.75	And , like they're more of a companion than cats .	drawing exercise
+C	724.57	I've nothing against cats .	drawing exercise
+B	724.64	Yeah , that's true .	drawing exercise
+C	725.74	Cats don't really like me , so I can't like them .	drawing exercise
+C	729.58	But they're just so friendly and warm and nice animals , that don't look like that .	drawing exercise
+D	745.9	Alrighty .	drawing exercise
+D	747.5	I feel like a robot .	drawing exercise
+D	750.03	Okay .	drawing exercise
+D	751.61	Um , well I guess I had the most time to think about it .	drawing exercise
+D	753.82	I'm going to draw a butterfly , because I saw a butterfly yesterday , that seemed to be like the symbol of Spring arriving .	drawing exercise
+D	760.12	And it was actually the prettiest butterfly I've ever seen out in the wild , and I though that was pretty cool in Scotland .	drawing exercise
+D	763.62	It was like , well it was a little pointier than that .	drawing exercise
+D	770.77	At first I thought it was a dead leaf .	drawing exercise
+D	772.73	And then it landed on the wall next to me .	drawing exercise
+D	775.08	But this part was all brown and then it has these big blue dots like this .	drawing exercise
+D	780.22	And then it kinda there was a green , I think it was a green ring , and there was like red going out like this .	drawing exercise
+A	785.27	It's kinda like a peacock .	drawing exercise
+D	787.07	Yeah , it kinda was actually , 'cause it was This part of the body was really dull , and then it was the most colourful exotic butterfly ever , and I'm like , wow this is the middle of Scotland in like March .	drawing exercise
+D	795.78	So I thought that was pretty cool .	drawing exercise
+D	796.89	And it landed by a wall and let me look at it for about two minutes .	drawing exercise
+D	799.18	I wish I'd had my camera .	drawing exercise
+D	800.74	So that's gonna be my favourite animal because after all the snow it seemed to say that like Spring is finally here .	drawing exercise
+D	806.64	Yeah .	drawing exercise
+D	807.08	There you go .	drawing exercise
+B	807.2	Very nice .	drawing exercise
+A	808.49	Great .	drawing exercise
+D	809.82	Uh , what do we Oh .	drawing exercise
+A	816.86	Do you hear the eraser buzzing while you do that ?	drawing exercise
+D	819.44	Yes I do .	drawing exercise
+A	820.04	Yea Right .	drawing exercise
+A	826.78	So , now that we know how to use the whiteboard , um , the next , um , thing we need to address is our financial department , to meet our our budget , um or not meet our budget but more , um , like what kind of , uh , selling range we'll be looking at , um , wanna make this um selling price of twenty five Euros .	project budget
+B	830.07	Okay .	project budget
+A	854.49	And so we have to , um , come up with a way to , to create a , a uh remote control , where um we can like the price to create it will be significantly less .	project budget
+A	868.47	Um , we'd like to , um to , uh , make fifty million Euro .	project budget
+A	874.1	I'm assuming that's what the M_ means .	project budget
+A	876.18	Um , and make it for an international market .	project budget
+A	880.41	Um , one thing we'd have to think about internationally is in the design of , um , like different kinds of , uh , V_C_R_s .	project budget
+A	887.66	Things like that , depending on which country you are .	project budget
+A	890.1	Another thing for the design team to think about .	project budget
+A	892.61	Um , we want it to cost , uh , absolute maximum of twelve Euro and fifty cents .	project budget
+D	904.42	Okay , so we'll have a hundred percent profit then ?	project budget
+D	908.04	Twelve fifty .	project budget
+A	910.25	I'm bad at math .	project budget
+D	911.3	Okay .	project budget
+A	911.86	'Kay .	project budget
+A	913.63	Um , so now that , um , that is underway , um it is discussion time .	discussion project budget
+A	922.9	So this is time for us to bring our initial ideas , any um suggestions that you may have so far , a um your personal experiences with remote controls , and um , um , areas you see that , uh , could be improved in your experience with them .	existing products
+A	942.51	Does anyone have any initial thoughts ?	existing products
+D	945.66	I find that in the dark it's often hard to know what button you're pushing .	existing products
+A	949.19	Mm-hmm .	existing products
+A	950.23	So what's something we could , uh , do to remedy that ?	existing products
+B	953.97	Okay .	existing products
+D	955.36	Um Mm-hmm .	existing products
+B	956.17	I always find that in our house the remote control always goes missing .	existing products
+B	961.07	It's always , where is the remote control ?	existing products
+C	962.04	Yeah .	existing products
+B	963.68	So maybe if you could have some kind of tracking device for the remote control or some signal that you could find out where it was .	existing products
+B	972.53	I dunno , some kind of alarm .	existing products
+B	974.59	You can press a button on your wall , signal , 'cause it always gets lost .	existing products
+A	976.46	Yeah .	existing products
+A	976.75	It's a great idea .	existing products
+A	977.9	It's a great idea .	existing products
+C	981.38	Do yous not find that , um , like , there's a lot of , um , buttons on your remote control , and you don't know what half of them do .	existing products
+B	987.57	Yeah .	existing products
+B	988.84	Yeah , that you don't use half of them .	existing products
+C	990.08	Yeah , I don't know what they do .	existing products
+D	991.35	Mm-hmm .	existing products
+D	996.96	There's some remote controls where there's kind of a hidden panel , so all those buttons that you don't really use unless you're programming or something .	existing products
+C	1000.87	Yeah .	existing products
+B	1001.37	Yeah , that's , that's Yeah , it is .	existing products
+D	1002.72	That's useful .	existing products
+D	1004.26	So you just have like the number buttons , power button , T_V_ video button .	existing products
+B	1004.32	Yeah .	existing products
+C	1006.94	Yeah .	existing products
+B	1008.12	Yeah .	existing products
+A	1010.23	Alright .	look and usability
+A	1010.81	Anything about , um , the look of the , uh , remote control that you might have ideas about .	look and usability
+A	1017.39	Maybe it could be , instead of like a standard rectangular shape , it could be , um , something more interesting like Any ideas will do that you have at this point .	look and usability
+D	1028.57	Could be shaped like a conch , you know .	look and usability
+B	1028.63	Mm .	look and usability
+D	1032.07	Be like a shell-shaped remote .	look and usability
+A	1034.15	Can hold it .	look and usability
+B	1034.16	A novelty .	look and usability
+B	1035.34	Are we going into kind of novelty factors here .	look and usability
+A	1035.62	Yeah .	look and usability
+B	1037.67	Like , I've seen phones like a Okay .	look and usability
+A	1038.47	Well if it's a trendy original , um , aspect we're going for .	look and usability
+A	1042.05	I mean , you're the designers , you c , you can um decide what kind of , um , direction you wanna go in , but at this point in the , in the first meeting it can be any ideas that we just throw out there .	look and usability
+B	1043.23	Yeah .	look and usability
+B	1044.73	Mm-hmm .	look and usability
+C	1044.99	Yeah .	look and usability
+B	1050.27	Yeah .	look and usability
+B	1052.32	I suppose , if we're he heading to have it , like make a huge profit out of this , it needs to be quite a universally accepted thing .	look and usability
+B	1060.25	Like , a novelty thing might only sell a few things rather than , like , a general kind of more acceptable But we don't wanna go towards boring , 'cause that wouldn't sell either .	look and usability
+C	1060.66	Yeah .	look and usability
+A	1068.42	Mm-hmm .	look and usability
+B	1071.29	So , hmm .	look and usability
+A	1071.35	Yeah .	look and usability
+A	1072.7	And the key issue here is , is being trendy and original .	look and usability
+B	1075.68	Yeah .	look and usability
+A	1075.84	Um , that does not necessarily mean it needs to be outrageous .	look and usability
+B	1079.24	Yeah .	look and usability
+A	1080.39	Right .	closing
+A	1081.01	Okay we have five minutes left .	closing
+A	1083.21	So , just to cover We have one more thing .	closing
+A	1089.28	Um , like you can go over your ideas , of course , in your own personal times .	closing
+B	1092.94	Yeah .	closing
+A	1092.95	Um , our next meeting will be in half an hour .	closing
+A	1095.76	So you have half an hour to , uh , think about what you want to present .	closing
+A	1099.87	Or not present but bring to the meeting .	closing
+A	1102.67	Um , I_D_ , whatever that stands for .	closing
+D	1106.35	Interface ?	closing
+B	1106.42	Industrial Designer .	closing
+A	1107.36	Industrial Designer .	closing
+D	1107.5	Oh , industrial .	closing
+B	1107.53	That's me .	closing
+A	1108.22	I have to remember these things .	closing
+A	1109.92	Um .	closing
+A	1111.67	You'll be beginning your , your working design .	closing
+B	1113.65	Mm-hmm .	closing
+A	1114.43	Um , U_I_D_ the technical functions design will , will be worked on the next thirty minutes .	closing
+A	1119.66	Um , maybe how this can be achieved , and , um , we need the user requirements from the manag Marketing Expert .	closing
+D	1128.95	Marketing Expert .	closing
+A	1131.17	Um , you will get specific instructions , um , of what to do in the next half an hour .	closing
+A	1136.51	And I'll see you in half an hour , okay ?	closing
+B	1138.77	Okay .	closing
+A	1139.33	'Kay .	closing
+B	1139.39	Thank you .	closing

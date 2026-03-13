@@ -1,0 +1,1154 @@
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	74.89	Hello .	chitchat
+D	82.13	Yes , I made it .	chitchat
+D	85.74	English from now on .	chitchat
+D	90.38	Drawing or Yeah .	chitchat
+A	91.53	Yeah just testing .	chitchat
+A	95.66	Mm ?	chitchat
+C	98.35	Just kidding .	chitchat
+A	98.37	English .	chitchat
+C	102.92	So annoying .	chitchat
+A	104.1	Break is over .	chitchat
+D	106.41	Ooh it works .	chitchat
+A	107.06	Whoo .	chitchat
+A	110.12	Spicy .	chitchat
+D	110.91	Spicy .	chitchat
+D	112.4	Where are are all the other presentations ?	agenda/equipment issues
+C	115.86	I just put it in the in the shared folder so it should be yeah I think so .	agenda/equipment issues
+D	119.56	The conceptual or Ah .	agenda/equipment issues
+C	122.85	Yeah , conceptual design .	agenda/equipment issues
+C	124.72	What or whatever does it No no no , can you go back one ?	agenda/equipment issues
+D	126.02	Because I see only my own presentation yeah .	agenda/equipment issues
+C	132.07	Uh 'cause it has to be PowerPoint pre yeah components design , that's it .	agenda/equipment issues
+D	134.59	This ?	agenda/equipment issues
+D	136.13	I'll just put it in there .	agenda/equipment issues
+A	138.74	So , he's coming .	agenda/equipment issues
+C	142.63	I did get a bit more done than the last time , 'cause I knew that I didn't have time so I just copy and paste everything into the Sometimes I have these pop-ups or these sounds and there's nothing there , and also with I don't know how to use PowerPoint , so it takes me forever to get something done with it .	agenda/equipment issues
+D	143.26	Or not .	agenda/equipment issues
+B	144.55	Okay .	agenda/equipment issues
+A	145.16	Oh okay .	agenda/equipment issues
+D	148.82	Ah , I can't cut and paste it into the other folder but Move to meeting room .	agenda/equipment issues
+A	149.98	Ah .	agenda/equipment issues
+A	151.2	She .	agenda/equipment issues
+A	151.31	You can look at the final report , 'cause I have to record everything we are deciding and such , so I'm trying to write it down between everything else .	agenda/equipment issues
+D	162.33	Yeah .	agenda/equipment issues
+A	167.13	Oh .	agenda/equipment issues
+D	168.04	Yeah me too , .	agenda/equipment issues
+B	173.71	I I've got the same problem as well .	agenda/equipment issues
+C	175.78	Yeah .	agenda/equipment issues
+D	177.87	Yeah .	agenda/equipment issues
+A	178.35	Yeah .	agenda/equipment issues
+A	178.83	Here we go again .	opening
+A	180.45	Welcome .	opening
+A	182.84	Uh we have again three presentations and then we have to decide on what concepts the mobile phone has to uh f the remote control has to support .	opening
+C	182.93	Thi Mm-hmm .	opening
+A	193.83	So who wants go .	opening
+D	195.98	Yes .	opening
+C	196.72	Who wants to start ?	opening
+A	196.73	Yes ?	opening
+D	197.33	Me first again or yeah .	opening
+A	198.49	Yeah sure .	opening
+B	198.68	Oh .	opening
+B	199.24	No .	opening
+A	199.39	Doesn't matter .	opening
+B	199.69	Yeah .	opening
+B	200.13	No problem Yeah .	opening marketing expert presentation
+D	201.89	Alright .	opening
+D	202.99	Did you open it already or no .	opening
+A	204.34	No .	opening
+D	204.67	Ah .	opening
+D	208.97	Ah .	opening
+D	212.06	Yes .	opening
+D	223.43	So welcome to the marketing presentation once again .	trendwatching
+D	226.89	Um this time about trendwatching .	trendwatching
+D	231.31	Uh well there has been inv investigation again , in the in the remote control market .	trendwatching
+D	236.5	Uh it shows a number of developments .	trendwatching
+D	238.36	Uh I will address them uh in a moment .	trendwatching
+D	241.68	Um fashion watch watchers uh have detected the trends for young public , because that's our public .	trendwatching
+D	247.92	Um well fruit and vegetables will be will be the most important theme for clothing , uh shoes and furniture .	trendwatching
+D	255.09	And the feel of the material is expected to be spongey .	trendwatching
+D	258.23	So um the developments I will address them oh yeah well this is the fruit and vegetables looks of fresh bright colours .	trendwatching
+D	265.93	So to give you an idea .	trendwatching
+D	268.37	Um well the developments ?	trendwatching
+D	270.56	Uh development one .	trendwatching
+D	272.9	Uh well most important aspect for remote control happens to be a fancy look-and-feel .	trendwatching
+D	278.71	Instead of the current uh functional look-and-feel .	trendwatching
+D	281.65	Um well fancy stands for an original look-and-feel of the case and the interface .	trendwatching
+D	287.74	And the second most important aspect is that a remote control should be technological uh innovative .	trendwatching
+D	295.76	Um well it stands for the use of technical features that do not exist in current remote controls .	trendwatching
+D	301.36	I think we pretty much covered that with our screen and um and speech recognition , so I don't expect that to be a problem .	trendwatching
+C	304.74	Sound .	trendwatching
+C	306.54	Yeah yeah uh uh .	trendwatching
+D	309.16	And the third development um is that the remote control should be easy to use .	trendwatching
+D	315.37	Um Well the first aspect uh was twice as important as the second aspect,w which was twice as important as the third aspect .	trendwatching
+D	327.32	So um that kind of gets you this ratios .	trendwatching
+A	327.68	Mm-hmm .	trendwatching
+D	330.67	So fancy look-and-feel uh is the most important uh point of attention .	trendwatching
+D	336.17	Uh so the fruits and vegetables in combination with the spongey material .	trendwatching
+D	340.16	Um well technolog technological innovation , we've covered that pretty much I guess .	trendwatching
+D	345.1	Um and easy to use , I don't think that will be problem .	trendwatching
+D	348.96	So my point of attention is especially this part .	trendwatching
+D	353.36	That this will be a crux .	trendwatching
+C	353.65	Yeah .	marketing expert presentation
+D	357.88	So that was the marketing uh presentation .	marketing expert presentation
+D	360.43	I had only one document left .	marketing expert presentation
+C	362.09	And shall I go first ?	marketing expert presentation
+C	363.6	So I Yeah ?	marketing expert presentation
+B	363.63	No .	marketing expert presentation
+B	363.97	I I don't mi I don't mind .	marketing expert presentation
+B	365.91	That's Do you want to go first ?	marketing expert presentation
+D	366.5	So kind of this So a k a small example .	marketing expert presentation
+B	368.39	Okay .	marketing expert presentation
+A	368.61	Yeah yeah sure .	marketing expert presentation
+A	369.36	No .	marketing expert presentation
+B	369.79	Yeah .	marketing expert presentation
+D	370.97	Kind of this this look .	marketing expert presentation
+D	372.82	Uh nothing about the buttons but just sponge kind of thing , and and some fruit and colours I dunno .	marketing expert presentation
+B	374.98	Yeah .	marketing expert presentation
+D	379.93	Just made a quick design .	marketing expert presentation
+A	382.98	Cool .	marketing expert presentation
+B	384.16	It's better than than my uh drawing .	marketing expert presentation
+D	384.5	Alright .	marketing expert presentation
+C	384.84	Alright .	marketing expert presentation
+A	386.79	Yeah you're just the user interface hmm ?	marketing expert presentation
+B	389.14	Yeah okay but I have to design the Yeah .	industrial designer presentation marketing expert presentation
+C	389.23	Uh components .	industrial designer presentation
+A	391.6	Yeah layout .	industrial designer presentation
+C	395.04	Oh no .	agenda/equipment issues
+A	395.42	Yeah okay .	agenda/equipment issues
+D	395.75	Yeah .	agenda/equipment issues
+D	396.31	It's okay .	agenda/equipment issues
+A	396.89	You probably opened it .	agenda/equipment issues
+C	398.98	Yeah true .	agenda/equipment issues
+C	399.7	Um Alright .	industrial designer presentation agenda/equipment issues
+A	400.38	F_ five .	agenda/equipment issues
+D	401.15	F_ five .	agenda/equipment issues
+C	404.95	So I'm dealing with the components design .	industrial designer presentation
+C	408.83	Um let's see .	industrial designer presentation
+C	410.73	I uh used some design examples we had uh from similar products .	industrial designer presentation
+C	416.63	And I used uh possibilities from our manufacturing department about current components which will have to be implemented in the design .	industrial designer presentation
+C	426.27	That's why I had to , wanted to go first .	industrial designer presentation
+C	428.84	Well they gave me um an idea about what people want .	industrial designer presentation
+C	432.97	We're f mainly focusing on this group , but I want to make the distinction clear .	industrial designer presentation
+C	437.93	Uh I could not drag the pictures into the the slides so s so I don't have examples of how it looks like .	industrial designer presentation
+C	446.22	But it comes down to what you uh what you think we should do with the spongey and the fruity looking uh type .	industrial designer presentation
+C	453.5	If you , the young dynamic people want soft primary colours uh , which looks like fruits you know , you can and shapes that are curved and not uh solid straight lines anymore .	industrial designer presentation
+C	467.05	So this basically um yeah goes on to what you were mentioning earlier .	industrial designer presentation
+C	473.51	There is a lot of um factors involved in choosing the components .	components, materials and energy sources
+C	478.95	There's a lot of options that we have to discuss .	components, materials and energy sources
+C	481.75	Uh for example the energy source .	components, materials and energy sources
+C	484.25	we have four types .	components, materials and energy sources
+C	485.37	The basic battery .	components, materials and energy sources
+C	487.32	Uh we have a hand dynamo , which we yeah we Dutch refer to it as the kneipgatt .	components, materials and energy sources
+A	491.99	Yeah .	components, materials and energy sources
+C	493.79	Uh the kinetic provision of energy which means if you move the thing , if you shake it .	components, materials and energy sources
+C	499.49	Which will be fun for toddlers right , if they wanna use the And uh of course solar cells .	components, materials and energy sources
+D	501.82	Yeah .	components, materials and energy sources
+C	505.45	But I dunno how we would use that into the design of the actual product .	components, materials and energy sources
+D	508.44	Wi an indoors .	components, materials and energy sources
+C	510.18	So uh my yeah also also in you know countries where there's n isn't much light like in Scandinavia , they wouldn't be y able to use it half of the year you know .	components, materials and energy sources
+D	511.43	Oh .	components, materials and energy sources
+A	511.55	Yeah okay .	components, materials and energy sources
+A	513.18	Calculator's can do it .	components, materials and energy sources
+B	520.85	Yeah .	components, materials and energy sources
+C	521.75	So that's not cool either .	components, materials and energy sources
+D	521.86	Yeah .	components, materials and energy sources
+A	522.01	Mm-hmm .	components, materials and energy sources
+C	523.44	So um for the uh a case , there's uh the traditional uncurved flat hard case .	components, materials and energy sources
+C	530.16	Single curved , which means that it has uh curves in one dimension .	components, materials and energy sources
+C	534.07	Or the double curved .	components, materials and energy sources
+C	535.75	Um I wasn't able to finish my uh personal preferences sheet , but well you know that we will have to go for the double curved 'cause it's daring and different from what we have now .	components, materials and energy sources
+D	547.49	Yeah .	components, materials and energy sources
+C	547.84	Uh the case materials .	components, materials and energy sources
+C	549.62	Well we have all kinds of hard uh materials like the the hard plastic , the wood and the titanium .	components, materials and energy sources
+C	556.61	I would definitely go for rubber 'cause it fits most in what people wanna see nowadays .	components, materials and energy sources
+D	562.56	Yeah .	components, materials and energy sources
+C	563.16	Um poo , this is a lot of text .	components, materials and energy sources
+C	565.76	I wasn't able to organise this yet .	components, materials and energy sources
+C	567.9	We have yeah several uh interface designs .	components, materials and energy sources
+C	574.18	Uh we can use a scroll buttons for the menus , but we already kind of decided to go for the f for the pushbuttons , for the the arrow buttons .	components, materials and energy sources
+B	579.17	Yeah .	components, materials and energy sources
+B	579.81	Pushbuttons .	components, materials and energy sources
+B	581.63	Yeah .	components, materials and energy sources
+C	584.56	So that's not really interesting .	components, materials and energy sources
+D	584.84	Yeah .	components, materials and energy sources
+C	586.83	Electronics ?	components, materials and energy sources
+C	588.92	Yeah , maybe we wanna decide on what electronics to use the advanced chip I think is easiest to implement uh for the production , 'cause they they can print it better .	components, materials and energy sources
+C	605.04	Um Yeah .	components, materials and energy sources
+C	611.1	I think this is about it .	components, materials and energy sources
+C	613.27	Yeah I was working on some per personal preferences .	components, materials and energy sources
+C	616.94	I first uh chose for the battery , 'cause yeah I'm traditional and that's the most obvious , easiest choice to go to .	components, materials and energy sources
+C	623.59	But I really think that we should maybe uh think about the kinetic energy , where you have to move the thing to be able to use it .	components, materials and energy sources
+B	628.18	Yeah .	components, materials and energy sources
+B	629.61	Yeah .	components, materials and energy sources
+A	630.14	Yeah .	components, materials and energy sources
+B	630.47	As an optional uh feature .	components, materials and energy sources
+D	630.53	Yeah .	components, materials and energy sources
+B	633.33	Or combine uh both with a with one uh Okay .	components, materials and energy sources
+D	636.33	I guess we can only choose one .	components, materials and energy sources
+A	636.35	Uh I think you can only fit one uh source of energy on the Yeah I didn't receive any info uh .	components, materials and energy sources
+C	636.69	Yeah maybe we I can imagine that the kinetic uh type energy source would be more expensive to make .	components, materials and energy sources
+C	645.93	But it is more longlasting , that the people don't have to ever buy batteries again .	components, materials and energy sources
+D	650.88	Yeah .	components, materials and energy sources
+D	651.44	And it's more fun .	components, materials and energy sources
+C	652.64	And it's also more fun yeah .	components, materials and energy sources
+C	653.85	I always chuck my uh remote control around , so Yeah y exactly .	components, materials and energy sources
+D	655.82	Yeah , just playing with it and especially when the material's rubber .	components, materials and energy sources
+A	657.59	Yeah .	components, materials and energy sources
+D	661.28	It can be done , I mean , you can't harm it , so it's a perfect combination I guess .	components, materials and energy sources
+A	661.5	S yeah it's safe .	components, materials and energy sources
+B	664.26	And throw it .	components, materials and energy sources
+C	665.22	You don't have to be scared about bouncing it off the g floor and breaking it or whatever .	components, materials and energy sources
+D	668.95	Yeah .	interface specialist presentation
+B	669.85	Okay .	interface specialist presentation
+C	670.08	So that's the end of it .	industrial designer presentation
+B	672.9	Yeah .	interface specialist presentation
+D	673.43	So So double curved is like this , this , this , or Mm .	discussion interface specialist presentation
+C	674.7	Uh go ahead .	interface specialist presentation
+A	675.02	'Kay next .	interface specialist presentation
+C	680.79	No it means curved in two dimensions .	discussion
+C	683.35	So uh w single curved ?	discussion
+C	686.02	Uh let's say would be a b square box , but then with curves on one dimension .	discussion
+D	691.42	Yeah .	discussion
+C	691.51	And double curved would means that it would have curves curves in every direction .	discussion
+D	694.64	Also in in height ?	discussion
+A	695.34	Uh Okay .	interface specialist presentation
+D	696.63	Yeah okay .	discussion
+C	696.87	Like three D_ .	discussion
+B	697.53	Yeah .	interface specialist presentation
+A	697.82	Can we uh Yeah .	interface specialist presentation
+B	698.39	One one uh very important thing I was uh yeah thinking about is the speech uh option .	interface specialist presentation
+C	698.73	Yeah .	discussion
+B	704.44	We were going to use that .	interface specialist presentation
+B	706.43	Yeah .	interface specialist presentation
+B	707.03	So um Yeah um yeah that's one thing uh which I'm not sure uh of how to implement it uh into the remote control .	interface specialist presentation
+C	717.43	Design ?	interface specialist presentation
+A	717.84	Well the visual representation is not there with speech but you can Yeah .	interface specialist presentation
+B	720.97	No okay but it has to be combined with with the menu uh for functions and So okay .	interface specialist presentation
+A	726.32	Just yeah .	interface specialist presentation
+A	727.6	I think you can just uh match the speech commands with the functions that are already present .	interface specialist presentation
+B	733.78	Yeah .	interface specialist presentation
+B	735.64	Okay .	interface specialist presentation
+A	735.72	So I don't think you have to design anything else for that .	interface specialist presentation
+D	736.01	Yeah with the programme .	interface specialist presentation
+B	737.62	But do uh j do we uh do the speech just for the basic options , for the simple buttons ?	interface specialist presentation
+A	742.76	Both .	interface specialist presentation
+B	743.72	For for everything , also for the advanced options ?	interface specialist presentation
+A	744.97	Yeah .	interface specialist presentation
+B	745.88	Okay .	interface specialist presentation
+B	747.06	Uh we have this very uh basic uh trendy design .	interface specialist presentation
+B	751.16	Everybody says it so that's what's uh yeah um Yeah in the in the last uh meeting we uh we were yeah putting the the simple and the advanced options separated .	interface specialist presentation
+B	765.5	That's yeah obvious .	interface specialist presentation
+B	768.86	Um yeah .	interface specialist presentation
+B	770.15	Pressing the the menu option uh will disable uh all other options on your uh remote control .	interface specialist presentation
+B	777.27	And only the the L_C_D_ panel will uh light up and then you can only uh change the yeah the options .	interface specialist presentation
+D	784.0	And and the and the buttons that you need to control it , I guess .	interface specialist presentation
+B	785.81	Yeah .	interface specialist presentation
+A	786.28	Yeah .	interface specialist presentation
+B	788.07	Um yeah design has to be very attractive but that's your your op your yeah .	interface specialist presentation
+B	797.31	you have to uh delete this but this is the the the simple uh layout .	interface specialist presentation
+A	799.03	Yeah .	interface specialist presentation
+B	801.22	Uh display on the upper side with the the menu button and maybe a some sort of cancel button or save button .	interface specialist presentation
+A	809.97	That would be the back .	interface specialist presentation
+B	810.03	I'm The back .	interface specialist presentation
+D	811.62	Yeah .	interface specialist presentation
+A	812.02	Back and okay .	interface specialist presentation
+D	812.85	Back and okay .	interface specialist presentation
+B	813.05	Back and okay yeah .	interface specialist presentation
+B	814.83	Uh What ?	interface specialist presentation
+A	814.94	You did read the minutes I wrote ?	interface specialist presentation
+A	817.45	You did read the minutes I wrote ?	interface specialist presentation
+B	820.72	A little bit I think but not not everything w Okay .	interface specialist presentation
+C	821.14	I And rubber .	interface specialist presentation components, materials and energy sources
+A	822.34	Oh okay 'cause I pretty much summed up all the buttons there were .	interface specialist presentation
+A	826.14	So I hate doing work for nothing .	interface specialist presentation
+B	826.64	Oh I uh didn't read that .	interface specialist presentation
+B	829.35	But But this is the the basic uh design uh for the for the m yeah for the buttons .	interface specialist presentation
+B	838.64	Um I wanted to to categorise everything .	interface specialist presentation
+B	842.85	Uh with a speech display uh yeah , sound , everything you you noted in your uh minutes .	interface specialist presentation
+B	850.37	Um every pushbutton has uh has its own uh LED light .	interface specialist presentation
+B	855.18	So you can uh yeah change uh m make it more trendy for for younger people .	interface specialist presentation
+A	855.26	Mm-hmm .	interface specialist presentation
+B	860.51	And uh if there are older people they wanted more uh yeah more uh luxurous so that's an a also an option .	interface specialist presentation
+B	870.92	Um that was it .	interface specialist presentation
+A	873.5	That was it ?	interface specialist presentation
+B	874.42	Yeah .	interface specialist presentation
+A	875.58	Okay .	interface specialist presentation
+A	876.15	Uh again .	interface specialist presentation
+A	881.92	Ugh .	interface specialist presentation
+A	895.31	Okay so what we have to decide is what kind of components do we use ?	components, materials and energy sources
+A	900.3	Uh energy source , chip type , case type .	components, materials and energy sources
+A	903.52	And user interface .	components, materials and energy sources
+A	905.86	But I didn't see a clear distinction between these so I think what we have is okay .	components, materials and energy sources
+A	911.1	So we only , we already decided that kinetic would be the choice for energy .	components, materials and energy sources
+D	916.24	No .	components, materials and energy sources
+A	916.84	Uh the case would be doubly curved .	components, materials and energy sources
+D	919.66	Rubber material .	components, materials and energy sources
+A	919.83	So Rubber material .	components, materials and energy sources
+C	920.66	Rubber material .	components, materials and energy sources
+A	922.79	And that's the only thing we have left .	components, materials and energy sources
+C	926.48	Yeah we need the the chip on print to be able to support the the screen and uh and f audio function .	components, materials and energy sources
+A	931.32	Oh okay .	components, materials and energy sources
+A	931.76	No it's easy .	components, materials and energy sources
+D	933.37	So that's uh is that is that the advanced chip ?	components, materials and energy sources
+C	936.51	Yeah .	components, materials and energy sources
+A	937.27	Advanced chip .	components, materials and energy sources
+C	937.62	Yeah .	components, materials and energy sources
+D	938.36	Wow .	components, materials and energy sources
+C	938.37	Otherwise you would have a simple chip , just for pressing buttons .	components, materials and energy sources
+A	938.48	Okay .	components, materials and energy sources
+D	941.04	Yeah .	components, materials and energy sources
+C	941.59	But we need more .	components, materials and energy sources
+D	942.89	Alright .	components, materials and energy sources
+D	943.95	Kinetic .	components, materials and energy sources
+C	944.0	I'm just thinking , this is not my department , but I I'm not sure what this is gonna cost , to be able to m So 'cause we need to sell it for twenty five Euro a piece .	discussion
+A	944.65	Too .	discussion
+D	945.24	Double curved .	components, materials and energy sources
+A	949.82	Uh I didn't get any info on this .	discussion
+A	951.76	So Yeah .	discussion
+C	955.07	That's gonna be difficult huh ?	discussion
+B	956.18	Yeah .	discussion
+D	957.0	The cost of making it should be twelve and a half ?	discussion
+A	960.29	I have total here .	discussion
+C	960.79	Yeah .	discussion
+C	963.95	Yeah yeah yeah .	discussion
+A	964.12	Yeah I don't know .	discussion
+A	964.83	I didn't get any information about that so Yeah .	discussion
+B	966.55	We're going to produce it in uh China so it's no problem .	discussion
+C	969.85	Child labour man , we love it .	discussion
+D	972.22	Yeah , so it's cheap .	discussion
+A	972.72	Who doesn't .	discussion
+A	974.17	Uh let's see .	discussion
+A	975.36	Is there a new thing ?	discussion
+D	976.13	Um well the interface type supplements .	discussion
+A	978.45	Yeah the interface , maybe can Ooh .	discussion
+B	980.9	Uh it's it's quite difficult because we we haven't got all the options uh yeah .	discussion
+A	986.72	No .	discussion
+A	987.49	Uh do you have a picture of doubly curved case ?	discussion
+A	992.27	And could you put that in the group folder ?	discussion
+C	994.37	Um let me see .	discussion
+A	994.48	Of the project folder .	discussion
+C	996.31	Wait a sec .	discussion
+D	996.78	If you go to your homepage or something , you should get your own information .	discussion
+C	998.79	Yeah I'm going there now .	discussion
+C	1002.66	Inspiration .	discussion
+D	1006.15	I got my fresh and fyoo fruity uh picture uh also uh over there , so No .	discussion
+C	1009.79	Well Um yeah maybe it's Maybe it's easier Yeah .	discussion
+A	1010.17	Ah you didn't draw it yourself .	discussion
+A	1013.32	Ah .	discussion
+D	1014.14	Too less time .	discussion
+D	1019.34	Yeah , also the menu .	discussion
+D	1020.8	Yeah that that w Yeah .	discussion
+B	1021.06	Yeah .	discussion
+B	1021.51	This is the the menu I was uh looking uh at .	discussion
+D	1024.45	Yeah I was thinking of that also , with with a with a uh arrow .	discussion
+B	1026.8	Yeah .	discussion
+A	1027.61	Arrow .	discussion
+B	1028.09	Arrow yeah .	discussion
+D	1029.09	So that indicates that there's an menu under that menu .	discussion
+A	1029.14	Yeah .	discussion
+C	1033.04	Yeah perfect .	discussion
+D	1034.19	So Oh yeah .	discussion
+B	1034.2	Yeah .	discussion
+C	1036.96	Maybe it's easier if you guys come over here .	discussion
+A	1037.16	'S the target group .	discussion
+B	1038.26	S yeah .	discussion
+C	1038.89	S see this is the the the standard traditional type , where the form uh yeah serves the function , you know .	discussion
+A	1039.17	Yeah sure .	discussion
+C	1047.26	It's like really basic .	discussion
+C	1049.07	But this m is more appealing to old people and we don't want that .	discussion
+A	1051.7	Yeah .	discussion
+D	1051.7	Yeah .	discussion
+C	1052.85	This is what we're looking for .	look and usability
+C	1054.25	And th that means curved in both dire dire uh dimensions .	look and usability
+A	1057.81	Oh okay .	look and usability
+C	1058.17	Not only like this but it has to be exactly .	look and usability
+A	1058.61	I see .	look and usability
+A	1059.38	Yeah also like this .	look and usability
+A	1060.57	So you can hold it .	look and usability
+C	1062.48	It has to be kind of instead of the PlayStation , the module .	look and usability
+C	1066.72	It has to be like the the Game Cube , you know , where your thumbs would be laying in the instrument and it has to be nice to hold .	look and usability
+B	1068.94	Yeah .	look and usability
+B	1072.77	But it has also to it it has also to be uh luxurous uh for for yeah rich people .	look and usability
+C	1074.0	And It ha Yeah but that's that's the the problem uh yeah the dilemma actually , 'cause we wanna appeal to the to the young public with fancy with flashy colours , and with a lot of shape .	look and usability
+B	1079.29	Th this looks a little bit like like for only for children .	look and usability
+A	1081.1	The children's story .	look and usability
+A	1082.22	Yeah I've got it .	look and usability
+B	1082.76	So Yeah .	look and usability
+A	1084.07	Distinction .	look and usability
+A	1084.95	Yeah .	look and usability
+C	1095.18	And Yeah , and the and the rubber , it it will look cheap always , you know , with the There is mobile phones , in which you can change the colour also of the lights .	look and usability
+B	1097.63	The colour Yeah .	look and usability
+B	1100.33	Okay but the the colours , you you can make it uh make the colours with LEDs uh beneath the the buttons .	look and usability
+B	1106.22	If you press a button and you can disable the the colour LEDs for for people that don't like it .	look and usability
+A	1106.39	Mm-hmm .	look and usability
+D	1112.03	Mm .	look and usability
+B	1116.3	Yeah .	look and usability
+C	1116.83	Maybe we should consider this function .	look and usability
+A	1119.3	Mm-hmm .	look and usability
+C	1119.68	To customise it and so I mean kids can make it look more flashy with different kinds of colours and people who want something , you know , different , or more uh design , they can go for one colour like uh for example this uh photo th camera .	look and usability
+B	1124.99	Yeah .	look and usability
+A	1127.84	Different .	look and usability
+A	1131.52	Mm-hmm .	look and usability
+A	1137.03	Camera .	look and usability
+D	1138.36	Yeah .	look and usability
+D	1140.14	Cool .	look and usability
+D	1140.57	S underwater uh yeah .	look and usability
+A	1141.72	Yeah submarine .	look and usability
+C	1144.51	Personally I think it's really ugly .	look and usability
+B	1146.56	Yeah .	look and usability
+C	1147.43	Just give me the thing that it's inside there maybe I'm too old for this stuff .	look and usability
+A	1147.65	Well Yeah but this this the is for the .	look and usability
+D	1150.04	Yeah .	look and usability
+B	1150.2	Very cheap uh cheap look .	look and usability
+C	1153.47	Yeah .	look and usability
+D	1155.18	Yeah .	look and usability
+A	1155.7	Okay .	look and usability
+C	1156.88	So those I think are all my oh .	look and usability
+A	1157.19	Uh Ah yeah bright colours .	look and usability
+D	1160.47	Yeah .	look and usability
+D	1160.98	Also a kind of rubber uh Yeah .	look and usability
+C	1161.31	And this is , this is with the curved that I mean .	look and usability
+A	1165.29	That's singly curved .	look and usability
+C	1166.75	Yeah .	look and usability
+A	1167.36	Okay .	look and usability
+C	1167.57	Yeah ?	look and usability
+D	1168.12	That should be nice .	look and usability
+A	1168.93	Well we could make a compromise between that .	look and usability
+A	1171.77	But I don't know if it's worth the effort .	look and usability
+C	1176.01	A compromise between what ?	look and usability
+A	1177.59	Uh instead of doubly curved we take a single curved .	look and usability
+A	1182.29	So to appeal a little more to the all the public .	look and usability
+D	1182.74	So s Yeah there's only in in this dimension .	look and usability
+C	1183.36	This , this would be uh single curved uh ?	look and usability
+A	1186.28	Mm-hmm .	look and usability
+A	1188.65	Yeah .	look and usability
+D	1189.49	Like this .	look and usability
+C	1189.75	Yeah .	look and usability
+D	1189.84	So curvy or not .	look and usability
+A	1191.87	Also .	look and usability
+C	1191.9	Yeah .	look and usability
+D	1191.9	Yeah so we keep it singly c single curved then ?	look and usability
+C	1192.83	Exactly .	look and usability
+C	1193.53	Exactly .	look and usability
+A	1195.94	Yeah that would be an option .	look and usability
+A	1196.99	I don't know what you think .	look and usability
+D	1198.6	Yeah .	look and usability
+C	1198.88	I think the I mean our aim is to make something different right ?	look and usability
+C	1203.49	To make something new .	look and usability
+D	1203.77	Yeah .	look and usability
+A	1205.03	Mm-hmm .	look and usability
+C	1205.19	I would go for the double curved .	look and usability
+A	1206.78	Okay .	look and usability
+C	1207.91	And I I'm I'm thinking uh you know uh a drawing palette , where you have the shape for your thumb .	look and usability
+A	1208.12	Yeah I'd agree .	look and usability
+A	1213.91	Mm-hmm .	look and usability
+C	1216.6	So it kind of holds nicely , something like that .	look and usability
+B	1218.33	Yeah but if you if you make it more curved we we can make more and more options for buttons .	look and usability
+D	1218.63	Yeah .	look and usability
+C	1219.12	Well this is really your decision but Yeah .	look and usability
+B	1223.37	If you have uh it have it in your hand , you you you are not only um yeah you don't need one dimension but you can use other dimensions for pressing the the buttons .	look and usability
+C	1233.86	As well .	look and usability
+C	1234.62	You can make a trigger button or something like that .	look and usability
+B	1235.75	Yeah .	look and usability
+B	1236.88	Something to shoot at your television Yeah .	look and usability
+C	1239.18	Yeah or that that is the confirmation button or something , that you scroll with your thumb , with the arrows , and then confirm .	look and usability
+A	1241.64	Mm-hmm .	look and usability
+B	1244.74	That's yeah .	look and usability
+A	1246.22	Mm-hmm .	look and usability
+C	1246.32	That would be a nice way to use it but I mean , yeah , I'm thinking big already , and we need something that well that that you can able to use in one hand I think .	look and usability
+A	1253.35	Different .	look and usability
+A	1255.49	Stands out .	look and usability
+A	1257.34	Or Oh yeah a one hand uh solution .	look and usability
+C	1259.64	Yeah .	look and usability
+D	1259.88	So from top view it looks kinda like this .	look and usability
+D	1264.13	But from the side you you can have it also in a kind of shape .	look and usability
+D	1269.58	Maybe because the the screen is on top you can have Maybe you can c have this kind of shape .	look and usability
+A	1270.14	can turn it maybe .	look and usability
+A	1271.79	To switch from buttons to interface hmm .	look and usability
+A	1274.75	If you turn it a little .	look and usability
+D	1279.2	A little upwards .	look and usability
+D	1281.16	So that the screen is more towards yourself , so you can easily see your screen .	look and usability
+A	1283.08	Oh yeah .	look and usability
+A	1283.56	Least you can easily see it .	look and usability
+C	1286.48	How about Mm-hmm .	look and usability
+D	1286.58	Well well you have it in your hand so it's a kind of an angle from your eyes to the screen .	look and usability
+D	1291.55	So then you have double double curved in some way .	look and usability
+D	1295.08	So this this is so the screen is positioned over here .	look and usability
+D	1300.95	Oh .	look and usability
+D	1301.56	Something like that .	look and usability
+D	1303.21	And the buttons are more , well it's very thick now but That's uh that's Yeah ?	look and usability
+C	1307.17	Yeah I understand what you mean .	look and usability
+C	1310.54	How about we do a uh a pop-up screen , like the laptop .	look and usability
+A	1315.98	If you can uh flip .	look and usability
+C	1316.02	So that the only the simple functions will be visible at first .	look and usability
+D	1320.09	That that you can press it and then it comes up ?	look and usability
+C	1320.25	And then if you want Yeah .	look and usability
+D	1322.95	Or But then the side view can be straight .	look and usability
+C	1323.41	Something like that .	look and usability
+A	1324.32	Uh so you have a the the side view .	look and usability
+D	1330.44	If you have a pop-up screen .	look and usability
+D	1331.8	But I dunno if that's too expensive .	look and usability
+A	1333.77	So and you want to be able to make this .	look and usability
+D	1334.2	I mean maybe it's too much Oh the advanced buttons .	look and usability
+C	1334.24	Yeah .	look and usability
+C	1340.8	No uh like I would draw it like this .	look and usability
+C	1346.9	Let's say this is the side view .	look and usability
+C	1349.32	That you have a a screen that will come up here , and can go down that way .	look and usability
+C	1355.34	If you know what I mean .	look and usability
+B	1356.33	Okay .	look and usability
+C	1356.37	So that it would come up like that .	look and usability
+B	1357.01	Yeah .	look and usability
+A	1358.59	Okay so the buttons are on top here , and you flip it over that way .	look and usability
+C	1362.45	Yeah or preferably even keep the simple buttons here , and then under the screen even you could put more more advanced buttons .	look and usability
+A	1366.51	Yeah .	look and usability
+A	1368.67	Oh yeah .	look and usability
+A	1369.54	Yeah yeah yeah yeah .	look and usability
+D	1370.46	Right .	look and usability
+A	1371.31	Right .	look and usability
+B	1371.52	That's the the more advanced options were uh for the for the menu .	look and usability
+A	1371.65	Yeah that's good idea .	look and usability
+D	1372.29	Yeah .	look and usability
+A	1376.0	Yeah .	look and usability
+D	1376.31	Yeah .	look and usability
+B	1377.11	But you you want okay .	look and usability
+C	1377.38	F for the L_C_D_ menu right ?	look and usability
+D	1379.41	Yeah .	look and usability
+B	1379.72	You just want to hide them all ?	look and usability
+C	1379.99	So w w Oh Activate and th the yeah .	look and usability
+B	1381.45	The oh .	look and usability
+D	1381.59	Yeah .	look and usability
+A	1381.6	No not all because you need most of them , the arrow buttons .	look and usability
+A	1385.89	But you can hide the okay and the back uh button .	look and usability
+B	1387.67	Yeah yeah yeah .	look and usability
+A	1388.54	And the menu button also because when you flip it open and you can maybe even drop the menu button because maybe if you flip it open it will auto activate amauto uh uh automatically .	look and usability
+D	1391.2	Yeah .	look and usability
+D	1399.77	So okay b but you have t you need some button to flip this open .	look and usability
+A	1405.08	Why ?	look and usability
+A	1405.49	You could just make it mechanical .	look and usability
+C	1405.63	True .	look and usability
+C	1406.56	True .	look and usability
+C	1407.37	But you can make a , yeah , you can make a trigger here .	look and usability
+C	1409.72	You know a simple uh with a Yeah .	look and usability
+D	1409.75	Yeah .	look and usability
+D	1410.95	Yeah and it says menu and it flips open and then you have the buttons to control it , in combination with your True .	look and usability
+B	1413.31	That's but it's it's not it's not very uh very strong uh yeah if you drop it one time .	look and usability
+C	1417.07	Exactly .	look and usability
+D	1420.93	It uh c it can go open .	look and usability
+C	1421.96	Well yeah the the idea of it was , is that because you close it , you cover the L_C_D_ screen and it won't be vulnerable to scratches or whatever .	look and usability
+A	1423.6	If you cover it with rubber .	look and usability
+D	1430.49	An adv an adv and it will be covered in some kind of uh thin rubber layer or something like that .	look and usability
+B	1430.73	Okay .	look and usability
+A	1430.88	Mm .	look and usability
+C	1431.87	And Exactly .	look and usability
+A	1435.43	Yeah .	look and usability
+A	1436.01	So it can bounce .	look and usability
+C	1436.09	Exactly .	look and usability
+C	1436.58	We just have to make sure that the closing mechanism won't break .	look and usability
+D	1437.25	Yeah , uh It's very no it's very strong .	look and usability
+C	1440.22	Th it's very solid yeah .	look and usability
+A	1441.47	Yeah okay so that that may work .	look and usability
+D	1441.48	Yeah .	look and usability
+C	1443.27	That actually will offer some extra protection for the Yeah .	look and usability
+A	1444.94	Okay but then we still have the the the thing of the the the shape .	look and usability
+A	1450.24	Yeah .	look and usability
+C	1450.57	Yeah I was thinking , if if you have your hand , it this is your th Okay .	look and usability
+A	1450.63	What kind of Harder .	look and usability
+D	1456.26	Yeah the lower part doesn't work I guess , so maybe you should try it over there .	look and usability
+C	1460.91	If this is your thumb , and this is your hand like that .	look and usability
+C	1465.73	With your uh wrist .	look and usability
+C	1467.9	That you , that it would be kind of shape like this , you know .	look and usability
+C	1472.55	So it's easier to hold in your hand , to y f Uh yeah .	look and usability
+B	1475.32	But when you are left-handed , that's that's a problem .	look and usability
+D	1475.74	Yeah .	look and usability
+C	1478.91	Yeah of course .	look and usability
+C	1479.92	Yeah then w then you would have to to make it like this .	look and usability
+A	1480.1	Maybe can design two versions .	look and usability
+D	1481.86	Yeah .	look and usability
+B	1482.6	But that's that's very expensive uh Yeah .	look and usability
+C	1484.03	Like like you drew here .	look and usability
+D	1486.24	Yeah .	look and usability
+C	1487.17	And maybe th then make this thicker also than the centre .	look and usability
+C	1491.22	Give it I would give it a female shape but uh yeah .	look and usability
+A	1491.47	Mm-hmm .	look and usability
+A	1492.32	And ergonomical shape .	look and usability
+C	1494.49	Anyway .	look and usability
+A	1494.5	Yeah .	look and usability
+D	1494.59	Yeah .	look and usability
+A	1495.74	The female shape yeah .	look and usability
+A	1496.77	With two uh Oh yeah .	look and usability
+D	1497.64	Yeah .	look and usability
+C	1497.83	Obviously .	look and usability
+B	1499.16	We we could make some some rubber uh some rubber uh yeah mouse , with which you can change uh and so if you Yeah .	look and usability
+C	1500.15	Make it more appealing to guys .	look and usability
+C	1503.24	I mean Yeah but we have hardware inside , which is so it has to have some sort of basic shape .	look and usability
+A	1506.63	Some uh k esk uh yeah .	look and usability
+D	1510.38	Yeah but but that's optional for later I guess .	look and usability
+D	1512.52	I mean , we have to make Yeah we we better so choose one Yeah so okay we should better choose one sh one shape .	look and usability
+B	1512.55	Okay .	look and usability
+A	1512.57	Yeah .	look and usability
+B	1517.9	Some yeah .	look and usability
+A	1519.18	Yeah yeah .	look and usability
+C	1520.07	And also the screen , you cannot mould it .	look and usability
+C	1521.97	You know kind of thing .	look and usability
+B	1521.98	No no no no .	look and usability
+B	1525.86	Okay .	look and usability
+C	1525.96	Yeah .	look and usability
+D	1526.41	But that's the kind of the idea , so it lays good in the hand , and then on on the side with with your thumb , you you can you can use , yeah , you can use the button option Spongey .	look and usability
+C	1529.26	And then you can You can place the screen here , which can come .	look and usability
+A	1534.15	Yeah .	look and usability
+A	1535.8	So the keywords are primary co colours , spongey ?	look and usability
+C	1538.32	And but then I w I would I would do the arrows here , kind of thing .	look and usability
+D	1543.58	Spongey can be reached by means of Yeah .	look and usability
+C	1544.46	Those buttons ?	look and usability
+C	1545.45	And the simple buttons here , so that I Uh y eah that's what I mean .	look and usability
+A	1547.34	Yeah .	look and usability
+B	1547.49	Yeah .	look and usability
+D	1548.64	And and the and the control thngs in the middle ?	look and usability
+D	1551.31	The the the arrows ?	look and usability
+B	1553.71	No the arrow's over here .	look and usability
+C	1554.33	The arrows over here , and here the s simple uh or do we wanna make its shape look like a banana or something ?	look and usability
+A	1554.43	Yeah .	look and usability
+D	1555.4	Yeah and then numbers .	look and usability
+B	1555.44	Yeah .	look and usability
+A	1556.41	Buttons .	look and usability
+A	1558.03	Okay .	look and usability
+D	1558.03	Yeah .	look and usability
+D	1558.56	Alright .	look and usability
+A	1559.59	I think that uh it's a nice design .	look and usability
+D	1560.45	Uh pretty nice design .	look and usability
+D	1562.75	Yeah .	look and usability
+A	1562.99	It's cool .	look and usability
+D	1564.96	Yeah it looks uh pretty fancy .	look and usability
+A	1566.97	Yeah .	look and usability
+C	1571.75	I dunno .	look and usability
+A	1572.75	Yeah that's Orange or something .	look and usability
+D	1574.19	Uh bananas wierd shape and other fruits also , so it's better to have um some sort of basic print and then a fruit print in some primary uh colours .	look and usability
+C	1577.77	Yeah .	look and usability
+C	1585.42	Yeah we could make We should use Yeah w we need very primary colours , like bright red , bright yellow .	look and usability
+D	1585.49	I don't know what what colours should the basic print be like ?	look and usability
+D	1588.24	Like some soft green or something ?	look and usability
+D	1591.18	Or and then Oh yeah yeah , dark blue and then and then very bright , uh a yellow banana , an orange , uh a green apple , stuff like that , with very uh bright tones I guess .	look and usability
+B	1591.73	Or blue ?	look and usability
+B	1592.53	Dark blue or Yeah .	look and usability
+A	1604.47	Mm .	look and usability
+D	1604.9	So you have something like Yeah .	look and usability
+A	1606.87	Yeah .	look and usability
+B	1608.03	Yeah but the primary colours w we can uh create with the with the LEDs on the on the remote control .	look and usability
+C	1613.68	Yeah .	look and usability
+C	1614.39	Yeah okay yeah .	look and usability
+B	1614.91	If you we uh yeah .	look and usability
+B	1616.76	If you make it uh just a yeah bl give it a blue colour , then it's just a neutral colour , also for the for the more uh yeah for the people .	look and usability
+D	1626.14	Mm .	look and usability
+D	1627.05	That doesn't really work .	look and usability
+A	1627.06	Huh cool .	look and usability
+D	1628.3	To draw , I guess .	look and usability
+A	1628.46	No it's .	look and usability
+D	1631.72	Oh .	look and usability
+D	1632.33	What's this ?	look and usability
+A	1632.46	Yeah it's text .	look and usability
+D	1634.49	Right .	look and usability
+A	1636.82	N no you have to exit .	look and usability
+D	1637.0	Hm .	look and usability
+A	1640.59	You could also make line with uh Yeah .	look and usability
+B	1640.73	So that's So that's blue .	look and usability
+D	1642.46	Yeah .	look and usability
+D	1643.16	Two hours further .	look and usability
+D	1646.22	thickness .	look and usability
+D	1647.35	Oh .	look and usability
+D	1651.58	Oh .	look and usability
+D	1651.91	Wh why not go for the twenty ?	look and usability
+A	1654.2	Mm .	look and usability
+A	1655.57	Yeah .	look and usability
+D	1655.59	Yeah .	look and usability
+B	1656.19	Mm .	look and usability
+D	1657.39	That's what I call painting .	look and usability
+A	1657.46	Y Yeah and then on top of that .	look and usability
+D	1659.16	So that's that's a dark blue basic colour I guess .	look and usability
+B	1661.24	Yeah .	look and usability
+D	1662.57	It's pretty nice .	look and usability
+D	1664.56	And then uh Oh Yeah with some some yellow banana Like .	look and usability
+A	1668.08	Some yellow .	look and usability
+A	1670.86	Banana colour .	look and usability
+C	1672.38	And how about some uh some flashing standby lights ?	look and usability
+C	1675.98	Like you have on the Samsung , well I don't like to call brands phones , the you know that 'cause I remember from one of our first meetings that uh people lose their uh remote controls often .	look and usability
+D	1687.48	Yeah ?	look and usability
+C	1688.33	So it not not only in in the colours of the LEDs , that we want something to keep it visible at all times , or Um Yeah .	look and usability
+D	1699.43	How do you mean ?	look and usability
+A	1701.96	Yeah if you if flashing colour so you can't lose it , basically .	look and usability
+D	1702.17	Some some Yeah an orange .	look and usability
+B	1702.57	Yeah .	look and usability
+C	1705.59	Exactly .	look and usability
+A	1706.94	Well I think it's a bit too much but Yeah .	look and usability
+B	1707.22	Maybe a Yeah .	look and usability
+C	1709.32	Yeah .	look and usability
+D	1711.19	Well alright well this is more like purple I guess , but it's should be more real dark blue , so the contrast with the with the fruit objects is uh pretty high .	look and usability
+A	1715.11	Yeah .	look and usability
+C	1721.93	Yeah .	look and usability
+D	1723.08	So uh yeah .	look and usability
+D	1723.99	That would be a nice uh nice device I guess .	look and usability
+B	1726.59	And which which colour should uh should I give the the display ?	look and usability
+B	1729.63	Uh Or Yeah .	look and usability
+A	1731.32	Who ?	look and usability
+D	1732.77	I mean , the the colour of the background of the display ?	look and usability
+B	1734.97	Yeah .	look and usability
+D	1735.22	Ah well I don't guess it s has to be a sixty uh sixty six five thousand uh colour , so yeah too expensive .	look and usability
+A	1737.75	And then you can use yellow or semething .	look and usability
+A	1742.0	Why not ?	look and usability
+A	1744.52	Aye .	look and usability
+D	1744.55	So just just a a blue blue backlight or something like that .	look and usability
+B	1744.86	Yeah .	look and usability
+B	1747.34	Mm .	look and usability
+B	1748.29	Yeah .	look and usability
+D	1749.41	Green is too old-fashioned .	look and usability
+D	1751.14	But blue , blue's okay .	look and usability
+C	1752.56	As long as you loo use uh high contrast between the the background and the foreground colour .	look and usability
+D	1753.25	J White backlight , and dark .	look and usability
+B	1758.36	Yeah maybe a maybe a white a white backlight ?	look and usability
+C	1758.83	So that people with uh with And also for people who are a bit colourblind .	look and usability
+A	1759.01	Like this .	look and usability
+B	1764.24	Dark uh letters , yeah .	look and usability
+D	1765.72	Yeah .	look and usability
+D	1766.97	Whatever which is visible .	look and usability
+B	1768.6	Yeah .	look and usability
+D	1768.81	I know you sh you should test it under uh under a light conditions .	look and usability
+D	1773.18	I mean it's hard to tell uh I dunno .	look and usability
+B	1773.73	Yeah .	look and usability
+A	1776.53	Colourblind yeah .	look and usability
+D	1777.94	Yeah .	look and usability
+D	1778.69	True .	look and usability
+A	1778.7	No so that's mostly red and green I believe .	look and usability
+D	1781.4	Which which uh colour should the buttons be ?	look and usability
+B	1785.52	That's adjustable .	look and usability
+A	1787.75	Woah .	look and usability
+D	1789.12	Why adjustable ?	look and usability
+A	1789.21	All all buttons ?	look and usability
+B	1790.55	Yeah ?	look and usability
+B	1791.49	Or not .	look and usability
+A	1791.51	Okay .	look and usability
+D	1791.51	No uh But maybe I mean they have to they have to have some colour right ?	look and usability
+B	1793.73	That's how we are going to make it uh more trendy .	look and usability
+B	1797.42	Or is it uh too expensive ?	look and usability
+A	1800.4	It's difficult .	look and usability
+D	1803.01	And if the background is very dark blue Yeah ?	look and usability
+A	1804.38	Blue .	look and usability
+A	1805.98	Maybe green .	look and usability
+C	1806.96	But don't we wanna make the background the the bright colo colours ?	look and usability
+C	1810.93	So th the total of the thing is very bright ?	look and usability
+A	1811.71	Yeah you can Mm-hmm flashy .	look and usability
+C	1813.84	Like the pictures I showed you guys .	look and usability
+C	1815.49	Those things were all like like bright red , bright red , flashy .	look and usability
+D	1820.24	So more like Doesn't work very well .	look and usability
+A	1823.21	Mm bzz .	look and usability
+D	1827.08	Uh .	look and usability
+D	1827.84	More like this colour .	look and usability
+C	1829.44	Yeah something like that , something that stands out more .	look and usability
+D	1831.03	And then then yellow and orange and red objects on it or something .	look and usability
+B	1835.2	Mm .	look and usability
+C	1836.11	Yeah .	look and usability
+D	1836.5	But then then again , which colour should the buttons be ?	look and usability
+D	1840.91	The the press buttons .	look and usability
+D	1842.39	Should they be white or black or Uh Yeah but it's pretty fresh , on the other side .	look and usability
+A	1844.79	Red maybe .	look and usability
+B	1845.7	And it it looks quite cheap , that colour I think .	look and usability
+A	1846.92	Black .	look and usability
+B	1848.6	It's it's not Yeah .	look and usability
+C	1849.3	The green ?	look and usability
+A	1850.3	Why ?	look and usability
+B	1850.98	I dunno .	look and usability
+A	1852.26	Yeah .	look and usability
+A	1853.04	So Ooh .	look and usability
+C	1854.3	It's actually a pretty trendy colour at the moment .	look and usability
+B	1856.19	It's it's trendy okay .	look and usability
+D	1857.12	Yeah .	look and usability
+B	1857.41	But Mm .	look and usability
+D	1858.62	My couch is in that colour .	look and usability
+D	1862.98	Yeah .	look and usability
+D	1864.88	Well it works pretty well .	look and usability
+B	1865.03	Yeah .	look and usability
+D	1868.5	And then time was up .	look and usability
+A	1871.32	Uh not yet .	look and usability
+D	1872.49	Uh .	look and usability
+C	1873.69	Do you get a pop-up if we Alright .	look and usability
+A	1874.72	Yeah within five minutes yeah .	look and usability
+D	1877.09	That you have five minutes left or So something like this .	look and usability
+A	1877.93	Y left yeah left and then uh I have to kick you out .	look and usability
+B	1882.43	Yeah .	look and usability
+D	1882.85	That should be pretty nice colour .	look and usability
+D	1884.53	But maybe the buttons , all buttons in red is maybe a bad contrast for colourblind people .	look and usability
+A	1888.42	Yeah yeah .	look and usability
+C	1889.98	No that's actu Red and green are actually the b the easiest to discriminate .	look and usability
+D	1890.03	Because the of the green .	look and usability
+B	1890.76	But the but the buttons have their own LEDs or not ?	look and usability
+D	1894.13	Yeah .	look and usability
+A	1894.33	They have LEDs but they have a colour .	look and usability
+C	1898.88	Even for colourblind .	look and usability
+D	1899.76	Yeah ?	look and usability
+C	1900.32	They will see one of each as grey .	look and usability
+D	1903.21	Yeah .	look and usability
+C	1903.58	But if you use uh green on blue , those kind of colours will look the same .	look and usability
+B	1909.33	Okay .	look and usability
+D	1909.64	Okay .	look and usability
+C	1911.35	I think .	look and usability
+D	1911.74	So red buttons are okay ?	look and usability
+C	1913.59	I think so .	look and usability
+B	1914.54	Okay .	look and usability
+B	1914.78	That that's a default uh setting .	look and usability
+A	1914.8	You can make them red .	look and usability
+B	1917.07	The the red buttons .	look and usability
+A	1918.56	Yeah .	look and usability
+A	1919.15	But I think you need to keep in mind that the LEDs are just extra light .	look and usability
+D	1928.52	How do you mean ?	look and usability
+D	1929.49	Yeah .	look and usability
+A	1929.91	Uh they they don't determine the colour that much , I think .	look and usability
+B	1932.61	Okay .	look and usability
+B	1933.09	Yeah I I was think about a red uh red LEDs and blue LEDs and Yeah .	look and usability
+A	1937.79	'Cause you have to print on them you have a background .	look and usability
+D	1937.85	No that's that's too busy I guess .	look and usability
+A	1941.35	Each number is transparent .	look and usability
+B	1943.37	Yeah .	look and usability
+A	1944.31	Uh partly but you have to print on the number .	look and usability
+A	1947.35	Or the the sign .	look and usability
+B	1947.95	Okay .	look and usability
+A	1948.95	So you can't change the colour so Yeah .	look and usability
+D	1950.56	You better bet better better keep the LED and the button itself in the same colour I guess .	look and usability
+B	1955.96	Okay .	look and usability
+D	1957.33	So just an extra bit of light and attention .	look and usability
+A	1959.28	Bit of light .	look and usability
+C	1959.71	You can what we should do I think is is make kind of a see-through plastic button , with uh one coloured LED behind it .	look and usability
+A	1961.05	Bit of feedback .	look and usability
+B	1965.72	Yeah .	look and usability
+A	1965.74	Yeah .	look and usability
+A	1968.11	Yeah .	look and usability
+D	1968.12	Yeah .	look and usability
+C	1968.82	So that the whole button will shine as the colour the And if you think about easy to use buttons , we have to , well we have to make it the shape so that it's easy to hold f for both hands , but also that you can reach the buttons with your thumb , if you hold the machine .	look and usability
+A	1972.05	Mm-hmm .	look and usability
+A	1988.4	Mm-hmm .	discussion
+D	1989.47	Yeah .	discussion
+A	1990.03	Okay with Uh Don't mean to discourage you but uh basically you two are going to work on the smartboard .	closing
+A	2002.62	Next thirty minutes to design something so And the You will do the evaluation .	closing
+C	2004.28	Ah , right .	closing
+D	2005.41	Alright .	closing
+D	2011.08	Of the product ?	closing
+A	2011.92	Yeah .	closing
+D	2012.16	Which we don't have yet .	closing
+A	2013.31	Yeah uh about Yeah I don't know .	closing
+D	2015.63	So wh how should I do that ?	closing
+D	2019.12	Oh okay .	closing
+A	2019.14	You probably get a mail .	closing
+D	2020.6	Or you you or you send it to me .	closing
+D	2024.8	Or just because you are going to design it on this board right ?	closing
+A	2026.47	Yeah .	closing
+A	2027.04	Once they are finished .	closing
+A	2028.28	Yeah .	closing
+A	2029.98	Yeah but maybe you can do the evaluation you don't have to evaluate yet but you can make a procedure which to follow .	closing
+D	2036.34	Yeah .	closing
+A	2036.6	I don't know .	closing
+D	2036.93	I I probably get instruction on that , how to do that , so I make another presentation I guess .	closing
+A	2038.62	Yeah .	closing
+A	2041.22	Yeah .	closing
+D	2041.56	I kn I know what's gonna happen in in yeah so I've a basic idea .	closing
+A	2044.21	About .	closing
+A	2044.71	Yeah .	closing
+A	2045.64	You have the basic idea .	closing
+A	2047.97	And you two uh are going to do this .	closing
+B	2051.09	Yeah .	closing
+C	2051.17	So we're gonna work here ?	closing
+A	2051.36	Look-and-feel and Yeah .	closing
+C	2052.78	On this sketchboard ?	closing
+D	2053.9	Yeah .	closing
+A	2054.68	Good luck .	closing
+C	2054.82	Alright .	closing
+C	2055.68	Thanks .	closing
+D	2057.17	Yeah .	closing
+D	2059.16	Alright so that's uh Yeah .	closing
+A	2059.94	So I uh make new page and uh be creative .	closing
+C	2065.57	Alright .	closing
+B	2065.73	But we have to do it at this moment , after th this meeting ?	closing
+A	2067.76	Yeah you have uh thirty minutes .	closing
+C	2069.99	Thirty minutes .	closing
+B	2071.6	Okay .	closing
+A	2072.46	Then we have to uh see something which we can uh show to the management .	closing
+D	2075.25	Yeah .	closing
+B	2075.63	Yeah .	closing
+C	2075.9	Alright .	closing
+B	2076.93	Ah so this is basically the what what we are thinking about ?	closing
+C	2080.92	Yeah .	closing
+C	2081.78	Shall we uh make a new uh Yeah , I just make a new one .	closing
+A	2081.89	I would yeah .	closing
+B	2083.72	Yeah l let's just uh delete all these uh or Oh , next .	closing
+A	2084.05	Yeah .	closing
+D	2084.28	Yeah .	closing
+A	2085.79	Next .	closing
+D	2090.56	Yeah .	closing
+C	2091.52	Alright .	closing
+A	2091.78	Oh and save this uh board .	closing
+C	2094.93	Huh ?	closing
+A	2095.41	Just save it .	closing
+C	2095.61	Yeah I'll just I'll just keep it there .	closing
+A	2097.74	Yeah okay but just press save and uh It'll be fine .	closing
+C	2100.05	Yeah .	closing
+D	2101.86	On the left .	closing
+D	2103.2	S so , yeah .	closing
+C	2107.7	Uh sorry .	closing
+A	2108.64	You can also include clip-art .	closing
+C	2111.1	Okay .	closing
+D	2111.97	Yeah .	closing
+C	2112.16	Current colour ?	closing
+A	2112.44	So if you'll rather draw in paint or something then look .	closing discussion
+C	2115.54	So um Shall we make some outline sketches of the basic shape first ?	closing discussion
+B	2117.29	Okay .	closing
+B	2118.2	Uh Yeah .	closing discussion
+C	2125.3	Because I I Yeah 'cause I have to uh focus on the on the basic look-and-feel design .	discussion
+B	2125.38	And then after that we can make the user uh inter interface .	discussion
+D	2130.75	This ?	discussion
+A	2131.3	Yeah .	discussion
+B	2132.15	Yeah .	discussion
+C	2132.2	So how it's gonna look .	discussion
+C	2133.79	And you have to think uh how we're gonna put the screen in it and those kind of things .	discussion
+D	2134.68	Uh pretty accurate .	discussion
+C	2137.87	So if I'm drawing and you think okay I'm not gonna be able to put a screen in there , you have to correct .	discussion
+D	2140.86	Oh we skip this I guess .	discussion
+D	2142.08	Sound button press .	discussion
+B	2143.37	Yep .	discussion
+C	2144.02	Uh do you mind if I draw in black then ?	discussion
+A	2144.42	Yeah .	discussion
+A	2145.15	You can also include it .	discussion
+A	2146.12	It's not much work .	discussion
+C	2146.43	For normal sketches .	discussion
+D	2147.42	Light only button user ca user interaction .	discussion
+B	2147.85	Oh no it's it's okay .	discussion
+C	2152.31	so we kind of want the girlish figure .	discussion
+D	2153.43	Yeah .	discussion
+A	2153.74	That's included .	discussion
+A	2154.81	Yeah okay .	discussion
+D	2154.82	Yeah .	discussion
+D	2156.07	So the pl the plastic plastic buttons also help uh because of um they are only lit during interaction .	discussion
+C	2162.49	I'm not so good at drawing .	discussion
+D	2164.18	So Well it's a good thing that the buttons aren't um , well that they are plastic , because then you can light up the light on when when they are usable .	discussion
+C	2165.28	Excuse me ?	discussion
+B	2174.39	Yeah .	discussion
+B	2174.78	Yeah .	discussion
+C	2177.11	No uh uh .	discussion
+D	2179.59	Maybe you should draw it very large like this .	discussion
+B	2182.05	Yeah but this part isn't uh functioning properly .	discussion
+A	2182.63	Yeah .	discussion
+A	2184.37	Sensitive .	discussion
+D	2184.6	Oh right .	discussion
+C	2186.87	How do we uh uh or insert text ?	discussion
+D	2188.18	Erase ?	discussion
+A	2194.51	I dunno .	discussion
+A	2194.9	Maybe just start typing .	discussion
+B	2200.04	It's a bit uh large .	discussion
+C	2201.97	Oh that's a bit big .	discussion
+C	2202.98	Yeah .	discussion
+A	2209.0	You also do the other sides .	discussion
+A	2210.87	Not only on the front si uh the top side but also the the side view .	discussion
+C	2212.37	Yeah .	discussion
+C	2212.68	Ex exactly .	discussion
+B	2215.54	L let's make first the the the all the views .	discussion
+C	2215.56	Uh Uh I thought for the side view , that the w the basic section would be rather uh a bit thicker than the middle , where you're holding it with your 'cause your fingers have to fit underneath and Exactly but the uh but the upper side has to be a bit more like that I think .	discussion
+A	2217.2	Uh .	discussion
+B	2218.09	The the front view , side view and the back view .	discussion
+A	2224.8	Jesus .	discussion
+A	2225.49	What do I write down ?	discussion
+D	2226.64	Yeah .	discussion
+A	2228.84	Why can't I work here ?	discussion
+A	2229.8	This is much easier .	discussion
+D	2231.22	Much easier , yeah .	discussion
+B	2231.52	Yeah .	discussion
+A	2232.67	Yeah .	discussion
+B	2233.68	The middle has to be very small so you can have it in your hand .	discussion
+A	2234.46	Mm .	discussion
+D	2235.27	I don't see a sign that the meeting is over yet but Yeah .	discussion
+A	2237.77	No so I just work here a few minutes .	discussion
+B	2246.42	Yeah the display , we yeah we can put a display .	discussion
+C	2246.54	Uh don't you think ?	discussion
+C	2248.1	So the display we will put in here , the basic uh functions in here , where it's most reachable .	discussion
+B	2254.36	Yeah .	discussion
+C	2254.73	The The th Exactly .	discussion
+B	2256.31	The the arrow functions .	discussion
+B	2258.62	Yeah .	discussion
+B	2259.1	Yeah .	discussion
+C	2262.83	Oh .	discussion
+C	2263.51	This is hard .	discussion
+C	2264.72	What do don't have to draw it exactly do we ?	discussion
+B	2267.33	No it's it's uh it's okay .	discussion
+C	2269.28	Wait .	discussion
+C	2269.47	Let me try it one more time .	discussion
+C	2272.79	Maybe I've uh it's easier if I draw it in once .	discussion
+C	2282.29	Okay , of course it will become way more ugly .	discussion
+B	2287.54	You can make it m larger .	discussion
+B	2289.89	Maybe it's easier to to draw uh Yeah that's that's the basic idea .	discussion
+C	2292.25	Yeah .	discussion
+C	2295.21	This'll take forever .	discussion
+C	2298.26	It's fun to work with this pen .	discussion
+C	2300.0	Um so , larger .	discussion
+D	2305.72	Oh .	discussion
+D	2307.52	Wrong one .	discussion
+C	2307.81	And yeah .	discussion
+B	2309.3	Yeah .	discussion
+C	2310.19	So side .	discussion
+A	2315.51	Five minutes left before the meeting ends .	discussion
+C	2317.97	'Kay .	discussion
+C	2318.62	Um other views ?	discussion
+D	2321.18	Alright .	discussion
+B	2322.61	Yeah only if you are going to put buttons on the side of the unit .	discussion
+C	2326.07	Uh Yeah .	discussion
+B	2329.17	That's the question .	discussion
+D	2330.54	But we we I is it if if this is from the side woah .	discussion
+C	2331.4	Let's fill i fill in the buttons later .	discussion
+B	2333.68	Yeah .	discussion
+C	2334.05	So this is gonna be from the uh from yeah yeah .	discussion
+B	2339.79	From the Yeah I'm I'm May maybe it's it's easier to to integrate the the the L_C_D_ screen just into this this bubble .	discussion
+D	2340.14	Steady .	discussion
+C	2340.3	Sorry .	discussion
+D	2341.35	Because there the screen goes up like that right ?	discussion
+C	2345.28	Yeah .	discussion
+D	2345.43	So then it's like this , or that's not convenient because then you have the screen like this and look like the it's better to have it somewhat like this .	discussion
+C	2347.19	Yeah ?	discussion
+D	2355.29	Or does it flip all the way ?	discussion
+C	2356.8	The the idea is that it has to flip up to here .	discussion
+C	2366.1	Okay .	discussion
+B	2366.36	Because it do doesn't have to flip then .	discussion
+B	2370.65	Because we have en enough space for for making a an L_C_D .	discussion
+C	2370.82	Yeah .	discussion
+C	2371.4	Yeah yeah yeah .	discussion
+B	2374.61	Because here But why why do we need uh the flipping uh Okay .	discussion
+D	2374.92	It's better to to have this like this I guess , and then flip it like this .	discussion
+C	2375.66	True .	discussion
+C	2382.78	you can adjust the angle to which it flips .	discussion
+C	2385.11	So it can also from this angle , it can flip all the way up to there .	discussion
+B	2388.38	Yeah .	discussion
+C	2388.39	You can flip it up to there if you want .	discussion
+D	2389.5	Yeah .	discussion
+D	2390.3	So w yeah .	discussion
+D	2391.59	But we still keep the flipping mechanism .	discussion
+C	2394.6	Think so .	discussion
+B	2394.61	Yeah .	discussion
+A	2395.06	Yeah we keep the flip ?	discussion
+A	2397.28	Keep the flip live .	discussion
+C	2397.53	Yeah because I think it will feel weird if you would make this smaller and this bigger or something that I dunno .	discussion
+B	2404.13	Yeah .	discussion
+B	2406.82	Uh the the shape is okay but yeah ?	discussion
+B	2410.69	I don't see the the yeah why why we should use the the flipping uh mechanism .	discussion
+D	2415.15	Yeah .	discussion
+C	2415.58	I thought it would be cool .	discussion
+B	2415.7	Because we Okay yeah .	discussion
+B	2418.24	It's it's for for for more trendy uh Because we have enough space .	discussion
+D	2418.95	Yeah but maybe Yeah but maybe we we should then Yeah there the middle Sh sh shouldn't we integrate it ?	discussion
+B	2424.09	H here we got uh the basic functions , the the arrow uh yeah button .	discussion
+B	2431.32	Yeah and then h we sh mm .	discussion
+D	2431.67	And then like i oh th doh .	discussion
+D	2438.53	Come on .	discussion
+D	2439.94	So this is the shape .	discussion
+D	2442.02	Oh .	discussion
+D	2442.7	It hasn't Okay but the screen is a bit lower because if it falls on the other side , it doesn't fall on the screen .	discussion
+C	2445.42	It doesn't aim so well .	discussion
+B	2450.57	Yeah , then it's No flipping or you wanted the flipping so But if you if you If you drop it it it just breaks .	discussion
+D	2453.19	So there's a layer of rubber on the side .	discussion
+C	2455.25	Yeah yeah yeah .	discussion
+C	2456.03	Definitely .	discussion
+D	2456.7	So no flipping but just no .	discussion
+A	2459.38	No flipping ?	discussion
+C	2462.36	Yeah I guess but uh I mean most votes count right ?	discussion
+B	2468.24	And it has to be very strong because of the .	discussion
+B	2470.6	Yeah kind of And it's also for the for the children , it's yeah for people not sixteen years .	discussion
+D	2470.98	Throwing and the kinetics .	discussion
+A	2471.0	It's shaking .	discussion
+C	2471.4	Yeah .	discussion
+D	2472.26	Oh .	discussion
+D	2472.9	We better make we better make it like this .	discussion
+C	2472.92	Yeah true true .	discussion
+C	2475.13	Yeah .	discussion
+D	2475.31	Eventually .	discussion
+A	2475.58	Yeah just light on top .	discussion
+C	2475.86	Yeah if you if you're going for the kinetics Yeah .	discussion closing
+D	2477.5	Yeah .	discussion
+A	2479.5	Safer .	discussion
+A	2480.96	Mm .	discussion
+D	2481.35	Uh they are responsible enough to have a mobile phone , so also to to deal with their uh remote uh control .	discussion
+B	2481.72	But there are more Yeah okay .	discussion
+A	2481.81	Yeah okay that the target group .	discussion
+B	2485.33	That's true .	discussion
+D	2488.25	Yes .	discussion
+B	2488.43	Okay .	discussion
+B	2489.88	Yeah ?	discussion
+A	2490.55	Well .	closing
+C	2491.25	I'm just thinking totally different designs also .	closing
+A	2491.58	I just uh ended the meeting .	closing
+A	2493.37	You two go design .	closing
+B	2494.6	Okay wi Yeah .	closing
+C	2494.82	Remember that the weird pocketphone thingy which looked like kind of a Gameboy .	closing
+A	2497.03	Oh .	closing
+A	2497.46	By the way .	closing
+A	2498.33	Um I uh thought up a name for our product .	closing
+C	2499.81	Maybe we should try something like that .	closing
+C	2501.4	But yeah .	closing
+D	2504.45	Yeah ?	closing
+C	2504.57	Oh right .	closing
+A	2504.77	Yeah .	closing
+A	2505.74	It's called uh the Real Remote .	closing
+D	2508.1	Ooh .	closing
+C	2509.03	Alright .	closing
+A	2509.59	With a copyright sign after Real .	closing
+D	2511.52	Yeah .	closing
+B	2513.19	The Real Remote .	closing
+D	2513.33	Alright .	closing
+C	2514.43	Yeah .	closing
+C	2515.1	I like it .	closing
+C	2517.36	Okay .	closing
+A	2517.47	So maybe you can include that somewhere .	closing
+D	2517.53	Good .	closing
+C	2517.76	This can go .	closing
+D	2519.43	Yeah .	closing
+D	2519.9	We should work in our own room right ?	closing
+D	2521.54	Or not ?	closing
+A	2521.63	Yeah .	closing
+C	2521.65	Oh yeah we have to f uh include that in our design as well .	closing
+A	2524.19	I don't see any power cables here so 'Kay .	closing
+C	2526.17	Let's see .	closing
+D	2526.46	Yeah .	closing
+D	2528.03	Yes .	closing
+C	2528.23	What the hell's that ?	closing
+B	2530.19	I think uh it's the sensors .	closing
+B	2532.63	Okay .	closing
+C	2532.67	Uh Yeah .	closing discussion
+A	2533.56	Good luck .	closing
+B	2534.44	Yep .	closing
+B	2536.54	Okay that's the side .	discussion
+B	2538.9	Ah it's it's okay .	discussion
+B	2540.45	But do we want uh options on the on the side with the with the buttons ?	discussion
+B	2547.46	Or just leave it ?	discussion
+C	2548.17	I think we do .	discussion
+B	2549.0	Uh could make an uh a volume button uh scroll , volume button .	discussion
+C	2554.14	Yeah or j or also scrolling for the m yeah .	discussion
+B	2557.06	For menu .	discussion
+C	2558.28	Yeah ?	discussion
+B	2558.34	Or Yeah .	discussion
+C	2560.04	I dunno .	discussion
+C	2560.52	We w kind of wanted to stick with the Yeah I'm just thinking , if we i we wanna make something different right ?	discussion
+B	2563.27	No , yeah .	discussion
+C	2570.57	So the with the scroll is is more futuristic than the standard arrow buttons .	discussion
+B	2577.16	Yeah .	discussion
+C	2578.68	I think .	discussion
+B	2580.13	Mm .	discussion

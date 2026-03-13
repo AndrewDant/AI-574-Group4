@@ -1,0 +1,288 @@
+A	0.37	Hmm hmm hmm .	opening
+B	10.99	Are we we're not allowed to dim the lights so people can see that a bit better ?	opening
+A	17.88	Yeah .	opening
+B	18.87	Okay , that's fine .	opening
+B	22.37	Am I supposed to be standing up there ?	opening
+D	25.15	So we've got both of these clipped on ?	opening
+B	25.18	Okay .	opening
+D	29.12	She gonna answer me or not ?	opening
+B	29.86	Yeah , I've got Yes .	opening
+D	31.3	Right , both of them , okay .	opening
+D	42.63	God .	opening
+D	49.75	Jesus , it's gonna fall off .	opening
+A	63.81	Okay .	opening
+A	64.2	Yep , yep .	opening
+A	71.95	Okay .	opening
+B	80.49	Okay .	opening
+A	80.5	Tu tu tu tu Hi , good morning .	opening
+B	81.9	Hello everybody .	opening
+B	83.82	Um I'm Sarah , the Project Manager and this is our first meeting , surprisingly enough .	opening
+B	91.96	Okay , this is our agenda , um we will do some stuff , get to know each other a bit better to feel more comfortable with each other .	opening
+B	101.93	Um then we'll go do tool training , talk about the project plan , discuss our own ideas and everything um and we've got twenty five minutes to do that , as far as I can understand .	opening
+B	117.62	Now , we're developing a remote control which you probably already know .	project specs and roles of participants
+B	121.54	Um , we want it to be original , something that's uh people haven't thought of , that's not out in the shops , um , trendy , appealing to a wide market , but you know , not a hunk of metal , and user-friendly , grannies to kids , maybe even pooches should be able to use it .	project specs and roles of participants
+B	142.83	Okay , um , first is the functional design , um this is where we all go off and do our individual work , um what needs need to be fulfilled by the product , um what effects the product has to have and how it's actually going to do that .	project specs and roles of participants
+B	159.4	Um , conceptual design , what we're thinking , how it's gonna go and then the detailed design , how we're actually gonna put it into practice and make it work .	project specs and roles of participants
+A	168.79	'Kay .	project specs and roles of participants
+B	170.38	Okay , right .	drawing exercise
+B	172.03	We're gonna practice with the pens and draw our favourite animal on the white board , I'll go first , and um sum up the characteristics of that animal .	drawing exercise
+B	184.1	So Okay , I'll leave space for everyone else .	drawing exercise
+A	188.28	Oops .	drawing exercise
+B	192.07	Um What's missing ?	drawing exercise
+B	243.22	We're running out of blue .	drawing exercise
+B	246.93	Okay .	drawing exercise
+B	247.89	I'm not gonna ask you to guess , I'm going to tell you that's supposed to be a tiger .	drawing exercise
+A	252.48	Mm .	drawing exercise
+B	254.53	And I see them as majestic , and independent , and proud .	drawing exercise
+A	255.91	Oh sorry .	drawing exercise
+A	258.31	Mm-hmm .	drawing exercise
+B	272.31	Now , who would like to go next ?	drawing exercise
+A	275.09	Yeah , me .	drawing exercise
+B	275.42	'Kay .	drawing exercise
+A	279.18	Cat .	drawing exercise
+A	285.15	Where did this come from ?	drawing exercise
+B	287.57	Is that your lapel then ?	drawing exercise
+A	289.09	Uh , yep .	drawing exercise
+B	289.66	There you go .	drawing exercise
+A	290.68	Thank you .	drawing exercise
+A	293.32	Uh , maybe you can guess what I'm trying to make ?	drawing exercise
+D	306.38	A kind of dog ?	drawing exercise
+A	309.22	Yep .	drawing exercise
+A	313.47	It's actually sitting , so it's sitting , it's not standing .	drawing exercise
+D	315.85	Sorry ?	drawing exercise
+C	316.65	It's sitting down .	drawing exercise
+D	317.9	Uh .	drawing exercise
+A	319.15	Okay , I see it as one thing it's very supportive .	drawing exercise
+A	324.13	It's your best friend and your you can talk to a dog , it can be your best friend , it doesn't discriminate between you , based on what you are .	drawing exercise
+A	331.36	Second it's loyal and third thing it's got intuition .	drawing exercise
+A	340.96	dogs can som sometimes can make out between a thief and a person so basically these are the three unique features I think belong to a dog .	drawing exercise
+D	344.91	Mm-hmm .	drawing exercise
+B	350.01	Okay , thank you .	drawing exercise
+A	351.06	Thank you .	drawing exercise
+C	353.48	Yeah I'll have a go .	drawing exercise
+A	354.11	Okay .	drawing exercise
+A	356.33	Sorry .	drawing exercise
+D	356.51	Please , please leave me a space at the bottom , I'm little , you can get to the top , with standing on a chair .	drawing exercise
+C	356.98	Thanks .	drawing exercise
+C	359.11	Alright , okay .	drawing exercise
+C	361.74	Well since you guys have chosen the ones I wanted to do , I'll have to have to go for something a bit random .	drawing exercise
+B	364.81	Okay .	drawing exercise
+A	365.93	Does it look like a dog actually ?	drawing exercise
+C	371.43	And also , my drawing skill isn't that great so , yeah .	drawing exercise
+B	373.84	Well , as you can see , the quality of the work today is um Gonna be a bird .	drawing exercise
+A	375.08	Mm .	drawing exercise
+D	376.8	I think it's outstandingly good .	drawing exercise
+C	379.6	Okay , now I'm gonna have to change what is was originally gonna be because that looks like a beak now , so .	drawing exercise
+D	391.13	Crocodile ?	drawing exercise
+C	394.38	Yeah , it can be a crocodile , it can be a crocodile .	drawing exercise
+B	396.31	Is it gonna be it's gonna be a bird .	drawing exercise
+C	397.95	Well it was it was an at first firstly it was an attempt at a T_ Rex and then it sort of changed into a pelican but it can be a crocodile now actually .	drawing exercise
+D	403.24	O Beauti that's Okay .	drawing exercise
+B	420.11	That's lovely .	drawing exercise
+C	421.2	Yeah and uh I'll have to think on the spot of uh things that it is .	drawing exercise
+C	425.97	Um uh scary , uh strong , yeah that's about it I think .	drawing exercise
+B	439.85	Okay it's fine .	drawing exercise
+D	443.16	Um , I'm very impressed with your artistic skills , mine's are dreadful .	drawing exercise
+C	445.23	Uh uh Wo Hmm .	drawing exercise
+D	447.95	Oops this is now coming apart , let me just put the top in .	drawing exercise
+D	454.0	I hope that clicks in , I'll just I'll hold it on , okay .	drawing exercise
+D	457.97	Oops , oh dear , what happened there ?	drawing exercise
+B	461.09	Technical help .	drawing exercise
+D	465.38	Hopefully that'll stay on , two-handed version .	drawing exercise
+C	467.94	Okay .	drawing exercise
+D	468.51	Okay , uh Again this is off the top of my head , I was gonna do a big cat too , um .	drawing exercise
+C	476.71	Uh S Uh Okay , some sort of bird .	drawing exercise
+D	481.26	Oh dear , it doesn't look what like what I want it to be .	drawing exercise
+B	481.27	Hmm .	drawing exercise
+D	487.1	Uh .	drawing exercise
+D	488.77	It's not a vampire bat honestly .	drawing exercise
+B	489.88	Okay , yeah .	drawing exercise
+D	492.9	Uh and somewhere there's a body behind .	drawing exercise
+D	497.78	That's my dreadful that's the worst yet , that's it's meant to be an eagle you can tell it's a flying animal could have been a seagull , I never thought of a seagull .	drawing exercise
+B	501.19	A seagu right , not a seagull .	drawing exercise
+C	501.76	Ah eagle , right okay .	drawing exercise
+A	501.78	Eagle , okay .	drawing exercise
+D	508.09	An eagle , um again I'm thinking on my feet goodness .	drawing exercise
+D	511.49	I suppose they're all so independent , I'd put that one down again .	drawing exercise
+D	516.12	Da dum um .	drawing exercise
+C	519.87	They're good at golf .	drawing exercise
+D	520.28	Indepen independent , right , did you say they're good at golf ?	drawing exercise
+C	524.31	Yeah , no yeah , an eagle .	drawing exercise
+D	524.93	Are they ?	drawing exercise
+B	525.5	Eagle .	drawing exercise
+D	526.24	Oh .	drawing exercise
+D	526.91	Oh right , okay , I'm not good at golf .	drawing exercise
+D	529.2	I'd say they're quite free-spirited , flying around everywhere , doing their own thing .	drawing exercise
+D	541.43	And uh , birds of prey aren't they , oh dear , intrepid .	drawing exercise
+B	545.31	Mm-hmm .	drawing exercise
+D	547.15	I'll put that , intrepid .	drawing exercise
+D	553.66	There we go , hope that pen's gonna be okay .	drawing exercise
+B	554.48	That's lovely .	drawing exercise
+D	558.67	Whoops .	drawing exercise
+B	561.11	Okay .	drawing exercise
+B	563.12	That was fun , right .	drawing exercise
+B	565.46	Um finance-wise , we've got a selling price at twenty five Euros , which I don't actually know what that is in Pounds , at all .	project budget
+B	574.64	Any ideas ?	project budget
+C	575.11	It's about mm , mm yeah .	project budget
+D	576.51	Seventeen .	project budget
+A	576.76	One point four or something like that .	project budget
+A	578.71	One point four Euro would make a Pound or something like that .	project budget
+C	580.85	Yeah , yeah , something like that , so that yeah about seventeen , seventeen Pounds , something like that .	project budget
+A	582.6	Yeah .	project budget
+B	583.85	D fifteen ?	project budget
+D	584.88	Seventeen Pounds .	project budget
+B	585.12	Seventeen .	project budget
+B	586.38	Okay , that's expensive .	project budget
+D	588.37	Should we be making notes of this ?	project budget
+D	589.55	We can just refer to this later can't we ?	project budget
+C	590.86	But Havi having said that though , if you wanna get one of those the the ones on the market at the moment they're s they're about twenty pounds anyway .	project budget
+B	590.98	I think so , I think so , I'll be able to um pull it up , or I could put it in the shared folder or something .	project budget
+D	591.74	Yeah , okay .	project budget
+D	593.81	Okay .	project budget
+C	603.21	So , it'd still be yeah , we had to buy one .	project budget
+D	603.51	Right .	project budget
+B	603.88	Really ?	project budget
+D	605.84	So so I suppose later it depends if we want to undercut the price , we d or or is it going to make our product look a cheapie-cheapie option ?	project budget
+B	606.66	Mm .	project budget
+B	608.13	I think Yeah , um production cost's at twelve fifty , so half of the selling price is taken up by building it .	project budget
+C	614.07	Hmm .	project budget
+A	617.54	Okay , pretty huge margin .	project budget
+C	621.46	Yeah .	project budget
+D	622.02	Mm .	project budget
+D	623.85	Mm-hmm .	project budget
+B	624.26	Um , and profit aim is fifty million Euros , which is uh Yi yes , um yeah , I presume so .	project budget
+D	630.37	In our first year ?	project budget
+D	635.54	Mm-hmm .	project budget
+A	636.39	So then Mm-hmm .	look and usability project budget
+B	636.43	Um Mm-hmm .	project budget
+D	638.1	You've got market range international and you did say earlier it's got to be a um accessible and usable by sort of all age groups just t we're not focusing on business market , any particular thing , it's everyone user-friendly to everyone .	project budget
+B	649.13	No , yeah .	project budget
+D	651.11	Okay .	project budget
+D	653.41	Big target group .	project budget
+B	653.57	So yes , yes , I don't think we have to I don't think it's a case of worrying about different languages and things like that , um making that a key point , just that it's going to be in the international market like Australia , America , things like that .	project budget
+D	661.85	No .	project budget
+D	666.69	Mm .	project budget
+B	669.7	Okay .	project budget
+B	675.2	What are your experiences with remote controls ?	look and usability
+B	678.29	I mean I've got we got um we had three videos , a T_V_ and a sort of amp thing all set up so we got one of the universal remote controls , um that you programme each of your things into , but that kept losing the signals so we'd have to re-programme it every now and again .	look and usability
+C	688.13	Yeah .	look and usability
+D	691.12	Alright .	look and usability
+C	691.23	Yeah .	look and usability
+A	691.49	Yeah , that c Okay , you wanna integrate everything into one like Okay .	look and usability
+B	699.39	I think it was quite a cheapie as well , so that might have had something to do with it , but that was quite good , the fact that you could You didn't have six remote controls sitting in front of you .	look and usability
+D	701.09	Mm-hmm .	look and usability
+C	701.1	Yeah uh .	look and usability
+C	705.18	Use all the ones at the same time .	look and usability
+D	708.07	Right .	look and usability
+C	711.24	Yeah , 'cause you Yeah .	look and usability
+D	711.88	Mm-hmm .	look and usability
+D	712.92	My experience has only been being given the remote control with the object I buy , not doing any tampering with it and programming , using it to programme T_V_ and uh uh videos and things .	look and usability
+D	722.44	But basically on , off , volume up and down , channel one , two , th that basic functions , I don't think I could go any further with it than that , so , I suppose it's got to be something usable by someone like me as well .	look and usability
+B	727.67	Mm .	look and usability
+B	734.98	Yeah , the main that's the main stuff anyway , I mean and you don't want to I hate I hate looking at a control and seeing a million tiny little buttons with tiny little words saying what they all do and just sitting there searching for the teletext button or something like that .	look and usability
+D	737.29	Mm-hmm .	look and usability
+D	746.42	Mm .	look and usability
+D	749.82	Mm .	look and usability
+D	750.81	And symbols that you don't necessarily understand , symbols you're meant to understand that you don't .	look and usability
+B	752.59	Yeah .	look and usability
+A	755.18	So simplification of symbols you could think of .	look and usability
+B	755.68	Um .	look and usability
+B	757.43	When they're when you've got the main things on the front of it and a section opens up or something to the other functions where you can do sound or options kind of recording , things like that inside it .	look and usability
+D	768.52	Oh yeah .	look and usability
+D	772.32	Mm-hmm .	look and usability
+B	772.83	'Cause it doesn't make when you pick it up it doesn't make it really complicated to look at , it's obvious what you're doing , um .	look and usability
+D	775.6	Mm .	look and usability
+D	777.34	Mm-hmm .	look and usability
+C	777.92	Mm .	look and usability
+D	779.78	Actually that just raises a point , I wonder what our design people think , but you know on a mobile phone , you can press a key and it gives you a menu , it's got a menu display , I wonder if incorporating that into the design of a remote control might be useful , so you've got a little L_C_D_ display .	look and usability
+A	784.99	Mm-hmm .	look and usability
+A	787.08	Menu , alright .	look and usability
+C	792.17	Yeah .	look and usability
+A	792.89	Uh uh Right , I was thinking on the same lines you , instead of having too many b buttons and make it complicated for the user , may h maybe have an L_C_D_ di display or something like that , like a mobile , yeah and with menus .	look and usability
+D	803.8	With menus , yeah , yeah .	look and usability
+A	806.03	And if it's s somewhat similar to what you have on mobile phone , people might find it easier to browse and navigate also maybe .	look and usability
+D	811.15	Yeah .	look and usability
+B	812.35	What about the older generation ?	look and usability
+B	813.65	What about granny and grandads ?	look and usability
+B	816.15	Um , my grandad can answer his mobile phone , but he couldn't even dream of texting or something like that .	look and usability
+A	816.27	You mean to save it lesser number .	look and usability
+C	819.96	Yeah .	look and usability
+D	821.35	Mm-hmm .	look and usability
+D	822.52	Mm-hmm .	look and usability
+D	823.79	Can he programme his remote control or is it basic with that too ?	look and usability
+A	826.06	Right .	look and usability
+B	828.12	I don't think they tape things , I don't think they use Mm , yeah , the age gap .	look and usability
+C	829.37	Yeah , my grandad's actually better than me at using teletext , so .	look and usability
+D	830.05	Right .	look and usability
+D	833.26	Right .	look and usability
+D	834.64	So that's a problem regardless of of any design modifications you you come up with , that's gonna be a problem anyway with the older generation perhaps , and that's another issue how we tackle that .	look and usability
+C	838.64	Yeah .	look and usability
+C	843.73	Yeah , what it just needs to be as long as it's sort of self-intuitive and you can can work out what everything's doing , 'cause I mean , menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do .	look and usability
+B	862.33	Mm .	look and usability
+A	863.21	Mm-hmm .	look and usability
+B	864.3	I don't know , I d I don't like the , you know the new phones that have kind of got a Windows-based running system .	look and usability
+C	864.43	But I don't know how Oh yeah .	look and usability
+D	872.2	Mm-hmm .	look and usability
+B	872.95	I find it really confusing , I kept getting lost in the phone , I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost , but that's just me .	look and usability
+D	878.36	Right .	look and usability
+C	885.18	Yeah , I don't I don't know how for twenty fi , or twelve Euros fifty how much of a excellent screen you could get , you'd you'd have to sort of keep it down to a black and white L_C_D_ thing anyway , I'd assume .	look and usability
+B	893.63	Yeah .	look and usability
+D	895.43	Mm-hmm .	look and usability
+D	898.71	Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books ?	look and usability
+A	905.32	Okay .	look and usability
+D	905.64	Obviously it displays less on the screen , it displays less on the screen but as long as they can read it that's the main thing .	look and usability
+B	905.77	Teletext has got that option as well .	look and usability
+B	911.86	Yeah .	look and usability
+B	913.69	Or what about kind of a dual function ?	look and usability
+B	917.37	In that you've got the basic buttons just for your play , volume , programme things and also and then a menu to go into with obvious pictures , obvious symbols and that's where you control recording and things like that .	look and usability
+D	923.65	Mm-hmm .	look and usability
+D	930.83	Yeah .	look and usability
+D	932.99	Mm-hmm .	look and usability
+D	934.74	Mm .	look and usability
+D	935.18	The other thing is , just ch chucking into mobile phone f design features again , it could have a flip top remote control so that when you flip over the top , your screen is you can have a bigger screen in the the flip over .	look and usability
+B	945.43	Mm-hmm .	look and usability
+A	946.04	Mm , okay .	look and usability
+B	948.48	I think that's a cost thing , I don't I don't know how much we're gonna know about Yes , no that's important .	look and usability
+A	948.6	S It might it might save a b bit of space , it's i instead of looking bulky , it might look small .	look and usability
+C	949.9	Y Yeah .	look and usability
+D	951.06	Yeah ?	look and usability
+D	954.93	Mm-hmm .	look and usability
+D	956.78	Yeah , like smaller .	look and usability
+A	957.38	But it might have its cost implications .	look and usability
+B	959.48	Okay .	look and usability
+D	959.69	And there's no reason we need to make it look as fashionable and stylish as a mobile phone , it can still be lightweight plastic , you know ?	look and usability
+B	965.1	Mm .	look and usability
+A	966.22	Right .	look and usability
+D	966.35	Something that's easily moulded and produced .	look and usability
+B	968.84	Yeah .	look and usability
+D	969.16	Sorry I'm treading on your territory guys .	look and usability
+C	970.68	No uh uh Yeah .	look and usability closing
+B	972.92	Um , right , okay we've got half an hour before the next meeting , so we're all gonna go off and do our individual things .	closing
+B	979.35	Um I think that's probably about it and then we'll come back and liaise again and I get to do another fantastic PowerPoint presentation .	closing
+C	988.8	Just just a quick thing about the um about what you're saying about the uh does does it need to be fashionable ?	look and usability
+B	991.07	Sure .	look and usability
+C	996.66	The sort of I I had a quick look at the company website and it's like the the uh we put the fashion into electronics , so I think think the whole design thing might be qui I mean you don't you you can still have plastic and it'd look quite good but Yeah .	look and usability
+D	1005.06	Ah right .	look and usability
+A	1005.79	Okay .	look and usability
+B	1005.86	Okay .	look and usability
+D	1006.9	Okay .	look and usability
+D	1009.16	Sure b y yeah .	look and usability
+D	1013.7	But yeah , I mean it doesn't have to be that , you know th that was my main point , we don't have to use metal , I don't know if using plastic does make it cheaper , I presume it would .	look and usability
+B	1019.99	Mm .	look and usability
+C	1022.0	Yeah .	look and usability
+D	1022.1	Yeah , yeah , yeah .	look and usability
+B	1022.32	I would it would probably .	look and usability
+C	1022.74	Yeah .	look and usability
+B	1025.04	I mean there's Sky remote controls and everything .	look and usability
+B	1026.89	They're kind of moulded and look a bit different , and the Telewest remote controls are silver plastic , which looks a bit smarter , so yeah I guess that's stuff we can think about .	look and usability
+D	1032.93	Right .	look and usability
+D	1037.32	Okay .	look and usability
+B	1038.65	Okay , so let's break it up there .	closing
+D	1042.19	'Kay .	closing
+B	1042.4	Okay ?	closing
+C	1042.58	Okay .	closing
+B	1043.13	So , see you in half an hour .	closing
+D	1046.42	Do we go back to our room ?	closing
+B	1047.76	I think so , yeah .	closing
+A	1048.05	Mm , yeah .	closing
+D	1048.29	Yep ?	closing

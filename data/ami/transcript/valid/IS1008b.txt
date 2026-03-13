@@ -1,0 +1,310 @@
+A	34.48	Okay uh Agnes , you can help me for the slide when okay .	opening
+C	36.75	Yep .	opening
+C	37.5	Sure .	opening
+A	40.93	Okay , welcome back .	opening
+A	43.31	I hope uh you have a fresh head and a fresh time .	opening
+A	48.87	How t now the meeting actually we gathering here to discuss about the functional design meeting .	opening
+A	59.56	Okay , and uh we'll issue some information from uh all of you .	opening
+A	64.18	And it's in the , I think uh , in the sharing folder .	opening
+A	68.56	And uh I will invite uh the Christine and the Ed and uh Agnes to discuss about on the various subjects .	opening
+A	77.29	So can you go to the next slide ?	opening
+A	80.53	Yeah uh the agenda of the meeting is opening .	opening
+A	83.88	Then uh I'm going to talk about uh the project management , what I'm going to do , and uh , of course , I'm doing the project management and secretary both , okay , to take the minutes of the meeting .	opening
+A	95.71	And there are three presentations .	opening
+A	97.56	One is uh new project requirements .	opening
+A	100.34	And the second one about uh decision on remote control functions .	opening
+A	104.01	And uh finally we are closing .	opening
+A	106.04	Uh and the meeting time will be uh forty minutes , so you have to be very quick .	opening
+A	112.88	And I have come up with the management come with the new proposal , okay , and I have to discuss a few points on this .	new requirements
+A	119.56	Uh both says new insights in the aim of your project .	new requirements
+A	126.36	Uh the one is uh the teletext becomes uh outmoded , okay because if uh because of the computer systems and the new technology .	new requirements
+A	135.64	So we don't need to consider really about the teletext all in our new project design .	new requirements
+A	141.35	And the second one is about uh the remote control .	new requirements
+A	146.37	Should be used only for the T_V_ .	new requirements
+A	149.95	That's what our uh management says .	new requirements
+A	153.78	And the third point , it's very very important to establish our uh marketing or uh corporate image , okay , with this new project or new product .	new requirements
+A	166.28	Okay .	new requirements
+A	168.89	So I will invite uh Agnes , can you go to the third slide ?	industrial designer presentation
+C	174.77	No , this is the third slide .	industrial designer presentation
+A	176.12	Okay , .	industrial designer presentation
+A	177.19	So , I'll invite uh Christine to discuss about uh the functional design .	industrial designer presentation
+B	185.28	'Kay , do you wanna open the I'm number two .	industrial designer presentation
+C	186.46	Sure .	industrial designer presentation
+C	189.01	Um .	industrial designer presentation
+C	194.37	You're participant s Two ?	industrial designer presentation
+B	200.4	That's it .	industrial designer presentation
+C	204.48	Do you want the mouse , or do you want me to Mm-hmm .	industrial designer presentation
+B	206.23	I'll do the notes .	industrial designer presentation
+B	207.03	Yeah , thanks .	industrial designer presentation
+B	211.57	So um well I I figured uh we should um identify some user requirements , and from my experience , I wanna uh , and from research I did , uh the the device has to turn the television on and off the first time you press on the big button , you can't uh can't have like uh waffling on this point , you know .	industrial designer presentation
+B	235.22	Really have It needs to be able y y have to be able to find it .	industrial designer presentation
+B	238.64	Because one of the biggest problems with remote controls is finding them .	industrial designer presentation
+B	244.49	So uh , I also , since we have to establish our corporate image on the basis of this new product , thought we better look at things that are popular and um ex go beyond those , and , as I said in the first meeting , um and then uh we might wanna talk eventually about the materials that are appropriate to use in uh in the construction , especially in the the uh the outside of the product so that it gives the appearance , and it is reliable , and so forth .	industrial designer presentation
+B	273.67	I did a little history on uh the the uh remote controls and when they were invented and so forth , so , I guess this guy Zenith uh created the Flashmatic , which I kinda like the idea , 'cause it made me think of um um maybe the remote control made a big flash when uh you turn the T_V_ on and off , that might be interesting .	industrial designer presentation
+B	293.93	And um so it was highly directional flash light that uh you could turn the picture on and off , and the sound on and off , and change channels c so I think um those are still requirements we have today , uh fifty years later .	industrial designer presentation
+B	313.6	And uh it was really a pioneering innovation , but it was uh sensitive to the sun , so that uh it would get would start off by the you'd get it would easily cause um problems .	industrial designer presentation
+B	327.09	So , uh I in addition to uh looking at the um uh the functional requir so all these devices are examples of where uh mm they represent examples that are available today which I think the one in the middle is r um really uh something to keep in mind .	existing products
+D	344.93	Fantastic .	existing products
+B	348.24	It'd be easy to find .	existing products
+B	350.22	And um it would uh y you'd you could throw it at things if if the T_V_ didn't turn on and off , you could use it for something else .	existing products
+B	360.99	And since I'm not really um Industrial Designer , I didn't really know what to do with this slide .	industrial designer presentation
+B	367.14	But um I just took some different uh schematics and I put them into this , and I guess this is what a slide might look like if you were drawing a circuit board .	industrial designer presentation
+B	380.07	I don't know why um we were asked to do this .	industrial designer presentation
+B	383.12	So , uh personal preferences , um I think we could uh I I'm really thinking outside the box here , and I think that we should consider perhaps having an an an a a size uh a remote control that changes in size depending on the user preference .	industrial designer presentation
+B	400.34	So something that's very very flexible and inflatable and then you could shrink it .	industrial designer presentation
+B	404.42	I think um it could either be you could go either one extreme , be very colourful , or you could make it clear , and um kind of blend in with things , so you didn't have to um uh have a problem with the th the decoration of the of the user's home .	industrial designer presentation
+B	421.52	Um I think uh it needs to be waterproof , because uh sometimes they fall into cups and , you know , it might be out by the swimming pool or something like that .	industrial designer presentation
+B	430.97	Um if you uh mi one of one of my requirements was about needs t to tell you when it's done its job or not , because half the time , I keep pushing on the remote control , and I don't know if it's actually understood my message , so I think it should give you some sort of an oral cue .	industrial designer presentation
+B	446.92	And uh , course I never wanna replace the battery .	industrial designer presentation
+B	450.61	So , that's those are my f preferences , and that's my presentation .	industrial designer presentation
+A	454.54	Yeah , let me uh interrupt you uh if you can add other facility , other feature , like uh unbreakable .	discussion
+B	461.46	Yes .	discussion
+A	462.14	Okay , because uh especially today , you know , you have the family and the kids , okay , and the kids throw it and they they play with their remotes and .	discussion
+B	470.09	Run over it with a car .	discussion
+A	471.41	Yes .	discussion
+A	472.14	Okay , so if you can add the feature , okay , for your uh fabric whatever in your outline design okay , with unbreakable , okay , I think that will give a lot of advantage for our product , if I'm not wrong .	discussion
+B	484.83	Good idea .	discussion
+B	485.79	Good idea , I'll I'll uh um Yes , very good .	discussion
+A	486.95	Maybe you can uh add it in that .	discussion
+A	500.13	Okay , uh thank you Christine , and uh uh any questions or uh clarifications , or any discussion on the functional design ?	discussion
+C	513.3	Do you have any preconceived ideas in terms of materials ?	discussion
+C	516.79	'Cause , for example , in the unbreakable thing , doing something plastic would be harder , whereas having something like , I dunno , steel or titanium isn't really economically viable .	discussion
+B	521.38	Hmm .	discussion
+B	524.39	Titanium .	discussion
+B	525.7	Titanium would be be heavy , too , wouldn't it ?	discussion
+D	525.93	Titanium .	discussion
+C	530.41	Yeah .	discussion
+B	533.14	No , I haven't really um I wanted feedback , I think we need to rate rank these , but we'll see what your uh personal preferences are and your thoughts .	discussion
+C	537.91	Yeah .	discussion
+C	539.52	Sure , yeah .	discussion
+C	541.02	No , I just wondering whether that you had any sort of Yeah .	discussion
+B	544.18	I like titanium .	discussion
+B	545.03	It's light .	discussion
+D	546.73	Expensive .	discussion
+B	546.83	Uh yeah but uh who who said who said we were , you know , nobody told me how mu what our financial objective is , so um It'd be hard to inflate something ou made out of titanium though .	discussion
+C	549.25	The marketing comes out .	discussion
+A	551.45	Yes .	discussion
+A	556.71	Yeah so Yeah the the I'm sorry because uh the last meeting we supposed to discuss about the financial thing .	discussion
+A	564.63	Uh let me go quickly , maybe if I can go back .	discussion
+A	568.53	I know the project plan and the budget .	discussion
+A	575.87	So I can close this , not sure .	discussion
+A	580.34	Was in uh S This .	discussion
+A	618.44	So let me see where is this file .	discussion
+C	632.08	That's Christine's .	discussion
+A	633.6	This is Christine .	discussion
+C	651.3	And that's mine , I think .	discussion
+A	652.17	That's yours , okay .	discussion
+A	654.54	Saving .	discussion
+C	658.31	In modified .	discussion
+D	659.54	I don't know , I think verbally we can we can pretty much sell .	discussion
+A	660.25	Okay , uh I will I will send you a mail , okay ?	discussion
+A	662.32	The project may be the the project aim , okay .	discussion
+A	666.1	At the end of the day , the company uh wants to make at least uh the fifty million Euro .	discussion
+A	672.64	Okay , and uh of course the price will be very reasonable on the the sales side .	discussion
+A	678.2	Okay , that maybe Eddie will talk to you about uh how much uh the price and uh what's uh how much its cost for the manufacturing and how much it's going to be we sell in the market .	discussion
+A	688.2	Okay .	discussion
+A	688.94	Then uh you can come back with your feedback .	discussion
+A	691.78	And I I have one maybe the suggestion or opinion .	discussion
+A	694.92	This remote control , okay , it can be for like universal , to use for any T_V_ .	discussion
+A	702.6	Okay , and it will be slim , okay , and uh Not fat .	discussion
+B	706.75	Not fat ?	discussion
+B	708.84	Not fat , huh .	discussion
+A	710.0	Okay .	discussion
+B	711.96	Might be hard to find , though .	discussion
+A	713.82	Yep .	discussion
+D	715.15	Hmm .	discussion
+A	715.44	But let's try it , okay , with the different uh the designs , okay , the functional designs .	discussion
+B	716.72	Oh , okay .	discussion
+A	721.09	Okay ?	discussion
+A	722.06	So any other questions ?	discussion
+D	724.72	Uh from her side , I don't think uh there's too many more questions .	discussion
+A	729.32	Okay .	discussion
+D	729.84	If you can come to the Okay , from the marketing yeah , from the marketing side , just to to give an idea what the management is looking for , I was looking for a a remote control to have a s I have a sales price of twenty-five Euro , with a production price of uh twelve and a half Euro .	discussion marketing expert presentation
+A	730.11	Thank you Christine for uh time being , so then uh Ed , so can you tell about Mm-hmm .	discussion marketing expert presentation
+C	744.66	S 'scuse me for one sec .	marketing expert presentation
+D	756.77	For what uh I think from what we're trying to find , we're tr we're looking for , I don't think that price is exactly in the market .	marketing expert presentation
+D	764.95	Okay ?	marketing expert presentation
+D	765.8	I'll explain myself here now in the sense that uh in a in the recent surveys , uh from the ages fr from fifteen to thirty-five , eighty percent are willing to spend more money for something as fancy as trendy .	marketing expert presentation
+D	780.59	Twenty-five Euros , uh that's that's a preson reasonable price .	marketing expert presentation
+D	783.59	That's a market price right now .	marketing expert presentation
+D	785.69	Now if we're gonna take a risk , and push this up a bit , make it more expensive , but give them added things that they don't have now , then it w it could possibly sell .	marketing expert presentation
+A	787.15	Yep .	marketing expert presentation
+A	794.22	Yep .	marketing expert presentation
+D	796.5	Obviously the risk is there .	marketing expert presentation
+D	797.97	Too expensive , they're not gonna buy .	marketing expert presentation
+D	800.08	But , I think uh there's one other thing interesting two things that are interesting is that uh from the fifteen to thirty-five year-old group , which always spends more money on trendy new things , speech recognition is requested .	marketing expert presentation
+D	816.49	And we're talking between seventy-five to ninety percent of this group is willing to pay for speech recognition on a remote .	marketing expert presentation
+B	817.11	Speech recognition? .	marketing expert presentation
+A	824.59	Mm-hmm .	marketing expert presentation
+D	825.47	Obviously , we can't make a remote into a computer , but maybe simple commands .	marketing expert presentation
+D	830.87	I dunno , louder , softer , on , off .	marketing expert presentation
+D	836.27	That might be a possibility , even though it costs more , to be the first on the market to produce this .	marketing expert presentation
+D	842.75	Thirty-five percent say they're too difficult to use .	marketing expert presentation
+D	845.37	So we have to figure out a way of making it um more user friendly .	marketing expert presentation
+D	850.23	Uh fifty percent say they can't find the remote half the time .	marketing expert presentation
+D	855.45	So maybe one word speech recognition commands , say remote , and there's a beep beep beep , and they can find it through , you know , ten tons of newspapers , magazines , whatever you have at home .	marketing expert presentation
+D	866.0	But , in the cost that uh the management is looking for , that's not gonna be possible .	marketing expert presentation
+D	871.35	But if it's trendy , if it's fancy , it's got some colour to it , if it's very easy easy to use , if it's got simple remote speech remote uh control , like I said , louder , softer , change channel , on , off , remote , it goes beep beep , I can find my my remote without spending half a day looking for it and getting all upset 'cause I can't turn the T_V_ on .	marketing expert presentation
+D	892.43	So we're gonna have to look at it in a in this global idea , with the ideas of the industrial uh design .	marketing expert presentation
+D	901.11	But , price obviously we have to talk about .	marketing expert presentation
+A	903.56	Yep .	marketing expert presentation
+A	905.16	So what do you think about uh the design ?	components, materials and energy sources
+A	908.54	Do you think you can make it or uh What do you think about uh the design , uh what he was talking about of the speech recognition ?	components, materials and energy sources
+B	914.62	D uh I'm sorry ?	components, materials and energy sources
+D	920.79	Speech recognition .	components, materials and energy sources
+B	925.57	Well , uh training is always an issue with uh commands .	components, materials and energy sources
+A	930.84	Mm-hmm .	components, materials and energy sources
+B	931.35	So um might uh we can perhaps um do it if the user is willing to spend some time in the training process , uh it could reduce th th uh the overall um cost .	components, materials and energy sources
+B	950.69	Not sure how .	components, materials and energy sources
+B	952.55	But um anyway , um I I think also that uh this might impact the battery life .	components, materials and energy sources
+B	961.49	And um so , maybe what we'll have to do is um add something where you can um recharge it wirelessly so that uh y you know sen send power to it .	components, materials and energy sources
+B	977.8	So uh or maybe uh set it out in the sun and it uh , you know , gets uh , from the light , um a a solar cell inside there so that uh you have enough uh juice to do all these fancy things .	components, materials and energy sources
+C	981.0	Hmm .	components, materials and energy sources
+C	991.27	It seems also like with the speech recognition , yeah , it's a great feature , but if you're watching T_V_ , there's a lot of ambient sound , and it's words .	components, materials and energy sources
+C	998.99	It's not just , you know , noises like something hitting .	components, materials and energy sources
+C	1002.24	It's actual speech , so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech , and the the user's speech .	components, materials and energy sources
+C	1011.53	Otherwise , you can say remote .	components, materials and energy sources
+B	1012.93	Off .	components, materials and energy sources
+C	1013.13	But if someone on the screen is saying the same thing , all of a sudden , you have someone in a movie saying off and your screen dies , because they've triggered the remote control and it's turned off your T_V_ .	components, materials and energy sources
+C	1025.38	So , I think if we can find a speech recognizer that can handle those types of problems , then yeah , it'd be a really good marketing gimmick .	components, materials and energy sources
+D	1031.43	Mm .	components, materials and energy sources
+C	1032.55	But , I think we seriously need to consider how that would impact the situation .	components, materials and energy sources
+B	1039.6	Very good point .	components, materials and energy sources
+D	1041.17	Because tha w with speech recognition uh th I'm not that good at that idea but th if it's a one-word recognition , 'cause I know with telephones and cars and things I've seen in the States , a friend of mine says call Mom , and it calls up Mom .	components, materials and energy sources
+C	1047.62	Mm-hmm .	components, materials and energy sources
+C	1054.16	Yeah .	components, materials and energy sources
+C	1058.69	Yeah .	components, materials and energy sources
+D	1059.17	'Kay the radio can be on and everything .	components, materials and energy sources
+A	1061.05	Yep .	components, materials and energy sources
+D	1061.68	Because I think s with speech recognition , if uh the the remote or like the telephone it has a exact word that it has to hear .	components, materials and energy sources
+C	1069.55	Mm-hmm .	components, materials and energy sources
+D	1071.08	I don't think it would come through a sentence in a television .	components, materials and energy sources
+D	1073.86	If somebody's speaking on the se the television , they're not gonna stop and say remote , okay .	components, materials and energy sources
+C	1078.29	Mm-hmm .	components, materials and energy sources
+D	1079.13	So I think that uh something could be designed to recognise single word Like the t like the telephone .	components, materials and energy sources
+C	1083.34	Oh yeah .	components, materials and energy sources
+C	1083.99	Yeah .	components, materials and energy sources
+C	1084.62	No , I think it's a great idea if we can design it to to suit those requirements .	components, materials and energy sources
+D	1086.49	No because I this is this is years ago in the United States where we're driving down and he said call home , and the telephone called immediately so well , that's kinda cute .	components, materials and energy sources
+C	1092.75	Yeah .	components, materials and energy sources
+A	1099.43	Well , what I can uh suggest to you , Christine , okay , uh if you need some uh the technical feedback , or some training , okay , about uh this facility , especially for the speech recognition , I can recommend you some companies like uh Intel or I_B_M_ , okay , because they're already in this uh speech recognition part , okay .	components, materials and energy sources
+A	1121.29	And uh you can maybe have some uh technical backup from them , some kind of a technical tie-up .	components, materials and energy sources
+A	1127.44	Okay , and uh if you want , I can coordinate , okay , to get some information , okay , and uh you can uh let me know , okay , so what kind of uh the details you require okay , to add this feature in this project .	components, materials and energy sources
+A	1146.18	I don't think it's uh the difficult .	components, materials and energy sources
+A	1152.64	And uh we need to know how much is the timeframe you need to develop , apart from uh what today .	components, materials and energy sources
+B	1161.52	Okay , we'll find that out .	components, materials and energy sources
+A	1162.88	Yep .	components, materials and energy sources
+D	1164.33	From from your side uh , you're gonna have to go back the management and s be more s precise .	project specs and roles of participants
+A	1168.02	Yes .	project specs and roles of participants
+D	1169.46	What do they want ?	project specs and roles of participants
+A	1169.98	Yes .	project specs and roles of participants
+D	1170.54	Uh , a risk , take a risk on the market ?	project specs and roles of participants
+D	1173.52	Something that's gonna cost more , but could very easily s make a boom in the market ?	project specs and roles of participants
+A	1176.99	Yes .	project specs and roles of participants
+A	1178.53	Yep .	project specs and roles of participants
+D	1179.08	Because it has to be something totally different , has to be total totally new .	project specs and roles of participants
+D	1182.31	Something that nobody has right now .	project specs and roles of participants
+A	1184.92	Yeah but but end of the day , you're the sales guy , so I will come back and sit on your head because uh you are going to give your sales projection , okay .	project specs and roles of participants
+D	1184.96	And it's gonna cost .	project specs and roles of participants
+A	1194.13	It's uh of course it's uh good to uh tell the management how much it's cost us and how much you are going to benefit , okay .	project specs and roles of participants
+D	1194.39	Mm-hmm .	project specs and roles of participants
+D	1199.54	Sure .	project specs and roles of participants
+D	1200.0	Sure .	project specs and roles of participants
+A	1200.95	And uh , so I don't mind to convince , okay , the management to spend some more money on the project , okay , if you can make out of the money from this project .	project specs and roles of participants
+D	1211.24	Obviously .	project specs and roles of participants
+D	1212.9	If the bottom line is positive .	project specs and roles of participants
+A	1213.82	Yes , okay I don't mind to convince the the management , okay .	project specs and roles of participants
+D	1217.4	Mm .	project specs and roles of participants
+A	1218.29	The management says , okay , so they they don't want certain facilities , which it's already worked , okay , they want something uh new , okay .	project specs and roles of participants
+A	1226.21	I think uh like uh speech recognit definitely they will agree , I don't think they'll say no for that , okay .	project specs and roles of participants
+A	1231.79	And uh I hope I can convince the management on that , okay .	project specs and roles of participants
+A	1236.16	So if you have any uh new ideas , okay , for uh your you can always come up and uh you can tell me if you need any uh s special , okay , coordination , okay , between any uh technical companies , which you can uh hide their technology backup , okay , for your uh functional design or technical design , okay , then I am ready to do that .	project specs and roles of participants
+A	1261.53	And uh what's your comments about uh Yeah , so you are finish , Ed , uh so I can uh Okay , I'll uh hand over to Agnes .	interface specialist presentation
+C	1266.12	Um well , I mean , maybe if I go through my presentation , you can sort of see what the user perspective is , and how it ties into the other two comments .	interface specialist presentation
+D	1270.42	Mm .	interface specialist presentation
+D	1276.63	Yes .	interface specialist presentation
+D	1277.4	Mm .	interface specialist presentation
+A	1282.11	Just gonna close this .	interface specialist presentation
+A	1284.51	T Uh where are you , here ?	interface specialist presentation
+C	1289.1	Mm participant three .	interface specialist presentation
+A	1291.17	Participant three .	interface specialist presentation
+C	1298.01	Nope , here Good .	interface specialist presentation
+A	1299.64	Okay , so I'll yep .	interface specialist presentation
+A	1317.39	Okay .	interface specialist presentation
+C	1323.79	Thanks .	interface specialist presentation
+A	1324.26	Is it okay ?	interface specialist presentation
+A	1324.91	Alri Click mm .	interface specialist presentation
+C	1325.04	Yeah , and that's fine .	interface specialist presentation
+C	1328.39	Okay .	interface specialist presentation
+C	1329.16	So , basically , the method that we usually use in the user interface design is that we need to look at what people like and what people don't like about existing products .	interface specialist presentation
+C	1339.18	So , in our case , existing remote controls .	interface specialist presentation
+C	1341.64	And then , what the good ideas are , and what the bad ideas are , and why they're bad and good , which isn't always as obvious .	interface specialist presentation
+C	1347.3	We seem to have intuitions about why things are good or things are bad , but when you look , technically , at how it works , sometimes that's not the case .	interface specialist presentation
+C	1356.89	Then we need to decide what functionalities we really want to keep , 'cause that'll feed into both Ed's work and Christine's work .	interface specialist presentation
+C	1364.52	Um and then what the remote control should look like , obviously , once we've got a good idea of what the functionalities are .	interface specialist presentation
+C	1371.41	So , in terms of the functionalities that we need , you obviously need to be able to turn the T_V_ on and off .	interface specialist presentation
+C	1375.6	You need to change channels , both by directly going to a specific channel or by channel surfing .	interface specialist presentation
+C	1381.12	You need to be able to control the volume and then control any menus on the T_V_ to regulate contrast or whatever .	interface specialist presentation
+C	1392.05	So , the problems that people have expressed is that there's too many buttons on remote controls , in general .	interface specialist presentation
+C	1397.62	The buttons it's not clear what they're supposed to do .	interface specialist presentation
+C	1401.33	Um often , you need to know specific button sequences to get certain functionalities done , um which you don't necessarily always remember , especially if it's a functionality that you don't use very often .	interface specialist presentation
+C	1413.4	And that the buttons are too small .	interface specialist presentation
+C	1416.14	So , here we've got two examples where here on the left-hand side , you can see a remote control that has lots and lots of buttons .	existing products
+C	1424.43	The buttons , in a lot of cases , are tiny .	existing products
+C	1427.58	Um they're hard to see , and okay , they're labelled , but the labels don't necessarily tell you too much .	existing products
+C	1434.33	Whereas , on the other side , you have a much simpler remote control that I think basically has the minimum functionalities that are needed .	existing products
+C	1442.72	And it sort of looks simpler and just less imposing when you first look at it .	existing products
+C	1448.29	So , I would be inclined to go sort of towards this , in terms of design , rather than this .	existing products
+C	1454.54	And if there's specific functionalities that require more buttons , then we can figure out how to do it with existing um buttons .	existing products
+C	1462.02	So my personal preferences are to keep the number of buttons to a limit , or to a minimum , sorry , make frequently used buttons bigger and more strategically placed , so like the on button being really obvious one , the channel changing and the volume , and to keep the design basically sleek and simple .	interface specialist presentation
+C	1479.43	Which , I think ties into what Christine and Ed have both said fairly reasonably .	interface specialist presentation
+C	1485.7	Um so , that's pretty much it , an I don't know if you guys have any questions or Yep .	discussion interface specialist presentation
+B	1497.75	Oh , it's um , seems very understandable .	discussion
+B	1501.41	Clearly your research and uh and ours uh heading in the same direction , and um uh the only thing that I saw missing from uh your your research that we found was this uh ability to find the doggone thing when you need it .	discussion
+C	1520.53	Yes , that's true .	discussion
+B	1521.46	So uh , you know , but that's okay .	discussion
+C	1522.03	Yeah .	discussion
+B	1523.09	That's why we're all here at the table , so that if we think of it and our research indicates certain things and um w we it's complementary .	discussion
+C	1529.35	Yeah .	discussion
+B	1531.99	I also think that um uh th f the the feel of it is uh , when you hold it , is something that um uh was expressed more in in in in my uh design and that's logical and normal 'cause those are the parameters that an Industrial Designer's more thinking about , th th the look and the feel , and uh , you're First .	discussion
+C	1550.46	Mm-hmm .	discussion
+C	1551.18	Yeah .	discussion
+C	1557.58	Yeah .	discussion
+C	1559.93	Oh , that's definitely a very important factor , especially to users who are gonna be buying the thing and then using it almost on an daily basis in a lot of cases , I think .	discussion
+B	1562.87	Yep .	discussion
+B	1567.67	Mm-hmm .	discussion
+B	1570.91	Okay , so I don't have any questions .	discussion
+B	1573.0	Sounds good .	discussion
+A	1575.09	So for anybody need uh any help , for time being , on this uh subjects , okay , so please come back to me , and uh Christine , maybe I can uh try to help you to get some uh the technical uh the companies to help you for uh make a design uh slim , okay , and to add some features , like we are talking about , the speech recognition and all .	agenda/equipment issues
+C	1581.19	Oh Should we maybe make a decision about what features we actually want to include , 'cause we've thrown a lot of features onto the table , but do we actually want to incorporate all of them , or have we missed anything ?	agenda/equipment issues
+A	1603.76	Yeah .	agenda/equipment issues
+D	1612.63	Hmm .	agenda/equipment issues
+B	1613.78	Do you wanna go back and look at the closing slide , maybe that would provide some guidance ?	agenda/equipment issues
+C	1618.62	Sure .	agenda/equipment issues
+B	1633.91	Doesn't really tell us .	agenda/equipment issues
+A	1634.97	So not really this one we are talk ab Yep .	agenda/equipment issues
+D	1636.96	Individual actions .	agenda/equipment issues
+B	1637.75	Well it says individual actions , it says user interf so I'm supposed to do the components concept , supposed to work on the user interface concept , and you're supposed to keep watching the trends .	agenda/equipment issues
+C	1645.34	Mm-hmm .	agenda/equipment issues
+B	1649.78	Um and specific instructions will be sent by our our coach .	agenda/equipment issues
+B	1654.77	I think we should do as many features as uh start with all of them right now and eliminate them later in the process , that's my suggestion .	agenda/equipment issues
+C	1654.78	I thought No , I I'm just thinking in terms of time , like if Yes , now I'm objecting .	agenda/equipment issues
+A	1665.11	Okay , that will be great .	agenda/equipment issues
+A	1668.05	And uh I'll send you the the minutes of meet Yeah .	agenda/equipment issues
+B	1670.09	You can object if you want to I think we should take that as an action item for after the meeting , 'cause w our meeting time has run out .	agenda/equipment issues
+D	1674.08	She's objecting .	agenda/equipment issues
+C	1677.3	No , I mean , I was just thinking is it really practical to start designing something with features that we're just gonna end up throwing away ?	agenda/equipment issues
+C	1683.97	I mean , it takes a lot of time and effort for everyone to consider different features , um and s if we spend that time and effort on features that we're not gonna use , maybe it's better to spend it on the f thinking more about features that we actually do want , but I guess Sure .	agenda/equipment issues
+D	1702.53	Oh th we s we still have Yeah .	agenda/equipment issues
+D	1706.7	Right .	agenda/equipment issues
+B	1706.98	Somebody else has go to use this room , and , you know , we can't hang out here and talk about this , so Thank you very much .	closing agenda/equipment issues
+C	1708.8	Yeah .	agenda/equipment issues
+C	1710.48	Yeah .	agenda/equipment issues
+C	1710.74	Sure .	agenda/equipment issues
+A	1712.03	Okay , what we'll do is now we'll take for lunch break , okay , then uh we can discuss furthermore , okay , with our areas , and uh then we will come back again in the in the next meeting .	closing
+A	1721.81	So thanks for coming and uh I'll send you minutes of meeting , and uh please put your all information in the sharing folder so everybody can share the information .	closing
+A	1731.26	Okay ?	closing
+C	1731.53	Okay .	closing
+A	1732.44	So let's go for lunch then .	closing
+D	1735.07	Agreed .	closing
+A	1735.45	Thank you .	closing

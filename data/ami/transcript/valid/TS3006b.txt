@@ -1,0 +1,1055 @@
+A	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+B	23.18	Hello .	new requirements
+B	30.12	'Kay .	new requirements
+A	31.5	You all saw the newsflash ?	new requirements
+C	31.51	It's I don't know .	new requirements
+A	33.55	Or you got the same message ?	new requirements
+D	34.14	Yeah I I just saw it one minute ago .	new requirements
+A	36.99	Yeah sorry .	new requirements
+D	37.01	When I uh Yeah .	new requirements
+C	37.88	I didn't see it yet I think .	new requirements
+B	39.51	Newsflash ?	new requirements
+B	40.15	D did I miss something ?	new requirements
+A	40.75	Yeah .	new requirements
+A	42.29	Yeah I received an email so I thought I I can't mail you so I thought I'd just drop it in the folder , but Is it unlocked ?	new requirements agenda/equipment issues
+D	43.08	Yeah pretty much .	new requirements
+C	49.0	Hey what's wrong with my computer ?	agenda/equipment issues
+B	50.52	Okay .	agenda/equipment issues
+D	54.47	Mm .	agenda/equipment issues
+B	54.94	No .	agenda/equipment issues
+D	62.77	Yeah that's my presentation .	agenda/equipment issues
+A	64.86	Woah .	agenda/equipment issues
+A	65.08	I uh kind of opened it .	agenda/equipment issues
+C	65.77	Huh ?	agenda/equipment issues
+B	65.86	Mm .	agenda/equipment issues
+D	67.96	Mm ?	agenda/equipment issues
+C	68.8	What the Not really .	agenda/equipment issues
+D	69.05	Oh right .	agenda/equipment issues
+A	69.06	Uh Okay .	agenda/equipment issues
+B	70.05	I think you have to uh change your desktop uh size .	agenda/equipment issues
+D	74.03	Ooh .	agenda/equipment issues
+A	74.8	'Kay .	agenda/equipment issues
+A	75.12	Everybody ready ?	agenda/equipment issues
+D	76.7	Well Alright .	agenda/equipment issues
+C	78.46	Sorry .	agenda/equipment issues
+A	79.1	No no no .	agenda/equipment issues
+B	79.23	computer is uh not functioning ?	agenda/equipment issues
+A	80.63	Yes yes yes .	agenda/equipment issues
+C	84.61	Okay .	agenda/equipment issues
+C	85.11	Where do I find this ?	agenda/equipment issues
+A	85.16	Okay .	agenda/equipment issues
+C	86.22	I'm not so g display huh ?	agenda/equipment issues
+B	89.02	Uh display .	agenda/equipment issues
+B	91.7	And then uh settings ?	agenda/equipment issues
+C	93.31	Appearance ?	agenda/equipment issues
+D	93.66	Huh .	agenda/equipment issues
+B	99.05	Mm I'm not sure I .	agenda/equipment issues
+D	101.02	You read the newsflash ?	agenda/equipment issues
+B	103.24	No .	agenda/equipment issues
+A	103.62	'Kay .	agenda/equipment issues
+C	103.85	No what was it about ?	agenda/equipment issues
+D	104.27	Hmm .	agenda/equipment issues
+A	104.42	Can we get started or is there some pressing issue ?	agenda/equipment issues
+C	106.88	Yeah my computer is not functioning properly .	agenda/equipment issues
+A	109.07	Oh no pressing .	agenda/equipment issues
+A	112.8	Did you plug in the power cable when you come back ?	agenda/equipment issues
+C	114.81	Yeah yeah .	agenda/equipment issues
+C	115.28	No but my screen is reduced in size .	agenda/equipment issues
+A	119.2	Yeah .	agenda/equipment issues
+D	119.21	What ?	agenda/equipment issues
+A	120.28	That's difficult .	agenda/equipment issues
+A	121.48	Yeah .	agenda/equipment issues
+C	123.05	Yeah .	agenda/equipment issues
+C	126.61	Feedback .	agenda/equipment issues
+D	128.18	Hmm .	agenda/equipment issues
+B	129.49	Okay .	agenda/equipment issues
+C	131.43	Okay .	agenda/equipment issues
+D	135.16	alt delete .	agenda/equipment issues
+A	136.56	Yeah .	agenda/equipment issues
+B	138.4	Format .	agenda/equipment issues
+A	139.59	Format save .	agenda/equipment issues
+D	146.08	So it doesn't draw the attention away .	agenda/equipment issues
+C	147.73	This is dreadful .	agenda/equipment issues
+A	147.95	Yeah .	agenda/equipment issues
+B	150.39	I made uh uh my own map .	agenda/equipment issues
+C	153.11	No not this , but the task .	agenda/equipment issues
+A	153.43	Oh yeah sure .	agenda/equipment issues
+B	154.06	It's a Yeah .	agenda/equipment issues
+A	154.88	You have Playstation also ?	agenda/equipment issues
+C	156.37	Yeah .	agenda/equipment issues
+C	158.41	No that's okay .	agenda/equipment issues
+C	161.05	No I just flapped it , closed it , took it here and then this happened .	agenda/equipment issues
+C	173.51	Ah .	agenda/equipment issues
+C	176.61	Uh where was it ?	agenda/equipment issues
+C	178.09	In settings ?	agenda/equipment issues
+C	182.12	Okay .	agenda/equipment issues
+C	183.31	Alright .	agenda/equipment issues
+C	184.74	Thank you .	agenda/equipment issues
+A	188.37	Huh .	agenda/equipment issues
+C	189.8	Do you guys like your tasks ?	discussion
+B	192.03	Yeah .	discussion
+D	192.56	Yeah .	discussion
+C	193.49	I spent a lot of time thinking about what I was gonna do and then a couple of minutes before this I get my function you know the information that I need .	discussion
+B	196.66	Yeah wa wa you actually Yeah .	discussion
+D	203.06	Yeah .	discussion
+C	203.3	So frustrating .	discussion
+B	203.59	But it it's not clear what you have to to to type uh type in your presentation .	discussion
+C	205.3	So Yeah Yeah exactly .	discussion
+D	205.96	Yeah .	discussion
+D	206.55	I I had a whole idea and then just was typing it and then oh .	discussion
+D	210.36	I have to do that so switch .	discussion
+C	212.57	This presentation is mainly based on my own ideas 'cause I hadn't time to intergrate tha the information yet so Really annoying .	discussion
+D	218.67	Mm .	discussion
+B	219.05	Yeah .	discussion
+A	222.03	Okay .	opening
+A	222.67	So there we are again .	opening
+D	223.84	By your humble P_M_ .	opening
+A	225.67	Yeah .	opening
+A	227.04	Okay this is the agenda .	opening
+A	228.98	Um we have three presentations , I heard .	opening
+B	234.25	Really .	opening
+A	234.81	Yeah really .	opening
+A	235.84	So who wants to start ?	opening
+D	239.01	Yeah that's fine .	opening
+C	240.98	Yeah .	opening
+D	241.54	We have to start it right away ?	opening
+A	243.42	Yeah .	opening
+D	244.58	Functional ?	opening
+A	244.63	Uh this is you ?	opening
+D	245.71	Yeah functional requirements .	opening
+A	248.5	'Kay .	opening
+D	248.79	Alright .	opening
+D	250.53	I'm gonna talk about functional requirements .	marketing expert presentation
+D	253.48	Um Well uh some research has be done uh has been done .	marketing expert presentation
+D	259.53	Uh observing of one hundred uh subjects in the usability lab using a remote control .	marketing expert presentation
+D	265.21	Uh and they also filled in a questionnaire .	marketing expert presentation
+D	268.93	The findings were um , well you can see them for yourself .	marketing expert presentation
+D	272.45	They disliked the look-and-feel of current remotes controls .	marketing expert presentation
+D	275.44	Users think they're ugly .	marketing expert presentation
+D	277.31	Um they do not match the the operating behaviour of the users .	marketing expert presentation
+D	282.15	So they they d they don't match what they want to have on it .	marketing expert presentation
+D	286.26	Um they are often lost somewhere in the room .	marketing expert presentation
+D	289.98	Um it takes too much time to learn how to use a new remote control .	marketing expert presentation
+D	294.43	And they're bad for R_S_I_ .	marketing expert presentation
+D	298.18	I don't know uh how a user can reach that but okay .	marketing expert presentation
+D	301.78	Um there is also uh was also some research on uh the most relevant and and and irrelevant uh f functions .	marketing expert presentation
+C	302.98	Ts So they do need to be in the Alright .	marketing expert presentation
+D	311.87	Uh most irrelevant and less used were audio settings , mono , stereo , uh pitch , bass .	marketing expert presentation
+D	317.84	Um screen settings for brightness and colour and stuff like that .	marketing expert presentation
+D	321.77	Um but they are used .	marketing expert presentation
+D	323.68	I mean the Yeah they do need to be on the on the remote control .	marketing expert presentation
+A	327.13	Yeah .	marketing expert presentation
+D	329.68	I mean if you can't control the the sound settings I mean if you dislike a very uh loud bass or something , you you need to change that .	marketing expert presentation
+D	337.34	So um yeah we have to .	marketing expert presentation
+A	338.45	often .	marketing expert presentation
+C	339.24	By the way my T_V_ doesn't have an equ equaliser but okay .	marketing expert presentation
+D	340.06	We c we c Yeah I mean w we can't my my T_V_ has , but we we can leave them uh away .	marketing expert presentation
+A	343.84	Next generation does .	marketing expert presentation
+C	345.16	No .	marketing expert presentation
+C	345.87	Alright .	marketing expert presentation
+D	349.1	Uh most relevant , uh most used functions , uh they speak for themselves I guess .	marketing expert presentation
+D	353.45	Uh power button , uh channel , volume selection .	marketing expert presentation
+D	357.39	Uh teletext but we can skip that because I saw the newsflash , and teletext is so outdated that it it's i should not be used uh any more in the future .	marketing expert presentation
+A	364.84	N not used anymore .	marketing expert presentation
+D	367.24	So forget this one .	marketing expert presentation
+B	369.07	Okay .	marketing expert presentation
+D	369.4	Uh channel settings , so for programming uh your channels in in the right order .	marketing expert presentation
+C	373.21	By the way where did you guys get that newsflash from ?	new requirements
+A	373.26	Yeah .	new requirements
+B	375.35	Yeah .	new requirements
+C	376.44	I didn't get anything .	new requirements
+D	376.53	Yeah , on on the project uh No so it's a text file n in the project folder .	new requirements
+B	376.99	I was wondering uh But you you've got more information than uh .	new requirements
+A	377.63	Yeah .	new requirements
+A	379.63	Not by mail .	new requirements
+A	380.57	I receiv the mail but you don't .	new requirements
+A	382.21	So That's in the presentation , so Uh below I believe .	new requirements
+D	385.21	So teletext can be skipped .	new requirements
+C	389.14	Alright .	new requirements
+D	389.34	Um there was some research on new features in a remote control .	new requirements
+D	393.36	Uh about an L_C_D_ screen uh and speech recognition .	new requirements
+D	397.83	Well we got an update for the for the audience .	new requirements
+D	402.12	Or the the the targeted group .	new requirements
+D	404.16	So it's above forty I guess .	new requirements
+D	407.17	The new product ?	new requirements
+D	408.59	Or below because that's pretty relevant .	new requirements
+A	409.47	Yeah below forty .	new requirements
+A	411.99	Mm-hmm .	new requirements
+D	413.3	I thought I read a Yeah ?	new requirements
+A	414.27	Our current customers are in the age group forty plus .	new requirements
+A	418.47	And the new product should reach new markets , which is the customers below forty .	new requirements
+D	422.12	Below ?	new requirements
+D	423.32	Okay well that's that's in the newsfla okay that's a good to know .	new requirements
+B	423.97	But where did you get uh that information ?	marketing expert presentation
+A	425.1	That's in a newsflash .	marketing expert presentation
+B	427.0	Okay .	marketing expert presentation
+D	428.28	Um because you see see a clear distinction between the age groups , concerning the features .	marketing expert presentation
+B	430.24	Yeah .	marketing expert presentation
+D	433.69	I mean uh above forty people are not so interested uh not so interested in a screen or speech recognition .	marketing expert presentation
+D	442.04	Uh but below that age they uh they pretty much are .	marketing expert presentation
+D	445.69	So I think we can build that in .	marketing expert presentation
+D	448.3	Um Yeah well we can skip this part as well , because I thought I read above forty so we could skip the features , but we just have to build them in because uh they find it very interesting .	marketing expert presentation
+D	462.44	Um well we have to keep all the classic functions but make the buttons as user-friendly as possible .	marketing expert presentation
+D	469.13	Um and and also there's so not only the design of the bus uh buttons but o how you can push them , and stuff like that .	marketing expert presentation
+D	477.28	So the physical uh aspect of it .	marketing expert presentation
+D	479.98	Um And I think and certainly for for the for the lower age groups , uh nice design , which uh does not make the remote control in your room .	marketing expert presentation
+D	489.85	It's it's actually a part of your interior , of of your design in your room .	marketing expert presentation
+B	490.24	Yeah .	marketing expert presentation
+D	494.12	So it's the people can say , well what's that , well that's my remote control , so it's d it has to look nice and feel nice , and and have all the functions that uh Yeah so the the logo has to be uh present yeah , and the colours as well .	marketing expert presentation
+A	498.93	Yeah .	marketing expert presentation
+A	502.35	But it also needs to have corporate identity .	marketing expert presentation
+A	507.72	Present and the colours .	marketing expert presentation
+A	510.15	So we can't change much of that .	marketing expert presentation
+C	511.96	Do we have uh yeah .	marketing expert presentation
+D	512.35	Yeah so but I I don't think that's that's a problem because the thing has to have a colour anyway , and most of the times there is a brand present on it .	marketing expert presentation
+A	516.28	Mm-hmm .	marketing expert presentation
+A	517.83	Mm-hmm .	marketing expert presentation
+A	518.46	Yeah .	marketing expert presentation
+D	520.71	So I think that's not gonna gonna affect it very uh very much .	marketing expert presentation
+A	521.02	Yeah .	marketing expert presentation
+A	522.72	Okay .	marketing expert presentation
+D	525.51	Well that are the the consequences uh on a marketing uh part .	marketing expert presentation
+C	530.64	Alright .	marketing expert presentation
+D	530.78	Yes .	marketing expert presentation
+B	531.36	Okay .	agenda/equipment issues
+A	531.63	'Kay .	agenda/equipment issues
+A	533.25	It's open already so you can use to find yours .	agenda/equipment issues
+B	539.26	Mm .	agenda/equipment issues
+B	541.79	It's F_ five .	agenda/equipment issues
+A	544.07	F_ five .	agenda/equipment issues
+B	546.96	Okay .	agenda/equipment issues
+B	549.6	Oh .	agenda/equipment issues
+A	551.51	Go Jurgen .	agenda/equipment issues
+B	552.82	What is this ?	agenda/equipment issues
+B	554.35	Oh no .	agenda/equipment issues
+B	556.72	How do I uh No no no .	agenda/equipment issues
+A	557.35	You pressed alt F_ four ?	agenda/equipment issues
+B	559.5	I pressed the mouse button .	agenda/equipment issues
+A	561.16	Oh great .	agenda/equipment issues
+C	562.56	It's th that's the self-destruct button .	agenda/equipment issues
+B	564.62	Yeah .	agenda/equipment issues
+A	564.85	Yeah .	agenda/equipment issues
+A	565.28	Uh maybe you can do it from your computer so talk us through it .	interface specialist presentation
+B	565.46	Okay .	interface specialist presentation
+B	567.16	Okay .	interface specialist presentation
+D	567.3	Yeah .	interface specialist presentation
+B	567.69	Um if you all go stand around uh Computer Um No .	interface specialist presentation
+D	568.42	Just yeah .	interface specialist presentation
+A	570.48	Yeah .	interface specialist presentation
+D	571.8	Sure .	interface specialist presentation
+C	572.08	Alright .	interface specialist presentation
+A	574.58	That's nice .	interface specialist presentation
+A	578.93	F_ five .	interface specialist presentation
+D	579.29	Yeah .	interface specialist presentation
+A	579.63	Yeah .	interface specialist presentation
+B	579.96	Okay .	interface specialist presentation
+D	580.05	Alright .	interface specialist presentation
+B	581.25	I uh had uh two examples .	existing products
+A	583.51	Mm-hmm .	interface specialist presentation
+B	584.14	Um this one is the the yeah the advanced one with a lot of options and functions and buttons .	existing products
+A	589.22	Mm-hmm .	interface specialist presentation
+B	590.3	This the easy one I think we have to to combine them .	existing products
+D	590.42	Yeah .	interface specialist presentation
+D	593.52	Yeah .	interface specialist presentation
+A	593.74	Mm-hmm .	interface specialist presentation
+B	594.1	And uh yeah merge the best functions of all examples .	existing products
+C	594.25	Mm-hmm .	interface specialist presentation
+A	596.92	Yeah .	interface specialist presentation
+B	598.28	Um but yeah the the age is uh under forty ?	interface specialist presentation
+A	602.32	The mm yeah .	interface specialist presentation
+D	602.87	Yeah and and and marketing research stated that that that kind of users are not afraid of of a lot of functions .	interface specialist presentation
+B	603.48	So we Okay so so we have the option for more functions .	interface specialist presentation
+D	610.34	So not not too much but yeah .	interface specialist presentation
+B	612.63	Um yeah .	interface specialist presentation
+C	615.04	And we do have to integrate the screen and the the speech alright .	interface specialist presentation
+D	617.95	And the speech recognition yeah .	interface specialist presentation
+B	619.54	Yeah .	interface specialist presentation
+A	619.56	Yeah .	interface specialist presentation
+B	621.03	Uh yeah this this one we can remove for kids .	interface specialist presentation
+B	624.4	It's just only for adults so uh we can uh use some advanced options .	interface specialist presentation
+D	628.2	Yeah from age of sixteen so yeah .	interface specialist presentation
+B	628.59	But Yeah but I prefer we we uh use the the basic options uh yeah .	interface specialist presentation
+B	633.84	We have to to make them very easy so for just uh zapping around the channels you can just push one button .	interface specialist presentation
+D	635.86	Mm .	interface specialist presentation
+C	636.37	Mm-hmm .	interface specialist presentation
+A	639.59	Mm-hmm .	interface specialist presentation
+B	639.75	But if you want to to use your your video recorder or something else , you should use use an uh an advanced option .	interface specialist presentation
+D	646.29	Yeah but uh the the newsflash also stated that it should control only one device , only your television .	interface specialist presentation
+B	650.92	Okay one device .	interface specialist presentation
+A	652.24	Yeah .	interface specialist presentation
+B	652.46	Okay .	interface specialist presentation
+A	652.78	So n it's very easy .	interface specialist presentation
+D	652.95	So w So there are not extra options in this case , but uh Yeah .	interface specialist presentation
+B	653.17	I didn't see .	interface specialist presentation
+A	654.11	Now yeah it's okay .	interface specialist presentation
+B	654.11	Okay and I also uh yeah .	interface specialist presentation
+A	656.94	Okay .	interface specialist presentation
+B	658.44	W yeah .	interface specialist presentation
+B	659.01	We have to make it fashionable .	interface specialist presentation
+B	660.48	Like you uh said uh before .	interface specialist presentation
+A	660.5	Yeah .	interface specialist presentation
+B	663.2	Uh yeah the basic functions .	interface specialist presentation
+B	664.92	Um yeah only use a extra function if they are really needed .	interface specialist presentation
+A	668.7	Yeah so maybe you can hide them or something .	interface specialist presentation
+D	668.76	Yeah .	interface specialist presentation
+B	670.77	Yeah .	interface specialist presentation
+D	670.95	Yeah well what what we can do with the screen is is all the the configuration options , you can put that in the screen .	interface specialist presentation
+A	676.85	Yeah you make a screen menu or something .	interface specialist presentation
+D	676.87	And the and the yeah screen menu to to to uh to do that , and then the basic function just on the device itself .	interface specialist presentation
+C	678.86	Yeah .	interface specialist presentation
+B	680.52	Yeah .	interface specialist presentation
+D	684.52	So it looks very simple and all the advanced features are hidden in the screen , uh with a clear menu .	interface specialist presentation
+A	684.73	Mm-hmm .	interface specialist presentation
+A	687.99	Yeah and the other oth other uh functionality is the screen .	interface specialist presentation
+B	688.02	Yeah .	interface specialist presentation
+A	692.91	What does the screen do ?	interface specialist presentation
+D	695.35	Uh .	interface specialist presentation
+C	695.81	Alright .	interface specialist presentation
+B	696.07	Did I uh did I break it ?	interface specialist presentation
+D	696.39	What are wh What .	interface specialist presentation
+A	696.4	Yeah .	interface specialist presentation
+A	697.22	It's low power .	interface specialist presentation
+A	701.31	So what does the screen do ?	interface specialist presentation
+A	703.14	They said they needed it but what does it do ?	interface specialist presentation
+A	705.28	What do they want with the screen ?	interface specialist presentation
+B	706.67	For for the advanced functions I think .	interface specialist presentation
+A	708.63	Yeah that's what we make it up .	interface specialist presentation
+D	708.67	Yeah well it yeah it didn't it didn't say what they want to do with the screen .	interface specialist presentation
+A	710.08	So but what did the marketing No .	interface specialist presentation
+D	714.07	Well I , my guess is it's it's pretty handy for advanced uh advanced functions .	interface specialist presentation
+A	717.05	Yeah okay it's handy .	interface specialist presentation
+A	718.56	With no predefined uh We're back online .	interface specialist presentation
+B	718.58	Like searching for channels and Yeah .	interface specialist presentation
+D	720.37	Yeah searching for channels , programming them .	interface specialist presentation
+C	720.79	Ah look .	interface specialist presentation
+C	721.96	We have your uh oh never mind .	interface specialist presentation
+B	724.05	Okay .	interface specialist presentation
+B	724.92	That's uh I'm al I'm almost finished so Um the we have to to to watch out for the i if we make it f very fashionable , it it the functional functionality will go down .	interface specialist presentation
+A	728.63	Okay .	interface specialist presentation
+B	738.08	So we have to make uh a compromise between functionality and fashional fashionable yeah content and form .	interface specialist presentation
+A	742.05	Mm-hmm .	interface specialist presentation
+A	742.82	Content and form .	interface specialist presentation
+D	744.27	Yeah .	interface specialist presentation
+A	745.8	Yeah .	interface specialist presentation
+B	746.49	Now that that was uh was the end .	interface specialist presentation
+A	747.18	That was the end .	interface specialist presentation
+D	748.1	Yeah .	interface specialist presentation
+C	748.47	Okay .	industrial designer presentation
+B	748.65	Yes .	interface specialist presentation
+A	748.75	Okay .	interface specialist presentation
+C	749.93	Well my presentation is a bit uh sucky .	industrial designer presentation
+D	755.18	Well you can improvise right ?	industrial designer presentation
+A	755.73	Uh which one is it ?	industrial designer presentation
+A	756.64	Technical functions ?	industrial designer presentation
+C	757.2	Yeah a little bit .	industrial designer presentation
+C	758.95	Uh no .	industrial designer presentation
+A	758.98	This one ?	industrial designer presentation
+C	761.51	No no .	industrial designer presentation
+A	765.44	Functional requirements ?	industrial designer presentation
+C	766.88	Yeah I think that would be it then .	industrial designer presentation
+A	769.29	No .	industrial designer presentation
+D	769.85	So we we can go for So we can go for the look-and-feel of the the left example , and then a screen on top of it .	industrial designer presentation
+C	770.32	I have no idea .	industrial designer presentation
+A	770.55	You didn't put it in ?	industrial designer presentation
+A	771.82	Or it's not really English .	industrial designer presentation
+C	772.1	That w .	industrial designer presentation
+C	774.27	Let me check .	industrial designer presentation
+C	776.56	I know .	industrial designer presentation
+A	779.71	Uh kick off .	industrial designer presentation
+A	781.4	Oh working design I got it .	industrial designer presentation
+C	783.24	Yeah .	industrial designer presentation
+A	792.36	Here you go .	industrial designer presentation
+C	793.6	Alright how do I uh skip pages ?	industrial designer presentation
+A	795.68	Just uh press uh yeah .	industrial designer presentation
+C	797.69	The keys yeah ?	industrial designer presentation
+A	798.29	Yeah .	industrial designer presentation
+D	798.31	Yeah .	industrial designer presentation
+C	799.83	Alright .	industrial designer presentation
+C	800.47	Um yeah well I was working on this before I got my information .	industrial designer presentation
+C	805.41	So I was just working off the top of my head and using my colin common knowledge about uh remote controls .	industrial designer presentation
+A	807.57	Mm-hmm .	industrial designer presentation
+C	813.29	And well the info on the website which came too late .	industrial designer presentation
+A	815.73	Mm-hmm .	industrial designer presentation
+C	817.01	Um so I didn't really know what kind of functions we had to put into it yet .	industrial designer presentation
+C	823.51	So uh uh this is basically an overview of what we discussed in our last uh meeting .	industrial designer presentation
+A	823.54	Mm-hmm .	industrial designer presentation
+C	831.42	Those were my uh starting points .	industrial designer presentation
+A	832.8	Mm-hmm .	industrial designer presentation
+C	834.19	Uh I was working on a s yeah on a schedule , and I was supposed to do it like this .	industrial designer presentation
+C	842.61	But um yeah then uh the information came and it was kind of exact with all the steps in the remote control that I had to follow , so I was trying to organise them for myself .	industrial designer presentation
+A	851.96	Mm .	industrial designer presentation
+C	855.05	And then make the the design , a the actual design , but I never came around to do that .	industrial designer presentation
+D	857.02	Design ?	industrial designer presentation
+A	857.59	Design yeah .	industrial designer presentation
+D	858.4	Yeah .	industrial designer presentation
+C	862.19	So I'm not really sure what I'm supposed to say about it .	industrial designer presentation
+D	862.44	Okay .	industrial designer presentation
+C	866.27	I mean everything speaks for itself I guess .	industrial designer presentation
+C	868.72	Mean you press a button um the it tru goes , it sends a signal to a chip , which uh translates it into infrared signal of certin spatial frequencies .	industrial designer presentation
+A	870.5	Mm-hmm .	industrial designer presentation
+D	880.91	Yeah frequency .	industrial designer presentation
+A	881.05	Mm-hmm .	industrial designer presentation
+D	881.99	Yeah .	industrial designer presentation
+C	882.36	And uh or temporal fr frequencies actually .	industrial designer presentation
+C	885.15	And then uh through a uh transformer , it the signal gets boosted and then sent to the to the receiver on the T_V_ and the T_V_ will translate it into a function .	industrial designer presentation
+A	889.57	Yeah decoder .	industrial designer presentation
+C	901.35	Um Yeah well this was actually all I got around to do .	industrial designer presentation
+A	907.38	Blank .	industrial designer presentation
+A	908.09	Yeah okay .	industrial designer presentation
+C	908.31	I mean I dunno if I'm too slow for this stuff , but uh Yeah .	industrial designer presentation new requirements
+B	908.6	Yeah .	industrial designer presentation
+D	908.67	Yeah .	industrial designer presentation
+A	911.69	Work harder .	industrial designer presentation
+B	912.4	Okay shou should we make a list of the of all the functions we want uh Yeah .	new requirements
+C	913.86	Whatever .	new requirements
+A	915.85	Yeah .	new requirements
+A	917.18	Uh 'Kay .	new requirements
+D	917.18	Yeah we want to incorporate in uh into it .	new requirements
+A	922.02	Um for those that didn't see yet um the basic new requirements of the management were no teletext , only for T_V_ .	new requirements
+A	933.2	Uh it should be designed for a use g uh group below forty , but I don't think it's w wrong if we can uh target the current customer group as well .	new requirements
+D	943.34	Mm .	new requirements
+A	944.48	And uh the corporate identity should be clear in the design of the remote control .	new requirements
+A	951.86	And we have to decide on the functions , and on the , let's see what was it , uh the target group .	new requirements
+A	961.13	We have to make be clear what that is .	new requirements
+D	964.66	group of users , or because it says below forty I mean .	user target group
+A	965.62	Yeah users .	user target group
+A	969.01	Yeah so I think it's easy but Yeah it's below forty so we can decide where to Okay .	user target group
+D	969.92	I guess that's that's the tar yeah uh or male and female Uh six the marketing research started on s on the age of sixteen .	user target group
+B	971.81	But uh it's it's also for children or just uh Okay .	user target group
+D	979.9	Sixteen to twenty five , twenty five to thirty five , thirty five to forty five , something like that .	user target group
+B	980.24	Okay .	user target group
+D	985.63	So um How do you mean ?	user target group
+A	985.85	So below forty is okay .	user target group
+A	988.43	But we need an lower level which to s uh focus .	user target group
+A	994.16	So is it from sixteen to forty ?	user target group
+A	996.59	Is it from twenty to forty ?	user target group
+A	998.55	Is it from thirty ?	user target group
+D	998.63	Uh sixteen to forty .	user target group
+B	999.84	Yeah .	user target group
+A	1000.21	Yeah ?	user target group
+D	1000.62	Well I I guess people of sixteen are are quite used to technology .	user target group
+B	1000.88	We we have to And if we have a larger public we have uh yeah more options to to uh sell our product .	user target group
+A	1001.12	'Kay .	user target group
+A	1005.51	Yeah .	user target group
+D	1006.12	So they they adapt to it pretty soon I guess .	user target group
+D	1011.5	Yeah .	user target group
+C	1013.68	Yeah so what we might wanna do is uh yeah cust I have customised the screen functions , if you know what I mean .	discussion
+C	1021.02	The uh younger users are more acquainted with these kind of machines so they can use more advanced functions .	discussion
+A	1021.2	Mm-hmm .	discussion
+C	1030.08	But maybe elderly people don't understand it so well , so they need a simpler remote .	discussion
+A	1035.25	Design .	discussion
+C	1035.79	And yeah that you can choose what the design displays , or wha whatever .	discussion
+A	1036.59	Mm .	discussion
+B	1039.73	Yeah that's that's why uh I wanted to to make yeah two uh different uh yeah groups of functions .	discussion
+B	1046.27	The the simple functions for for the the whole public , and the the advanced options for the younger people yeah who are more yeah experienced with uh Na I w I should uh put uh the the yeah the extra advanced options on the onto the onscreen display .	discussion
+C	1049.51	Yeah .	discussion
+A	1053.1	Mm-hmm .	discussion
+C	1054.47	Experienced yeah .	discussion
+A	1054.95	And maybe y Yeah .	discussion
+D	1055.07	But uh all incorporated in the screen or or just on the remote itself ?	discussion
+D	1065.94	Yeah like like you have a visual of the of the brightness with with a kind of sliding bar and a bus and and stuff like that for sound and and vis and and visuals ?	discussion
+B	1069.64	Yeah .	discussion
+A	1070.04	Yeah .	discussion
+A	1071.03	Yeah .	discussion
+A	1074.67	So is you should have a menu for all the the functions you don't use regular and which are Yeah .	discussion
+D	1077.62	Uh you can make a if you make a drawing .	discussion
+B	1079.83	Yeah .	discussion
+A	1083.03	Aye yeah .	discussion
+D	1083.95	Uh Uh .	discussion
+A	1086.87	Shall I uh Yeah .	discussion
+D	1089.57	Uh black's okay .	discussion
+D	1095.58	And draw it very big .	discussion
+D	1097.67	Oh .	discussion
+A	1098.39	It's okay .	discussion
+D	1099.18	Yeah .	discussion
+A	1100.4	no , it doesn't have line control , so Yeah we get the The remote , yeah ?	discussion look and usability
+D	1103.05	Yeah .	discussion
+D	1107.36	Yeah well , this is basically uh it's alright the remote ?	look and usability
+C	1110.26	The remote ?	look and usability
+D	1112.91	Um well usually the power button is on top I guess .	look and usability
+A	1114.08	Basic .	look and usability
+A	1116.87	Is on top .	look and usability
+A	1118.6	Which should be easy , easily reached with the thumb .	look and usability
+D	1121.62	Yeah so it should fit right in into your hand .	look and usability
+B	1122.76	Yeah .	look and usability
+B	1123.79	L left top or right uh top ?	look and usability
+D	1126.37	Right .	look and usability
+A	1126.38	T I s should said right .	look and usability
+C	1127.37	Right top .	look and usability
+B	1127.52	Yeah , right .	look and usability
+D	1127.74	Right .	look and usability
+D	1128.06	I most people are right-handed so maybe left-handed special addition , but okay .	look and usability
+A	1128.94	Because yeah .	look and usability
+B	1129.98	Okay .	look and usability
+C	1130.11	Yeah definitely .	look and usability
+D	1134.26	If you put it like like here .	look and usability
+D	1136.64	Or something .	look and usability
+D	1137.52	I dunno .	look and usability
+D	1139.4	Um then you could put a screen , like on a mobile phone , also on top I guess .	look and usability
+A	1145.58	Mm-hmm .	look and usability
+B	1145.64	Yeah but if you are using the the normal functions , the the basic functions , you normally press them on the u yeah .	look and usability
+A	1150.95	Do the also with the thumb .	look and usability
+A	1153.27	So it should be a little bit longer so that you can put your uh thumb , also reach the middle .	look and usability
+A	1160.3	Or you should screen at the bottom and then you can see it very clearly .	look and usability
+D	1163.8	Okay so y yeah you have you have it in your hand , and the screen is below , and the buttons are in the middle .	look and usability
+A	1165.76	You you need to be able to hold it so Yeah .	look and usability
+B	1168.33	Yeah .	look and usability
+D	1170.04	Okay for example if you put the screen here , it's more about the functions now than the than the layout .	look and usability
+A	1174.64	Yeah okay that's true .	look and usability
+A	1175.83	Layout .	look and usability
+A	1176.6	That's for the I can't help it .	look and usability agenda/equipment issues
+D	1176.78	Doesn't work too well .	agenda/equipment issues
+D	1177.84	It's uh it's bent .	agenda/equipment issues
+B	1182.16	You broke it .	agenda/equipment issues
+A	1183.26	Yeah .	agenda/equipment issues
+D	1186.16	Yeah .	agenda/equipment issues
+A	1188.78	Man .	agenda/equipment issues
+D	1189.94	Right .	agenda/equipment issues
+A	1191.37	Yeah okay .	agenda/equipment issues
+D	1192.13	Okay you get it .	agenda/equipment issues
+D	1193.57	Uh for example if y if you put all the Right .	agenda/equipment issues
+A	1204.46	You want the normal piece of paper ?	agenda/equipment issues
+A	1206.26	And you have a pen ?	agenda/equipment issues
+D	1207.64	Yeah .	agenda/equipment issues
+C	1208.87	And might be easier huh ?	agenda/equipment issues
+D	1209.22	Maybe this .	agenda/equipment issues
+D	1212.11	kind of works .	agenda/equipment issues
+A	1213.37	Yeah ?	discussion
+D	1214.63	Like if you have like uh ten buttons for for all the for all the channels , um and here one for for Yeah that that usually uh like here , here , here , here .	look and usability
+A	1219.97	Mm-hmm .	look and usability
+A	1221.83	Uh .	look and usability
+A	1223.26	And the for flipping up and down .	look and usability
+B	1224.56	Yeah yeah .	look and usability
+B	1226.02	And volume control .	look and usability
+C	1229.65	Yeah I Yeah exactly .	look and usability
+B	1233.54	Yeah .	look and usability
+D	1233.88	So you have up and down for the for the channels , and left and right for the volume uh Yeah .	look and usability
+A	1234.03	Yeah .	look and usability
+A	1237.66	And left to right .	look and usability
+A	1239.53	And those can also be used for the menu .	look and usability
+C	1242.95	I thought but this is really your department , that we need just the functional display and four cursors .	look and usability
+A	1245.31	Yeah .	look and usability
+D	1247.66	Yeah .	look and usability
+A	1248.48	Yeah okay but this is function so if you can use them for multiple things For the menu .	look and usability
+D	1249.74	And you you have most of the time you have one button in the middle .	look and usability
+C	1250.55	And Yeah okay .	look and usability
+D	1254.1	It says menu , and then if you press it you the screen gets activated and then you can use these buttons to scroll up and down and left and right to go into functon and then just mo most of the time this menu button is also like okay , to to confirm a a kind of action .	look and usability
+A	1255.17	Yeah .	look and usability
+A	1260.9	Mm-hmm .	look and usability
+C	1261.06	Yeah .	look and usability
+A	1265.18	Yeah .	look and usability
+A	1270.9	Yeah .	look and usability
+D	1271.58	So you scroll into it , okay .	look and usability
+D	1274.84	You select a function like v like uh bass .	look and usability
+D	1277.94	You just adjust it with these two buttons .	look and usability
+A	1279.92	Yeah .	look and usability
+D	1280.82	Then okay to confirm , and then uh on on each on each screen there's there should be an option to go back to a to a upper level .	look and usability
+D	1290.35	And then finally say okay , exit .	look and usability
+C	1290.48	Mm-hmm .	look and usability
+D	1292.12	Or or one button to exit it .	look and usability
+B	1294.14	Yeah .	look and usability
+D	1294.52	Uh in one time I dunno , that's not really my department .	look and usability
+D	1298.6	That's more your uh your department to to uh to Yeah .	look and usability
+B	1300.96	And do we need a a logo on our uh remote control , or On the left uh top yeah .	look and usability
+A	1304.31	Yeah .	look and usability
+D	1304.95	But it should be if the screen is here then the logo should be like on on top , yeah .	look and usability
+D	1310.89	I mean it's uh Yeah .	look and usability
+B	1311.65	Okay .	look and usability
+A	1312.08	Yeah but that depends on where you put the screen .	look and usability
+A	1314.08	But it's essential that there is a screen .	look and usability
+D	1316.46	Yeah I mean the position of the screen is also more essential than I mean we we look where we have space left and then put the logo over there .	look and usability
+A	1323.77	Yeah .	look and usability
+A	1324.96	And for the speech uh recognition part , if we want to incorporate that , we need a microphone .	look and usability
+D	1325.03	But um Yeah so it should be I mean if you have it in your hand here , should be on top somewhere , maybe .	look and usability
+A	1335.89	Yeah .	look and usability
+A	1336.53	This would be uh No that's not s sure so uh we need a display .	look and usability
+C	1337.22	Why did we wanna put the display in the bottom ?	look and usability
+D	1337.38	I mean i That's not sure but it's Yeah I mean a screen on top looks more lo logical to me .	look and usability
+C	1341.65	Okay .	look and usability
+B	1342.77	Yeah may maybe because you're Yeah okay but only for the basic functi if you're going to use the advanced option , you're going to press the the menu button and then yeah .	look and usability
+C	1343.78	Because yeah if you use the functions your hand will block the display .	look and usability
+C	1359.6	Normal for logical t Yeah .	look and usability
+D	1361.05	Also because people use m mobile phones and they also have the screen on top .	look and usability
+B	1361.07	Yeah .	look and usability
+A	1361.12	Yeah .	look and usability
+A	1363.38	Yeah they're used to it .	look and usability
+B	1365.0	Okay the yeah .	look and usability
+D	1366.22	So you you just have to reach a little bit for the power button .	look and usability
+B	1366.29	That's possible .	look and usability
+D	1371.25	I mean if you grab it .	look and usability
+C	1372.03	On once it's on it's on .	look and usability
+D	1373.18	But most most of the times if a if if a T_V_'s on standby people just press a channel to put it on .	look and usability
+C	1373.48	You don't need the power button .	look and usability
+B	1374.01	Yeah , okay .	look and usability
+B	1377.91	Okay we put it on top .	look and usability
+D	1379.59	So we put this on top , and then make the corporate logo like over here .	look and usability
+B	1381.11	Yeah .	look and usability
+D	1386.47	R_R_ .	look and usability
+D	1387.29	And j and the microphone , I mean it can be very small .	look and usability
+D	1390.16	If you look at your mobile phones are some stripes , little little holes .	look and usability
+C	1392.01	Yeah .	look and usability
+A	1395.47	Mm-hmm .	look and usability
+C	1395.96	Maybe on the top or even on the side .	look and usability
+D	1397.9	Yeah maybe on the side .	look and usability
+D	1399.23	I mean if the if the microphone is good .	look and usability
+A	1400.04	Yeah but then it's possible that you cover it with your hand so I think that top is the best option .	look and usability
+C	1402.96	True .	look and usability
+D	1403.42	Yeah okay .	look and usability
+B	1403.45	Yeah .	look and usability
+D	1404.12	So on the on the top is better .	look and usability
+C	1405.9	But if you uh if you hold the ma the remote like this , if you put it on the top on the side I dunno .	look and usability
+A	1412.25	Yeah okay .	look and usability
+C	1412.61	Should be able to work .	look and usability
+D	1413.27	Yeah .	look and usability
+A	1414.23	Depends on the sensitivity of the microphone , but I think that's okay .	look and usability
+C	1414.29	Never mind .	look and usability
+C	1416.08	Can we leave this up to you ?	look and usability
+D	1417.8	Yeah it doesn't matter that much .	look and usability
+D	1419.98	So but um the screen is on top ?	look and usability
+D	1422.62	Which functions did we have left ?	discussion
+D	1426.4	I mean this is basically numbers , volume , uh channel up and down .	discussion
+A	1428.93	Volume .	discussion
+A	1430.47	Up .	discussion
+A	1431.45	Channel up and down , and the control of the advanced options .	discussion
+D	1432.31	Screen is over there .	discussion
+B	1435.71	Yeah .	discussion
+D	1435.96	Yeah .	discussion
+A	1436.15	So maybe it , we should decide what advanced options we want to put in the L_C_D_ screen .	discussion
+B	1436.27	If we Yeah it it's just a remote control so Yeah .	discussion
+D	1440.67	Yeah .	discussion
+D	1441.3	That's uh that's a good one .	discussion
+C	1442.95	Yeah so we we needed to integrate the sound and uh and image options right ?	discussion
+D	1449.47	Yeah .	discussion
+A	1449.84	Yeah so sounds ?	discussion
+C	1449.9	Like uh bass uh so we need kind of an equaliser .	discussion
+D	1452.34	Sound ?	discussion
+C	1454.83	If you Yeah treble , middl middle , bass or something .	discussion
+D	1454.93	Yeah .	discussion
+D	1455.48	Equaliser .	discussion
+D	1456.96	So if you have sound But not too advanced .	discussion
+D	1461.73	I mean most T_V_s use only treble and bass .	discussion
+A	1464.1	Yeah and they're They're not used often so Yeah just Yeah sounds .	discussion
+D	1467.77	Yeah .	discussion
+D	1469.04	It's uh pretty hard to write .	discussion
+C	1471.23	Ah as .	discussion
+D	1472.23	Mm .	discussion
+D	1472.96	Okay but you have sound ?	discussion
+D	1475.8	Yeah just oh y you have digital uh better write it down over there yeah .	discussion
+A	1476.67	Yeah .	discussion
+A	1480.09	Of course .	discussion
+D	1480.49	So you have sound .	discussion
+A	1480.92	I'm just a secretary .	discussion
+D	1482.9	Yeah .	discussion
+A	1484.64	Coffee ?	discussion
+D	1484.7	Uh yeah sound and then within sound I guess treble and bass ?	discussion
+C	1485.71	Yes please .	discussion
+A	1491.01	Treble bass .	discussion
+C	1491.82	the mono stereo option ?	discussion
+D	1494.91	Yeah .	discussion
+A	1495.63	Uh Pitch I believe , yeah .	discussion
+C	1495.69	And there there was something else also .	discussion
+D	1496.11	Also .	discussion
+C	1498.14	And then pitch .	discussion
+D	1500.25	Pitch .	discussion
+D	1501.09	Yeah .	discussion
+D	1501.53	But pitch , isn't that yeah that's the the height of the tone .	discussion
+A	1504.34	Yeah .	discussion
+C	1504.37	The fr yeah the frequency of the tones , yeah .	discussion
+D	1506.47	Yeah okay , wh why would you use that ?	discussion
+A	1507.07	Yeah and mono stereo .	discussion
+C	1509.31	Yeah isn't that that depends on the on the signal of the of what program you're watching .	discussion
+D	1509.5	If people like talk like uh Yeah .	discussion
+A	1515.09	Mm .	discussion
+A	1516.03	And also the tuning part ?	discussion
+D	1518.98	Programming part .	discussion
+A	1520.02	Yeah programming .	discussion
+D	1521.13	Uh so we have sound , yeah ?	discussion
+A	1521.54	So channel programming ?	discussion
+D	1523.66	Channel programming .	discussion
+C	1525.59	And yeah in the functionality of the no no of the remote uh do do we want uh the buttons to make sound when you press them ?	discussion
+B	1529.31	Television uh itself uh Mm .	discussion
+C	1536.96	As a confirmation or whatever you know ?	discussion
+D	1538.86	Mm .	discussion
+C	1539.65	I dunno .	discussion
+A	1539.92	Mm .	discussion
+D	1539.97	I think it g it gets annoying .	discussion
+D	1541.61	I mean most mobile phones used that in the beginning but Yeah .	discussion
+A	1541.93	Yeah .	discussion
+B	1542.45	We we could make an option for it , but uh you can disable s Yeah .	discussion
+C	1545.68	Under the a yeah advanced option menu you can put those things .	discussion
+B	1550.02	But uh the the television itself has also the the options brightness and uh screen colour etcetera .	discussion
+B	1557.08	So yeah .	discussion
+A	1557.4	Contrast yeah .	discussion
+D	1558.64	Yeah but people don't want to sit on their knees on their knees in front of their television with only three buttons then it's very hard to y yeah contrast and brightness ?	discussion
+A	1563.34	Mm .	discussion
+A	1564.07	No .	discussion
+A	1565.32	Uh , so contrast , bright , uh And the others were in your presentation right ?	discussion
+C	1567.62	Yeah .	discussion
+D	1571.67	Yeah those are the most used I guess .	discussion
+D	1574.05	If you look at your monitor .	discussion
+A	1576.42	So I can just copy those ?	discussion
+D	1576.68	Well yeah well I guess that these were the only ones , I guess .	discussion
+A	1580.27	Okay .	discussion
+A	1581.19	It's easy .	discussion
+D	1582.28	Yeah .	discussion
+C	1582.7	But so we have we have T_V_ options , which is all this .	discussion
+D	1583.1	I will look it up .	discussion
+A	1586.07	Yeah the button options and the L_C_D_ options .	discussion
+C	1586.37	The sound , sound and image .	discussion
+C	1589.27	And you have in that uh the indeed the remote control options .	discussion
+A	1592.15	Indeed .	discussion
+A	1594.86	Yeah .	discussion
+C	1595.33	So we need two menus kind of thing .	discussion
+A	1597.45	Yeah you have basically a button menu , which you can use directly , uh according to the old principle .	discussion
+C	1602.16	Uh-huh .	discussion
+A	1604.42	And the L_C_D_ options are activated by some some software options , thats communicates with the infrared uh decoder yeah .	discussion
+D	1612.47	Yeah with the chip and then I mean Uh yeah .	discussion
+A	1616.56	So you You have an additional processor and and software part .	discussion
+D	1620.51	Well yeah we have power button , whether that's present .	discussion
+C	1622.49	Alright .	discussion
+A	1622.58	Compared to o Mm-hmm .	discussion
+D	1624.8	Channel volume selection present .	discussion
+D	1627.0	Uh numbers present .	discussion
+D	1628.42	Yeah a audio settings , mono , stereo , pitch , bass , treble .	discussion
+A	1629.11	L_ s Yeah .	discussion
+D	1632.35	Screen settings , brightness and colour .	discussion
+A	1635.17	Colour .	discussion
+A	1636.43	Yeah I I call it contrast .	discussion
+D	1636.82	Yeah con contrast is Yeah okay , colour and brightness .	discussion
+A	1638.51	Yeah I make it c colour .	discussion
+A	1642.53	Yeah .	discussion
+D	1643.01	Um and what you say , channel settings or channel programming ?	discussion
+D	1647.25	So you you have an option to to start scanning all the frequencies , and when it encounters one , well it shows on your T_V_ .	discussion
+A	1651.72	Yeah and automatically um Mm-hmm .	discussion
+D	1656.79	And then you can um Uh and then you can select uh a number in your remote on which you want to save it .	discussion
+A	1663.48	Yeah so I've g channel program is autoseek ?	discussion
+D	1667.17	Yeah , autoseek .	discussion
+A	1669.2	Uh name a channel , or Oh they get automatic names , okay .	discussion
+D	1673.45	Well most T_V_s automatically display the name , which they get through the cable .	discussion
+D	1679.91	Yeah .	discussion
+D	1680.52	So you only have to choose the position on your It only has to match the the channel frequency on your T_V_ , with with the with the position on your T_V_ and and so your remote .	discussion
+A	1688.18	Yeah .	discussion
+A	1693.0	Yeah but can you also say I want f uh Veronica on the channel number uh five or Yeah .	discussion
+C	1693.43	Help .	discussion
+D	1698.67	If you already programmed it .	discussion
+D	1700.65	If you want to move it .	discussion
+A	1701.74	Yeah .	discussion
+D	1702.05	Yeah that should be possible too .	discussion
+A	1703.44	How do you call that ?	discussion
+D	1704.93	Yeah how do you call that ?	discussion
+D	1706.36	Mm ?	discussion
+D	1708.55	Wait you you should be able to to browse through a list or something , which w displays all the all the values , all the channels which are possible .	discussion
+A	1715.93	Channels ?	discussion
+A	1716.98	Yeah .	discussion
+D	1718.35	I mean like one to f thirty of or ninety or whatever .	discussion
+A	1720.14	Ninety nine or something .	discussion
+A	1721.43	Yeah .	discussion
+D	1722.76	Just browse through it and then um in some kind of way see if it if it if it is programmed .	discussion
+A	1728.59	S swap channels ?	discussion
+A	1731.4	Can I call it that ?	discussion
+D	1731.4	Yeah .	discussion
+D	1732.7	Swap channels .	discussion
+A	1733.51	Swap's good option .	discussion
+A	1735.23	Okay .	discussion
+A	1735.78	Uh other functions ?	discussion
+D	1736.07	So you most of the time if you if you swap it S uh let's say for example you have uh R_T_L_ five on on channel five .	discussion
+D	1747.54	And Veronica on channel eight and you want to move Veronica to channel five , um most of the times you override the previous uh the previous one .	discussion
+A	1756.02	Mm-hmm .	discussion
+A	1756.58	Okay .	discussion
+A	1758.12	Well that's 's up to uh Mister User Interface Designer .	discussion
+D	1760.42	Yeah .	discussion
+D	1761.62	It's it's pretty uh yeah I mean you have to look on on the menu on the T_V_ .	discussion
+B	1762.44	Okay .	discussion
+C	1767.39	working design .	discussion
+C	1768.74	Doch .	discussion
+A	1768.94	Also .	discussion
+A	1770.32	That's you're Yeah but also , which buttons you have to press to get a certain result ?	discussion
+C	1770.69	He only has to figure out how it has to look .	discussion
+C	1773.42	And how to use Yeah okay .	discussion
+B	1774.0	Yeah .	discussion
+A	1779.97	And the working design was to specify how ph the physical interation between the components was , as I believe .	discussion
+C	1780.53	But You did your homework .	discussion
+D	1790.07	Yeah .	discussion
+C	1791.71	But um yeah .	discussion
+D	1793.96	Or or is it too hard to to ju to just do it all on your remote ?	discussion
+C	1794.44	Okay .	discussion
+D	1798.66	To programme the channels ?	discussion
+C	1800.29	No no .	discussion
+A	1800.75	No I don't think so .	discussion
+B	1801.2	No that's Okay On the uh yeah can you i make a a map with with all the yeah 'cause it's now there are lots and lots of documents and The the layout of the remote control ?	discussion
+C	1801.21	It should be able to do any remote .	discussion
+D	1801.44	Uh .	discussion
+A	1802.06	But I think the communication with the television is difficult .	discussion
+A	1805.7	But that's not our part .	discussion
+D	1806.15	Yeah .	discussion
+D	1807.9	No .	discussion
+A	1808.28	We don't have to design a protocol so No that's the Yeah .	discussion
+C	1810.43	No .	discussion
+D	1810.99	That's true .	discussion
+D	1811.5	That's true .	discussion
+C	1812.8	Thank god .	discussion
+D	1813.43	Yeah .	discussion
+D	1814.29	So we have a figure a figure out a way to to do that easily .	discussion
+D	1817.29	I mean th the autoseek is is not a problem .	discussion
+D	1819.8	I mean you uh you uh current channel and then then it just says , uh on which number do you want to save this , and you just press a number on your remote , and then say confirm , okay , and then it's it's saved .	discussion
+D	1831.32	It's easier , it's it's it's harder to , if you have already programmed it , to to swap .	discussion
+D	1836.79	So we have to think of something for that .	discussion
+A	1836.83	So but Um The User Interface Designer can design a menu for all these function I put them on the .	discussion
+D	1846.34	Yeah k kind of structure into layers .	discussion
+A	1854.72	Yeah .	discussion
+A	1855.97	Yeah I can .	discussion
+A	1857.15	I'll just try to reorganise uh things .	discussion
+D	1860.8	So And and the layout of of the thing itself .	discussion
+A	1861.25	Um So you design the basic function menu for the L_C_D_ screen ?	discussion
+A	1870.65	Uh um I think th I think the yeah the layout of the screen and I think you can concentrate more on the button placement and the placement of the uh screen itself on the .	discussion
+B	1886.47	Isn't that more the the u uh the user interface part ?	discussion
+A	1889.36	No I d I think that's more in .	discussion
+C	1892.13	Uh all the functional uh aspects of the remote I think are in my department .	discussion
+D	1895.64	Maybe more on Okay .	discussion
+B	1897.7	Yeah .	discussion
+A	1897.72	Yeah .	discussion
+C	1898.07	I have to know what it has to do , so if you wanna you know the changing the channels kind of s thing is , I have to integrate that in the design .	discussion
+A	1905.41	Okay .	discussion
+A	1906.08	So he's layout and you're function .	discussion
+C	1908.89	Yeah .	discussion
+A	1909.66	Form function okay .	discussion
+C	1912.08	I think that's a that's a good separation .	discussion
+B	1913.5	But do I have to to uh to yeah to make the the menu layout also ?	discussion
+B	1917.87	Or Are you going to do that ?	discussion
+A	1919.56	Yeah .	discussion
+C	1919.67	Mm .	discussion
+D	1920.01	Yeah .	discussion
+D	1920.89	Yeah I guess so .	discussion
+B	1921.26	Yeah ?	discussion
+B	1921.84	I I'm going to make yeah o okay .	discussion
+A	1922.0	I think i that's your department yes , because w he already knows what Yeah .	discussion
+D	1923.84	Yeah .	discussion
+C	1924.04	Yeah we have to kind of work together .	discussion
+B	1926.35	Yeah .	discussion
+C	1926.37	If if I make the the the yeah the menu like , I have to state which function has to be in the menu , and then you have to decide , it's , in a in a way that b is user-friendly .	discussion
+A	1928.76	But we're not allowed .	discussion
+B	1936.12	Yeah .	discussion
+B	1937.67	Okay .	discussion
+B	1937.87	Y you you are going to make a list of what functions are uh are going to to be on the the screen , the menu screen .	discussion
+A	1942.67	Yeah .	discussion
+C	1944.42	Yeah .	discussion
+B	1945.78	And I'm going to make a a nice menu uh with with pages and yeah .	discussion
+D	1948.3	Yeah .	discussion
+A	1948.98	Yeah .	discussion
+C	1949.28	I think yeah .	discussion
+D	1949.86	With with some l with some layers in it .	discussion
+D	1951.8	So some menus .	discussion
+A	1952.16	Yeah and also make clear which buttons to press to get certain result , because that's always the difficulty .	discussion
+D	1957.25	Yeah .	discussion
+A	1959.18	Every device has its own Menu okay .	discussion
+D	1960.68	Yeah .	discussion
+B	1960.74	Yeah .	discussion
+D	1961.15	Well I guess this this button , the the the okay , menu okay .	discussion
+A	1966.3	Yeah .	discussion
+D	1966.97	Or you can incorporate two uh difference uh different buttons .	discussion
+D	1971.34	Uh like uh for your mobile phone .	discussion
+D	1973.98	Um so this is only for to get in the menu , or to exit it .	discussion
+A	1977.84	Mm .	discussion
+D	1978.61	And then one to confirm , and one to go one step back .	discussion
+A	1982.14	Back .	discussion
+A	1982.89	Yeah .	discussion
+D	1983.81	So it's like the the save button on your your mobile phone , if you have a Nokia or like that .	discussion
+D	1988.21	Or the or the no button .	discussion
+C	1989.85	Mm-hmm .	discussion
+D	1990.29	To go one step back you it's only two extra buttons , but if it if it's very clear that they are for the screen Yeah because this this is used for both .	discussion
+B	1993.24	Yeah .	discussion
+B	1993.5	W we Uh I think we have to to group , to make two groups .	discussion
+B	2000.7	Um the one group for the for the display , and one group for the basic functions , and Yeah okay but we we have a m yeah but maybe that's that's not uh yeah if you're if you're z zapping uh with your uh yeah remote control , you can press the the menu button , and then you are suddenly into the the yeah the display .	discussion
+C	2005.71	Yeah .	discussion
+A	2006.24	Yeah but they're incorporated ?	discussion
+A	2008.64	Up and down is Smart ?	discussion
+D	2023.17	Into your screen .	discussion
+D	2024.19	Okay .	discussion
+D	2024.55	So you l should leave the menu button out of here .	discussion
+C	2025.59	You wanna separate uh .	discussion
+B	2027.44	Yeah .	discussion
+D	2028.34	And and just put it under the screen , the screen Yeah .	discussion
+A	2029.83	Put it on top .	discussion
+B	2030.02	Yeah j just just group group the yeah we make these the advanced functions and these the basic functions .	discussion
+A	2037.85	Mm-hmm .	discussion
+B	2038.11	So we make a yeah a line between them .	discussion
+D	2042.49	But we should place the screen on top , right ?	discussion
+A	2046.09	Well But that's uh J Jurgen's department .	discussion
+B	2046.95	F oh yeah .	discussion
+B	2047.71	Okay yeah we swap uh Okay .	discussion
+D	2049.08	Yeah .	discussion
+B	2050.7	Yeah .	discussion
+D	2050.84	Yeah .	discussion
+B	2051.31	So we make it a Okay .	discussion
+D	2051.49	You just you just find out and .	discussion
+A	2053.11	You just make the layout .	discussion
+A	2054.92	You do we do the extra two buttons or not ?	discussion
+B	2058.65	Uh Yeah .	discussion
+C	2059.91	I think you should .	discussion
+A	2061.03	Yeah .	discussion
+C	2061.56	It's easier .	discussion
+C	2062.33	If you put too many functions in one button it gets confusing .	discussion
+A	2065.33	Yeah okay .	discussion
+D	2065.36	Yeah .	discussion
+A	2065.87	That's true .	discussion
+B	2066.49	So we have a a menu button and a s Okay .	discussion
+A	2068.61	And to , okay and back , also .	discussion
+D	2070.07	Yeah .	discussion
+B	2070.76	Okay and back button .	discussion
+D	2071.45	Yeah , or confirm and back .	discussion
+A	2072.35	And of course the four arrows .	discussion
+D	2073.09	Whatever .	discussion
+D	2074.96	Yeah .	discussion
+C	2076.14	No .	discussion
+A	2076.83	But those are still y doubly used .	discussion
+D	2078.92	Should we save this picture , or or you know what it looks like ?	discussion
+A	2079.02	Both the L_C_D_ Yeah .	discussion
+B	2081.22	Yeah I'm I'm not s clear about uh the the extra two buttons .	discussion
+B	2085.76	We have a menu button and That's the the one with the yeah okay .	discussion
+D	2087.26	Yeah .	discussion
+D	2088.24	That that just to to activate the screen .	discussion
+D	2092.29	So And then with these buttons , woa , y you navigate .	discussion
+A	2092.31	Menu button access the menu in the L_C_D_ screen .	discussion
+A	2098.13	You can navigate .	discussion
+B	2100.95	Okay .	discussion
+A	2101.74	But you can also navigate the channels .	discussion
+A	2104.16	And the volume .	discussion
+B	2104.22	Okay so that that's not uh Yeah that Those are multifunctional .	discussion
+A	2106.38	Those are both both yeah .	discussion
+C	2109.51	Hey is it interesting for users if we put LED lights under the buttons ?	discussion
+C	2114.29	So that if you uh press on the menu function that only the buttons that are used for the menu are ligh li light up .	discussion
+D	2120.63	Yeah .	discussion
+D	2122.33	L l litten up yeah .	discussion
+B	2124.14	Yeah .	discussion
+D	2125.16	That's very good idea .	discussion
+A	2125.64	Oh five minutes .	discussion
+C	2127.8	N Yeah and then it's also easier to integrate several functions in one button .	discussion
+D	2127.85	Alright .	discussion
+D	2128.94	Yeah that's a good idea because then it becomes clear which buttons are active now , which you can use .	discussion
+A	2129.22	Light uh Yeah sure .	discussion
+B	2138.39	Yeah .	discussion
+A	2139.39	Okay .	discussion
+D	2139.9	Yeah .	discussion
+A	2140.76	Um Anything else ?	discussion
+D	2141.55	So Those buttons are are lit up .	discussion
+C	2144.68	I think not .	discussion
+D	2145.55	But just one thing .	discussion
+D	2147.51	Should we use those two ?	discussion
+D	2149.47	Them ?	discussion
+D	2149.86	Or only this to to scroll ?	discussion
+D	2152.23	And then use the two functional buttons to confirm , to go into something ?	discussion
+A	2152.25	I've Volume .	discussion
+D	2157.88	Oh no we have to use this to adjust some some bars ?	discussion
+B	2160.42	Yeah .	discussion
+C	2160.52	Yeah keep it optional 'cause maybe you can you know go left to right and up and down in a in one menu .	discussion
+D	2166.05	Yeah .	discussion
+D	2166.79	And maybe we should use this also as an okay button , still .	discussion
+D	2171.1	And then just only a back button .	discussion
+A	2174.87	Well we have those buttons .	discussion
+B	2175.91	No Yeah .	discussion
+C	2176.01	The pr the problem with the okay button in the middle is , sorry sorry , uh is uh if you're pressing up and down , you can easily press the okay once you , when you're not already at your choice .	discussion
+A	2177.09	We use all four .	discussion
+A	2180.17	Yeah okay go ahead .	discussion
+D	2180.47	Yeah ?	discussion
+D	2188.58	Yeah .	discussion
+B	2189.04	So maybe make one uh one okay button and and one navigation button .	discussion
+D	2191.89	And one back .	discussion
+A	2192.24	Yeah that was already decided .	discussion
+B	2195.81	Yeah the with with the the channel and the volume uh yeah m a multifunctional navigation button .	discussion
+A	2200.79	Okay that's what we decided earlier on .	discussion
+B	2202.56	Yeah okay .	discussion
+D	2202.89	Yeah .	closing
+A	2203.23	Right okay .	closing
+B	2203.8	Yeah .	closing
+A	2204.22	So yeah I wanna close down .	closing
+C	2205.48	You wanna close down huh ?	closing
+D	2207.41	Yeah .	closing
+A	2207.46	I have to , sorry .	closing
+C	2208.69	That's okay .	closing
+D	2208.69	Yeah .	closing
+A	2208.94	it's not because I don't like you but yh we have lunch break , and then we can work for thirty minutes , and I have to write very fast to make the minich min minutes .	closing
+C	2212.43	Already .	closing
+D	2220.14	Yeah .	closing
+A	2220.2	And then uh we'll see I don't know .	closing
+C	2223.89	Alright .	closing
+C	2224.38	How m how long is the lunchbreak ?	closing
+D	2227.66	We have to ask .	closing
+A	2227.96	Nobody told me .	closing
+C	2229.06	Okay .	closing
+B	2229.39	But do we have to write uh to write down uh the our stuff now ?	closing
+B	2232.76	Or first lunchbreak ?	closing
+A	2234.48	No I th believe there's first lunch break .	closing
+B	2234.63	Because I I've everything in my head now so Okay .	closing
+A	2238.28	Yeah .	closing
+A	2239.32	Or you can just Yeah ?	closing
+C	2239.48	Mm .	closing
+B	2242.24	Yeah .	closing
+A	2243.46	'Kay .	closing
+D	2245.01	Yes .	closing
+B	2247.51	'Kay .	closing
+A	2247.97	I think you can put uh the laptop back in the room and 'Kay .	closing
+C	2248.17	This is Yeah .	closing
+B	2250.81	Yeah .	closing
+D	2251.11	Yeah .	closing
+B	2252.02	Yes sir .	closing
+D	2253.12	Time pressure .	closing
+A	2256.18	Yeah it's a lot of pressure .	closing
+C	2260.93	Sorry for my uh not finished presentation uh .	closing
+A	2262.46	That's okay .	closing
+A	2264.19	Oh yeah .	closing
+B	2264.27	Oh no no .	closing
+D	2264.75	Yeah we'll kick your ass later .	closing
+D	2266.1	No .	closing
+C	2266.83	Bring it on .	closing
+D	2267.53	Uh .	closing
+A	2270.18	I don't know if it works but it should be saved .	closing
+D	2270.22	Aye Y you saved it ?	closing
+D	2273.21	Does it save automatically in the project folder ?	closing
+D	2275.64	Or Okay .	closing
+A	2275.82	Yeah .	closing
+A	2276.57	It's uh Should be here .	closing
+D	2282.35	We'll see .	closing
+D	2283.06	Just put back my laptop .	closing
+A	2284.21	Smart board .	closing
+D	2285.48	Alright .	closing
+A	2285.68	Don't know if you can use it but Yeah .	closing
+B	2286.01	Okay .	closing
+D	2287.34	Yeah you can open it with the picture preview or stuff like that .	closing
+B	2289.03	And uh we have to make uh some maps with uh with the all the the data we uh gathered .	closing
+A	2294.62	I try to organise it by these three .	closing
+A	2298.39	Yeah yeah yeah .	closing
+B	2299.31	It's it's just my own map so I put everything into the But you got some extra information uh Okay .	closing
+A	2303.06	I don't really mind .	closing
+A	2304.55	I just put the minutes here and we'll see .	closing
+A	2309.63	Yeah that's in the functional design uh folder .	closing
+A	2313.06	Yeah .	closing
+A	2313.78	Yeah that's just basically what I just showed .	closing
+B	2316.18	But where do you did you get the newsflash ?	closing
+A	2317.73	Yeah .	closing
+A	2318.1	Yeah I got it by yeah .	closing
+B	2319.04	You're the only one uh okay .	closing
+A	2321.8	I'm gonna get kicked if I don't do it so Make me proud .	closing
+D	2321.93	internet .	closing
+B	2324.25	Okay .	closing
+C	2324.25	Alright .	closing
+D	2325.0	Alright .	closing
+B	2326.11	Yeah .	closing
+C	2333.39	I'll try to .	closing
+C	2334.44	So first we have a lunchbreak now ?	closing
+A	2336.86	Yeah .	closing
+C	2337.45	Alright .	closing
+A	2339.02	I believe so .	closing
+A	2341.01	just ask .	closing
+C	2343.53	Mm-hmm .	closing
+C	2344.83	I dunno where she .	closing

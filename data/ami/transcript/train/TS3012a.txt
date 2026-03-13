@@ -1,0 +1,277 @@
+A	2.19	Okay , good morning .	project specs and roles of participants
+A	2.99	This is our first team meeting .	project specs and roles of participants
+B	3.62	Good day .	project specs and roles of participants
+D	4.82	Morning .	project specs and roles of participants
+C	5.4	Morning .	project specs and roles of participants
+A	6.65	I'll be your Project Manager for today , for this project .	project specs and roles of participants
+A	9.34	My name is Mark will be giving this presentation for you to kick the project off .	project specs and roles of participants
+A	15.0	That's my uh that's the agenda for today .	project specs and roles of participants
+A	17.12	Well , of course we're new to each other , so I'd like to get acquainted first .	project specs and roles of participants
+A	20.49	So let's do that first , I mean Let's start with you , can you introduce yourself ?	project specs and roles of participants
+A	24.53	You're our Marketing Expert .	project specs and roles of participants
+D	25.46	Yes .	project specs and roles of participants
+D	26.36	Um my name is Dirk , Dirk Meinfeld .	project specs and roles of participants
+D	29.79	Um I will be uh Pr Project the Marketing Expert .	project specs and roles of participants
+D	34.48	And I will see what the user wants and uh what we can do uh with the new produ project product .	project specs and roles of participants
+A	43.23	Okay , excellent .	project specs and roles of participants
+A	44.4	And you are User Interface Yeah .	project specs and roles of participants
+B	45.04	Nick Broer , User Interface Designer .	project specs and roles of participants
+B	47.97	I'm going to uh look at the technical design from the uh user point of view .	project specs and roles of participants
+A	52.34	Excellent .	project specs and roles of participants
+A	53.54	Okay .	project specs and roles of participants
+C	54.29	My name is Xavier Juergens , I'm the Industrial Designer , and there are three main questions that I have to find an answer to today .	project specs and roles of participants
+C	60.98	First one is uh what happens inside the apparatus , second is what is uh the apparatus made of , and the third is what should it look like .	project specs and roles of participants
+D	64.58	Hmm .	project specs and roles of participants
+A	68.66	What should it look like ?	project specs and roles of participants
+A	69.54	Okay .	project specs and roles of participants
+D	70.88	Hmm .	project specs and roles of participants
+A	72.54	Oh , let's kick it off .	project specs and roles of participants
+A	73.76	Oh , there we go .	project specs and roles of participants
+A	75.17	So , our new project is about we need design a remote control for television set , so , which has to be original , trendy and user-friendly .	project specs and roles of participants
+A	83.59	I took this off our corporate website .	project specs and roles of participants
+A	85.25	It's I think well it sums up what we need to do .	project specs and roles of participants
+A	88.55	We're inspired by latest fashion , not only electronics , but also the latest trends in clothes and interior design .	project specs and roles of participants
+A	93.6	That's why our product will always fit in your home .	project specs and roles of participants
+A	96.17	So apparently we need to um be very at um very open to what's currently hot in the market .	project specs and roles of participants
+A	102.71	So that's what you need to do to bring us the latest info and what people want .	project specs and roles of participants
+D	103.73	Yeah .	project specs and roles of participants
+D	105.64	Yeah .	project specs and roles of participants
+A	106.57	So So we put the fashion in electronics .	project specs and roles of participants
+A	109.85	So that's what we need to go for .	project specs and roles of participants
+A	111.94	Anyway , we'll take this project in three steps , three pha uh three phase of design .	project specs and roles of participants
+A	116.06	First step will be the functional design .	project specs and roles of participants
+D	117.85	Yeah .	project specs and roles of participants
+A	118.68	And that's basically what we're gonna do .	project specs and roles of participants
+A	120.15	Everybody has uh a piece of individual work and a meeting afterwards , so we can share information about So I'm gonna keep this short , since we had a technical problem .	project specs and roles of participants
+A	126.76	So skip through this .	project specs and roles of participants
+A	128.91	Uh .	drawing exercise
+A	130.88	Okay .	drawing exercise
+A	132.2	Every meeting we everybody can present their uh their views and everything , so to help with these , you have we have the SMARTboards here .	drawing exercise
+A	139.73	We can use a regular PowerPoint presentation .	drawing exercise
+A	142.89	I'm supposed to give you an introduction on this doodling board , so it's actually it's very easy .	drawing exercise
+A	148.99	Like it says , very simple , you just take out the pen .	drawing exercise
+A	152.83	Like you see here , I'll just take the take here .	drawing exercise
+A	157.09	That's it , you just put it on the board .	drawing exercise
+A	159.5	You see a pen here .	drawing exercise
+A	162.18	You go here , just like using a pen .	drawing exercise
+A	165.34	You can just draw whatever you want .	drawing exercise
+A	168.62	It's like the eraser , can erase whatever you want .	drawing exercise
+A	173.06	And so it will be easy just to illustrate your views , if you wanna change the format , you just either take out jus just like the pen , and whatever you want , your current colour , your line width , just to make the line bigger .	drawing exercise
+A	188.53	So it should be really easy .	drawing exercise
+D	189.48	Okay .	drawing exercise
+A	190.18	This is to take the just take a new slide and back again .	drawing exercise
+A	193.91	We're just gonna keep using this board all the time , so I think it will be it's very clear for everyone , I suppose .	drawing exercise
+A	199.68	So I'll take this out .	drawing exercise
+A	204.7	Okay .	drawing exercise
+A	206.05	We'll use that later .	drawing exercise
+A	206.93	Anyway .	drawing exercise
+A	209.38	Yeah , just just just stuff that you wanna share , just put it in the in the project folder , like I put my presentation now .	drawing exercise
+A	215.54	I'll put the the minutes of every meeting , I'll put them there too , so everybody can read up if they have to leave early or whatever .	drawing exercise
+A	221.9	So next , been here .	drawing exercise
+A	225.61	Well , gonna give the electronic white-board uh a shot .	drawing exercise
+A	229.25	So basic idea is we have a blank sheet .	drawing exercise
+A	234.8	Just try whatever you want , and like it says , draw your favourite animal .	drawing exercise
+A	240.68	I think the creative genius should go first .	drawing exercise
+B	243.02	The creative genius ?	drawing exercise
+B	243.79	Thank you very much .	drawing exercise
+A	245.93	So , draw us your favourite animal .	drawing exercise
+B	248.22	Well , I'm more into the technical aspects of drawing , so I'm not really good at drawing animals , but uh the animal which I Oh .	drawing exercise
+A	252.35	Draw us a technical animal .	drawing exercise
+A	257.11	Yeah , it's still erasing .	drawing exercise
+B	258.72	Pen .	drawing exercise
+B	261.05	Uh format .	drawing exercise
+B	265.18	Else my animal will be like king-size .	drawing exercise
+B	268.56	I pretty much like a dolphin , because of its uh its freedom basically .	drawing exercise
+B	276.06	Let's see .	drawing exercise
+B	278.17	A head .	drawing exercise
+B	282.34	actually worked with this .	drawing exercise
+B	283.7	It's like uh it's a very Uh high-tech .	drawing exercise
+B	289.44	Bit low-responsive though .	drawing exercise
+B	291.84	Prefer pen and paper .	drawing exercise
+A	292.49	So that's what we don't want .	drawing exercise
+A	293.77	We want a high-responsive product .	drawing exercise
+A	295.26	So It looks more like nuclear bomb .	drawing exercise
+D	299.83	Very nice dolphin .	drawing exercise
+B	300.59	It doesn't look like a nuclear bomb .	drawing exercise
+B	303.34	This thing isn't doing what I'm What I want .	drawing exercise
+B	309.21	So Yeah , well it does look like a nuclear bomb .	drawing exercise
+A	309.58	Let's go easy on it .	drawing exercise
+B	319.01	I'll just finish up real soon , because I'm So it doesn't really look like a dolphin , but then again , this is all new for me .	drawing exercise
+A	334.08	Anyway , it should It It's supposed to be a dolphin , you like the freedom that it that it represents .	drawing exercise
+C	337.04	Uh-huh .	drawing exercise
+B	338.27	Like the ocean , like swimming .	drawing exercise
+B	340.44	Do that in my spare time , so that's basically an Now we can forget this ever happened .	drawing exercise
+A	343.75	What do you like ?	drawing exercise
+A	344.46	Okay .	drawing exercise
+A	346.43	Well , our Marketing Expert .	drawing exercise
+A	348.84	Show us an animal .	drawing exercise
+D	350.43	Um an animal .	drawing exercise
+D	352.97	I like the elephant .	drawing exercise
+A	353.28	Pick a pick a pick a clean sheet .	drawing exercise
+A	355.53	Oh .	drawing exercise
+D	356.2	What ?	drawing exercise
+A	357.53	Take a clean sheet first .	drawing exercise
+D	358.56	Yeah .	drawing exercise
+D	359.69	Um Oh yeah .	drawing exercise
+A	360.58	Just press next .	drawing exercise
+A	361.45	That's it .	drawing exercise
+D	362.14	Oh , a blank .	drawing exercise
+D	363.03	Okay , next .	drawing exercise
+D	364.23	Free , I like the elephant .	drawing exercise
+D	366.08	It's big , it's strong , so uh uh Oh , it's a little bit You have to hold it , right ?	drawing exercise
+B	372.96	It's not really that responsive , no .	drawing exercise
+C	374.8	Mm .	drawing exercise
+D	376.9	Hmm .	drawing exercise
+D	382.87	It's a beautiful animal .	drawing exercise
+D	392.24	Oh , you have to p press it pretty hard .	drawing exercise
+D	397.51	With a smile on it , it's very important .	drawing exercise
+A	399.84	It's a cute elephant .	drawing exercise
+D	401.43	Yeah .	drawing exercise
+D	415.4	And uh not to forget its tail .	drawing exercise
+D	421.1	Oh .	drawing exercise
+A	422.17	It's a nice beard .	drawing exercise
+D	423.87	Yeah , it's okay .	drawing exercise
+B	428.37	And you was making comments on my dolphin .	drawing exercise
+D	428.62	Yes .	drawing exercise
+D	432.39	I will beat the dolphin .	drawing exercise
+D	434.09	No .	drawing exercise
+A	435.08	Okay , so it's just a bee .	drawing exercise
+D	436.77	Yeah .	drawing exercise
+A	437.62	So I suggest you make us the elephant in the market .	drawing exercise
+A	440.12	The big and strong player in the market .	drawing exercise
+D	441.72	Yeah .	drawing exercise
+A	441.94	This would be good .	drawing exercise
+D	443.04	Yeah .	drawing exercise
+A	444.09	Okay , excellent .	drawing exercise
+A	445.45	On to the next one .	drawing exercise
+C	446.93	Okay .	drawing exercise
+D	448.07	Uh yeah .	drawing exercise
+C	451.83	Okay , you should press next .	drawing exercise
+D	453.05	Yeah .	drawing exercise
+A	453.77	Press next .	drawing exercise
+A	454.6	Yeah , it's up there .	drawing exercise
+C	455.9	Okay .	drawing exercise
+A	458.38	That's it .	drawing exercise
+C	459.09	Okay , well the animal I'd like to draw is a tiger .	drawing exercise
+B	464.94	You picked a hard one , didn't you ?	drawing exercise
+D	470.45	Experience with the tiger .	drawing exercise
+C	470.61	My drawing skills are really bad , so .	drawing exercise
+D	474.36	What ?	drawing exercise
+D	474.85	They are Okay uh-huh .	drawing exercise
+C	475.76	They are really bad , my drawing skills .	drawing exercise
+A	493.32	Sure looks smooth .	drawing exercise
+D	493.85	Oh .	drawing exercise
+C	499.36	I'm not sure how the legs should go , but Uh these are stripes .	drawing exercise
+B	511.91	Got it .	drawing exercise
+C	518.91	I've picked this animal because it's very fast .	drawing exercise
+C	522.09	It is uh it knows exactly what it wants .	drawing exercise
+C	525.01	Uh it hardly ever wastes any resources .	drawing exercise
+A	527.58	What does it want ?	drawing exercise
+C	529.17	Uh well , basically uh it hunts for prey , but it does it always in a very well-thought way .	drawing exercise
+C	535.77	Uh it knows exactly what it wants .	drawing exercise
+C	536.84	It never kills an animal uh just for the killing , so it's very efficient .	drawing exercise
+C	541.56	And it tries to do everything as fast as possible .	drawing exercise
+A	544.52	Okay .	drawing exercise
+C	544.95	And it always goes for uh security , in seeking uh uh a hide spot and uh and doing everything , security , speed and efficiency is important .	drawing exercise
+D	549.09	Mm .	drawing exercise
+C	554.7	And I think uh those things we can use .	drawing exercise
+A	555.77	I agree .	drawing exercise
+D	558.37	Okay .	drawing exercise
+A	559.86	Yay , I'm supposed to draw the animal next .	drawing exercise
+A	564.96	I introduce to the world the amazing ant .	drawing exercise
+D	579.29	Uh hard worker .	drawing exercise
+A	581.46	Great team-workers .	drawing exercise
+D	582.54	Yeah .	drawing exercise
+C	582.69	Yeah .	drawing exercise
+A	583.44	Do everything to Uh really small , but together they're really strong .	drawing exercise
+A	585.73	So I'm gonna give it a smiley face .	drawing exercise
+D	586.0	Yeah , yeah .	drawing exercise
+C	586.38	Oh .	drawing exercise
+A	591.78	Not sure where the p .	drawing exercise
+A	592.96	Just put 'em here .	drawing exercise
+A	596.08	Whatever .	drawing exercise
+A	601.47	Think it need shoes .	drawing exercise
+A	602.72	So I'm just too lazy to draw it all black , so That's the coolest ant ever .	drawing exercise
+B	632.52	You've done this before , haven't you ?	drawing exercise
+A	634.71	I love to draw ants .	drawing exercise
+A	635.78	It's my hobby .	drawing exercise
+A	636.42	Anyway Nah .	drawing exercise
+A	638.12	Just I think it's very representative what we drew , I guess .	drawing exercise
+A	641.58	Like you take just take your freedom and use a a trendy interface that you design for us .	drawing exercise
+D	642.0	Yeah .	drawing exercise
+A	648.28	Just Yeah .	drawing exercise
+A	650.52	You're supposed to make i make it different from uh from what other people have , and just make it a little distinct .	drawing exercise
+A	655.63	Anyway .	drawing exercise
+A	656.92	another beep to stop the meeting .	drawing exercise
+A	659.95	See .	drawing exercise
+A	661.26	Warning .	drawing exercise
+A	661.88	Finish meeting now .	drawing exercise
+A	666.35	Uh put this down .	drawing exercise
+A	670.04	Examples .	discussion
+A	670.73	Well I guess we have a little little time extra , but Just a little quick discussion to to open open our work .	discussion
+A	679.43	So what do you guys think about The first idea is just very short .	discussion
+A	682.43	I'll start with you .	discussion
+A	683.17	What are y What are your first ideas for the new product ?	discussion
+B	685.35	Well , I basically had a question .	discussion
+A	685.7	What The project I got was just for a T_V_ remote control .	discussion
+B	687.06	Do uh Are we going to introduce a multi remote control ?	discussion
+B	689.73	Is it just the T_V_ or do we want to in Just for T_V_ remote control .	discussion
+D	692.41	Uh Yeah .	discussion
+A	695.5	Yeah , I guess so .	discussion
+B	696.7	Okay .	discussion
+B	697.64	Well , I was thinking about design remote control , with our uh motto and all .	discussion
+D	698.07	But Yeah .	discussion
+B	703.25	Uh thing to keep in mind is that we need to stick to what people are familiar with .	discussion
+B	710.05	No rational changes or whatever , 'cause it revolutionary changes , yes .	discussion
+A	713.66	Okay , so very intuitive design , I guess .	discussion
+B	716.93	Uh we might have to consider other design aspects of our product .	discussion
+B	721.87	So that was something I wanted to add , and perhaps some usability aspect .	discussion
+B	728.42	T_V_ is becoming central in most homes .	discussion
+B	730.41	Do we want people who are disabled in any way to uh , yeah , to be able to use it as well ?	discussion
+A	737.13	Yeah , we want I suppose we want almost everyone to be using it .	discussion
+A	741.58	So I think I mean , really disabled people , yeah , might be a problem , but I think it's a little take it into consideration .	discussion
+A	750.77	Um yeah .	discussion
+A	752.18	I think we really need to cut the meeting short .	discussion
+A	753.87	You have anything you wanna share quickly ?	discussion
+C	754.14	Hmm .	discussion
+D	754.63	Uh .	discussion
+C	755.87	Only one thing uh that has to be added according to me is uh the the material it is made of , it should be something light .	discussion
+C	763.0	That's it speaks for itself , but some uh Yeah .	discussion
+B	763.11	Yeah .	discussion
+A	764.1	It should be light , okay .	discussion
+D	765.62	Yeah .	discussion
+A	765.98	Um , let's see , where did I Let's skip that .	discussion
+A	769.77	Oh , this is it .	discussion
+A	770.86	Sorry , I skipped this sheet .	discussion
+D	771.2	Selling price .	discussion
+A	771.96	What do we This Quick What we're going to Selling price , twenty five Euros .	discussion
+A	775.2	That's for you .	discussion
+A	775.59	The production price , twelve and a half Euros , approximately .	discussion
+C	777.44	Okay .	discussion
+A	778.79	Just go go for that .	discussion
+A	779.8	We'll reach the uh reach that profit .	discussion
+C	779.97	Okay .	discussion
+B	782.0	Okay , well that's not that much to work with .	discussion
+D	783.29	international .	discussion
+A	784.81	No , it's not much to work on .	discussion
+A	785.77	I'm sorry , I skipped it .	discussion
+A	787.38	Anyways , that's Yeah , this is it .	discussion
+A	789.96	Do you have anything you you came up with yet ?	discussion
+A	792.51	About uh marketing transfer , whatever ?	discussion
+D	795.0	Um about what ?	discussion
+D	797.51	Marketing ?	discussion
+A	798.14	Marketing I'm not sure what you what you came up with yet .	discussion
+A	800.31	You have anything to share ?	discussion
+A	801.17	Or else we'll cut the meeting just cut the meeting short since we're supposed to stop .	discussion
+D	802.85	Um no , not really yet , but I've some ideas and I will uh say it uh Okay .	discussion closing
+A	806.04	Okay .	discussion
+A	808.43	Anyways , the the personal coach will give you the your p your personal assignments and everything .	closing
+A	813.12	So we'll just meet back in here thirty minutes .	closing
+C	814.82	Okay .	closing
+A	815.42	I'm sure we have that .	closing
+C	818.63	Good luck everyone .	closing
+A	819.57	Yeah , thanks for attending .	closing
+B	820.46	Mm , good luck .	closing
+A	821.22	I'll see you back here in thirty minutes .	closing
+D	822.37	Okay .	closing
+D	833.1	Yes .	closing

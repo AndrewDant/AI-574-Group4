@@ -1,0 +1,164 @@
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+B	2.13	Okay , well I think we're ready to begin .	participant names
+B	5.63	Right , my name's Adam Duguid , we're here because of real reaction , um , we have in the group Um , yeah , go for it mate .	participant names
+C	13.24	Oh , Ebenezer Ademesoye .	participant names
+C	15.21	Would you like me to spell that ?	participant names
+C	18.09	S Um , N_E_Z_ E_R_ .	participant names
+B	21.97	N_ E_ Z_ .	participant names
+B	24.41	Ebenezer .	participant names
+B	24.9	And your role is ?	participant names
+C	26.3	I'm the Marketing Expert .	participant names
+B	28.5	You're the Marketing Expert , okay .	participant names
+B	33.33	Next we have ?	participant names
+D	34.34	Tarik Rahman .	participant names
+D	35.15	T_A_R_I_K_ .	participant names
+B	36.52	T_ R_ I_ K_ .	participant names
+B	38.29	And your role in this is ?	participant names
+D	39.84	Industrial Designer .	participant names
+B	41.01	Industrial Designer .	participant names
+B	47.69	And , lastly we have ?	participant names
+A	49.38	Uh , Dave Cochrane .	participant names
+B	53.02	And you're going to be the User Interface , is it ?	participant names
+A	54.24	User Interface Defin Designer , yes .	participant names
+B	55.07	Designer .	participant names
+B	55.62	Okay .	participant names
+B	62.12	Right .	agenda/equipment issues
+B	63.0	This is the agenda for today's meeting .	agenda/equipment issues
+B	64.62	As you can see , w opening , acquaintance , tool training , project plan discussion , and closing .	agenda/equipment issues
+B	70.17	Um , we already got n through opening , and partially through acquaintance .	agenda/equipment issues
+B	75.83	So , the reason we're here , we're gonna design a new remote control , as you probably all know .	project specs and roles of participants
+B	81.4	The very broad overview is original , trendy , and user-friendly .	project specs and roles of participants
+B	85.24	Course , we'll have to go into a bit more um detail than that , but uh personally I think that the original is gonna be a very key aspect to this design .	project specs and roles of participants
+B	95.87	Um , there's a lot of remote controls out there anyway , so we're gonna need something that's really gonna set it apart .	project specs and roles of participants
+B	105.69	This is how today seems to be going to work .	project specs and roles of participants
+B	107.73	We're gonna have the three kay phases , as you've probably already been told , the functional , architectural , and the detailed design .	project specs and roles of participants
+B	113.81	Um First one's gonna be covering the user requirement spec , technical functions , working design .	project specs and roles of participants
+B	123.67	Second seems to be conceptual components , properties , materials , and the last one is a detailed analysis of our design so far .	project specs and roles of participants
+B	131.85	Of course , you've all got the similar emails , I believe , right .	project specs and roles of participants
+B	138.15	What can I say ?	drawing exercise
+B	139.33	Ebenezer , you wanna have a you wanna draw your favourite animal ?	drawing exercise
+C	143.48	Sure .	drawing exercise
+C	147.95	Whiteboard .	drawing exercise
+C	150.92	'Kay .	drawing exercise
+C	154.61	S okay .	drawing exercise
+C	156.83	I will make this quick , since we don't have much time .	drawing exercise
+C	162.19	Um .	drawing exercise
+C	212.3	'Kay , so it's not the best picture in the world .	drawing exercise
+C	216.03	Here we have an elephant .	drawing exercise
+C	218.2	First point , begins with an E_ , same like Ebenezer .	drawing exercise
+C	223.11	Also , elephants have a very good memory , much like myself , and I can't remember back when I used to live back in Nigeria , but I think I used to have a pet elephant .	drawing exercise
+C	234.6	So elephants are big , strong and gentle , and they have great memories , and they begin with the letter E_ , just like Ebenezer .	drawing exercise
+B	243.68	Brilliantly done .	drawing exercise
+C	244.72	Thank you .	drawing exercise
+B	244.76	Thank you .	drawing exercise
+B	247.45	Tarik , would you like to have a shot at a bit of artistry ?	drawing exercise
+C	255.89	Oh .	agenda/equipment issues
+B	256.21	Oh , um , you can clip them to your belt .	agenda/equipment issues
+C	256.69	Oh oh I think you ga The little The the Oh that's good , we can clip them on .	agenda/equipment issues
+D	256.77	Do we take them off ?	agenda/equipment issues
+D	258.29	Oh right , okay .	agenda/equipment issues
+B	259.01	You should also l um have your the lapel mic on as well .	agenda/equipment issues
+D	263.78	Ah-ha .	agenda/equipment issues
+C	267.49	Okay .	agenda/equipment issues
+C	267.95	Yeah , there was this microphone as well that you Just um somewhere I think so .	agenda/equipment issues
+D	273.26	Now where do I put the Is this supposed to be clipped as well ?	agenda/equipment issues
+B	284.51	Yep , the , it's just across there , that's it .	agenda/equipment issues
+B	291.13	Yep .	agenda/equipment issues
+B	301.67	Yeah .	agenda/equipment issues
+B	301.96	It'll follow you if you You can probably just stick it in your pocket for now , I wouldn't worry too much .	agenda/equipment issues
+C	303.94	Yeah .	agenda/equipment issues
+C	305.06	There you go .	agenda/equipment issues
+B	311.23	Should have good range .	agenda/equipment issues
+D	317.08	Uh , destroying your elephant here .	drawing exercise
+D	393.91	Uh , here we have a tiger .	drawing exercise
+D	395.63	Uh I've always loved tigers .	drawing exercise
+D	399.52	They're just they're big , they're biggest cats , uh I did a project on cats in the wild when I was a kid and uh it was my favourite cat , just 'cause it was looks the best , the stripes , orange .	drawing exercise
+D	410.01	My dad used to talk about he's from Bangladesh so he used to tell me all about them when he was when I was a kid .	drawing exercise
+D	415.05	And uh they're just the most feared of of uh animals in the wild .	drawing exercise
+D	421.56	So uh that's why I like them .	drawing exercise
+D	424.13	Didn't say an anything about me really but Mm .	drawing exercise look and usability
+B	428.23	Excellent , thank you very much .	drawing exercise
+B	429.69	Dave , if you'd like to uh have a dash .	drawing exercise
+A	439.24	Um Um , the monkey , um .	drawing exercise
+A	564.21	The one f uh in fact this is a somewhat oblique reference in fact to uh well my I have a three uh three y year old daughter who h who who who is affectionately known as Miss Monkey .	drawing exercise
+A	575.35	Um , monkeys have attitude .	drawing exercise
+A	577.97	Which I think is a good thing .	drawing exercise
+A	579.51	And I mean fr and from uh from the point of view of sort of the study of human evolution they and other primates are terribly interesting .	drawing exercise
+A	588.74	Um , so I like monkeys .	drawing exercise
+A	592.69	And and th th th th thi thi this one seems to have perhaps more attitude than most .	drawing exercise
+B	606.19	Cheers .	drawing exercise
+B	656.53	Hardly what I'd call the best drawing in the world but it'll do for now .	drawing exercise
+B	659.64	Also not quite as feared as your average tiger , but uh cats are one of my favourite animals , they're very independent , they're snotty as hell at the best of times , and uh , what can you say , you got to love those qualities in an animal .	drawing exercise
+B	680.46	Right .	project budget
+B	681.47	I think we've all managed to master the whiteboard there by looks of it , so , on to it .	project budget
+B	687.11	Project finance .	project budget
+B	688.44	As you can see , twelve point five Euros per unit .	project budget
+B	693.12	That's not a terrible lot as far as I'm aware , and we're hoping to sell them for twenty five .	project budget
+B	699.14	If we're aiming for fifty million Euros we're gonna have to be selling an awful lot of them .	project budget
+C	705.6	Oh , that was profiting , that was an amount , so that's the amount made , okay .	project budget
+B	710.0	Yep .	project budget
+B	711.12	Well , fifty million , and if you're making twelve point five Euros on each one , then , awful lot need to be sold .	project budget
+C	717.09	Yeah .	project budget
+B	721.12	Okay .	discussion
+B	722.26	Now we better actually just get on with the uh the meat of the project .	discussion
+B	725.84	So I'm gonna guess that we've all used remote controls .	discussion
+B	730.78	Any ideas of where you think a new remote control could go into this market ?	discussion
+A	736.97	Well , one thing I'm aware of is , th there uh um at the sort of v very high price end of the market there's there's a em emerging market for sort of touch screen L_C_D_ remotes that can be uh programmed in m much more sophisticated ways than sort of conventional models , so you get the sort of you get um you you can redesign the interface to your own needs , you can programme in macros , and you get a much greater degree um um I mean you get in these sort of three in one , five in one , whatevers , but you can get integration between the different uh the the the diff the different things that it's designed to control , to a much greater extent , and you can have one uh you know one macro to turn the uh you know turn the T_V_ to the right channel , get the uh re uh rewind the tape in the V_C_R_ and get it to play once it's rewound , for instance .	look and usability
+B	790.07	Okay .	look and usability
+A	790.71	Um b it occurs to me there might be a niche for uh for a remote that aimed towards some of that sort of functionality but using a just conventional push button design .	look and usability
+A	806.4	And therefore putting it into a um well much lower price bracket .	look and usability
+B	812.69	Okay , yeah , tha that's true , with the price range we're looking at , going for a touch screen would probably be possibly out of our yeah .	look and usability
+A	819.18	Absolutely prohibitive , yeah .	look and usability
+C	820.69	Oh .	look and usability
+B	821.2	But you think uh again something to control multiple units in uh a simple fashion .	look and usability
+A	825.96	Yeah , I mean I wouldn't like to say you g I mean you get ones that you can switch between multiple units , but something that could um operate between multiple units in a more integrated fashion .	look and usability
+A	836.06	Some and ideally something into which it would have some at least limited facility for um running macros .	look and usability
+B	845.65	Would the the idea something along the lines of , one on button would turn on say the video recorder , the T_V_ , maybe the sound system as well , all in one go , is that kind of Okay , that sounds like a a good strong idea .	look and usability
+A	853.68	For instance , um let's say oh oh um , or um you know you pr uh you press uh say the play button for the D_V_D_ player and it turns the T_V_ on and onto the right channel as well , um Mm-hmm .	look and usability
+C	871.65	'Kay Well um I've noticed that uh gaming c is becoming quite popular with television , um when I was younger we used to e play games using our cable , using the cable subscribed the cable providers , but our remote controls would get worn out really easily , and the remote control was not a great kind of keyboar , um keypad , for playing games .	look and usability
+B	874.81	Um Any takes on this ?	look and usability
+C	903.3	So perhaps one that was more um specialised for game playing or interactive television .	look and usability
+B	903.32	Okay .	look and usability
+C	910.0	They they've recently brought out this new remote control , for people to set their favourite channels , or um to record things .	look and usability
+C	917.64	Instead of people entering in what time things start , you simply stri slide a bar to say what time it begins , and slide another bar to say what time it ends , you know that's Yeah , it's it's taken out the Y you don't have to be uh really clever to use a remote control .	look and usability
+B	925.19	Okay .	look and usability
+B	927.99	Yeah I've heard I've seen the bar-code design before , yeah .	look and usability
+A	930.23	Mm-hmm .	look and usability
+C	937.79	I think for gaming , you know you want you want some big buttons for up , down , left and right , shoot .	look and usability
+C	944.45	Uh , you wanna be able to change angles in interactive television , so you need buttons to change the television angle , the camera angles and stuff like that .	look and usability
+B	953.03	Okay , well we're beginning to run out of time now , so , we've got a couple of ideas , we can we'll have to work fast , um , alright as you can see we've got thirty minutes until the next meeting , so we'll have to try and decide on some of the basic functionality , um , how the user interface might work , that'll be a key aspect especially if the idea of um some kind of macros facility because you have to program it , you have to have a lot of response back , or at least some kind .	discussion
+D	953.24	'Kay .	look and usability
+C	955.24	Yeah .	discussion
+A	982.47	Mm-hmm .	discussion
+B	983.25	Um And we're gonna maybe n try and have to figure out what the user wants , yes .	discussion
+C	991.23	What the user wants uh .	discussion
+C	993.45	Okay .	discussion
+B	994.44	Um , right .	discussion
+B	996.83	Has anybody got anything they'd like to add at this stage , anything they think that might have been missed so far ?	look and usability
+D	1002.36	Well when you're talking about gaming and stuff , do you think they should have some sort of stick on it , rather than buttons ?	look and usability
+C	1008.75	Oh .	look and usability
+C	1009.44	Okay , .	look and usability
+D	1010.16	Like uh control pads , you know of games , but or is that a bit ridiculous ?	look and usability
+C	1013.59	Mm-hmm .	look and usability
+B	1016.96	I I don't see why not , almost everybody is probably used to a console by now , and all of them incorporate small keypads on them , in fact even the mobile phones these days are beginning to use them as well , so it's probably an interface that most people are used to .	look and usability
+D	1026.16	Yeah .	look and usability
+B	1030.74	Um and that could allow n easy navigation , used as a joystick as well .	look and usability
+A	1045.78	Mm-hmm .	look and usability
+A	1046.04	The other key feature that uh that would be a good idea built into it is t is is to make something you know fairly sort of ergonomic , something that just fits fits as comfortably as possible into the hand .	look and usability
+A	1060.06	But of course , uh al al also allows for the possibility of a more sort of slightly unconventional or attractive uh sha shape for it overall , .	look and usability
+B	1072.5	Okay .	look and usability
+B	1075.58	So , small , stylish , and something that's just a little different .	look and usability
+A	1077.09	A curve , mm-hmm .	look and usability
+A	1080.04	Something sort of sort of sl slightly sort of biomorphic in form , uh which it would need to be to sort of conform to the shape of the hand more efficiently anyway .	look and usability
+B	1088.53	Okay .	look and usability
+B	1089.74	That's definitely something that we should be able to do quite easily .	look and usability
+B	1093.27	I would I would have hoped so anyway .	look and usability
+B	1095.67	Um , right .	discussion
+B	1100.31	I'd say we finish this one up , we get started , I'll get in , I'll write up what we've um kind of quickly done , and I'll get that out to everybody .	closing
+C	1109.99	'Kay .	closing
+B	1110.46	Yeah ?	closing
+C	1111.08	So .	closing
+B	1111.74	Okay .	closing
+B	1118.69	Um , as far as I'm aware we leave the microphones here , um unless we get told otherwise , and just take the laptops with us .	agenda/equipment issues

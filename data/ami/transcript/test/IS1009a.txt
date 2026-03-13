@@ -1,0 +1,253 @@
+A	54.95	Okay .	introduction of participants and their roles
+D	55.7	Okay .	introduction of participants and their roles
+A	55.86	Everybody ready ?	introduction of participants and their roles
+C	56.9	Yeah .	introduction of participants and their roles
+D	57.25	I think so .	introduction of participants and their roles
+A	57.69	Uh I think the first thing we do is introduce ourselves and everybody's name and what your function is ?	introduction of participants and their roles
+D	61.54	Yeah , that's a good plan .	introduction of participants and their roles
+A	65.47	So maybe we start with you ?	introduction of participants and their roles
+B	66.63	Okay .	introduction of participants and their roles
+B	67.39	Yeah , my name is Francina .	introduction of participants and their roles
+B	69.09	And I'm uh an user interface my role is uh the main responsibility is user interface .	introduction of participants and their roles
+A	76.08	Mm-hmm .	introduction of participants and their roles
+B	76.61	And my role is to design uh a television remote control .	introduction of participants and their roles
+A	81.04	Mm-hmm .	introduction of participants and their roles
+A	81.69	Okay .	introduction of participants and their roles
+D	83.39	And I'm a marketing person .	introduction of participants and their roles
+D	85.33	I wanna figure out how to sell them .	introduction of participants and their roles
+A	87.49	Mm-hmm .	introduction of participants and their roles
+A	87.98	And your name is ?	introduction of participants and their roles
+D	88.82	My name is Eileen .	introduction of participants and their roles
+A	90.21	Okay .	introduction of participants and their roles
+C	91.31	Yeah .	introduction of participants and their roles
+C	91.85	Uh I'm Jeanne-Oui .	introduction of participants and their roles
+C	92.69	Um uh my role is industrial designer and my responsibilities are uh uh um deal with the technical-functional designs and specifications of user interface and dealing with user interface design .	introduction of participants and their roles
+A	107.88	Very good .	introduction of participants and their roles
+A	108.51	And as you already know I am Betty .	introduction of participants and their roles
+A	110.71	I am the project manager for today .	introduction of participants and their roles
+A	113.07	So why don't we look at the presentation to see what we really are supposed to do .	introduction of participants and their roles
+D	118.76	Okay .	introduction of participants and their roles
+A	119.38	Um .	project goal and design process
+A	122.4	Yes y opening , acquaintance , tool training well , the tools are , I think , we already I guess the tool is really our the computer , as far as I can see .	project goal and design process
+D	131.13	Mm-hmm .	project goal and design process
+A	132.87	Uh we get ins each of us will get instructions and we'll take it from there .	project goal and design process
+A	138.04	Project plan , that falls under the same heading pretty much .	project goal and design process
+A	140.97	Um , I don't think we have any great discussion at this point .	project goal and design process
+D	145.55	No .	project goal and design process
+A	146.17	Um .	project goal and design process
+A	149.44	Here is what this thing should be .	project goal and design process
+A	151.68	This thing we are gonna um uh design is a new remote control .	project goal and design process
+A	157.54	Uh should be original , trendy , and , of course , user friendly .	project goal and design process
+D	159.51	Mm-hmm .	project goal and design process
+A	165.19	So maybe you wanna make some notes of that .	project goal and design process
+D	188.06	Okay .	project goal and design process
+A	195.04	Okay ?	project goal and design process
+D	195.56	Mm-hmm .	project goal and design process
+A	196.38	All right .	project goal and design process
+A	197.44	Here is what the functional design is supposed to achieve .	project goal and design process
+A	201.64	Um .	project goal and design process
+A	203.78	That is it's gonna be individual work and then at the meeting we'll discuss what uh we have come up with .	project goal and design process
+A	211.57	The same goes for the conceptual design , there will be individual work whic and then discussion afterwards .	project goal and design process
+A	219.44	Detailed design , same thing basically .	project goal and design process
+D	220.46	Mm 'kay so Three different types of design that we're gonna be concerned with okay .	project goal and design process
+A	225.98	Mm-hmm .	project goal and design process
+A	226.94	Mm-hmm .	project goal and design process
+D	236.11	Functional , conception and detailed .	project goal and design process
+A	243.94	I can't write with this thing .	project goal and design process
+D	248.32	Maybe we should redesign it .	project goal and design process
+A	251.8	Yes .	project goal and design process
+D	252.79	After we've finished the remote control we'll get to that .	project goal and design process
+A	255.24	Yeah , okay .	project goal and design process
+A	257.36	All right ?	project goal and design process
+A	260.02	Then , tool training try out the white board , participant can draw their favourite animal .	drawing animals on the whiteboard
+A	264.71	Does anybody want to go and see how the white board works ?	drawing animals on the whiteboard
+A	268.72	So that in case we have to , in the next meeting , present something on the white board .	drawing animals on the whiteboard
+A	274.68	You wanna go Eileen and Whether you without hanging yourself .	drawing animals on the whiteboard
+D	276.23	Okay , I'll see what I can do .	drawing animals on the whiteboard
+D	278.52	See if I r See if I remember how to draw a kitty cat or a rabbit or something .	drawing animals on the whiteboard
+A	288.1	And remember you have to press so it works .	drawing animals on the whiteboard
+D	290.06	So that it will record okay .	drawing animals on the whiteboard
+A	290.82	Mm-hmm .	drawing animals on the whiteboard
+D	292.19	Um uh um traditional kitty cat .	drawing animals on the whiteboard
+A	308.92	Fat , a fat cat .	drawing animals on the whiteboard
+D	311.19	I've a very fat cat .	drawing animals on the whiteboard
+D	315.73	And it likes to sit like that .	drawing animals on the whiteboard
+A	317.63	Okay .	drawing animals on the whiteboard
+D	318.12	Okay .	drawing animals on the whiteboard
+A	320.53	And you're Francine , right ?	drawing animals on the whiteboard
+B	322.23	Yes , I'm Francina .	drawing animals on the whiteboard
+A	322.58	Would you like s like just to see um how it feels , so that you have a little idea ?	drawing animals on the whiteboard
+B	324.16	Yes , sure .	drawing animals on the whiteboard
+D	328.77	Am I supposed to wipe off that or okay .	drawing animals on the whiteboard
+A	329.04	In No , no .	drawing animals on the whiteboard
+A	330.83	No , that's okay .	drawing animals on the whiteboard
+B	331.58	No , Okay .	drawing animals on the whiteboard
+A	333.57	I don't know , we'll get to that later .	drawing animals on the whiteboard
+D	336.02	Okay .	drawing animals on the whiteboard
+B	337.47	What should I draw ?	drawing animals on the whiteboard
+C	347.67	Snake .	drawing animals on the whiteboard
+B	347.99	I'm going to draw a snake .	drawing animals on the whiteboard
+B	355.86	How does it look like ?	drawing animals on the whiteboard
+D	357.32	Uh , okay .	drawing animals on the whiteboard
+A	358.58	Okay .	drawing animals on the whiteboard
+A	359.98	Okay .	drawing animals on the whiteboard
+D	359.99	I hope the kitty cat is hungry 'cause I don't like snakes .	drawing animals on the whiteboard
+A	367.25	Here's the project finance uh which , of course , we all have to think about when we design this thing .	project budget
+A	372.72	Um selling price is supposed to be twenty five Euro .	project budget
+A	377.25	Uh profit aim for the company is fifty million Euro , the market range unlimited meaning international and the production cost should not exceed hopefully should be less than twelve fifty Euro .	project budget
+D	377.48	Mm-hmm .	project budget
+D	386.53	Okay .	project budget
+D	395.23	Mm 'kay that should keep everybody on their toes and challenged .	project budget
+A	398.76	Mm-hmm .	project budget
+D	400.24	Profit .	project budget
+D	402.86	Um is fifty mm .	project budget
+A	403.81	So these are all things , of course , to remember with the budget and when you design to materials , cost , etcetera .	project budget
+A	419.16	Now , uh the discussion I guess is um does anyone of you have experience with remote control ?	ideas about remote control design
+D	420.14	Oops .	ideas about remote control design
+C	428.69	Yeah , of course , using remote control .	ideas about remote control design
+A	428.95	I exp I s 'cause we we use 'em we use 'em , right , everyday .	ideas about remote control design
+B	429.73	Yes .	ideas about remote control design
+C	431.19	Yeah .	ideas about remote control design
+A	433.24	And um now having used a remote control for years does anybody already have like an idea like things you didn't like with it , things you would like to change , things you would like to improve with this thing ye any first ideas ?	ideas about remote control design
+A	450.37	Would you like it to be smaller , bigger , have more have more buttons on it or maybe clearly better marked buttons , you know , things like that ?	ideas about remote control design
+C	451.06	Uh .	ideas about remote control design
+B	453.94	Yeah , I Yes , I I feel that all the remote should be very compact .	size and functionality
+C	459.86	Yeah .	size and functionality
+C	461.37	Yeah .	size and functionality
+A	465.15	Small , right .	size and functionality
+B	465.71	Yeah , those which we get here nowadays it's very long .	size and functionality
+A	466.21	Mm-hmm .	size and functionality
+A	469.29	Mm-hmm .	size and functionality
+B	469.79	And um and it should have multi-purpose .	size and functionality
+B	472.76	Like uh the remote control which we use for T_V_ , it shou uh it should be used f uh for some other purpose also , like controlling the uh temperature inside the house or for air-conditioners , or for heating system .	size and functionality
+A	481.37	Mm-hmm .	size and functionality
+C	481.7	Audio player .	size and functionality
+C	482.73	Oh .	size and functionality
+C	483.66	Okay .	size and functionality
+A	486.72	So it should be a multi-functional uh gadget that would um control all your household uh uh machines basically .	size and functionality
+B	488.48	Yes , exactly Yes .	size and functionality
+C	490.4	Hmm .	size and functionality
+B	492.57	Yes .	size and functionality
+C	493.31	Divides us Yeah .	size and functionality
+B	494.72	Yeah .	size and functionality
+B	495.04	Exactly .	size and functionality
+C	495.24	Yeah .	size and functionality
+D	497.24	At um twelve fifty Euros per Well who knows if we get a really good designer maybe we can do that .	size and functionality
+A	502.77	Well .	size and functionality
+C	506.18	Yeah .	size and functionality
+D	508.17	We certainly can try to I agree with her that to market something successfully it should do some more things .	size and functionality
+A	513.11	It should be something new it should be s it it should do something different than than just what we have .	size and functionality
+D	517.36	That's right .	size and functionality
+C	517.8	Yeah , of course .	size and functionality how it looks
+A	518.12	Now , of course , the other thing to think there is maybe the design .	how it looks
+B	518.13	Yeah .	how it looks
+B	521.06	Yeah , design should be , yeah it should be different .	how it looks
+B	523.26	All the almost all the remotes Yes , exactly .	how it looks
+A	524.22	Like trendy no like f for earlier we saw maybe it should be something trendy you know .	how it looks
+C	527.83	Yeah , maybe ten I do yeah , colours and al shapes also .	how it looks
+A	528.29	Maybe it should different colours or materials or you know .	how it looks
+B	530.68	Are different shapes .	how it looks
+B	532.46	Yes .	how it looks
+C	532.65	Yeah .	how it looks
+A	533.45	Um so yeah shapes right , you know , like kidney shape feels better in your hand or something , you know .	how it looks
+B	537.03	Yes .	how it looks
+C	538.09	Yeah of course yeah .	how it looks
+D	538.53	Yeah okay , friendly shape , that would help .	how it looks
+A	539.97	Yeah .	how it looks
+D	542.32	I think another thing that would help is um if it beeps when you clap , because I think one of the big things that happens is people lose them .	how to find when it is misplaced
+A	544.12	Yes .	how to find when it is misplaced
+D	550.25	They can't find it .	how to find when it is misplaced
+A	552.51	That is true , because they put a newspaper or they put it behind a plant or , we you know , whatever .	how to find when it is misplaced
+C	555.68	Yeah .	how to find when it is misplaced
+D	558.16	Mm-hmm .	how to find when it is misplaced
+A	558.27	And and they suddenly the phone rings and they want to turn the T_V_ off and they say , where the hell is my my remote control yeah ?	how to find when it is misplaced
+D	566.02	So some Uh so , so it's really the beep or , or a light should blink .	how to find when it is misplaced
+A	566.14	Well or yeah or if it's really , if it's really in a dark spot that it gives out a a sound or a signal .	how to find when it is misplaced
+C	572.01	Yeah , some beep or something like that , so that we can go Yeah .	how to find when it is misplaced
+B	573.12	Or a b Should ha A fluorescent signal , yeah .	how to find when it is misplaced
+A	573.18	Yeah .	how to find when it is misplaced
+A	573.73	Mm-hmm .	how to find when it is misplaced
+A	574.71	So if lost If lost uh signal with b throw signal , you know .	how to find when it is misplaced
+D	580.39	Mm 'kay .	how to find when it is misplaced
+C	581.48	Yeah , maybe it should have a light so that we can , we can just recognise where it is .	how to find when it is misplaced
+A	585.68	Exactly , I mean just that's what I'm saying .	how to find when it is misplaced
+C	585.88	Yeah , yeah .	how to find when it is misplaced
+C	587.0	May not be beep .	how to find when it is misplaced
+A	587.9	I'm just saying throw signal meaning just whether it's a beep or whether a light or Okay , my my idea is maybe that the minute it's really hidden , in in other words if it's like in a dark spot , uh meaning you know like a newspaper is on top , a sweater is on top or it it's behind a plant , at that moment it's it's like , it's like um , what you call it a light s sensors , you know ?	how to find when it is misplaced
+C	590.86	Beep or uh it's a light , maybe it's a light .	how to find when it is misplaced
+D	592.25	And do you think a good c c um clue for that is that it would respond to a clap or it would respond to your voice or it would respond what what should you have to do to make it beep or blink ?	how to find when it is misplaced
+D	613.3	Mm-hmm .	how to find when it is misplaced
+D	617.96	Mm-hmm .	how to find when it is misplaced
+D	625.55	Okay so Okay .	how to find when it is misplaced
+A	625.75	In in that moment it has a sensor , i it it gets a certain darkness , it ge has a sensor and it gives out a signal whether that be a light signal or a beep , I mean , that we can discuss that later , you know .	how to find when it is misplaced
+B	627.79	Yes .	how to find when it is misplaced
+C	634.31	Yeah , probably yeah , probably it's a yeah , yeah .	how to find when it is misplaced
+B	638.22	Yeah .	how to find when it is misplaced
+B	638.67	And uh Yes .	how to find when it is misplaced
+D	639.09	So the light sensor would activate the signal .	how to find when it is misplaced
+A	641.3	That's right .	how to find when it is misplaced
+C	641.81	Mm-hmm .	how to find when it is misplaced
+A	642.24	You know there would be right you have to have some kind of sensor and I I think uh voice or clapping it's not specific enough .	how to find when it is misplaced
+A	650.78	Uh I know there are the lamps and stuff , you know , you can clap on and off , but I think they only work to certain degree and What with Oh yeah well , but then those people we can't help everybody .	how to find when it is misplaced
+D	652.91	Mm-hmm .	how to find when it is misplaced
+D	658.19	But it could be someplace really obvious and you still wouldn't be able to find it .	how to find when it is misplaced
+C	663.98	Yeah , of course , that didn't I i we can't do it .	how to find when it is misplaced
+D	665.22	Well , because you're s because you're silly .	how to find when it is misplaced
+B	665.4	Then , in that case Yes .	closing how to find when it is misplaced
+D	666.89	Because people are silly .	how to find when it is misplaced
+D	668.66	I mean it could be on well , i if it were like on top of your bookcase and you usually kept it on the coffee table um , you know , well maybe we have to move along , okay .	ideas about remote control design how to find when it is misplaced
+A	678.08	Okay we have uh yeah , we have to move along , but I think we have some good good points to start with here .	ideas about remote control design
+C	682.07	Yeah , good point .	ideas about remote control design
+A	685.84	Okay , the next meeting will be in thirty minutes .	closing
+A	688.49	I think you all did you get uh notices on your computer for this ?	closing
+C	691.65	Me yeah .	closing
+A	692.12	Okay so well , you got the notice um uh .	closing
+A	695.45	The working design , I guess that's the function I_D_ uh who is this ?	closing
+A	701.63	The industrial designer That's you .	closing
+C	702.97	Yeah .	closing
+C	704.61	Yeah , it's functional de yeah , exactly , technical .	closing
+A	706.82	Okay .	closing
+A	707.46	So , we looking for a working design when we come back .	closing
+C	710.26	Yeah .	closing
+C	711.71	Uh working design , yeah , it's it's uh mainly technical-functional design .	closing
+A	714.21	Then And then the technical funct you are the technical function , so so you are the working design .	closing
+C	717.25	Yeah , functional design , and you Yeah .	closing
+A	720.11	So you have a working design and then a functional design .	closing
+B	720.41	Okay .	closing
+A	724.39	And the marketing manager is coming up with some user requirement specification , like friendliness , and what we just discussed in general .	closing
+A	734.3	That would be your idea .	closing
+A	735.94	And , of course , price .	closing
+A	738.24	That it , that it , that the price is a good price .	closing
+D	741.37	Mm-hmm .	closing
+A	741.69	I mean , the price is given , but , that was That's right .	closing
+D	745.25	We have to justify that price by having sufficient features to make it sell at that price .	closing
+A	749.44	That's right .	closing
+A	751.38	And , you know , specifi you you will get specific um instructions for that .	closing
+A	756.1	I think that's the end of the show .	closing
+A	757.84	Yeah .	closing
+A	764.72	So um we have well , we have a twen two two two three minutes .	closing
+A	770.87	Um any questions at this point ?	closing
+A	773.57	Or uh suggestions ?	closing
+D	777.27	Mm .	closing
+A	777.8	I think basically basically you will get instructions to work with and if you have any questions uh , uh I guess , you can uh Mm-hmm .	closing
+B	782.9	Okay .	closing
+D	787.58	Okay , I think I have enough to think about 'til our next meeting .	closing
+C	791.25	Yeah , even I have .	closing
+D	791.63	How about you people ?	closing
+C	792.6	Yeah , even I have , I think , yeah .	closing
+B	792.79	Yes .	closing
+D	792.83	Really ?	closing
+A	793.23	Mm-hmm .	closing
+D	793.39	Okay .	closing
+D	794.48	'Kay .	closing
+A	795.57	Okay .	closing
+D	796.5	Alright , well uh Okay , very good .	closing
+C	796.52	Yeah , so let's see .	closing
+A	797.96	Then uh we see you in about thirty minutes .	closing
+B	801.89	Yes .	closing
+A	801.94	And see what we can come up with .	closing
+C	803.39	Hmm .	closing
+B	804.08	Okay .	closing
+A	804.79	Okay ?	closing
+B	805.26	Yes .	closing
+C	805.49	Yeah .	closing

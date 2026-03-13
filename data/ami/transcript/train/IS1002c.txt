@@ -1,0 +1,563 @@
+C	0	.	NO_TOPIC
+A	6.83	Afternoon guys .	chitchat
+A	11.6	It's gonna be .	chitchat
+D	14.15	Rock and roll .	chitchat
+A	15.36	Oh .	chitchat
+A	22.27	'Kay .	chitchat
+D	23.13	So do we need to re-train Mike on how to put his mic on ?	chitchat
+C	27.06	Think s Mm .	chitchat
+A	27.14	We may do .	chitchat
+D	27.25	Okay , can he get it all by himself this time ?	chitchat
+A	29.76	I dunno , I'm feeling like a big boy .	chitchat
+C	30.75	Pro Probably not , 'cause he's 'S been listening to too much .	chitchat
+D	38.37	So I believe I can fly .	chitchat
+C	39.35	He's getting retarded .	chitchat
+B	42.8	Alright well we got some exciting stuff for you guys .	chitchat
+C	42.87	Yay .	chitchat
+C	45.76	Or not .	chitchat
+B	47.16	Or not .	chitchat
+C	47.94	Yeah .	chitchat
+D	48.65	Just what I needed was something exciting .	chitchat
+D	52.42	Remember , I'm an old man .	chitchat
+A	55.36	'Kay , ready to go ?	opening
+B	57.37	All ready .	opening
+A	58.46	'Kay so we've got our conceptual design meeting .	opening
+C	59.06	Apparently I'm old as well .	opening
+A	61.34	Hopefully we've all got exciting ideas now .	opening
+D	61.8	Thirty's really young , eh ?	opening
+B	63.67	We do .	opening
+A	64.4	Uh k exciting ideas .	opening
+A	66.29	'Kay so here's our agenda our agenda .	opening
+A	69.47	Um I'm gonna open .	opening
+A	72.25	I'm gonna talk for a bit about what we're gonna do .	opening
+A	75.95	I'm gonna take some notes .	opening
+A	77.4	We're gonna all do a presentation , and then hopefully we're gonna make some decisions now .	opening
+A	83.67	Yep .	opening
+B	84.32	Alright .	opening
+A	84.62	Well when I say hopefully , we have to .	opening
+A	86.51	So I'm gonna let you guys talk before we make decisions .	opening
+A	92.65	And does anyone really want to go first ?	industrial designer presentation
+B	95.53	I guess I'll go first .	industrial designer presentation
+A	96.77	You p two ?	industrial designer presentation
+B	97.78	Yeah .	industrial designer presentation
+A	98.88	What's Components design .	industrial designer presentation
+B	99.52	Component , I think .	industrial designer presentation
+B	101.24	Yeah .	industrial designer presentation
+B	103.14	Yep that's it .	industrial designer presentation
+C	104.98	Presented by name .	industrial designer presentation
+B	107.72	My name is .	industrial designer presentation
+D	108.93	Jose he man is .	industrial designer presentation
+A	109.65	Your name is name ?	industrial designer presentation
+B	110.71	My name is name .	industrial designer presentation
+A	111.44	Huh hi name .	industrial designer presentation
+C	111.87	My name is Inigo Montoya .	industrial designer presentation
+C	114.1	You killed my father .	industrial designer presentation
+B	116.48	Sorry I did this in a bit of a rush .	industrial designer presentation
+C	116.52	Prepare to die .	industrial designer presentation
+D	118.02	N name .	industrial designer presentation
+B	118.52	So so here's a look inside your really old-looking remote control .	components, materials and energy sources
+A	118.63	Right .	industrial designer presentation
+B	123.28	Um you've got a printed a printed uh circuit board here , and you've got all these buttons which kinda press down little rubber nubbies into these little holes that activate Yeah we've all broken a remote control .	components, materials and energy sources
+A	135.06	We've all broke a remote control ri um s yeah .	components, materials and energy sources
+D	136.62	I've I just love you tech guys , huh .	components, materials and energy sources
+B	139.03	So you've also got um you've got your chip here , your batteries here , and some sorta electronics .	components, materials and energy sources
+B	145.39	Um Well so you've got here's here's a transistor , and this amplifies your signal , um you've got the L_E_D_ here on the end of the uh uh on the end of the printed circuit board .	components, materials and energy sources
+D	147.65	They just Yeah y do jabber .	components, materials and energy sources
+C	148.68	Yeah there's a thingy and a dingy and Nah .	components, materials and energy sources
+A	151.54	You press this and it does th I dunno who and whatnot .	components, materials and energy sources
+B	161.97	Um you've got a couple diodes here for I don't know who and whatnot .	components, materials and energy sources
+B	168.01	So exactly .	components, materials and energy sources
+B	170.2	So um we've got a i in this in this uh drawing he uh in this example here , this is a eighteen pin um uh chip I dunno .	components, materials and energy sources
+D	173.76	P Yeah .	components, materials and energy sources
+B	181.99	Uh it's two double A_ batteries .	components, materials and energy sources
+B	183.74	This is pretty standard remote .	components, materials and energy sources
+B	186.72	So here are options for our power sources .	components, materials and energy sources
+B	190.21	You can use a basic battery , which we've already discussed , um th our tech department also said we have the option of doing some kind of hand dynamo where maybe you crank it or something like that .	components, materials and energy sources
+B	201.47	I don't know if that's really I don't know we got some qu crazy guys down there in that department so You shake it .	components, materials and energy sources
+A	201.48	'Kay .	components, materials and energy sources
+C	202.64	I wanna change that .	components, materials and energy sources
+A	207.93	Okay .	components, materials and energy sources
+D	208.1	I I gotta I gotta flashlight , and uh yeah but it's interesting 'cause you shake it like this .	components, materials and energy sources
+D	215.95	Like this .	components, materials and energy sources
+B	216.83	Yeah .	components, materials and energy sources
+B	217.49	So that's the next bullet is the um the kinetic provision of energy , so it's like that flashlight where you have to shake it .	components, materials and energy sources
+D	218.9	And that's on the camera .	components, materials and energy sources
+D	224.92	Yeah .	components, materials and energy sources
+A	225.78	'Kay .	components, materials and energy sources
+B	226.16	Uh we've got solar cells , which I don't think is a very good idea because um you could not use your remote at night which doesn't make a lot of sense .	components, materials and energy sources
+A	235.33	Mm 'kay .	components, materials and energy sources
+B	235.64	And finally we've got our cradle o our power cradle idea .	components, materials and energy sources
+A	239.03	Okay so we basically have battery versus cradle here ?	components, materials and energy sources
+B	240.99	M battery versus cradle I think is yeah .	components, materials and energy sources
+A	242.61	Okay .	components, materials and energy sources
+C	243.12	I like the kinetic .	components, materials and energy sources
+A	245.59	So we have battery versus cradle It's actually a novel thing because you could sell it a as a novelty , just to be actually serious for a minute here , you could Mm .	components, materials and energy sources
+D	245.6	I g I I figured you would .	components, materials and energy sources
+B	246.44	It could be fun .	components, materials and energy sources
+D	247.06	Yes .	components, materials and energy sources
+D	249.35	Yeah .	components, materials and energy sources
+B	253.83	Yeah .	components, materials and energy sources
+B	254.62	Well it is it is more uh I mean it is more eco-friendly than the than the cradle 'cause you're still using power off the grid with the cradle .	components, materials and energy sources
+B	262.48	So um our case design .	components, materials and energy sources
+A	262.73	Hmm .	components, materials and energy sources
+B	266.8	We have uh choices in materials and choices in the general shapes that we can do .	components, materials and energy sources
+B	272.01	Our material choices are a plastic latex um ty or plastic , a rubber latex type thing , uh wood , or titanium .	components, materials and energy sources
+B	281.6	If we go with titanium we're gonna be uh limited in the amount of shapes we can do because it's tough to shape the titanium , and uh Yeah pers I think wood i I I can't see anybody wanting to use a wooden remote , it's just anti-technology really , you know .	components, materials and energy sources
+A	292.03	Wood wood would ge would give us a little bit of a marketing niche , wouldn't it .	components, materials and energy sources
+A	298.26	Nah .	components, materials and energy sources
+D	299.44	It it it Uh .	components, materials and energy sources
+A	302.48	Okay .	components, materials and energy sources
+A	307.21	Hmm .	components, materials and energy sources
+D	307.98	Uh uh to me in a marketing sense it's not it's not relative .	components, materials and energy sources
+D	311.02	We can we can o we can uh accentuate whatever whatever product you put in there we can find a way to accentuate it .	components, materials and energy sources
+B	315.85	Right .	components, materials and energy sources
+B	316.61	And what we may be able to do , and I think this might be the best option is to combine some a couple of these .	components, materials and energy sources
+A	316.91	Okay .	components, materials and energy sources
+B	322.39	Um my recommendation personally would be to do some kind of a plastic inner shell with a like a rubber outer shell , to make it um to mak uh like a thick plastic inner shell and a t um kind of a to have that rubber outer shell to make it more durable , and also maybe i I think it feels a little better than the plastic .	components, materials and energy sources
+A	343.8	'Kay .	components, materials and energy sources
+A	343.94	Do you get a good grip on the rubber ?	components, materials and energy sources
+B	345.2	Yeah um Yeah .	components, materials and energy sources
+A	345.53	Yeah okay .	components, materials and energy sources
+D	346.22	And if you make it from that super rubber , when you drop it on the floor it can bounce right back up in your hand .	components, materials and energy sources
+D	350.6	You don't even need to lean down to get it .	components, materials and energy sources
+B	352.39	The advantages of working with plastic and rubber is w we we'll have a lot more um options just in terms of shape because you can extrude plastic in basically any shape you want .	look and usability
+B	361.57	So um and then we can cover you know the breakable bits with rubber yeah so um But basically these are curved and double-curved I I believe that the tech department , in their um in their message to me , that they were referring to the number of th curves in the bottom .	look and usability
+A	369.35	Okay .	look and usability
+B	382.55	I have no idea exactly what they're talking about , but that's what they told me , uncurved , flat , curved , or double-curved .	look and usability
+A	385.78	Okay .	look and usability
+B	389.0	I would guess this like this pen would be kinda like a double-curved , where it's curved on m m multiple axes , right ?	look and usability
+B	396.35	I think curved means just curved in one axis and double-curved is curved in two axes or surfaces .	look and usability
+A	401.65	Okay .	look and usability
+B	403.35	I have no idea .	look and usability
+A	403.37	I think it might mean something like that sorta shape because a double curve rather than a yeah that's what .	look and usability
+D	407.35	Mm-hmm yeah that's yeah that's what I see .	look and usability
+B	408.1	Oh okay oh like a wave , okay .	look and usability
+D	410.19	Yeah that's what I see also .	look and usability
+B	410.69	Alright that makes sense okay .	look and usability
+B	413.1	Um okay , with the interface we have the following options , we can u we can use push buttons , we can use a scroll wheel with an integrated push button , and L_C_D_ display , or multiple scrolling wheels .	components, materials and energy sources
+D	422.56	Ooh .	components, materials and energy sources
+B	427.12	Um so these are all options that the user interface guy can uh has at his disposal to put together a user interface .	components, materials and energy sources
+A	436.83	Okay .	components, materials and energy sources
+B	437.81	For electronics , we have these very technical um descriptions here .	components, materials and energy sources
+B	443.43	A simple chip , which is the least expensive , but I have no numbers to give you , a regular chip , which is like the medium porridge the medium expense uh Yes the difference is , with a simple chip a simple chip will operate oh why doesn't this scroll up ?	components, materials and energy sources
+A	453.71	D do we have actually any concept of what the difference is between a simple chip and an advanced chip ?	components, materials and energy sources
+B	465.6	Previous previous , okay .	components, materials and energy sources
+B	467.6	A simple chip is required to operate push buttons .	components, materials and energy sources
+B	470.93	Um an advanced chip is required to to operate um the L_C_D_ display , and it didn't say specifically , but I I have a hunch that a regular chip is gonna be the scroll wheel and the multiple scroll wheels .	components, materials and energy sources
+A	471.0	Okay .	components, materials and energy sources
+A	485.96	Okay .	components, materials and energy sources
+B	486.44	So but yeah .	components, materials and energy sources
+A	488.66	Yeah that makes sense .	components, materials and energy sources
+B	491.14	That's the end of my presentation .	industrial designer presentation
+A	491.36	So presentation from I guess design would go best .	interface specialist presentation
+A	498.76	Next .	interface specialist presentation
+A	507.96	Technical functions or interface concept ?	interface specialist presentation
+B	510.63	I think No .	interface specialist presentation components, materials and energy sources
+C	511.7	Oh interface concept .	interface specialist presentation
+A	516.95	Yeah that's it .	interface specialist presentation
+C	517.63	Very long presentation .	interface specialist presentation
+A	521.57	Yes , but it has your name on it .	interface specialist presentation
+C	524.59	Well that doesn't bo bode well for it for it tats as well .	interface specialist presentation
+C	528.74	Um so , somehow that thing's too big , but um okay um our uh manufacturing division wanted the speech recognition .	interface specialist presentation components, materials and energy sources
+C	537.85	They say they could put it to work but um we don't think so .	components, materials and energy sources
+C	542.19	No .	components, materials and energy sources
+C	542.65	It it it you'll be you know be affected by the by the other speech and Yeah and and fighting for the remote would not be fun anymore , and I think that's one of the things we wanna keep .	components, materials and energy sources
+B	545.97	If the T_V_ is working , yeah .	components, materials and energy sources
+B	547.97	That's just I mean it'll if somebody says up in the middle of a television show , it's gonna change the channel .	components, materials and energy sources
+B	556.94	So Well then why don't you just press the up button ?	components, materials and energy sources
+A	560.16	But what if you actually had to press a button to make it recognize ?	components, materials and energy sources
+A	564.13	So if you pressed it and went , up ?	components, materials and energy sources
+C	565.64	That kinda would r d yeah .	components, materials and energy sources
+A	568.16	Man yeah .	components, materials and energy sources
+C	568.72	That would kind of lose it .	components, materials and energy sources
+A	570.02	But if it's just one thing with a button that you can just go Up .	components, materials and energy sources
+D	572.72	That's right .	components, materials and energy sources
+B	573.09	Even still there's gonna be interf th there's there still will be interference from the T_V_ .	components, materials and energy sources
+B	577.6	It might not be it might not be completely confusing , but I think you'll still y it's still I don't think it's practical at all .	components, materials and energy sources
+A	577.65	Yeah , okay .	components, materials and energy sources
+B	586.33	I think it's a bad idea frankly .	components, materials and energy sources
+C	588.87	Yeah so um taking that away , our uh the the the rubber but rubber buttons are the more reliable it's the the ones that would al would allow us to to market our product as being you know less prone to damage and more resistant to things like spillage of liquids over it or you know mistreat misuses as it happens to remote controls .	components, materials and energy sources
+A	589.0	Okay .	components, materials and energy sources
+A	592.21	You guys know your stuff .	components, materials and energy sources
+C	614.83	Um as for the point that we making about losing it .	look and usability
+C	619.87	Well , we wanna small r remote control one side because uh we want it to be cool and uh designed , but um apparently um market shows that bigger s bigger um remotes get less lost , about But um yeah I think we we need to compromise between those two and somehow we'll do that .	look and usability
+B	639.54	That I would believe .	look and usability
+D	640.53	Mm-hmm .	look and usability
+A	641.09	Mm .	look and usability
+C	646.62	Somehow .	look and usability
+C	647.92	Um so the the what I would propose is something more or less in the uh direction of what is to yo the right of that slide uh but without with a l a less complicated um design , so the numbers , the volume control , and channel control , and teletext access .	look and usability
+C	668.28	Uh the volume and channel control can just become those the the four button array as in if it was a round dial .	look and usability
+B	677.2	Mm-hmm .	look and usability
+C	677.33	And um if you just think about it as the one to the right but with the numbers and the four buttons plus maybe a centre one with teletext .	look and usability
+A	685.64	So we're suggesting doing a sorta scroll wheel thing for the volume ?	look and usability
+C	688.23	Ye no it's not i i it's just four buttons that are on a cross , so that you ba basically can control all of the important tasks from that alone .	look and usability
+B	689.27	That's not a scroll wheel .	look and usability
+A	690.34	Nah .	look and usability
+A	692.36	Oh okay okay .	look and usability
+A	693.04	I see .	look and usability
+B	694.94	Right .	look and usability
+B	696.45	Instead of play , stop , rewind , and fast forward there , that's up , down , louder , and quieter .	look and usability
+A	696.86	Uh , okay .	look and usability
+A	701.75	Okay .	look and usability
+C	701.78	Yeah um yeah so I think we w we go for something mid-sized , so something looks good and uh is not too prone to get lost .	look and usability
+C	714.37	That be it .	interface specialist presentation
+A	715.41	'Kay .	interface specialist presentation
+A	717.05	So on to Y functional requirements or trend watching ?	marketing expert presentation
+D	729.03	I dunno .	marketing expert presentation
+B	729.76	Trend watching has a later date there .	marketing expert presentation
+D	730.18	Trend watching I guess .	marketing expert presentation
+D	731.64	Trend watching I believe .	marketing expert presentation
+A	733.26	forty six nineteen fifty seven .	marketing expert presentation
+D	734.72	See what it looks like .	marketing expert presentation
+A	734.73	Yep .	marketing expert presentation
+D	736.75	It's been so long .	marketing expert presentation
+D	742.01	Well I don't know what to say .	marketing strategy
+D	743.59	When I s when I see the when I see the product I I I I don't wanna buy it .	marketing strategy
+D	749.04	I see so many of 'em out there .	marketing strategy
+D	750.93	There's nothing about that product that makes me wanna choose that product over other products that are out there .	marketing strategy
+B	756.05	Are you talking about the picture ?	marketing strategy
+D	757.24	Yeah yeah .	marketing strategy
+B	757.68	That's not our that's not our b design , that's just a that's just something he a a graphic he used to show you the layout of what the layout of the buttons might be like .	marketing strategy
+D	759.68	Okay .	marketing strategy
+D	764.68	Okay .	marketing strategy
+D	767.92	Okay 'cause 'cause right now I don't have too much to say about how to market this product because we don't have a product to market yet .	marketing strategy
+D	774.69	And uh from from talking to Mike is that we have we have uh we can market a more expensive product now .	marketing strategy
+A	774.93	Mm .	marketing strategy
+D	783.26	That's what I understand so , hello .	marketing strategy
+A	784.16	Upper management said yes .	marketing strategy
+A	786.23	Uh e excuse that , that's a bit of spam .	marketing strategy
+D	788.58	And and so yeah I'm a I'm a little bit stuck right now in that what uh w what is it that I'm gonna market ?	marketing strategy
+D	796.12	Uh without special or increased marketable features I don't believe the product has a consumer demand .	marketing strategy
+D	802.51	Uh I like the idea of of the scroll makin there are so many people making these products at this price right now .	marketing strategy
+D	810.94	What are we gonna do to make this one special and unique ?	marketing strategy
+B	813.62	What's special and unique about a scroll ?	marketing strategy
+D	816.34	Uh well I don't yeah it's I I just see it as different .	marketing strategy
+A	817.58	It's cool .	marketing strategy
+D	820.23	I don't say it's specially mm I don't say it's special .	marketing strategy
+D	825.64	Uh I say that it's different I what I'm looking for as marketing is m give me something different .	marketing strategy
+D	830.84	I give me a lower price , give me a higher price , give me some new technology , don't give me the same thing that everybody else is putting out there on the shelf it's f at the same price .	marketing strategy
+D	840.54	I need something to market about this thing .	marketing strategy
+D	842.72	We're we're a new firm .	marketing strategy
+A	843.46	I'd I'd say though that we if we did make the decision to go with the cradle though , the then we have that as well , but wi with a similar Mm .	marketing strategy
+D	847.16	What i if when when we have yeah when we when we have something like the cradle or or something give that's as as a marketing standard I need something to market , to make this product unique .	marketing strategy
+B	856.4	Well right I think the two big th points that we have so far are the having the cradle and also having uh the um the actual design of the uh case itself having like this like rubber shell maybe with a plastic interior , having it look really nice um and also be really durable .	marketing strategy
+D	873.41	Yep .	marketing strategy
+D	879.28	Mm 'kay .	marketing strategy
+D	879.71	Just remember when I made up this report I didn't have the information that we're discussing here .	marketing strategy
+B	883.43	Right yeah .	marketing strategy
+D	884.18	And and so so uh yeah when we have a cradle , when we have some kind of design , so what I'm saying is , from my perspective , I don't have a product to market right now .	marketing strategy
+A	884.2	Course .	marketing strategy
+B	884.6	Yeah .	marketing strategy
+D	895.0	Um uh my personal preference is that we make some adjustment in the cost , either lower or develop an integrated new technol technology .	marketing strategy
+D	903.72	That's that is the next step , there's technology and then there is technology , which we're moving into the next phase .	marketing strategy
+A	907.48	Yeah 'cause that's .	marketing strategy
+D	910.14	And so uh we're gonna have some new technology to enhance the marketability .	marketing strategy
+D	914.81	Yeah uh again I'm not sold on the product because we don't have a product in my opinion yet .	marketing strategy
+A	920.07	Mm .	marketing strategy
+D	922.44	So I need a product .	marketing strategy
+A	922.99	Mm 'kay .	marketing strategy
+B	923.48	Well let's get a product then .	marketing strategy
+D	924.57	I need a product to market .	marketing strategy
+D	926.56	And I just whatever product you guys put together , we'll find a way to market it .	marketing strategy
+D	930.0	Tha that I'm not concerned with .	marketing strategy
+A	933.4	So now So our big questions here really are cradle or not cradle ?	components, materials and energy sources marketing strategy
+D	934.87	If you if you give me if you give me a cut-out of what everybody else has then I need to I need to find a lower cost .	marketing strategy
+A	951.28	Do we go basic or do we go for features ?	components, materials and energy sources
+A	955.31	Uh d does anyone really wanna do anything with the scroll wheel or should we ditch that off-hand first ?	components, materials and energy sources
+B	960.32	Well my question is what would the scroll wheel do ?	components, materials and energy sources
+B	964.26	Function-wise , what does that do that Yeah .	components, materials and energy sources
+A	966.02	Oh but that was in your presentation so wh what would you imagine it doing ?	components, materials and energy sources
+D	969.08	Yeah wh wh what's the wh Okay now what I see with the scroll wheel is everybody has buttons .	components, materials and energy sources
+B	972.16	Well it's it's just another way to do the exact same thing that the buttons do .	components, materials and energy sources
+A	976.85	Mm 'kay .	components, materials and energy sources
+C	977.71	But would we I dunno .	components, materials and energy sources
+D	980.76	So from a marketing standpoint I have I have another door to walk through when we have something that's unique .	components, materials and energy sources
+A	986.47	Yeah .	components, materials and energy sources
+D	986.65	If it creates something more complex or more expensive , then I don't know if that makes it uh a marketing necessity .	components, materials and energy sources
+D	993.86	But again , from a marketing perspective I want as much new and different about this thing as possible because we're we're co it's a very competitive market .	components, materials and energy sources
+A	1002.57	What I understand about scroll wheels is they're they're quite expensive to to make .	components, materials and energy sources
+B	1005.6	Yeah .	components, materials and energy sources
+B	1007.0	Th they are gonna be more expensive , but on the other hand , I mean , it I mean it is an alternative if if you think that's gonna sell some some uh you know if if we're gonna make up the extra cost by extra sales I think maybe it's worth it to do it , but I mean I would just use if I was gonna do this I would just use the scroll wheel for s channels up and channels down .	components, materials and energy sources
+A	1007.06	So I d Well I d I like the idea of basically focusing the my personal preference is focusing the p the product on the idea of the uh the case the the uh dock to put it in to to charge it .	components, materials and energy sources
+B	1034.02	I don't think volume or do you think volume would be No we can we can do multiple scroll wheels but Mm-hmm .	components, materials and energy sources
+C	1038.55	I'll bet first in volume maybe .	components, materials and energy sources
+C	1040.08	I dunno .	components, materials and energy sources
+A	1061.03	We can target like environmentally friendly ideas , that sorta things .	components, materials and energy sources
+D	1064.11	Mm-hmm .	components, materials and energy sources
+A	1064.66	It s i m makes it easy to market , it's easy to differentiate the product , yeah so .	components, materials and energy sources
+D	1065.71	Yeah yeah .	components, materials and energy sources
+D	1066.56	I think it's that's right .	components, materials and energy sources
+D	1068.37	I think so .	components, materials and energy sources
+A	1069.67	And if we we keep the rest in a format that is durable because th th the whole product's gonna need to be more durable th thus because you're not going to be ditching it as often .	components, materials and energy sources
+A	1081.2	It's gonna need to be more expensive because of the cradle .	components, materials and energy sources
+D	1084.11	Mm .	components, materials and energy sources
+A	1084.88	So if we can market it in terms of that and yeah well So our big decision then is like how do we do um like we have to decide on the details and we have to decide on well n not exactly the details , but d do we have uh What type of casing ?	components, materials and energy sources
+D	1086.91	Yep .	components, materials and energy sources
+D	1087.65	I think we got some exclusivity in that , you know , we got something that nobody else has right now , and and that means we can we can make some adjustments in the retail or wholesale price if we need to and it also can create it's own demand from it's uniqueness .	components, materials and energy sources
+B	1090.95	Yeah .	components, materials and energy sources
+A	1115.47	I personally like what you were saying about the plastic with the rubber .	components, materials and energy sources
+B	1118.58	Mm-hmm .	components, materials and energy sources
+B	1119.15	I'm thinking yeah something like kinda almost like these pens , you know , where there's you have plastic bits and then it's not really rubber but just kinda like a fused the plastic with rubber on the outside .	components, materials and energy sources
+A	1131.14	Okay .	components, materials and energy sources
+A	1131.69	Just a very thin sorta sheet for a a grip , sorta thing or for Okay .	components, materials and energy sources
+B	1134.17	Well no ma yeah maybe a bit more then th is on here but ju just as a kind of an inspiration , these pens I think are are kind of Or from from my perspective I think L_C_D_ is a mistake because this is a universal remote and all you're doing I mean it's you're not gonna get any information back from the television , so the only information you can display on this remote is what channel you just sent it at last and there's just not a lot of information , you know , there .	components, materials and energy sources
+A	1144.4	So then if we d d do we want to do anything more basic with the uh more advanced with the user interface in terms of do we want to go for um buttons , or do we want if we're ditching the scroll wheels do we want to go L_C_D_ ?	components, materials and energy sources
+A	1163.56	Do we want to give do we want to have anything else on it ?	components, materials and energy sources
+C	1168.58	It's only a T_V_ .	components, materials and energy sources
+C	1190.73	Hmm .	components, materials and energy sources
+B	1190.78	It receives no information .	components, materials and energy sources
+A	1190.95	Okay .	components, materials and energy sources
+B	1194.68	So I I don't see any reason for having an L_C_D_ 'cause it's an increased cost .	components, materials and energy sources
+B	1200.21	Unless you can think of something interesting to do with it .	components, materials and energy sources
+D	1200.29	Yeah .	components, materials and energy sources
+D	1203.28	Yeah right now there's right now there's nothing coming out of the T_V_ to receive , so you know unless technology changes and information starts coming out of the a cable box or something there's no s I don't see the , I don't see the necessity of an L_C_D_ either .	components, materials and energy sources
+B	1207.39	Right .	components, materials and energy sources
+D	1220.74	Don't see it .	components, materials and energy sources
+A	1223.04	Okay so the question is now I guess we need t to decide on well y you guys basically have to now go and figure out the details of this thing .	discussion
+A	1235.94	So , what we need to know in terms of marketing and uh project management are are there any other questions that we need to answer now before you guys can go and build this ?	discussion
+A	1247.31	What what overall things have we not decided on ?	discussion
+B	1250.58	Well we have to I think for me it's still not exactly clear exactly what the inter user interface is gonna be .	discussion
+B	1256.44	There's the scroll wheel , in or out ?	discussion
+B	1259.41	What do you guys like in the user interface ?	discussion
+A	1262.31	I think maybe in terms of marketing , is that gonna make enough of a difference to justify the cost ?	discussion
+D	1264.58	Again .	discussion
+D	1265.91	Well I think it's it's the more uniqueness you can bring to the product , the easier it is , I believe , for me to market .	discussion
+D	1272.3	Uh again the push-buttons I I see are are everywhere .	discussion
+D	1277.71	And so we can go with the same thing , but we're gonna be com competing in a in a broader market than if we go with something unique .	discussion
+D	1284.92	You know the other thing I thought about was you know , do we go to something like this ?	look and usability
+D	1290.68	Make a remote that doesn't look like a remote .	look and usability
+D	1295.28	It's just another it's just a an idea , and I don't know I mean what I see one of the things one of the things you brought up in an earlier presentation is , when you got children , their their stuff gets inside the circuitry , they get dirty , they get messy with drinks and stuff .	look and usability
+B	1298.32	Well I dunno about like the flip-phone idea , because I think , as far as durability th it's not a big well maybe when it's closed .	look and usability
+B	1310.84	Mm-hmm .	look and usability
+D	1319.05	This And what I keep throwing out there I just keep throwing out ideas to try to make this thing look or act or in some way identify itself as unique or different .	look and usability
+B	1321.27	Mm-hmm .	look and usability
+C	1332.67	Mm-hmm .	look and usability
+D	1332.9	But you guys are the ones that have to c ultimately create the product within cost .	look and usability
+A	1336.88	Yeah and I guess th th the question th th that you're being asked right now is whether is the dock enough of a unique feature to be able to go out and sell that a a as a a very different product , or do we really need the scroll wheel as well ?	components, materials and energy sources
+A	1353.35	Because the scroll wheel comes at quite a cost .	components, materials and energy sources
+D	1353.35	Oh okay phew .	components, materials and energy sources
+B	1356.23	Yeah .	components, materials and energy sources
+D	1356.67	I think you gotta g get into cost effectiveness .	components, materials and energy sources
+D	1359.25	I think if you can have the base station with a with a locator , I think those are two very strong features , if that's something that can be integrated without a bunch of extra cost .	components, materials and energy sources
+B	1365.49	Well The The locator's gonna require a radio transmitter , which will Um we're probably gonna have to go with a like a medium chip , s I would imagine .	components, materials and energy sources
+D	1370.93	Mm-hmm .	components, materials and energy sources
+A	1372.74	That's gonna n is that gonna need a better chip as well ?	components, materials and energy sources
+C	1376.68	No it's just different .	components, materials and energy sources
+B	1383.62	But we I we will need a receiver , an antenna .	components, materials and energy sources
+D	1387.38	Integrated , yeah .	components, materials and energy sources
+B	1388.32	Yeah .	components, materials and energy sources
+D	1388.68	So it's just uh I I think that's I know personally that would be a very attractive feature , is to have a uh have a button I can push to find my remote control .	components, materials and energy sources
+B	1392.02	It should be a really simple signal though so That's true yeah .	components, materials and energy sources
+A	1402.62	And it's presumably gonna need a little speaker in it or something like that as well to beep .	components, materials and energy sources
+A	1409.99	But I guess a little tiny speaker is gonna be quite cheap , it's not gonna need q quality , is it ?	components, materials and energy sources
+B	1413.72	Oh yeah yeah .	components, materials and energy sources
+A	1414.39	It's Makes your living room more fresh as you watch .	components, materials and energy sources
+B	1414.91	It'll be really cheap .	components, materials and energy sources
+D	1416.93	Or maybe you can like have a a smell-o-rama , you know you push a button and it s puts out a stink .	components, materials and energy sources
+D	1422.26	You can Yeah yeah yeah yeah .	components, materials and energy sources
+C	1424.59	Maybe not .	components, materials and energy sources
+A	1430.1	Okay we're doing well for time here .	discussion
+C	1430.83	S Yeah .	discussion look and usability
+A	1431.88	Um we've got about another ten minutes .	discussion
+A	1434.43	I think that uh Mm pr my personal preference is out .	discussion look and usability
+B	1436.9	So the scroll wheel , in or out ?	look and usability
+A	1443.76	I don't think the cost is justified for a little bit more uniqueness when we already have that , and I don't s think it's obvious and natural how it would be used .	look and usability
+C	1451.14	Yeah I think we have like and it's not very usable and it will bring down the robustness of the whole thing , 'cause it's it it breaks down easier .	look and usability
+A	1456.8	Mm .	look and usability
+D	1457.28	Yeah .	look and usability
+B	1458.92	For me I think the scroll wheel actually might not be so bad .	look and usability
+B	1461.66	I don't know exactly what the increased cost is gonna be , but I think he does have a point , i it might push somebody over the edge when they're looking at our at our remote versus something else , when they see this one has a scroll wheel to go up and down on the channels .	look and usability
+B	1474.89	I think it might be kinda neat to be able to do it like that .	look and usability
+A	1479.59	But then that that surely d depends a little on the T_V_ because some T_V_s are quite slow at changing channels from like so if you've got a scroll wheel and you s you have to scroll scroll it really really slowly just so that you're actually keeping in pace with the T_V_'s ability to to change channels .	look and usability
+D	1479.7	W Yeah .	look and usability
+B	1485.52	Sure .	look and usability
+A	1495.15	Or do you have to go through and you wait for it ?	look and usability
+A	1497.91	You scroll it a bunch of times and you wait for it to Mm .	look and usability
+B	1499.57	Well I think wh what it would be is like like the m like this , where it's maybe you know a digital wheel , right , where it's where it's quantized into you know certain That was that was my my intuition of what the scroll wheel would be .	look and usability
+D	1509.99	Oh yeah .	look and usability
+A	1510.63	Uh I see I see .	look and usability
+A	1511.3	That's where you Ah I see I see what you're talking about now .	look and usability
+D	1511.94	Yeah .	look and usability
+A	1516.16	Okay .	look and usability
+B	1520.69	It's just it's basically it it's just a f look and feel thing .	look and usability
+B	1523.84	It has the same exact functionality as two buttons .	look and usability
+D	1526.16	I I think there's you know that uh there are so many people today that are that are surfing are television surfers , and I see the scroll as a as a great mechanism for surfing .	look and usability
+D	1537.11	Instead of going button-to-bu you just j you'd j j j j j j .	look and usability
+A	1537.28	Yeah if you're just sitting there going That's kinda cool actually .	look and usability
+B	1540.87	Yeah .	look and usability
+D	1541.28	I really I really think that's a really cool thing for surfing .	look and usability
+A	1542.97	I like that .	look and usability
+B	1545.17	Now just just so you know though uh you did bring up a point which is very valid , is a lot of T_V_s won't re the T_V_s won't respond exactly the same .	look and usability
+B	1552.47	Some of them are gonna be kinda slow switching , so you may like queue up like fifteen channel changes , and it'll be like flip , flip , flip .	look and usability
+D	1561.01	Well there's ano That's right .	look and usability
+B	1561.6	But Right .	look and usability
+A	1561.72	Well not n necessarily .	look and usability
+A	1562.99	You could basically make it so that it'll I mean it's just gonna be sending a signal to the T_V_ yeah the T_V_'s ge so if you send about five flip channels , if you did that it's gonna flip once .	look and usability
+A	1572.46	If you do that .	look and usability
+B	1572.47	Yeah it just might be frustrating where you can't make it go as fast as you want , but I think once people get used to it I I do like the idea of the scroll wheel though .	look and usability
+A	1574.26	Other than click click click .	look and usability
+A	1576.2	Yeah .	look and usability
+A	1580.05	And if we're marketing it as a high niche product , then we're gonna be selling it to people who are buying good T_V_s as well , yeah , presumably .	look and usability
+C	1585.48	Mm-hmm .	look and usability
+D	1586.75	Yeah I think so .	look and usability
+A	1587.33	Primarily .	look and usability
+D	1588.04	I I think so .	look and usability
+C	1588.29	Yep .	look and usability
+D	1589.15	Now the the only thing I I on the interface side of it , is that I I I see the dilemma .	look and usability
+D	1596.97	But if we have the option of of scrolling at any particular speed , or the option of jumping direct , okay .	look and usability
+A	1606.24	Mm-hmm .	look and usability
+D	1606.37	So I can go uh presuming I have , on my television , something that tells me what channel I'm on , I can scroll direct from channel five to channel thirty two .	look and usability
+D	1619.62	I know what because it's on the television .	look and usability
+D	1621.38	The television tells me what channel it's on when I change it .	look and usability
+D	1624.1	So I don't know that really that's that's gonna be a a d problem , 'cause the television can go automatically from channel five to channel thirty two with the push of a button .	look and usability
+A	1633.95	Mm-hmm .	look and usability
+D	1634.36	Okay ?	look and usability
+D	1635.11	So ca can we can we create that kind of interface within a scroll system ?	look and usability
+D	1639.22	You understand what I'm saying ?	look and usability
+B	1640.29	I think I know what you might be getting at , or or Well , what about this what about if you can programme in your favourite channels into this scroll wheel and you can just like roll through your favourite channels , and it c it Why ?	look and usability
+A	1642.29	Oh I see so if maybe if we had an L_C_D_ up the top that just did a number on it , right ?	look and usability
+D	1647.15	Oh no we could read it from the television .	look and usability
+A	1647.17	And then it that basically Mm .	look and usability
+A	1657.51	Well that's quite cool .	look and usability
+A	1658.31	You'd need a display on the th the thing .	look and usability
+B	1660.67	It'll tell you when you flip the channel on the T_V_ .	look and usability
+D	1661.75	Yeah the the television can tell you .	look and usability
+B	1663.43	Yeah .	look and usability
+D	1664.1	Can .	look and usability
+A	1665.11	Oh yeah yeah no I see what you're talking about .	look and usability
+A	1666.64	Yeah that's kinda cool .	look and usability
+A	1667.76	How would you program it though ?	look and usability
+B	1668.96	Well you just it's one extra button .	look and usability
+B	1670.27	You say programme start , and then type in 'cause you still have the typing you know you'll still have the keypad where you can type 'em in manually .	look and usability
+D	1670.38	Put And then .	look and usability
+A	1676.47	Okay okay .	look and usability
+B	1677.51	So programme start , zero , one , enter , zero , five , enter , thirty eight , enter , programme end .	look and usability
+A	1685.08	Okay and yeah and that just basically flips between it and it'll go it sends out zero , five , and then thirty six , and then zero , one again .	look and usability
+B	1688.22	Mm-hmm .	look and usability
+B	1691.4	Mm-hmm .	look and usability
+A	1692.32	Yeah that's kinda cool .	look and usability
+A	1693.28	I like that .	look and usability
+D	1695.06	And again we have another another great marketing tool .	look and usability
+D	1697.81	We have about three we have three or four things here .	look and usability
+A	1699.51	That's not gonna be too expensive because that's gonna be you're gonna be able to nab that off of computer mouse manufacturers really .	look and usability
+B	1706.42	Mm-hmm .	look and usability
+A	1706.68	You could basically come up with a partnership to be able to produce that quite cheaply .	look and usability
+D	1710.94	I dunno and an maybe we maybe even have this as in-house technology .	look and usability
+C	1711.37	Yeah .	look and usability
+D	1714.31	This may be something that's available through our own uh through our own services .	look and usability
+A	1717.99	Might be , but tha that's not gonna be such a costly feature .	look and usability
+A	1721.49	The problem we're gonna have is making it robust .	look and usability
+B	1724.42	Oh well we also have to determine in some manner how to switch between modes , between going through your favourites list and just hitting up one , up two .	look and usability
+A	1724.83	Making it last .	look and usability
+D	1732.58	Or we go directional up we go we go this we go this we go this way for one , we go this way for the other .	look and usability
+A	1734.75	So if there's a button for each type .	look and usability
+B	1739.32	No because you wanna be able to go up and down through the channels .	look and usability
+A	1741.56	Yeah people are gonna have their favourite sorta , whether they do that or whether they Yeah yeah the mode switch .	look and usability
+D	1742.26	Ah-ha okay .	look and usability
+D	1743.36	Okay , okay , well then you just have , you have a diff you have a mode switch .	look and usability
+B	1744.99	Right .	look and usability
+B	1746.32	I think we'll need a we'll need a mode switch , but then if we have a mode switch we're gonna need some kinda indicator to which , an L_E_ an L_E_D_ okay .	look and usability
+A	1752.47	Just the lights behind the buttons .	look and usability
+A	1753.88	You could have back-lit buttons maybe .	look and usability
+A	1756.98	Would that work ?	look and usability
+C	1757.07	Yeah .	look and usability
+A	1758.45	Is that okay we have five minutes .	look and usability discussion
+B	1758.55	Okay .	discussion
+A	1760.72	So right details th that we've talked about here are that we want a scroll wheel .	discussion
+A	1768.41	We want a mode indicator .	discussion
+A	1774.85	We want back-lit buttons .	discussion
+A	1780.24	And if we're making back-lit buttons period , do we want that just for the mode indicator or maybe to indicate what button you're pressing at the time , so that you know if it's actually pressed or not .	discussion
+A	1787.88	I've seen some remotes do that .	discussion
+B	1789.8	Okay .	costing
+B	1790.45	Just so you know I think I mean it was my understanding that before we were gonna stay in the mid-market range .	costing
+B	1795.79	It seems we're kind of approaching a higher-end range .	costing
+D	1799.12	Yeah yeah .	costing
+A	1799.48	I think we are yeah .	costing
+B	1799.55	I wanna make sure everybody's okay with that .	costing
+D	1800.61	Well you had acknowledged that we have more money for this .	costing
+A	1803.14	Yeah well we don't have it's not that we have more money , we can push up the the price .	costing
+D	1803.17	Didn't you say so ?	costing
+D	1807.7	That's what I mean .	costing
+D	1808.39	We can increase the cost .	costing
+A	1808.57	Yeah .	costing
+B	1809.62	Okay .	costing
+D	1810.76	So I don't know I don't know whether having Well I think th I think the design and technology has to come back and say , okay to create this product we see it's gonna cost us this much for this volume , because we do have a volume target of of fifty million profit .	costing
+A	1810.8	'Kay .	costing
+B	1812.09	I just wanna make sure everybody's on board with it .	costing
+B	1814.35	So Right .	costing
+A	1814.37	Yeah .	costing
+A	1816.88	So we really need to be sure as to what we can push the cost up to , though we haven't got to a stage where we're ready to pin down the price of components .	costing
+A	1823.24	But I'd say what sorta price are we looking to be able to sell something like that , and what sorta price can we make it for ?	costing
+A	1840.29	Yeah no I I think that's where we really should be more flexible than anything else because as we said in the last meeting , our management is really looking for us to push our brand .	costing
+A	1848.02	We're entering a new market here , so I think the the profit expectation for this one product is maybe not as important as being able to But th what's our ballpark as to what we'd be able to sell something like this for ?	costing
+D	1855.51	Okay I'm I'm okay with that .	costing
+D	1856.74	I guess what I just want to me the next step is for these guys to come come in with the design proposal w with the cost estimate attached , and then we have to take this to the next level .	costing
+B	1869.22	Well y yeah .	costing
+B	1869.63	Let's let's try and think now , how much would you pay for with all these features how much would you pay if you went to the store , and you were in the market f to replace your T_V_ remote , how much would you pay for that ?	costing
+D	1870.36	We have to find cost .	costing
+A	1880.94	But you've gotta think who our target market is because I I'm not our target market .	costing
+B	1882.65	I'm just asking you .	costing
+A	1884.48	I'm a student , but on the other hand I would think , mm with my Project Manager salary , I would think yeah I could probably afford this uh would I buy it ?	costing
+B	1886.71	If Then you could probably afford this .	costing
+A	1898.62	Maybe .	costing
+A	1899.01	If I had a cool new T_V_ and this was r looking really slick and it had the dock and it had the scroll wheel , which I think's a really cool idea , that would sell me on it a little .	costing
+A	1906.59	Then maybe you know .	costing
+A	1909.07	I do I don't think I'd go over a hundred Euro certainly , that would be way too much , but the I would be happy paying over forty for it , I guess , but not much 'Kay .	costing
+B	1911.51	Oh no no .	costing
+B	1918.23	I would say thirty five to forty .	costing
+D	1920.08	Yeah , I was gonna say thirty five to fifty .	costing
+A	1923.26	Thirty five to fifty Euros is our sales bracket okay .	costing
+B	1925.94	Okay .	costing
+A	1926.11	So the question is what we ca we make it for .	costing
+D	1926.15	Because one of th one of the things we're marketing about this product is that this is the last one you will ever need to buy for your television .	costing
+B	1931.57	Right .	costing
+A	1931.88	Mm .	costing
+D	1932.32	It's one of the marketing features in this .	costing
+A	1934.3	That's why the scroll needs to be really robust .	costing
+C	1936.69	Okay so we'll come up with something between thirty five and fifty that is rug rubber , robust , with scroll wheel , with the new facilities of the scroll wheel like favourite stuff , favourite channels , and and with a cradle , and yeah and the locator .	discussion
+D	1949.93	Mm-hmm .	discussion
+B	1950.0	With a cradle , radio transmitters , and back-lit buttons .	discussion
+B	1954.78	And it's gonna look sexy .	discussion
+C	1957.26	Or not .	discussion
+B	1957.99	Or not .	discussion
+B	1958.91	It might look like clay .	discussion
+C	1960.07	Okay so you can market pe depending on that ?	discussion
+D	1962.16	Yeah yeah .	discussion
+D	1963.1	Bas th that's that's easy .	discussion
+D	1965.08	That's that's not a , it's a .	discussion
+D	1968.6	'Cause we have about six , six , seven features in that alone .	discussion
+A	1973.94	Yep .	discussion
+D	1974.36	Under the title of uniquenesses .	discussion
+C	1974.4	Cool .	discussion
+C	1976.34	Hmm .	discussion
+A	1977.35	Okay .	closing
+A	1977.8	The next meeting starts in thirty minutes , although does it ?	closing
+A	1980.61	It starts at three twenty one , the next meeting .	closing
+A	1984.45	So we've got more than a thirty minutes .	closing
+A	1986.5	Um we've got more like fifty .	closing
+D	1988.28	Well I have Is my three twenty one is the next meeting ?	closing
+A	1992.21	The the ne next meeting is three twenty one yeah .	closing
+D	1994.36	That's that's almost uh fifty minutes .	closing
+A	1997.33	Yeah that is .	closing
+A	1998.62	Uh they've they've changed the times from the presentations .	closing
+D	1999.51	You guys can You guys you guys can uh create a All kinds of things .	closing
+B	2005.14	Probably .	closing
+B	2005.67	We'll let you know when we're done , if we can go earlier .	closing
+D	2008.85	Thanks , yeah .	closing
+A	2009.4	Okay so you guys will be getting your modelling done now and uh Okay are there any other questions with regards to what this thing's gonna do , look like , how it's gonna work that need to be addressed before we really look at this in a lot of detail ?	closing
+B	2013.36	Yeah .	closing
+B	2028.18	I don't think so .	closing
+B	2029.44	If we have any questions we'll just email you I guess .	closing
+A	2032.12	Okay .	closing
+C	2034.01	Yeah I think it pretty much everything's covered .	closing
+A	2036.5	Okay .	closing
+A	2037.8	This one was quite easy .	closing
+C	2040.04	Coulda been worse .	closing
+D	2041.88	Still .	closing
+A	2041.92	Always the optimist .	closing
+C	2042.95	Yes I am .	closing
+A	2043.46	'Kay thanks guys .	closing
+D	2045.11	Thank you .	closing
+D	2047.29	I don't have any emails .	closing
+D	2048.49	This means I can go home .	closing
+D	2054.08	Oh , we all leave .	closing

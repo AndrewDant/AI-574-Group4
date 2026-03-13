@@ -1,0 +1,854 @@
+B	2.41	Okay we all all set ?	opening
+B	5.7	Right .	opening
+B	6.76	Well this is the uh final detailed design meeting .	opening
+B	10.67	Um we're gonna discuss the look and feel design , the user interface design , and we're gonna evaluate the product .	opening
+B	18.22	And the end result of this meeting has to be a decision on the details of this remote control , like absolute final decision , um and then I'm gonna have to specify the final design in the final report .	opening
+B	31.0	So um just from from last time to recap , we said we were gonna have a snowman shaped remote control with no L_C_D_ display , no need for talk-back , it was hopefully gonna be kinetic power and battery uh with rubber buttons , maybe backlighting the buttons with some internal L_E_D_s to shine through the casing , um hopefully a jog-dial , and incorporating the slogan somewhere as well .	opening
+B	58.27	Anything I've missed ?	opening
+A	59.26	No .	presentation of prototype
+B	59.8	Okay um so uh if you want to present your prototype go ahead .	opening
+D	70.11	Uh-oh .	presentation of prototype
+D	70.86	This is it ?	presentation of prototype
+A	71.75	Ninja Homer , made in Japan .	presentation of prototype
+D	74.7	Um , there are a few changes we've made .	presentation of prototype
+D	76.8	Um , well look at the expense sheet , and uh it turned to be quite a lot expensive to have open up and have lots of buttons and stuff inside , so instead we've um this is gonna be an L_C_D_ screen , um just a a very very basic one , very small um with access to the menu through the the scroll wheel and uh confirm um button .	presentation of prototype
+B	76.93	Okay .	presentation of prototype
+B	79.57	Mm .	presentation of prototype
+B	84.93	Mm-hmm .	presentation of prototype
+C	98.46	Mm 'kay .	presentation of prototype
+D	98.63	Uh , apart from that , it's just pretty much the same as we discussed last time .	presentation of prototype
+A	101.92	And there isn't uh d it doesn't open up to the advanced functions ?	presentation of prototype
+A	106.23	So the advanced functions are still hidden from you , but they're hidden in the sense that um they're not in use .	presentation of prototype
+C	111.8	Where are they ?	presentation of prototype
+A	112.76	Um they're in the L_C_D_ panel and the jog-dial ?	presentation of prototype
+C	114.85	Ah , right .	presentation of prototype
+A	115.76	Okay 'cause The L_C_D_ panel just displays um functionally what you're doing .	presentation of prototype
+C	115.84	Great .	presentation of prototype
+B	116.08	So w what kind of thing uh is gonna be Mm-hmm .	presentation of prototype
+A	121.31	If you're using an advanced function right , like um c brightness , contrast , whatever , it will just say You know it's like it only has four columns , it's a very simple L_C_D_ like , whereas many the minimum amount we need that the user will automatically know like this is brightness or this is contrast .	presentation of prototype
+C	121.54	Right .	presentation of prototype
+C	125.94	Okay .	presentation of prototype
+C	131.4	Right .	presentation of prototype
+C	136.76	Right , 'kay .	presentation of prototype
+B	137.24	Okay cool .	presentation of prototype
+A	137.92	It might even be one , a bit more complex L_C_D_ panel with pictures like maybe the sun or the , you know , the the symbols of the various functions .	presentation of prototype
+C	140.72	Okay .	presentation of prototype
+C	145.77	Mm-hmm , and what is this here ?	presentation of prototype
+B	146.11	Oh right okay .	presentation of prototype
+B	147.44	Cool .	presentation of prototype
+A	148.82	That's a number pad .	presentation of prototype
+C	149.7	Okay so the number pad is 'Kay , great .	presentation of prototype
+B	151.6	Where are we gonna have the slogan ?	presentation of prototype
+A	154.18	Um they're al along this Yeah .	presentation of prototype
+D	154.79	You know , just like right inside there .	presentation of prototype
+B	157.49	Okay cool .	presentation of prototype
+A	158.4	You have this space here , and then you have this thing on the side as well , or at the bottom .	presentation of prototype
+B	164.1	Okay .	presentation of prototype
+A	164.2	'Cause slogans are usually quite small , right , they're not like huge so they're s Say a button's about say a button's about this size , right , so you would still have plenty of space for a slogan , say even for that .	presentation of prototype
+C	166.39	Mm .	presentation of prototype
+C	168.79	Yep .	presentation of prototype
+B	170.93	Okay .	presentation of prototype
+C	171.02	Looks good .	presentation of prototype
+C	173.65	Yep .	presentation of prototype
+C	175.07	Mm-hmm .	presentation of prototype
+B	176.44	So if this isn't to scale , what kind of dimensions are you thinking about here ?	presentation of prototype
+D	182.85	Well we want the other buttons to be big enough to push easily with a finger so we reckon maybe that'll be about the same size as the palm of your hand .	presentation of prototype
+B	185.42	Mm-hmm .	presentation of prototype
+C	189.4	Okay .	presentation of prototype
+A	190.39	Yep so that would be about a centimetre for a button , so one two three four centimetres .	presentation of prototype
+A	199.37	Plus maybe half o five six seven eight , about yeah nine total .	presentation of prototype
+C	200.85	Mm-hmm .	presentation of prototype
+C	202.44	About nine in total .	presentation of prototype
+B	203.12	Six , seven , eight , nine , ten .	presentation of prototype
+B	205.42	So we're talking about ten centimetres .	presentation of prototype
+C	205.99	That sounds good .	presentation of prototype
+C	206.97	Yeah .	presentation of prototype
+B	208.38	That would be good .	presentation of prototype
+C	208.76	Yep .	presentation of prototype
+B	209.09	So ten centimetres in height .	presentation of prototype
+A	209.73	Nine , ten .	presentation of prototype
+A	211.12	Yep .	presentation of prototype
+B	211.36	Okay um .	presentation of prototype
+C	215.19	That'd be good , in fact a pen is about ten centimetres usually , so that would be that sounds like a really good size , if you see it there .	presentation of prototype
+B	220.61	Yeah .	presentation of prototype
+B	222.23	That's great and it's very bright as well .	presentation of prototype
+C	224.24	Mm .	presentation of prototype
+B	224.42	So um okay .	presentation of prototype
+C	225.98	Is it possible uh I'm just gonna bring up the idea of colours .	presentation of prototype
+C	230.09	Is these are these the colours that of production , or is this just what we had available ?	presentation of prototype
+D	232.43	Well I'm We're gonna have again the the sort of the foggy um yellow from last time that lit up when you pushed the button .	presentation of prototype
+C	240.24	Right .	presentation of prototype
+D	240.86	Um But um this button um , because it's red it's sort of very prominent , we're gonna use it as uh it can be the power button if you hold it for maybe two seconds it'll send a stand-by signal .	presentation of prototype
+B	240.91	Okay so just could you just list all the things that it does s so I can write them in the report .	presentation of prototype
+B	256.26	Mm-hmm .	presentation of prototype
+D	258.68	Um apart from that it's gonna be used as a confirm button for the L_C_D_ screen and you use this as a jog-dial .	presentation of prototype
+A	259.32	Excuse me .	presentation of prototype
+A	259.89	Sure .	presentation of prototype
+B	262.0	Okay .	presentation of prototype
+B	264.3	Okay so that's like an okay button , right .	presentation of prototype
+C	267.49	Mm-hmm .	presentation of prototype
+A	268.09	Oh we've discussed how h high it is , but how wide is it ?	presentation of prototype
+D	268.67	I don't know .	presentation of prototype
+B	272.68	Okay .	presentation of prototype
+C	273.12	How high is it ?	presentation of prototype
+A	274.02	No as in the height , but what about the width ?	presentation of prototype
+C	275.28	Yeah .	presentation of prototype
+D	277.25	Didn't put five centimetres .	presentation of prototype
+B	277.35	Oh oh like depth of the actual thing .	presentation of prototype
+A	279.14	Do we need five ?	presentation of prototype
+A	279.9	I don't think five is be about th three and a half .	presentation of prototype
+D	280.24	Um .	presentation of prototype
+C	283.11	Okay .	presentation of prototype
+D	284.26	Something by there .	presentation of prototype
+B	284.28	Oh is this k to get an idea of scale from your from your thing there okay .	presentation of prototype
+A	285.93	Yeah , yeah .	presentation of prototype
+C	286.77	Sure .	presentation of prototype
+B	289.2	So you can power on and off , what else can you do ?	presentation of prototype
+C	290.57	Three and a half .	presentation of prototype
+D	291.94	Um you can skip straight to a channel using these buttons .	presentation of prototype
+B	294.34	Okay .	presentation of prototype
+D	300.99	Um , were gonna have the volume control here , but um because we've got the the L_C_D_ and the jog-dial we just thought we'd um use that as the volume .	presentation of prototype
+B	308.08	Okay jog-dial for volume .	presentation of prototype
+B	312.01	And what else do you do with the jog-dial ?	presentation of prototype
+C	312.12	Mm-hmm .	presentation of prototype
+D	314.2	Um you can use it for um more advanced functions like contrast , colour and Um yeah .	presentation of prototype
+B	318.84	Contrast , brightness , yeah , and anything else ?	presentation of prototype
+D	324.79	Um just whatever else we wanted to include as the advanced functions , um we didn't actually go through and specify the Uh what can a T_V_ do ?	presentation of prototype
+B	330.57	Well of the designers what are they ?	presentation of prototype
+A	335.83	Okay things like um brightness , contrast , um maybe tuning the channels .	presentation of prototype
+B	338.31	Uh-huh .	presentation of prototype
+B	342.18	Okay channel tuning .	presentation of prototype
+A	342.9	Um .	presentation of prototype
+B	343.81	That's a good one .	presentation of prototype
+A	345.08	What else ?	presentation of prototype
+A	345.42	Um the various inputs .	presentation of prototype
+A	346.37	Are you having a V_C_R_ , are you having you know which input do you have ?	presentation of prototype
+C	347.41	Mm-hmm , mm-hmm .	presentation of prototype
+B	349.43	Okay auxiliary inputs .	presentation of prototype
+C	350.26	Mm-hmm , probably colour or sharpness .	presentation of prototype
+A	350.88	Um .	presentation of prototype
+A	353.06	Yep , colour , sharpness .	presentation of prototype
+B	354.57	Sharpness .	presentation of prototype
+A	354.99	Um a lot of these things will have to be um free and open for users to define them .	presentation of prototype
+C	360.06	Mm-hmm .	presentation of prototype
+B	360.15	Okay what about uh sound settings ?	presentation of prototype
+B	362.85	Uh d can you change any of those at all ?	presentation of prototype
+C	364.63	Audio .	presentation of prototype
+A	365.19	Audio , we have like your basic y your base , your mid-range , your high range .	presentation of prototype
+D	366.83	Um .	presentation of prototype
+A	371.3	Um .	presentation of prototype
+D	371.92	the the balance hmm .	presentation of prototype
+A	373.4	Yep , left-right balance , um maybe even pre-programmed sound modes , like um the user could determine like a series of sound modes , and then what could happen would be um when you click on that then it would go to that setting .	presentation of prototype
+B	378.48	Okay .	presentation of prototype
+C	383.86	Mm-hmm .	presentation of prototype
+B	388.79	Okay , is there anything else at all it can do ?	presentation of prototype
+C	388.95	Mm 'kay .	presentation of prototype
+A	389.74	Yeah .	presentation of prototype
+B	393.44	That 'cause that's that's fine .	presentation of prototype
+B	394.67	Just need to know so I can write it down .	presentation of prototype
+B	397.13	Okay um right I g I guess that's it , so we can now um We can now have a little look at the the Excel sheet and price listing , and see if we need to um if we need to rethink anything at all .	presentation of prototype costing
+D	413.42	Mm-hmm .	costing
+B	417.56	So um for this first part here power-wise , have we got battery ?	costing
+A	421.58	The battery .	costing
+B	423.2	Do we have kinetic as well ?	costing
+A	424.42	No .	costing
+B	424.94	No .	costing
+B	425.61	Okay , just battery .	costing
+A	426.39	Um .	costing
+A	430.48	We need an Yep .	costing
+B	431.02	And that's because of cost restraints is it ?	costing
+D	432.69	Yeah .	costing
+B	433.02	Okay um what about the electronics here ?	costing
+A	433.96	Yeah advanced chip .	costing
+A	435.94	We need an advanced chip I think , yep .	costing
+B	435.99	Advanced chip .	costing
+A	437.87	Let me just confirm that .	costing
+A	439.79	Yes I think so .	costing
+A	446.55	Yep .	costing
+B	449.08	Okay um the case , what does it mean by single and double , do you know ?	costing
+D	452.96	Um I think single would just be sort of one sort of oval whereas double is this sort of thing .	costing
+A	456.85	Yeah .	costing
+B	456.85	So we want double-curved ?	costing
+A	458.07	Yep .	costing
+B	458.53	Okay .	costing
+B	460.87	Um .	costing
+A	461.72	Plastic .	costing
+B	464.6	Is there any rubber at all in the buttons or any Okay , um and we wanted special colours didn't we ?	costing
+A	466.19	I think we're gonna have to skip the rubber .	costing
+A	468.84	Um .	costing
+A	471.53	Yep .	costing
+B	471.93	So I'll have to put that Oh no wait we ho how many colours have we got there ?	costing
+A	475.97	For the case itself , one colour .	costing
+A	478.28	It's one special colour .	costing
+B	479.25	Just one colour , okay .	costing
+A	480.56	'Cause the case unit itself , the rest of our components go on top of it .	costing
+B	482.4	Okay so interface-wise , is it this third option we have , the two of them there ?	costing
+C	482.76	Mm .	costing
+A	485.65	Yes .	costing
+A	487.22	One and the L_C_ display .	costing
+B	490.15	Okay and then buttons , we have what , two colours ?	costing
+A	493.68	How many We've got push buttons as well .	costing
+D	494.84	Um we have um got some push buttons as well .	costing
+C	497.15	Or even clear .	costing
+B	503.04	Like uh oh wait so push button and integrated scroll wheel push okay .	costing
+D	503.47	'Kay .	costing
+D	506.6	So I reckon we've got one button for this thing 'cause it's just one big sheet of rubber .	costing
+B	509.59	Uh-huh .	costing
+D	510.63	I'm not sure if that counts but You can see we're we're all very far beyond the Well we could take out ones by making it single curved , just fill in those bits .	costing adapting design to budget restrictions
+B	512.87	Okay .	costing
+A	513.03	Okay let's just be safe and put like say four buttons for that one .	costing
+B	516.74	Okay .	costing
+A	517.76	Okay um and maybe a special colour for the buttons , so maybe four again .	costing
+B	523.59	Four .	costing
+B	524.78	So w why are we arriving at the number four ?	costing
+B	527.51	Where does the number four come from ?	costing
+A	528.82	'Cause that's one button by its the complexity of twelve buttons .	costing
+B	532.53	Okay right , so we're writing down four .	costing
+A	534.09	So we're just estimating that yeah it would be less .	costing
+B	536.76	Okay .	costing
+B	539.58	How about these ?	costing
+B	540.23	Are we wanting them in no they're just is everything gonna be plastic ?	costing
+A	541.33	No .	costing
+A	543.48	Yep .	costing
+A	544.41	Yep .	costing
+B	544.62	Okay .	costing
+B	545.54	So we're w w quite far over .	adapting design to budget restrictions
+B	549.08	Now we're gonna something's gonna have to go .	adapting design to budget restrictions
+B	551.27	Um we're at sixteen point eight and Well we h something has to go to the tune of two point t three Euro , so let me see , what are we I mean oh yes sorry , four point three .	adapting design to budget restrictions
+C	554.17	Uh how mm-hmm how are we going to achieve this high-end product if We only have very sparse Two point three ?	adapting design to budget restrictions
+C	569.66	Four point three no ?	adapting design to budget restrictions
+B	572.77	My maths is all out .	adapting design to budget restrictions
+B	578.66	Yeah .	adapting design to budget restrictions
+C	579.33	And then where is the Mm-hmm .	adapting design to budget restrictions
+A	579.67	How much would that save us ?	adapting design to budget restrictions
+B	580.6	How much would that save us ?	adapting design to budget restrictions
+A	581.33	That will only save you one .	adapting design to budget restrictions
+D	581.75	That is one .	adapting design to budget restrictions
+B	582.46	One .	adapting design to budget restrictions
+A	582.78	The other thing could be that um you could take away the L_C_D_ panel and the advanced chip together , um because when you do something on the T_V_ , the T_V_ responds and reacts as well , so the user could be looking at the T_V_ and pushing his thing so we may not need to so when we scroll we need just some way to get the T_V_ to respond , which I think is a technically doable thing so Yep .	adapting design to budget restrictions
+D	597.14	That's fair enough , yeah .	adapting design to budget restrictions
+C	599.15	Mm-hmm .	adapting design to budget restrictions
+C	601.34	Mm-hmm .	adapting design to budget restrictions
+B	602.97	Okay so So w what's our reviewed suggestion ?	adapting design to budget restrictions
+C	603.13	Mm-hmm .	adapting design to budget restrictions
+C	605.22	Mm-hmm .	adapting design to budget restrictions
+B	607.94	Um take away the L_C_ display ?	adapting design to budget restrictions
+A	612.69	And the advanced chip goes away as well .	adapting design to budget restrictions
+C	612.81	Mm-hmm .	adapting design to budget restrictions
+B	614.74	To be replaced with a regular chip .	adapting design to budget restrictions
+A	616.6	Regular chip .	adapting design to budget restrictions
+A	618.46	Yep .	adapting design to budget restrictions
+C	621.84	Mm-hmm .	adapting design to budget restrictions
+B	621.85	Okay .	adapting design to budget restrictions
+A	622.12	So what that means is that um The twelve buttons that you see there .	adapting design to budget restrictions
+B	623.66	And so we've got point three to get rid of .	adapting design to budget restrictions
+B	626.53	Um and we ha where are the four the four push buttons are where exactly now ?	adapting design to budget restrictions
+B	633.87	Twelve buttons .	adapting design to budget restrictions
+D	635.3	That's um one piece of rubber but it's gonna have twelve button things underneath so Yeah w Um So I reckon Reckon that probably counts as a special form for the buttons .	adapting design to budget restrictions
+B	637.6	Yeah .	adapting design to budget restrictions
+A	638.2	Functionally you're gonna have to intercept So four is a good estimate for Yeah , so you can't actually cut It's like three times the number of buttons , four , eight , twelve .	adapting design to budget restrictions
+B	641.84	Do you think ?	adapting design to budget restrictions
+B	647.71	Like is is that one big button or is it twelve buttons , how can it be something in between ?	adapting design to budget restrictions
+A	653.07	It It needs to be more than one big button because if you open up your phone , underneath there's actually one button underneath , it's just that the panel itself is a single panel .	adapting design to budget restrictions
+C	658.82	Mm-hmm .	adapting design to budget restrictions
+B	659.54	Mm .	adapting design to budget restrictions
+C	663.67	Mm-hmm .	adapting design to budget restrictions
+B	663.86	Okay well we have point three to get rid of somewhere .	adapting design to budget restrictions
+A	668.08	We just report that it has to be over budget , or the colours , you could take away s colours for th for the buttons .	adapting design to budget restrictions
+B	668.19	Mm .	adapting design to budget restrictions
+B	672.26	No can do .	adapting design to budget restrictions
+C	674.83	Yeah we could just go with um Hmm .	adapting design to budget restrictions
+A	676.45	Normal coloured buttons .	adapting design to budget restrictions
+B	679.46	Well do you want colour differentiation here ?	adapting design to budget restrictions
+A	682.2	No that's not the button we're talking about .	adapting design to budget restrictions
+B	683.24	Oh yeah sorry yeah then .	adapting design to budget restrictions
+A	683.62	That's the buttons only refer to the pad so Should we take that off uh ?	adapting design to budget restrictions
+B	686.65	Right so Ah .	adapting design to budget restrictions
+A	692.39	Hey it's back to the original .	adapting design to budget restrictions
+B	692.44	That's it .	adapting design to budget restrictions
+A	694.55	Um so then these just become normal coloured buttons , so that might be some some way of cutting the cost .	adapting design to budget restrictions
+C	697.36	Mm-hmm .	adapting design to budget restrictions
+C	700.48	Mm .	adapting design to budget restrictions
+B	701.56	Okay , ach that's a shame .	adapting design to budget restrictions
+B	704.23	Um right , so take away that completely ?	adapting design to budget restrictions
+B	708.94	Ah .	adapting design to budget restrictions
+B	710.26	And now we're under budget .	adapting design to budget restrictions
+B	711.91	So we do have point five Euro to play with if we wanted .	adapting design to budget restrictions
+B	715.42	Um Doesn't say so .	adapting design to budget restrictions
+C	716.26	How about with embossing the logo , isn't that going to cost us some money ?	adapting design to budget restrictions
+C	721.06	Yeah .	adapting design to budget restrictions
+C	721.66	That's a freebie .	adapting design to budget restrictions
+A	724.36	Yeah .	adapting design to budget restrictions
+B	724.66	Yeah that's a good idea .	adapting design to budget restrictions
+B	727.43	Just one ?	adapting design to budget restrictions
+B	730.58	Does that mean that one button has a special form or Yeah okay .	adapting design to budget restrictions
+D	734.0	I think there's just one button so handy .	adapting design to budget restrictions
+B	737.67	Well well there we go .	adapting design to budget restrictions
+B	738.92	So I'm just gonna have to redraw this now .	adapting design to budget restrictions
+B	741.24	So we're not gonna have the L_C_D_ anymore , and we'll just gonna have an on t on the T_V_ it'll show you what you're doing , which I think is fair enough , and so this is gonna be one big thing here .	adapting design to budget restrictions
+B	753.01	Um .	adapting design to budget restrictions
+C	755.56	Was the goal in your in your prototype design that it be as low profile as possible ?	adapting design to budget restrictions
+A	762.26	What do you mean by profile ?	adapting design to budget restrictions
+D	762.65	Yeah .	adapting design to budget restrictions
+C	763.62	Sort of flat as possible .	adapting design to budget restrictions
+A	765.62	No .	adapting design to budget restrictions
+D	766.17	You see I envision it as being um quite deep sort of deep enough to be comfy to hold in your hands rather than being wide and flat .	adapting design to budget restrictions
+C	768.84	Yeah .	adapting design to budget restrictions
+C	770.55	Yeah that's what I was thinking , to Sure , okay .	adapting design to budget restrictions
+A	772.42	We didn't have enough Play-Doh to make it three D_ .	adapting design to budget restrictions
+C	774.2	Yeah alright yeah fair enough .	adapting design to budget restrictions
+C	776.09	Okay , just thought I'd ask .	adapting design to budget restrictions
+A	777.91	So there's one more dimension to the thing which we need to to add , and you might want to add in the report , length , width , and height .	adapting design to budget restrictions
+C	779.7	Mm-hmm .	adapting design to budget restrictions
+B	784.01	Right okay .	adapting design to budget restrictions
+A	785.24	Yeah .	adapting design to budget restrictions
+B	785.36	So just to well to be thorough then , width-wise we're looking at about what three centimetres or something ?	adapting design to budget restrictions
+A	792.36	Yeah .	adapting design to budget restrictions
+B	793.04	Okay and then so height-wise How how tall do you envisage it being ?	adapting design to budget restrictions
+C	794.83	Hmm .	adapting design to budget restrictions
+B	803.8	About that big ?	adapting design to budget restrictions
+D	804.05	Yeah it works , yeah .	adapting design to budget restrictions
+A	804.4	Two .	adapting design to budget restrictions
+B	805.0	About two centimetres , okay .	adapting design to budget restrictions
+C	807.14	Two's not very high at all though .	adapting design to budget restrictions
+C	809.29	Maybe a bit higher ?	adapting design to budget restrictions
+A	809.38	This is about this is about two .	adapting design to budget restrictions
+A	812.92	Slightly more than two , so Okay .	adapting design to budget restrictions
+D	813.63	See , about that thick .	adapting design to budget restrictions
+C	813.93	Yeah .	adapting design to budget restrictions
+B	815.37	Okay .	adapting design to budget restrictions
+C	815.59	Maybe closer to three even or two and a half .	adapting design to budget restrictions
+B	815.87	Ach , that is Yeah .	adapting design to budget restrictions
+B	818.04	Okay we'll s we'll say two point five .	adapting design to budget restrictions
+B	820.49	Okay um so we have it within cost anyway .	adapting design to budget restrictions
+B	825.65	Um so yeah project evaluation is this point .	adapting design to budget restrictions
+B	830.21	Um .	adapting design to budget restrictions
+C	831.55	Mm-hmm .	adapting design to budget restrictions
+B	832.83	Right uh .	adapting design to budget restrictions
+B	836.72	Okay so can we close that ?	adapting design to budget restrictions
+B	838.6	This is what it's the final spec that it's gonna be .	adapting design to budget restrictions
+C	841.48	Mm-hmm .	adapting design to budget restrictions
+B	841.7	Someone is gonna have to yeah that's fine that's fine .	adapting design to budget restrictions
+C	845.12	Um it's probably just I dunno if it's worth getting into , but um just in in that we want this to be stylish , should we think a little bit more out of the box in terms of a button grid , because I've seen there's lots of devices out there that that instead of taking your standard nine nine square grid , and they have it sort of stylized or in different concept that that Yeah .	adapting design to budget restrictions
+A	866.32	I think that's something that's very hard to catch , so you you restrict the number of people who wanna try something .	adapting design to budget restrictions
+C	872.38	Sure , okay .	adapting design to budget restrictions
+A	873.07	The the look and the colour is something which is cool , but I think that there's also that factor of if it's too unfamiliar then um because when you put it on the shelf Yeah button shape might be a good idea to change , rather than rather than positioning , 'cause I think positioning is we're kinda engrained into the the telephone kind of pad .	adapting design to budget restrictions
+C	875.4	Yeah , alright .	adapting design to budget restrictions
+C	878.95	Okay , sure .	adapting design to budget restrictions
+C	881.32	What about button shape ?	adapting design to budget restrictions
+C	882.37	Square buttons ?	adapting design to budget restrictions
+C	885.65	Okay .	adapting design to budget restrictions
+C	888.03	Yeah .	adapting design to budget restrictions
+C	889.91	Sure .	adapting design to budget restrictions
+D	892.25	Yeah .	adapting design to budget restrictions
+C	893.23	Yeah .	adapting design to budget restrictions
+B	894.68	Okay .	adapting design to budget restrictions
+B	896.33	Right um .	agenda/equipment issues
+B	899.3	So at this point we uh , let me see , discuss uh how satisfied we all are with um with these four points , with the room for creativity in the project , and leadership and teamwork , and the stuff we had around us I guess .	agenda/equipment issues
+C	917.01	Mm 'kay .	agenda/equipment issues
+B	918.55	Um , let me see uh Yeah I wasn't really sure what that was Yeah , yeah go for that first .	agenda/equipment issues
+C	923.41	Do you want me to d um Do you want me to do my um design evaluation last ?	agenda/equipment issues
+A	932.13	Maybe we should do the design evaluation first .	agenda/equipment issues
+C	932.5	Or Evaluation .	agenda/equipment issues
+B	937.74	I wasn't entirely sure what uh who was supposed to be doing that , but y you go for it .	agenda/equipment issues
+C	939.93	Okay .	agenda/equipment issues
+C	941.3	Sure .	agenda/equipment issues
+C	942.91	Um , alright so the way this works , I'm gonna need to plug into PowerPoint , I'll try and do it as quick as possible .	agenda/equipment issues
+B	946.32	Okay .	agenda/equipment issues
+B	948.49	Okay .	agenda/equipment issues
+C	948.68	Um , this is um I'll just go over your head if that's okay .	agenda/equipment issues
+B	953.61	Yeah .	agenda/equipment issues
+A	954.85	I don't think you need the power , so No , that's okay that's okay .	agenda/equipment issues
+C	956.75	What's that ?	agenda/equipment issues
+C	958.95	I don't need the PowerPoint ?	agenda/equipment issues
+A	960.1	No , the power cord itself .	agenda/equipment issues
+C	961.8	Oh course , yeah that's true .	agenda/equipment issues
+A	962.48	Yeah , so then you have a bit more freedom to You you still have your blue fingers .	agenda/equipment issues
+C	963.47	Let me get that .	agenda/equipment issues
+C	964.9	A bit more .	agenda/equipment issues
+C	970.37	Okay , so what this is is a set-up for us to um uh use a kind of a like a The idea is that I've set up I've reviewed all of the um the points of discussion from the beginning , and used that as a criteria of evaluation for the um uh for the current design uh th or the plan , and uh so we can review that .	evaluation of target achievement agenda/equipment issues
+D	974.77	Is it ?	agenda/equipment issues
+A	976.06	You killed a monster .	agenda/equipment issues
+C	996.19	Uh I think it's gonna end up being sort of elementary because we're sort we're in n we're not gonna probably use it to change anything but Doesn't seem like it's going , does it ?	evaluation of target achievement
+B	1007.53	Oh there it is .	evaluation of target achievement
+C	1007.89	Yeah , okay great .	evaluation of target achievement
+C	1008.95	Uh and I'm gonna write up our results on the board , so this'll be a way for us to go through and decide if we're um sort of review where we stand with it .	evaluation of target achievement
+C	1017.49	Okay , so um So to sort of b bring together two things , sort of design goals and also the market research that we had , uh when we rate this , one is v high in in succeeding or fitting to our original aim and seven is low , okay .	evaluation of target achievement
+B	1034.12	Mm 'kay .	evaluation of target achievement
+C	1035.05	So these i these i th are the and um we've been asked to uh to collectively rate this , so what we can do is try and just y work on a consensus system so we just come to an agreement .	evaluation of target achievement
+B	1046.7	Okay .	evaluation of target achievement
+C	1047.27	Okay ?	evaluation of target achievement
+C	1047.88	So the first one uh , stylish look and feel .	evaluation of target achievement
+A	1052.71	I rate that pretty highly .	evaluation of target achievement
+B	1053.81	Well yeah , I mean compared to most remote controls you see that's pretty good .	evaluation of target achievement
+D	1053.91	Yeah .	evaluation of target achievement
+C	1055.15	Yeah .	evaluation of target achievement
+B	1057.64	I dunno like a six or something .	evaluation of target achievement
+C	1057.73	Yeah .	evaluation of target achievement
+C	1059.88	Yeah um me uh my only reservation with it was that we basically went with yellow because it's the company's colour , and I don't know if yellow's gonna really be a hit .	evaluation of target achievement
+B	1060.25	What does anybody else think ?	evaluation of target achievement
+B	1065.47	Mm .	evaluation of target achievement
+B	1068.53	Mm .	evaluation of target achievement
+C	1068.72	But What do you guys think ?	evaluation of target achievement
+B	1070.71	Okay .	evaluation of target achievement
+D	1071.49	I'm seeing five then .	evaluation of target achievement
+B	1074.03	I would say five or six .	evaluation of target achievement
+C	1075.75	Okay .	evaluation of target achievement
+B	1076.7	David ?	evaluation of target achievement
+A	1077.06	Yep I'm fine with that .	evaluation of target achievement
+C	1078.11	Okay let's go with five then .	evaluation of target achievement
+B	1079.86	Okay .	evaluation of target achievement
+C	1080.5	Fi oh uh just actually the opposite .	evaluation of target achievement
+A	1081.56	It's one to seven , right ?	evaluation of target achievement
+C	1083.14	The So it meant three , okay .	evaluation of target achievement
+B	1083.4	Oh yes sorry then , then I would say two or three .	evaluation of target achievement
+A	1088.36	Wait , what's the scale , one to seven , right ?	evaluation of target achievement
+D	1089.81	One's high-ish isn't it ?	evaluation of target achievement
+B	1090.05	Yeah .	evaluation of target achievement
+C	1090.29	Yeah , one is high .	evaluation of target achievement
+D	1092.03	Ah , okay so yeah , two or three .	evaluation of target achievement
+C	1095.01	'Kay Let's go with two point five then .	evaluation of target achievement
+A	1095.65	Okay , it's upside-down .	evaluation of target achievement
+C	1098.37	Okay , um control high tech innovation .	evaluation of target achievement
+B	1103.1	Well it has the wee jog-dial but Mm .	evaluation of target achievement
+C	1103.37	We had to remove Yeah , so we've had to remove a few of our features we wanted , but jog-dial 's good .	evaluation of target achievement
+B	1111.03	I'd go with three or four , maybe three .	evaluation of target achievement
+A	1111.14	Say it's more medium , but going towards a little bit higher than medium kind of thing .	evaluation of target achievement
+D	1112.05	Eight three .	evaluation of target achievement
+C	1116.23	Okay , three ?	evaluation of target achievement
+B	1116.9	Yeah about three , okay .	evaluation of target achievement
+A	1117.83	Yep .	evaluation of target achievement
+C	1118.63	Okay , um Style reflects a fruit inspired colour , design .	evaluation of target achievement
+C	1125.88	I shouldn't have said colour , but just Sorta .	evaluation of target achievement
+A	1126.03	Lemon .	evaluation of target achievement
+B	1127.49	Well that's kind of But the yellow , I mean it could be a lemon yellow colour , couldn't it ?	evaluation of target achievement
+A	1127.75	Okay , the blue the blue colours and don't re don't actually represent the colour , except for the b the the red button , they because for want of a Yeah , the the yellow is more representative of the colour , but the button itself , the blue can be anything else .	evaluation of target achievement
+D	1128.52	Yeah .	evaluation of target achievement
+C	1131.62	Yeah .	evaluation of target achievement
+C	1133.57	Okay .	evaluation of target achievement
+C	1135.21	Right .	evaluation of target achievement
+C	1136.35	Yeah , could be .	evaluation of target achievement
+C	1137.24	Yeah .	evaluation of target achievement
+C	1139.89	Okay .	evaluation of target achievement
+B	1140.24	Yeah .	evaluation of target achievement
+C	1142.07	Okay so we'll go two .	evaluation of target achievement
+B	1144.93	Mm-hmm .	evaluation of target achievement
+C	1145.46	Yeah ?	evaluation of target achievement
+C	1146.8	Okay , and um design is simple to use , simple in features .	evaluation of target achievement
+B	1151.95	Well yeah , I mean it's really basic looking isn't it ?	evaluation of target achievement
+C	1153.44	F f yeah f fairly basic , you guys think ?	evaluation of target achievement
+B	1154.13	I mean I'd give that nearly a one .	evaluation of target achievement
+D	1157.86	Yeah one .	evaluation of target achievement
+A	1158.52	Yep , that's fine .	evaluation of target achievement
+C	1158.84	Yeah , one ?	evaluation of target achievement
+C	1159.43	Okay .	evaluation of target achievement
+C	1161.86	Um , soft and spongy , have we achieved that ?	evaluation of target achievement
+C	1165.95	We've used mostly plastic in the end so it's going to be quite a bit of a compromise for price .	evaluation of target achievement
+D	1169.41	Yeah I think it's about five .	evaluation of target achievement
+C	1172.09	Five ?	evaluation of target achievement
+B	1174.07	Five ?	evaluation of target achievement
+B	1175.13	That's really low .	evaluation of target achievement
+D	1175.22	Yeah well we have to use uh plastic so it's probably gonna be I think I'd probably increase the cost .	evaluation of target achievement
+B	1176.23	Well Yeah I suppose mm 'kay .	evaluation of target achievement
+C	1177.91	That's Um could we have used an entirely rubber frame to it ?	evaluation of target achievement
+A	1181.6	Yeah , company logo .	evaluation of target achievement
+C	1185.0	Was that an option ?	evaluation of target achievement
+A	1186.78	I think it'll be cost prohibitive , yeah .	evaluation of target achievement
+D	1187.76	We've only got like what , ten cents left so Yeah .	evaluation of target achievement
+C	1187.9	It would cost more than plastic .	evaluation of target achievement
+C	1190.15	Okay , logo , we've got it in there , haven't we ?	evaluation of target achievement
+A	1192.47	Yep .	evaluation of target achievement
+B	1192.83	Yep .	evaluation of target achievement
+B	1193.83	Gonna have that on the side , aren't we , like there or something ?	evaluation of target achievement
+C	1198.09	Huh .	evaluation of target achievement
+C	1198.47	And um it's within budget , yep .	evaluation of target achievement
+C	1201.45	It is , isn't it ?	evaluation of target achievement
+C	1203.26	Okay , so we can say then that uh out of a possible or what would be our goal here ?	evaluation of target achievement
+B	1210.67	Out of forty nine , I guess .	evaluation of target achievement
+C	1212.1	Yeah , out of forty nine with with zero being the highest .	evaluation of target achievement
+C	1217.75	We are at uh two , seven , eight , ten , fifteen point five .	evaluation of target achievement
+B	1226.68	'S pretty good .	evaluation of target achievement
+C	1227.03	So it's pretty good .	evaluation of target achievement
+C	1230.31	Translates to something like about approximately seventy two percent efficacy of our original goal .	evaluation of target achievement
+C	1240.96	Right ?	evaluation of target achievement
+B	1242.24	Uh yeah .	evaluation of target achievement
+C	1242.82	I think 'cause if you turn that into a hundred it would be about about thirty one , and then invert that , it's Oh right , about seventy , yeah seventy percent .	evaluation of target achievement
+B	1248.96	Twice that , about thirty one .	evaluation of target achievement
+B	1254.04	So yeah ab well yeah about sixty nine , seventy percent yeah .	evaluation of target achievement
+B	1259.28	It's pretty good .	evaluation of target achievement
+C	1260.77	Okay , good .	evaluation of target achievement
+C	1261.96	That was just a little formality for us to go through .	evaluation of target achievement
+B	1264.89	Okay .	evaluation of target achievement
+C	1265.75	Yep , oh hundred pound pen .	evaluation of target achievement
+C	1270.43	Sorry alright .	evaluation of target achievement
+B	1272.88	Nobody saw it , honestly .	evaluation of target achievement
+C	1274.31	No .	evaluation of target achievement
+A	1275.9	The cameras did .	evaluation of target achievement
+C	1276.91	Hmm .	evaluation of target achievement
+B	1277.96	Is that you all have all finished , or Uh-huh .	evaluation of target achievement
+C	1279.48	Yeah that's that's me .	evaluation of target achievement
+C	1280.54	I did have one other um one other frame I thought , I mean I I d not knowing how we would deal with this information , I thought okay in theory this kind of a process would be about refining our design , revisiting our original goals .	evaluation of target achievement
+C	1293.15	It's not something I need to p push through , but I thought should we thinking more about the dimensions , um sort of like more of a three dimensional shapes as well as opposed to just that flat um Could our design involve a series of colours so that it's more of like a line where we have like sort of the , I don't know like the harvest line or the vibrant , I dunno the Whatever just some theme and then we have different tones , lime green , lemon .	evaluation of target achievement
+B	1303.67	Mm-hmm .	evaluation of target achievement
+A	1308.21	Yep .	evaluation of target achievement
+B	1317.83	Okay .	evaluation of target achievement
+C	1318.31	It's just discussion .	evaluation of target achievement
+C	1319.04	I mean obviously we can just abandon this , it's fine .	evaluation of target achievement
+C	1321.12	I'm just thinking about what we originally set out to do .	evaluation of target achievement
+C	1324.79	Um , yep so there .	evaluation of target achievement
+B	1325.12	Right .	evaluation of target achievement
+C	1327.07	That's all .	evaluation of target achievement
+B	1327.59	Okay , great um are you submitting the the um evaluation criteria or am I ?	evaluation of target achievement
+B	1335.86	I don't know what your instructions have been .	evaluation of target achievement
+C	1337.2	Um , I think to record it and uh I haven't been asked to submit it yet .	evaluation of target achievement
+C	1343.1	Yeah .	evaluation of target achievement
+B	1343.41	Okay , uh just wondering if I need to include it in the minutes , because if you're submitting it anyway then Okay great .	evaluation of target achievement
+C	1348.56	I will , yeah .	evaluation of target achievement
+A	1349.83	It keeps getting too big .	evaluation of target achievement
+B	1351.2	Cool .	evaluation of target achievement
+B	1352.28	Um right , uh well next up then , because we've done finance , is the project evaluation .	evaluation of project
+A	1360.78	'Kay I'm I'm listening I'm just trying to incorporate the logo into the the thing , so I'm playing with the Play-Doh as well .	evaluation of project
+B	1363.83	Oh right , okay .	evaluation of project
+A	1367.38	Just in case you're wondering , why is he still playing with the Play-Doh ?	evaluation of project
+C	1368.76	Huh .	evaluation of project
+A	1387.48	Just about right L_E_G_O_ Lego .	evaluation of project
+D	1390.63	My leg .	evaluation of project
+B	1400.52	Right , okay .	evaluation of project
+B	1402.27	Um well do you wanna um just individually say what you think about about these four points and or not those four points , my four points , sorry , forgotten that .	evaluation of project
+B	1416.99	You got a different uh Oh yeah , they're good aren't they , yeah .	evaluation of project
+C	1430.12	Yep .	evaluation of project
+C	1434.58	I like those printer cables that just have the two little butterfly clips like that .	evaluation of project
+C	1438.18	It's really quick .	evaluation of project
+B	1440.02	Right okay , um yeah here we are .	creative process
+C	1440.43	To use .	creative process
+B	1443.02	Uh as a note we'll do this alphabetically .	creative process
+B	1448.85	Um do you wanna start Andrew ?	creative process
+C	1449.8	Sure , um so what is it you're asking of me now ?	creative process
+B	1453.37	I don't know , just um your opinion on those four those four points really and how we used them .	creative process
+C	1457.97	Or sort of our work on setting this up .	creative process
+B	1459.72	Yeah .	creative process
+C	1460.28	Yeah .	creative process
+C	1461.28	Well , is it uh okay I'll just go through your system then .	creative process
+C	1464.05	The the room uh is fairly institutional , but um the main thing is , I think um our use of this space is more just to report on things as opposed to be creative and constructive and it would probably help to um have l sort of a cumulative effect of we have ideas and we come back and then the ideas are still in discussion , you know , as in other words this this room is sort of a centre point of creativity , whereas in reality as we've gone through this , it's not really the centre point of creativity , it's more just a d debating Yeah , yeah but that's just the thing is the quest in terms of the the first point there , the room , it feels as though the creativity goes on when we leave , and then we come here and then we kind of put out our ideas and then , you know .	creative process
+B	1489.3	Uh-huh .	creative process
+B	1497.14	Well d do you feel though that that you were able to have quite a lot of creative input into the thing ?	creative process
+B	1512.88	But I don't I don't think it means the room as in this room .	creative process
+B	1515.52	I think it means like you know Yeah .	creative process
+C	1515.96	Oh , oh right right , oh right okay room for creativ Oh right I just looked up and saw okay whiteboard , digital pens , the room .	creative process
+B	1521.04	Room .	creative process
+B	1522.42	Oh yeah .	creative process
+C	1523.21	No , of course , yeah .	creative process
+B	1523.93	Well I dunno do you th I think it means um I think it means did you feel you were able to give creative input so Mm-hmm .	creative process
+C	1524.7	Sorry .	creative process
+C	1525.97	Huh .	creative process
+C	1527.22	Yeah .	creative process
+C	1529.11	Yeah I th okay on th um yeah dif answering the question uh in those terms I'd say that actually there's sort of a tease of creativity because we're asked to work through this , but actually the guidelines are fairly contrived in terms of um okay fashion trends , say fruit and vegetable colour scheme , but then i then we're told okay use the co company company colours .	creative process
+B	1551.94	Mm .	creative process
+C	1553.05	So what do we do .	creative process
+C	1554.05	We're told okay um think in terms of style and look and feel and technology , but build something for twelve and a half pounds , so actually the creativity was more more of like a um a f sort of a f formality then an actual Yeah within the constraints the Yeah .	creative process
+B	1560.79	Okay .	creative process
+A	1568.64	You feel like you're caged within whatever y It's like a balloon in a cage , it can only go so big and not hit the side .	creative process
+B	1568.68	Okay .	creative process
+A	1574.8	The constraints do come in very fast .	creative process
+C	1574.87	Yeah , yeah .	creative process
+B	1574.94	Okay uh do you know what , actually let's take each point and everybody discuss it , I think .	creative process
+C	1575.63	So Yeah .	creative process
+B	1579.05	Yeah .	creative process
+B	1579.52	So still on the topic of room for creativity uh next up is Craig .	creative process
+D	1584.55	Um I agree with his point it's um it is quite a lot of fun t to go and then you have sort of hit the end then go right , gotta cut everything out 'cause we don't have enough money .	creative process
+B	1593.16	Yeah .	creative process
+A	1593.79	Yeah .	creative process
+C	1595.43	Yep .	creative process
+A	1596.28	I think another point is that the meetings um are more brainstorming sessions than meetings , so time is also a very s um strong factor , and structure .	creative process
+C	1600.43	Yeah .	creative process
+B	1605.33	Yeah .	creative process
+C	1605.67	Yeah .	creative process
+A	1606.2	Because for a brainstorming meeting you want a structure that allows you to allows ideas to get tossed , um to be evaluated , and to be reviewed , and to get feedback and come back .	creative process
+C	1611.56	Mm-hmm , mm-hmm .	creative process
+B	1611.8	Mm .	creative process
+C	1615.13	Yeah , yeah .	creative process
+A	1615.91	And I guess that point about the room not being r very friendly to that , I think that's a very big thing , and I think the fact that we're wearing these things restricts I feel it 'cause I wear m my glasses , right , and that but that irritates me right it it it does actually you know affect how , w whether you feel comfortable to communicate .	creative process
+C	1620.68	Yeah .	creative process
+C	1624.16	Yeah , sure .	creative process
+B	1626.17	Yeah .	creative process
+C	1629.53	Yeah .	creative process
+C	1632.52	New creativity .	creative process
+A	1635.12	I feel like I'm hiding behind the equipment , rather than the equipment is helping me , and you know .	creative process
+C	1637.32	Yep .	creative process
+C	1639.75	Right .	creative process
+B	1640.02	So you think a more relaxed atmosphere would be more kind of conducive to creative thought or Yeah , but actual environment ?	creative process
+A	1642.63	Not not so much an atmosphere , the atmosphere is very relaxed , but the the gear yeah you know that creates boundaries to that um and and the time the time given also restricts Excuse me .	creative process leadership
+C	1647.53	Mm .	creative process
+C	1649.59	Mm-hmm .	creative process
+B	1649.99	Okay .	creative process
+C	1652.01	Mm-hmm .	creative process
+B	1652.34	Okay .	creative process
+B	1654.52	Very good .	creative process
+B	1655.52	Um what about leadership ?	leadership
+B	1659.14	I don't know if that means like , if I did a good job or something .	leadership
+B	1662.54	I don't really know .	leadership
+C	1663.03	Yeah , well well I mean my sense on that is sort of what kind of guidance and direction , encouragement Yeah from and you as well I think , just sort of acting as team leader .	leadership
+B	1669.6	From like your personal coach person and stuff like that , do you think maybe ?	leadership
+B	1677.16	Okay .	leadership
+C	1677.84	Um yeah I think I think it's I think it's good .	leadership
+C	1680.98	I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation , but then to come back with something that they take great ownership and you know , innovative thought with .	leadership
+B	1692.12	Mm-hmm .	leadership
+C	1694.67	In in reality I think here the the different elements of leadership such as the the original b briefing and then the personal coach and the and then you know having having you with your the meeting agenda is actually quite a quite a quite a con confining framework to work within .	leadership
+C	1710.93	And so it is leadership almost to the point of sort of disempowering the the the team member , so But it's not bad leadership , it's just sort of s fairly strong , you know .	leadership
+B	1717.76	Uh-huh , okay .	leadership
+C	1723.79	It turns it turns the individual into more of like a um sort of a predetermined mechanism , as opposed to a sort of a free Yeah , oh yeah , without without a doubt .	leadership
+B	1730.32	So you think maybe a little too controlling or Okay .	leadership
+A	1734.72	I think controlling is not the right word , I think the interactions are very structured .	leadership
+C	1736.69	Yeah maybe not co confining .	leadership
+A	1738.7	I think structure is probably what you're saying that , each individual is structured to one particular task , and one parti rather than controlling .	leadership
+C	1738.72	Yeah .	leadership
+C	1739.67	Yeah , yeah .	leadership
+C	1743.38	Mm-hmm , mm-hmm .	leadership
+A	1745.9	I don't think there's a sense of control 'cause all the decisions have been made in terms of a , like a consensus right , we go around and we think about it , but that you know process actually says you have to do it in a certain way .	leadership
+C	1746.31	Mm-hmm .	leadership
+C	1747.42	Mm-hmm .	leadership
+C	1750.12	Mm-hmm , mm-hmm .	leadership
+B	1752.43	Uh-huh .	leadership
+C	1753.78	Mm-hmm , mm-hmm .	leadership
+C	1757.09	Mm-hmm .	leadership
+B	1757.33	Okay .	leadership
+A	1757.61	It doesn't tell you , you know , some ways that you might wanna be a bit more creative in terms of the process you know , not the I think you tried to use the common share folder to to to to communicate , but um it just comes back to us so slow in the email um it it doesn't have a , you know , a messenger will go .	leadership team work
+C	1760.55	Mm .	leadership
+C	1761.18	Mm-hmm , mm-hmm .	leadership
+C	1762.79	Yeah .	leadership
+B	1764.07	Okay , uh what about teamwork ?	team work
+C	1769.62	Um did , you wanna comment Craig ?	team work
+D	1770.93	Uh , reckon that was a bit hard because we could only discuss things in the meeting .	team work
+C	1774.7	Yeah .	team work
+B	1774.82	Yeah .	team work
+D	1775.97	If we could just go up to somebody outside the meeting and have a quick talk with them , that would've been a lot easier .	team work
+C	1779.33	Yeah .	team work
+B	1781.16	Okay .	team work
+C	1781.9	Fully agree .	team work
+B	1791.02	Mm .	team work
+C	1791.19	Yeah .	team work
+B	1796.07	Did uh did you guys get the email I sent you ?	team work
+C	1796.1	Yeah .	team work
+D	1797.91	Not just yet .	team work
+A	1798.19	Yeah .	team work
+B	1798.32	Oh that's alright .	team work
+C	1798.53	Yeah , got the email .	team work
+B	1798.9	I was wondering if that got there okay .	team work
+A	1799.73	Okay .	team work
+B	1801.19	Okay , um so um to s to to summarize the teamwork issue , saying that if we could communicate outside the meeting , you know just like quick questions , quick thoughts , whatever , it probably would be bit easier .	team work
+C	1812.34	Yeah .	team work
+C	1813.79	Yeah , in it Mm-hmm , mm-hmm , mm-hmm , exactly .	team work
+A	1813.99	I think the tools that they were given , the tool set that were given to us are fancy but they don't support collaboration , I think that's the word .	team work
+A	1820.36	They don't support the team working together , you know , they're still very individual tools .	team work
+B	1821.15	Oh right , okay .	team work
+C	1822.55	Yeah , I mean if you Yeah , I mean sort of taking upon that idea , w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork because the the tasks were d d sort of um divided , and then the work went on in isolation I I don't know what you guys did while you were together , maybe that was a bit different , but um yeah , but um but actually if you if you imagine not entire the completely same task given to us but us said okay , first thing we have to do is come up with um let's say um a design concept , and we sit here together and do it , well that's what teamwork is .	team work
+B	1846.67	Mm .	team work
+A	1850.51	We had Play-Doh fun .	team work
+B	1867.24	Yeah .	team work
+C	1869.41	To s to say okay go off and don't talk to each other , it's actually p sort of predisposes you to quite the contrary of teamwork .	team work
+B	1871.9	Yeah .	team work
+B	1877.46	Okay .	team work
+C	1877.62	Um not that we haven't done I think the best we could have done .	team work
+B	1880.46	Okay .	team work
+C	1880.72	I'm not dissatisfied with it .	team work
+B	1882.74	Right , uh anything else to say on teamwork at all ?	team work
+A	1886.5	No , not really .	team work
+B	1887.27	Okay , um what about the you know how we used the whiteboard , the digital pens , the projector , stuff like that ?	tools
+B	1896.27	Um did anybody think anything was like really useful , anything was pretty un f unsupportive ?	tools
+C	1896.57	Mm-hmm .	tools
+C	1902.41	I think the whiteboard , for me , is the kind of thing I would use all the time , but it's um not quite as useful as to us as it could have been , maybe just in the way that we we use it , in the sense that once we have an idea out there or while work was going on in between meetings , that could have been up on a board uh you know as opposed to in like in text .	tools
+B	1920.91	Mm .	tools
+C	1924.59	Um , and then we could then keep our ideas sort of building on that .	tools
+C	1928.54	I know that people who design cars and you know in aviation they quite often just have a simple like fibreglass prototype and it's completely you know um abs abstract from the final product , but they use it as a kind of a context to sort of walk around and puzzle and and point and discuss and and and in a way everybody's as we discuss things in the in theoretically and out of our notebooks , we're just we're actually just each of us discussing something that's in each of our own minds .	tools
+B	1938.55	Mm-hmm .	tools
+B	1941.11	Yeah .	tools
+B	1942.63	And point at ?	tools
+B	1943.86	Yeah .	tools
+C	1953.6	It wasn't until we had this here , you know , like at one point I peeked across and looked at Craig's paper and I'm like , now I know what he's thinking 'cause I saw his book .	tools
+B	1955.02	Yeah .	tools
+B	1960.7	Ah .	tools
+C	1962.23	But the b the b whiteboard could've actually been this kind of continuing um Think could be , yeah .	tools
+B	1966.71	So do you think producing a prototype earlier in the process woulda been a good idea ?	tools
+A	1972.11	I think um the the focus of it a lot was the PowerPoint as opposed to the to the whiteboard , and I think that m um is also does you know hinder us and things I think .	tools
+B	1975.81	Yeah .	tools
+C	1976.65	Yeah , yeah .	tools
+C	1978.74	Yeah .	tools
+C	1980.46	Yeah , yeah .	tools
+C	1982.74	Mm-hmm .	tools
+A	1982.76	It will be cooler to have the whiteboard rather than the the PowerPoint , or maybe the whiteboard and the PowerPoint in the same place , you know in the centre of the I think that there were too many PowerPoints in the meetings .	tools
+C	1985.11	Mm-hmm .	tools
+C	1987.94	Yeah .	tools
+C	1990.1	Yeah , yeah .	tools
+B	1990.73	Okay .	tools
+C	1992.07	Yeah , because the PowerPoint was provided to us while we had time to prepare , whereas I can imagine if I'd been encouraged to use Paintbrush , for example , or whatever , I would've actually used it , um 'ca you know , just 'cause that's sorta how we what we were set up to to use while we had our time .	tools
+B	2001.24	Alright .	tools
+B	2009.75	Okay uh Yeah .	tools
+C	2014.1	Mm-hmm .	tools
+D	2014.11	Yeah .	tools
+A	2014.32	'Cause the plug-in and the plugging spent we spent a lot of time doing that .	tools
+C	2016.05	Yeah .	tools
+A	2016.98	And a lot of the information on the PowerPoints , I don't think , you know , we needed to actually it could have , we could have gone through it verbally , especially my slides , I felt that they just you know as opposed to having to present them .	tools
+B	2017.15	Yeah .	tools
+C	2021.66	No , not quite .	tools
+C	2024.05	Yeah .	tools
+C	2025.29	Yeah .	tools
+B	2025.83	Okay .	tools
+C	2027.33	Yeah .	tools
+B	2028.23	What about the digital pens , did you find them easy enough to use ?	tools
+D	2032.68	Oh they're a bit clunky .	tools
+C	2033.07	Sure , yeah .	tools
+A	2035.21	Yep clunky .	tools
+A	2036.81	Agreed .	tools
+B	2037.65	Yeah .	tools
+C	2037.93	Yeah .	tools
+C	2039.35	Yep .	tools
+B	2039.88	Clunky , okay .	tools
+C	2041.21	Mm .	tools
+B	2041.83	Um Yeah .	tools
+A	2043.48	Having to tick it before you go off was a bit hindering as well , 'cause you're half way through a thought , and then you run out of paper and then you have to jump .	tools
+C	2046.45	Mm .	tools
+B	2049.73	I know , I think at the very start of today I like wrote a whole load of stuff , didn't click note on one , then went back and wrote one tiny wee thing on the another page , but then did click note , and so I'm quite worried that I've just written over the top of it or something , but they'll have my paper anyway um and haven't done that since .	tools
+C	2050.08	Yeah .	tools
+C	2060.69	Hmm .	tools
+C	2062.9	Hmm .	tools
+C	2063.27	Mm-hmm , mm-hmm .	tools
+C	2065.94	Hmm .	tools
+A	2066.76	But I think the pen is v is very intuitive , everybody knows how to use it , we don't have to worry .	tools
+C	2069.94	Mm-hmm , mm-hmm , mm-hmm .	tools
+B	2070.26	Yeah , yeah .	tools
+A	2071.05	So I think the pen's good .	tools
+A	2073.11	It's about the best thing .	tools
+C	2074.39	And o on the topic of the technology , it just occurred to me that we actually didn't need to move our computers because each computer has all of the files .	tools
+B	2082.21	Yeah .	tools
+C	2082.45	It just occurred to me that they all We only actually needed one computer .	tools
+A	2083.51	Yeah we only needed one computer and And the computer may not um be conducive to a meeting because um you tend to look at your computer and wanna have the urge to check something , you know , it's useful but I think too many computers are just distracting .	tools
+B	2086.16	Yeah , that's true .	tools
+C	2087.27	If there had been a fifth , that coulda just been sitting there ready to go the whole time .	tools
+D	2088.37	Good point .	tools
+C	2093.33	Yeah .	tools
+C	2096.84	Yeah .	tools
+C	2099.38	Yeah .	tools
+B	2099.97	Yeah .	tools
+B	2101.88	Do you think the computers just provide distraction in a meeting ?	tools
+D	2106.32	Yeah .	tools
+B	2107.28	Okay .	tools
+A	2107.63	Um Yep .	tools
+B	2109.88	I know I I like to have things written down in front of me actually , like a lot of the stuff that was emailed to me I ended up you know like writing down there or something so I could look at it really quickly and not have the distraction of all of that , um I don't know about anybody else .	tools
+C	2112.53	Mm-hmm .	tools
+C	2114.05	Yep .	tools
+C	2116.09	Mm-hmm .	tools
+C	2118.16	Mm-hmm .	tools
+C	2122.39	Mm-hmm .	tools
+B	2123.57	Um what else uh any wh I do I'm not really sure what they're looking for when they say new ideas found .	tools
+B	2133.3	Um I don't know is could you think of like anything else that would have been helpful today at all ?	tools
+D	2134.92	Is this for the project or Oh yeah .	tools chitchat
+C	2143.98	Well , the w main one for me is that uh the process na in a natural f context would not have been interrupted by this necessity to discommunicate ourselves from each other .	tools
+B	2158.99	Mm .	tools
+C	2160.57	So , that's kind of a new idea for me is like just sort of that idea , well you know it's kind of s hard to keep f working forward on a team a team based project when when you're told you must now work away from your team .	tools
+B	2160.58	Yeah if we just had uh Mm-hmm .	tools
+B	2175.1	Yeah I I dunno I think it was quite good that we had time limits on the meetings because they really could have run on and like my experience with meetings is that they really do , and you can spend a lot of time talking about The only thing is though like when we had our meeting about the conceptual design , I thought there maybe another fifteen minutes would have been useful there but um yeah .	tools
+C	2182.23	Oh yeah .	tools
+C	2184.04	Yeah , yeah .	tools
+C	2192.69	Mm-hmm , mm-hmm , mm-hmm .	tools
+B	2197.64	I really thi i I think maybe if we'd like all been working in the one room , and they just said you know like every hour or something everybody make sure yo you know just have a have a short meeting and then just c just to have like something written down , just like you know a a milestone if you like um rather than having meetings , but There you go .	tools
+C	2206.21	Mm-hmm .	tools
+C	2208.69	Mm-hmm .	tools
+C	2211.36	Mm-hmm .	tools
+C	2218.78	Hmm .	tools
+B	2219.12	Um so in closing , I haven't got my five minutes to go .	chitchat
+B	2223.91	Thin Oh there it i Five minutes to go .	chitchat
+B	2226.54	Wonderful .	chitchat
+B	2227.49	Okay um are the costs within the budget , yes they are .	chitchat
+B	2230.82	And is the project evaluated , yes it is .	chitchat
+B	2233.34	So now celebrate .	chitchat
+C	2234.59	Great .	chitchat
+C	2235.54	So it So now we I I don't know .	chitchat
+A	2235.62	And we have Ninja Homer .	chitchat
+B	2238.85	Well apparently now I write the final report .	chitchat
+D	2240.59	Do we know what the other ones are ?	chitchat
+B	2240.86	What are you guys doing now ?	chitchat
+B	2243.01	You dunno ?	chitchat
+D	2243.24	Oh wow .	chitchat
+C	2244.67	Hmm .	chitchat
+B	2245.72	That is lovely .	chitchat
+D	2247.22	Hey yeah , I said Ninja Homer .	chitchat
+C	2249.94	What did you call it ?	chitchat
+A	2251.02	Ninja Homer .	chitchat
+A	2252.68	See it looks like Homer Simpson but it's electronic so it's made in Japan .	chitchat
+C	2254.26	Huh , huh .	chitchat
+B	2255.13	So is that j is that just is that just a logo or does it do anything ?	chitchat
+C	2256.34	Logo .	chitchat
+A	2258.98	Yeah it's just a logo .	chitchat
+B	2259.82	Just a logo and then like Ninja Homer , right okay .	chitchat
+C	2260.67	Huh .	chitchat
+A	2261.58	Ninja Homer .	chitchat
+C	2264.16	Mm .	chitchat
+A	2265.6	The the red is supposed to represent the whatever else you wanna print on the side of it .	chitchat
+C	2270.09	Mm-hmm .	chitchat
+B	2271.19	I think it's quite nice .	chitchat
+C	2271.4	Fashion technology or something .	chitchat
+A	2274.04	You can wear Homer , you can throw Homer when you're frustrated , doh .	chitchat
+C	2276.86	Hmm , hmm , hmm .	chitchat
+B	2279.57	Oh no , that's cool , it's got I'm kind of I'm slightly gutted that we couldn't get plastic and rubber , I think that would have been nice .	chitchat
+C	2280.87	Hmm .	chitchat
+A	2281.32	It's clunky .	chitchat
+C	2284.92	Yeah , yeah .	chitchat
+B	2286.35	Ah well , maybe from now on real reaction should give us more money .	chitchat
+C	2289.04	Mm-hmm .	chitchat
+A	2290.32	Oh , I did learn something new , Play-Doh is useful .	chitchat
+C	2290.55	Hmm .	chitchat
+B	2293.64	Play-Doh s Really ?	chitchat
+A	2293.9	No it is it is .	chitchat
+A	2294.6	It is useful and in in in in in in in um conceptualizing , in being creative .	chitchat
+C	2295.48	Huh .	chitchat
+C	2298.07	Huh .	chitchat
+A	2300.28	'Cause like you say , it's something you can put your hands on and feel and touch and get a sense for .	chitchat
+C	2303.12	Yeah .	chitchat
+B	2303.46	Yeah .	chitchat
+A	2304.31	Like we were playing with the Play-Doh and the ideas came with the Play-Doh rather than with everything else .	chitchat
+B	2307.59	Did they ?	chitchat
+A	2309.24	You might wanna write that down .	chitchat
+C	2309.96	Yeah .	chitchat
+A	2310.44	It's just , I'm just fiddling with the Play-Doh , and I'm going yeah yeah it's kinda cool .	chitchat
+B	2310.69	Okay .	chitchat
+B	2312.58	Play-Doh .	chitchat
+C	2313.08	No , it's true , yeah .	chitchat
+D	2314.66	Guess I'd forgot how good s Play-Doh smells .	chitchat
+C	2316.82	Hmm .	chitchat
+B	2316.91	Yeah , it smells funny doesn't it .	chitchat
+C	2318.56	And some Play-Dohs are actually I think edible aren't they ?	chitchat
+B	2318.69	Um Yeah like the stuff for I think it has to be , yeah .	chitchat
+A	2320.96	No , all Play-Doh is edible .	chitchat
+D	2321.71	I think they're all non-toxic 'cause it's aimed for like two-year-olds .	chitchat
+A	2323.34	It's just wheat , it's the stuff that your mom could make with preservatives and uh It's helpful to the creative process .	chitchat
+C	2326.47	Wow , hmm .	chitchat
+B	2326.58	Yeah um so to wha what are your summarising words about Play-Doh ?	chitchat
+C	2332.17	Huh .	chitchat
+A	2333.47	Um it engages all your senses not just your sight , but your sense of feel your sense of touch .	chitchat
+B	2333.49	Okay .	chitchat
+C	2337.32	Yep .	chitchat
+A	2338.77	And it helps you to understand dimension as well .	chitchat
+C	2338.85	Taste .	chitchat
+A	2342.96	I think that that's very helpful because it it starts to pop up , whereas on a piece of paper , on a computer , on a board , um even with a three D_ graphic thing it still , it requires a lot of yeah tangible , that's a nice word .	chitchat
+B	2343.25	Yeah .	chitchat
+C	2344.15	Yeah .	chitchat
+B	2347.76	Yeah .	chitchat
+C	2347.77	Mm-hmm , yep .	chitchat
+C	2349.25	Yeah .	chitchat
+D	2352.26	Yeah it's not very tangible .	chitchat
+C	2352.76	Yeah .	chitchat
+B	2354.05	Mm-hmm .	chitchat
+C	2354.49	Mm-hmm , mm-hmm , mm-hmm .	chitchat
+A	2355.94	It becomes tangible .	chitchat
+C	2357.61	Mm-hmm .	chitchat
+B	2358.76	Tangible .	chitchat
+B	2362.67	Okay uh Mm .	chitchat
+B	2371.65	I don't know if there's anything else we needed to discuss .	chitchat
+A	2373.56	Nope .	chitchat
+B	2377.06	That that's about it really .	chitchat
+B	2381.59	Just sit still I guess for a little while .	chitchat
+A	2387.12	I think we could probably do it here as long as we don't collaborate .	chitchat
+B	2387.52	Um Well I dunno .	chitchat
+B	2390.77	Um I'm sure the little uh the little thing'll pop up any minute now .	chitchat
+A	2395.86	Can we turn off the microphones ?	chitchat
+B	2398.3	Yeah , yeah if the meeting's over then yeah I guess so .	chitchat

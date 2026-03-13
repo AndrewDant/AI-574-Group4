@@ -1,0 +1,347 @@
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	37.55	So we come again for the the second meeting .	opening
+B	41.17	Mm-hmm .	opening
+A	42.34	Uh for the aim of this meeting now is to to make presentation about uh the work for each one .	opening
+A	58.72	And take the the decision about the the design and the functionality of the the remote control .	opening
+B	62.97	Okay .	opening
+C	69.65	Okay .	opening
+A	69.79	And we have think I got a new project requirement .	new requirements
+A	75.31	So I think uh teletext becomes outdated .	new requirements
+A	82.07	So the popularity of the since the popularity of the internet , and I think we don't need lighting adaptive , so the remote control should be only used for the the television .	new requirements
+C	82.25	Okay .	new requirements
+A	98.31	And of course we should have our image in the in the design .	new requirements
+A	106.59	So , let's start with the the industrial designer .	industrial designer presentation
+C	114.89	Yeah , alright .	industrial designer presentation
+C	116.75	So uh Well I have a PowerPoint pr presentation stored in my in my personal folder so I I I think you can reach it from here .	industrial designer presentation
+A	117.01	Or y you can use the whiteboard if you want .	industrial designer presentation
+A	122.23	Here .	industrial designer presentation
+D	130.26	Just go to explorer .	industrial designer presentation
+D	132.84	Or open .	industrial designer presentation
+A	133.09	Oh okay .	industrial designer presentation
+D	136.05	Participant two .	industrial designer presentation
+C	136.92	Participant two .	industrial designer presentation
+A	143.36	This one .	industrial designer presentation
+C	144.22	Yeah .	industrial designer presentation
+D	145.48	Open uh .	industrial designer presentation
+C	150.48	Uh open .	industrial designer presentation
+A	151.3	Do you want to open Ah .	industrial designer presentation components, materials and energy sources
+B	152.47	Because it's open you mean .	industrial designer presentation
+C	155.59	Right , so um I will talk about the the w working design and And um well I I will present my my first idea on how to build the our new remote control for television .	components, materials and energy sources
+B	158.41	F_ five .	components, materials and energy sources
+D	160.12	Slide show , view slide show , .	components, materials and energy sources
+C	174.65	So uh can you go one page down , please .	components, materials and energy sources
+C	179.19	So I think the first things to do is to define the hardware components neededs to achieve uh what we want to do .	components, materials and energy sources
+C	187.47	So uh mm I'm thin uh I think uh I I'll do a survey about what is uh what is available on the market and what what is the the cheapest possible things we hav we can use .	components, materials and energy sources
+C	206.89	Then uh I will try with the technical team to to build a prototype and to see uh with uh h how this little box would uh look look like .	components, materials and energy sources
+C	219.73	And how an and we can uh start troubleshooting first uh com communication problems or things like that .	components, materials and energy sources
+C	227.37	And when we are ready with this first prototype I I think we can add some software functionalities on a programmable chip like browsing by content or um things like that .	components, materials and energy sources
+C	239.53	Okay so can you go down uh So , wha what I think for now is we don't want to have a remote control w which is wired so uh I think we u we can use a battery for the .	components, materials and energy sources
+C	258.69	Then two programmable chips for both software functionalities and communication .	components, materials and energy sources
+C	266.5	And the communication with the T_V_ set is uh made through uh infrared communication So uh this is the the schema of the o of the future uh remote controls so uh you can you can see the components , uh battery and uh the two chips goes to the infrared uh connection to the T_V_ set .	components, materials and energy sources
+B	277.57	Did you draw it ?	components, materials and energy sources
+A	280.22	Wow .	components, materials and energy sources
+B	292.79	This .	components, materials and energy sources
+A	294.03	This .	components, materials and energy sources
+B	294.09	What is the other chip for ?	components, materials and energy sources
+B	295.13	The one on top .	components, materials and energy sources
+C	296.24	The one on top is for the um well the functionali the functionalities and the the th red um sorry the green one is is to well , putting things together , um f transform the data into uh qu into the format to to uh to communicate with the T_V_ set .	components, materials and energy sources
+D	299.14	One is a communication .	components, materials and energy sources
+B	312.42	For men .	components, materials and energy sources
+B	314.57	To the in Okay .	components, materials and energy sources
+C	319.06	And , that's it .	components, materials and energy sources
+C	320.78	I think we should use a F_P_G_A_ for for the functionalities which is easy to to t It's field programmable uh something array .	components, materials and energy sources
+B	324.98	Mm .	components, materials and energy sources
+B	328.02	What is F_P_G_A_ ?	components, materials and energy sources
+D	332.88	Gateway arrays .	components, materials and energy sources
+C	334.09	Yeah .	components, materials and energy sources
+D	334.37	It's a field programmable gateway arrays .	components, materials and energy sources
+B	336.52	So why's it how is it different from the Bluetooth ?	components, materials and energy sources
+C	339.52	Well , uh a F_P_G_A_ is just a chip you can uh you can pr programme it uh wi with wh whatever you want .	components, materials and energy sources
+B	342.22	Yeah .	components, materials and energy sources
+B	343.2	Programme it .	components, materials and energy sources
+D	343.84	Yeah .	components, materials and energy sources
+B	347.4	Okay .	components, materials and energy sources
+C	348.01	And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices .	components, materials and energy sources
+B	352.16	Yeah .	components, materials and energy sources
+B	354.13	Uh So this are the they have to work together ?	components, materials and energy sources
+B	357.78	Or ?	components, materials and energy sources
+B	358.6	Do they have to work together or two separate choice Okay .	components, materials and energy sources
+C	359.35	No .	components, materials and energy sources
+C	360.73	Well , th the F_P_G_A_ will produce the the data to send .	components, materials and energy sources
+D	365.33	Or it's something like isn't hardware the first one ?	components, materials and energy sources
+D	367.62	And the second one is for the software .	components, materials and energy sources
+B	368.37	Is the is the software par alri okay .	components, materials and energy sources
+D	369.92	Yeah to run th to make it run .	components, materials and energy sources
+C	370.38	Yeah .	components, materials and energy sources
+D	371.7	That's it .	components, materials and energy sources
+B	371.89	Okay , okay .	components, materials and energy sources
+B	372.99	So you can control if you want , right ?	components, materials and energy sources
+C	375.68	Yeah .	components, materials and energy sources
+D	376.99	No .	components, materials and energy sources
+C	377.66	Alright and that's it for the working design .	components, materials and energy sources
+C	380.18	So if you have any questions ?	components, materials and energy sources
+B	382.42	Mm .	components, materials and energy sources
+D	383.16	Okay , and how about the battery power ?	components, materials and energy sources
+D	385.67	Uh you mean that battery would be somewhere there and the remote contro the power to the battery comes through infrared ?	components, materials and energy sources
+C	390.68	Uh no no no no , I think uh we have uh to to uh have uh embedded uh b batteries in in the yeah into the t .	components, materials and energy sources
+D	397.64	Into the more compact and uh okay , .	components, materials and energy sources
+C	400.4	Yeah , yeah .	components, materials and energy sources
+C	401.52	And uh I I don't think it will need um very uh much power to make it run , so Yeah .	components, materials and energy sources
+B	405.82	Mm .	components, materials and energy sources
+B	406.84	Mm .	components, materials and energy sources
+D	407.94	Yeah , yeah .	components, materials and energy sources
+B	408.5	Mm .	components, materials and energy sources
+D	408.5	Okay .	components, materials and energy sources
+B	409.03	You can put it on the charger when uh you when you don't need to use it .	components, materials and energy sources
+C	412.7	It's a good idea .	components, materials and energy sources
+D	413.6	Yeah , that's right .	components, materials and energy sources
+B	414.89	Yeah .	components, materials and energy sources
+D	414.99	Having a charger rather than putting the battery cells always .	components, materials and energy sources
+B	417.37	Yeah , yeah .	components, materials and energy sources
+C	418.33	Yeah .	components, materials and energy sources
+D	419.08	People don't like it to have to buy the batteries when they run out .	components, materials and energy sources
+B	421.11	Yeah .	components, materials and energy sources
+B	422.6	Mm .	components, materials and energy sources
+D	423.18	We just make a small charger and put it Bu Our remote , we do not want to make it P_D_A_ .	components, materials and energy sources
+B	423.29	Uh mm .	components, materials and energy sources
+B	424.55	Y yeah , yeah .	components, materials and energy sources
+B	426.51	Because you are using because you are using Bluetooth , if some people have P_D_A_ they can use their P_D_A_ to control the T_V_ if they want to , right ?	components, materials and energy sources
+C	426.63	That's a good idea .	components, materials and energy sources
+A	426.98	You can i yeah .	components, materials and energy sources
+A	428.43	Ma Yeah we can change the b .	components, materials and energy sources
+C	433.96	Also , but but I I I think uh the the goal is to sell our remote control .	components, materials and energy sources
+B	436.24	I dunno .	components, materials and energy sources
+A	440.83	Yeah .	components, materials and energy sources
+C	443.18	S okay , so charger for is the .	components, materials and energy sources
+A	457.64	Um .	components, materials and energy sources
+B	466.64	So is mine .	interface specialist presentation
+A	468.54	It's mine .	interface specialist presentation
+B	469.64	Oh .	interface specialist presentation
+A	469.9	Participant one , no ?	interface specialist presentation
+B	471.65	Yeah , this your Yeah .	interface specialist presentation
+A	476.96	Mm .	interface specialist presentation
+A	478.62	Oh we have so let's move to to user interface design .	interface specialist presentation
+B	486.2	So you can open uh three .	interface specialist presentation
+A	488.45	Participant During the weekend .	look and usability interface specialist presentation
+B	495.06	Yeah .	interface specialist presentation
+B	497.2	So So I'm working on the technical functions design .	look and usability
+B	504.37	can you show the next slide .	look and usability
+B	507.0	So the the purpose is to to find uh the important questions to ask is what effect should the apparatus have .	look and usability
+B	515.75	So so I found on a webs on the internet yeah .	look and usability
+B	523.27	I spent a lot of time searching and uh and I found that uh the function of remote control is to send messages to television set .	look and usability
+A	526.2	That's good .	look and usability
+A	534.11	Mm-hmm .	look and usability
+D	534.56	G Yeah , not the T_V_s .	look and usability components, materials and energy sources
+B	534.61	For example switch on , switch off , switch the next channel and so on and so on .	look and usability
+B	541.42	So I found two very good prototypes for for this interface from our competitors so can you Yeah , yeah , yeah .	existing products
+A	549.67	This are usual functionality .	existing products
+B	553.15	Ours is a bit uh different .	existing products
+B	554.74	So these are two example .	existing products
+B	556.7	One is from the other one is from , yeah , uh engineering centr yeah .	existing products
+A	561.6	Tasks .	existing products
+B	567.07	This is the most competing prototypes I've found .	existing products
+B	570.83	But then uh loo but then I found if you look at you see on the left one there are too many buttons Yeah .	existing products
+A	576.56	And they are small .	existing products
+B	578.56	O on the right I tried to play with the problem is that uh if I have hundred channels I have uh I have to choo press the other button to choose the hundred channels and I have to compose the number so it's very lousy .	existing products
+C	587.51	Yeah .	existing products
+C	593.94	Of course .	existing products
+A	594.03	Mm-hmm .	existing products
+B	594.04	So you so you move to the next the next one .	existing products
+B	597.83	Yeah , so I talk about the problem .	existing products
+B	599.8	And then I I look at the user manual they are a hundred pages thick , so we don't want that .	existing products
+A	604.95	Yeah .	existing products
+B	606.61	So I propose the easy to use uh prototype .	components, materials and energy sources
+B	610.37	You can navigate on T_V_ screen and we can the user's preference and we need to have the T_V_ connected to internet so we end in order to access the T_V_ programmes by X_M_L_ and we need some to do some preprocessing .	components, materials and energy sources
+B	626.78	From the technical aspect , the processing should be done on the T_V_ set than on the on the remote controller , right ?	components, materials and energy sources
+B	634.54	And then we the speech recognition as uh Harry says we may just put in we may K_I_V_ .	components, materials and energy sources
+A	641.61	What do you mean by the pa pa processing will be done on the T_V_ than the So we should have specific T_V_ ?	components, materials and energy sources
+B	645.24	Yeah , all the processing is done the T_V_ is a compu has some processing power the Yeah .	components, materials and energy sources
+C	651.34	So we have to t We have to sell a T_V_ with the remote control too .	components, materials and energy sources
+A	654.27	Or ?	components, materials and energy sources
+A	655.36	We can use this .	components, materials and energy sources
+A	658.26	Yeah , we don't Yeah , I think so .	components, materials and energy sources
+B	660.53	Yeah because are you just wondering what controller okay .	components, materials and energy sources
+A	664.27	J j just the remote control .	components, materials and energy sources
+C	664.36	I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that and we can try t to get this information on to the remote control to to do the processing on the remote control because Yes , that's a good idea , I think .	look and usability components, materials and energy sources
+B	669.56	Yeah .	components, materials and energy sources
+B	677.44	Okay .	components, materials and energy sources
+D	679.86	Yeah .	components, materials and energy sources
+B	680.61	Yeah .	components, materials and energy sources
+D	682.47	Yeah , that's right .	components, materials and energy sources
+B	683.0	Okay .	components, materials and energy sources
+B	683.56	So i the processing on on the remote controller so it can u be used in any T_V_ , any conventional T_V_ sets ?	components, materials and energy sources
+A	683.96	Mm .	components, materials and energy sources
+A	685.96	Yeah , we .	components, materials and energy sources
+A	690.39	Yeah .	components, materials and energy sources
+B	691.27	Mm .	components, materials and energy sources
+B	691.83	Okay .	components, materials and energy sources
+A	694.55	Speech recognition .	components, materials and energy sources
+B	695.46	N yeah , that's all .	components, materials and energy sources
+B	696.9	The next one ?	components, materials and energy sources
+B	697.8	So I come up with a simple design , just keep the v navigation buttons .	look and usability
+A	703.9	Keep the navigation but .	look and usability
+C	704.13	We d we don't we we don't need really much buttons to i if we have a screen to navigate on on the T_V_ so uh Well , f four five buttons , it's sufficient .	look and usability
+B	709.43	Yeah .	look and usability
+B	711.38	Yeah .	look and usability
+B	715.41	Yeah .	look and usability
+B	716.97	Mm .	look and usability
+C	717.15	It's easy to build , it does not consume much power .	look and usability
+D	719.81	Yeah , that's right .	look and usability
+B	724.12	Okay , that's all .	look and usability
+D	726.45	Oh , but you have a catch there , um assume that um if you want to go to if you are watching channel two and if you want to go to channel ninety nine , then .	look and usability
+C	737.11	Well , then y you you go to the main menu and uh you have uh go to channel and then uh you can Yeah .	look and usability
+B	742.61	Mm .	look and usability
+B	743.5	Mm .	look and usability
+B	744.09	No , because you choose by channel , so you choose by T_V_ program so you don't have hundred channels to choose from .	look and usability
+D	747.04	Uh-huh huh huh huh .	look and usability
+C	747.74	Maybe you .	look and usability
+D	752.64	Mm-hmm hmm hmm .	look and usability
+B	753.04	If you go by channel , you don't have to do that .	look and usability
+C	755.26	but uh I I think i i if you if you want to to make uh well a a big jump but uh well you you have to to have a a a device when you could you could Well , not a mouse but uh something that that says more clearly that uh right , left , up , down , well , the to have the ability to to to write something to the navigator , maybe directly , or So , we can think of buttons like in the telephone to send messages or things like that .	look and usability
+D	756.08	But Yeah then yeah that's right .	look and usability
+A	756.95	So you are Mm .	look and usability
+B	759.68	Ah .	look and usability
+B	762.01	Ah , a big jump .	look and usability
+B	770.58	A mouse or Yeah .	look and usability
+D	779.75	Mm hmm hmm .	look and usability
+D	780.52	Okay .	look and usability
+D	789.76	Okay .	look and usability
+B	790.87	Mm .	look and usability
+B	796.59	Mm-hmm .	look and usability
+C	799.36	But we'll see .	look and usability
+A	799.61	How the this remote ?	look and usability
+B	803.86	Uh it's gonna be small .	look and usability
+A	806.49	Yeah , of course small .	look and usability
+B	807.24	Yeah .	look and usability
+B	807.7	So it'll beep if you wanna find it you just uh shout y h just it just has to re respond to you when you look for the device .	look and usability
+D	809.68	too small that it goes under the sofa and we can't find it .	look and usability
+D	821.15	Yeah , that's .	look and usability
+B	822.36	I dunno how bu And responds to you , and I- mm .	look and usability user requirements
+D	825.29	just give it a name and we call him .	look and usability
+D	829.71	Yeah , that's right .	look and usability
+D	830.88	Yeah , that's right .	look and usability
+C	835.1	Okay , so uh next presentation Mm .	marketing expert presentation
+A	840.63	Participant four .	marketing expert presentation
+A	850.22	So Harry .	marketing expert presentation
+D	851.24	Okay , after having the inputs from industrial design and user interface , I think most of the points which I want to are already covered here .	marketing expert presentation
+D	860.89	And to find the most interesting features what the users would be interested , then what we have done is we have put a feedback forms in all the magazines , and the users send the feedbacks , and based on that These are the findings which we got and yeah adding of a speech interface is always good for a T_V_ remote but the technology We already know that as discussed earlier An it does how feasible it is .	user requirements marketing expert presentation
+C	890.61	Well I I think it will be a , yes , a bit complicated to um make a speech recognisers runs on the small uh ts Yeah .	user requirements
+B	904.49	But I think if you to recognise numbers it's a well-studied problem .	user requirements
+B	909.58	I if you just recognise uh numbers is a limited you have limited vocabulary Mm .	user requirements
+D	913.58	Oh we can put an limited vocabulary as in the mobile phones .	user requirements
+D	917.34	We just have the it's not going to take much space also .	user requirements
+C	919.1	And this can allow to choose the the program , for instance without uh adding uh buttons so it's a good idea .	user requirements
+B	925.03	Yeah .	user requirements
+D	929.02	It's going to be very slim .	user requirements
+B	930.08	Mm .	user requirements
+D	930.99	And next one was the size of the remote control .	user requirements
+B	931.17	Mm .	user requirements
+D	933.52	It has to be of course a very slim and small one .	user requirements
+D	937.38	And of course most of the people are interested in if it's less expensive , so this is an important criteria here is I mean we have to look for a trade-off .	user requirements
+B	943.33	Mm .	user requirements
+A	943.42	Mm-hmm .	user requirements
+B	945.39	But Mm .	user requirements
+A	945.86	But do you think what they sug suggested s possibility .	user requirements
+D	951.86	The features and the cost .	user requirements
+B	951.9	Yeah .	user requirements
+B	953.59	I no I I think that uh i if we go for quality people may tolerate for high quality and of course comes with uh reasonable cost .	user requirements
+A	953.72	Yeah .	user requirements
+B	963.18	Maybe not less , but they may be willing to pay little bit more for comfort , yeah , extra features .	user requirements
+D	966.82	Little bit more if it's with extra features .	user requirements
+C	967.65	Yeah .	user requirements
+A	967.88	It Yeah .	user requirements
+C	971.2	Yeah , s s speech is a important extra feature I think Well , uh Well , we are we we just have to find a mean how to to add a m a a a microphone or uh well yes a microphone into the the remote control , so I well it will be alright .	user requirements
+D	971.6	Okay .	user requirements
+D	974.65	Yeah , yeah .	user requirements
+B	974.88	Mm .	user requirements
+D	975.16	That's right .	user requirements
+A	975.95	But is it useful or not u I don't know .	user requirements
+B	976.22	Yeah .	user requirements
+A	978.91	There is in the Mm .	user requirements
+D	979.98	I mean , for a lazy guys they could say nine and the nine channel comes .	user requirements
+B	982.24	Mm .	user requirements
+D	984.7	Or they say movie name or I don't go for movie names but only for the numbers on the channel , or volume up , volume down , brightness , contrast .	user requirements
+B	990.92	Mm .	user requirements
+B	993.79	Mm .	user requirements
+D	994.69	So , I think this should be a good idea , to put this features .	user requirements
+D	998.17	And the fourth one was the teletext in various languages .	user requirements
+D	1006.07	Mm , I think Yeah as discussed in the earlier meeting , but I think uh not much people are really interested in this point if it's not really required .	user requirements
+A	1018.12	I think i If it's necessary can you can do that .	user requirements
+B	1020.05	What is the teletext ?	user requirements
+B	1022.71	Mm .	user requirements
+A	1023.95	We can integrate small microphone in the remote so it's not really a problem .	user requirements
+C	1026.77	Yeah .	user requirements
+C	1029.77	Okay .	user requirements
+A	1032.05	What about lighting adaptive options ?	user requirements
+A	1035.06	According to the re to the new requirements I think we don't need that .	user requirements
+A	1040.2	Yeah .	user requirements
+B	1043.19	It is interesting but we are only concerned with the remote controller .	user requirements
+A	1047.84	Mm .	user requirements
+B	1049.11	So you need s special T_V_ sets to do that ?	user requirements
+B	1052.18	Or it's it's done via this remote controller ?	user requirements
+B	1057.7	It's very complex .	user requirements
+D	1057.76	I mean I mean yeah , it's for the um industrial design and users interface designers to decide if it's going to be working or not .	user requirements
+C	1058.85	Yeah , I think it's a bit complex too For our next product , our new T_V_ set with uh automatical uh sound adjustment light .	user requirements
+B	1067.87	Mm .	user requirements
+D	1073.62	I think I think as I discussed th that four points would be good for um marketing .	user requirements marketing strategy
+B	1074.96	Yeah , then we can conclude that .	user requirements
+B	1077.7	Yeah .	user requirements
+B	1079.14	Yeah , but it's quite possible but maybe not in this project .	user requirements
+A	1092.5	So we have I think we have s still we have couple of minutes .	discussion
+A	1099.31	Mm-mm .	discussion
+A	1106.98	So any things to to discuss ?	discussion
+A	1111.38	Or any suggestions ?	discussion
+D	1117.3	The speech interface and uh less uh reasonable uh cost .	marketing strategy
+A	1119.78	Expensive .	marketing strategy
+A	1122.09	Price .	marketing strategy
+B	1123.23	Mm .	marketing strategy
+D	1124.18	And the lighting adaptation and the teletext .	marketing strategy
+B	1126.02	Mm .	marketing strategy
+D	1126.87	And regarding the teletext uh these are the subtitl these are the text information which you got on the televisions .	marketing strategy
+B	1134.09	Okay .	marketing strategy
+D	1134.78	If you are watching an foreign movie , you get subtitles sometimes .	marketing strategy
+B	1136.45	Yeah .	marketing strategy
+B	1137.92	Okay .	marketing strategy
+D	1139.07	And uh if you are a French guy watching an English movie you would like to have it in French .	marketing strategy
+B	1139.86	Mm .	marketing strategy
+D	1144.46	And if I am a German then I would like to have the my options in German .	marketing strategy
+D	1148.54	So , the remote it should have some it should give me some flexibility of choosing the ch languages .	marketing strategy
+C	1151.32	Function .	marketing strategy
+D	1155.49	That should be a good uh point .	marketing strategy
+C	1159.31	Yeah , but well what about the the new project's requirement ?	marketing strategy
+C	1164.22	I I I think we should give up with teletext , no ?	marketing strategy
+A	1166.55	I think we we can we is the .	marketing strategy
+C	1171.72	Yes .	marketing strategy
+C	1174.88	Well , so maybe we we can j we can already think uh about a way to to access the internet via the television .	marketing strategy
+B	1184.8	Mm .	marketing strategy
+C	1185.7	Because if Yeah , but uh we can think that in a few years there will be T_V_ set that can access the internet .	marketing strategy
+B	1186.98	Using the T_V_ to access the internet ?	marketing strategy
+B	1189.29	Or what ?	marketing strategy
+B	1189.97	I didn't quite understand Yeah , okay .	marketing strategy
+A	1191.82	Yeah .	marketing strategy
+C	1198.03	So it's a good idea if i i if we i if if we uh think about how to to to build up our remote uh control w with this functionality in a w which will c which will come in a few years .	marketing strategy
+D	1198.04	We already have some .	marketing strategy
+C	1216.14	So if we already have it in our remote control Yeah .	marketing strategy
+A	1217.93	So you have to anticipate the the future ?	marketing strategy
+B	1221.28	Yeah .	marketing strategy
+B	1222.0	The future demand , market demand .	marketing strategy
+C	1222.2	Yeah .	marketing strategy
+D	1224.37	Yeah , that's right .	marketing strategy
+C	1224.38	Yeah , to desi well , not not to implement it , but to well , to find a way to to add to add this functionality in a yeah , in an in an easy manner , if is possible .	marketing strategy
+B	1231.01	The functionality in the future .	marketing strategy
+A	1233.3	In future .	marketing strategy
+B	1234.47	Alright .	marketing strategy
+B	1237.3	Yeah .	marketing strategy
+B	1238.19	Because all the T_V_ sets will be digital , right .	marketing strategy
+B	1240.24	All the programmes , everything will be in digital than analog .	marketing strategy
+B	1244.06	Th the system will change and we have to anticipate for those change .	marketing strategy
+C	1245.99	Yeah , yeah .	marketing strategy
+D	1248.19	Yeah , .	marketing strategy
+C	1251.73	Okay .	closing
+A	1252.36	Okay .	closing
+C	1253.1	So Okay , thank you .	closing
+A	1254.47	So let's go for the the lunch break , and we will meet after .	closing
+D	1260.82	Okay , thank you .	closing
+B	1260.98	Okay .	closing
+B	1261.86	Thank you .	closing

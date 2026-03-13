@@ -1,0 +1,715 @@
+B	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	2.23	Do you need to change anything on it ?	chitchat
+D	4.36	Um Mm , don't think so .	chitchat
+A	4.5	Because otherwise I will already open it .	chitchat
+A	8.52	Okay .	chitchat
+D	10.25	Unless uh things have suddenly change again .	chitchat
+A	14.06	Is it much changes ?	chitchat
+D	15.67	Uh don't know .	chitchat
+D	16.32	Maybe uh you've got new information , like uh last time .	chitchat
+A	17.07	Uh I didn't No no .	chitchat
+A	19.02	I do hot have Only the same information .	chitchat
+D	61.52	Okay .	chitchat
+A	89.84	Hello , Sebastian .	chitchat
+C	91.78	Hello hello Mister P_M_ .	chitchat
+A	97.66	I believe uh Miss uh Tentel is with us as well , in the control room .	chitchat
+C	105.41	Well , that's where the thinking goes on .	chitchat
+A	111.1	Oh , it's that Roo again , always late .	chitchat
+A	115.77	Bongiorno .	chitchat
+B	116.91	Bongiorno .	chitchat
+C	117.99	I think you should punish him .	chitchat
+C	119.96	You're the P_M_ .	chitchat
+A	120.34	Hmm .	chitchat
+B	121.22	Punish .	chitchat
+A	122.39	I see some interesting okay .	chitchat
+C	124.75	Possibilities , yeah ?	chitchat
+B	125.0	You wish .	chitchat
+A	127.71	People , welcome back .	opening
+B	130.77	Welcome .	opening
+A	132.07	The third meeting .	opening
+B	132.48	Uh Yeah .	opening
+D	132.85	Oop .	opening
+A	133.7	Um I have some points I would like to uh some some issues I would like to point out .	opening
+A	140.32	Um first of all , um if you make minutes yourself as well , uh like Sebastian does , um could you put them on the shared folder ?	opening
+A	152.6	If you do not make minutes , no problem , but it's easy for me to see what you uh wrote down , so I could uh can uh um use that in the in the report .	opening
+A	164.18	Um the second thing , um I was th uh s thinking to myself , I have this little remote control , and I'm talking to it , but I still need to point to the television , because it works with infrared .	opening
+A	183.0	That's quite strange .	opening
+C	186.36	Yes .	opening
+A	187.37	Okay .	opening
+C	188.23	So Not at all .	opening
+A	188.61	We'll come to that later , I g I think .	opening
+A	190.91	Um the agenda for now uh uh are there any pre-discussion questions ?	opening
+B	200.14	No .	opening
+D	200.6	No .	opening
+A	201.02	Okay .	opening
+A	201.81	Um we wi we will have your individual presentations , uh then the decision on the remote control concept , um and uh the closing .	opening
+A	213.56	Forty minutes in total for this .	opening
+A	215.66	So um I think we we can immedis immediately start with the individual presentations , um the progress you've made .	marketing expert presentation
+C	222.65	Okay .	marketing expert presentation
+A	226.16	Um I think it might be smart to look at uh Ruud's um information first , because I understood there are some uh significant changes in the market situation .	marketing expert presentation
+D	232.85	'Kay .	marketing expert presentation
+D	236.37	Hmm ?	marketing expert presentation
+B	237.87	Alright .	marketing expert presentation
+D	238.88	Oh .	marketing expert presentation
+C	255.22	Just press the okay button , it works .	marketing expert presentation
+D	256.47	Yeah , Okay .	marketing expert presentation
+A	263.88	Um yeah .	marketing expert presentation
+D	264.33	Yeah .	marketing expert presentation
+D	265.02	Yeah .	marketing expert presentation
+D	269.33	My method ?	marketing expert presentation
+C	272.07	How surprising .	marketing expert presentation
+D	274.42	Well , findings .	trendwatching
+D	275.35	Uh Ease of use is important , but uh innovation is more important , and a fancy look and feel is uh even more important .	trendwatching
+D	286.45	And uh some fashion watchers have found out that the young target group likes fruit and vegetables in their uh clothes , shoes and furniture , and that they want spongy material .	trendwatching
+D	301.75	Probably watch too much Sponge Bob .	trendwatching
+D	306.02	Uh the older group uh still prefers dark colours .	trendwatching
+D	309.09	Simple shapes uh m material .	trendwatching
+D	310.83	But we since we are concentrating on uh the younger group 'Kay .	trendwatching
+A	314.42	Uh w wait a sec wait a se uh could you go to the previous slide ?	trendwatching
+C	315.11	Oh wait uh wait up .	trendwatching
+A	319.21	Um because I'm taking minutes and it Um were the important themes enclose .	trendwatching
+A	325.52	Yeah okay .	trendwatching
+A	326.3	The feel of to be spongy Okay , so so , yeah , it might not be t uh it it shouldn't be too hard .	marketing expert presentation trendwatching
+C	328.62	Uh so do you think um when fruit and vegetables are important for clothing and shoes that they are in remote controls also ?	trendwatching
+D	338.34	Well , uh one example given was this , so um I assume they just want something colourful .	trendwatching
+D	346.2	Not uh specifically uh an apple as a remote control or something .	trendwatching
+C	347.62	Not something dull .	trendwatching
+C	350.38	Okay .	trendwatching
+B	350.87	But they like dark colours , you said in the p Okay .	trendwatching
+D	352.88	No , uh the younger group likes uh more colourful uh objects .	trendwatching
+B	359.74	Well then I suggest that the corporate colours are grey and yellow .	trendwatching
+D	360.92	But Which one ?	trendwatching
+B	364.29	I had Or we could make oh .	marketing expert presentation trendwatching
+C	364.3	But can you can you go back to that slide ?	trendwatching
+C	366.34	The uh just one slide back , no no no .	trendwatching
+D	367.6	This ?	trendwatching
+C	370.28	Yes .	trendwatching
+C	372.96	Okay , and the feel of the material has to be spongy .	trendwatching
+D	376.6	Yes .	trendwatching
+C	377.8	Has it something to do with that uh natural feeling also , do you think ?	trendwatching
+D	385.41	Uh well , it might .	trendwatching
+D	387.46	But personally I wouldn't like a sponge as a remote control .	marketing expert presentation
+D	391.07	But Maybe soft material or something .	marketing expert presentation
+D	395.9	But not a real sponge .	marketing expert presentation
+A	400.08	It it maybe it rubber or or yeah .	marketing expert presentation
+D	402.18	Yeah , exactly .	marketing expert presentation
+A	404.31	Okay .	marketing expert presentation
+D	406.76	Yeah , and like uh the older group likes familiar materials , but that doesn't mean we should use wood , So Well , this this is an example of what they would like .	marketing expert presentation
+C	416.51	Okay .	marketing expert presentation
+D	421.04	But since we're conten concentrating on uh the younger group , I think we should use soft materials and uh make it colourful or uh like cell phones , exch exchangeable covers .	marketing expert presentation
+A	438.1	Yeah .	marketing expert presentation
+D	439.0	So we could provide both for the young and the old what they like .	marketing expert presentation
+A	445.92	Well , that's interesting .	marketing expert presentation
+C	447.34	It's quite interesting .	marketing expert presentation
+A	448.1	You could make a few v very colourful ones , and uh a very traditional co cover .	marketing expert presentation
+B	450.85	Yeah , o o I'm thinking about uh the Bananarama telephone uh telephone from uh Siemens .	marketing expert presentation
+C	453.49	Yes .	marketing expert presentation
+B	458.37	The yellow uh rubber telephone .	marketing expert presentation
+A	460.54	Yeah , yeah .	marketing expert presentation
+B	462.17	It's the it's the rubber uh cover .	marketing expert presentation
+A	464.15	Yeah , it is , it is i yeah .	marketing expert presentation
+B	465.89	And it's uh colourful .	marketing expert presentation
+B	467.21	It looks likes a banana .	marketing expert presentation
+A	467.24	Yeah .	marketing expert presentation
+B	469.07	We have the fruit , we have the colours .	marketing expert presentation
+A	471.81	Do you know the phone ?	marketing expert presentation
+B	471.83	We have the simple design .	marketing expert presentation
+C	472.91	I don't know the phone , but I can imagine it .	marketing expert presentation
+A	473.91	It's the Siemens uh C_ twenty five , I believe it's it's the one the Post-bank uh gave away , the very You kn you know , Ruud , as well ?	marketing expert presentation
+B	475.72	Um thirty five .	marketing expert presentation
+C	478.84	Oh , that one , yes .	marketing expert presentation
+B	479.8	And the b the light blue and it's also in yellow .	marketing expert presentation
+C	480.26	Now I kn uh oh , I know , I know .	marketing expert presentation
+C	483.36	Yes , I I've seen it .	marketing expert presentation
+C	484.66	I've seen it .	marketing expert presentation
+A	487.01	About th Okay .	marketing expert presentation
+D	487.15	I've seen it , but 'Kay .	marketing expert presentation
+A	490.19	Okay .	marketing expert presentation
+A	491.19	Um uh okay .	marketing expert presentation
+A	493.33	Do you have uh thit that was Okay .	marketing expert presentation
+D	494.34	Uh that's about it .	marketing expert presentation
+A	496.73	Okay , so the the m uh important findings are uh innovation is more important than ease of use for the our target group .	marketing expert presentation
+D	503.88	Yes .	marketing expert presentation
+A	504.53	And um colouring is important and and uh soft materials .	marketing expert presentation
+D	509.0	Uh soft material .	marketing expert presentation
+A	511.25	Okay .	marketing expert presentation
+C	511.53	So So ease of use is important , but technology is twice as important .	marketing expert presentation
+C	516.6	And what was even more important ?	marketing expert presentation
+D	520.67	Uh the fancy look and feel .	marketing expert presentation
+C	522.17	Okay .	marketing expert presentation
+C	522.68	So that's the most important thing for our customers .	marketing expert presentation
+D	524.2	Yes .	marketing expert presentation
+D	525.04	Apparently .	marketing expert presentation
+A	532.08	Okay , Roo , could you do your presentation ?	interface specialist presentation
+B	535.52	Yeah .	interface specialist presentation
+B	538.11	Mm-hmm .	interface specialist presentation
+B	543.45	Well , I don't ha really have much to add , um because most of things we already said in uh the previous uh discussion .	interface specialist presentation
+B	555.67	Um Uh the previous ideas were voice recognition and uh the round button for uh the p channel programming and uh volume .	interface specialist presentation
+A	560.69	Okay , well it's good to to sum up uh the things we already thought about .	interface specialist presentation
+B	576.3	Well , a few interface I uh I found on the internet are are these .	interface specialist presentation
+B	580.99	These are both with uh with voice recognition , but they're very advanced and very high-tech and just um , well , a weird um shape .	interface specialist presentation
+A	592.08	Shape .	interface specialist presentation
+B	594.16	So I suggest I couldn't uh I had a small uh mock-up uh sign on the on paper .	interface specialist presentation
+B	603.67	But it didn't work .	interface specialist presentation
+B	604.38	My pen didn't load um the information .	interface specialist presentation
+B	607.42	So I made a really simple f uh a shape on uh in um PowerPoint .	interface specialist presentation
+B	616.29	But we could make uh a round uh an oval uh um remote control .	interface specialist presentation
+C	621.46	Mm-hmm .	interface specialist presentation
+C	621.89	But it's it's kind of uh it's kind of o organic , so that's very good .	interface specialist presentation
+B	623.19	Uh yellow .	interface specialist presentation
+A	625.96	Yeah .	interface specialist presentation
+D	626.46	Yeah .	interface specialist presentation
+A	627.22	And what I'm thinking about , maybe um we should make very light but um uh a grip um I mean this is how you hold a remote control .	interface specialist presentation
+C	638.13	Yes .	interface specialist presentation
+A	639.28	Um it shouldn't be too uh glatt , too slippery , s because um Yeah .	interface specialist presentation
+C	643.88	Slippery .	interface specialist presentation
+B	647.49	But if you have something like uh the Siemens phone , it's rubber .	interface specialist presentation
+C	647.8	You have to grab it .	interface specialist presentation
+B	651.39	So it's easy in your hand Uh indeed .	interface specialist presentation
+A	651.42	Yeah , exactly .	interface specialist presentation
+A	653.35	Yeah .	interface specialist presentation
+C	653.55	Yes .	interface specialist presentation
+C	654.18	There are there are also remote controls who have uh a little shape underneath where you can put your fingers in , so you can get a really good grip on it .	interface specialist presentation
+A	658.69	Yeah , ex for your fingers , yeah .	interface specialist presentation
+B	660.87	Yeah .	interface specialist presentation
+C	662.37	So you you don't have to um attain much pressure to it .	interface specialist presentation
+C	666.7	It's it's a lot easier .	interface specialist presentation
+A	667.39	Yeah .	interface specialist presentation
+C	668.34	So m Yes .	interface specialist presentation
+A	668.35	It grips automatically .	interface specialist presentation
+A	670.49	Yeah , okay .	interface specialist presentation
+C	671.03	But I'll I'll go into that deeper in my presentation .	interface specialist presentation
+A	674.07	Okay , good .	interface specialist presentation
+B	675.0	Great .	interface specialist presentation
+B	684.29	Oh and um to add on um Ruud's information , in this um interface we can have uh high-tech with the voice recognition and uh , well , the the fancy colours and uh and so on , and still have the ease of use , because we have an easy interface .	interface specialist presentation
+B	704.57	And all the other remote controls are high-tech in buttons and uh and so on .	interface specialist presentation
+A	707.48	Yeah .	interface specialist presentation
+A	708.49	Way too much I think for our goal , yeah .	interface specialist presentation
+B	709.91	Yeah .	interface specialist presentation
+B	711.96	So if you have the voice recognition , you can you can programme like thirty uh um thirty c uh controls on it .	interface specialist presentation
+A	719.11	Okay , b but I think we'll yeah .	interface specialist presentation
+C	719.67	Okay , but I'll I'll go into that , because there are are some possibilities and some impossibilities .	industrial designer presentation
+C	725.51	Um I had a talk with uh our manufacturing uh division , and uh we had a talk about all the different components um who are in this design .	industrial designer presentation
+C	737.41	Uh these are the things we've looked at .	industrial designer presentation
+C	741.02	And of course I used the web to uh find my information .	industrial designer presentation
+C	745.77	About the casing , we have three different casing possibilities .	industrial designer presentation
+C	750.0	We have the uncurved or flat case .	industrial designer presentation
+C	753.04	Uh that's the most common uh remote con control form uh we're used to is just a it ju it's just a box .	industrial designer presentation
+C	760.77	I'm sorry I I don't have any pictures of uh of this thing .	industrial designer presentation
+C	764.01	We have uh a curved one .	industrial designer presentation
+C	765.56	It's uh curved in two dimensions .	industrial designer presentation
+C	767.27	You have to imagine it's a bit like a wave form .	industrial designer presentation
+C	770.6	So it's uh a little more advanced in its in its shape .	industrial designer presentation
+A	771.42	Okay .	industrial designer presentation
+C	774.71	Uh and we have an even more advanced uh shape , which is curved in three dimension .	industrial designer presentation
+C	779.11	I c I think you can compare it a little bit with the uh big grey image uh you had in your presentation .	industrial designer presentation
+B	785.83	Yeah .	industrial designer presentation
+C	786.42	The the big remote control , something like that .	industrial designer presentation
+B	787.4	Right .	industrial designer presentation
+C	789.31	But it's quite uh advanced and it's it's quite daring to to use I think .	industrial designer presentation
+C	796.85	Um for these casings we have uh different types of finishing .	industrial designer presentation
+C	801.42	We can use plastic , which is uh very slippery and maybe not so nice , but you can give it any colour , uh which is the same for rubber , but it's not slippery .	industrial designer presentation
+C	811.07	We can use wood and titanium .	industrial designer presentation
+C	814.08	Well , um we cannot use the titanium on the double curve cases .	industrial designer presentation
+C	818.52	And these latex cases , there's there's just the plastic ones uh won't allow the use of solar cells as an energy source source .	industrial designer presentation
+C	827.71	Which brings me to the different energy sources .	industrial designer presentation
+C	832.14	Um well , we even seem to have uh hand dyn dynamos for uh powering our uh remote controls .	industrial designer presentation
+C	841.61	You really have to imagine like winding up your uh I d It would be very new , but it's a kind of a retro uh style , I think .	industrial designer presentation
+B	845.14	Great .	industrial designer presentation
+A	846.21	Well , it would be very new to the market , but Yeah .	industrial designer presentation
+C	853.08	Uh Well , this is quite interesting .	industrial designer presentation
+C	856.41	Uh there's there's also a kinetic energy supply .	industrial designer presentation
+C	859.35	So um when you're watching T_V_ uh or when you're you you have to um make some kind of energy kinetic energy by shaking the remote or throwing it against the wall , whatever you wish .	industrial designer presentation
+B	862.52	Like the watch .	industrial designer presentation
+C	873.62	It have it it has to move , that's the the sense of it .	industrial designer presentation
+C	877.36	And you can store the energy in the in the thing .	industrial designer presentation
+A	880.64	I think um , if if I can hook on to that , um the kinetic thing is very funny .	industrial designer presentation
+C	887.01	Mm-hmm .	industrial designer presentation
+C	888.52	It's very funny indeed .	industrial designer presentation
+A	889.49	I mean solar is of course it's nice , but it's , well , your uh your calculator has a solar panel .	industrial designer presentation
+C	892.69	Mm-hmm .	industrial designer presentation
+C	895.49	Indeed .	industrial designer presentation
+A	896.04	Um hand dynamo Well , maybe m Yeah , I know .	industrial designer presentation
+B	896.64	But if you're watching a movie , how many times uh you take the the remote control and and if uh if you have a watch , you have the kinetic uh idea in a watch also .	industrial designer presentation
+C	907.03	Mm-hmm .	industrial designer presentation
+B	907.66	You you walk and uh but uh you you're sitting on a couch .	industrial designer presentation
+C	908.31	Yes .	industrial designer presentation
+A	908.85	Yeah .	industrial designer presentation
+C	909.28	But you know you know from your own watch your watch uses uh a minimal con it consumes a minimal amount of energy .	industrial designer presentation
+C	916.24	the the shaking of your body , which is almost uh every activity makes your uh body shake , uh it charges it .	industrial designer presentation
+C	923.87	But uh the problem here is that it it supplies a a very little amount of kinetic energy .	industrial designer presentation
+C	929.54	So I think uh you have a problem when you're watching a movie and uh you haven't moved the remote uh i remote control in a in an amount of time , and you want t to switch uh the channel or something , well , m it might not work .	industrial designer presentation
+A	937.52	Yeah .	industrial designer presentation
+A	939.79	And wha Okay .	industrial designer presentation
+C	943.76	So that's something you have to keep in mind .	industrial designer presentation
+C	948.08	So , but maybe maybe there's a possibility com to combine it with m uh traditional batteries , so we can save on the batteries and um when there's enough kinet kinetic energy , use the kinetic energy , and otherwise use the batteries .	industrial designer presentation
+A	956.08	Yeah .	industrial designer presentation
+A	962.29	Okay , because I guess the voice recognition feature u consumes quite a f uh a lot of power .	industrial designer presentation
+C	966.83	Uh yes , it does .	industrial designer presentation
+A	968.04	Yeah .	industrial designer presentation
+C	969.05	I'll come to that later .	industrial designer presentation
+A	970.02	Okay .	industrial designer presentation
+C	970.29	And we of course have the traditional uh solar power , which is just uh uh uh uh uh a piece of material on the remote control which transfers light energy into electricity .	industrial designer presentation
+C	985.09	The user interface controls , um of course we have the push-buttons and uh we also have scroll-wheels .	industrial designer presentation
+C	992.92	And these scroll-wheels can also be integrated with buttons .	industrial designer presentation
+C	995.89	So it's just like a mouse .	industrial designer presentation
+C	998.28	You can scroll 'em , you can also push it .	industrial designer presentation
+C	1001.76	Um uh in the indicators we have the L_C_D_ displays , which means uh you can watch uh in a display w which channel you have chosen or something like that of the li amount of volume which is uh currently uh and we also have double scroll-buttons , which are just two of these things .	industrial designer presentation
+B	1012.92	Mm-hmm .	industrial designer presentation
+C	1027.25	So we don't really have the the kind of button we had in mind in our uh uh in our last meeting , the the thing with the the round with the four Yes .	industrial designer presentation components, materials and energy sources
+B	1036.05	Mm-hmm .	industrial designer presentation
+B	1037.57	Oh , we can just make four push-buttons in a form of a round .	components, materials and energy sources
+C	1043.38	That is possible too .	components, materials and energy sources
+C	1044.6	Yes .	components, materials and energy sources
+B	1045.14	But I th I don't think uh the scroll-wheels I had some I had some information about it too .	components, materials and energy sources
+C	1049.87	Mm-hmm .	components, materials and energy sources
+B	1050.97	I don't think there's any possibility for us to use scroll-wheels .	components, materials and energy sources
+A	1055.44	Well This will be the remote , right ?	components, materials and energy sources
+B	1055.79	I d I can't see uh any uh scenario where you would use a scroll-wheel with a button on it .	components, materials and energy sources
+C	1060.85	Well , mayb uh well , m me neither .	components, materials and energy sources
+C	1065.27	Maybe when you integrate some functions .	components, materials and energy sources
+B	1067.36	Yeah .	components, materials and energy sources
+A	1068.32	Um with uh maybe a channel selector .	components, materials and energy sources
+A	1073.94	What about integrating a scroll-bar on this side ?	components, materials and energy sources
+B	1077.34	Yeah , uh that's a possibility , but But Flores , think about a scenario where y where you would use the scroll-button for A volume , okay .	components, materials and energy sources
+C	1078.01	Uh it's do it's done before .	components, materials and energy sources
+A	1079.19	Because this is how you keep it Volume ?	components, materials and energy sources
+C	1080.61	Yes .	components, materials and energy sources
+C	1081.88	It's quite quite good , yes .	components, materials and energy sources
+C	1088.4	Well , it's it well , i what he means is there's an button integrated in the scroll-wheel .	components, materials and energy sources
+C	1093.46	There's no scenario where you use uh the button in the scroll-wheel .	components, materials and energy sources
+C	1097.43	You just use the wheel .	components, materials and energy sources
+A	1098.4	Well , what about mute ?	components, materials and energy sources
+C	1100.69	About mute .	components, materials and energy sources
+C	1101.43	Well , yes .	components, materials and energy sources
+A	1101.5	Thi i i m I guess uh th this is my volume button .	components, materials and energy sources
+C	1103.05	Okay .	components, materials and energy sources
+C	1104.53	Yes .	components, materials and energy sources
+A	1104.75	And I can either on this side or this side um And click it to muten the device .	components, materials and energy sources
+C	1106.75	Well , okay .	components, materials and energy sources
+C	1107.42	Well , that that that's one possibility , okay .	components, materials and energy sources
+C	1112.42	Well , okay .	components, materials and energy sources
+A	1113.68	And and it makes it different from the traditional uh devices on this market .	components, materials and energy sources
+C	1113.94	It's quite goods .	components, materials and energy sources
+A	1118.86	So I'm looking for a way to uh make it a little different than the traditional ones .	components, materials and energy sources
+C	1124.67	Mm-hmm .	components, materials and energy sources
+C	1125.52	Yes .	components, materials and energy sources
+A	1126.69	So maybe um I guess that that's something you two uh need to think about .	components, materials and energy sources
+B	1130.22	Yeah .	components, materials and energy sources
+A	1132.39	Uh Ruud , wha what do you thing about uh a scroll-bar ?	components, materials and energy sources
+D	1136.6	Um Uh well , it's obvious obviously new .	components, materials and energy sources
+A	1136.63	Uh scroll-wheel .	components, materials and energy sources
+B	1137.51	Wheel .	components, materials and energy sources
+D	1143.0	So it might attract uh the young customers .	components, materials and energy sources
+C	1146.93	Hmm .	components, materials and energy sources
+A	1147.16	Okay .	components, materials and energy sources
+C	1147.49	But it's done before , uh there are many other devices um like uh telephones and our uh radio , pocket radios .	components, materials and energy sources
+C	1155.02	We use this .	components, materials and energy sources
+A	1155.91	Yeah .	components, materials and energy sources
+C	1156.11	And Well , it's it's been done years ago and I don't see it anywhere now .	components, materials and energy sources
+C	1162.59	So maybe it's not no .	components, materials and energy sources
+A	1162.77	Well , all the Sony telephones use it , for example , for volume .	components, materials and energy sources
+A	1166.52	Nokia has a well , okay , it's not really a scroll-wheel , but on their side th the the volume button is on the side , because you gri grab it like this .	components, materials and energy sources
+C	1175.14	Hmm .	components, materials and energy sources
+C	1177.13	Yes , but it uses two separate buttons .	components, materials and energy sources
+A	1179.98	Yeah .	components, materials and energy sources
+A	1180.87	I know , it's not really a scroll-wheel .	components, materials and energy sources
+C	1181.0	It doesn't use a .	components, materials and energy sources
+A	1182.75	No .	components, materials and energy sources
+A	1183.2	Yeah .	components, materials and energy sources
+C	1183.22	Well .	components, materials and energy sources
+C	1184.33	Uh something for uh Roo here .	components, materials and energy sources
+A	1185.64	For you too , yeah .	components, materials and energy sources
+B	1187.05	Yeah , I believe uh if you have uh what we've earlier said , um the grip uh places in in the remote control .	components, materials and energy sources
+B	1195.32	You have your hand on one place on the remote control , so you have to place all the buttons in a range of your thumb .	components, materials and energy sources
+C	1200.13	Wi within reach .	components, materials and energy sources
+C	1201.15	Yes , you have to .	components, materials and energy sources
+B	1202.11	So in that case uh the volume button on the side uh of the remote control would be perfect .	components, materials and energy sources
+C	1202.54	Yes .	components, materials and energy sources
+C	1204.53	yes .	components, materials and energy sources
+C	1205.86	Yeah , yeah .	components, materials and energy sources
+A	1206.8	Okay .	components, materials and energy sources
+C	1207.43	Okay .	components, materials and energy sources
+A	1207.67	Sebastian .	components, materials and energy sources
+A	1208.14	Um Yeah .	industrial designer presentation components, materials and energy sources
+C	1209.02	Okay , um we have to know , if you want to use uh these rubber double-curved c uh case , um you must use these push uh push-buttons .	industrial designer presentation
+C	1217.46	There's no way you can integrate L_C_D_ displays .	industrial designer presentation
+C	1219.82	There's no way you can integrate scroll-wheels , because it's all curved .	industrial designer presentation
+C	1222.92	There's there are no uh flat areas where you can incorporate these things .	industrial designer presentation
+C	1227.78	So that's a limitation .	industrial designer presentation
+C	1231.67	About um the components , uh just the hardware .	industrial designer presentation
+C	1236.25	We basically have uh three types of chips we can use and uh these chips incorporate all the Logica and um um uh hardware that is needed to send uh to send a signal .	industrial designer presentation
+C	1249.02	Uh we have a simple , regular and advanced chip .	industrial designer presentation
+C	1252.03	And there is something like a sample sensor and sample speaker , which is a little cryptic uh to me .	industrial designer presentation
+C	1257.96	But I think that's the the voice recognition thing that we are uh thinking about .	industrial designer presentation
+B	1261.85	Yeah yeah , you can um I have some information about it .	industrial designer presentation
+B	1265.36	Uh in the voice recognition you say a word you can programme words like uh v uh volume up .	industrial designer presentation
+C	1268.79	Mm-hmm .	industrial designer presentation
+C	1269.97	Okay .	industrial designer presentation
+C	1271.74	Okay .	industrial designer presentation
+C	1272.59	So so okay .	industrial designer presentation
+B	1272.66	Of mute , let's say mute .	industrial designer presentation
+B	1274.57	Um you programme it , you m mute and you g you give um an uh an action to it that that's really the mute function and uh when you speak in the the remote control , it repeats uh your saying .	industrial designer presentation
+C	1281.84	Mm-hmm .	industrial designer presentation
+C	1284.4	Yeah .	industrial designer presentation
+B	1292.84	So that's the sample sensor .	industrial designer presentation
+C	1294.68	Okay .	industrial designer presentation
+B	1295.08	So if you say mute , it says mute again , and then it's um well , I believe it's uh Yeah , and then uh he he repeats its action what which he believes it is .	industrial designer presentation
+C	1297.48	Mm-hmm .	industrial designer presentation
+A	1301.25	It performs the action .	industrial designer presentation
+A	1303.1	Yeah .	industrial designer presentation
+C	1303.97	Okay .	industrial designer presentation
+B	1307.18	So you say mute , he repeats mute and you makes a computer sound mute , and then goes to the mute function .	industrial designer presentation
+A	1307.4	Yeah .	industrial designer presentation
+C	1313.37	Okay .	industrial designer presentation
+C	1314.1	Okay , so that's basically the the voice recognition item we were searching for .	industrial designer presentation
+C	1318.14	Okay .	industrial designer presentation
+C	1318.69	This sample sensor uh requires an regular chip , I thought .	industrial designer presentation
+C	1324.39	Um no op I'm not very sure .	industrial designer presentation
+C	1328.5	No , it's not in here .	industrial designer presentation
+C	1330.08	If we want to use the L_C_D_ display , we really need the advanced version , which is a bit l little bit more costly .	industrial designer presentation
+C	1336.11	If we want to use the scroll-wheels we need the regular version .	industrial designer presentation
+C	1340.14	And if we don't want to use uh any of these uh more advanced functions we can keep with the simple uh chip , which is a bit cheaper .	industrial designer presentation
+A	1347.3	Okay .	industrial designer presentation
+A	1348.28	Uh well uh d did we already decide on the display ?	industrial designer presentation
+C	1348.62	Okay .	industrial designer presentation
+A	1352.39	To No .	industrial designer presentation
+C	1352.39	Um no , but I think that's something for uh Roo here to think about .	industrial designer presentation
+B	1357.0	Yeah .	industrial designer presentation
+B	1357.48	Well , I don't have um I haven't looked for uh for information about it , but I don't think information uh y I don't think you need it on a display .	industrial designer presentation
+B	1367.71	Especially when when we have to look at a cost , I don't think uh 'cause uh uh all any T_V_ can uh can uh view a digit on uh on screen , yeah .	industrial designer presentation
+C	1367.9	I I don't think either .	industrial designer presentation
+C	1370.98	No .	industrial designer presentation
+C	1371.36	I don't think you need it .	industrial designer presentation
+A	1376.31	On screen display .	industrial designer presentation
+A	1377.92	Yeah .	industrial designer presentation
+C	1378.47	Okay .	industrial designer presentation
+A	1378.84	Okay th Okay .	industrial designer presentation
+C	1379.72	Okay , well my conclusion , um unfortunately the market has decided the a little uh other than I thought .	industrial designer presentation
+C	1386.64	I thought um the market would like uh a sort m sort of titanium casing , but they seem to like natural uh stuff .	industrial designer presentation
+C	1395.9	So maybe we should think about uh wood finish .	industrial designer presentation
+C	1399.99	Um I've chosen the more battery with solar cell uh solution for the energy .	industrial designer presentation
+C	1406.52	It's more reliable , it's cheaper .	industrial designer presentation
+C	1409.14	So I don't think we should use the dynamo thing .	industrial designer presentation
+A	1409.86	Good .	industrial designer presentation
+A	1412.0	Kineti okay .	industrial designer presentation
+C	1413.2	The kinetic thing it it's it's a possibility .	industrial designer presentation
+D	1413.23	Hmm .	industrial designer presentation
+C	1416.03	It's it's more advanced , but I'm I think you should combine it with batteries .	industrial designer presentation
+A	1420.61	Okay , it's maybe a bit too too flashy , too yeah .	industrial designer presentation
+C	1420.9	Otherwise it will not too advanced , uh well .	industrial designer presentation
+C	1425.15	It's in in in some way it can give us an advance , because you will save on your batteries .	industrial designer presentation
+C	1432.25	But Yes .	industrial designer presentation discussion
+A	1432.3	Yeah , but that that's the same with the solar cell .	discussion
+A	1434.73	That's no different .	discussion
+C	1434.96	And I think it's more robust .	discussion
+C	1436.57	It's more uh Uh it's more functional .	discussion
+A	1436.72	Yeah .	discussion
+A	1437.7	Okay .	discussion
+B	1437.86	But what about um the markets uh wants colourfuls uh designs ?	discussion
+B	1445.56	So if you use titanium Okay .	discussion
+A	1447.42	No no , but the uh um that's what Sebastian said .	discussion
+C	1448.64	The titanium thing uh we have to skip it .	discussion
+A	1449.97	He said uh this is what uh this is my personal preference .	discussion
+A	1453.0	But but yet , I understood that the market is different .	discussion
+B	1455.22	Oh , sorry .	discussion
+B	1455.82	Yeah .	discussion
+A	1455.86	So um No , r rubber with colours .	discussion
+C	1455.86	So I think we should skip the titanium uh stuff , and we should uh use wood or something like that .	discussion
+B	1458.88	Yeah .	discussion
+D	1461.67	And yeah , the yeah , the older people liked wood .	discussion
+B	1461.75	And I would think And they can be implemented with a regular chip ?	discussion
+C	1465.33	Oh okay , sorry .	discussion
+C	1466.27	So it it needs to be rubber .	discussion
+D	1466.69	No the Yeah , the younger people liked soft material .	discussion
+A	1468.15	Colourful and Yeah .	discussion
+C	1468.55	Okay .	discussion
+C	1470.39	Okay , spongy materials .	discussion
+D	1471.92	Yeah .	discussion
+C	1473.52	Okay , um well um these scroll-wheels , I think uh they they can be they can be handy .	discussion
+C	1481.0	So Yes , they can .	discussion
+C	1484.48	But they really need the regular chip , you cannot use the sa simple Well , I'm not very sure .	discussion
+B	1486.56	Okay , but we also uh we already need the regular chip for the sample uh sensor speaker oh , evalu But most infrared uh remote controls don't have to be pointed at all .	discussion
+C	1491.36	Maybe that's an uh a different I think so , if you if you stick with the the simple uh straight-forward uh not curve design , i uh it's too dull .	discussion
+A	1492.75	But but do we want the curved uh uh design , or I it's too dull .	discussion
+D	1505.68	Yeah .	discussion
+A	1505.87	Yeah .	discussion
+C	1506.16	I don't think c our customers will like it .	discussion
+C	1508.76	And um if you uh take the double-curved , uh then you cannot um you can only use the rubber buttons and you cannot use the scroll-wheels .	discussion
+A	1516.2	Yeah .	discussion
+C	1518.0	So I think this is the best of two worlds .	discussion
+A	1518.01	Okay .	discussion
+A	1519.15	Okay .	discussion
+A	1521.48	Okay , what about um the issue I um addressed at the beginning of the meeting ?	discussion
+A	1529.37	Um the voice function w with the infrared uh issue .	discussion
+C	1536.01	Yes .	discussion
+A	1536.42	Because it it's of cour Yeah .	discussion
+C	1537.55	It's it's uh I uh I can imagine it's very dull to talk to a device w if you have to point to another device .	discussion
+C	1545.47	It's very unlogical .	discussion
+C	1554.05	Well the there has to be some pointing at .	discussion
+A	1554.29	Well It depends also on your on your Well , it depends on your walls actually .	discussion
+C	1556.35	But All lights get absorbed , yeah .	discussion
+B	1557.51	Well , if you if you take your hand before it , okay , it won't work , but you can point it just to the other wall .	discussion
+A	1565.65	If you have uh have um smooth walls , it it it probably you're probably right .	discussion
+B	1565.97	Yeah .	discussion
+A	1570.96	But if you have carpets on the wall , which our natural loving friends probably do have , then um yeah , th th it might be a bit more of a issue .	discussion
+C	1583.19	Yes , because the walls they they reflect the infrared light .	discussion
+A	1583.66	So Yeah .	discussion
+C	1586.81	So it has an it's easier .	discussion
+C	1591.37	Um I suggest we use the the sensor sample .	discussion
+C	1595.39	Uh the sample sensor and sample speaker .	discussion
+C	1599.64	Um with a with a regular chip .	discussion
+B	1600.15	And the regular chip .	discussion
+C	1602.93	I think uh it gives us the advantage of Yes , yes .	discussion
+B	1604.93	And and the scroll uh scroll-wheels .	discussion
+B	1607.39	Yeah .	discussion
+A	1608.53	I like the scroll wheels uh idea .	discussion
+C	1608.57	And uh skip and skip the L_C_D_ part .	discussion
+A	1611.32	Yeah .	discussion
+C	1611.44	I don't think it it's any uh value added thing .	discussion
+B	1614.12	No .	discussion
+C	1615.24	So Okay .	discussion
+B	1615.34	Think so too .	discussion
+A	1616.24	Well , it looks uh yeah , well um according to Ruud , the the the market likes um new flashy technology , and I mean L_C_D_ is well , ok I know , but it's m it's less um s standard than than Well , we are not very w we do not know uh much about the the f the financial part .	discussion
+C	1622.13	Technology .	discussion
+C	1624.18	Yes .	discussion
+C	1625.45	It's not very flashy and new .	discussion
+D	1632.11	Standard ?	discussion
+A	1640.66	That's the problem .	discussion
+C	1640.97	Mm-hmm .	discussion
+A	1641.76	Because if we do have enough um space in in our finance , I would say do integrate it , because it it adds a little ext extra high-tech feeling to it .	discussion
+C	1646.48	Mm-hmm .	discussion
+C	1653.07	Yes .	discussion
+B	1655.2	But we already have the scroll-wheels , the sp uh the speaker uh the speak recognition , the rubber , the fancy colours .	discussion
+A	1659.74	Mm yeah .	discussion
+C	1661.46	Uh I think our customers will go insane .	discussion
+A	1663.83	Okay , okay .	discussion
+C	1664.78	It's it's too much .	discussion
+A	1665.84	Yeah .	discussion
+A	1667.23	Okay , I I agree .	discussion
+A	1668.94	I think i Ruud , do you have any um anything you would like to um add or or maybe thoughts or No ?	discussion
+D	1678.26	Nah , um n no , I don't think so .	discussion
+D	1680.51	M Hmm .	discussion components, materials and energy sources
+A	1681.54	Sebast uh nee , Roo ?	discussion
+A	1683.05	Roo , do you have any other Nothing more .	discussion
+B	1683.62	Um no .	discussion
+B	1686.71	Nothing more .	discussion
+A	1690.61	Um Sebas Well , we we need to describe uh decisions now .	discussion
+C	1690.72	Okay .	discussion
+C	1692.74	Uh the n the next phase will be um the um not the what is the next phase f Flores ?	discussion
+C	1704.97	Okay .	discussion
+A	1705.69	So um on the energy , well , we decided .	discussion
+C	1706.31	So i Okay .	discussion
+A	1709.62	Chip .	discussion
+C	1710.46	Okay .	discussion
+A	1711.27	The case uh rubber with uh c one one uh one curve .	discussion
+C	1714.59	Okay , okay .	discussion
+A	1716.86	User interface um Um then the corporate identity should be uh in the product .	discussion
+B	1719.2	Uh but uh can't scroll-wheels uh work with one uh one-curved case ?	discussion
+C	1724.52	Yes , they can work .	discussion
+B	1724.55	Yeah , okay .	discussion
+B	1725.44	Sorry , yeah .	discussion
+C	1725.72	They cannot work with double-curved .	discussion
+B	1727.18	Oh , sorry .	discussion
+C	1727.62	That's that's problem .	discussion
+B	1727.93	Yeah .	discussion
+C	1728.82	I'll check it for you .	discussion
+A	1734.43	I guess that is something for Roo and Sebastian .	discussion
+A	1738.43	Uh you talked about it before , the colours , grey and yellow .	discussion
+B	1741.27	Yeah .	discussion
+A	1742.53	Keep it in mind .	discussion
+A	1743.54	And um the buttons , well we talked about it now .	discussion
+A	1747.03	The next phase , um Sebastian , um is um the design of the look and feel .	project specs and roles of participants
+C	1750.72	Yes .	project specs and roles of participants
+C	1756.26	Mm-hmm .	project specs and roles of participants
+A	1758.23	The user interface design .	project specs and roles of participants
+A	1760.56	And for you , the product evaluation .	project specs and roles of participants
+A	1763.44	Um I'm sure your personal coach will give you more information on that .	project specs and roles of participants
+A	1770.0	Um and uh the I_D_ and the U_I_D_ need to work together on the prototype drawing on the SMARTboard .	project specs and roles of participants
+C	1776.26	Okay .	project specs and roles of participants
+A	1777.82	And I'm going uh to plan my holidays .	project specs and roles of participants
+C	1781.38	Okay .	project specs and roles of participants
+C	1782.71	So you will be on the Bahamas .	project specs and roles of participants
+B	1783.13	The project drawing is for the next Yeah , right .	project specs and roles of participants
+C	1784.16	Uh Okay .	discussion project specs and roles of participants
+A	1786.74	Yeah , it's it's uh when we come back in thirty minutes , uh you will have a uh prototype ready .	project specs and roles of participants
+C	1792.63	So can you uh give us a summary of all uh decisions we've made ?	discussion
+A	1796.1	Yeah ?	discussion
+A	1796.91	I can .	discussion
+A	1797.53	Um maybe one of you could write it down .	discussion
+C	1799.73	I'll do .	discussion
+A	1800.44	Great .	discussion
+A	1801.11	Um Uh you you need to help me .	discussion
+A	1806.51	Um The casing is curved , single-curved .	discussion
+C	1806.81	Okay .	discussion
+C	1807.7	W start with the casing .	discussion
+B	1810.98	Single-curved .	discussion
+C	1811.25	Okay , single-curved case .	discussion
+C	1812.88	Okay .	discussion
+C	1815.18	What about the energy source ?	components, materials and energy sources
+A	1817.48	Traditional batteries uh and solar .	components, materials and energy sources
+B	1819.68	But can there be uh wor can they work together ?	components, materials and energy sources
+B	1823.25	Or do we have to choose between them ?	components, materials and energy sources
+B	1825.91	'Cause if we have to choose yeah ?	components, materials and energy sources
+A	1826.29	No , they can be complementary .	components, materials and energy sources
+C	1827.98	I I think they can .	components, materials and energy sources
+A	1828.03	Uh al al I uh Every device Yeah .	components, materials and energy sources
+C	1829.22	Yes .	components, materials and energy sources
+B	1829.66	Okay .	components, materials and energy sources
+C	1830.55	Well , uh It it should be .	components, materials and energy sources
+B	1831.03	What if not ?	components, materials and energy sources
+C	1833.67	There should be really no problem .	components, materials and energy sources
+C	1835.03	They can be supplementary .	components, materials and energy sources
+B	1835.12	Okay .	components, materials and energy sources
+C	1836.11	That's no problem .	components, materials and energy sources
+C	1838.25	So So uh uh just uh the energy source is um the batteries and the solar .	components, materials and energy sources
+A	1838.97	Okay , um th Battery and solar , yeah .	components, materials and energy sources
+C	1846.1	Okay .	components, materials and energy sources
+C	1848.89	What about uh the finishing of the case ?	components, materials and energy sources
+C	1851.98	We have decided we wanted to use the rubber ?	components, materials and energy sources
+A	1854.12	Yeah , with colourful rubber .	components, materials and energy sources
+B	1854.36	Yeah .	components, materials and energy sources
+A	1855.81	Uh if it's possible with uh different um covers , but I'm not sure if our suppliers can uh can help us with uh with such uh uh a wish .	components, materials and energy sources
+C	1866.69	Okay , and I think we should use the company colours .	components, materials and energy sources
+C	1870.03	Something like black and red .	components, materials and energy sources
+C	1871.43	uh black and yellow .	components, materials and energy sources
+A	1873.51	Uh grey and yellow or black and yellow .	components, materials and energy sources
+B	1874.31	Grey and yellow .	components, materials and energy sources
+C	1875.04	Grey yellow , okay .	components, materials and energy sources
+A	1875.56	Yeah .	components, materials and energy sources
+B	1875.99	Yellow case and grey buttons , I think .	components, materials and energy sources
+A	1878.41	Yeah , although I don't think that's very colourful .	components, materials and energy sources
+A	1881.51	Except for the yellow of course , but um I could think of a more uh attractive uh c uh set of colours .	components, materials and energy sources
+C	1887.85	Oh , I think it's uh it's not very dull .	components, materials and energy sources
+C	1892.21	It's quite modern actually .	components, materials and energy sources
+C	1894.33	Don't you think ?	components, materials and energy sources
+A	1896.36	Well , I was more thinking about the fruit colours that the Ruud showed us before .	components, materials and energy sources
+B	1896.73	I believe the But you have already um you must have a red uh on and off button .	components, materials and energy sources
+B	1906.85	And um Well well Well , there is .	components, materials and energy sources
+A	1908.27	Well , it it doesn't have to be red .	components, materials and energy sources
+A	1912.07	Uh I mean th uh I think these colours are really what our young people are looking for .	components, materials and energy sources
+A	1917.84	Um so maybe it shouldn't even be two colours , it should be a full colour cover with such an image or or I mean thinking in two colours is is too black and white for our m uh c uh market group , I guess .	components, materials and energy sources
+C	1920.59	Hmm .	components, materials and energy sources
+C	1926.52	Okay .	components, materials and energy sources
+D	1932.35	Or black and yellow .	components, materials and energy sources
+A	1933.73	Black and yellow , yeah .	components, materials and energy sources
+C	1937.66	Okay , but uh I'm afraid it's not possible to print a picture on uh the device .	components, materials and energy sources
+C	1943.98	Because uh I agree it would be nice to have have something like that on the device itself .	components, materials and energy sources
+C	1949.79	But Oh , I've read .	components, materials and energy sources
+B	1952.85	Just a week ago , a keyboard manufacturer would print , with and uh No .	components, materials and energy sources
+D	1956.76	Yeah .	components, materials and energy sources
+C	1957.51	Yes .	components, materials and energy sources
+C	1959.17	Yes , but our manufacturing department is not so advanced in its uh techniques .	components, materials and energy sources
+C	1964.19	They're actually very slow in its techniques .	components, materials and energy sources
+A	1966.63	Okay , so we have to deal with wh what's possible here .	components, materials and energy sources
+C	1966.81	So So I'm afraid it's not possible .	components, materials and energy sources
+A	1970.76	Yeah .	components, materials and energy sources
+A	1971.73	Okay .	components, materials and energy sources
+A	1973.55	Um more f more more decisions we made .	components, materials and energy sources
+A	1976.63	Um Um The scroll-heel .	components, materials and energy sources
+B	1983.66	A scroll-wheel .	components, materials and energy sources
+A	1985.62	Yes , the voice recognition we already decided .	components, materials and energy sources
+B	1987.12	Voice recognition , of course .	components, materials and energy sources
+C	1988.67	Okay , so scroll-wheel .	components, materials and energy sources
+C	1989.81	But there will be some additional buttons , I guess .	components, materials and energy sources
+A	1992.36	Yeah .	components, materials and energy sources
+C	1992.98	And th the they should be spongy also , because they're they're rubber too .	components, materials and energy sources
+A	2000.87	Uh I'm going to leave that up to you two .	components, materials and energy sources
+B	2004.03	What what did you say ?	components, materials and energy sources
+C	2005.29	Well uh you can use well , when you use the buttons , they'll they'll be made of rubber too .	components, materials and energy sources
+C	2012.88	So it has th the spongy uh feel also .	components, materials and energy sources
+B	2013.15	Yeah .	components, materials and energy sources
+A	2015.89	Yeah .	components, materials and energy sources
+C	2016.48	So I I think that's okay .	components, materials and energy sources
+B	2018.87	Yeah , or you could use plastic buttons .	components, materials and energy sources
+B	2022.23	In the rubber .	components, materials and energy sources
+A	2023.84	I think rubber is nice .	components, materials and energy sources
+A	2025.98	Because it uh i I mean what do you touch the button , and what do they want spongy uh uh devices , or or i .	components, materials and energy sources
+B	2033.32	Yeah , b But then you just have the the fact that um the drawings on the buttons will disappear eventually .	components, materials and energy sources
+B	2044.98	What I said in the in the first uh discussion , uh the digit six on the button , it will disappear when it's from rubber .	components, materials and energy sources
+A	2052.49	Uh is that uh does our our supplier say so ?	components, materials and energy sources
+B	2054.84	It is not uh something uh it's no information I read about it or so , but it's just from No , but but uh it Yeah , b yeah .	components, materials and energy sources
+D	2059.66	Uh didn't did we inc uh include the digi digits or uh leave them to the speech recognition ?	components, materials and energy sources
+D	2066.34	'Cause things like uh volume could be uh placed next to the button .	components, materials and energy sources
+A	2070.65	Yeah .	components, materials and energy sources
+A	2071.58	You could place a um uh this this would be the button .	components, materials and energy sources
+D	2073.54	There the icons .	components, materials and energy sources
+A	2076.77	The scroll-wheel , I mean .	components, materials and energy sources
+A	2078.43	And you could place the indica th th the signals the No no , there's no painting , only uh yellow or But it's into the rubber .	components, materials and energy sources
+C	2080.76	Yes .	components, materials and energy sources
+D	2082.68	So you don't touch the icons that much .	components, materials and energy sources
+C	2083.13	That's okay .	components, materials and energy sources
+B	2083.35	Yeah , that's possible , but then you have still the images on the rubber of the case .	components, materials and energy sources
+B	2091.03	So still then , if you feel uh li uh if you feel your remote control , you just rub on the cover , so you rub on the painting .	components, materials and energy sources
+B	2102.51	Yeah .	components, materials and energy sources
+B	2105.45	Yeah , but but the the plus or the minus .	components, materials and energy sources
+C	2108.36	Yes , the signs .	components, materials and energy sources
+B	2108.56	You have to draw the Yeah , it's on the cover .	components, materials and energy sources
+A	2108.91	Yeah , but this is on the pla yeah , I know .	components, materials and energy sources
+A	2111.44	Um I think uh I know which you understand af uh I know what you mean .	components, materials and energy sources
+B	2111.58	So if you uh You just move the problem .	components, materials and energy sources
+A	2115.73	What about um making this rubber and making this plastic ?	components, materials and energy sources
+C	2123.41	Uh I see what you mean .	components, materials and energy sources
+C	2125.44	Well , maybe that's possible , because um uh our manufacturing division also offers plastic finishing .	components, materials and energy sources
+C	2133.83	So maybe they can combine these two .	components, materials and energy sources
+A	2137.27	Yeah .	components, materials and energy sources
+A	2137.72	Well actually , we should have it the other way around , I guess .	components, materials and energy sources
+A	2140.47	A plastic cover with rubber finishing .	components, materials and energy sources
+A	2144.17	I mean , this is this is the finishing .	components, materials and energy sources
+A	2145.92	This is um what's on the edge .	components, materials and energy sources
+A	2149.61	What you feel .	components, materials and energy sources
+C	2150.8	Yeah .	components, materials and energy sources
+A	2151.39	But the front , on which the the buttons are doesn't have to be rubber .	components, materials and energy sources
+C	2155.54	Mm-hmm .	components, materials and energy sources
+A	2157.46	I mean I know , but do you touch this or do you touch this ?	components, materials and energy sources
+C	2157.49	Well , I'm I'm not so sure , I think it c should be Well , I'm not sure , I have to ask with manufacturing , but I'm I'm not sure that's what you want , because our customers specifically ask for the spongy feel , and that's what you get with rubber .	components, materials and energy sources
+B	2159.14	Y uh can you separate these uh these I do .	components, materials and energy sources
+C	2170.87	So if you want the spongy feel , you need uh to make these buttons all all of rubber .	components, materials and energy sources
+A	2181.46	I mean , I I never touch between the buttons .	components, materials and energy sources
+C	2181.5	I think both .	components, materials and energy sources
+C	2184.69	I do .	components, materials and energy sources
+B	2185.45	Or the s uh the sideways .	components, materials and energy sources
+C	2186.05	I think Okay .	components, materials and energy sources
+B	2186.65	Or the the back .	components, materials and energy sources
+A	2187.36	Yeah , the side , exactly , the sideways .	components, materials and energy sources
+B	2188.26	Or the back .	components, materials and energy sources
+A	2190.02	The side , but do you touch between the the these buttons ?	components, materials and energy sources
+B	2190.57	I think Yes , especially when there are l a few buttons on it , you have uh a lot of space to touch .	components, materials and energy sources
+B	2202.52	So you just have it in your hand completely or or i you play with it .	components, materials and energy sources
+A	2205.94	Okay .	components, materials and energy sources
+A	2206.61	Well , we do not have very much time uh left .	components, materials and energy sources
+A	2209.54	Um I guess you two have to figure that out .	components, materials and energy sources
+B	2212.11	Yeah .	components, materials and energy sources
+A	2212.23	I'm going to leave the decision to you , um because you have to make its prototype , and um yeah y you have the most knowledge about the suppliers , the possibilities and uh so I'm going to leave it the decision with you .	components, materials and energy sources
+B	2223.47	Yeah .	components, materials and energy sources
+A	2226.28	Um Sebastian , did you write enough decisions down ?	components, materials and energy sources
+C	2229.87	Um not quite .	components, materials and energy sources
+C	2232.08	Um what about uh the chips ?	components, materials and energy sources
+C	2239.08	We use the regular chip ?	components, materials and energy sources
+B	2240.06	Regular .	components, materials and energy sources
+C	2240.82	Okay .	components, materials and energy sources
+A	2241.4	Yeah .	components, materials and energy sources
+C	2245.51	And Well no , I think that's about it .	components, materials and energy sources
+B	2246.37	Use with .	components, materials and energy sources
+C	2251.76	Yes .	components, materials and energy sources
+A	2253.22	Okay .	components, materials and energy sources
+A	2253.64	With those regular chips we can still uh control advanced functions .	components, materials and energy sources
+A	2258.75	The chip is is not really Okay , well .	discussion components, materials and energy sources
+C	2260.76	The only difference between the advanced and the regular version is that the advanced uh version of the chip supports L_C_D_ .	components, materials and energy sources
+C	2266.68	That's all .	components, materials and energy sources
+C	2267.24	And we've decided not to use L_C_D_ .	components, materials and energy sources
+A	2268.93	Yeah .	discussion
+C	2269.02	So Okay .	closing components, materials and energy sources
+A	2270.02	Okay .	discussion
+A	2271.01	Um okay , then I think we are uh quite finished .	closing
+A	2275.89	Um I'll see you guys in thirty minutes and um Yeah ?	closing
+B	2282.16	For the finishing touch .	closing
+A	2284.2	Yeah , um if you write wrote anything down , uh could you put it on the shared folder ?	closing
+C	2289.14	Okay .	closing
+B	2289.81	Uh yeah .	closing
+A	2290.74	Yeah .	closing
+B	2291.6	But um Sebastian has everything .	closing
+A	2295.09	I know , but well Great .	closing
+C	2298.15	I'll put it online .	closing
+A	2315.17	Right .	closing

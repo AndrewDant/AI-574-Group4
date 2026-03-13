@@ -1,0 +1,517 @@
+A	52.49	So we come to the third meetings .	opening
+A	55.38	I have good .	opening
+A	60.25	Um so in the last meeting we have discussed the functional design and now we will talk about the conceptual design .	opening
+A	76.39	So we will talk about some specific details .	industrial designer presentation opening
+C	81.59	Okay so I think I will do my presentation on the components concept so can you please uh open uh I'm participant two .	industrial designer presentation
+C	102.57	Components design .	industrial designer presentation
+A	103.06	This Uh this is what we have decided in the last meeting .	industrial designer presentation components, materials and energy sources
+C	109.82	Okay so uh the first thing uh I have done is to to made a review together with the uh manufactural uh department and have which components was uh available to build a remote control .	components, materials and energy sources
+C	126.57	So for energy sources we have we have to choose between the solar energy , hand dynamo and uh kinetic um well uh kinetic uh technique to to store the energy .	components, materials and energy sources
+C	144.85	We also um we also can put a regular battery in the in the remote control .	components, materials and energy sources
+C	152.68	Now Yeah b uh f well uh I meant uh by by battery I meant uh I will not have a uh a wire between the remote control and the energy source but uh I didn't fou we didn't decide yet which kind of battery we will put inside the the remote .	components, materials and energy sources
+A	156.12	But if we use battery We will , okay .	interface specialist presentation components, materials and energy sources
+C	181.06	So uh it's a point to discuss .	components, materials and energy sources
+C	184.78	Then uh the case material we have uh uh also several choices , like wood , rubber , titanium or latex .	components, materials and energy sources
+C	195.01	But uh well it's not a a re uh well a real issue for the from the technical uh point of view .	components, materials and energy sources
+C	207.38	Concerning the interface uh we can we can put mm just simple buttons or scrolls or buttons uh much more complicated , but it also requires that the chip to process the button is more complicated so .	components, materials and energy sources
+B	221.01	Mm .	components, materials and energy sources
+C	224.94	And uh this is the last point , the choice of chips .	components, materials and energy sources
+C	230.36	So what I have f found is that I think basic battery or kinetic uh energy uh collection is the is the better way to provide energy because I think solar energy wi won't work in a cluttered uh uh environment .	components, materials and energy sources
+B	247.72	Mm .	components, materials and energy sources
+C	250.24	So um so I think we can start with these two main things .	components, materials and energy sources
+C	257.82	For the case uh well uh I think that uh titanium is um is a good choice because it's trendy and it's uh it's uh well it's modern and uh user are are are mm will be uh very happy to have a a a nice remote .	components, materials and energy sources
+C	282.11	For the interface uh I think that we can ach achieve uh all the desired functionalities by s just uh using uh rubber buttons , simple buttons and th thus this allow to use a regular chip that are uh well cheaper .	components, materials and energy sources
+B	302.37	Mm .	components, materials and energy sources
+C	302.92	And s so uh we can move to the next slide .	components, materials and energy sources
+B	307.22	Sorry .	components, materials and energy sources
+C	307.97	Yeah .	components, materials and energy sources
+B	308.48	What is this single curved what does it mean ?	components, materials and energy sources
+C	311.88	Well uh uh i i it's uh it's the the shape of the um of the remote .	components, materials and energy sources
+B	315.68	So it's it's not Yo l yeah .	components, materials and energy sources
+C	317.29	You you will have the well um the the curve will fit into your hand when you grab the Yeah .	components, materials and energy sources
+B	324.7	When you hold on it , it is comfortable to hold .	components, materials and energy sources
+C	328.31	It's more confog f comfortable that if these uh it's completely flat .	components, materials and energy sources
+B	331.14	Okay .	components, materials and energy sources
+B	333.46	Yeah .	components, materials and energy sources
+B	333.87	And the battery , is it kind of a rechargeable or it doesn't matter ?	components, materials and energy sources
+C	338.27	Yeah the um that's the point .	components, materials and energy sources
+C	340.85	The kinetic one is uh y you can recharge uh by the um Yeah and by well by just by moving the ar uh your arm the mm well the remote will uh accumulate energy .	components, materials and energy sources
+B	346.42	That that's what it means by kinetic .	components, materials and energy sources
+B	351.87	Okay .	components, materials and energy sources
+B	353.82	Mm-hmm .	components, materials and energy sources
+B	357.44	Okay .	components, materials and energy sources
+C	357.99	But I d I don't know it's if it is feasible because I don't know if yet if if the user will move enough to provide the remote um all the necessary energy .	components, materials and energy sources
+B	365.21	Mm .	components, materials and energy sources
+B	368.48	Mm .	components, materials and energy sources
+B	369.8	Okay .	components, materials and energy sources
+B	371.59	Yeah .	components, materials and energy sources
+B	373.2	Yeah .	components, materials and energy sources
+B	373.91	We we might check with our R_ and D_ department to see if they have this product ready for market .	components, materials and energy sources
+C	378.39	Yeah .	components, materials and energy sources
+C	381.83	And yeah and so can you go to the next slide please .	components, materials and energy sources
+C	386.93	So and uh that's uh that summarize well what I have said .	components, materials and energy sources
+B	391.87	Mm mm .	components, materials and energy sources
+C	394.41	So uh you're right we can uh see in our uh R_ and D_ uh if the kinetic metal is sufficient to provide enough energy .	components, materials and energy sources
+B	394.6	Wha Ah the department .	components, materials and energy sources
+B	404.18	Mm .	components, materials and energy sources
+C	406.99	That's it .	components, materials and energy sources
+B	411.43	Uh So I um keep in touch with the R_ and D_ department .	components, materials and energy sources
+C	436.76	Oh yeah I take care , it's all right .	components, materials and energy sources
+B	443.19	So the titanium case is the normal case that I'll show you some pictures that I have and you tell me whether they are titanium case or not .	interface specialist presentation
+C	452.99	All right .	interface specialist presentation
+B	453.11	'Cause I am not very sure , plastic , titanium or whatever .	interface specialist presentation
+C	454.75	Yeah .	interface specialist presentation
+B	458.63	There's another point I want to make , is that the uh well you've seen them I le na my presentation that um I point out some why buttons are not the mm not the only ways you can use Yeah .	interface specialist presentation
+B	477.41	Yeah , maybe n Yeah .	interface specialist presentation
+A	498.88	Three .	interface specialist presentation
+B	506.26	So the user interface is uh i it uses the aspect uh of a computer system , a programme which can be seen or heard or otherwise perceived by the human user and the commands and mechanism the user uses to control its operation and input data .	interface specialist presentation
+B	527.5	So you s this gives you the ways to input data and we have uh we are more we emphasise more on the graphical user interface here .	interface specialist presentation
+B	536.28	The idea is to represent buttons as figures , diagrams , symbols and on so you you can easily when you look at the symbols you understand what it is doing .	interface specialist presentation
+A	546.94	What's the function of this button .	interface specialist presentation
+B	548.19	Yeah .	interface specialist presentation
+B	548.8	Yeah .	interface specialist presentation
+B	549.92	So .	interface specialist presentation
+A	551.24	I think it makes the the interface really Graphical user interface .	interface specialist presentation
+B	554.35	Ea easy to use .	interface specialist presentation
+B	559.25	So next one .	interface specialist presentation
+B	562.08	function five .	interface specialist presentation
+B	565.43	So I can use the button , the mouse maybe .	interface specialist presentation
+A	567.54	A graphical user interface emphasise the use of pictures .	interface specialist presentation
+B	570.07	Yeah .	interface specialist presentation
+B	572.55	So next line .	interface specialist presentation
+B	574.23	So the here are some examples .	existing products
+B	576.97	So they cluster the buttons together .	existing products
+B	580.02	They group them into col they colour them and uh they have different forms as well .	existing products
+B	588.43	Mm but this interface are kind of confusing .	existing products
+B	593.68	Uh basically there are too many buttons .	existing products
+B	596.93	Right .	existing products
+B	597.49	Next one .	existing products
+C	597.91	Yeah .	existing products
+B	601.09	So some people are propose voice recognition and so ah by the way I receive an email from the from one our departments saying that the voice recognition has been used in the coffee machine for this by a company when you tell the you say good morning coffee machine and the machine are reply to you .	existing products
+C	621.26	Mm-hmm mm mm .	existing products
+B	621.59	So I just got an email saying that .	existing products
+B	624.52	And it seems like this voice recognition technology is ready to be used so we might consider that , supposedly .	existing products
+C	631.87	Yeah fine .	existing products
+B	634.4	The next one .	existing products
+B	639.11	Mm so somebody some people use uh some people use a spinning wheel th with the L_C_ display so instead of using the mm buttons you have a L_C_D_ screen and then there you can u you can use that as buttons , you can use that as real so so that could be an option as well .	existing products
+B	660.4	Touch screen , I mean .	existing products
+A	661.47	Yeah .	existing products
+B	662.49	Next one .	existing products
+B	666.33	And some people propose a scroll button .	existing products
+B	669.91	Integrated with push buttons or you may have scroll button instead of p just the push button .	existing products
+B	675.9	Like the one we have here .	existing products
+B	678.49	Uh , next one .	existing products
+B	684.31	So mm so there are a few aspects that I collected here .	existing products
+A	690.02	Mm-hmm .	existing products
+B	695.62	So s basically this deals with special users , children , handicapped people , old people , and uh mm and prog basically they are programmable , specially for children .	existing products
+B	711.76	And uh mm yeah yeah .	existing products
+B	717.07	And then they also secure uh covers , to protect uh secure and hidden programming and battery covers that will protect your settings .	existing products
+B	728.21	So But we don't have to integrate all these complicated features .	existing products
+B	733.31	I'm just saying that the currently in the market there are there are control there are remote controllers f customisable for different people .	existing products
+B	745.11	Yeah , so that's the point .	existing products
+B	747.69	The next one .	existing products
+B	754.39	And uh you see this is the one where you have the protection cover .	existing products
+B	758.79	Mm maybe useful for children , they migh you you they only see the buttons outside .	existing products
+B	764.28	And for adults wh where you have more control you can see the one inside .	existing products
+B	768.62	So the adults might wanna have a key to lock that to pr so children will not touch the button inside .	existing products
+C	774.97	Yeah .	existing products
+B	775.86	Yeah .	existing products
+C	776.47	S a good idea .	existing products
+B	779.32	The next one .	existing products
+B	780.96	So this guy this is another company that provides big buttons .	existing products
+B	786.4	At I see that that is useful for old people and then you don't get it lost .	existing products
+B	791.17	But for our product we don't need a big one because you have voice recognition e eventually with use .	existing products
+C	796.26	Yeah .	existing products
+B	798.19	And you can call your remote controller if you don't know where it is .	existing products
+B	803.22	T_V_ remote controller where are you ?	existing products
+B	805.06	And then , he will beeps and to say that I am here , for example .	existing products
+B	811.6	Is it possible ?	existing products
+A	812.62	We should include speech synthesis in this case , no ?	existing products
+D	812.81	Yeah .	existing products
+C	813.04	Yeah .	existing products
+B	815.49	Uh ?	existing products
+C	816.6	Yeah but uh as Norman say if uh there is uh already a commercial product available who t who do this we we can check uh to integrate it i into our uh new remote control .	existing products
+D	816.66	Yeah .	existing products
+B	821.64	Yeah .	existing products
+B	825.05	Yeah .	existing products
+B	826.44	Yeah .	existing products
+B	829.35	Yeah .	existing products
+B	830.36	And uh , this is another one where you can uh the the the part that's a V_ standing for the volume .	existing products
+B	839.46	So there's a up arrow and a down arrow .	existing products
+B	842.4	But you the see that in the V_ , the V_ appears to be the down arrow on the top on the top up arrow if you up arrow there's a V_ like as as if it's turning down so it's confusing interface , so I wanna avoid this kind of thing in the design .	existing products
+A	849.18	Mm-hmm .	existing products
+C	854.48	Yeah yeah .	existing products
+B	858.42	And here are is uh here is a s short summary that I summary that I compiled after the findings I found .	look and usability
+B	865.49	Big buttons are convenient , voice recognition helps , push buttons , scroll buttons , spinning wheels can be used as navigation tools .	look and usability
+B	875.22	And uh user customisable is important and finally simplicity simplicity is the key .	look and usability
+B	881.62	Yeah .	look and usability
+B	881.94	So we have many concepts there but we have to choose later on which ones are important to be used .	look and usability
+C	884.43	Hmm .	look and usability
+C	887.62	Yeah .	look and usability
+B	891.06	And basically uh Yeah .	look and usability
+C	891.28	Well I I think you it's it's it's fine you have uh reviewed all all the possibilities but uh uh well uh i if we consider that uh the user interface is displayed on the T_V_ screen I don't think we nee uh we need much buttons in the remote since we we just have to navigate and to have a okay or enter key or things like that , because uh adding wheels or scrolls uh makes the thing more complicated and more expensive also , so .	look and usability
+B	909.45	Mm-hmm .	look and usability
+B	915.55	Yeah .	look and usability
+B	921.13	Mm .	look and usability
+B	929.49	Mm .	look and usability
+B	930.97	Okay .	look and usability
+A	931.78	Or maybe we can include the user manual in the in the remote control and we should have just a button like help and you say uh and you ik you press the button help and maybe you see the the user m might in the in the T_V_ .	look and usability
+C	949.46	Yeah .	look and usability
+C	949.99	That's a good idea .	look and usability
+C	951.46	To have a help button .	look and usability
+B	953.5	A help button .	look and usability
+C	954.24	Yeah .	look and usability
+A	954.27	Yeah .	look and usability
+B	954.67	So you are display on the screen .	look and usability
+C	956.8	On the T_V_ screen .	look and usability
+A	956.82	On T_V_ T_V_ screen .	look and usability
+B	956.86	So on the T_V_ screen .	look and usability
+C	957.74	On the T_V_ screen the uh how to use your remote .	look and usability
+A	958.71	So just you push the button and we will Yeah .	look and usability
+B	959.75	Okay .	look and usability
+B	961.28	Okay .	look and usability
+D	961.86	Oh .	look and usability
+B	962.58	Okay .	look and usability
+B	963.14	So that eliminates all the complicated documentation , okay .	look and usability
+B	969.11	So wi Yeah .	look and usability
+D	969.12	But people are often enough looking at the help , once they see the help button they say oh this is a complicated stuff .	look and usability
+A	972.1	If the if No In the case where they need help , in the case where they need help .	look and usability
+C	977.21	Uh yeah .	look and usability
+D	978.15	It's a psychology .	look and usability
+C	980.25	In a marketing point of view .	look and usability
+D	980.98	Okay .	look and usability
+D	981.56	And let us see what the market demands .	look and usability
+D	984.54	We could just go to my presentation .	look and usability
+A	984.78	Yeah .	look and usability
+C	985.73	But uh wel well I think Uh well .	look and usability
+A	987.57	It's just for user customizable , for kids or old people .	look and usability
+D	989.97	Yeah that's right .	look and usability
+B	993.71	Mm .	look and usability
+D	994.01	I mean it just showed us the remote with an cap which could be used for kids and if you remove the Same remote with some Both yeah .	look and usability
+A	994.22	So So it's the same Can be used by both kids and old people .	look and usability
+B	1005.1	Mm .	look and usability
+B	1008.35	Well uh what I s propose is that uh you know a remote controller , i it could be a cube , is uh a small device that uh looks like a cube and maybe you can just change the um the buttons , if you ch turn one side you get one one buttons , you turn the other side you get the other buttons , so for maybe new generation people who get used to the computer they want lots of controls .	look and usability
+A	1037.65	Maybe for kids , kids they like uh t no l they like to Yeah .	look and usability user requirements
+B	1040.5	Small Yeah .	look and usability
+C	1042.3	So le le let's see what uh what people want .	look and usability
+B	1044.01	Let's see the market demand .	look and usability
+D	1045.52	And then we can decide what what we can yeah .	look and usability
+B	1046.18	What what market yes yes .	look and usability
+D	1070.37	So we just made an marketing survey of what people need from our remotes and how it could be special from the other remotes .	marketing expert presentation
+D	1081.53	And we got the best on the responses from the questionnaires .	marketing expert presentation
+D	1086.27	Uh we also have some prizes for the most creative solutions .	marketing expert presentation
+D	1089.72	And we found the following solutions which we could which would be helpful for our design .	marketing expert presentation
+D	1096.03	So seventy percent of the users , they find their remote controls very ugly , they don't find it pleasant to use in the size or usage or anything .	user requirements
+D	1106.33	And eighty percent of the people they are always l I mean they are willing to spend more money if the remote control would look fancy .	user requirements
+D	1116.63	And the current remote controls do not match well the operating behaviour of the user .	user requirements
+D	1122.21	And seventy five percent of the users said they zap a lot .	user requirements
+D	1128.39	And fifty percent say they use only ten percent of the buttons , so the rest of the ninety percent of the buttons they're not used most of the times .	user requirements
+C	1132.15	Yeah .	user requirements
+A	1132.33	Mm-hmm .	user requirements
+B	1134.79	Yeah .	user requirements
+B	1136.12	Yes .	user requirements
+D	1137.03	So this were the findings which we found .	user requirements
+D	1139.75	And also they cited frustrations with the present remote controls .	user requirements
+D	1144.71	Most of fifty percent of the time the remote controls are lost somewhere in the room and people are always searching for them rather than watching the T_V_ .	user requirements
+B	1153.57	Yeah .	user requirements
+D	1154.16	And by the time they found the remote control the program is finished .	user requirements
+D	1157.61	So they're frustrated a lot And um if the remote control is too complicated it takes much time to learn the functionality of it .	user requirements
+C	1157.66	Yeah .	user requirements
+B	1166.53	Mm .	user requirements
+C	1167.39	Mm , the functionalities yeah .	user requirements
+D	1169.43	So you can just see the percentage , fifty percent people they responded that they always lose their remotes and thirty four percent they say that it's quite difficult to learn if it's too complex .	user requirements
+C	1181.21	Yeah .	user requirements
+D	1182.82	So keeping in view all these findings and the frustrations I think this should be the solution for them .	user requirements
+D	1191.11	We should have an L_C_D_ on the rem remote control .	user requirements
+B	1195.78	Oh .	user requirements
+C	1196.75	Well mm w well I I I don't really see the advantage of having uh L_C_D_ on the on the remote control if we have a a a big screen and uh display on the screen .	look and usability
+B	1203.81	Big screen .	look and usability
+C	1207.47	It's yeah of course it's fancy trendy and so on but it's it's expensive to produce and it's not really Yeah .	look and usability
+D	1207.57	Mm-hmm ?	look and usability
+B	1214.73	Yeah .	look and usability
+D	1215.44	I mean as our survey says that people are willing to pay more if their remotes are fancy .	look and usability
+D	1221.24	So if we have a L_C_D_ on the remote , rather than looking onto the T_V_ you just look into a remote and navigate it .	look and usability
+D	1228.28	It's the same menu as we have saw that iPod remote control .	look and usability
+B	1229.51	Mm yeah .	look and usability
+C	1232.32	Yeah yeah .	look and usability
+B	1233.44	Mm .	look and usability
+D	1233.57	We just play around Yeah .	look and usability
+B	1234.59	The thing Yeah .	look and usability
+C	1235.17	Yeah but when you play with the iPod you don't have a big screen in front of you , s Yeah .	look and usability
+A	1239.22	You can use this screen instead of the big se screen , instead of use the yeah .	look and usability
+B	1239.5	Yeah .	look and usability
+B	1241.41	Yeah .	look and usability
+B	1242.47	If you re-use the existing screen , we element eliminate the L_C_D_ , after all the L_C_D_ just to display and if you have the colourful screen you can make the display colourful , fancy , as fancy as the one on the L_C_D_ , maybe even better .	look and usability
+A	1249.11	Hmm .	look and usability
+D	1253.81	Yeah .	look and usability
+B	1257.73	So Yeah .	look and usability
+D	1258.98	I mean this were the points which we got from the market demands .	look and usability
+C	1262.07	Yeah .	look and usability
+C	1262.24	Yeah yeah .	look and usability
+D	1263.52	So the other one Yeah that's fine .	look and usability project budget
+B	1263.64	Yeah .	look and usability
+C	1264.62	So I th I I well I think we we can focus on the uh on the fancy look on the uh on the speech recognition if the technology is available but well I think L_C_D_ will uh will uh make us spend a lot of money for not so big results .	project budget
+B	1270.36	Yeah .	project budget
+B	1270.83	More on a fancy design .	project budget
+D	1272.78	Yeah .	project budget
+D	1273.48	I mean that's Mm-hmm .	project budget
+B	1277.28	Yeah .	project budget
+B	1283.42	Mm .	project budget
+B	1285.81	Remember we have a s budget for the cost of producing the remote controller .	project budget
+A	1286.67	But Yeah .	project budget
+B	1292.63	Yeah .	project budget
+D	1292.86	Uh yeah we have uh I mean that should be found out by the Industrial Designers .	project budget
+B	1292.99	So i is so the thing is you can find out how much an L_C_D_ will cost and then we'll decide again .	project budget
+B	1303.76	Uh maybe you can find out the price and tell us next time .	project budget
+C	1307.24	So price of uh L_C_D_ display .	project budget
+B	1307.4	Is i if i Yeah .	project budget
+D	1310.88	And it's always good to have an voice recognition for the remote controls .	project budget
+C	1311.22	And Yeah .	project budget
+B	1313.93	Yeah .	project budget
+B	1314.7	And also the cost for the speech recognition .	project budget
+A	1317.15	Mm .	project budget
+B	1317.51	Ask our R_ and D_ department .	project budget
+A	1318.09	It's for it's just for small vocabulary .	project budget
+B	1320.85	Yeah .	project budget
+D	1320.85	Yeah it's o only for a limited vocabulary , say eighty commands or so .	project budget
+A	1321.16	We it's not yeah .	project budget
+B	1322.64	Yeah .	project budget
+B	1323.43	And ho Yeah .	project budget
+A	1324.97	Yeah .	project budget
+C	1325.1	Yeah okay .	project budget
+B	1326.08	And also the scroller button , how much will it cost .	project budget
+C	1326.34	And Well uh compared to the to s the simpl simpler simplest button .	project budget
+A	1334.87	Yeah .	project budget
+D	1335.3	Mm , the scroll button , from the survey we never see that people would like to have some scrolling button .	look and usability
+A	1335.54	Push push .	project budget
+C	1340.68	Yeah .	look and usability
+D	1341.78	Because they they just they're just frightened to use the scrollings or help button .	look and usability
+C	1341.8	Yeah I think that Yeah I I I think that uh well uh as we have seen in the in the presentation uh well uh about uh uh fifty percent of the of the percent n choose the button so uh I think to have uh five uh simple button is sufficient for our functionality .	look and usability
+B	1344.71	Yeah .	look and usability
+B	1356.38	Don't use the buttons .	look and usability
+B	1360.96	Yeah .	look and usability
+B	1362.45	Yeah .	look and usability
+B	1363.39	Yeah .	look and usability
+B	1364.68	Yeah .	look and usability
+D	1365.12	Yeah .	look and usability
+A	1365.22	It doesn't mean that the other buttons are not necessary or important .	look and usability
+B	1369.13	Important .	look and usability
+C	1371.09	Yeah .	look and usability
+C	1371.75	But But the uh the thing is is i is that we can add a functionality on the on the T_V_ screen like uh a a list of function and then you choose with the with the button to well you navigate and you Yeah .	look and usability
+A	1371.97	But they are just less used compar yeah .	look and usability
+D	1373.19	They're not used much .	look and usability
+B	1381.54	Yeah .	look and usability
+B	1383.91	Yeah .	look and usability
+B	1385.23	Mm .	look and usability
+B	1387.06	Yeah , yeah .	look and usability
+B	1388.45	So so the at most more power uh .	look and usability
+A	1389.42	Or maybe we can u uh or maybe we can uh make this the ten percent of button more bigger than the others .	look and usability
+A	1399.29	So .	look and usability
+C	1399.97	But if i i if we if we could have a a a display uh g a user interface that is very complete on the T_V_ screen I think that just five buttons are sufficient , one to go up left right down and uh enter and you you you just select the functionality you want to access or things like that .	look and usability
+B	1414.5	Yep .	look and usability
+B	1417.99	Yeah .	look and usability
+B	1421.83	Mm .	look and usability
+B	1422.87	Mm .	look and usability
+B	1423.71	Yeah .	look and usability
+C	1424.15	You don't have to to switch to a channel to another uh Yeah but Yeah but if you look at the L_C_D_ you you don't look at the T_V_ screen so i i it's not really worth to get to have the image if you don't look at , so .	look and usability
+B	1426.98	Yeah .	look and usability
+A	1427.44	Mm .	look and usability
+D	1428.65	Or it could be like this , as the people say , if they have a L_C_D_ on the remote not on the television .	look and usability
+D	1434.05	Because when you have the L_C_D_ onto the television screen you miss the picture in the background , we are most focused on the commands .	look and usability
+D	1443.22	So if you have then L_C_D_ in the remote , you just have a menu , and increasing and lower these signs here to change the programs and this menu when you press the menu , in the L_C_D_ displays as you go on pressing the menu it faster displays volume , then the program , then the brightness , contrast and all the stuff .	look and usability
+B	1463.14	Mm .	look and usability
+D	1464.21	And accordingly you can just increase or decrease .	look and usability
+B	1466.46	Mm .	look and usability
+A	1466.87	It's And I think it's increases the cost of the the remote control if you use L_C_D_ .	look and usability
+B	1470.55	Mm .	look and usability
+B	1471.14	I if Mm .	look and usability
+B	1473.71	Mm .	look and usability
+B	1475.59	Yeah .	look and usability
+C	1478.66	Yeah .	look and usability
+D	1479.75	Yeah that has to be checked out .	look and usability
+B	1480.95	I think that there's no contradiction here , because if there are few buttons , you don't have to look at your your controller any more because you know where the buttons are , so if you wanna control the screen d sh sharpness you just say sharpness and then you t turn you just press lef increase or decrease button and the same for the volume and the channel , if you had the speech recognition there you just shout your channel , just tell your channel and then you don't even have to look at the butto at the controller so finally that wil eliminates the the need for L_C_D_ , with the help of speech recogniser you can Yeah .	look and usability
+A	1481.46	I You will listen to a peep , special peep .	look and usability
+C	1490.73	Yeah .	look and usability
+D	1503.88	Yeah .	look and usability
+D	1514.76	Okay .	look and usability
+D	1521.24	I mean , better if we could just check all the cost with L_C_D_ and also with the speech recognition .	look and usability
+B	1526.3	Mm .	look and usability
+C	1526.56	Yeah .	look and usability
+D	1526.79	And then we could find which would would be a more suitable in this case .	look and usability
+B	1528.62	Mm .	look and usability
+B	1529.41	Mm .	look and usability
+B	1530.51	Yeah .	look and usability
+B	1531.34	A and Mm .	look and usability
+D	1532.79	And the third problem was to find the remote control .	look and usability
+D	1535.6	Always , so fifty percent of the people say they lose the remotes .	look and usability
+C	1540.18	Well so we we can think about a well a a vocal command like uh find and when the remote control uh hears fine well yeah just uh to make him beep or t Yeah .	look and usability
+D	1540.18	So Yeah that's right , that's exactly what I mean by voice commander .	look and usability
+B	1549.46	Where , yeah .	look and usability
+D	1557.47	Or it could be also something like this , uh it's always boring to change the batteries of the remotes control , so we have some one charger there and whenever we don't use the remote control we put it in the charger .	look and usability
+B	1558.22	Yeah .	look and usability
+B	1560.64	Mm .	look and usability
+C	1563.21	Yeah .	look and usability
+B	1568.4	Put it back at the charge .	look and usability
+C	1568.77	Put Yeah .	look and usability
+B	1569.84	Yeah .	look and usability
+D	1570.51	And when we're using that t remote and if we misplace somewhere , in the charger we have a small button , and just by pressing the button in the charger the uh remote control beeps , wherever it is .	look and usability
+B	1581.29	Yeah .	look and usability
+A	1581.32	Okay .	look and usability
+C	1582.55	And that's a good idea , that's simple , like in phones .	look and usability
+A	1584.58	Yeah .	look and usability
+B	1585.0	Mm .	look and usability
+D	1585.38	I mean it doe it also doesn't require a voice command , because there are problems with a voice command .	look and usability
+C	1588.53	Yeah .	look and usability
+A	1588.94	But you don't you don't have to move the the charger .	look and usability
+B	1590.59	Hmm .	look and usability
+B	1591.28	Mm .	look and usability
+D	1591.54	Yeah , yeah , yeah .	look and usability
+D	1592.25	I mean charger would be fixed because it's always with electricity plugged .	look and usability
+B	1592.41	Th yeah .	look and usability
+A	1592.61	You have to keep it .	look and usability
+C	1593.85	Yeah .	look and usability
+B	1594.26	Mm yeah .	look and usability
+C	1595.08	Yeah if there if there uh there is nuff not enough battery .	look and usability
+B	1595.26	Yeah .	look and usability
+A	1595.6	Okay .	look and usability
+B	1596.47	Mm .	look and usability
+B	1598.62	Mm .	look and usability
+B	1599.23	There's mm .	look and usability
+C	1599.23	Also and uh uh the remote is lost .	look and usability
+B	1599.88	Mm .	look and usability
+B	1602.12	Yeah .	look and usability
+D	1602.37	Yeah that's right .	look and usability
+B	1603.22	That we can what we can do is we can program a function whereby when you press the switch off T_V_ button , the off button , the remote there be s uh instruction on the screen , please charge charge me .	look and usability
+C	1615.78	Yeah .	look and usability
+B	1616.07	You never get it lost because uh every time you're off the computer the T_V_ you are asked the the command the T_V_ com remote controller would tell you to put it back to where to the charger .	look and usability
+D	1626.34	It's an good reminder , yeah that's right .	look and usability
+B	1627.72	Yeah .	look and usability
+B	1628.18	So you will never get lost yeah .	look and usability
+C	1630.12	Okay .	look and usability
+A	1632.77	Maybe for some people lazy people .	look and usability
+B	1635.96	Yeah .	look and usability
+B	1637.01	Yeah because everything is programmed inside .	look and usability
+A	1639.16	Yeah yeah .	look and usability
+B	1639.76	So it's it's uh it's all about strategy , y Mm .	look and usability
+D	1644.76	And of course the final point is a fancy look .	look and usability
+D	1648.15	As we have seen earlier the remotes which were displayed by Norman they weren't fancy , I mean mm very big or something with lot of buttons .	look and usability
+B	1652.23	Mm .	look and usability
+C	1654.2	They were ugly .	look and usability
+C	1655.96	They Well the last one with the um yeah with the two parts was uh original , so Yeah .	look and usability
+B	1656.46	Yeah , yeah .	look and usability
+A	1657.55	Mm .	look and usability
+D	1659.33	I think we should have something it I mean uh I mean uh I mean uh you see if it's like that even a kid who wants to have a control he could just plug it and use it , you can't avoid him .	look and usability
+B	1664.01	With uh two two two parts controller .	look and usability
+D	1678.79	But you can have an button for child lock .	look and usability
+B	1681.83	Yeah .	look and usability
+C	1682.8	Yeah .	look and usability
+B	1683.6	Mm .	look and usability
+D	1683.73	So just by pressing the button with some code , you t you put a lock onto the remote , so that he can't use even Mm uh That's right .	look and usability
+B	1685.41	Mm .	look and usability
+B	1687.6	Mm .	look and usability
+B	1688.21	Mm .	look and usability
+C	1689.65	Well we can think about uh having uh on the on the on the user interface when you switch on the T_V_ you can uh well write a code or choose a category , if it is kids , uh things like that .	look and usability
+B	1689.72	Mm .	look and usability
+B	1696.63	Mm .	look and usability
+A	1702.05	Or Or maybe you have to to show some specific programmes for kids and then just just yeah just push uh kids button so it's automatically .	look and usability
+B	1702.97	Mm .	look and usability
+B	1705.49	Yeah .	look and usability
+B	1706.73	Mm .	look and usability
+B	1713.09	Mm .	look and usability
+B	1714.94	these are probl yeah .	look and usability
+B	1718.39	Mm .	look and usability
+B	1719.11	Mm .	look and usability
+B	1721.06	Mm .	look and usability
+A	1724.28	So if he .	look and usability
+D	1727.71	I think these other four points they're the market demands and so it's for the user interface design and industrial design to just think Yeah I think it should be clearer for us in the next meeting that th uh these could be included .	look and usability
+C	1733.53	So for mm yeah .	look and usability
+B	1734.05	Mm .	look and usability
+A	1734.34	Yeah .	look and usability
+C	1735.91	So for my part I will check the prices the um the prices difference uh of what to use , where to use , and s uh and so on .	look and usability
+C	1748.4	Yeah .	look and usability
+B	1749.94	Mm .	look and usability
+B	1750.74	I think we need to define also a s the set of vocabularies for the speech recogniser because uh if you want uh say we can sort by channels or sort by T_V_ programs , you have to decide a category of vocabularies for them .	look and usability
+C	1756.69	Yeah .	look and usability
+B	1769.69	If numbers , they're easy , but if name the channel by by name Mm .	look and usability
+A	1771.37	Mm-hmm .	look and usability
+C	1775.2	Well I think we can we can have just numbers for channels and you can say to your remote control like uh sports and then on the T_V_ you have a list with with uh uh well with sports program playing now and and uh That's right , yeah , yeah .	look and usability
+D	1790.57	No , we have a problem there .	look and usability
+D	1792.37	You see uh if you have a voice commands and you are s you are watching a score on uh basketball score or something , and if the score comes twenty four thirty five , you've just say twenty five and suddenly the screen the channel goes to twenty five .	look and usability
+A	1803.37	Yeah it's yeah .	look and usability
+D	1807.89	So I think there should be a prefix to some numbers I mean the the you just check all the probability that saying T_V_ twenty five and just ordinary twenty five .	look and usability
+B	1808.29	Mm .	look and usability
+C	1810.33	Well but well e every possible word uh has a probability to come about of the T_V_ so .	look and usability
+B	1817.15	Yeah .	look and usability
+B	1823.64	Mm .	look and usability
+C	1823.65	Yeah yeah .	look and usability
+D	1823.83	Ordinary twenty five you almost there's a probability of being said around sixty seventy percent and T_V_ twenty five I dunno it will be round about one or two percent .	look and usability
+C	1827.31	Yeah but well okay .	look and usability
+B	1827.46	Mm .	look and usability
+B	1832.64	Mm .	look and usability
+A	1834.04	Mm-hmm .	look and usability
+B	1834.34	Mm .	look and usability
+D	1834.47	So it's better to have some prefix before the number .	look and usability
+B	1837.82	But I I I think that the user would like wou would like to associate the channel or call the channel rather than than the numbers .	look and usability
+D	1844.6	Yeah something , some code .	look and usability
+B	1845.77	You say numbe channel number five of the T_V_ correspond to something else in the channel .	look and usability
+C	1851.09	Yeah yeah .	look and usability
+B	1851.93	So some people may want to say , I want to see this channel .	look and usability
+C	1854.54	Mm mm .	look and usability
+C	1856.13	Well I Yeah .	look and usability
+D	1856.2	That will be too big .	look and usability
+D	1857.61	And it will be difficult for the vocabulary also .	look and usability
+A	1857.92	Or just It's difficult to to just say the the name of the channel .	look and usability
+B	1859.88	Yeah .	look and usability
+B	1860.79	Check with the v R_ and D_ department the capability of recogniser .	look and usability
+B	1866.95	Uh ?	look and usability
+A	1867.08	It will be difficult to say just the name of the channel .	look and usability
+A	1870.93	Because you have to s t uh a ch yeah but you have to to have all the name of the channel in your vocabulary .	look and usability
+B	1871.09	Well , it's convenient for the user .	look and usability
+D	1879.68	Als might be you just forgot the channel name , you kno only know the number .	look and usability
+A	1880.77	Or maybe Or maybe the user can create his own vocabulary , just pronouncing the the name of channels and include in the vocabulary .	look and usability
+D	1883.82	Then Yeah , the .	look and usability
+B	1884.32	The uh uh mm .	look and usability
+B	1888.22	Mm .	look and usability
+B	1890.29	I I think that I have mm mm I think there's another way you can do is that uh you can uh if when the user ch press a button to choose the channel for example , then what you can do is that the you can make the T_V_ screen to split them into small little little squares of images where you you you have a snapshot of every channel , so let's say it's a four by four matrix of the images , so now what you do is f looking at the all the sixteen channels available at one time , you just use the control button uh , you just you you just choose the the option you want and then you just hit the button and then you go to that channel .	look and usability
+B	1933.46	So Mm .	look and usability
+A	1934.23	Or lets the user create his own vocabulary of channel .	look and usability
+B	1939.38	So you you don't use the speech recogniser in that way .	look and usability
+A	1942.87	No .	look and usability
+A	1943.57	Just you have uh in the beginning you have uh t you have to train you have to create the vocabulary by yourself .	look and usability
+B	1952.16	Oh , okay .	look and usability
+B	1953.3	Yeah .	look and usability
+C	1953.78	Well I uh I also I I also think about uh another problem , if if there is uh more than one person who is watching T_V_ the s well the the speech uh r recogniser should be able to distinguish between the two .	look and usability
+A	1954.49	By associating each channel with the name or And for each one has his own .	look and usability
+D	1966.85	Yeah yeah , .	look and usability
+C	1973.3	Because uh I remember when I was a young child with my sister we yeah we always want to w to watch different emission at the at the same time so it's a pr it could be a problem if uh if well if someone passes by when you are watching T_V_ and say oh T_V_ thirty and just run , s Yeah , yeah .	look and usability
+B	1974.2	Mm .	look and usability
+A	1978.4	Or you have to s Yeah .	look and usability
+B	1979.94	Yeah , I wanna watch this , I wanna watch that .	look and usability
+D	1980.56	Yeah .	look and usability
+B	1997.79	Mm .	look and usability
+D	1999.32	A and in the same lines we would have a one more problem .	look and usability
+D	2001.7	If we are using the television in the different environments , say in the factories or in the shops where there is a lot of noise and this voice commands if they fail to work , that would bring a bad name bad uh reputation for our company .	look and usability
+B	2013.5	Mm .	look and usability
+D	2014.99	So I think we should specify some pre-requirements if we want to use a voice commands , say that it should be used in an silent homely environment or s something .	look and usability
+A	2015.11	Mm .	look and usability
+C	2025.37	Yeah .	look and usability
+A	2027.76	Or we can switch on or switch off the the special , yeah .	look and usability
+D	2030.45	Yeah that's right that should be an option .	look and usability
+B	2032.65	Mm .	look and usability
+C	2033.13	Yeah that's well I think that's a good uh a good option because it's simple and uh simple to implement also , so .	look and usability
+B	2038.42	Hmm .	look and usability
+D	2040.17	I think these are the practical problems .	look and usability
+D	2043.04	So we need to take care of them in the design .	look and usability
+A	2045.45	Maybe we'll discuss them in next meeting .	closing
+A	2048.02	It's time to close this meeting .	closing
+C	2050.52	Okay .	closing
+B	2050.76	Well , you you stay a five minutes .	closing
+D	2050.91	Okay .	closing
+D	2052.69	Oh it came there on three minutes back so we are I think we can just press the okay .	closing
+A	2054.04	Yeah .	closing
+A	2058.06	Okay .	closing
+C	2059.7	Okay .	closing
+C	2062.9	So I see ya .	closing
+A	2063.2	Thanks for your collaborations .	closing
+D	2064.07	Okay .	closing
+D	2064.57	See you another thirty minutes .	closing

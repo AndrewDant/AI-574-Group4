@@ -1,0 +1,1365 @@
+A	1.49	Good .	agenda/equipment issues
+C	3.48	Beep .	agenda/equipment issues
+C	7.84	Oh .	agenda/equipment issues
+B	9.09	What ?	agenda/equipment issues
+A	9.28	So well uh welcome everyone .	opening
+B	11.69	Yeah .	opening
+A	12.41	Um as you may have noticed I uh created separate folders because it was uh tending to get a little busy in our uh shared project documents uh folder .	opening
+B	18.03	Yeah .	opening
+A	24.03	I don't know if everybody uh put their own uh documents in the right folder , which is for now the detailed design meeting .	opening
+D	31.47	That's new one ?	agenda/equipment issues
+B	32.43	We didn't make any uh Oh in Didn't we just do that ?	agenda/equipment issues
+A	32.47	Yeah .	agenda/equipment issues
+C	33.78	Uh , we should save that one .	agenda/equipment issues
+A	36.66	Then I'll move this one .	agenda/equipment issues
+C	39.07	Yeah , save in the folder .	agenda/equipment issues
+B	40.58	Oh .	agenda/equipment issues
+C	41.14	Save as project .	agenda/equipment issues
+A	42.07	Oh no , this is just one big document , so you can leave that wherever it is .	agenda/equipment issues
+C	45.47	Oh , okay .	agenda/equipment issues
+C	47.99	Hmm hmm .	agenda/equipment issues
+A	48.28	And we have a evaluation left here .	agenda/equipment issues
+A	51.18	Okay .	agenda/equipment issues
+C	55.52	Agenda .	agenda/equipment issues
+A	56.36	Well not main documents this time .	agenda/equipment issues
+B	58.32	Hmm ?	agenda/equipment issues
+A	58.65	Oh uh yes .	agenda/equipment issues
+A	60.36	I have it open myself I guess .	agenda/equipment issues
+A	62.8	Um well the detailed design meeting Huh ?	opening
+A	67.42	We're finally getting somewhere hopefully .	opening
+A	70.25	Um what are we going to do ?	opening
+A	72.61	I've opened it already .	opening
+A	73.8	Um I'm still going to take some minutes , and if I'm right , you two are going to give a prototype presentation ?	opening
+C	76.45	Oh , sorry .	opening
+B	81.68	We could .	opening
+A	82.17	Aren't you ?	opening
+A	82.76	Yes , you are .	opening
+A	83.74	And uh m did you do something with evaluation criteria ?	opening
+D	87.08	Yep .	opening
+D	87.35	Yep .	opening
+A	88.01	Good .	opening
+A	88.42	And we have a correct agenda .	opening
+A	90.85	And uh then we have to look at something which is less nice , the finance uh aspect , whether we can afford what we have designed , and if we can we can uh commence the final part which is the production or project evaluation , how did we work together and what are the results , and how happy are we with those .	opening
+B	99.37	Oops .	opening
+A	110.67	Okay , well finance uh will be later .	opening
+A	113.32	Now I'd like to give the word to you two .	opening
+B	115.61	Yeah .	opening
+C	115.88	Okay .	opening
+C	119.81	Get up stand up .	opening
+B	122.1	Well uh we made a prototype .	presentation of prototype(s)
+C	122.27	just 'Kay .	opening
+B	124.74	We first start with the overall uh This is about the total remote control .	look and usability presentation of prototype(s)
+C	128.48	View .	presentation of prototype(s)
+B	131.52	We made it green .	look and usability
+C	133.6	Just example colour , so uh there's one of the colours we would like to uh see in our prototype .	look and usability
+B	134.78	Yeah .	look and usability
+B	137.2	It's a fresh colour .	look and usability
+B	138.45	And uh the screen light blue .	look and usability
+B	141.84	Oh uh this the scroll button and the microphone on the on the sides here under .	look and usability
+B	147.03	And the R_ and R_ logo , it just says R_ and R_ now , but uh Any questions so far ?	look and usability
+C	152.5	Okay ?	look and usability
+D	154.78	Big microphone .	look and usability
+C	156.17	yeah , just uh just an idea about how to m th that could also be possible .	look and usability
+B	156.52	Yeah .	look and usability
+D	158.34	Oh okay .	look and usability
+D	159.79	That's the place where it's going to be , not the size .	look and usability
+C	161.19	Uh well , it's an idea in a so .	look and usability
+B	161.46	Yeah .	look and usability
+B	164.28	Oh y you perhaps you should make it a bit big , so people know it's there and uh Uh Hmm .	look and usability
+C	168.66	Do not forget it .	look and usability
+D	170.24	Mm-hmm .	look and usability
+C	171.2	To function it it doesn't really have to be sm uh big of course .	look and usability
+D	174.51	Yeah , okay .	look and usability
+C	175.16	The microphone could be just a minor uh hole uh on the left uh button .	look and usability
+D	175.29	Of course .	look and usability
+D	177.75	Mm .	look and usability
+D	178.28	Mm , th yeah .	look and usability
+D	180.67	Small .	look and usability
+C	180.72	Okay um we also made some uh ideas about how uh the options menu would work .	look and usability
+C	187.73	Uh using the scroll button on sides uh y uh I uh um Yeah , you push the scroll button and a drop down menu or a pull out menu comes out and uh you get uh you get the options uh becoming available .	look and usability
+B	194.96	You push the scroll button and it's claps out if there's a Remote settings , et cetera .	look and usability
+C	205.54	For example uh T_V_ settings , uh remote settings , et cetera .	look and usability
+B	210.5	Yeah .	look and usability
+C	210.72	So uh you can scroll down too with the scroll uh button , uh as you can see oh , it's here , just push it in , uh the menu comes out like this and uh i it all becomes visible .	look and usability
+B	223.47	Yeah .	look and usability
+C	223.92	Um Yeah , that's c Yeah .	look and usability
+B	224.46	And you could also touch it so that it comes out , and and use the the the scroll thing as a with your fingers .	look and usability
+C	231.47	Indeed .	look and usability
+B	232.16	Yes .	look and usability
+C	232.96	Okay , um it's also uh nice to see that um we made a small uh menu , uh the options menu uh becoming available when pressing the uh scroll uh button , and the opportunity to use the teletext , whi which is used uh which should still be used and we think that it's uh very handy to put it uh not uh under the options menu , but in uh Yes .	look and usability
+C	257.66	In an apart uh In a separate button , yeah .	look and usability
+B	258.45	Yeah .	look and usability
+A	259.44	So a separate button for for text , okay .	look and usability
+B	260.7	Yeah .	look and usability
+B	261.56	Perhaps we should use the teletext sign in p yeah .	look and usability
+C	264.16	A sign , yeah , just like Okay , indeed .	look and usability
+B	266.32	Yeah .	look and usability
+C	266.46	Okay , we can uh modify that later .	look and usability
+B	267.07	Forgot .	look and usability
+C	269.14	Okay .	look and usability
+C	269.46	Would you like to make any comments about next uh Previous page , yeah , indeed .	look and usability
+B	271.86	Uh well , this is the total interface uh that f of the L_C_D_ screen .	look and usability
+B	276.68	Uh the numbers , which is pretty straight forward .	look and usability
+B	279.76	We put ano an an extra button in .	look and usability
+B	281.75	We can erase it , but It's the button where you can switch channels .	look and usability
+B	285.71	just when you are one and you go to two , you can or if you go to five , you can go back to one with that button .	look and usability
+B	292.68	Yeah , that one , yeah .	look and usability
+B	294.25	It has a name .	look and usability
+B	295.51	And uh uh we put that in , I thought it would be handy there .	look and usability
+C	295.89	Oh my God .	look and usability
+B	300.21	Uh this the one number or two numbers button .	look and usability
+B	304.06	Below that , the page and the sound .	look and usability
+B	306.25	And uh in the middle the the mute .	look and usability
+B	310.65	Uh battery indicator .	look and usability
+B	312.89	It's it's a bit big .	look and usability
+C	313.41	It's quite large .	look and usability
+B	316.15	And this is the uh the on off uh knop , the stand by uh knop .	look and usability
+B	320.76	Or at least it should look like it .	look and usability
+B	322.88	And the options uh of teletext .	look and usability
+C	323.77	Okay .	look and usability
+C	325.48	You can see very clearly now that the uh teletext and options menu isn't uh taking uh much uh uh it's taking much part of the screen , so it's very uh when you uh when you use it , doesn't uh become irritating to see .	look and usability
+C	340.57	'Cause if you put it on the top you always get see the the options menu .	look and usability
+B	340.66	Huh .	look and usability
+C	345.29	'Cause people regularly uh read from left top to right down , so Okay .	look and usability
+A	349.32	Mm-hmm .	look and usability
+B	351.02	Yeah .	look and usability
+B	351.57	Well this about it , I think .	look and usability
+B	354.84	Yeah .	look and usability
+C	355.2	Huh .	look and usability
+A	357.33	Thank you .	presentation of prototype(s)
+B	357.72	I will put it back on the on the nice green .	presentation of prototype(s)
+A	358.06	Looks good .	presentation of prototype(s)
+A	361.84	And I just missed when I was typing The R_R_ stands for ?	discussion
+B	365.08	That's the logo of the Yeah .	discussion
+A	366.36	Logo , okay .	discussion
+B	367.21	It's th th right now it's only R_ R_ , but uh Yeah .	discussion
+A	368.16	Okay well I would have recognised it if it were the right colours of course .	discussion
+C	371.43	Full screen .	discussion
+D	373.82	Shit .	discussion
+C	375.14	Alright .	discussion
+B	376.19	Sorry .	discussion
+D	376.34	'Kay .	discussion
+A	380.46	Okay , the evaluation criteria , huh ?	evaluation of prototype(s)
+B	380.92	Oh full screen , yeah .	evaluation of prototype(s)
+C	382.07	Huh .	evaluation of prototype(s)
+D	382.99	Evaluation .	evaluation of prototype(s)
+D	385.58	'Kay , my task was this time to put up a questionnaire by which we can evaluate the design of the remote control by the questions we requirements from the of the users .	evaluation of prototype(s)
+D	401.61	My name , my job , okay .	evaluation of prototype(s)
+C	403.73	My name , my job .	evaluation of prototype(s)
+D	404.11	The methods .	evaluation of prototype(s)
+D	406.68	Questionnaire with seven point scale from one to seven , from true to false , like question , is remote big enough , we can say it's true or it's false by steps .	evaluation of prototype(s)
+B	412.38	Right .	evaluation of prototype(s)
+D	419.92	One means absolutely not true , seven means true .	evaluation of prototype(s)
+B	423.92	Yeah .	evaluation of prototype(s)
+D	425.68	The three important things of refa are uh from th of this year is are , is the remote control fancy enough , is it in innovative enough , and is it easy enough to use .	evaluation of prototype(s)
+C	429.53	Sorry , you used the PowerPoint What ?	evaluation of prototype(s)
+B	436.45	Yeah .	evaluation of prototype(s)
+D	443.2	And then evaluation itself .	evaluation of prototype(s)
+D	451.11	Uh .	evaluation of prototype(s)
+D	452.56	So .	evaluation of prototype(s)
+C	454.09	Bling .	evaluation of prototype(s)
+D	454.24	Okay .	look and usability
+B	455.42	Yeah .	look and usability
+D	455.51	First question .	look and usability
+D	457.04	Is the design fancy enough ?	look and usability
+B	459.87	Well Yeah .	look and usability
+D	460.16	Project Manager , what do you think ?	look and usability
+A	462.22	Well it's looks fancy , especially with the green colour .	look and usability
+D	465.35	But does it Yeah .	look and usability
+A	466.05	And the the curves which we decided , huh ?	look and usability
+A	471.28	Only what happened to the single curve we spoke about last meeting ?	look and usability
+C	474.44	Now uh the single curved idea was uh Yeah , okay , you ge um Yeah .	look and usability
+B	474.57	It uh oh it's in the background .	look and usability
+B	476.1	Oh .	look and usability
+B	479.93	Y you should make uh a sideways uh view .	look and usability
+C	482.21	The sideways view , uh that that that ma Ho not that pen .	look and usability
+B	484.05	It will be , I guess .	look and usability
+B	486.25	Oh , we can Oh g I would smart board .	look and usability
+C	487.71	Not that pen .	look and usability
+A	491.69	Well it might work one time , huh .	look and usability
+B	493.84	Uh can I draw here or uh Ooh .	look and usability
+C	496.11	Suppose so .	look and usability
+D	496.43	Think .	look and usability
+C	498.58	Ah .	look and usability
+D	498.74	Yeah , yeah , you can .	look and usability
+C	499.29	Oh my God , it works .	look and usability
+B	499.47	So it would be uh something like this from the side , but with a bit of uh curve here , right ?	look and usability
+C	506.97	Yeah , that's the single curve indeed .	look and usability
+B	508.11	Yeah .	look and usability
+B	509.44	So if you v flip it like this .	look and usability
+C	511.44	Yep .	look and usability
+A	511.48	Okay .	look and usability
+B	512.14	Here's yeah .	look and usability
+C	512.73	That's not very i it's also uh very handy if you make a side curve way to make the the remote control very thin at the bottom uh at a bottom at a bottom .	look and usability
+C	522.65	Uh make it uh rather thick on the top , because uh on the top it has uh the screen , which takes uh in some uh space , and the batteries can be located over there , so uh Yeah .	look and usability
+B	531.87	Yeah .	look and usability
+B	532.56	So you just make the back of this part a bit bigger , so that it lays a bit o Yeah , that's a bit of problem maybe .	look and usability
+D	535.66	Isn't going to be a little bit heavy at the top ?	look and usability
+C	540.41	No .	look and usability
+D	541.92	With two batteries , the whole print plate and t and top , and if you're holding it quite a lot I think Yeah .	look and usability
+B	544.83	Yeah .	look and usability
+B	546.74	I think yeah , the battery should be in here , because it's just nothing , so if you could Yeah .	look and usability
+C	549.04	Yeah .	look and usability
+C	551.04	Okay , indeed .	look and usability
+C	551.82	Yeah .	look and usability
+B	553.1	'Cause otherwise I think i I think it does .	look and usability
+A	553.12	Okay , but we have to rate uh these things now ?	look and usability
+D	554.7	Yeah , we have to rate .	look and usability
+D	555.88	Is it fancy enough ?	look and usability
+A	556.25	Okay .	look and usability
+D	557.18	True is one , false is seven .	look and usability
+D	561.0	So fancy enough means , does it comes to the younger people and the elder people .	look and usability
+C	568.46	I think so .	look and usability
+D	569.03	I think Yeah , I have to agree , all the colour colours don don doesn't matter that m that much now , it's only design .	look and usability
+B	569.41	I if you don't make it green , then the elder people won't won't like it .	look and usability
+C	569.44	It's pretty fancy .	look and usability
+B	573.74	Yeah .	look and usability
+C	573.86	you get th Yeah .	look and usability
+A	575.74	Mm-hmm .	look and usability
+B	577.64	I think it does .	look and usability
+A	578.51	Yeah .	look and usability
+D	579.32	And the design .	look and usability
+A	580.17	Well I think uh especially because of the microphone and the L_C_D_ screen also .	look and usability
+B	582.64	Yeah .	look and usability
+B	583.27	I don't know whether older people will use it , but I would make it a two or something .	look and usability
+A	584.81	Very new thing .	look and usability
+A	585.95	Well Fancy the old people will .	look and usability
+D	587.03	So A two ?	look and usability
+B	590.53	Yeah .	look and usability
+B	592.22	Huh ?	look and usability
+C	592.57	It's true , it's a one .	look and usability
+B	593.79	Alright , it's a one .	look and usability
+C	594.53	Very fancy .	look and usability
+B	594.78	Oh it's a one .	look and usability
+A	595.5	No , it's a two .	look and usability
+A	598.14	Little bit strange we have to judge that ourselves , huh ?	look and usability
+D	600.8	Yeah , I n used I wouldn I should use that one , but it doesn't Okay , no it's two ?	look and usability
+B	600.98	Yeah .	look and usability
+B	605.72	But it's a one uh Maybe uh Yeah .	look and usability
+D	608.0	True is a one .	look and usability
+D	609.05	Very true , is it very true or isn't that true ?	look and usability
+A	613.04	Well I'd say two on a scale No , okay well , that's true .	look and usability
+B	613.14	Well they think it's very true , but uh Yeah , but We should perhaps That not .	look and usability
+C	614.57	It's very true , because we designed it to be very fancy , so It's very fancy , I think .	look and usability
+D	614.97	Yeah , I think two .	look and usability
+C	620.02	Have you ever seen a remote control like this ?	look and usability
+C	623.28	No , okay , so so it's fancy .	look and usability
+D	623.82	That's fancy enough .	look and usability
+B	625.47	Yeah .	look and usability
+D	627.37	Then ?	look and usability
+A	627.56	Okay , one two .	look and usability
+A	628.48	That doesn't matter that much , so make it a one .	look and usability
+D	629.4	Okay .	look and usability
+C	629.78	Yeah .	look and usability
+D	630.53	Let's give it a two .	look and usability
+D	631.94	Is it innovative ?	components, materials and energy sources
+B	634.06	I think it is , because it has an L_C_D_ screen , a mi microphone .	components, materials and energy sources
+D	634.34	Enough .	components, materials and energy sources
+A	635.94	Yeah m Yeah , and you use these buttons the most , huh ?	look and usability components, materials and energy sources
+C	638.53	And uh uh the scroll is rubber , so s Eno enough to I think .	components, materials and energy sources
+D	639.02	We have for the search function .	components, materials and energy sources
+B	639.15	It's from rubber .	components, materials and energy sources
+B	641.0	Yeah .	components, materials and energy sources
+D	642.41	The scroller a bit I think it's it's a one yeah .	components, materials and energy sources
+B	643.96	It's a one I think .	components, materials and energy sources
+D	647.07	True .	components, materials and energy sources
+D	649.49	Also huh uh-huh the buttons , are they easy to find ?	look and usability
+D	653.64	That was a big requirement of the old people .	look and usability
+B	657.71	Yeah , because they're right on your screen .	look and usability
+B	660.48	So you can use the b the the arrows .	look and usability
+C	665.25	Huh .	look and usability
+B	665.56	They're right on your screen , so I don't know where you'd search .	look and usability
+C	668.04	With the ones Yeah .	look and usability
+D	668.73	Are all the buttons easy to find ?	look and usability
+B	669.5	Yeah .	look and usability
+D	670.61	Not only this buttons , all the buttons .	look and usability
+B	671.94	Well , I think they are .	look and usability
+B	676.85	The options are it uh little bit harder , but if you touch the options then it's uh No they're not , but they're they're they are easy to find .	look and usability
+C	680.0	Take a harder look , yeah , sure .	look and usability
+D	681.92	I think th it's easy t Yeah , I think this is easy now .	look and usability
+C	682.99	It's easier than the regular uh remote control .	look and usability
+D	687.69	I think th I think the options buttons are not the the easiest way to to to handle .	look and usability
+C	688.54	Yeah .	look and usability
+A	688.62	So So which So which number are we going to fill in ?	look and usability
+D	698.65	True .	look and usability
+D	701.36	I would rate it a Yeah , okay , that's true , that's true .	look and usability
+C	701.47	Yeah , they are a lot easier to find than uh th than on the regular remote controls where you have to uh find out what which sign or icon means on uh every button .	look and usability
+B	707.13	Oh .	look and usability
+B	711.8	Yeah .	look and usability
+C	712.37	So you have t you have to use the the the manual to understand most Yeah .	look and usability
+D	714.06	But that's that's vantage of L_C_D_ screen , you can have text .	look and usability
+B	719.69	I would say yeah .	look and usability
+C	719.99	I think it's uh it's a two , at least .	look and usability
+B	721.85	Yeah .	look and usability
+B	724.09	Yeah , you can make it a two .	look and usability
+A	724.22	A two , yeah ?	look and usability
+A	725.07	Two , three and what do you think ?	look and usability
+D	725.25	Yeah .	look and usability
+C	725.67	It's not perfect , but A three ?	look and usability
+D	727.09	I think it's a three .	look and usability
+A	730.04	Okay , so we have two , two , three .	look and usability
+C	730.18	And why is that ?	look and usability
+D	730.55	I personally think , because I d I don't think i maybe it's easy to use , it has to be easy to find right away .	look and usability
+D	737.63	I I think if you have the button at the right , I don't think you can find the option button that easy .	look and usability
+B	741.4	Yeah , but you don't have t have to use the button on the right .	look and usability
+D	743.99	You can touch it .	look and usability
+B	744.01	You can touch it .	look and usability
+B	745.01	Yeah .	look and usability
+C	747.32	It said bo both the options .	look and usability
+B	747.75	You you can touch options .	look and usability
+D	748.27	Yeah , okay , but you have y then you have here s written option on here , the teletext button , right ?	look and usability
+B	754.01	Yeah .	look and usability
+C	754.33	Yeah .	look and usability
+D	754.57	Okay , then okay , good .	look and usability
+D	755.56	Then I think also two , yeah .	look and usability
+B	756.65	You can touch options and it's comes out .	look and usability
+A	757.62	A two , okay , because we have to It's the box below it , huh ?	look and usability
+D	758.28	Yep .	look and usability
+C	758.62	A two , a two .	look and usability
+B	760.31	The uh the um Below .	look and usability
+C	760.91	Uh the next question the next question .	look and usability
+C	763.04	Oh my God .	look and usability
+A	765.53	Otherwise we have two results in one question .	look and usability
+B	768.6	It's different .	look and usability
+A	768.92	Okay , next question .	look and usability
+D	769.57	It's easy to use , as well for younger as elderl elderly people .	look and usability
+B	774.38	For young people I think it's easy to use .	look and usability
+D	778.15	Young means sixteen to forty years .	look and usability
+C	778.68	Yeah , I was uh Yeah .	look and usability
+B	780.3	Yeah .	look and usability
+D	780.3	And elderly from forty eight to their death .	look and usability
+B	782.43	I think it's In the entire mankind .	look and usability
+C	783.05	I think it's the most useful uh remote control ever to be manufactured .	look and usability
+A	788.27	Okay , you're very enthusiastic about your own design , huh ?	look and usability
+D	789.49	Also if you're sixty years old Also Yeah , as well as your if you're fif sixty years old , you're holding one of those things in your hand No , but we're going to th make this f for a all kind of people , so it it it has to be If you read the manual , always .	look and usability
+C	790.48	Yeah , but because it has the regular uh controls , li uh as you can see in the screen now , and uh you don't have all the other options uh always uh on your screen .	look and usability
+C	803.32	So it's t I think it's really easy to use .	look and usability
+B	803.55	Yeah .	look and usability
+C	805.77	You want these options to Uh sure .	look and usability
+A	806.5	As well for the for the older people ?	look and usability
+B	810.67	Yeah , but uh Yeah , but they they don't want the uh extra options , right ?	look and usability
+B	816.35	So Yeah , okay , but so they could Uh I think it is .	look and usability
+A	818.41	And would it be easy for them to use the speech recognition ?	look and usability
+B	823.2	If they read a manual .	look and usability
+A	824.14	Because that might Yeah .	look and usability
+A	825.63	Okay , well M maybe that's the most user friendly and easy to use .	look and usability
+C	825.68	Perhaps that is one of the most uh Uh because a lot of Channel one , channel four , yeah .	look and usability
+B	826.2	Yeah , alright .	look and usability
+B	828.96	Because it it's not it's not it's it's not uh difficult .	look and usability
+B	831.66	You say you say uh record to to the to the speech recognition , then you say the question and the answer .	look and usability
+B	839.28	And that's everything it does , the speech recognition .	look and usability
+A	843.06	Yeah , well maybe that would make it even more easy to use for them .	look and usability
+B	844.91	Yeah .	look and usability
+B	847.27	I think it would make it uh I would make it two .	look and usability
+C	847.81	Yeah , I think it does .	look and usability
+D	849.12	So Also two ?	look and usability
+C	849.64	Because all the people who can't uh Uh a two .	look and usability
+B	853.33	Yeah .	look and usability
+D	853.68	Not a seven for this ?	look and usability
+C	854.71	Sure , two .	look and usability
+C	855.55	Oh .	look and usability
+A	856.07	I'd say three .	look and usability
+B	857.74	Three ?	look and usability
+D	858.83	I would also say three .	look and usability
+B	860.25	Oh .	look and usability
+A	860.45	Okay , so we have three three two two or So what are we going to do ?	look and usability
+B	860.53	You ?	look and usability
+C	862.35	Two .	look and usability
+B	863.21	Oh .	look and usability
+B	863.9	Well Two and a half .	look and usability
+A	866.52	Okay , a three , I see .	look and usability
+A	867.92	Uh Another question .	look and usability
+B	867.96	Three ?	look and usability
+C	868.35	Give me more .	look and usability
+B	868.42	No .	look and usability
+D	872.08	Remotes overwhelmed with buttons .	look and usability
+B	874.01	No .	look and usability
+C	874.4	No .	look and usability
+A	875.01	No .	look and usability
+D	875.77	No , that that's that's yeah .	look and usability
+B	876.66	But um I mean , that's definitely one .	look and usability
+D	877.26	Tha that's a one , I think , that's definitely a one .	look and usability
+C	878.98	That's definitely our uh A false , yeah .	look and usability
+B	879.68	Oh nee , oh seven is it ?	look and usability
+B	881.08	It is .	look and usability
+D	881.49	No ?	look and usability
+D	882.04	Oh yeah .	look and usability
+B	882.07	Yeah , uh the remote score .	look and usability
+A	882.69	Yeah .	look and usability
+A	883.2	Yeah , but I think you should make it one scale with with one being good and seven being bad , because otherwise we can't uh calculate anything from the results , so Okay , a one , because we designed for that , huh ?	look and usability
+D	885.62	Yeah , I think isn't , this has to be something like isn't overwhelmed .	look and usability
+B	888.99	It's not overwhelmed .	look and usability
+B	891.26	Yeah .	look and usability
+C	892.27	Yeah , indeed .	look and usability
+D	893.52	True .	look and usability
+B	894.51	Yep .	look and usability
+D	896.69	Remote control has uh colours that different that meet different target groups .	evaluation of prototype(s)
+B	899.55	Yes .	evaluation of prototype(s)
+B	901.2	'Cause we make them in different colours , so that they uh Yeah .	evaluation of prototype(s)
+D	902.54	Yeah .	evaluation of prototype(s)
+C	902.83	Yeah , is optional .	evaluation of prototype(s)
+A	902.85	Yeah .	evaluation of prototype(s)
+D	904.18	That's true .	evaluation of prototype(s)
+A	904.29	Yeah , and I though w we had about single colours , but you can also make uh a wood colour , not just one single colour but a wood-like thing , can't you ?	evaluation of prototype(s)
+C	910.51	Huh .	evaluation of prototype(s)
+B	910.89	That it that it looks like wood , like something , yeah .	evaluation of prototype(s)
+D	912.05	Also with rubber ?	evaluation of prototype(s)
+B	913.54	Uh I think you can .	evaluation of prototype(s)
+A	914.33	Whether it looks like wood , it isn't w it isn't wood but You can make a print on rubber , can't you ?	evaluation of prototype(s)
+D	915.94	Yeah , okay .	evaluation of prototype(s)
+B	916.98	It it feels like rubber , but Well but then when you scratch it it does come off .	evaluation of prototype(s)
+C	919.61	Yeah .	evaluation of prototype(s)
+A	919.95	Yeah .	evaluation of prototype(s)
+D	920.4	Yeah ?	evaluation of prototype(s)
+A	920.84	So that's a one then , huh ?	evaluation of prototype(s)
+D	922.65	That's a one ?	evaluation of prototype(s)
+D	923.62	Okay .	evaluation of prototype(s)
+C	923.69	Yeah , it is it is harder to to like Geez .	evaluation of prototype(s)
+B	924.17	So that's a bit Oh we have time .	evaluation of prototype(s)
+A	925.11	Do you have many questions ?	evaluation of prototype(s)
+D	926.34	Uh I have The material used is spongy , that that's uh that's a one , that's m rubber .	evaluation of prototype(s) look and usability
+A	929.07	Oh , okay well Yeah , but we have We also We have to get to the money .	evaluation of prototype(s)
+C	932.48	We're getting paid .	evaluation of prototype(s)
+C	933.24	We're getting paid .	evaluation of prototype(s)
+B	936.7	What ?	look and usability
+A	937.21	What spongy .	look and usability
+B	937.98	Yeah , yeah , it's very spongy .	look and usability
+C	939.28	Uh .	look and usability
+D	939.6	Yeah , I th think it's not the most spongy thing .	look and usability
+B	940.27	Oh but not it's not very spongy , because it's hard rubber .	look and usability
+B	943.74	I think it's a three .	look and usability
+C	945.38	Yeah , it's a three , because you want to make it uh rather flexible but not too flexible , because it has a L_C_D_ screen .	look and usability
+D	945.51	Yeah .	look and usability
+A	945.91	Uh-huh , yeah .	look and usability
+B	948.68	Hard but Yeah .	look and usability
+B	951.19	You can break it .	look and usability
+B	952.82	Yeah .	look and usability
+D	954.86	Remote control is hard to lose .	how to find when misplaced
+C	955.21	Hard to lose , yeah it sh and it's easy to find .	how to find when misplaced
+B	956.54	Y yeah , you could you could call it .	how to find when misplaced
+D	957.96	Y you can't you can't lose it if you're sixty years old .	how to find when misplaced
+D	962.17	If first time see the thing you didn didn't adjust uh set the microphone , and then you lose it , then you have lost it .	how to find when misplaced
+B	966.72	Yeah , y you can lose it , but it isn't hard to lose .	how to find when misplaced
+D	970.27	It isn't hard , no .	how to find when misplaced
+D	970.99	I think I think this is a two , personally .	how to find when misplaced
+B	973.63	Two .	how to find when misplaced
+B	974.36	That it's hard to lose ?	how to find when misplaced
+D	975.33	No .	how to find when misplaced
+B	976.07	Yeah , it it is there's the it's a six , you think ?	how to find when misplaced
+C	976.77	Isn't hard to lose .	how to find when misplaced
+A	977.19	Yeah , so isn't hard to lose you .	how to find when misplaced
+C	978.62	Isn't hard to lose , yeah .	how to find when misplaced
+D	981.01	Isn't hard to lose .	how to find when misplaced
+B	982.14	So it's a two .	how to find when misplaced
+B	983.04	Yeah , you can lose it , so I don't you can make it a three I It does have an a built in function .	how to find when misplaced
+D	984.49	Yeah .	how to find when misplaced
+D	985.45	You can't lose it .	how to find when misplaced
+D	987.91	Or if you're you're sixty years old , your demands I think yeah , I think also .	how to find when misplaced
+A	989.64	Yeah , but a har A hard to lose is good .	how to find when misplaced
+A	992.88	So it should this question should be hard to lose .	how to find when misplaced
+B	993.76	Nee .	how to find when misplaced
+B	995.24	Hard to lose .	how to find when misplaced
+A	995.52	It's difficult to lose it .	how to find when misplaced
+B	996.5	Oh right .	how to find when misplaced
+C	997.43	Yeah , this this is hard to lose .	how to find when misplaced
+B	998.42	It is hard to lose .	how to find when misplaced
+B	999.74	Yeah , so then this is it is almost true , so a two .	how to find when misplaced
+C	1000.97	This Two , yeah .	how to find when misplaced
+A	1001.86	A two .	how to find when misplaced
+A	1003.38	A two .	how to find when misplaced
+A	1004.65	Okay .	how to find when misplaced
+C	1006.07	And most all because of the option to Whoa .	how to find when misplaced agenda/equipment issues
+D	1007.4	Huh ?	how to find when misplaced
+B	1008.39	Ooh .	agenda/equipment issues
+A	1009.79	Yeah , it's okay .	agenda/equipment issues
+A	1010.6	That happens above also .	agenda/equipment issues
+B	1012.57	Oh .	agenda/equipment issues
+C	1012.72	Uh .	agenda/equipment issues
+A	1012.78	But maybe when you scroll away and back it will be normal , but Yep .	agenda/equipment issues
+D	1012.9	Yeah ?	agenda/equipment issues
+D	1013.65	Oh , okay .	agenda/equipment issues
+D	1016.22	No .	agenda/equipment issues
+A	1016.46	Oh , it isn't , well okay .	agenda/equipment issues
+B	1016.56	Oh well , it doesn't .	agenda/equipment issues
+A	1018.11	Remember .	agenda/equipment issues
+C	1018.91	put the cor cursor on the .	agenda/equipment issues
+D	1020.07	Okay okay okay .	evaluation of prototype(s)
+D	1021.36	Remote control mainly be sold to younger people .	evaluation of prototype(s)
+C	1021.52	Click .	evaluation of prototype(s)
+C	1024.23	True .	evaluation of prototype(s)
+B	1024.4	I think it will , yeah .	evaluation of prototype(s)
+D	1025.37	Yeah ?	evaluation of prototype(s)
+C	1025.63	True .	evaluation of prototype(s)
+D	1026.12	True ?	evaluation of prototype(s)
+D	1027.05	Very true ?	evaluation of prototype(s)
+C	1028.07	Uh yeah .	evaluation of prototype(s)
+B	1028.34	Uh well I a a two .	evaluation of prototype(s)
+D	1028.78	No , I don't think very true because the colours .	evaluation of prototype(s)
+C	1028.89	Uh Materials , yeah .	evaluation of prototype(s)
+A	1029.02	There .	evaluation of prototype(s)
+D	1032.15	We have the colours .	evaluation of prototype(s)
+D	1033.1	Um we have the buttons is aren't that that much .	evaluation of prototype(s)
+D	1037.58	Nah , the material isn't that So I don I think I think it's a three .	evaluation of prototype(s)
+B	1039.14	It's it's much more younger .	evaluation of prototype(s)
+C	1039.25	Uh okay .	evaluation of prototype(s)
+C	1040.57	So ma uh make it make it a two .	evaluation of prototype(s)
+A	1043.93	Well I think it's it's uh a lower number , so better because w we designed it for young people especially , didn't we ?	evaluation of prototype(s)
+B	1049.56	Yeah .	evaluation of prototype(s)
+D	1050.14	Yeah , but I uh Okay , okay .	evaluation of prototype(s)
+B	1050.42	I think it's a two but Two two two .	evaluation of prototype(s)
+A	1052.84	What do you think ?	evaluation of prototype(s)
+D	1053.59	I think because yeah ?	evaluation of prototype(s)
+A	1054.11	Questions ?	evaluation of prototype(s)
+C	1054.19	A two ?	evaluation of prototype(s)
+C	1054.4	I think it's two .	evaluation of prototype(s)
+A	1055.29	Two .	evaluation of prototype(s)
+C	1055.58	I think it's two too , two too too .	evaluation of prototype(s)
+A	1056.26	Uh-huh .	evaluation of prototype(s)
+B	1058.67	Let's make everything a two .	evaluation of prototype(s)
+D	1059.38	In the features ?	evaluation of prototype(s)
+A	1060.64	Dissatisfy younger people .	evaluation of prototype(s)
+B	1062.14	Younger people .	evaluation of prototype(s)
+A	1062.26	Um Yeah , but those are more fancy functions , not not really many features or something .	evaluation of prototype(s) look and usability
+B	1063.22	It has What did Yeah .	evaluation of prototype(s) look and usability
+C	1063.29	Well perhaps not .	evaluation of prototype(s)
+D	1065.52	Because younger peoples are cr critical and they wanted a lot of features on this thing .	look and usability
+B	1069.54	Well that it doesn't .	look and usability
+C	1069.63	Well , n not exactly but uh uh if it had some games on it or something like that , but it's for a remote control I think it i it would satisfy those needs .	look and usability
+B	1074.35	Yeah bu but I think they like the speech .	look and usability
+C	1081.11	Yeah , the speech possibility , the colours .	look and usability
+B	1081.47	You could call to your uh yeah , and the screen , yeah .	look and usability
+D	1082.11	L_C_D_ screen and scroll .	look and usability
+C	1084.37	Scroll options , yeah .	look and usability
+D	1085.21	I I think they'll be quite met with their expectations .	look and usability
+B	1094.96	Right , that that that those are features .	look and usability
+D	1095.11	No .	look and usability
+A	1095.77	It has relatively few features , with Yeah .	look and usability
+D	1096.5	It's three features , basically , the L_C_D_ touch screen is feature .	look and usability
+C	1101.45	Yeah .	look and usability
+D	1101.98	The microphone is a feature .	look and usability
+B	1102.36	No , aren't the features the microphone's feature and that you can change the channel's feature , and that you can change the volume is feature , and that you can change the options of the remote , uh uh something like that .	look and usability
+D	1110.23	Yeah , okay .	look and usability
+A	1110.68	Ours had other features with Okay , you think one , what do you think ?	look and usability
+D	1111.71	I think yeah , and then you have the audio settings , channel setting , video settings .	look and usability
+B	1111.95	Yeah .	look and usability
+C	1112.94	The easy volume up button .	look and usability
+B	1115.23	Those are features .	look and usability
+C	1115.69	Remote younger people usually use the remote control to put on the volume .	look and usability
+D	1120.22	Yeah yeah .	look and usability
+C	1120.82	Turn uh turn up the volume .	look and usability
+D	1121.25	So I've chos I shou I think it's it's it's a one .	look and usability
+B	1124.52	Enough features ?	look and usability
+D	1124.96	Personally , yeah .	look and usability
+D	1125.39	I think once you've 'cause you have the channel features b uh you have the uh screen features , audio features , the you have all buttons on it which you'd like , microphone extra , L_C_D_ screen extra , scroll thing extra .	look and usability
+B	1138.73	Yeah .	look and usability
+B	1141.2	I think two or three .	look and usability
+A	1141.72	You .	look and usability
+A	1143.15	three , yeah .	look and usability
+C	1144.17	Two .	look and usability
+A	1144.82	I'd say three , so two it is then or Yeah .	look and usability
+B	1146.05	Yeah .	look and usability
+B	1146.57	Yeah uh a two a two .	look and usability
+D	1146.77	Make it make it a two .	look and usability
+C	1147.88	One two three .	look and usability
+D	1149.13	Or make it uh a fucking two .	look and usability
+B	1149.33	Just another two .	look and usability
+B	1150.57	We like two .	look and usability
+C	1150.74	Right .	look and usability
+D	1151.76	You can see the remote control is R_ and R_ .	look and usability
+B	1153.78	Yeah , there's R_ and R_ in front .	look and usability
+C	1154.16	Uh .	look and usability
+A	1155.56	Yep .	look and usability
+B	1156.43	Uh it's not the colour , so maybe you should make two , but it has R_ and R_ .	look and usability
+D	1159.95	Has oh yeah , do did have nah y you have the black one .	look and usability
+B	1163.66	Yeah .	look and usability
+D	1163.66	And we'll probably make also a yellow one .	look and usability
+B	1165.37	Yeah , but not R_ and R_ yellow I think .	look and usability
+A	1165.79	Yeah .	look and usability
+A	1166.39	Yeah , maybe maybe two .	look and usability
+A	1167.34	Well m th but the logo is on on the front , so a two , yeah , that's Oh , well that's that's pretty good , huh ?	look and usability
+D	1168.02	Maybe two .	look and usability
+C	1168.4	Okay , true , yeah .	look and usability
+B	1169.72	One d on i it's the colours and the I think it is , but I don't know what you think .	look and usability
+D	1169.97	X_ marks spot .	look and usability
+D	1171.88	And the menu is avail that is available is easy to use .	look and usability
+C	1179.39	I think it's easier to use than a regular remote control , because when you push on the options menu , you get the the the various options uh entirely explained .	look and usability
+D	1181.66	Yeah , tha that's so true .	look and usability
+D	1189.24	Mm-hmm .	look and usability
+C	1189.28	Entirely explained .	look and usability
+C	1191.52	Instead of uh just finding out what an icon means on a button .	look and usability
+D	1195.55	Mm-hmm .	look and usability
+D	1197.52	Yeah , uh I think that wou that would be quite hard to learn to use it .	look and usability
+B	1198.03	And you can navigate easier , because wi with the you have to push the the the arrows and with a normal T_V_ uh remote .	look and usability
+C	1199.4	Yeah , you can navigate .	look and usability
+C	1203.73	Uh .	look and usability
+C	1211.24	You're not satisfied , okay .	look and usability
+D	1212.16	No , I'm not not convinc .	look and usability
+C	1212.46	Let's start over again then .	look and usability
+B	1213.7	Yeah .	look and usability
+B	1214.37	Let's make a different remote .	look and usability
+D	1215.25	Let's go th for I think it would be a t yeah , two .	look and usability
+B	1215.63	Well Menu .	look and usability
+B	1221.78	A two ?	look and usability
+D	1221.94	Now lower .	look and usability
+C	1222.83	A two .	look and usability
+B	1223.57	We only have twos .	look and usability
+C	1225.84	Oh yeah , I think so .	look and usability
+C	1227.43	Yeah .	look and usability
+B	1227.47	Uh just twos .	look and usability
+D	1227.9	So okay , we have one three , a one , that that have to got up .	evaluation of prototype(s)
+C	1228.2	And three .	evaluation of prototype(s)
+B	1228.34	One three and a few ones .	look and usability
+B	1232.67	Two threes .	evaluation of prototype(s)
+D	1235.76	Two two two two two .	evaluation of prototype(s)
+B	1237.38	We m mostly have twos , so it's pretty good .	evaluation of prototype(s)
+D	1238.58	So two , yeah .	evaluation of prototype(s)
+D	1239.6	The average is a two .	evaluation of prototype(s)
+B	1240.66	Yeah .	evaluation of prototype(s)
+D	1241.44	That is quite good in my opinion .	evaluation of prototype(s)
+C	1241.55	The average .	evaluation of prototype(s)
+B	1243.42	Yeah .	evaluation of prototype(s)
+B	1244.17	I think so too .	evaluation of prototype(s)
+C	1244.76	Yeah , I think so .	evaluation of prototype(s)
+D	1246.17	That Ooh .	evaluation of prototype(s)
+B	1248.21	We can be happy .	evaluation of prototype(s)
+C	1249.0	Save .	evaluation of prototype(s)
+D	1252.02	Ooh .	evaluation of prototype(s)
+B	1252.47	Yeah .	evaluation of prototype(s)
+B	1253.85	What is it ?	evaluation of prototype(s)
+B	1254.54	It's like a bug or something .	evaluation of prototype(s)
+C	1255.31	It's a fly .	evaluation of prototype(s)
+B	1256.42	A fly , yeah .	evaluation of prototype(s)
+C	1257.11	Oh m Yeah .	evaluation of prototype(s) agenda/equipment issues
+B	1258.72	A f butterfly .	evaluation of prototype(s)
+D	1260.85	Top .	evaluation of prototype(s)
+B	1262.61	Yeah .	evaluation of prototype(s)
+B	1264.08	That's it .	evaluation of prototype(s)
+D	1264.42	Okay .	evaluation of prototype(s)
+A	1265.17	That was your evaluation uh show , okay , so we don't have to calculate anything because of um these results .	agenda/equipment issues
+D	1266.44	Yes .	agenda/equipment issues
+B	1269.23	Sure .	agenda/equipment issues
+D	1270.94	No , it's two .	agenda/equipment issues
+A	1272.01	Okay , good .	agenda/equipment issues
+D	1272.67	The average is two .	agenda/equipment issues
+B	1272.77	It's good .	agenda/equipment issues
+A	1273.62	Um let's see oh , it isn't asked to save but it did already And this Everything okay .	agenda/equipment issues
+B	1273.79	Yeah .	agenda/equipment issues
+D	1277.36	Yeah , I uh uh I uh saved it .	agenda/equipment issues
+C	1277.37	Exactly .	agenda/equipment issues
+A	1280.27	Well , the next part uh might be a little bit difficult to do in a group , but I am willing to try it .	costing
+A	1294.65	Because we are going to look at the finance and I have a nice Excel sheet to do that .	costing
+B	1298.32	Yeah .	costing
+B	1300.85	Redesign .	costing
+B	1302.05	No .	costing
+A	1302.55	And um I'm not sure if I put it in the project folder .	costing
+A	1305.31	look on that .	costing
+A	1305.97	Um and we're going to calculate the production costs , and if they are uh under or at twelve Euro fifty , we're good , and if they're not we're going to uh re-design , but we have to do that uh very very quick I think , yes .	costing
+B	1308.25	Yeah .	costing
+B	1313.66	Yeah .	costing
+B	1315.66	So we're going to erase features or something .	costing
+A	1319.49	Um I don't know if I put the Excel sheet in the n not in the folder .	costing
+B	1321.05	Do you have the cost or uh Let's hope .	costing
+D	1327.43	f fifty five Euros .	costing
+B	1327.53	We're going to be here at eight o'clock .	costing
+A	1328.22	I think it's I think it's still in my own documents folder .	costing
+B	1334.88	We're goin still going to be here at eight o'clock .	costing
+D	1337.2	No .	costing
+B	1339.33	I doubt it .	costing
+A	1339.45	Oh shit .	costing
+B	1340.38	Perhaps we've got features that don't exist in the Excel sheet .	costing
+D	1342.06	Yeah mm yeah , maybe .	costing
+A	1345.17	So Okay , well this is it .	costing
+D	1345.77	The microphone .	costing
+B	1347.08	No , it was in my uh my information , so uh Yeah .	costing
+C	1348.51	Yeah .	costing
+C	1349.24	It i It wasn't too much .	costing
+D	1349.45	Yeah ?	costing
+D	1350.91	maybe you're going scrap scrap it .	costing
+C	1351.72	As well as the L_C_D_ screen .	costing
+C	1353.2	Whoa .	costing
+B	1354.78	Well , if it doesn't work I want to fill it in , but uh But you should uh direct The number of We've got a battery , one or t two batteries , or not ?	costing components, materials and energy sources
+A	1355.73	Um maybe I could ask one of you to uh fill it in , so that I can also uh take minutes , and uh maybe the other can uh use that thing to count uh numerous functions .	costing
+D	1361.09	No prob .	costing
+D	1366.18	Ah .	costing
+D	1368.15	Count it ?	costing
+D	1368.86	Li like write it be Ah , okay , cool .	costing
+A	1369.4	Well we have to count some things and we have to think about some things .	costing
+C	1372.19	Count it .	costing
+A	1372.48	But you have to fill in this column , huh ?	costing
+C	1372.57	You got Excel to count .	costing
+A	1375.48	No , uh count uh number of functions , because for every button you have to pay and there are different screen shots , so or different different screens , so Yeah , but it's it's more about the energy source , huh ?	costing components, materials and energy sources
+C	1377.52	Oh okay .	costing
+C	1378.62	Well I dra uh Danny , Danny , I'll do that , because I draw the uh No , no solar cell , no no no no .	costing components, materials and energy sources
+D	1380.7	Huh ?	costing
+D	1381.45	Yeah ?	costing
+D	1381.68	Oh , yea yeah , you design it .	costing
+D	1385.1	Um Yeah .	costing components, materials and energy sources
+B	1385.86	nee one battery , with two small batteries .	components, materials and energy sources
+A	1391.47	Do you use a hand dynamo , a battery , kinetic or solar cells ?	components, materials and energy sources
+B	1391.62	Yeah .	components, materials and energy sources
+B	1392.69	I would do a battery we do .	components, materials and energy sources
+D	1394.14	Solar cell .	components, materials and energy sources
+B	1394.43	Right ?	components, materials and energy sources
+D	1394.77	No it took a battery ?	components, materials and energy sources
+B	1395.29	A battery .	components, materials and energy sources
+A	1395.35	We'll wait .	components, materials and energy sources
+B	1396.85	One battery , right ?	components, materials and energy sources
+A	1398.64	Yeah .	components, materials and energy sources
+C	1398.74	No hand dynamo .	components, materials and energy sources
+D	1398.82	Yeah .	components, materials and energy sources
+C	1400.93	Hand On advanced chip .	components, materials and energy sources
+B	1402.88	Electronics , simple chip advanced chip , right ?	components, materials and energy sources
+D	1403.12	We have No , we have sample speaker .	components, materials and energy sources
+D	1407.86	But b al but we also have sample speaker , do Oh , we already on nine .	components, materials and energy sources
+C	1409.73	Yeah , yeah .	components, materials and energy sources
+B	1409.95	Yeah , so this one and this one .	components, materials and energy sources
+B	1414.17	Uh we ha we have um single what ?	components, materials and energy sources
+B	1417.62	Are we ?	components, materials and energy sources
+B	1418.1	Oh yay .	components, materials and energy sources
+D	1419.08	We have double curved .	components, materials and energy sources
+C	1420.16	Single nee single curved .	components, materials and energy sources
+B	1420.83	The single .	components, materials and energy sources
+D	1421.68	Single .	components, materials and energy sources
+C	1421.84	Double curved was uh uh see uh ju three dimensional .	components, materials and energy sources
+C	1425.37	But it isn't three dimensional , it isn't curved in a l No no no , single curved is like this .	components, materials and energy sources
+D	1426.49	This one is This one is curved like this , right .	components, materials and energy sources
+B	1426.62	Oh the the it's not going to work uh people .	components, materials and energy sources
+B	1429.49	We have rubber .	components, materials and energy sources
+A	1431.49	I'll just fill it in .	components, materials and energy sources
+D	1431.94	It's curved like this .	components, materials and energy sources
+A	1433.35	Um rubber indeed ?	components, materials and energy sources
+D	1435.16	Yeah , bu what Oh , but we have curves like it and it .	components, materials and energy sources
+C	1435.35	Uh that's the only curve you made , not th uh curved like that .	components, materials and energy sources
+C	1438.57	That's uh Huh ?	components, materials and energy sources
+D	1441.25	There are two curves , right ?	components, materials and energy sources
+B	1441.7	Thirteen ?	components, materials and energy sources
+D	1442.51	Oh , okay I understand , I understand .	components, materials and energy sources
+B	1443.71	With a scroll wheel , right ?	components, materials and energy sources
+D	1445.24	Rubber .	components, materials and energy sources
+C	1445.62	Yeah .	components, materials and energy sources
+B	1446.1	Is he integrated ?	components, materials and energy sources
+B	1447.05	No , eh ?	components, materials and energy sources
+B	1448.79	I don't know .	components, materials and energy sources
+D	1448.8	Push button .	components, materials and energy sources
+C	1448.9	Yeah , we gotta integrate scroll wheel and push button , because when you push it and you w it won't just pu uh makes possible to s Not going to work ?	components, materials and energy sources
+D	1449.16	No , we don't have push button .	components, materials and energy sources
+B	1454.2	Oh yeah , right , we want it to it's not it's not no .	components, materials and energy sources
+D	1456.81	L_C_D_ display .	components, materials and energy sources
+C	1458.22	Okay .	components, materials and energy sources
+B	1458.45	Yep .	components, materials and energy sources
+B	1459.08	Fifteen , oh , too bad .	components, materials and energy sources
+C	1461.9	Okay um But now button supplements .	components, materials and energy sources
+B	1462.68	Oh but with special colour we have .	components, materials and energy sources
+B	1464.66	A special form , right ?	components, materials and energy sources
+C	1467.16	We don't got the button supplements .	components, materials and energy sources
+B	1468.35	Oh , we don't have any buttons , so Yeah , we need to uh No , uh we have fifteen and oh , right .	components, materials and energy sources
+D	1469.74	Eighteen and a half , damn .	components, materials and energy sources
+D	1471.88	We have to lower it with six points .	components, materials and energy sources
+C	1472.01	Damn .	components, materials and energy sources
+C	1475.48	Okay .	components, materials and energy sources
+D	1476.99	Twelve and half .	components, materials and energy sources
+B	1479.98	We could lose the curve .	components, materials and energy sources
+C	1481.83	Nah .	components, materials and energy sources
+D	1482.27	We could use I think we should scrap the sample speaker .	components, materials and energy sources
+B	1483.54	Yeah , I would lose the curve .	components, materials and energy sources
+C	1483.69	We could lose the scroll wheel .	components, materials and energy sources
+C	1485.07	You could make it just a regular scroll wheel .	components, materials and energy sources
+B	1487.32	But you can't push it , so you have to tap .	components, materials and energy sources
+C	1488.8	Yeah , if you can't push it you have to tap the the options window uh button here and then uh scroll down with the d with uh with uh the button .	components, materials and energy sources
+B	1497.37	Yeah , alright .	components, materials and energy sources
+A	1498.25	Yeah , I think that will be our best bet .	components, materials and energy sources
+B	1498.93	So normal scroll wheel ?	components, materials and energy sources
+C	1500.72	Normal scroll wheel .	components, materials and energy sources
+B	1501.7	And I think we should lose the curve .	components, materials and energy sources
+C	1503.55	Lose Okay , so we don't exactly need the single We don't need a curve .	components, materials and energy sources
+D	1505.55	It's four pri it four units .	components, materials and energy sources
+B	1507.95	Yeah , but if you would i it is a new feature , it it's something special .	components, materials and energy sources
+D	1513.21	But w d wha Curved then it will be square .	components, materials and energy sources
+B	1514.8	No , the curve doesn't really No , then it will won't uh stand up from the table .	components, materials and energy sources
+C	1515.57	'S possible to lose curve .	components, materials and energy sources
+B	1521.67	Then it would just Yeah .	components, materials and energy sources
+C	1521.67	Okay .	components, materials and energy sources
+D	1521.74	Was that does that mean to it , single curve ?	components, materials and energy sources
+C	1523.11	Yeah , that's meant with scr uh with s curve .	components, materials and energy sources
+C	1525.29	The curve is uh in a dimension .	components, materials and energy sources
+D	1527.44	Okay .	components, materials and energy sources
+C	1527.98	If you make it a flat one , s n it's no curve , you got no curves .	components, materials and energy sources
+B	1528.55	So We would lose this one ?	components, materials and energy sources
+D	1531.41	Yeah , but tha that that only is one .	components, materials and energy sources
+C	1531.87	Yeah , okay .	components, materials and energy sources
+B	1534.44	Yeah , we could s yeah , a bit .	components, materials and energy sources
+C	1534.6	No , two .	components, materials and energy sources
+D	1536.44	No , one .	components, materials and energy sources
+B	1538.4	Sixteen point three .	components, materials and energy sources
+C	1538.81	Oh , okay , indeed .	components, materials and energy sources
+D	1539.74	So we don't Yeah , we also have to No , otherwise we don't have an L_C_D_ screen .	components, materials and energy sources
+B	1540.99	So we still Could could we do it on a regular chip on print or something ?	components, materials and energy sources
+C	1542.2	Is it possible to make No .	components, materials and energy sources
+B	1548.94	No ?	components, materials and energy sources
+B	1549.71	Ma y you just can't do that , or uh We changed th Yeah , and the single curved to uncurved .	components, materials and energy sources
+A	1550.79	And what did you change ?	components, materials and energy sources
+A	1551.79	You changed the uh scroll wheel and Oh , but it's just one point , so maybe you should should uh Yeah , you should you should drop the speech recognition .	components, materials and energy sources
+D	1555.03	Single curved .	components, materials and energy sources
+D	1556.56	Flat .	components, materials and energy sources
+D	1558.0	Yeah , so that does doesn't doesn't that mu I think Scrap sample speaker ?	components, materials and energy sources
+B	1559.44	No .	components, materials and energy sources
+D	1563.27	That that's uh Yes , four points .	components, materials and energy sources
+C	1563.57	The sample speaker is two d wait , f s four points .	components, materials and energy sources
+B	1564.84	Yeah , but it's t Yeah , but it is uh it it is a new feature , it is something special .	components, materials and energy sources
+A	1567.53	And then you can keep the curve .	components, materials and energy sources
+A	1570.72	Or can't you ?	components, materials and energy sources
+C	1571.08	Yeah , uh becau uh when you lose the Yeah .	components, materials and energy sources
+D	1571.65	Yeah , but what what else what else uh do you want to scrap ?	components, materials and energy sources
+D	1574.25	F You have to we have to scrap four points .	components, materials and energy sources
+B	1574.83	I don't know .	components, materials and energy sources
+B	1576.45	Yeah , that's difficult .	components, materials and energy sources
+A	1578.54	Or make it on a hand dynamo , but I don't think that will work .	components, materials and energy sources
+B	1580.55	Yeah .	components, materials and energy sources
+D	1581.1	Ma make it with wood instead of rubber ?	components, materials and energy sources
+C	1583.82	No , that's no .	components, materials and energy sources
+C	1585.27	Make it w uh when you made it uh uh uh a remote control of wood ?	components, materials and energy sources
+B	1585.54	Uh .	components, materials and energy sources
+D	1589.72	Yeah , it it i Yeah , it also uh it also takes one point less .	components, materials and energy sources
+C	1590.25	You don't make a remote control of Ah .	components, materials and energy sources
+A	1590.44	Yeah , mm-hmm .	components, materials and energy sources
+B	1590.52	We could make it titanium instead of rubber .	components, materials and energy sources
+A	1594.34	Yeah , but uh a wooden remote control only helps for uh old people we discussed , yes ?	components, materials and energy sources
+B	1596.92	Oh .	components, materials and energy sources
+B	1597.38	Oh can I ask something ?	components, materials and energy sources
+B	1598.81	What is special colour ?	components, materials and energy sources
+D	1599.05	Yeah .	components, materials and energy sources
+B	1601.13	Is that the wood uh wood uh this , we have to have that one too ?	components, materials and energy sources
+D	1603.28	I think it is .	components, materials and energy sources
+C	1604.42	It isn't .	components, materials and energy sources
+C	1606.02	What ?	components, materials and energy sources
+D	1606.06	Yeah .	components, materials and energy sources
+A	1606.34	Yeah , but it's only a half .	components, materials and energy sources
+A	1607.76	But I think the only option is to drop the uh sample speaker .	components, materials and energy sources
+D	1609.26	Yeah .	components, materials and energy sources
+D	1610.28	Sample speaker .	components, materials and energy sources
+C	1610.82	To knock the sample speaker , yeah .	components, materials and energy sources
+C	1612.45	And sample sensor .	components, materials and energy sources
+B	1613.64	Th then we still have too much if we use the uh Yeah , we we scrap that one ?	components, materials and energy sources
+D	1615.35	Yeah , okay , three .	components, materials and energy sources
+C	1616.43	But m yeah , course , but What we'll have .	components, materials and energy sources
+D	1616.92	Point three .	components, materials and energy sources
+D	1621.74	Huh ?	components, materials and energy sources
+C	1622.3	Let's make it thirteen or fourteen .	components, materials and energy sources
+D	1624.5	Point twelve .	components, materials and energy sources
+B	1624.78	See , a po three .	components, materials and energy sources
+B	1627.29	We need point three .	components, materials and energy sources
+D	1629.56	That's a scroll wheel .	costing
+B	1630.55	Uh it's a colour .	look and usability
+B	1631.93	Don't make it wood .	look and usability
+C	1632.02	A colour .	look and usability
+D	1633.71	Yeah , but a wood we can make it brown , dark brown , not wood .	look and usability
+B	1634.54	Make it uh Yeah , but it's it's special colour , is it a all kind of colours ?	look and usability
+C	1640.3	Yeah , special colours , fruity colours .	look and usability
+B	1642.07	It's also green or uh Yeah , but it's a special colour than just rubber colour .	look and usability
+D	1642.98	Is it also no that that's just normal colour fruit colours .	look and usability
+C	1644.01	Yeah .	look and usability
+D	1645.69	Normal colours , yellow Yeah , but then I d I don't think we can ever make to a twelve and half .	look and usability
+B	1648.55	You have to add something to the rubber to make it green .	look and usability
+C	1650.47	Yeah .	look and usability
+B	1651.14	You don't say here's green rubber .	look and usability
+C	1654.51	They don't sell green rubber plants .	look and usability
+C	1656.99	Alright .	look and usability
+B	1658.79	Yeah , you can , you should you have to lose No , it is the scroll wheel , I guess .	look and usability
+D	1660.51	But then we have to scrap L_C_D_ display , we have to scrap uh s advanced chip .	look and usability
+C	1664.75	No no no .	look and usability
+D	1666.99	No then we have to scrap everything we got because how many colours we gonna make ?	look and usability
+D	1670.16	Five ?	look and usability
+C	1670.61	If we lose the scroll wheel and make it totally uh depending uh dependent on uh the touch screen then it's possible to make .	look and usability
+D	1670.95	Then we have two .	look and usability
+D	1676.33	S touch .	look and usability
+B	1676.55	A push , yeah .	look and usability
+D	1679.58	Then we can make add two colours on it .	look and usability
+C	1679.84	And then you can and then you can add to the colours .	look and usability
+D	1682.67	Yeah , two colours it .	look and usability
+C	1684.26	Special c Okay , if you lose uh if you lose the You lose this one , you got eleven point five and you make i and then you can make uh the spec single curve , for example .	look and usability
+B	1685.18	Switch colours .	look and usability
+B	1689.83	It was such a great idea .	look and usability
+D	1692.87	They can add two colours .	look and usability
+D	1699.13	But the colours .	look and usability
+D	1700.42	Um how ma uh the colours like l she told , is that all the colours we add or Yeah , but we we we are we have yellow , red , uh black , titanium .	look and usability
+C	1708.07	How d uh uh how many colours ?	look and usability
+B	1708.97	What do you mean ?	look and usability
+C	1709.9	Special colours , all the colours you want , because you want to make p Yeah , but uh when you use more than one colour , it's a special colour .	look and usability
+D	1720.17	Ah okay .	look and usability
+B	1720.19	Oh .	look and usability
+B	1720.87	But I think when you use the colour that's not originally the rubber then you use special colour , 'cause you have to add it .	look and usability
+C	1721.26	I suppose .	look and usability
+C	1725.48	Yeah .	look and usability
+D	1725.71	Yeah , but the rubbers alls original black .	look and usability
+B	1727.74	Yeah , so you always lose the special colour .	look and usability
+B	1729.58	You co you could make it always black , like normal remote .	look and usability
+D	1729.94	Yeah b Yeah , but we're gonna make it yellow uh red , and then you add you have two special colours on top of the one we have now .	look and usability
+C	1736.64	Nee we we also want to make ano another colour .	look and usability
+B	1738.05	Oh right , yeah .	look and usability
+B	1739.64	Yeah , we should u Yeah .	look and usability
+D	1739.66	Yeah , but m Yeah , because we have more colours than only black .	look and usability
+B	1740.86	We have to make this like four or five or something .	look and usability
+B	1743.49	That's what it means .	look and usability
+A	1745.19	Yeah , but isn't it per remote that you pay ?	look and usability
+B	1745.22	Yeah .	look and usability
+D	1746.21	I then I think I p I don I don't think they me mean they're special Yeah , okay okay , true .	look and usability
+B	1749.06	Oh right , yeah .	look and usability
+A	1749.25	Half ?	look and usability
+B	1750.24	Is it per remote ?	look and usability
+A	1751.54	I think you pay half per remote .	look and usability
+B	1751.71	Yeah .	look and usability
+B	1753.42	Yeah , that's right , and you one colour per remote .	look and usability
+A	1753.93	So each remote with a special colour .	look and usability
+C	1755.71	Yeah , indeed , yeah .	look and usability
+B	1756.35	So then it is one .	look and usability
+C	1757.16	You don't need four of those uh four of those special colours in one in one remote .	look and usability
+D	1761.92	True , true .	look and usability
+B	1763.16	No .	look and usability
+A	1764.83	I hope .	costing
+D	1764.85	We have two points spare .	costing
+A	1767.15	So the battery , we have um advanced chip on print .	components, materials and energy sources
+D	1767.26	Nee one point .	costing
+B	1768.13	One .	components, materials and energy sources
+B	1772.14	So it would be curved , single curve .	components, materials and energy sources
+A	1774.28	Because of thing Yeah , well you can at least make it curved again .	components, materials and energy sources
+B	1775.52	Or not ?	components, materials and energy sources
+C	1776.55	Hmm .	components, materials and energy sources
+B	1778.38	So y you just can't make a nice remote .	components, materials and energy sources
+C	1778.46	Yeah , single curve .	components, materials and energy sources
+A	1782.62	Because that was very important , huh ?	components, materials and energy sources
+B	1783.05	It's too bad for the speaker .	components, materials and energy sources
+A	1784.81	So it's curved , it's still that so we we dropped the speech recognition together with the speaker .	components, materials and energy sources
+B	1788.67	Should we change that tha that that's a one if not , or not ?	components, materials and energy sources
+D	1788.78	Mm yep .	components, materials and energy sources
+A	1791.58	We dropped the scroll wheel .	components, materials and energy sources
+B	1792.64	Could you copy it ?	components, materials and energy sources
+B	1793.58	And make it uh The entire uh Perhaps you can then copy page or so .	components, materials and energy sources agenda/equipment issues
+A	1793.8	And the rest is the same , huh ?	components, materials and energy sources
+D	1796.26	Y yea the scroll wheel is dropped .	components, materials and energy sources
+A	1796.39	Am I right ?	components, materials and energy sources
+A	1796.87	Yes .	components, materials and energy sources
+C	1801.08	Uh .	components, materials and energy sources
+D	1801.62	Yep .	components, materials and energy sources
+C	1802.2	Huh .	components, materials and energy sources
+B	1807.03	Ooh .	agenda/equipment issues
+B	1817.44	No .	agenda/equipment issues
+C	1818.58	Okay .	agenda/equipment issues
+B	1818.69	Oh you you made the entire could you Oh not Well .	agenda/equipment issues
+C	1821.0	Undo , undo .	agenda/equipment issues
+C	1822.9	Undo .	agenda/equipment issues
+C	1826.94	So , 'kay .	agenda/equipment issues
+C	1827.95	Twenty minutes ?	agenda/equipment issues
+B	1828.21	Would you ?	agenda/equipment issues
+B	1829.71	By the Perhaps you can save this one , and then copy or something .	agenda/equipment issues
+B	1834.94	Add it copy page .	agenda/equipment issues
+B	1839.05	Select all .	agenda/equipment issues
+A	1840.19	No , but you c yeah .	agenda/equipment issues
+B	1842.41	Alright , something went wrong .	agenda/equipment issues
+D	1850.81	Tap .	agenda/equipment issues
+A	1853.45	Okay , but this this new remote we can afford .	agenda/equipment issues
+B	1855.29	It doesn't work .	agenda/equipment issues
+B	1856.7	Let's forget .	agenda/equipment issues
+D	1857.21	It should've work .	agenda/equipment issues
+C	1858.45	Okay , so you had this list at start ?	agenda/equipment issues
+A	1861.92	Hmm ?	agenda/equipment issues
+C	1861.92	Alright .	agenda/equipment issues
+A	1862.38	No , I hadn't .	agenda/equipment issues
+C	1862.66	When did you receive this list ?	agenda/equipment issues
+A	1863.59	I just received it .	agenda/equipment issues
+C	1864.4	Ah okay .	agenda/equipment issues
+B	1865.64	Yeah .	agenda/equipment issues
+B	1866.59	Oh ignore that .	agenda/equipment issues
+A	1866.92	They don't work so hard at the finance department .	agenda/equipment issues
+C	1868.61	Ah okay .	agenda/equipment issues
+C	1869.51	I suppose this is a Okay , so we lose the scroll wheel , the s And the microphone .	components, materials and energy sources agenda/equipment issues
+B	1870.47	Well , so Too bad .	components, materials and energy sources agenda/equipment issues
+B	1875.45	Yeah .	components, materials and energy sources
+B	1876.25	The microphone .	components, materials and energy sources
+A	1878.44	Yeah , and that's it .	components, materials and energy sources
+B	1879.56	Yeah .	components, materials and energy sources
+B	1880.33	A and we changed something , I guess , or not ?	components, materials and energy sources
+B	1883.36	We Oh no .	components, materials and energy sources
+D	1887.45	Yep .	components, materials and energy sources
+C	1888.55	Okay .	components, materials and energy sources
+A	1889.38	Twelve Euro fifty .	costing
+A	1890.55	Um and did you try to make a new design , or what were you trying to do ?	agenda/equipment issues
+B	1893.63	Yeah , I tried to copy that one , but it didn't work .	agenda/equipment issues
+A	1895.61	It didn't work .	agenda/equipment issues
+B	1896.73	So we could fix it like tha that it's like this .	agenda/equipment issues
+A	1899.52	Hmm .	agenda/equipment issues
+A	1900.46	Strange .	agenda/equipment issues
+B	1901.39	You could select it all , but then you can't erase .	agenda/equipment issues
+C	1902.84	Strange .	agenda/equipment issues
+A	1905.08	Oh , you can arrange Hmm , can't you then just say copy ?	agenda/equipment issues
+C	1905.56	You can only re erase ?	agenda/equipment issues
+B	1906.6	Erase .	agenda/equipment issues
+C	1907.22	Oh .	agenda/equipment issues
+B	1907.84	When you saw th li uh Earlier when we selected it , w I couldn't erase anything .	agenda/equipment issues
+C	1910.86	Uh , no .	agenda/equipment issues
+C	1917.81	Bling .	agenda/equipment issues
+A	1918.48	New page .	agenda/equipment issues
+A	1921.66	Paste .	agenda/equipment issues
+A	1922.51	Yes .	agenda/equipment issues
+C	1922.66	Ah .	agenda/equipment issues
+A	1927.32	Select none .	agenda/equipment issues
+B	1930.14	Just tap somewhere .	agenda/equipment issues
+C	1930.35	just up somewhere b uh besides it , right .	agenda/equipment issues
+D	1930.61	just tap somewhere .	agenda/equipment issues
+A	1934.74	Okay , and now you can erase .	agenda/equipment issues
+B	1934.76	Yeah .	agenda/equipment issues
+B	1937.79	I don't think I can , but uh we can try .	agenda/equipment issues
+C	1939.57	Uh , we already try .	agenda/equipment issues
+A	1940.43	Well it should be possible .	agenda/equipment issues
+B	1941.85	Oh , yeah , no , ha-ha .	agenda/equipment issues
+A	1943.15	Oh no .	agenda/equipment issues
+A	1944.64	Well you can draw over it with white uh pen .	agenda/equipment issues
+D	1944.75	No ?	agenda/equipment issues
+B	1946.22	Yeah , we tried it earlier .	agenda/equipment issues
+A	1948.5	Oh .	agenda/equipment issues
+B	1948.51	It's very much work .	agenda/equipment issues
+A	1950.49	Yeah .	agenda/equipment issues
+A	1951.98	Sorry .	agenda/equipment issues
+A	1954.24	Well but that's also useful for the evaluation , because I think uh we have a prototype now which we can afford and uh we only need to draw a little bit to get a good uh design .	agenda/equipment issues
+D	1958.25	Evaluation drops .	agenda/equipment issues
+A	1968.38	Doodle .	agenda/equipment issues
+A	1969.12	And I think we should then move on to the production evaluation because of the time .	agenda/equipment issues
+D	1974.33	And erase the mic .	agenda/equipment issues
+B	1975.82	Yeah , goodbye mic .	agenda/equipment issues
+C	1976.8	All I need is no mic .	agenda/equipment issues
+A	1980.85	Let's see , we can save this now .	agenda/equipment issues
+B	1981.54	Oh , I already erased half of the line .	agenda/equipment issues
+C	1985.54	Bon chance No , add Yeah .	agenda/equipment issues
+A	1987.45	And move back to here .	agenda/equipment issues
+B	1992.54	Too bad , oh .	agenda/equipment issues
+B	2004.11	Like this ?	agenda/equipment issues
+A	2005.41	Mm-hmm .	agenda/equipment issues
+B	2006.12	Still looks nice .	agenda/equipment issues
+A	2006.8	And then all green .	agenda/equipment issues
+A	2007.99	Okay , well thank you .	agenda/equipment issues
+B	2009.87	Oh , that's erase .	agenda/equipment issues
+D	2010.03	Looks like a iPod .	agenda/equipment issues
+A	2012.04	Oh , no .	agenda/equipment issues
+A	2014.39	Hey , but you can erase that .	agenda/equipment issues
+B	2015.57	Yeah , that's a bit weird .	agenda/equipment issues
+A	2017.36	Uh-oh .	agenda/equipment issues
+B	2017.44	Oh , now I'm line .	agenda/equipment issues
+C	2017.85	S Difference between lines and text and the pen .	agenda/equipment issues
+B	2020.92	Yeah .	agenda/equipment issues
+D	2023.12	Oh .	agenda/equipment issues
+A	2023.17	Right .	agenda/equipment issues
+D	2023.86	All I need is mic .	agenda/equipment issues
+A	2028.73	And you can't erase this ?	agenda/equipment issues
+A	2030.0	Hmm , strange .	agenda/equipment issues
+B	2030.0	No , it's weird .	agenda/equipment issues
+A	2031.03	Okay , well uh just leave it at this and quickly save .	agenda/equipment issues
+D	2034.8	Station page .	agenda/equipment issues
+A	2036.26	Um and then we are going to the project or product evaluation .	agenda/equipment issues
+C	2036.39	Huh , looks fucking boring now .	agenda/equipment issues
+A	2041.17	We just did our project evaluation .	agenda/equipment issues
+A	2043.5	Um well , I think I can sit for that since it's almost my final slide .	agenda/equipment issues
+A	2048.77	Um what did you think about uh the process ?	evaluation of project process agenda/equipment issues
+A	2053.8	How satisfied are we ?	evaluation of project process
+C	2056.97	Deadlines were sometimes very short .	evaluation of project process
+B	2058.54	Yeah .	evaluation of project process
+A	2059.05	Mm-hmm .	evaluation of project process
+B	2059.15	Bu but stressful .	evaluation of project process
+C	2059.58	But And stressful .	evaluation of project process
+B	2060.01	You think , no , my presentation isn't ready .	evaluation of project process
+A	2060.68	Yeah .	evaluation of project process
+D	2062.2	I think we it should be b it would be better if we worked a little bit together .	evaluation of project process
+B	2066.9	Yeah .	evaluation of project process
+D	2067.5	Now we worked through each other , something he said yeah , and you had information I also had , so some some things I had in my presentation , they already told , so So yeah , that I don't think that is the best way to work at for such project .	evaluation of project process
+A	2067.6	Yeah .	evaluation of project process
+A	2069.29	And you could ask things .	evaluation of project process
+B	2069.71	Yeah , you had information I didn't have and then uh Oh right .	evaluation of project process
+C	2074.08	Yeah .	evaluation of project process
+C	2075.73	Yeah .	evaluation of project process
+B	2077.7	Yeah .	evaluation of project process
+A	2077.89	And for me it sometimes was a surprise who was going to present what , huh ?	evaluation of project process
+B	2081.05	Yeah .	evaluation of project process
+A	2081.2	And uh Yeah .	evaluation of project process
+B	2084.9	No .	evaluation of project process
+A	2085.74	So you would say uh communicate during our individual uh work .	evaluation of project process
+D	2088.81	Yeah , no , or maybe session of five minutes together or something , and then work separate .	evaluation of project process
+C	2092.54	Yeah , but but why not work here together , for example ?	evaluation of project process
+A	2093.11	Yeah .	evaluation of project process
+B	2094.73	Yeah , you could Yeah .	evaluation of project process
+C	2095.55	Why should we be separated from each other in those difference uh different rooms ?	evaluation of project process
+D	2097.91	Yeah .	evaluation of project process
+D	2099.08	Yeah .	evaluation of project process
+A	2099.77	Mm-hmm .	evaluation of project process
+A	2101.05	Well , probably to simulate the whole working uh process , huh , th you can't have a meeting uh for several weeks .	evaluation of project process
+B	2101.08	I think so too .	evaluation of project process
+C	2103.47	Yeah .	evaluation of project process
+B	2103.56	Yeah , but then you can work together too when A chat would also be uh Well , I I don't really like the board , it doesn't really work great .	evaluation of project process
+D	2106.56	Yeah m yeah , like she told .	evaluation of project process
+D	2108.02	Then you can work together too by mail or by , I dunno , chat , something , but now we're completely separated from each other .	evaluation of project process
+C	2111.96	Huh , oh right .	evaluation of project process
+A	2112.35	No .	evaluation of project process
+D	2115.52	I don't think that was the best way , but Yeah , the technology's okay .	evaluation of project process
+C	2118.67	But the technology was uh fantastic .	evaluation of project process
+C	2123.76	Work now ?	evaluation of project process
+D	2124.11	Yeah okay , but I don I do I think becau that's because Yeah .	evaluation of project process
+B	2125.09	Sometimes I think .	evaluation of project process
+C	2127.24	Perhaps it is e Yeah , perhaps it is easier to get one of those uh dig digital pens or so and to uh and lay it next to that keyboard over there .	evaluation of project process
+B	2127.78	It does work , but sometimes it doesn't erase or it doesn't uh Yeah .	evaluation of project process
+C	2136.7	So you can draw uh see it over th on the screen .	evaluation of project process
+D	2136.89	Yeah , like the f like a plotters or something , yeah .	evaluation of project process
+B	2138.79	Yeah .	evaluation of project process
+C	2139.09	Yeah .	evaluation of project process
+D	2141.51	Yep yep yep yep yep .	evaluation of project process
+A	2143.24	So you don't think the SMARTboard is is really useful or Yeah , so it's maybe a bit unnatural also .	evaluation of project process
+B	2143.58	But Well it is useful , but it doesn't really work all the time .	evaluation of project process
+C	2146.48	It's useful , but not m Because when you put this pen on the screen uh uh for exam and line is d being drawn at at two or three centimetres uh below .	evaluation of project process
+D	2146.63	Yeah , it is useful , but No .	evaluation of project process
+B	2149.99	Th the pen doesn't The line is a bit off .	evaluation of project process
+D	2159.6	Yep .	evaluation of project process
+C	2159.79	Alright .	evaluation of project process
+B	2160.28	Yeah , you can point to where you want the line to be .	evaluation of project process
+B	2164.83	But Yeah .	evaluation of project process
+C	2166.85	The project uh because of the deadlines you didn't had the time to uh have , you didn't have time to uh to make a very uh qualitati qualitative uh presentation .	evaluation of project process
+C	2181.64	So you used uh this uh the different PowerPoint presentations uh in which you put your uh material in the Oh .	evaluation of project process
+A	2193.29	That wasn't me .	evaluation of project process
+A	2194.26	Uh so um the means , we discussed the smart board , and what about uh this digital pen ?	evaluation of project process
+C	2194.92	Wasn't me .	evaluation of project process
+B	2195.62	Yeah .	evaluation of project process
+B	2201.01	I I I used it , it it was you can use it , it's quite handy I think .	evaluation of project process
+D	2201.27	I didn't use it at all .	evaluation of project process
+A	2206.38	Yeah , well I use it as a a normal pen and and and only you use it to uh get it on the computer , huh ?	evaluation of project process
+C	2206.59	But I didn't I uh I used it too , but oh well .	evaluation of project process
+B	2210.57	Yeah , I used it to y to Yeah , it did work pretty well .	evaluation of project process
+D	2216.75	I didn't use .	evaluation of project process
+C	2216.79	Yeah .	evaluation of project process
+B	2217.09	I don't think why you would want to use it actually , but it it does work .	evaluation of project process
+C	2219.05	Yeah , because it shou To make some designs , it is very easy .	evaluation of project process
+D	2219.07	No yeah .	evaluation of project process
+A	2221.41	Yeah .	evaluation of project process
+D	2221.76	It is it is yeah , it is easy for to design something and then load it in your computer .	evaluation of project process
+C	2224.49	Yeah .	evaluation of project process
+B	2225.88	Yeah , and then you can show it to everybody .	evaluation of project process
+D	2227.29	Yeah .	evaluation of project process
+C	2227.47	But to write it th yeah .	evaluation of project process
+D	2228.78	Yeah .	evaluation of project process
+D	2229.22	It's b bi little bit too big to write .	evaluation of project process
+B	2229.26	It doesn't really write normally .	evaluation of project process
+B	2231.2	It's a bit Yeah .	evaluation of project process
+C	2232.0	Yeah , it's too big , it's too fat .	evaluation of project process
+D	2233.31	Yeah .	evaluation of project process
+A	2234.1	Yeah .	evaluation of project process
+D	2234.12	Fat document , those .	evaluation of project process
+A	2237.07	Okay , um and what about the teamwork ?	evaluation of project process
+D	2241.28	Team work was okay .	evaluation of project process
+B	2241.71	I think it was great , yeah .	evaluation of project process
+C	2242.72	Yeah .	evaluation of project process
+A	2242.94	Yeah , well I think so too .	evaluation of project process
+D	2244.14	Only thing that we worked through , past each other .	evaluation of project process
+A	2244.45	we Yeah , but that was it was our assignment , huh ?	evaluation of project process
+C	2246.89	Right .	evaluation of project process
+D	2247.14	With some things that was only problem , but Yeah yeah yeah , but furthermore better .	evaluation of project process
+B	2248.37	Yeah , but it was because we didn't uh Yeah .	evaluation of project process
+A	2251.29	Okay , and maybe I should walk out of the room when you discuss uh this point , the leadership .	evaluation of project process
+D	2255.73	That's yeah , no prob .	evaluation of project process
+B	2256.66	I thought it was good , but uh Yeah .	evaluation of project process
+C	2258.15	Yeah .	evaluation of project process
+D	2259.19	Ah .	evaluation of project process
+A	2259.31	Yeah well , okay .	evaluation of project process
+B	2259.7	Yeah .	evaluation of project process
+C	2260.19	Not too much , not too too too too .	evaluation of project process
+D	2261.83	Yeah .	evaluation of project process
+B	2263.13	Yeah .	evaluation of project process
+D	2263.9	Okay .	evaluation of project process
+A	2264.97	And creativity ?	evaluation of project process
+A	2266.29	Well , when we look at this I'd say we have been creative , huh ?	evaluation of project process
+A	2269.92	But There was room for You did ?	evaluation of project process
+B	2269.99	Well .	evaluation of project process
+C	2270.49	Yeah , or the room for it was the idea to be creative , so You got some standard ideas in your head and this what came out .	evaluation of project process
+B	2273.93	Yeah .	evaluation of project process
+D	2278.56	Mm-hmm .	evaluation of project process
+B	2279.63	And you get get stuff from the from the computer , but Yeah .	evaluation of project process
+C	2281.54	Yeah .	evaluation of project process
+C	2285.99	The information uh was sometimes uh a little bit too late or Yeah .	evaluation of project process
+D	2289.24	Little bit uh lo yeah .	evaluation of project process
+D	2291.24	Too late it it it took a lot of time before you got your ema yeah .	evaluation of project process
+B	2292.31	You just sit there for ten minutes .	evaluation of project process
+B	2294.38	Yeah , where is that email ?	evaluation of project process
+D	2295.32	I played I think seven times Solitaire something .	evaluation of project process
+A	2298.5	Well , I didn't have time for that .	evaluation of project process
+B	2298.54	Oh did you ?	evaluation of project process
+B	2299.47	Is it on there ?	evaluation of project process
+D	2300.72	Wha Oh right , it is there .	evaluation of project process
+B	2301.01	Is it on there ?	evaluation of project process
+B	2301.98	I didn't find the didn't look but uh I didn't look , but I got like one email after ten minutes or something .	evaluation of project process
+A	2302.55	At some times I Sometimes I received like like five emails at at one moment , and then I even got spam .	evaluation of project process
+C	2304.03	Was searching and searching .	evaluation of project process
+D	2307.15	No , I I never got that .	evaluation of project process
+D	2308.78	I always N yeah .	evaluation of project process
+A	2314.35	Or something like that .	evaluation of project process
+B	2315.24	That's what we said .	evaluation of project process
+D	2315.69	So does this I think lik oh and information was a bit low I think , sometimes , in in in in the beginning I didn't understand what what to do .	evaluation of project process
+B	2319.83	And it not a lot uh No , the first one .	evaluation of project process
+C	2323.53	No , w I didn't know Make a r yeah .	evaluation of project process
+D	2324.24	Yeah , like I with with the remote and I never new we have t we had to uh yeah made a made a rec a remote control .	evaluation of project process
+B	2324.37	I didn't know uh nee .	evaluation of project process
+B	2330.3	And I didn't know what to do for the first ten minutes before we got here , so I went , right .	evaluation of project process
+D	2332.51	Yeah , so So , yeah .	evaluation of project process
+C	2333.18	Yeah .	evaluation of project process
+C	2334.21	No stepping on the table and then looking at the internet page .	evaluation of project process
+B	2335.72	Yeah .	evaluation of project process
+A	2336.45	And I was working and working and work Okay , well um but after all we can say uh we are satisfied , but it it could've been uh better .	evaluation of project process
+B	2336.58	Just looking at the screen and uh Yeah , an Yeah , that will be handy .	evaluation of project process
+C	2341.0	No .	evaluation of project process
+D	2350.08	Yeah .	evaluation of project process
+A	2350.6	When we get uh when we have we would have gotten uh more information .	evaluation of project process
+D	2354.01	Mm-hmm .	evaluation of project process
+C	2354.36	Yeah , more information about the costs .	evaluation of project process
+D	2354.56	Faster .	evaluation of project process
+D	2356.25	Yeah .	evaluation of project process
+C	2358.41	First of all I didn't think uh that we were able to make an L_C_D_ screen uh first point , but uh it was possible uh uh , yeah .	evaluation of project process
+B	2364.79	Yeah .	evaluation of project process
+D	2365.68	Yeah , it only costs four units .	evaluation of project process
+D	2367.46	Uh yeah .	evaluation of project process
+B	2368.62	Yea uh so tha actually you could make an L_C_D_ screen but no mic , or it could make mic but no L_C_D_ screen , when you look at that .	evaluation of project process
+A	2368.96	Yeah .	evaluation of project process
+A	2373.31	Yeah , that was a bit mean to put it in the end .	evaluation of project process
+C	2373.52	Yeah .	evaluation of project process
+B	2374.71	Yeah .	evaluation of project process
+A	2376.31	And uh what were the other points to to improve this whole process ?	evaluation of project process
+B	2380.55	Uh , I dunno .	evaluation of project process
+D	2381.32	Um Yeah .	evaluation of project process
+B	2384.17	Think that's about it .	evaluation of project process
+D	2385.29	Nothing .	evaluation of project process
+B	2386.68	Hmm .	evaluation of project process
+D	2386.86	I think we got it already .	evaluation of project process
+B	2387.76	Heavier um less heavy laptops .	evaluation of project process
+A	2390.07	Yeah , they're pretty heavy .	evaluation of project process
+D	2390.09	Yeah .	evaluation of project process
+C	2390.1	Uh .	evaluation of project process
+C	2390.54	Faster laptop .	evaluation of project process
+B	2391.76	Yeah .	evaluation of project process
+C	2393.06	Uh .	evaluation of project process
+C	2393.92	They were they were just fine .	evaluation of project process
+B	2393.93	But that's not really uh Yeah .	evaluation of project process
+D	2394.75	And furthermore the the the network was okay .	evaluation of project process
+D	2396.92	Everything you loaded was also av available there .	evaluation of project process
+C	2397.04	Uh .	evaluation of project process
+B	2398.68	Yeah , everything worked .	evaluation of project process
+C	2400.71	Right .	evaluation of project process
+A	2401.3	And so more time uh w might have improved the the quality of work , is what you say .	evaluation of project process
+D	2401.37	So Yeah .	evaluation of project process
+C	2404.81	Yeah .	evaluation of project process
+A	2405.65	Okay .	evaluation of project process
+D	2406.17	Yeah , but that It's now half past four half past three , so Yeah , okay .	evaluation of project process
+B	2412.13	Yeah , but it's just the the off hours between that you will work alone .	evaluation of project process
+D	2415.99	Yeah , okay .	evaluation of project process
+B	2416.98	Then it pops up pop up screen came .	evaluation of project process
+D	2418.84	Mm-hm .	evaluation of project process
+B	2419.18	Five minutes in the meeting .	evaluation of project process
+D	2419.29	Mm .	evaluation of project process
+D	2420.32	Yeah .	evaluation of project process
+C	2420.36	Mm .	evaluation of project process
+B	2420.83	No .	evaluation of project process
+A	2431.15	Okay , so more time during the individual work phases .	closing
+B	2434.51	Huh .	closing
+A	2434.64	Um okay well uh I just got my warning for the last five minutes , so I'll move on to I guess my last slide , yes , which is the closing .	closing
+B	2439.88	You did ?	closing
+B	2440.95	Well Oh , right .	closing
+A	2445.43	Well uh , we managed , but we did it very quickly .	closing
+A	2448.31	I don't know if that's the best way to when it isn't is it when it is too expensive to quickly re-arrange it and say , okay , this is it , but we had to do it , huh , because we have to have a design , and that is within the budget .	closing
+B	2454.94	Well Yeah .	closing
+A	2459.91	And we evaluated .	closing
+A	2461.0	Maybe we should re-evaluate uh the product , but we did that before , and we also evaluated the project .	closing
+A	2467.61	And I think uh everybody's uh very happy .	closing
+A	2470.6	At least I am , with the results , so uh celebration , well , for the three of you , because uh I have to write the final report now .	closing
+D	2472.38	Yeah .	closing
+B	2474.96	Champagne .	closing
+A	2477.95	But uh well , thank you very much for your co-operation , and I had a very nice day so far .	closing
+B	2480.38	Yeah .	closing
+C	2481.72	Yeah , sure .	closing
+D	2482.55	No prob .	closing
+C	2484.19	Oh thank you .	closing
+D	2484.32	Mm-hmm .	closing
+A	2485.13	Okay .	closing
+B	2487.11	Do we get another email ?	closing
+C	2488.88	Bling .	closing
+D	2490.23	I think you do .	closing
+C	2490.25	You're fired .	closing
+A	2490.85	Um Yeah I have t I think we also have to go to our own rooms again , but um well I at least .	closing
+B	2491.44	I I think we have to fill in a questionnaire again , but We do ?	closing
+C	2497.07	Mm .	closing
+A	2499.47	But maybe you can try uh to make a screen shot of this , so I can try to include it in the final report .	closing
+B	2503.52	Yeah .	closing
+B	2505.02	Uh th that that one ?	agenda/equipment issues
+C	2506.22	You cannot you can save it .	agenda/equipment issues
+A	2506.83	Yeah , maybe .	agenda/equipment issues
+B	2507.2	You can just Yeah , but it's it isn't a picture or , well , is it ?	agenda/equipment issues
+A	2508.17	wants to , but at least this one .	agenda/equipment issues
+A	2510.24	I know , we should remove this , but it won't h Okay .	agenda/equipment issues
+C	2510.56	You s uh file save as the J_ PEG J_ PEG .	agenda/equipment issues
+A	2513.65	And uh please put it in the project folder then , huh .	agenda/equipment issues
+D	2517.31	Can you find it as a J_ PEG ?	agenda/equipment issues
+C	2518.54	No .	agenda/equipment issues
+B	2518.65	No , isn't possible .	agenda/equipment issues
+B	2520.78	But you can make a screen shot , I think .	agenda/equipment issues
+A	2524.46	Okay , well I uh I hereby officially close the meeting and uh I hope to see you uh soon .	closing agenda/equipment issues
+D	2526.44	No .	agenda/equipment issues
+C	2529.23	No .	agenda/equipment issues
+B	2531.87	Yeah .	closing
+C	2532.04	Okay .	closing
+D	2534.5	In uh Celebra Or shouldn't I ?	closing
+C	2536.28	In about five minutes .	closing
+B	2536.32	Uh oh , export .	closing
+A	2538.0	Well , I think we'll be a bit a bit longer , but okay .	closing
+C	2539.32	Ah .	closing
+A	2541.39	Well , happy celebration , huh ?	closing
+C	2542.8	Oh thank you .	closing
+B	2543.83	Images .	closing
+C	2543.94	Whoo-hoo .	closing
+C	2544.53	Let's let's have party .	closing
+B	2546.1	How big do you want the images ?	agenda/equipment issues
+C	2546.93	Let's have some fun .	closing
+A	2548.81	How big ?	agenda/equipment issues
+C	2549.08	Huh ?	closing
+B	2549.32	Yeah .	agenda/equipment issues
+A	2549.36	Uh not too big .	agenda/equipment issues
+B	2552.15	This one ?	agenda/equipment issues
+D	2553.19	Six hundred .	agenda/equipment issues
+A	2553.2	Whatever you think is good .	agenda/equipment issues
+D	2553.91	No , I yeah .	agenda/equipment issues
+C	2554.59	No that uh is one thousand twenty four .	agenda/equipment issues
+D	2555.87	I think eight hundred six hundred is better .	agenda/equipment issues
+B	2558.19	This one ?	agenda/equipment issues
+D	2558.71	Yeah .	agenda/equipment issues
+C	2558.74	Yeah .	agenda/equipment issues
+C	2562.13	If it browse .	agenda/equipment issues
+D	2562.77	Nah , name .	agenda/equipment issues
+B	2567.92	Um Well it isn't on the desktop .	agenda/equipment issues
+C	2568.49	Desktop .	agenda/equipment issues
+D	2573.0	Hey .	agenda/equipment issues
+C	2574.0	Mm ?	agenda/equipment issues
+C	2576.41	I do not know .	agenda/equipment issues
+B	2577.56	You can only save it in my documents .	agenda/equipment issues
+C	2581.23	Oh ?	agenda/equipment issues
+D	2584.2	Oh my God .	agenda/equipment issues
+C	2585.26	Yeah .	agenda/equipment issues
+B	2587.67	Oh .	agenda/equipment issues
+B	2589.77	Oh , alright .	agenda/equipment issues
+B	2592.99	Yeah .	agenda/equipment issues
+C	2593.28	Okay .	agenda/equipment issues
+B	2595.3	Yeah .	agenda/equipment issues
+B	2599.3	Yeah .	agenda/equipment issues
+B	2602.26	Three .	agenda/equipment issues
+B	2606.91	Can we stay here ?	agenda/equipment issues
+D	2607.02	Ten .	agenda/equipment issues
+D	2608.61	Yeah .	agenda/equipment issues
+D	2611.53	Ten .	agenda/equipment issues
+B	2612.64	Yeah .	agenda/equipment issues
+D	2612.79	Uh .	agenda/equipment issues
+C	2617.04	Okay .	agenda/equipment issues
+B	2617.09	Yeah , alright .	agenda/equipment issues
+B	2620.01	Why can't we stay here ?	agenda/equipment issues
+C	2621.56	Alright .	agenda/equipment issues
+B	2623.62	Yeah .	agenda/equipment issues
+C	2625.34	Oh .	agenda/equipment issues
+D	2626.2	Celebration time , come on .	agenda/equipment issues
+C	2634.44	Oh .	agenda/equipment issues
+D	2635.26	Peace out nigger .	agenda/equipment issues

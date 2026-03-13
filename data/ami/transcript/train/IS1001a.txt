@@ -1,0 +1,220 @@
+B	14.48	How do you wear this thing ?	opening
+A	21.01	Hmm .	opening
+A	22.01	Mm mm mm .	opening
+B	31.94	Not too many cables and stuff .	opening
+B	63.09	Original .	opening
+A	78.74	Is recorded ?	opening
+A	79.52	Okay ?	opening
+A	81.96	Okay so welcome everyone .	opening
+A	84.52	So we are here for the kickoff meeting of uh the process of designing a new remote control .	opening
+A	93.04	So I will first start with a warm welcome opening stuff , then uh we will uh see what will be uh our product and what will be the different step we will have to design it .	opening
+A	111.2	And uh then we will uh discuss if we have few ideas and we will uh end uh by uh dispatching the different task you will be you will have to fulfil to complete this process .	opening
+A	126.97	So sorry ?	opening
+B	127.83	Uh .	opening
+B	128.26	Just one thing .	opening
+B	128.92	Uh , you said twenty-five minutes , but I have something else to do uh , so gotta have another meeting uh soon , so maybe you could hurry up a bit It's true .	opening
+B	139.11	I have another meeting so if you could uh Yeah .	opening
+A	142.4	You have another meeting soon ?	opening
+A	144.61	So you have to be quick .	opening
+B	145.71	Yeah , for the lawnmower project .	opening
+A	148.29	Okay .	opening
+B	149.03	Okay .	opening
+A	149.79	So the the goal is to have a remote control so to have an advantage over our competitors we have to be original , we have to be trendy and we have to also try to be user-friendly .	project specs and roles of participants
+A	166.1	So uh the design step will be divided in three uh main points .	project specs and roles of participants
+A	171.72	First it will be the functional design .	project specs and roles of participants
+A	175.76	Third is the conceptual design and then is the desired design .	project specs and roles of participants
+A	180.1	So the functional design is to identify the main user needs , the technical function the remote control should fulfil .	project specs and roles of participants
+A	190.42	And then we will move to f conceptual design where we'll specify the different component involved , what kind of user interf interface we want and what are the different uh trend in user interface and stuff like that .	project specs and roles of participants
+A	205.97	And then the desired devi design will consist in uh specifically implementing and detailing the choice we've uh made in the second point .	project specs and roles of participants
+A	220.8	So I will now ask you which is very important for the design of a new remote control for to uh each of us to to draw uh your favourite animal on the white board .	drawing exercise
+B	234.57	What an original idea .	drawing exercise
+A	238.12	Do you have any idea of which animal you want to show us ?	drawing exercise
+B	242.6	Orangutan .	drawing exercise
+A	244.08	Okay that's good .	drawing exercise
+C	248.33	No no n You should write y the name I think .	drawing exercise
+A	248.99	n n You should If you want to react uh about this wonderful drawing uh I'll let you uh comment .	drawing exercise
+B	250.06	Can I give you the no ?	drawing exercise
+B	251.97	But I don't have to say anything .	drawing exercise
+B	255.93	When I'm drawing the orangutan .	drawing exercise
+B	270.06	It's an abstract drawing of an orangutan .	drawing exercise
+A	272.05	Okay it's an abstract drawing .	drawing exercise
+B	273.71	Yes .	drawing exercise
+A	277.41	I think it's nice and original .	drawing exercise
+B	282.28	I don't have a red colour .	drawing exercise
+B	284.01	Usually orangutans have red hair so this is a very important but I don't have red pen , so Yes .	drawing exercise
+A	288.12	Okay .	drawing exercise
+A	289.68	You want to draw something Christine ?	drawing exercise
+D	300.26	Okay uh sorry .	drawing exercise
+D	306.01	You have to imagine a little bit um .	drawing exercise
+D	312.66	This Sorry too uh .	drawing exercise
+A	318.16	Of course your animal is recorded so it's not lost .	drawing exercise
+B	322.27	Yes .	drawing exercise
+B	322.6	I know .	drawing exercise
+A	343.85	Is this uh Ah okay it's pretty .	drawing exercise
+B	343.95	Wha what is this strange beast ?	drawing exercise
+D	344.59	Is it beautiful ?	drawing exercise
+B	348.86	Is it a monster ?	drawing exercise
+D	351.0	Do you know ?	drawing exercise
+D	351.9	It's a cat .	drawing exercise
+B	352.77	It's a cat ?	drawing exercise
+D	353.56	Isn't it ?	drawing exercise
+B	354.34	I thought these things did not exist .	drawing exercise
+D	356.37	Yes yes is it like that .	drawing exercise
+C	356.61	Me Ah yeah .	drawing exercise
+D	358.83	Is it better ?	drawing exercise
+B	359.3	Ah yeah Does have a name ?	drawing exercise
+C	360.83	Yeah .	drawing exercise
+D	361.93	Okay .	drawing exercise
+D	362.92	It's my cat .	drawing exercise
+A	364.55	Okay it's your cat .	drawing exercise
+D	365.95	Yeah .	drawing exercise
+D	367.49	The name is Caramel .	drawing exercise
+B	369.43	Caramel .	drawing exercise
+C	369.91	Caramel .	drawing exercise
+B	370.04	Ah-ha .	drawing exercise
+D	370.18	Yeah .	drawing exercise
+A	370.93	Okay .	drawing exercise
+A	372.21	Olivier , do you want to Okay I go , but next time you'll do something I'm sure .	drawing exercise
+C	372.34	And you I think I'm too short for the cables .	drawing exercise
+B	383.55	Next time I concentrate .	drawing exercise
+A	388.94	I'm a bit short on cable .	drawing exercise
+A	390.54	Okay .	drawing exercise
+A	391.46	So what could I draw ?	drawing exercise
+A	393.86	Maybe I can draw like a very simplified cow .	drawing exercise
+A	402.68	I don't know if it looks like a cow Like a what ?	drawing exercise
+B	406.27	He looks like a bong .	drawing exercise
+B	409.49	Okay .	drawing exercise
+B	409.9	Sorry .	drawing exercise
+B	411.32	No .	drawing exercise
+C	412.5	Quite squarey .	drawing exercise
+B	414.52	Scary ?	drawing exercise
+C	415.57	He also .	drawing exercise
+A	416.15	I dunno it it looks more like a donkey in fact I would say .	drawing exercise
+C	422.78	Mm .	drawing exercise
+B	422.79	I I think we will be finished this uh Is it for uh for putting a for logos , no .	drawing exercise
+A	423.47	Okay so I hope that it helps you uh in the process of designing a remote control .	drawing exercise
+B	433.67	That's I is there a matter for a new remote control ?	project budget
+A	433.92	Okay .	project budget
+A	435.65	Let's move on .	project budget
+A	436.68	So Here the uh financial objective of our project .	project budget
+A	444.1	That is to say to to have a production cost lower than twelve point five Euros and have a selling price of twice that price t in order to target a profe profit of uh fifty uh million Euros .	project budget
+A	465.63	Yeah if it's trendy , original I d fulfil the user needs .	project budget
+B	470.6	Is it uh a single device remote control or is it a multi-device remote control ?	function of prototype
+A	475.01	We have to discuss that point .	function of prototype
+B	476.24	Ah this is not defined at all ?	function of prototype
+A	476.74	On yeah you you can suggest points like this .	function of prototype
+B	480.4	Ah , okay .	function of prototype
+A	480.71	So what what so we have to decide for example if it can control one device or multiple .	function of prototype
+A	491.33	So what's what are your ideas about that ?	function of prototype
+A	495.18	Maybe I can have the your opinion from the marketing side ?	function of prototype
+B	496.64	Well uh do we sell other stuff ?	function of prototype
+B	499.15	Uh if if we bundle the remote control with something uh to sell then it could be a single device , otherwise it could be programmable one otherwise who would buy a remote control from us .	function of prototype
+A	509.22	Okay , so if it selled uh by its own i it it would rather be for multiple device .	function of prototype
+B	515.48	Yeah .	function of prototype
+A	516.84	Do you agree ?	function of prototype
+C	518.07	Mm-hmm .	function of prototype
+A	518.9	Yeah .	function of prototype
+A	519.5	So maybe it should be for multiple devices .	function of prototype
+A	526.85	And uh do you have any ideas um of uh design ideas or any uh uh technical requirement we we should uh fulfil ?	discussion
+C	540.69	I think we shouldn't have too many b for my part .	discussion
+B	543.03	No , I couldn I cannot fi think of any requirements right now .	discussion
+C	543.93	I think If we don't have so many buttons could be nice .	discussion
+A	550.39	Few buttons .	discussion
+A	551.41	Okay .	discussion
+A	552.63	And do you have it also to be to be lighted in order to be used in the dark ?	discussion
+A	558.39	Might be a good idea .	discussion
+C	560.66	Yeah .	discussion
+A	565.18	Okay .	discussion
+A	565.94	And do you have any um any uh idea of the trend the trend in domain , what it shouldn't it should look like , or things like that ?	discussion
+C	577.74	Something which is not squarey maybe uh , not a box .	discussion
+B	578.37	Mm .	discussion
+A	582.15	With rou okay .	discussion
+A	584.7	Like for okay .	discussion
+B	585.59	Something like that , least fits in your hand .	discussion
+C	587.92	Yeah .	discussion
+A	587.99	Okay .	discussion
+B	588.5	Yeah .	discussion
+B	589.69	The basic requirement .	discussion
+A	590.53	So .	discussion
+A	592.04	Fit in your hand , yeah .	discussion
+B	596.04	Only a buck .	discussion
+A	597.43	And also it have , i it may be it may be important for the remote control to be uh To , to resist to various shocks that can happen if it fall .	components, materials and energy sources
+C	607.55	Mm-hmm .	components, materials and energy sources
+B	608.82	Waterproof .	components, materials and energy sources
+A	610.5	Water-proof as well .	components, materials and energy sources
+C	612.84	And I think we should have a device Sorry .	components, materials and energy sources
+A	613.13	Maybe it is original because you can uh use it in your uh in your bath whereas the others can't .	components, materials and energy sources
+A	621.33	Maybe water-proof would be very original .	components, materials and energy sources
+A	624.84	Havin having a water-proof remote control so that the people can uh use it in their bath .	components, materials and energy sources
+B	630.25	Mm .	components, materials and energy sources
+A	631.29	That could be uh Yeah but , it is still something uh you have to buy and that is um not maybe very Yeah , mayb B But maybe we can bulk it with uh already this plastic thing and uh the waterproof uh stuff as well .	components, materials and energy sources
+B	631.52	B it seems uh so , but uh if you don't have an waterproof remote control it means you can just cover it with some plastic and you can sort of f And , and that's one of the that's one of the shock I mean there are people that have a remote control and they are worried that it's going to break and they put some extra plastic around it .	components, materials and energy sources
+B	652.87	That's people they actually do it themselves .	components, materials and energy sources
+C	659.92	Yeah .	components, materials and energy sources
+C	662.44	directly .	components, materials and energy sources
+B	662.68	I it will look a bulky in that case .	components, materials and energy sources
+A	664.87	Yeah .	components, materials and energy sources
+C	665.65	Yeah .	components, materials and energy sources
+A	665.78	Maybe we can sell uh all that together , so so plastic protection and uh and a waterproof box as well .	components, materials and energy sources
+A	677.83	That might be good uh track to follow .	components, materials and energy sources
+B	680.6	Like as an optional thing .	components, materials and energy sources
+A	682.74	Optional or selled with it ?	components, materials and energy sources
+C	683.59	And I I think we should have something , most of the time I I lose my remote control .	components, materials and energy sources
+C	689.6	We should have s uh special bu button on the T_V_ to make the remote control beeping .	components, materials and energy sources
+A	689.92	Yeah .	components, materials and energy sources
+A	692.87	Maybe we can have uh But we don't design the T_V_ .	components, materials and energy sources
+C	697.25	Ah yeah .	components, materials and energy sources
+A	697.32	Maybe we can have uh something you whistle and uh the remote control uh beep .	components, materials and energy sources
+C	703.05	Yeah .	components, materials and energy sources
+B	703.5	Barks .	components, materials and energy sources
+A	704.44	Yeah , barks , yeah .	components, materials and energy sources
+C	704.67	Barks .	components, materials and energy sources
+A	707.14	So we can uh have a whistle uh remote control ?	components, materials and energy sources
+C	710.38	Yeah .	components, materials and energy sources
+C	712.79	Yeah whistle .	components, materials and energy sources
+A	714.52	I don't know , whistle-able ?	components, materials and energy sources
+C	718.12	Whistle tracking .	components, materials and energy sources
+A	718.39	Th Whistle tracking yeah .	components, materials and energy sources
+A	721.55	Whistle tracking remote control .	components, materials and energy sources
+A	723.71	That's a good idea , that's very original and that's can uh improve .	components, materials and energy sources
+B	726.19	That's that's quite cool , but uh of course we you don't normally need uh any audio uh recording stuff on your remote control right ?	components, materials and energy sources
+A	735.81	Yeah d d uh .	components, materials and energy sources
+B	736.43	So i it's just going to add t to the cost .	components, materials and energy sources
+A	739.92	Yeah but s still we have to mm we have to have an advantage over our competitors .	components, materials and energy sources
+A	746.07	I think this is a good advantage .	components, materials and energy sources
+B	747.79	It's cool .	components, materials and energy sources
+B	748.39	I think I like the idea , but I'm not sure about the what you , who is giving who's giving who's giving our budget .	components, materials and energy sources
+A	751.08	Yeah .	components, materials and energy sources
+A	751.7	We have to ask Yeah .	components, materials and energy sources
+B	753.59	Who's Yeah .	components, materials and energy sources
+A	754.13	We have to ask the quest of that's uh design to the uh Industrial um Designer .	components, materials and energy sources
+B	756.66	Yeah .	components, materials and energy sources
+C	760.2	Yeah .	components, materials and energy sources
+A	761.23	Which is you .	components, materials and energy sources
+B	761.54	'Kay .	components, materials and energy sources
+C	762.3	yeah Okay .	components, materials and energy sources
+A	764.11	Okay so try to find that for next meeting .	components, materials and energy sources
+A	769.55	Okay .	closing
+A	770.13	So next meeting is in thirty minutes or so uh .	closing
+C	773.89	Don't panic .	closing
+A	775.04	Don't pani .	closing
+A	776.35	So so I will ask the Industrial Designer to find out more about this industrial design so any working any working function we have discussed .	closing
+C	782.69	Mm-hmm .	closing
+A	788.59	So then I will ask the User Interf Interface Designer to to think about the point we discussed like the number of buttons , the the fact that is lighted or not , things like that , and what would be convenient for the user .	closing
+B	802.6	Mm-hmm .	closing
+A	805.28	And also um I will ask the Market Expert to uh try to find out what are the absolute requirements , what is absolutely needed in a remote control uh for the user .	closing
+A	821.24	So .	closing
+A	822.55	And then uh I will uh just ask you to think about that and uh look at your mail because you will receive uh some good advice soon .	closing
+B	832.92	Mm .	closing
+A	834.95	So .	closing
+A	836.72	Thank you I think that's all for this point .	closing
+B	838.44	Good .	closing
+C	838.59	Mm-hmm .	closing
+B	848.1	Uh , so we come back in five minutes ?	closing
+B	852.07	Half an hour .	closing
+A	858.05	Anyway you will receive some messages .	closing
+A	869.13	Be careful .	closing
+A	872.23	You eat it ?	closing
+A	877.23	Does it move uh ?	closing
+A	881.91	Okay , but I don't know if it uh is still correctly uh We'll see .	closing
+C	898.73	Ah .	closing

@@ -1,0 +1,227 @@
+B	28.58	Now what .	agenda/equipment issues
+A	58.41	'Kay , hello everybody .	opening
+A	60.13	Uh , I guess you all know what is it about , you all received the email , I guess .	opening
+A	65.25	Uh , we are actually doing this meeting to start a new project which is about designing a remote control .	opening
+A	72.62	So I'm going to be the project manager of this uh project .	opening
+A	78.34	And uh so I'm present myself .	opening
+A	80.79	I'm Fabien Cardinaux and uh I I guess you can present yourself .	opening
+A	88.53	So I dunno , you can starts .	opening
+B	90.1	Okay , so my name is Petre .	project specs and roles of participants
+B	91.81	You can call me Petre , or Peter if you like .	project specs and roles of participants
+B	94.91	I don't care .	project specs and roles of participants
+A	95.76	Okay .	project specs and roles of participants
+D	97.48	Uh my name's Bob Mor .	project specs and roles of participants
+A	98.63	And you are ?	project specs and roles of participants
+A	99.31	In the project ?	project specs and roles of participants
+B	99.56	Uh , in the project I'm supposed to be the technic .	project specs and roles of participants
+D	99.63	Oh , sorry .	project specs and roles of participants
+D	104.28	'Kay .	project specs and roles of participants
+D	105.08	So my name's Bob Morris .	project specs and roles of participants
+D	107.23	I'm the Marketing Expert for this project .	project specs and roles of participants
+B	110.26	Bob , okay .	project specs and roles of participants
+D	110.87	Bob yeah .	project specs and roles of participants
+C	112.53	My name is Hamed Getabdar , and uh I'm going to be Interface Designer in this project .	project specs and roles of participants
+B	123.71	Okay .	project specs and roles of participants
+A	131.94	So , uh , so today we are doing a short meeting to present the project , so um We are gooding we are going to present the tool we are we are going to use during all this project .	agenda/equipment issues
+A	145.55	We are talking about the project plan , and we are going to to discuss about st our first ideas and so on , and , yeah .	agenda/equipment issues
+A	154.54	So we have around twenty five minutes to do this meeting .	agenda/equipment issues
+A	160.61	Um .	project specs and roles of participants
+A	162.14	So what is the goal of this project ?	project specs and roles of participants
+A	163.83	Is to design a new remote control .	project specs and roles of participants
+A	167.24	So it should be , of course , new and original , and um it should be trendy , and user friendly .	project specs and roles of participants
+A	175.42	That mean it's a very challenging project , and uh uh .	project specs and roles of participants
+A	180.62	So w it's we will try to do our best , and hopefully come with something very new and that people want to buy .	project specs and roles of participants
+A	192.61	So , um So what's uh what are we going to do during this all this project ?	project specs and roles of participants
+A	205.05	So it's more like we are going to do inv individual work all in o in o our specialities and we are going to meet each other quite often to discuss and to find a good way .	project specs and roles of participants
+A	221.02	Um .	project specs and roles of participants
+A	231.97	Yeah and everything is will be like this .	project specs and roles of participants
+A	237.71	Um so now we are going to to get used t to to the tools we are going to use all during all this project .	agenda/equipment issues
+A	248.2	So we can try to use uh the whiteboard here .	agenda/equipment issues
+A	252.32	So uh .	agenda/equipment issues
+B	252.41	Okay .	agenda/equipment issues
+A	256.33	For example we can try to write what is our our favourite animal and write the f our favourite characteristics about it .	agenda/equipment issues
+A	269.13	Mm .	drawing exercise
+A	279.34	Uh .	drawing exercise
+A	280.94	So uh So I will ask you all to do the same .	drawing exercise
+B	312.86	Okay .	drawing exercise
+A	313.63	Just to get used to the whiteboard .	drawing exercise
+B	317.31	So probably I would try to try to draw the animal .	drawing exercise
+B	322.44	Well sh should I draw the picture of the animal ?	drawing exercise
+B	324.59	I I th I think I should .	drawing exercise
+A	325.0	Yeah , yeah , you can draw the picture , of course .	drawing exercise
+D	325.17	Yeah go ahead .	drawing exercise
+B	328.72	Okay , so .	drawing exercise
+B	334.62	Um .	drawing exercise
+B	342.63	Okay , American , um .	drawing exercise
+B	349.78	Um .	drawing exercise
+B	350.78	I would use the bird .	drawing exercise
+B	354.81	So I tried to sketch it out .	drawing exercise
+B	359.09	I had to first uh write it down because I am not absolutely sure if I can draw it , but ah .	drawing exercise
+B	371.27	Can you recognise it as a bird ?	drawing exercise
+B	376.29	Okay it's your turn to Oh it's okay .	drawing exercise
+D	376.96	Okay , okay .	drawing exercise
+D	392.3	So I think my favourite animal would be a c a cat .	drawing exercise
+A	401.43	Oh .	drawing exercise
+D	408.46	That's its head .	drawing exercise
+D	409.82	Um I probably like cats the most because they're cuddly and furry and uh playful .	drawing exercise
+D	418.06	Okay .	drawing exercise
+C	422.26	I dunno if I should go with this .	drawing exercise
+D	424.37	Thanks .	drawing exercise
+C	428.78	If it is enough line .	agenda/equipment issues
+C	433.68	I'm sorry .	agenda/equipment issues
+D	434.0	Maybe put it up Put it a Maybe put it on the desk or something .	agenda/equipment issues
+B	437.22	Yeah .	agenda/equipment issues
+B	441.89	I should get used to the tool , so .	agenda/equipment issues
+C	446.29	Okay .	agenda/equipment issues
+B	446.38	Oh just wait a little bit .	agenda/equipment issues
+B	448.81	C could we put it here , to make it as straight as possible ?	agenda/equipment issues
+B	453.85	Ah probably not .	agenda/equipment issues
+C	457.42	They should be remote .	agenda/equipment issues
+B	457.44	Okay , it it works like this .	agenda/equipment issues
+D	457.67	Uh , that's better .	agenda/equipment issues
+C	459.33	Okay , thanks .	agenda/equipment issues
+D	461.07	Your lapel microphone's fallen off .	agenda/equipment issues
+B	467.28	Are you left-handed ?	agenda/equipment issues
+C	468.7	No .	agenda/equipment issues
+B	469.35	Oh , pity .	agenda/equipment issues
+C	470.92	Okay .	agenda/equipment issues
+C	472.2	Should I clean ?	agenda/equipment issues
+C	480.98	Okay , I think like horses uh because they are strong and beautiful , so if I want to write it here , I think I can .	drawing exercise
+A	497.4	Never mind .	agenda/equipment issues
+C	497.47	Oh .	agenda/equipment issues
+B	498.05	Ah , it's maybe better if you leave it .	agenda/equipment issues
+D	499.18	Yeah .	agenda/equipment issues
+D	500.86	Yeah .	agenda/equipment issues
+D	501.47	Maybe we should just continue .	agenda/equipment issues
+A	503.08	Yeah .	agenda/equipment issues
+D	503.53	Yeah , don't worry about it .	agenda/equipment issues
+A	505.776	, no worry .	agenda/equipment issues
+D	506.21	No .	agenda/equipment issues
+C	539.92	Okay .	drawing exercise
+B	541.33	You won't draw them , or ?	drawing exercise
+A	541.96	You can draw it , if you want .	drawing exercise
+C	543.59	I dunno if I can .	drawing exercise
+B	546.0	Just try .	drawing exercise
+B	546.41	I would like to see how it looks like .	drawing exercise
+C	547.55	Okay .	drawing exercise
+C	550.1	It may be like a cow or I dunno , whatever .	drawing exercise
+C	556.3	I'm not good very good in drawing .	drawing exercise
+C	559.41	Okay , so this is very It's a bird , I think .	drawing exercise
+C	564.42	I dunno what is it .	drawing exercise
+B	567.14	No , I think it's clear .	drawing exercise
+C	573.12	Four .	drawing exercise
+C	575.49	Okay .	drawing exercise
+C	577.7	Mm-hmm .	drawing exercise
+C	584.44	Mm .	drawing exercise
+C	587.14	Yeah .	drawing exercise
+C	588.06	I'm shameful Yeah .	drawing exercise
+D	589.29	Oh that's good , it's good .	drawing exercise
+B	589.75	It's okay .	drawing exercise
+B	590.18	It's in it's indeed beautiful .	drawing exercise
+A	590.69	Good .	drawing exercise
+D	592.93	Yeah , and strong .	drawing exercise
+C	596.68	Okay .	drawing exercise
+B	598.39	Okay .	drawing exercise
+B	604.39	Bob .	drawing exercise
+B	605.39	Have to remember it .	drawing exercise
+B	608.33	Bob .	drawing exercise
+A	609.11	So good um So , let's talk about money .	project budget
+A	615.87	Uh we are going to to sell we want to sell uh this remote control for twenty five Euro Euro .	project budget
+A	626.4	And uh our expected profit will be around fifty million Euro .	project budget
+A	635.41	And uh we are trying to to have a market all around the world .	project budget
+A	643.11	So n not only for Switzerland , but for the world .	project budget
+A	647.91	Uh .	project budget
+A	649.69	So , um .	project budget
+A	652.35	The We expect a production cost of maximum uh twelve point fifty Euro .	project budget
+B	663.93	Per unit , I guess .	project budget
+A	665.45	Yeah , of course .	project budget
+B	665.5	Y oh okay .	project budget
+A	671.54	Um , so we can start today to have a first idea of what we want to do what are our experiments with remote control , and any idea ?	discussion
+A	682.16	So , if you have some experience , good or bad , with remote controls you can share it and say what you f what is your idea .	discussion
+A	693.1	Anything .	discussion
+B	696.91	Okay .	discussion
+D	697.12	Well , from experience , um I've had remote controls in the past that have had very they've had lots and lots of buttons and they've been very small , and it's been very hard to to to use , because there's so many buttons , and you know it's very hard to see which buttons do what , and the buttons are very small and very hard to press .	look and usability
+D	717.93	Um and and normally you only every use , you know , on a T_V_ remote you only ever use , mostly , you know , f four or f six buttons .	look and usability
+A	725.54	Mm .	look and usability
+B	726.23	Oh .	look and usability
+D	727.96	Um .	look and usability
+D	730.56	So it's frustrated me in the past , th that .	look and usability
+B	735.58	Okay , I have also some points uh .	components, materials and energy sources
+B	737.66	Maybe two points .	components, materials and energy sources
+B	738.73	Uh first would be that in current remote controls there is no back light , so if you are if you are uh playing with this in the dark room it's it's probably worth to to have something like uh back light .	components, materials and energy sources
+A	748.48	Yeah .	components, materials and energy sources
+B	755.09	And maybe it could be also dependant on the the amount of of light in the room , so that if if it's in the day it doesn't need to be back lighted because it works on the battery , so .	components, materials and energy sources
+B	768.63	So something like this .	components, materials and energy sources
+B	769.89	And the second thing , f second point from me would be that in a normal remote control there is uh there are two buttons for volume control .	look and usability
+B	779.97	But I prefer like a potential-meter or something like .	look and usability
+A	780.1	Yeah .	look and usability
+D	783.96	Ah , okay .	look and usability
+D	785.38	Okay .	look and usability
+B	785.51	You know , some slider or Not just two discrete buttons for volume , but something which Yeah , but I can reach In uh one second I can mute it down , or or make a high volume .	look and usability
+A	787.09	Okay .	look and usability
+C	787.68	Mm-hmm .	look and usability
+D	788.13	Okay , n Is that because the of the discrete volume levels , or is that Yeah .	look and usability
+A	791.95	Mm-hmm .	look and usability
+A	793.33	Yeah .	look and usability
+A	801.47	Are you not afraid that if you take your remote control you can move the slide and it could the the volume can go up very quickly and it can Yeah , also if y when you take the the remote control , for example on the table , you take it and you push the button and everything is very loud , and you have a heart attack .	look and usability
+B	808.29	Ah , n .	look and usability
+B	811.66	If it drops to the floor then it starts to scream .	look and usability
+B	823.56	Yeah , f It depends what what you feel about that .	look and usability
+A	829.46	Okay .	look and usability
+D	829.49	Yeah .	look and usability
+B	833.36	Yeah but we can we can think of these things afterwards , but if you have some more notes on that .	look and usability
+A	838.59	Yeah so you can Do you have something ?	components, materials and energy sources
+C	838.7	Uh I Yeah , just a simple experience .	components, materials and energy sources
+C	842.62	I uh I prefer um remote control working with radio waves , because remote control working with infra-red rays you should you should you should keep it in a specific direction and then try it hard to tune .	components, materials and energy sources
+A	851.18	Yeah , that's true .	components, materials and energy sources
+A	856.5	Yeah without obstacles and .	components, materials and energy sources
+B	859.51	Okay .	components, materials and energy sources
+A	866.25	Okay .	closing
+B	866.67	Um .	closing
+A	867.16	Let's continue .	closing
+A	867.75	I have a meeting in five minutes , so maybe we should hurry .	closing
+D	870.39	Okay .	closing
+B	872.03	Okay , just a second .	closing
+A	872.39	Um .	closing
+A	874.98	So we will close uh this meeting .	closing
+A	878.56	So we will have a next meeting in uh thirty minutes .	closing
+A	884.06	Um .	closing
+A	888.95	Uh .	closing
+A	889.89	The So I will ask you to do some work .	closing
+A	893.49	Uh the the interface interface developer will work on the on the design of the remote control , start to to have new idea and read about Yeah .	closing
+B	904.63	Which i which is Hamed , ?	closing
+C	906.05	Mm .	closing
+B	906.08	Okay .	closing
+D	906.88	He's the Industrial Designer ?	closing
+D	907.98	No , you're the Industrial Designer .	closing
+C	909.2	Yeah .	closing
+B	909.37	Uh I am the Technical Designer , I dunno which one , uh v .	closing
+A	910.48	Oh .	closing
+D	911.04	Yeah , I think that's the first .	closing
+A	911.68	Industry and Oh .	closing
+C	912.31	Uh-huh .	closing
+D	912.56	I_D_ .	closing
+D	913.45	Industrial Designer .	closing
+D	915.04	And the second one is the User Interface Designer .	closing
+C	917.7	Mm-hmm .	closing
+B	919.21	User Interf Okay .	closing
+D	919.52	And then last one's marketing , which is me .	closing
+A	921.4	Yeah .	closing
+B	921.97	Okay , so I'm the first one .	closing
+A	922.77	So , um For the User Interface Designer , which is Hamed um , uh , you are going to work on the technical functions of the remote control .	closing
+C	929.16	Mm-hmm .	closing
+B	933.14	I see .	closing
+C	936.89	Okay .	closing
+A	938.58	And for the Marketing uh Manager , I dunno , okay , which is Bob , uh you are going to try to to find the user requirements f uh for the remote control .	closing
+A	959.72	Um , you will receive by email uh the specific instructions and uh by your personal coach .	closing
+B	971.33	Sign .	closing
+A	973.41	Yep finished .	closing
+A	976.15	So I see you in thirty minutes .	closing
+D	978.32	Great , okay .	closing
+B	979.24	Okay .	closing
+C	979.73	Okay , thanks .	closing
+D	979.76	Thanks guys .	closing
+D	980.29	Bye .	closing
+C	981.01	Bye .	closing
+A	981.97	Thank you .	closing
+B	983.94	Uh .	closing

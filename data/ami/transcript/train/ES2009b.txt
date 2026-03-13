@@ -1,0 +1,378 @@
+A	2.57	All set ?	opening
+A	4.09	Okay .	opening
+A	4.67	Cool .	opening
+A	5.56	Right .	opening
+A	5.81	So um basically I'm just gonna go over real quickly um some news I've just got from the board on how we're supposed to do with this um remote control .	opening
+A	14.94	And then I'm gonna turn over to you guys to make brief presentations um on what you've found and then we'll have a bit of discussion .	opening
+A	22.67	So basically uh what I've just found out from the board I dunno if you guys got this email as well but it needs to be television only .	new requirements
+A	28.18	So no we're not doing D_V_D_ , we're not doing anything else , it's just gonna be a television remote .	new requirements
+D	29.32	Okay .	new requirements
+A	32.75	Um it also needs to have the company colours included in it .	new requirements
+A	38.49	Um so that's red and black .	new requirements
+A	39.98	And it has to have the slogan , case you guys forget the slogan it's , we put fashion in electronics .	new requirements
+A	47.41	Um and no teletext .	new requirements
+A	49.53	I'm not sure what teletext is but I'm assuming you guys do , so we don't wanna include that um in this particular design .	new requirements
+A	57.46	For reasons that I don't really know .	new requirements
+A	60.53	There's but it's the board so there you go .	new requirements
+A	63.5	So basically um given those guidelines which will have some effect on how we design we'll discuss it later I mean 'cause it's television only we'll be able to change our uh um well we can s sacrifice more function for a better television remote .	new requirements
+A	80.47	Anyway .	industrial designer presentation
+A	81.0	So I'm gonna turn over to the Industrial Designer uh to go ahead and make a presentation on Oh , right yeah .	industrial designer presentation
+B	85.48	Okay .	industrial designer presentation
+B	87.59	So do I unplug this bit here ?	industrial designer presentation
+D	88.21	Gotta plug you in .	industrial designer presentation
+A	90.79	Yep .	industrial designer presentation
+A	101.51	Might have to hit function F_ eight but it looks like it's gonna come up .	industrial designer presentation
+A	107.42	Yep .	industrial designer presentation
+A	107.86	Cool .	industrial designer presentation
+B	108.05	Okay .	industrial designer presentation
+B	110.24	Right .	industrial designer presentation
+B	112.29	That's page one of my presentation .	industrial designer presentation
+A	114.6	Brilliant .	industrial designer presentation
+D	114.62	Very nice .	industrial designer presentation
+D	115.55	For your first PowerPoint it's lovely .	industrial designer presentation
+B	117.12	So the uh method .	industrial designer presentation
+B	118.92	We're gonna have to understand how remote controls work and res uh successfully complete this project .	industrial designer presentation
+B	124.06	Um remote control works as follows .	industrial designer presentation
+B	126.82	This is all pretty basic stuff you guys .	industrial designer presentation
+B	129.07	Um sends message to another system , so there's an energy source involved in that like a battery or solar power , something along those lines , there's an integrated circuit , which is the microchip , um and that actually compose the messages and usually the way a a remote control works is it sends infrared bits to another system .	industrial designer presentation
+B	151.82	A user interface controls the chip , basically that's the casing and the buttons and um accordingly the messages as well .	industrial designer presentation
+B	161.7	So my findings , um I just did a preliminary study here and uh I found that too much metal in remote design could potentially cause interference with the ability of the remote to send commands .	components, materials and energy sources
+B	173.35	And too much metal can cause remotes to behave unexpectedly by receiving false signals .	components, materials and energy sources
+B	178.76	Um too much metal is used sometimes and people pick up radio signals and the like , and there's also the possibility of the remote catching on fire and injuring the customer , just think of those lawsuits , that'd be really bad .	components, materials and energy sources
+B	191.12	Therefore I suggest primarily plastic construction .	components, materials and energy sources
+A	193.92	'Kay .	components, materials and energy sources
+B	194.98	Um , components .	components, materials and energy sources
+B	196.82	Just some ideas that I had , um , energy source , it's kinda hip to be eco friendly so I thought maybe we could do something with solar power with an alkaline battery backup .	components, materials and energy sources
+B	207.68	Um the user interface , I was since we can't use metal I was thinking maybe a high grade recycled plastic .	components, materials and energy sources
+A	214.6	Mm .	components, materials and energy sources
+B	215.52	The chip , um , silicon based chip I don't really see any way around that , we can't really be different in that respect .	components, materials and energy sources
+B	222.9	Um , the sender well I'm thinking infrared 'cause it is the industry standard , multi channel , that's a word I made up , I don't really know what it means .	components, materials and energy sources
+A	231.13	'Kay .	components, materials and energy sources
+B	231.46	Uh PAL and N_T_S_C_ compatible and uh probably a two hundred foot range .	components, materials and energy sources
+A	231.73	Fair enough .	components, materials and energy sources
+A	236.22	'Kay .	components, materials and energy sources
+B	236.73	Uh and the receiver of course is any number of electronic devices .	components, materials and energy sources
+B	241.53	Um but in this case it'll only be T_V_s .	components, materials and energy sources
+B	244.5	Um personal preferences , I really think that we should use plastic as opposed to metal , um , the company simply can't afford this kinds of lawsuits which adm admittedly is gonna come at the cost of a certain aesthetic value , 'cause we were thinking Right .	components, materials and energy sources
+D	251.24	Fine .	components, materials and energy sources
+A	259.15	Is is there a way that we can use um modern types of polymers , or mo modern types of plastics that maybe do have some kind of aesthetic value um like if a white like if we talk about like well like on the lapt on these laptops and other ones they use a a pretty nice , you can do i is there some kind of nice colo der quality plastic that we can work with ?	components, materials and energy sources
+D	272.56	It needs , yeah .	components, materials and energy sources
+B	279.17	Yeah that shouldn't be a problem .	components, materials and energy sources
+B	280.51	Um for example the plastic they have on your laptop there is something that's perfectly possible for us to do .	components, materials and energy sources
+A	285.65	Okay , okay .	industrial designer presentation
+D	289.83	Cool .	industrial designer presentation
+B	290.45	That's the end of my presentation .	industrial designer presentation
+A	290.59	Great .	industrial designer presentation
+A	291.83	Thank you very much Nathan .	industrial designer presentation
+A	293.78	Um if next we can have the um User Interface Developer go ahead and make a brief presentation that'd be great as well .	interface specialist presentation
+A	302.47	S plug yourself in here .	interface specialist presentation
+A	322.2	Mm .	interface specialist presentation
+A	325.04	Um hit function F_ eight real quickly , hold down Mm .	interface specialist presentation
+D	335.28	Looks like you're in okay .	interface specialist presentation
+B	336.6	Is it plugged in well ?	interface specialist presentation
+B	340.73	There it goes .	interface specialist presentation
+B	342.59	Computer adjusting .	interface specialist presentation
+C	342.76	Th Well so .	interface specialist presentation
+D	343.21	There you go .	interface specialist presentation
+A	343.57	There you go .	interface specialist presentation
+A	344.07	Sweet .	interface specialist presentation
+C	350.85	Here we have a uh my technical functions design presentation .	interface specialist presentation
+C	356.76	Um so a few of the requirements we need here .	interface specialist presentation
+C	360.8	Uh we n basically need to operate an electronic device , it needs to be universal um and possibly uh operate several different types of devices although we now uh find that uh that that's no problem .	interface specialist presentation
+A	370.91	Yeah sorry I couldn't get that g to use before .	interface specialist presentation
+C	374.14	Um so some of my findings .	interface specialist presentation
+C	377.82	Um basically wanna send messages uh to a television set .	interface specialist presentation
+C	381.76	Um that would be any number of different things uh such as switch on the television , uh switch to the next channel , that sort of thing , I think we're all quite uh quite uh intelligent and know know what a normal remote control does .	interface specialist presentation
+C	396.81	Um now some of the other things I found is a a complicated remote control sorry that we can't quite see my red there very well but uh this remote control has many functions um so it can do a lot of things but it uh it is quite complicated and most users will find it uh find that they won't use most of the functions because they don't know how to use them and don't wanna take the time to learn how to do it .	existing products
+A	403.9	Oh yeah look at that .	existing products
+B	404.82	Mm .	existing products
+A	414.07	Mm-hmm .	existing products
+C	423.3	As you also notice it's quite a boring design .	existing products
+C	427.18	Um .	existing products
+C	428.64	Another remote control , slightly different , it's a simpler remote control uh many less buttons but uh has many fewer functions , um m much easier for the user to manipulate and use .	existing products
+C	441.76	Um it also has a bit of a cheap look and it's also quite boring .	existing products
+C	447.47	So my personal preferences .	interface specialist presentation
+C	450.35	Revolutionise the idea of uh a remote control .	interface specialist presentation
+A	450.49	Nice .	interface specialist presentation
+C	454.39	Um so attain the functionality of a complicated device but use a simple formatted display uh for the user to to work with .	interface specialist presentation
+C	462.71	And I was gonna add another uh slide here but I didn't quite have time there .	interface specialist presentation
+C	466.6	Um .	interface specialist presentation
+A	467.0	Okay .	interface specialist presentation
+C	467.31	Just incorporating some of the ideas that we had previously like uh having multiple face but it's uh .	interface specialist presentation
+A	474.52	Great .	interface specialist presentation
+A	474.79	Thanks for that Ron .	interface specialist presentation
+D	475.52	Right .	interface specialist presentation
+D	478.96	Does that mean I'm up ?	marketing expert presentation
+A	479.33	'Kay yep that's you .	marketing expert presentation
+D	480.36	I think so .	marketing expert presentation
+D	481.81	Okay .	marketing expert presentation
+C	482.44	I can plug you in .	marketing expert presentation
+D	483.32	Oh that would be perfect .	marketing expert presentation
+D	484.18	Thank you .	marketing expert presentation
+D	488.07	Slide show up and running .	marketing expert presentation
+D	491.27	Or not .	marketing expert presentation
+A	491.76	Give it a little bit .	marketing expert presentation
+D	492.15	Uh .	marketing expert presentation
+D	502.62	Oh there we go .	marketing expert presentation
+D	503.13	Perfect .	marketing expert presentation
+D	505.36	Okay .	marketing expert presentation
+D	506.63	So this is me .	marketing expert presentation
+D	507.66	Um basically I was looking through some marketing reports that we've got and we had a usability test where we were actually sort like watching a hundred people use T_V_ remotes and see what it is that they're using and then they filled out a questionnaire about what they like and what they don't about their general T_V_ remote control practices .	marketing expert presentation
+D	526.76	Um pretty much through testing we were finding out that most of the time , everybody's used to using changing the channel , turning it on , using the volume , m the majority of the time that's all that's going on , the other functions happen , for some people they're important , but the primary uses are really really basic .	marketing expert presentation
+D	544.73	Um and so big complicated remotes like one we saw in the last presentation are really not the general public's use , they're not using a lot of it , they don't need it , they even find it frustrating when there are all those buttons that they don't know what to do with .	marketing expert presentation
+D	560.44	And um we also found out that uh fifty percent of our people , their the worst thing about a remote is how often they lose it .	marketing expert presentation
+D	565.9	And then they can't find it in the room .	marketing expert presentation
+D	567.63	So I think what we were talking about with a pager or something , will really come into play with a lot of these people .	marketing expert presentation
+D	574.93	Um there's also a survey about what they liked about remotes , and pretty much they all think they're hideous and not very useful , and the younger demographics are all really interested in voice recognition options .	marketing expert presentation
+D	587.94	I don't know if that's something we're ready to look into technically , that's up to the design people , but it is s something worth thinking about , especially since the younger demographic's obviously the one that's gonna keep growing , so if that's the direction we're headed in it's something to think about .	marketing expert presentation
+D	600.87	Um but basically it really is the primary functions and getting it to look nice , which are the standards .	marketing expert presentation
+D	608.48	So it's a good start for us .	marketing expert presentation
+A	612.05	That's great .	marketing expert presentation
+A	612.46	Thank you Sarah .	marketing expert presentation
+A	614.91	Right .	discussion
+D	615.4	Need to unplug this ?	discussion
+A	615.66	So um yep I'll just uh switch that back here .	discussion
+D	617.75	Need it back .	discussion
+A	619.52	I'll finish up with just a bit of discussion plan on for the next phase .	discussion
+D	620.91	There you go .	discussion
+A	634.82	Right so I think we've covered most of these important questions through this um through you guys's presentations um we've got uh y the Industrial Designer suggests uh or pretty much emphatically suggested that we need to go with plastic .	discussion
+A	650.89	Um Sarah , she's recommended that we go for simpler functions , so fewer functions um but we need to decide who are we selling this to , you s your stats suggested that seventy five percent of people under thirty five wanted , thought about voice control , um so do we wanna go for that , or do we want to go for an older demographic , and my thought is um we've got w if we're gonna go for a sleek look I mean we are putting the fashion in electronics um .	discussion
+D	666.31	Oh right .	discussion
+D	685.05	We're not catering to the pensioners of the world I don't think so .	discussion
+A	688.42	Yes .	discussion
+A	689.65	So maybe this we should look into this younger demographic .	discussion
+A	693.12	Um .	discussion
+D	693.14	Right .	discussion
+A	695.03	So uh we need to wonder ah h about how we make it better and smaller and faster um think we're constrained to plastics very well , we've got this idea , Ron was saying we need to think about uh revolutionising the way it's looking um , which might be easier given that we're going for simpler function and that we're only going for a telly .	discussion
+D	712.32	Right .	discussion
+D	716.2	Uh .	discussion
+A	717.99	Um so um .	components, materials and energy sources
+A	722.28	How th this voice operation thing is I think is a good idea um assuming that it's doable , um at least for the basic controls , maybe we can balance it that way , you know we can see .	components, materials and energy sources
+D	731.69	Right .	components, materials and energy sources
+B	732.7	Mm .	components, materials and energy sources
+A	733.96	Okay you can't say record alias tonight at seven P_M_ but we might be able to say um volume up .	components, materials and energy sources
+D	741.64	Yeah .	components, materials and energy sources
+B	742.54	Right .	components, materials and energy sources
+B	743.68	I think it would be possible to uh combine the locator device and the voice recognition technology .	components, materials and energy sources
+A	751.32	Mm .	components, materials and energy sources
+D	751.73	Oh .	components, materials and energy sources
+D	752.47	That could work .	components, materials and energy sources
+D	753.69	I like that .	components, materials and energy sources
+B	754.45	With a simple command like locate .	components, materials and energy sources
+D	756.69	Yeah .	components, materials and energy sources
+B	756.88	And then it could start to beep and therefore be found .	components, materials and energy sources
+D	757.35	Something very basic .	components, materials and energy sources
+D	759.48	Right .	components, materials and energy sources
+A	761.24	Right .	components, materials and energy sources
+C	762.33	Sounds good .	components, materials and energy sources
+D	762.34	Is that only gonna be within our two hundred foot range then ?	components, materials and energy sources
+B	764.68	Oh yeah I think that's very doable .	components, materials and energy sources
+D	765.51	Okay .	components, materials and energy sources
+A	766.89	The difficulty wh would be in um I think like i you couldn't speak into the remote that you're trying to find .	components, materials and energy sources
+A	775.36	'Kay you have something that picks up a voice from far away If it's hidden under the couch but then again you have this wee this wee thing you know that's just a little chip or whatever that has the page button , maybe that could be voice activated too .	components, materials and energy sources
+B	778.3	Mm .	components, materials and energy sources
+D	778.88	Yeah .	components, materials and energy sources
+B	780.31	It's a good point .	components, materials and energy sources
+C	789.32	A little sticky pad to stick on top of your uh television .	components, materials and energy sources
+D	789.62	Mm .	components, materials and energy sources
+C	792.4	And you just say something to into that and it finds your The other thing is we might be able to handle the simplicity of a remote control and kind of put the more complicated things into a voice control .	look and usability components, materials and energy sources
+D	792.49	Yeah .	components, materials and energy sources
+A	794.37	Yeah .	components, materials and energy sources
+B	794.63	Yeah .	components, materials and energy sources
+D	795.72	K Yeah .	components, materials and energy sources
+A	796.84	Or an isolated magnet or something like , or you know something that wouldn't interfere I don't know that'd be the technical thing but yeah I like that , I like that , the voice recognition for the paging system .	components, materials and energy sources
+C	814.83	So it could be sold to both the younger market and the older market .	look and usability
+D	817.17	True .	look and usability
+C	817.99	And the younger market could use kind of the voi voice control method and the older market might might k exactly and might consider the older market could use the simpler design with the traditional buttons and what not .	look and usability
+D	822.66	Making it just an option ?	look and usability
+B	823.97	Mm .	look and usability
+D	824.44	Yeah .	look and usability
+D	828.25	Right .	look and usability
+B	831.2	I was thinking uh Oh go ahead .	look and usability
+A	831.3	Yeah .	look and usability
+D	831.81	Are we still thinking about this screen sorry .	look and usability
+D	833.85	Go ahead .	look and usability
+D	834.76	The uh if we're gonna do this touch pad screen thing , it would be still , do we know if that's an option technically right now to that ?	look and usability
+A	837.61	Mm-hmm .	look and usability
+C	840.36	'S definitely an option technically .	look and usability
+D	841.67	Okay .	look and usability
+C	842.16	I've looked into uh costs of uh touch screen methods and what not , they seem to be uh you know almost as cheap as a button method at this point .	look and usability
+D	845.45	Okay .	look and usability
+D	848.79	We're doing okay .	look and usability
+D	851.3	'Cause it seems like an interesting option especially because then you could have like your primary screen just be these you know four or five basic functions , you can have menu options or something to have all these other complicated voice recognition , settings , things that you're not gonna use every day and that a lot of people aren't gonna use but it is an option there for this hi-tech market that sort of re is the sleek thing we're going for .	look and usability
+A	851.38	Okay .	look and usability
+A	858.35	Mm .	look and usability
+B	858.69	Yeah .	look and usability
+B	873.83	Gotta wonder though , if we're adding so much technology to this one remote , are we still gonna be able to meet out twelve pou our twelve fifty Euro you know goal for selling these things .	discussion
+A	880.57	Mm-hmm .	discussion
+D	880.83	True .	discussion
+D	882.32	Worth looking into .	discussion
+A	884.23	Mm-hmm .	discussion
+B	884.79	It seems like , we're not gonna be able to handle all these functions with just one microchip .	discussion
+D	884.85	Yeah .	discussion
+A	884.98	Mm-hmm .	discussion
+B	889.82	The microchip is probably the most expensive part of the the whole mechanism .	discussion
+D	891.92	True .	discussion
+A	892.02	Okay .	discussion
+D	894.84	Yeah .	discussion
+B	895.64	So it's just something to consider .	discussion
+A	895.78	Okay .	discussion
+A	897.17	Absolutely .	discussion
+A	898.95	Mm 'kay um well yeah I guess we'll cross that bridge um in a la slightly later stages of development um but yeah I know , that's perfectly viable question .	discussion
+A	909.33	Mm 'kay um so I'm seeing that we're gonna just basically focus on this young demographic group , aim it at them , but then in a sense that its bells and whistles are available for anybody who wants them but basically we'll make a sleek simple functioned um uh remote control .	discussion
+D	924.48	Mm-hmm .	discussion
+A	929.73	Um I think this voice recognition thing is a we've got a market for it uh I don't think there's too many , we'd more or less be cornering the market on it as well , we don't have many um .	discussion
+D	934.17	Mm .	discussion
+D	939.22	Yeah .	discussion
+A	942.24	I appear to have lost my microphone .	discussion
+A	944.28	Mm .	discussion
+A	947.72	Right um we don't have many people or there's not very many competitors out there that do that so cool .	discussion
+A	954.12	Um right .	discussion
+A	958.19	I guess we've c we've touched on most of this .	discussion
+A	960.22	The idea of a paging function , a touch screen , and face plates .	discussion
+A	963.18	Um .	discussion
+A	965.46	The thing with I see would there not be a we'd have to maybe sacrifice the face plates for a touch screen ?	components, materials and energy sources
+C	972.94	Um I'm not sure that's sincerely correct , I think if you kind of take the example of a mobile phone that uh trying to pass a portion of the device is not interchangeable whereas the surrounding portions are interchangeable .	components, materials and energy sources
+A	975.4	Okay .	components, materials and energy sources
+D	984.47	Mm .	components, materials and energy sources
+A	985.37	Okay .	components, materials and energy sources
+D	985.46	Just the casing .	components, materials and energy sources
+C	986.0	We could have the casing , the the face plates .	components, materials and energy sources
+A	988.71	Okay .	components, materials and energy sources
+B	989.96	Back to the uh the cost the material .	components, materials and energy sources
+B	993.32	We have to ask whether we're going to include a certain number of face plates with the package ?	components, materials and energy sources
+B	998.99	That's something I w for say we're including three or four face plates , it's gonna drive the cost up .	components, materials and energy sources
+D	1000.46	Mm .	components, materials and energy sources
+A	1003.64	Mm .	components, materials and energy sources
+B	1004.25	And the other question is , if we do include them are we really in a position to evaluate that market ?	components, materials and energy sources
+D	1004.64	Yeah .	components, materials and energy sources
+B	1009.31	We haven't done any tests on face plates and whether See if there if there's even interest out there .	components, materials and energy sources
+D	1012.44	Right .	components, materials and energy sources
+A	1013.8	Okay .	components, materials and energy sources
+A	1015.78	Okay .	components, materials and energy sources
+A	1016.34	Right .	components, materials and energy sources
+B	1016.43	Off the top of my head it sounds kind of like a gimmick that wouldn't really go anywhere .	components, materials and energy sources
+A	1021.44	Yeah 'cause then ha you would have to who all it's not like with cell phones like where you have a you know Nokia model X_ and then ten people make face plates for it , we'd be just our model of pho of t remote control .	components, materials and energy sources
+D	1022.17	Mm .	components, materials and energy sources
+D	1029.38	Right .	components, materials and energy sources
+B	1029.49	Yeah .	components, materials and energy sources
+D	1032.82	Well in the publicity of a face plate on a phone is you have it out and around , it is sort of emblematic whereas you're just sit at home , so unless somebody comes over to watch T_V_ True .	components, materials and energy sources
+A	1037.37	Mm-hmm .	components, materials and energy sources
+A	1038.8	Mm .	components, materials and energy sources
+A	1039.04	Mm-hmm .	components, materials and energy sources
+A	1040.53	Yeah .	components, materials and energy sources
+C	1040.95	Well hopefully some people have people coming t over to w to hang out at your house and most people have their televisions in the living room .	components, materials and energy sources
+D	1044.31	True .	components, materials and energy sources
+D	1045.21	True .	components, materials and energy sources
+C	1047.43	Uh .	components, materials and energy sources
+A	1047.57	Alright well we can we can discuss that one further when we think about um whether th when we do costs and so forth , um .	components, materials and energy sources
+D	1048.88	Yeah .	components, materials and energy sources
+D	1051.5	Oh yeah .	components, materials and energy sources
+C	1055.16	Sure .	components, materials and energy sources
+A	1056.99	True , if plastic is dead cheap and if we're making the whole thing out of plastic anyway um yeah we'll cross that bridge later um but yeah we will have to evaluate what's most important .	components, materials and energy sources
+A	1068.55	Um I think we've had a bit of discussion already on this thing , n s there any other questions comments that came up in these presentations ?	components, materials and energy sources
+C	1075.76	Well have we confirmed that we're gonna go ahead with a uh touch screen um Interface ?	components, materials and energy sources
+A	1080.62	Yeah yeah okay .	components, materials and energy sources
+A	1083.09	Um Yeah I think that would be best .	components, materials and energy sources
+A	1090.34	Let's based on what sh on what you guys have all said to me let's go for a plastic built or uh b plastic cased 'cause tha tha that's easy on the cost , try to look for some kind of high quality recycled plastic as you recommended and I think that's a great idea .	components, materials and energy sources
+A	1106.83	With a touch screen for the basic functions .	components, materials and energy sources
+A	1110.43	Um And we'll yeah tha let's provisionally let's go for a touch screen one with several submenus um for possible extra stuff that one basically put the channel and the on and off switch on the touch screen .	components, materials and energy sources
+A	1125.44	Um do we have Mm wait a minute it occurs to me that if we have a touch screen people are going to have to recharge their remote controls .	components, materials and energy sources
+A	1138.15	Yet at the same time that might help for this whole complaint of it being lost .	components, materials and energy sources
+D	1138.59	True .	components, materials and energy sources
+D	1144.45	'Cause it would have a docking base ?	components, materials and energy sources
+A	1145.74	Mm-hmm .	components, materials and energy sources
+A	1146.89	But then again that costs as well .	components, materials and energy sources
+D	1148.95	Yeah .	components, materials and energy sources
+A	1149.73	Hmm .	components, materials and energy sources
+C	1151.46	So these new lithium batteries they last twenty years even with the touch screen ?	components, materials and energy sources
+A	1155.51	Do they ?	components, materials and energy sources
+C	1156.37	Those new ones .	components, materials and energy sources
+A	1156.45	Okay .	components, materials and energy sources
+D	1157.22	Can we afford that ?	components, materials and energy sources
+B	1157.7	Can we afford to include one of those ?	components, materials and energy sources
+D	1160.34	And will somebody buy it if we don't ?	components, materials and energy sources
+A	1162.21	Well I I don't think yeah I can't see anybody buying a lap a remote control that they have to plug in so we'd have to see some kind of new battery technology .	components, materials and energy sources
+D	1168.85	Right .	components, materials and energy sources
+A	1169.8	Okay so let's go with a um touch screen with um some kind of you know with with some kind of cutting edge battery technology Yeah well hey you know well it's it's worth looking into , if not we can always default to just doing a a well presented plastic simple you know so you know .	components, materials and energy sources
+D	1182.17	For twelve Euros ?	components, materials and energy sources
+D	1186.67	It is .	components, materials and energy sources
+D	1188.24	Fair enough .	components, materials and energy sources
+D	1191.08	The basics .	components, materials and energy sources
+A	1191.84	Well yeah I mean you can put the we could I I dunno I mean I suppose we could put the the basics on the centre easiest you know , you know people know the channel and volume function make them large and easy to get at and then the the other the other bits and bobs you know go through menu um w we'll do the aesthetics .	components, materials and energy sources
+D	1203.44	Mm .	components, materials and energy sources
+A	1206.92	Okay so we'll touch screen and the battery , focus on um uh presentation .	components, materials and energy sources
+D	1209.2	'Kay .	components, materials and energy sources
+A	1214.96	Um it's th uh with this voice recognition option as well um just as for the simple functions the um the on off , channels , volume , um and um a small paging function .	components, materials and energy sources
+B	1226.98	Right .	components, materials and energy sources
+A	1234.89	Even if you can't do voice recognition for the paging you know just some kind of simple button that's just a I guess another infrared signal to the remote control and while to emit some kind of paging .	components, materials and energy sources
+A	1243.71	Just a beep .	components, materials and energy sources
+B	1243.87	Okay .	components, materials and energy sources
+A	1247.59	Um right so any comments ?	components, materials and energy sources
+A	1250.53	Thoughts before we break into go into the next round of individual work on this .	components, materials and energy sources
+B	1255.84	Since we're doing uh touch screen , do we wanna look into the possibility of people being able to input different types of skins for the you know the actual interface part of it and things like that ?	look and usability
+B	1267.03	Or is it just gonna be one touch screen for everybody .	look and usability
+C	1271.01	Be interesting .	look and usability
+D	1272.0	Mm .	look and usability
+B	1272.6	What what would be on that touch screen ?	look and usability
+B	1273.92	'Cause you said earlier that we have to think about company colours and um logo or something or motto , I can't remember exactly what you said .	look and usability
+D	1280.35	And oh .	look and usability
+D	1281.86	Yeah the the fashion do .	look and usability
+C	1282.88	We put fashion into electronics .	look and usability
+D	1284.78	Yeah .	look and usability
+A	1288.45	W it's my understanding that if you were going to do a skin you'd need to have some way for people to download or import skins into the remote control .	look and usability
+D	1296.3	Right , and then you're dealing with ports and cords and Yeah .	look and usability
+A	1299.08	Yeah I think perhaps good idea but yeah I think that that one m might just be um and they just yeah I think that one might just be out of the range for this particular a P_D_A_ would they would makes a lot of sense for a P_D_A_ 'cause you're gonna be using it to connect up to things anyway but I dunno , what do you guys think ?	look and usability
+B	1300.7	'S too much .	look and usability
+D	1309.04	For now .	look and usability
+B	1323.05	Think we just need to come up with a nice black and red interface on the touch screen .	look and usability
+D	1325.21	Yeah .	look and usability
+D	1325.62	Nice .	look and usability
+B	1327.46	That'd be okay .	look and usability
+C	1328.28	Yeah .	look and usability
+C	1328.64	Uh I I'm I'm in agreement with that , I'm wondering how we're gonna get uh we put fashion into electronics onto this device .	look and usability
+D	1330.88	Um .	look and usability
+D	1334.55	Well but if we're gonna use a touch screen where it's gonna come on like on your cell phone it'll have your your carrier provider name come up first like while it's loading and then it goes away , perhaps it could be like a temporary Comes on every time you turn it on and then that's it 'cause it is a bit much to have it like engraved on the back or something I think .	look and usability
+A	1338.55	Hmm .	look and usability
+A	1345.64	Mm .	look and usability
+B	1350.03	Mm .	look and usability
+A	1351.06	Yeah .	look and usability
+B	1351.35	True .	look and usability
+A	1352.31	Yeah .	look and usability
+C	1352.4	I'm hoping for a subliminal maybe half a millisecond as it turns on .	look and usability
+D	1354.77	Yeah .	look and usability
+D	1356.19	Y Yeah you would think .	look and usability
+A	1357.54	Yeah .	look and usability
+A	1359.08	Yeah I know I d it seems like it would suffice to have just the R_R_ on there .	look and usability
+C	1362.36	Mm-hmm .	look and usability
+A	1363.52	Jus But apparently not .	look and usability
+D	1364.31	But .	look and usability
+D	1365.92	If it comes from above .	look and usability
+B	1366.08	People aren't gonna want their remote to boot up and to see flashing things come on .	look and usability
+A	1366.17	So .	look and usability
+B	1370.93	They just want it to be on and ready to go .	look and usability
+D	1373.24	Yeah .	look and usability
+A	1373.35	Yeah .	look and usability
+A	1375.69	Well fair enough .	look and usability
+A	1376.89	Um and yeah that would help the battery life too and if it the remote they do have to press a button for the remote to turn on .	look and usability
+A	1383.34	But then again who wants to turn on a remote control .	look and usability
+C	1385.95	Well all you have to do is touch the screen and it automatically goes on .	look and usability
+A	1386.06	Kind of if i Oh to wake up okay or go into like a dormant mode .	look and usability
+D	1387.71	Mm .	look and usability
+C	1389.05	Yep .	look and usability
+C	1389.73	Goes into a sleep mode .	look and usability
+A	1391.1	Okay .	look and usability
+A	1392.18	Oh yeah I like that I like the idea of um putting the logo in the boot up screen , nice .	look and usability
+A	1397.53	Um .	look and usability
+A	1402.82	Um cool so any last things before we break ?	look and usability
+A	1408.33	Alright .	closing
+A	1408.64	Fair enough .	closing
+D	1410.41	We're good ?	closing
+A	1410.45	Sounds good .	closing
+A	1412.6	I'm gonna save th a copy of this in case you guys need any reminders .	closing
+A	1415.33	I'm gonna save a copy of this and the minutes that I'll do it in a second and put them in the shared folder for later reference .	closing
+C	1420.56	I've put my files in the shared folder as well .	closing
+A	1422.82	Brilliant .	closing
+D	1423.42	Yeah .	closing
+A	1428.56	That's fab guys .	closing
+A	1429.26	Cool .	closing

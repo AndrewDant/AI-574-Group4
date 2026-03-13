@@ -1,0 +1,796 @@
+A	34.67	I just forgot their name , so uh you're i sorry , I just forgot them all .	particpant names
+A	37.99	So I have to write it down .	particpant names
+D	40.34	Okay .	particpant names
+A	41.4	So Do you know them or Yeah .	particpant names
+D	42.24	Fine .	particpant names
+D	45.83	The names ?	particpant names
+D	48.32	For for for my sur um Jens .	particpant names
+A	49.76	Yeah .	particpant names
+A	51.38	Yeah , no , but your b your surname .	particpant names
+D	53.66	Uh Damman .	particpant names
+D	56.72	D_ A_ W_ .	particpant names
+A	62.78	W_O_ da .	particpant names
+D	62.88	Uh uh M_ M_ .	particpant names
+A	63.77	Okay .	particpant names
+D	64.42	I mean M_ .	particpant names
+D	65.51	Double M_ .	particpant names
+A	67.3	Okay .	particpant names
+A	69.33	And what's your name ?	particpant names
+B	71.31	Paul Wiezer .	particpant names
+B	72.68	Paul Wiezer .	particpant names
+A	75.26	W_I_E_S_ z Z_ or S_ ?	particpant names
+B	75.33	A_ E_ Z_ zee zee E_ R_ .	particpant names
+A	78.3	Uh uh zee .	particpant names
+A	81.55	Okay .	particpant names
+A	82.68	What's your name ?	particpant names
+C	84.0	Uh Martijn .	particpant names
+A	85.28	Yeah , but your surname .	particpant names
+C	87.41	What ?	particpant names
+A	87.86	Your surname .	particpant names
+C	89.01	Uh Abbing .	particpant names
+C	91.07	A_ B_ B_ I_ N_ G_ .	particpant names
+A	92.84	Okay , thanks .	particpant names
+C	97.16	I was a little short on time , but What ?	opening
+B	97.23	Uh .	particpant names
+A	98.82	Yeah , me too , so that's not No no no , I just fi first my So let's have a look , we have forty minutes , so it's it's more than enough .	opening
+B	99.89	Yeah , same here .	opening
+D	102.72	Oh .	opening
+D	103.62	Sorry .	opening
+B	106.89	Uh let's see .	opening
+B	108.48	Which one was mine ?	opening
+A	119.34	Okay , perfect .	opening
+A	120.89	So we have Oh no , what's that ?	opening
+A	126.21	So so we have uh forty minutes for this uh for this second meeting , and we have to make uh sure that we going t that we are sure , that we are , that we know what we're going to make uh th what the product is going to like look like .	opening
+B	131.16	Good .	opening
+A	141.28	Uh first I have the notes of the last meeting , so I showed uh show them to you .	opening
+A	147.78	Oh , sorry about that , I just escape this one .	opening
+A	151.83	How do I escape this ?	opening
+A	154.37	How do I I escape this s uh presentation ?	opening
+B	157.69	Uh left .	opening
+C	157.77	Uh Just Yeah .	opening
+A	159.02	Ah okay .	opening
+B	159.68	So Okay .	new requirements opening
+A	160.79	And show , sorry .	opening
+A	163.13	Okay , so let's have a look s at this one .	opening
+A	167.75	Okay , so the f the f the points we had last meeting was the um Should be a univ uh universal remote control No , that's I uh s I just got a email from the from the personal coach and it should be a T_V_ remote control only .	new requirements opening
+A	182.26	So have you changed that part ?	new requirements
+D	184.67	Okay .	new requirements
+A	185.46	Um so yeah , it still has to be uh f a r a remote control for kids and elderly .	new requirements
+A	191.83	It's it's still the same .	new requirements
+A	194.08	Um All these points uh we have to look at .	new requirements
+A	199.16	You all know them .	new requirements
+A	200.59	But uh there's another point .	new requirements
+A	202.07	The um uh the main uh people of interest of this company are forty plus people .	new requirements
+A	210.64	So they're old and not younger people .	new requirements
+A	213.91	So we have to look at that as well .	new requirements
+A	216.52	'Specially old people , maybe bi bigger buttons or something , I dunno .	new requirements
+B	219.65	Yeah , okay .	new requirements
+A	225.01	Uh so So yeah , that's it , so just you can do your presentation for uh Oh it doesn't matter , just start with the I I didn't read i read it , so it's not for me , I didn't get it uh anyway .	new requirements marketing expert presentation
+B	234.24	Which one first ?	marketing expert presentation
+D	235.03	Okay .	marketing expert presentation
+B	237.45	Okay .	marketing expert presentation
+D	240.63	Mm .	marketing expert presentation
+D	249.67	Uh Okay .	marketing expert presentation
+B	251.55	Functional requirements , yeah .	marketing expert presentation
+D	261.68	Well my name is Jens Damman , but we're in a group , and I I will start it .	marketing expert presentation
+D	267.09	Wait .	marketing expert presentation
+D	268.99	Um I've used a marketing report on uh the site .	marketing expert presentation
+D	275.37	Uh I think you've uh read it too .	marketing expert presentation
+D	278.85	Uh and uh f and furthermore I uh surfed the o the other site .	marketing expert presentation
+D	285.97	You didn't read it ?	marketing expert presentation
+B	286.93	No , I didn don't thing we got it .	marketing expert presentation
+D	287.91	Oh okay , I I was the only one who get it .	marketing expert presentation
+A	288.0	It's only for you .	marketing expert presentation
+A	289.65	Yeah .	marketing expert presentation
+B	289.88	Yes .	marketing expert presentation
+D	290.03	Okay it was uh uh uh um um a report about uh an experiment with uh a lot of users .	user requirements
+D	298.6	And uh they had a lot of findings in their report uh with statistical uh uh uh thing uh with statistical uh proof .	user requirements
+D	308.92	So I um I had three pages with findings and sev a lot of uh a lot of findings .	user requirements
+D	315.28	So we can use this uh to uh create our own remote control .	user requirements
+D	319.6	Uh seventy five percent of the users find uh most remote controls ugly .	user requirements
+D	325.12	Yeah , I think uh uh that's a lot , so we have to make a beautiful remote control .	user requirements
+D	330.75	Uh eighty percent of users would spend when uh a remote control will l uh look fancy .	user requirements
+D	336.53	I think this fits uh at the uh what what uh Michael said about uh older people .	user requirements
+D	342.97	Older people will uh spend more money uh for uh something uh uh what's good .	user requirements
+D	348.72	Because younger people are more critical uh about uh uh where they spend their money money at .	user requirements
+D	356.96	Uh seventy five percent uh seventy five percent of the users say they zap a lot .	user requirements
+D	361.69	Well okay , that's uh normal .	user requirements
+D	364.23	I think uh we we have to make uh good zap buttons .	user requirements
+D	367.78	But that's one of our requirements .	user requirements
+A	369.77	The last point is quite an interesting So if we Yeah .	user requirements
+D	371.73	Yes , fifty percent of users say they only use ten percent of the buttons .	user requirements
+D	375.39	Um Martijn alr already said it .	user requirements
+D	377.93	And uh maybe our uh fold open system is is a good one , but I don't think it's uh reachable .	user requirements
+A	386.0	Yeah , we should have the ten percent on the on the top , then you're you're So we have uh a new uh age of forty plus .	user requirements
+D	388.96	Yeah , the ten percent on the top , yeah .	user requirements
+C	389.83	Yeah .	user requirements
+D	390.3	That that's a good one .	user requirements
+D	392.16	Um uh page two .	user requirements
+D	394.46	Remote controls are often lost somewhere in the room .	user requirements
+D	397.78	That's exactly what we said about um maybe a home station for uh for it uh to uh recharge the batteries or something .	user requirements
+D	406.67	Uh I thought mo maybe we could make a clap system , so when you clap your hands it will beep or something .	user requirements
+D	413.36	Uh you must find it uh quickly .	user requirements
+B	415.66	Uh .	user requirements
+B	416.77	Maybe just a button on the home station .	user requirements
+B	418.52	So remote control beeps when you click that button on the home station .	user requirements
+D	423.07	Okay , yeah .	user requirements
+D	424.78	Yeah , we can uh combine that .	user requirements
+D	426.72	Uh it takes too much time to learn how to use a r new remote control .	user requirements
+D	431.38	Uh I think we must t uh take a look at this .	user requirements
+D	434.43	It's only uh th thirty four of the thirty four percent .	user requirements
+D	438.78	But it's uh a tough one .	user requirements
+D	441.76	Because if we make a ha whole new product , our own style , we we c uh this is so difficult , uh a difficulty I think .	user requirements
+D	452.34	Uh next , remote controls are bad for R_S_I_ .	user requirements
+D	455.47	Yeah , but only if they zap a lot , and they watch over five hours T_V_ or something .	user requirements
+D	460.05	I don't We we haven't Uh we mustn't look too much at uh the last point .	user requirements
+D	465.99	Okay , last page .	user requirements
+D	468.48	Uh the last uh experiment uh was about gadgets , like uh speech recognition .	user requirements
+D	474.48	We didn't uh think about that already .	user requirements
+D	477.91	And uh an L_C_D_ on the remote control .	user requirements
+D	480.64	We already thought about that .	user requirements
+D	482.59	Um uh they finally had a conclusion that younger people um uh under an age of f forty five are uh more interested in new features .	user requirements
+D	494.06	And but they're more critical .	user requirements
+D	496.33	And older people uh want to spend uh more money .	user requirements
+D	499.67	But uh they uh they don't want to uh have a lot of uh new features , because they're in their old uh thinking way .	user requirements
+D	507.32	And they want to keep the old uh things the old things .	user requirements
+D	513.61	But y But you but you already said that the uh company was about uh forty plus uh clients ?	user requirements
+A	518.2	People .	user requirements
+A	518.5	So yeah , so we just can skip the L_C_D_ r on the remote control , because Yeah .	user requirements
+D	521.42	I I think we can speak , uh we can skip speech recognition uh directly , because it's not reachable for twenty five Euros .	user requirements
+B	522.37	Yeah .	user requirements
+A	527.92	It's too Okay .	user requirements
+C	530.86	Yeah .	user requirements
+D	531.85	Um then I have my personal uh preference .	user requirements marketing strategy
+D	537.16	Okay , that's not very good , because I thought about television , D_V_D_ player , stereo and V_C_R_ .	marketing strategy
+D	543.09	I had a question about .	marketing strategy
+D	544.21	But it's already out of the question , this .	marketing strategy
+D	547.23	Um my point is , well , I If we ma uh make a a remote uh control for only television , I think it's hard to uh sell it for twenty five Euros .	marketing strategy
+D	558.76	But it's the exercise .	marketing strategy
+A	560.2	Because it's too expensive .	marketing strategy
+D	561.29	Yeah , only only for television uh On the market you can now buy for twenty Euros a remote control for everything .	marketing strategy
+A	561.76	Yeah , probably .	marketing strategy
+D	568.89	And we only make it for television , so we mi mm we m must made it make it uh very special .	marketing strategy
+B	573.89	Yeah , but good usability , so you can use it .	marketing strategy
+D	577.0	Okay , I told about the home station .	marketing strategy
+D	579.36	Uh it must be simple , because uh our the the elderly people uh needs to use it .	marketing strategy
+D	585.05	And I I found a motto .	marketing strategy
+D	587.07	And we put the fashion in electronics .	marketing strategy
+D	589.88	And that's uh the motto we are uh referenced to uh for our uh our style .	marketing strategy
+D	596.25	We we have to make a a new product .	marketing strategy
+D	599.73	We have to be um Yeah .	marketing strategy
+D	604.39	One of a kind , I think .	marketing strategy
+A	605.86	So it has to look uh uh uh unique , but Yeah .	marketing strategy
+B	608.0	Unique .	marketing strategy
+D	608.7	The company is about our uh th th their own fashion , their own style .	marketing strategy
+B	612.09	Yeah , I reckon Uh I think mm Uh Yeah .	marketing strategy
+A	613.32	But old people are not looking for that .	marketing strategy
+A	616.38	Not really .	marketing strategy
+C	617.45	Yeah .	marketing strategy
+C	618.58	I think the main thing is the usability , that's where we can uh make it a special product .	marketing strategy
+D	623.22	Yeah , to k to keep it simple when you Sorry I thought about it , yes .	marketing strategy
+A	624.0	Okay .	marketing strategy
+A	624.61	Yeah .	marketing strategy
+B	625.15	But uh we also have to stand out , 'cause there are already , like you said , so many controls out that support lot of stuff .	marketing strategy
+C	625.21	Yeah .	marketing strategy
+B	633.22	But we have to make sure that we're better usability , and stand out by just looks of it .	marketing strategy
+B	638.48	So make it just a different colour or different shape , so Okay .	interface specialist presentation marketing strategy
+A	640.84	Yeah .	marketing strategy
+A	641.84	Okay .	marketing strategy
+D	643.07	Okay , this was uh my presentation .	marketing expert presentation
+A	644.29	Thanks .	marketing expert presentation
+C	645.72	Okay .	marketing expert presentation
+D	648.48	I don't Yeah .	marketing expert presentation
+A	649.13	So Paul , you can do the next one if you want .	interface specialist presentation
+D	649.6	You can ask some questions or something .	marketing expert presentation
+B	652.37	Yeah well Uh .	interface specialist presentation
+A	654.99	It's on the on the uh net net uh thing , isn't it ?	interface specialist presentation
+B	657.61	There it is .	interface specialist presentation
+B	666.05	Okay .	interface specialist presentation
+B	667.03	Technical functions design .	interface specialist presentation
+B	670.23	Okay , well , so we have s mm uh broad audience .	look and usability
+B	673.91	Isn't that isn't true anymore .	look and usability
+B	675.41	But um we have elderly people , so we need to keep it simple .	look and usability
+B	680.03	Uh the way I want to keep it simple is to use the sen uh standard .	look and usability
+B	684.8	So standardised uh methods like uh on all uh remote controls .	look and usability
+B	691.84	Not too full , like uh Jens already said , only ten percent is being used .	look and usability
+A	697.08	So what do you think of only the numbers and the on-off button or Okay .	look and usability
+B	700.16	Yeah , I have it on the next page .	look and usability
+B	701.75	But yes uh basic functions like numbers and that sort of stuff .	look and usability
+B	706.96	Um so the options that we put on there should be easy to use , and 'cause you have more room then , and for elderly people big buttons .	look and usability
+B	717.0	Uh an icon on it or text on it , so it's very clear what that buttons does .	look and usability
+B	723.08	So it doesn't take much time to figure out uh how to use it .	look and usability
+B	727.49	Um a way to find out uh what people use is maybe just to use uh questionnaires on the internet or just ask some random people , elderly people what they use , what they want on a remote control to find out .	look and usability
+A	742.74	Yeah .	look and usability
+B	745.19	But there is already in a one done .	look and usability
+B	748.82	Of functions I could think of .	look and usability
+B	751.22	Uh volume , channels , the the basic according to .	look and usability
+B	756.13	Just one two three etcetera .	look and usability
+B	758.12	Uh text service options .	look and usability
+B	760.5	Um basic on-off .	look and usability
+B	762.38	And I found an uh Could I think of favourites ?	look and usability
+B	766.82	I always look up the same um pages on text and always have to click the number .	look and usability
+A	773.36	Okay .	look and usability
+B	773.94	But if you could make a new option , that you just have to press one button and you get on your No y Well it's It was just a thought .	look and usability
+C	778.78	Yeah , but then you have to remember what favourite is what channel .	look and usability
+C	782.36	So you might as well remember the number .	look and usability
+C	786.66	Or not ?	look and usability
+A	787.56	Maybe i maybe it's too complicated , but not sure .	look and usability
+A	790.28	It's a good idea , but Uh Uh mayb for me it's If I use my telephone , I never use those buttons to to to call sh Never .	look and usability
+B	791.73	So I'm , I u I would find it handy , I think , when you just press one button and you get on six six six .	look and usability
+C	797.8	Yeah , okay .	look and usability
+C	798.2	But um how can you remember what uh channel uh connects to what favourite button ?	look and usability
+B	806.13	Well uh what I was reading on the page .	look and usability
+B	809.24	Uh a remote control just sends commands , basics commands to uh the television .	look and usability
+B	815.97	So switch to channel six .	look and usability
+C	818.33	Yeah ?	look and usability
+B	818.94	So uh button six says says six .	look and usability
+B	821.64	And if you make favourites , it can say six six six in a row .	look and usability
+B	825.48	Just numbers .	look and usability
+B	826.57	That can be in the in the Well if you said a favourite Well i Never ?	look and usability
+C	826.65	Yeah okay .	look and usability
+C	827.0	But uh uh for a user to to remember , if I press that button it goes to that channel .	look and usability
+C	834.71	Yeah , but isn't it hard to remember ?	look and usability
+C	838.06	Like favourite one and Mm as as hard as No , neither do I .	look and usability
+B	846.03	Oh .	look and usability
+B	846.89	Oh are you ?	look and usability
+A	846.92	So And If I don't do it , maybe old people It's not , it's still not It's not anymore n uh Just on the front as well .	look and usability
+B	848.24	Okay now , m maybe not .	look and usability
+B	853.77	No , maybe elderly people uh .	look and usability
+C	855.28	Yeah , I dunno .	look and usability
+B	855.76	Right .	look and usability
+B	856.2	They don't like new features .	look and usability
+B	857.44	So maybe not .	look and usability
+D	858.3	Mm-hmm .	look and usability
+B	859.42	Um well play , pause .	look and usability
+B	861.41	I dunno if that's usable when Not anymore for T_V_ .	look and usability
+B	866.03	Right , on off .	look and usability
+B	868.06	I dunno , miss Did I miss any other buttons , basic buttons ?	look and usability
+D	873.09	Um Forward .	look and usability
+B	873.31	I couldn't think of any other , 'specially not for T_V_ .	look and usability
+A	877.76	No , that's the only th the only thing you need .	look and usability
+B	879.53	Is Just the channel um uh What I mean is uh Six seven eight or five .	look and usability
+C	879.64	Uh uh the p uh next and previous .	look and usability
+C	882.53	Previous I know , but next channel ?	look and usability
+C	885.29	I don't thi Li like a web browser , so Oh , okay .	look and usability
+A	891.21	Just very simple .	look and usability
+C	891.4	But uh um there's also a button to uh go to the channel you've been before .	look and usability
+C	898.66	Like a web browser back button .	look and usability
+B	900.05	Um I dunno .	look and usability
+A	902.06	Uh Yeah , I know what it is , but I think it's all too difficult for old people .	look and usability
+B	902.26	I don't have Uh I did Yeah , I don't think you use that .	look and usability
+D	904.82	No .	look and usability
+D	906.19	Uh It gets some seconds .	look and usability
+C	906.43	Yeah , okay .	look and usability
+B	906.63	Y only when you want to go to Yeah , just use uh when you wanna switch between channels all the time .	look and usability
+A	913.02	And how do you want to uh do it , like if you have a channel above ten ?	look and usability
+C	913.11	Yeah .	look and usability
+A	918.08	Normally you can press one , zero or A ten plus or Okay .	look and usability
+B	919.74	Yeah , I think um f Especially for older peo elderly people use standard buttons .	look and usability
+B	925.26	So you have that uh Yeah , the ten plus button .	look and usability
+B	929.85	Just uh one one pressing , or quickly after each other .	look and usability
+B	935.05	To just keep it simple and standard uh features .	look and usability
+C	938.0	Yeah , w wouldn't it be a problem to uh Because you h have to be fast enough .	look and usability
+C	943.06	Maybe the elderly people Oh okay .	look and usability
+B	944.53	Uh yeah mayb But I think that's in the T_V_ as well .	look and usability
+B	949.59	That's how the uh the T_V_ T_V_ handles it .	look and usability
+B	951.65	But you can have a button that says um two two st two stripes .	look and usability
+D	955.65	Yeah , it's it's no it's not a It's what Paul says .	look and usability
+C	956.76	Yeah .	look and usability
+B	957.77	So you have uh like a five seconds period to press those two buttons .	look and usability
+C	959.47	Yeah , but that's th mm Okay .	look and usability
+D	962.87	It's not a remote control uh uh that um uh makes the T_V_ um do one two .	look and usability
+D	969.62	It's the T_V_ who depends that it must be two seconds or three seconds or one second that you must uh type one or two .	look and usability
+B	975.67	So if you have a universal T_V_ controller , you needed one button that has two uh stripes .	look and usability
+C	976.47	Yeah .	look and usability
+C	981.43	Yeah .	look and usability
+B	981.7	So we have a a period of , I dunno , five seconds to press those buttons , and that And not for elderly people to look , one two uh press and aim and So I I don't think so .	look and usability
+C	986.84	Yeah .	look and usability
+A	993.22	But do we still need a two level remote control ?	look and usability
+A	995.92	Because if we only have that l only f No .	look and usability
+D	997.07	It's only for television now .	look and usability
+D	1000.19	No .	look and usability
+B	1000.45	Uh I just thought of another one .	look and usability
+B	1002.91	Most things in modern T_V_s are also on the menu .	look and usability
+A	1007.3	Yeah .	look and usability
+B	1007.65	So you also need a menu button .	look and usability
+B	1010.2	And then uh navigation uh But we can integrate that with volume and previous and next , so you have four arrows .	look and usability
+C	1014.77	Yeah .	look and usability
+C	1019.59	I I think you ha really have to divide between functions you often use , like um uh m maybe uh switch channels and uh volume and k that kind of things , and uh the menu button .	look and usability
+C	1033.26	Because you n almost never use menu button .	look and usability
+B	1036.29	Yeah , okay , but um Yeah , a mute button .	look and usability
+C	1036.63	So Okay .	look and usability
+A	1038.01	Maybe it's still still a good idea , I'm not sure .	look and usability
+A	1040.4	You'll also have to use a mute button to to Maybe , not I don't know where where you have to put it .	look and usability
+B	1044.52	Yes .	look and usability
+B	1045.49	Don't think so .	look and usability
+B	1049.36	Yeah well , that's that's I think that's the layers that produce .	look and usability
+B	1052.25	Now I have to figure out what's uh what to put on .	look and usability
+A	1055.06	Okay .	look and usability
+B	1055.17	What we're gonna use .	look and usability
+A	1055.41	Yeah .	look and usability
+A	1055.94	Yeah .	look and usability
+A	1056.16	That's right .	look and usability
+B	1056.49	And later we can d uh do the design .	look and usability
+B	1059.63	Okay , uh now my personal preferences .	look and usability
+B	1062.58	Uh using the standards , basic Um I think that we should stand out uh unique , being unique with the design .	look and usability
+B	1072.15	So we have to , I dunno , uh make a different shape than usual .	look and usability
+B	1076.08	So when you are in the shop and you see our T_V_ controller hanging , that it stands out .	look and usability
+B	1081.41	Not just in in the row when you see all the same uh remote controls .	look and usability
+A	1085.72	Yeah .	look and usability
+A	1086.79	Does it have to be Uh it has to be uh with different colours or It's like a iMac or something .	look and usability
+B	1086.82	Um I dunno .	look and usability
+B	1091.38	Different colours um Yeah .	look and usability
+D	1093.11	Maybe we can give it out in different colours .	look and usability
+D	1095.28	You can choose blue or yellow or That's fa That's fancy .	look and usability
+A	1097.78	Just to make it But it looks cheap as well , because it's a small thing .	look and usability
+C	1097.99	Mm-hmm .	look and usability
+B	1098.94	Well why not ?	look and usability
+B	1099.97	Or Yeah .	look and usability
+D	1101.29	That's uh fashion .	look and usability
+A	1104.43	It's only twenty five Euros .	look and usability
+A	1105.59	It looks very cheap if you make it Oh , you just I dunno what happened .	look and usability
+B	1107.4	Well , maybe you can look at uh mobile phones .	look and usability
+B	1110.95	Oh .	look and usability
+B	1112.9	Who ?	look and usability
+A	1117.33	Yeah , we have to look at mobile phones , that's right .	look and usability
+B	1118.75	They they're uh designed very well .	look and usability
+A	1119.06	Just Yeah .	look and usability
+B	1121.4	And well basically are the same , just a bit smaller .	look and usability
+B	1125.8	You think you can't make a T_V_ controller too small , 'cause then you will always lo always lose it .	look and usability
+A	1130.85	Yeah .	look and usability
+B	1132.01	But uh well , I think that's a good example .	look and usability
+D	1135.09	Okay .	look and usability
+A	1135.49	Okay , we hurry up a bit , because otherwise we won't make it .	interface specialist presentation
+B	1137.16	Okay , sorry .	interface specialist presentation
+A	1138.43	Is it fin Are you finished ?	interface specialist presentation
+B	1138.43	Well uh Yeah , I I'm finished .	interface specialist presentation
+A	1139.4	Okay .	interface specialist presentation
+B	1140.89	I think we discussed everything .	interface specialist presentation
+C	1153.19	Okay .	industrial designer presentation
+C	1155.48	Well , the working design .	industrial designer presentation
+C	1158.82	The method I used is uh search the web .	industrial designer presentation
+C	1161.61	Just the web page provided .	industrial designer presentation
+C	1165.01	Um Basically I'm I'm not very technical uh uh educated , but uh I could figure it out .	components, materials and energy sources
+C	1174.21	Um basically what happens is you press a button , uh then a circuit gets closed by pressing the button , uh like a switch .	components, materials and energy sources
+C	1184.66	And by closing that certain circuit , the chip knows uh what bu button is pressed .	components, materials and energy sources
+C	1190.55	So like you press a one , that circuit is closed and uh Then the chip produces a pattern .	components, materials and energy sources
+C	1199.73	Like a Morse code to uh And and sends that to the uh L_E_D_ .	components, materials and energy sources
+C	1206.95	That's the uh light emitting diode , I think .	components, materials and energy sources
+C	1212.52	Um and the light emitting diode is uh producing infrared light .	components, materials and energy sources
+C	1218.22	That's un uh invisible to the human eye .	components, materials and energy sources
+C	1223.25	And uh transmit that uh to the T_V_ .	components, materials and energy sources
+C	1228.28	However it has also an uh a visible uh diode that's uh blinking red if you look in it .	components, materials and energy sources
+D	1236.37	Mm-hmm .	components, materials and energy sources
+C	1236.79	And that's uh another diode , I believe .	components, materials and energy sources
+C	1240.41	Because infrared is not visible .	components, materials and energy sources
+C	1242.6	So that's er uh do two different things but Yeah .	components, materials and energy sources
+A	1245.63	So we we also have to have a LED li LED light on it ?	components, materials and energy sources
+C	1248.58	I I think so .	components, materials and energy sources
+B	1250.05	Uh j Is Ain't it just to to indicate that it's transmitting ?	components, materials and energy sources
+C	1250.1	I I'm not sure if it's the same thing .	components, materials and energy sources
+A	1251.34	Yeah , it's I think it's usable .	components, materials and energy sources
+D	1253.65	Yeah , that's active .	components, materials and energy sources
+A	1254.96	Yeah .	look and usability
+C	1255.16	Yeah .	look and usability
+B	1256.15	So Yeah .	look and usability
+A	1256.17	Or just a green one , because it's If you use it , it's green or the red , it's r green .	look and usability
+B	1260.83	Maybe uh Maybe depends on uh Yes .	look and usability
+D	1261.35	I I think it's in the case that it's active .	look and usability
+D	1263.3	It's not uh I it's it's just uh the the Mm .	look and usability
+C	1264.28	Yeah , when you press it .	look and usability
+A	1264.54	Yeah , that's right .	look and usability
+A	1264.98	But if you Red's l shows up like something's wrong , and green is like it's okay , you press the button .	look and usability
+C	1265.19	So Two ?	look and usability
+C	1272.92	Yeah , I dunno .	look and usability
+C	1274.56	Ma on on most on most uh uh remote controls it's red .	look and usability
+A	1278.51	Yeah , I know .	look and usability
+C	1278.57	So So I know .	look and usability
+D	1278.72	Yeah .	look and usability
+A	1279.31	Okay , we make it red .	look and usability
+B	1280.11	But maybe Well we don't have to make it red .	look and usability
+B	1282.21	Maybe integrate it in the design as well .	look and usability
+A	1285.12	You have to The whole the whole uh remote control becomes uh green if you press the buttons .	look and usability
+A	1290.74	Uh that's cool .	look and usability
+B	1291.49	Uh Oh , maybe it's it is would an e No .	look and usability
+C	1293.59	I I think uh the batteries will be uh a little Yeah , okay .	look and usability
+B	1295.05	Just uh Oh .	look and usability
+A	1297.09	No , we have a recharger in it , so If we can still make that then But it's cool if it was green .	look and usability
+D	1298.49	Empty .	look and usability
+C	1300.36	Uh maybe .	look and usability
+B	1302.61	Yeah , but it doesn't have to be red .	look and usability
+B	1304.5	It's just to indicate something's on .	look and usability
+D	1305.77	Yeah .	look and usability
+C	1306.74	Yeah .	look and usability
+C	1307.1	That it's working .	look and usability
+C	1307.81	That it's not not the batteries are low .	look and usability
+B	1308.12	Yeah .	look and usability
+B	1308.85	It's it's not very important , so yeah .	look and usability
+A	1310.22	Green or red or whatever , it is cool .	look and usability
+C	1311.39	Yeah , I know .	look and usability
+C	1312.45	Just to indicate it's working .	look and usability
+B	1313.6	So mm So we have to uh make buttons for that as well , to make it uh Okay .	look and usability
+C	1315.01	And uh the receptor in the T_V_ senses the pattern .	look and usability
+C	1317.72	So we have to understand what patterns are used to , you know , to make it universal .	look and usability
+C	1323.9	So that it can be used with all the T_V_s .	look and usability
+C	1327.1	We have to really understand what patterns are used , so we can uh o On the Otherwise it won't work .	look and usability
+C	1338.67	No .	look and usability
+C	1339.05	I I uh The chip um uh is producing the pattern .	look and usability
+C	1343.71	So we have to make a chip that produces patterns to , y you know , to Yeah .	look and usability
+D	1349.68	An automatically search function for each television , or something .	look and usability
+C	1350.36	That are working .	look and usability
+C	1353.4	Yeah , or I dunno how it's uh exactly how it works .	look and usability
+C	1356.42	It wasn't explained there .	look and usability
+B	1357.78	Well , I I use a universal uh remote control , and list of all the T_V_s you have , etcetera .	look and usability
+D	1358.12	Uh I kno Oh , I have a modern one .	look and usability
+B	1367.21	And you have to put in a number , so it works on your T_V_ .	look and usability
+C	1369.94	Yeah ?	look and usability
+C	1372.12	Okay .	look and usability
+D	1374.38	And the modern one you you uh you type uh search , and the LED began to blink blink blink .	look and usability
+D	1380.57	And uh uh uh after uh a short time the television turns off .	look and usability
+D	1385.69	And then you know , oh it it's the right one .	look and usability
+D	1387.28	And you can stop it , and then it's okay .	look and usability
+C	1388.99	Ah okay .	look and usability
+D	1389.38	So you don't have to search for your television or your code .	look and usability
+C	1392.39	Okay .	look and usability
+D	1392.8	It uh search uh the pattern for itself .	look and usability
+C	1396.16	Okay , yeah .	look and usability
+B	1396.19	Okay , so we use that .	look and usability
+C	1397.62	So it uh We have to make a a s a bit more intelligent chip than the standard one .	look and usability
+D	1402.11	Yes .	look and usability
+C	1402.13	Because you have to Yeah .	look and usability
+B	1402.77	Yep .	look and usability
+A	1404.57	I just say Can you s just say it again , because I was just looking There's just a short Yeah .	look and usability
+C	1408.28	Uh okay .	look and usability
+C	1409.41	Well uh y you have this chip .	look and usability
+C	1411.4	That's uh when the circuit is closed , it produces the pattern .	look and usability
+A	1413.75	Mm-hmm .	look and usability
+C	1415.63	But uh ma basically for uh brands of T_V_ these patterns are different .	look and usability
+C	1422.29	So like when you press a one on one T_V_ it go go to one .	look and usability
+C	1425.96	And on the other T_V_ it won't work , basically .	look and usability
+C	1428.9	So uh basically what you have to do is uh get these patterns right .	look and usability
+A	1434.25	Yeah .	look and usability
+C	1434.97	And uh by d uh that can be done by uh just uh cha yeah , changing this pattern all the time .	look and usability
+D	1440.54	Changing the signal .	look and usability
+C	1444.01	And um What he's doing when he's configuring this pattern , this chip , uh is trying to switch off the television .	look and usability
+C	1453.69	And when it's uh switched off , you can push a button as uh it's working now , so And then he saves that setting and then um it's working .	look and usability
+A	1461.43	Okay .	look and usability
+A	1461.97	Yeah .	look and usability
+D	1464.22	Yeah , that's the right uh option .	look and usability
+C	1465.36	Okay .	components, materials and energy sources
+C	1467.69	Well uh the components .	components, materials and energy sources
+C	1470.66	Yeah , that's a bit technical , and I hadn't I w I was a little short on time .	components, materials and energy sources
+C	1476.51	Um but I think I understand it .	components, materials and energy sources
+C	1479.9	Um the energy source is uh the battery , basically .	components, materials and energy sources
+A	1484.36	Yeah .	components, materials and energy sources
+C	1485.16	Um that's connecting to all the components .	components, materials and energy sources
+C	1490.18	Because it has to be fed with energy .	components, materials and energy sources
+C	1494.25	Okay .	components, materials and energy sources
+C	1494.7	Uh the subcomponent is uh w I I think it is uh the button pressed .	components, materials and energy sources
+C	1501.84	So basically when you press a button , a switch get closed .	components, materials and energy sources
+C	1506.64	Um that's connecting to a chip .	components, materials and energy sources
+C	1509.35	So the chip knows what button you pressed .	components, materials and energy sources
+C	1513.28	And the chip sends out uh the pattern to the infrared bulb .	components, materials and energy sources
+C	1518.26	I didn didn't put the description by this one .	components, materials and energy sources
+C	1520.67	Th this is a normal bulb .	components, materials and energy sources
+C	1522.01	So the normal flashing light .	components, materials and energy sources
+A	1524.7	Okay .	components, materials and energy sources
+A	1525.23	So that's the LED , L_E_D_ .	components, materials and energy sources
+C	1526.22	Yeah .	components, materials and energy sources
+C	1526.81	Yeah , and this is a LED too .	components, materials and energy sources
+C	1528.11	But this one is producing infrared light that's invisible .	components, materials and energy sources
+A	1530.75	Yeah , okay .	components, materials and energy sources
+C	1531.79	And this one is producing normal light .	components, materials and energy sources
+A	1533.86	So we can make the normal one also a normal light .	components, materials and energy sources
+A	1536.69	Not a LED light , but as a normal one .	components, materials and energy sources
+C	1539.44	Yeah Yeah , presu Yeah yeah yeah .	components, materials and energy sources
+A	1539.88	To flash up your Yeah .	components, materials and energy sources
+D	1541.47	Uh if you if you use the buttons , uh both of them works .	components, materials and energy sources
+D	1544.88	But one you can't see and one indicates that you use a button .	components, materials and energy sources
+C	1550.69	Because uh when you button press a button and it doesn't work , it can Basically if the battery is low , it won't work .	components, materials and energy sources
+D	1556.97	Yeah .	components, materials and energy sources
+D	1558.0	Yeah , and Mm I think it's unnecessary power uh you use then .	look and usability components, materials and energy sources
+C	1558.15	So you have to indicate that it's Huh , that's a good idea .	look and usability components, materials and energy sources
+A	1559.98	Maybe you have to uh put uh a small light around the button you push .	look and usability
+A	1564.04	So you see green if you push that button .	look and usability
+A	1570.3	Yeah , but if you u if you do that , you know that you're uh sending a signal .	look and usability
+B	1570.89	No , y Yeah .	look and usability
+D	1573.58	Okay .	look and usability
+A	1574.63	And it's you also know which button you p Yeah , that's right .	look and usability
+D	1575.25	But then have to be on the in the all uh remote control have to be LEDs .	look and usability
+A	1580.31	But it But does it make any difference for the energy you use ?	look and usability
+D	1580.37	Everywhere in the r Is LEDs uh beneath the the buttons ?	look and usability
+A	1585.65	You got still one LED .	look and usability
+B	1585.79	No I don't think so , but Yeah , i it it will look different , and I think we need to find something else .	look and usability
+A	1591.91	That looks different , yeah .	look and usability
+B	1592.82	Yeah .	look and usability
+C	1593.54	Hmm .	look and usability
+B	1594.11	'Cause otherwise we will just make another standard , and our uh motto also is Yeah , w around the buttons , or in the buttons even .	look and usability
+D	1605.63	Yeah , okay .	look and usability
+C	1607.3	Yeah , but mm like when you push it n n Yeah .	look and usability
+B	1609.65	Yeah , then then won't Then you won't see it .	look and usability
+C	1611.29	You have your finger over the button .	look and usability
+C	1613.02	So you can see Yeah .	look and usability
+D	1613.98	It must be around it then .	look and usability
+C	1615.87	Or or m maybe on top of the A green light is flashing or Yeah .	look and usability
+D	1619.05	Yeah , then Yeah .	look and usability
+D	1619.78	Not not not not here , but here .	look and usability
+C	1623.71	There .	look and usability
+C	1624.04	Yeah .	look and usability
+D	1626.43	Maybe uh Okay .	look and usability
+A	1627.47	The same as a telephone , or a mobile phone , or what do you mean ?	look and usability
+B	1629.61	Yeah , we're thinking about it .	look and usability
+B	1630.74	Uh on a mobile phone , in the dark uh everything lights up .	look and usability
+A	1631.07	If you push It lights up .	look and usability
+A	1633.34	Everything lights up .	look and usability
+A	1634.11	That's a good idea .	look and usability
+C	1634.94	Yeah .	look and usability
+B	1634.99	Why ain't that on a remote control ?	look and usability
+A	1636.12	It it only takes a l a little energy and it's not that much .	look and usability
+B	1638.37	Yeah , if uh a mobile phone a phone can do it , it's Yeah , i if you're in the dark , you can't see the remote .	look and usability
+C	1641.28	Yeah .	look and usability
+A	1641.38	It's f Yeah .	look and usability
+A	1641.96	Maybe that's a good idea for old people as well .	look and usability
+C	1644.34	Mm-hmm .	look and usability
+A	1647.06	It's only few LEDs .	look and usability
+C	1647.23	Yeah .	look and usability
+A	1648.06	Only four or something .	look and usability
+A	1649.75	Four LED .	look and usability
+B	1650.88	No , I dunno .	look and usability
+B	1651.5	But if we use a battery station , which I think we will use Yep .	look and usability
+D	1656.02	Yeah , I uh Yeah .	look and usability
+A	1656.79	Yeah , that's a good idea , okay .	look and usability
+C	1657.8	Yeah .	look and usability
+C	1658.13	We'll have enough power to Yeah .	look and usability
+A	1659.9	Everything agre Everyone agrees with that , or Okay .	look and usability
+D	1664.01	Maybe what Paul said , uh under the on the on the home station , uh a button to uh to call your uh remote control , that it beeps .	look and usability
+A	1665.89	Yeah , and then you Okay , yeah .	look and usability
+B	1672.39	And also it's Okay , it shouldn't take much Uh I th I think uh you also have uh remote controls with a lot of options .	look and usability
+A	1672.68	But you have to make a sound device in it then .	look and usability
+D	1674.86	Yeah , there must be sound in it .	look and usability
+C	1676.69	Hmm .	look and usability
+A	1676.85	But Yeah .	look and usability
+D	1678.0	I dunno .	look and usability
+C	1679.05	Yeah .	look and usability
+C	1679.26	B maybe it's that that's a little too hard to make .	look and usability
+C	1683.62	Especially for that kind of money .	look and usability
+C	1685.21	Because it's i it has to be Yeah .	look and usability
+D	1685.44	Mm uh , twenty five Euros , I think we can make it .	look and usability
+C	1687.69	Production cost is uh t uh twelve and a half .	look and usability
+D	1688.44	Bec Twelve and a half , okay .	look and usability
+D	1690.79	But but we only have to make it for television , and um we must have something special .	look and usability
+C	1693.49	Yeah , okay .	look and usability
+D	1696.19	So Uh .	look and usability
+B	1700.91	But we lose about ninety percent of those options .	look and usability
+B	1704.85	So I think you can uh Yeah .	look and usability
+D	1706.94	We have to give our customers some extras .	look and usability
+C	1710.21	Yeah , okay .	look and usability
+B	1710.45	I think we will save money with that .	look and usability
+A	1712.76	Okay .	look and usability
+A	1713.03	Are you almost finished or just Okay .	look and usability
+C	1714.77	Yeah , the the personal preference , I didn't fill it out .	look and usability
+C	1717.87	Because I was short on time .	look and usability
+A	1718.69	Okay .	look and usability
+A	1719.2	No worry .	look and usability
+C	1719.78	But um Basically what we could do too is uh have a Bluetooth uh integration .	look and usability
+A	1727.72	Yeah , I just want to talk some about some more .	industrial designer presentation
+A	1729.47	So maybe you have to Yeah ?	industrial designer presentation
+C	1730.19	Yeah ?	industrial designer presentation
+C	1730.65	Okay .	industrial designer presentation
+A	1730.95	Okay .	industrial designer presentation
+A	1742.85	So this Oh , sorry .	new requirements
+A	1745.7	Wh what's that ?	new requirements
+A	1752.42	So uh Oh , sorry .	new requirements
+A	1755.09	We have some new uh project requirements .	new requirements
+A	1756.85	We have to have a look what they are .	new requirements
+A	1757.85	They're still in um Uh teletext has become outdated since the popularity of internet .	new requirements
+A	1767.38	So a teletext option , maybe we have to skip that one .	new requirements
+A	1771.56	I'm not sure .	new requirements
+A	1772.19	I don't think so , but Yeah , and it's it's on your comp it's on your television .	new requirements
+C	1772.33	No , and I I think a lot of people use uh teletext , still use .	new requirements
+D	1772.53	No .	new requirements
+A	1777.04	It's only one button .	new requirements
+A	1777.91	So I don't think it is We definitely should use it .	new requirements
+D	1778.2	Uh .	new requirements
+B	1778.42	Yeah .	new requirements
+C	1779.06	Hmm .	new requirements
+A	1781.03	Um Yeah , that's uh what I told you .	new requirements
+A	1784.29	The remote control should only be used for a television .	new requirements
+A	1786.39	So that's maybe easier .	new requirements
+A	1789.0	And um the the forty plus people , I already told you .	new requirements
+A	1796.83	Oh no , sorry .	new requirements
+A	1797.51	Oh , this is a problem .	new requirements
+A	1798.53	Oh sorry about that .	new requirements
+A	1800.8	The new product should reach a new market with customers are the younger than forty .	new requirements
+A	1805.21	So it should be flashy or just more interesting .	new requirements
+D	1807.16	Okay .	new requirements
+C	1807.24	Oh .	new requirements
+B	1808.28	Okay , that's It changes things .	new requirements
+C	1808.4	Mm .	new requirements
+A	1809.13	I'm sorry about that .	new requirements
+A	1809.75	I just I just didn't read it well .	new requirements
+A	1812.88	So does it make some decision about that ?	look and usability
+D	1814.82	Changes .	look and usability
+B	1816.97	Um Well yeah , then we have to make some nice features .	look and usability
+C	1817.2	Yeah .	look and usability
+C	1817.52	That kinda changes the whole situation .	look and usability
+D	1818.42	Uh L_C_D_ doesn't work for uh twelve and a half Euros I think .	look and usability
+B	1823.48	I think uh the thing in the dark is a good way , to make it more like a mobile phone .	look and usability
+A	1828.49	That still stays .	look and usability
+A	1830.5	Yeah .	look and usability
+B	1830.62	More modern .	look and usability
+C	1831.71	Yeah .	look and usability
+B	1832.94	That's important I think and And I d I don't don't think it's very usable in a remote control , especially when you only have T_V_ functions on it .	look and usability
+D	1843.79	Oh .	look and usability
+A	1845.63	Yeah .	look and usability
+C	1845.72	Mm ah I I don't y you'll use it often , because you can see on the television wh what channel you No .	look and usability
+B	1845.97	So Yeah , I tho I think that's not usable .	look and usability
+D	1851.81	Oh , I'm watching uh the channel one .	look and usability
+D	1854.7	Okay .	look and usability
+D	1856.09	No , it's not But uh some of you had uh something to read about um uh speech uh recognition .	look and usability
+B	1859.47	So , but uh Yeah .	look and usability
+B	1861.26	What other features can we put in ?	look and usability
+C	1864.23	Yeah .	look and usability
+C	1865.62	I think you you have to make it a bit flashy and and popular .	look and usability
+C	1871.44	And uh then the usability is not that required , because the Like in the mobile phones , usability is not that good I think .	look and usability
+D	1885.94	About you said one and the television turns on one .	look and usability
+D	1888.55	Is that reachable maybe ?	look and usability
+D	1890.8	That's very That's fancy .	look and usability
+C	1891.14	I didn't read I didn't read any b Yeah .	look and usability
+D	1892.1	That's cool .	look and usability
+B	1892.82	It's very fashion .	look and usability
+D	1893.38	Twelve and you've got twelve .	look and usability
+C	1895.31	Yeah okay .	look and usability
+B	1896.8	Mm .	look and usability
+D	1896.84	Only the numbers , only numbers .	look and usability
+C	1897.06	I I know .	look and usability
+D	1898.42	Uh furthermore nothing .	look and usability
+D	1899.36	But only the numbers , one to twenty or something .	look and usability
+C	1902.33	Mm .	look and usability
+D	1902.49	That should be cool .	look and usability
+A	1903.44	Yeah , maybe we have to integrate that as well .	look and usability
+A	1906.37	If it's possible .	look and usability
+D	1907.39	If it's possible , I dunno .	look and usability
+A	1907.69	But I don't think it's very expensive actually .	look and usability
+C	1908.29	Yeah , I don't know .	look and usability
+D	1908.64	I didn't read it .	look and usability
+B	1909.61	Mm .	look and usability
+A	1911.04	Why should it ?	look and usability
+D	1911.55	Uh if i if i I didn't have information about that .	look and usability
+B	1911.59	Yeah , I think it's What But uh I dunno how that works then .	look and usability
+A	1912.14	You only have a microphone in it .	look and usability
+C	1913.63	Yeah .	look and usability
+C	1914.46	But it has to work .	look and usability
+C	1915.69	And and and does it have to work only in English , or in Dutch too or And and uh w Yeah ?	look and usability
+A	1919.54	Nah , maybe Maybe maybe it's too hard to uh to realise that .	look and usability
+D	1920.33	Ah that's a problem , but Uh only in English .	look and usability
+D	1924.12	Only in English I think .	look and usability
+B	1926.29	Uh does your uh Does it lie in the centre of the room and can you scream from wherever uh one to have in channel one ?	look and usability
+C	1927.66	Yeah , it's probably my job to figure that out , but And and do you have to speak in in like in a thing or Yeah , I dunno .	look and usability
+D	1933.02	No , that Yeah , then th we have to think about that .	look and usability
+D	1936.35	But do do we do it ?	look and usability
+D	1937.81	It's more if we if we do it .	look and usability
+B	1938.11	Yeah , I dunno .	look and usability
+B	1938.94	So , is it very usable ?	look and usability
+B	1941.02	That's what I'm looking at .	look and usability
+D	1944.85	Yeah .	look and usability
+B	1946.53	Is Mm Yeah well It's I d Yeah .	look and usability
+A	1949.02	It We have short time to to put it on the market , so that We have to do a lot of testing before we can do that .	look and usability
+D	1952.44	Okay .	look and usability
+C	1955.78	Yeah , I think so .	look and usability
+A	1956.95	We make uh make uh , we can make th th the new remote control very flashy .	look and usability
+D	1956.97	Yeah , and uh and uh In uh indeed uh the languages are a difficult thing .	look and usability
+D	1962.64	Uh because we we have a lot of languages .	look and usability
+A	1963.34	Yeah .	look and usability
+B	1964.44	I don't think it's uh useful enough to take the effort to design something with uh speech recognition .	look and usability
+C	1964.92	And and Yeah , and also if if you have a good speech uh speech recognition , you can just throw the uh the remote away .	look and usability
+A	1972.55	Yeah .	look and usability
+A	1972.93	I think so .	look and usability
+D	1977.52	Yeah .	look and usability
+D	1979.2	A uh someone says that uh give me one Coke , and the T_V_ turns uh to one .	look and usability
+C	1982.52	Mm .	look and usability
+C	1983.27	Hmm .	look and usability
+C	1984.17	Mm .	look and usability
+D	1984.33	Yeah , it's not uh Okay , but th that becomes your f Uh uh because that's very hard for uh speech recognition .	look and usability
+B	1984.86	Yeah .	look and usability
+C	1985.1	Yeah , okay .	look and usability
+B	1985.28	Well yeah , that's the right command .	look and usability
+B	1986.6	And then you have to say uh T_V_ channel one , or something .	look and usability
+C	1986.61	But Hmm yeah , T_V_ one .	look and usability
+B	1990.89	Not just one , but Well I dunno .	look and usability
+C	1998.61	Yeah .	look and usability
+B	1999.05	But I don't think , it just ain't useful enough .	look and usability
+D	2002.7	Mm-hmm .	look and usability
+A	2003.11	So we have to make some decisions .	look and usability
+A	2004.52	So you can see on the uh So we have to know what we're going to put on .	look and usability
+D	2004.81	Okay , no speech recognition .	look and usability
+A	2009.65	Do we , do we make uh a light under the under the n under the numbers and everything ?	look and usability
+A	2014.13	Do If you press something , it lights up for a few seconds , so you can see what other but buttons there are , okay ?	look and usability
+B	2014.13	Yeah , I think so .	look and usability
+C	2020.61	Yeah , that's good .	look and usability
+B	2021.41	Yep .	look and usability
+A	2021.55	Okay , we just take that one .	look and usability
+A	2023.67	And what else , we have Yeah , but it's Oh th I thought would , that that would be the same .	look and usability
+B	2024.76	Also the one in the dark .	look and usability
+B	2026.14	So uh It lights up when it's dark ?	look and usability
+B	2029.76	I didn't Okay .	look and usability
+A	2032.45	If you push something , it it all lights up .	look and usability
+D	2033.13	Yeah .	look and usability
+D	2033.75	Yeah yeah , it it mustn't work all the time .	look and usability
+B	2033.91	Yeah , but um Yes , that's what I mean .	look and usability
+D	2036.44	It uh uh it have to work only when you use it .	look and usability
+D	2038.96	So if you No , if you use one button , it must turn uh on for twenty seconds , and then it must turn off .	look and usability
+A	2039.26	Or you can switch it on or something .	look and usability
+B	2041.08	Or maybe when you yeah .	look and usability
+B	2043.5	It lights up all .	look and usability
+A	2044.56	Yeah , that's right .	look and usability
+A	2045.27	You have to Yeah , that's right .	look and usability
+A	2046.52	That's what I said .	look and usability
+B	2046.82	Okay yeah .	look and usability
+A	2047.04	It's the same as the telephone .	look and usability
+B	2047.32	D Yeah , alright .	look and usability
+A	2048.46	Yeah .	look and usability
+B	2048.83	Yeah .	look and usability
+A	2051.25	And do we use a a Uh what's it called ?	look and usability
+A	2055.23	Like a iMac , if you can look through it .	look and usability
+A	2058.59	Or just a normal remote control .	look and usability
+B	2060.52	Maybe just as an option , w like we discussed , like iPod .	look and usability
+C	2060.55	Mm , maybe it's a good idea .	look and usability
+B	2064.45	Different colours , uh maybe use even different fonts .	look and usability
+A	2067.72	Yeah .	look and usability
+D	2067.74	Oh yeah .	look and usability
+B	2068.2	Like uh phones .	look and usability
+A	2069.54	Different colours .	look and usability
+A	2070.25	Okay , so y you just make it th through You look through it ?	look and usability
+C	2070.54	Hmm .	look and usability
+D	2070.86	A see-through .	look and usability
+D	2072.05	Mm , that's cool .	look and usability
+B	2072.54	Yeah .	look and usability
+B	2073.08	Uh as an option maybe .	look and usability
+A	2073.09	Okay .	look and usability
+A	2075.39	And so the buttons we have , this is , yeah , this is normal .	look and usability
+A	2078.85	We put in the the simple buttons on the top , and probably the the the more complicated buttons down there .	look and usability
+B	2079.44	It's the standard Yeah , uh Yeah , we but we don't We don't really have any complicated buttons .	look and usability
+D	2083.48	But you have You had a lot of different buttons .	look and usability
+C	2086.05	Hmm .	look and usability
+A	2086.91	Yeah , maybe you have you have to Uh when you use teletec teletext , you can press a green or a red button to go to the next one , or to go to the previous one .	look and usability
+B	2093.82	Yeah okay , but Yeah , well w I think the buttons are very easy .	look and usability
+B	2098.98	With just uh standard buttons we just have so little No , I don't need don't need Uh teletext options are only four buttons or something .	look and usability
+A	2101.7	O but maybe you can put um the g the options of teletext on the second level of the remote control .	look and usability
+A	2107.82	Because you ne almost never use it .	look and usability
+C	2113.67	Yeah , but younger people I think um more often use the internet and elderly people often use teletext .	look and usability
+A	2122.71	Yeah , that's right .	look and usability
+C	2122.79	So uh Hmm .	look and usability
+B	2122.9	I use teletext as well .	look and usability
+D	2123.04	No , I use te teletext every day , I think .	look and usability
+C	2126.28	Okay .	look and usability
+A	2126.44	Yeah .	look and usability
+A	2126.93	For me too , it is .	look and usability
+A	2128.57	So we just keep it one level then ?	look and usability
+B	2130.21	Yeah yeah , one level .	look and usability
+A	2130.62	Okay .	look and usability
+D	2130.85	Mm .	look and usability
+B	2131.13	And I think , uh 'cause um we don't have that many buttons , I think the design is most important .	look and usability
+C	2136.99	Yeah .	look and usability
+B	2137.03	You can d uh integrate the buttons in the design very much .	look and usability
+A	2140.78	Yeah .	look and usability
+B	2140.9	'Cause simple buttons .	look and usability
+B	2142.16	If you put one above it , it's clear .	look and usability
+A	2142.47	Okay .	look and usability
+A	2144.36	Okay .	look and usability
+A	2146.77	So that's it for toda for We're going to have a lunch lunch break .	closing
+A	2153.87	Um So yeah , you know what you have to do .	closing
+B	2156.67	How long is lunch break ?	closing
+A	2161.13	This is uh this is it .	closing
+A	2163.58	You get your meal and everything , so Yeah .	closing
+D	2165.32	Trendwatching .	closing
+D	2166.4	Okay .	closing
+D	2167.76	That's fine .	closing
+D	2175.89	Yo .	closing
+A	2179.9	So , we're finished for t for this time .	closing
+A	2182.06	We're going to have some lunch .	closing
+B	2183.37	Okay .	closing
+B	2193.37	Bye .	closing
+A	2203.1	Yeah .	closing
+C	2203.12	Yeah .	closing
+D	2207.82	Mm .	closing
+D	2208.89	Uh .	closing

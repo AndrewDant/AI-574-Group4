@@ -1,0 +1,615 @@
+D	0	.	NO_TOPIC
+A	64.98	'Kay .	opening
+A	67.57	Hmm .	opening
+A	69.49	Okay everybody .	opening
+A	70.62	Welcome to the detailed design meeting .	opening
+A	74.03	Um Let's see .	opening
+A	77.08	Our agenda .	opening
+A	78.86	Last time we discussed the squishy fruitiness of our remote controls and how we might pursue that .	opening
+A	87.36	Um and I think looks like we've come up with some ideas .	opening
+A	91.6	Um and we also talked about materials we'd use and what kind of chip would be necessary .	opening
+A	98.76	Um so for later in the meeting I've done a a spreadsheet of production costs so we'll take a look at that .	opening
+A	107.29	Um and see if it's changed at all from when we last discussed it .	opening
+A	112.93	Um so actually I think Yeah um f you guys wanna give a prototype presentation of Oh is that broccoli ?	look and usability presentation of prototype(s)
+B	129.31	Okay well um .	look and usability
+B	132.87	So our design looks something like this .	look and usability
+B	135.77	This being the wheel that you use to uh change channels or volume or whatever .	look and usability
+B	140.34	This is a button , serves as the power button if you hold it down , and if you just tap on it I think it brings up the menu .	look and usability
+B	148.82	And uh the base of the remote control , which has a squishy spongy rubbery feel , is interchangeable .	look and usability
+B	154.94	So you can change the colour , according to your to suit your living room or whatever .	look and usability
+B	159.6	And it comes yeah , I can change the vegetable .	look and usability
+C	159.62	You could change the vegetable , or fruit .	look and usability
+B	163.2	This one's broccoli .	look and usability
+C	163.29	Yeah .	look and usability
+B	165.11	So this snaps off and you can put on whichever one you want .	look and usability
+B	167.98	This is not to scale 'cause it would have the battery inside it .	look and usability
+B	171.6	This is a mango .	look and usability
+B	172.7	The it's trendy fruit , it's not just ordinary fruits .	look and usability
+B	174.81	You don't have orange , you have mango .	look and usability
+B	177.11	Um I guess strawberry's not as trendy , but So we'll come up with a variety of trendy and exciting fruit designs for the remote control .	look and usability
+A	179.0	'S a very bright strawberry .	look and usability
+C	189.7	It's been a l It's been a little bit difficult to um make sure that it's hand-holdable , and that the user can use it , you know , it's not too big .	look and usability
+B	189.74	And then people will be encouraged to buy three or five of them , because they'll need to switch 'em out .	look and usability
+C	203.8	Uh but we think that this you know , this size will be okay and we will have to fit the battery case in there somehow .	look and usability
+B	212.42	Mm-hmm .	look and usability
+A	213.13	Oh yeah .	look and usability components, materials and energy sources
+C	213.21	And I guess the only other thing that we really didn't talk about was or design yet actually , would be the um thing the locator .	components, materials and energy sources
+C	223.32	How how so Okay so that's just So you have to have a button on your on your you have to attach the button to the Yeah we have that that has yes yet to be designed .	components, materials and energy sources
+B	224.35	Well the locator is just chip that's inside there .	components, materials and energy sources
+B	227.61	And the beeper's also inside there too somewhere .	components, materials and energy sources
+B	233.81	Yeah we didn't design that .	components, materials and energy sources
+B	236.45	But it would be coordinating with that of course .	components, materials and energy sources
+C	238.56	Yeah that c hey that that could you know match the handset .	components, materials and energy sources
+A	239.22	Yeah .	components, materials and energy sources
+B	241.88	Mm-hmm .	components, materials and energy sources
+C	243.24	You could have a broccoli , or you could have a mango .	components, materials and energy sources
+C	247.39	So .	presentation of prototype(s)
+C	248.2	Tada .	presentation of prototype(s)
+A	248.58	Oh .	presentation of prototype(s)
+A	250.76	Um if you wanna look in your project documents folder , there's an Excel spreadsheet .	costing
+A	260.83	Um the only one that's in there , production costs .	costing
+A	265.34	And if you open it up .	costing
+A	267.03	Um I've just stuck the numbers in , it was a real challenge there .	costing
+A	271.31	But if I missed anything that we've gone over , or if you see something that has changed I mean , we decided on batteries , and the regular chip would be necessary for the more advanced iPod-like button .	costing
+A	290.98	Um I said uncurved or flat .	costing
+A	295.01	I think that's what you have there , is that right ?	costing
+A	297.26	For the for the plastic part would be Oh .	costing
+B	298.82	My impression was that flat meant like like one of those square remotes .	costing
+B	303.51	But it's really not very clear , because you got single curve and double curve and d I dunno what that means .	costing
+A	304.48	Okay .	costing
+A	307.31	Right .	costing
+B	310.03	One side is curved and then the other side is curved .	costing
+A	314.06	Well yeah .	costing
+A	315.5	If we're talking about the area just oh I d I dunno .	costing
+A	320.75	I guess we'd have to contact the company that makes them and see .	costing
+A	327.03	Um so what else ?	costing
+A	328.93	There's plastic for that area around the button .	costing
+A	333.14	Um and then rubber would be the squishy like thing right ?	costing
+B	336.45	Mm-hmm .	costing
+A	337.76	Um and lots of special colours actually .	costing
+A	343.58	Uh scroll wheel .	costing
+A	344.81	Do you see anything that I've missed ?	costing
+B	347.07	No I think that's alright .	costing
+A	348.99	Okay so that would make our total of eleven point nine , which is even less than twelve point five , which means we'd be making even more of a profit .	costing
+A	359.53	And if we sold a lot of squishy things .	costing
+C	361.59	Mm .	costing
+A	362.56	Boo yeah .	costing
+A	365.5	Okay .	evaluation of prototype(s)
+A	369.83	S So Mm .	evaluation of prototype(s)
+A	388.13	Did y what did you work on ?	evaluation of prototype(s)
+A	389.73	The Okay .	evaluation of prototype(s)
+D	389.99	Um evaluation criteria .	evaluation of prototype(s)
+A	392.96	Do you wanna Okay .	evaluation of prototype(s)
+D	393.3	I've got a presentation .	evaluation of prototype(s)
+A	396.61	I think that's Huh , the PowerPoint one ?	evaluation of prototype(s)
+D	396.8	So I need where's the cable ?	evaluation of prototype(s)
+D	409.28	Right what happens is we have to um decide whether this this whole this whole project we've been working on actually um meets the standards we were set at the start .	evaluation of prototype(s)
+D	426.91	Um .	evaluation of prototype(s)
+D	429.65	Right .	evaluation of prototype(s)
+D	431.09	This doesn't okay .	evaluation of prototype(s)
+D	433.01	Um the method is we well I've analysed the user requirements and integrated them to the trends found in marketing reports and in our company strategy marketing .	evaluation of prototype(s)
+D	445.84	And um the findings were that we need it to look in a certain way , feel in a certain way , and this is everything's listed down .	evaluation of prototype(s)
+D	455.29	Um , look in a certain way , feel in a certain way , it has to be technologically innovative and it has to be easy to use .	evaluation of prototype(s)
+D	463.3	These are all things we looked at at the start , um and criteria that have to be met .	evaluation of prototype(s)
+D	468.37	We have to use a table , I'll show you that later , together to decide whether it meets the standards .	evaluation of prototype(s)
+D	475.46	And we we have therefore in total um We have five we have eleven points according to which this should be evaluated .	evaluation of prototype(s)
+D	489.79	And um the cri well basically the findings are the same as the evaluation criteria .	evaluation of prototype(s)
+D	496.14	I would like to show you the table we have to use .	evaluation of prototype(s)
+D	499.77	Um .	evaluation of prototype(s)
+D	501.97	No .	evaluation of prototype(s)
+D	504.29	This is the table .	evaluation of prototype(s)
+D	505.26	Can you see this here ?	evaluation of prototype(s)
+B	506.65	Mm-hmm .	evaluation of prototype(s)
+D	507.35	Um so the que the questions I've given you c could you write that down ?	evaluation of prototype(s)
+D	512.24	True is one and and false is seven .	evaluation of prototype(s)
+D	515.19	And we'll just go through each point together , hopefully .	evaluation of prototype(s)
+D	522.58	Um .	evaluation of prototype(s)
+D	526.86	I think if each of us gives an opinion then they can be mixed somehow .	evaluation of prototype(s)
+D	530.6	I dunno how it works exactly , I haven't been told .	evaluation of prototype(s)
+C	532.21	Yeah .	evaluation of prototype(s)
+C	533.91	Is it possible that we can bring this up on our own Is it meeting three minutes ?	evaluation of prototype(s)
+D	537.22	Yeah it's in the um it's in the project documents .	evaluation of prototype(s)
+C	543.22	No it's not minutes .	evaluation of prototype(s)
+D	543.73	It's called evaluation criteria .	evaluation of prototype(s)
+C	546.32	Okay .	evaluation of prototype(s)
+D	548.26	And it's under evaluation .	evaluation of prototype(s)
+B	553.72	Hmm ?	evaluation of prototype(s)
+D	554.72	Yeah .	evaluation of prototype(s)
+C	555.04	Okay .	evaluation of prototype(s)
+C	555.52	Cool .	evaluation of prototype(s)
+D	556.54	You've found it all ?	evaluation of prototype(s)
+A	557.51	Yeah .	evaluation of prototype(s)
+D	564.27	So it was um Yeah true's one .	evaluation of prototype(s)
+C	574.19	True's one and false is seven .	evaluation of prototype(s)
+D	575.64	Do you want us to discuss this together or do you want us to do it singly ?	evaluation of prototype(s)
+A	579.39	Um we can do it separately and then discuss it if if that's what people wanna do .	evaluation of prototype(s)
+D	581.24	Yeah okay .	evaluation of prototype(s)
+C	590.47	So it's actually a scale .	evaluation of prototype(s)
+A	592.33	Wait , one is true and so these are the questions we're answering .	evaluation of prototype(s)
+D	596.34	Um , yes it's if it's fancy you put one , if it's really unfancy it's seven .	evaluation of prototype(s)
+A	598.8	And one is One , right okay .	evaluation of prototype(s)
+A	603.99	If it's somewhere in between you put four .	evaluation of prototype(s)
+D	605.85	Yeah , something .	evaluation of prototype(s)
+C	606.79	Okay .	evaluation of prototype(s)
+A	607.25	Okay .	evaluation of prototype(s)
+C	661.53	Does it feel fancy ?	evaluation of prototype(s)
+B	663.95	Feels like play-dough .	evaluation of prototype(s)
+C	666.27	No .	evaluation of prototype(s)
+D	678.6	They shouldn't really be questions .	evaluation of prototype(s)
+D	680.64	Should be more like Are the batteries easy to insert ?	evaluation of prototype(s)
+B	716.06	I'm gonna say yes .	evaluation of prototype(s)
+D	717.63	Yes ?	evaluation of prototype(s)
+D	718.19	Very very true .	evaluation of prototype(s)
+D	719.76	Okay .	evaluation of prototype(s)
+B	719.83	I imagine they're somewhere on the front .	evaluation of prototype(s)
+B	721.37	We have a little case that you slip 'em in .	evaluation of prototype(s)
+D	723.76	Okay .	evaluation of prototype(s)
+A	785.28	Are we just about ready ?	evaluation of prototype(s)
+D	788.28	Apparently I'm supposed to use the whiteboard .	evaluation of prototype(s)
+D	791.24	Do we um is it necessary ?	evaluation of prototype(s)
+A	794.45	I don't think so .	evaluation of prototype(s)
+A	796.02	It's yeah the the marker thing kinda stopped working last time we Our animals will forever be there .	evaluation of prototype(s)
+D	796.1	We'll just do um Yeah .	evaluation of prototype(s)
+C	799.9	Yeah .	evaluation of prototype(s)
+C	801.22	Okay .	evaluation of prototype(s)
+D	802.18	Okay .	evaluation of prototype(s)
+A	805.09	Un unless you feel you need it t to okay okay .	evaluation of prototype(s)
+D	807.92	I don't feel any right um Right so one point one ?	evaluation of prototype(s)
+A	809.71	We'll Five .	evaluation of prototype(s)
+D	815.65	We'll just go in a circle .	evaluation of prototype(s)
+C	817.15	One .	evaluation of prototype(s)
+B	817.39	'Kay Five .	evaluation of prototype(s)
+D	818.71	Right .	evaluation of prototype(s)
+D	819.31	Ooh I don't know .	evaluation of prototype(s)
+D	821.22	Right .	evaluation of prototype(s)
+D	822.4	One ?	evaluation of prototype(s)
+B	823.44	Five .	evaluation of prototype(s)
+D	825.85	Five .	evaluation of prototype(s)
+D	827.39	Two .	evaluation of prototype(s)
+D	828.41	Okay so do we just add it up and divide it by four ?	evaluation of prototype(s)
+D	831.31	Is that what the company does ?	evaluation of prototype(s)
+A	833.39	I I think we should Yeah .	evaluation of prototype(s)
+B	834.92	It's four if you wanna do that .	evaluation of prototype(s)
+D	837.06	Yeah ?	evaluation of prototype(s)
+B	837.42	It adds to sixteen , so that's four .	evaluation of prototype(s)
+A	837.58	Yeah .	evaluation of prototype(s)
+D	841.0	Oh no .	evaluation of prototype(s)
+D	841.54	It adds to thirteen .	evaluation of prototype(s)
+D	843.42	One five five two .	evaluation of prototype(s)
+B	845.04	Oh I thought she said five .	evaluation of prototype(s)
+C	846.13	Hmm .	evaluation of prototype(s)
+D	847.37	One five five two is thirteen , over four for now .	evaluation of prototype(s)
+D	850.52	I think that's um next ?	evaluation of prototype(s)
+C	854.29	Um three .	evaluation of prototype(s)
+B	856.91	Six .	evaluation of prototype(s)
+A	857.54	Six .	evaluation of prototype(s)
+D	859.29	Really ?	evaluation of prototype(s)
+C	859.99	Yeah .	evaluation of prototype(s)
+D	860.58	Two .	evaluation of prototype(s)
+A	861.48	I wasn't cheating I swear .	evaluation of prototype(s)
+D	861.66	Uh-oh .	evaluation of prototype(s)
+D	863.41	Right .	evaluation of prototype(s)
+D	863.88	One point three is Yeah .	evaluation of prototype(s)
+C	868.18	So it's a one was true and seven was false ?	evaluation of prototype(s)
+B	872.26	Huh ?	evaluation of prototype(s)
+A	872.39	Uh .	evaluation of prototype(s)
+C	873.03	Okay , so you guys really didn't like it ?	evaluation of prototype(s)
+D	875.58	I really Well uh Yeah yeah .	evaluation of prototype(s)
+A	875.74	Oh I thought it was the other way round .	evaluation of prototype(s)
+B	875.94	Wait a minute .	evaluation of prototype(s)
+B	876.91	I thought it was the other way round too .	evaluation of prototype(s)
+A	880.0	So we do have about the same thing , we just have it the other way Oh gosh .	evaluation of prototype(s)
+B	881.11	Sh Yeah I I was thinking one means no points , you know , all the way up to the top .	evaluation of prototype(s)
+D	883.95	It was one is true and false is seven .	evaluation of prototype(s)
+D	887.38	I should've kept the table up .	evaluation of prototype(s)
+B	889.13	I'll just I'll just reverse them all .	evaluation of prototype(s)
+A	890.03	Okay .	evaluation of prototype(s)
+A	890.53	Well Yeah .	evaluation of prototype(s)
+B	891.46	It's no problem .	evaluation of prototype(s)
+D	894.17	Right , well I'm glad this came out .	evaluation of prototype(s)
+C	896.6	I was like , why did you guys design it that way if you hated it ?	evaluation of prototype(s)
+D	898.09	Yeah .	evaluation of prototype(s)
+B	898.66	I thought you guys hated it .	evaluation of prototype(s)
+D	900.23	No .	evaluation of prototype(s)
+A	900.44	Yeah .	evaluation of prototype(s)
+C	900.54	Yeah .	evaluation of prototype(s)
+D	901.13	Oh that's quite funny .	evaluation of prototype(s)
+B	923.7	Okay .	evaluation of prototype(s)
+D	924.63	Okay .	evaluation of prototype(s)
+A	925.51	Yeah .	evaluation of prototype(s)
+D	927.15	Okay .	evaluation of prototype(s)
+D	928.02	So , starting again , one point one ?	evaluation of prototype(s)
+C	931.1	One .	evaluation of prototype(s)
+B	933.15	Say two .	evaluation of prototype(s)
+A	935.16	Three .	evaluation of prototype(s)
+D	937.29	Two .	evaluation of prototype(s)
+D	937.69	Okay , one point two ?	evaluation of prototype(s)
+C	941.1	Uh three .	evaluation of prototype(s)
+B	942.31	Two .	evaluation of prototype(s)
+A	942.86	Two .	evaluation of prototype(s)
+D	944.66	Two .	evaluation of prototype(s)
+D	945.29	Okay .	evaluation of prototype(s)
+D	946.09	Um , one point three ?	evaluation of prototype(s)
+C	949.47	One .	evaluation of prototype(s)
+A	950.64	One .	evaluation of prototype(s)
+B	951.17	One .	evaluation of prototype(s)
+D	953.17	Ha .	evaluation of prototype(s)
+D	954.95	Two point one ?	evaluation of prototype(s)
+C	956.95	Uh two .	evaluation of prototype(s)
+A	957.07	Two .	evaluation of prototype(s)
+B	958.92	Uh two .	evaluation of prototype(s)
+A	961.29	Two point I think I missed two .	evaluation of prototype(s)
+A	964.58	Wait , is that two point one ?	evaluation of prototype(s)
+B	966.73	Yeah I put it down as one point four for some reason .	evaluation of prototype(s)
+D	967.18	Yeah .	evaluation of prototype(s)
+A	968.21	One point four , one point five .	evaluation of prototype(s)
+D	968.23	Oh dear , okay .	evaluation of prototype(s)
+A	969.57	Okay right that's I have two of them .	evaluation of prototype(s)
+D	970.11	Sorry .	evaluation of prototype(s)
+B	971.57	Mine has all kinds of problems .	evaluation of prototype(s)
+D	972.41	Two and one .	evaluation of prototype(s)
+D	973.54	Sorry about that .	evaluation of prototype(s)
+D	974.65	T two point two , which is one point five .	evaluation of prototype(s)
+A	977.99	One .	evaluation of prototype(s)
+B	979.38	Uh three .	evaluation of prototype(s)
+B	981.58	Wait why did I put three ?	evaluation of prototype(s)
+C	982.82	Uh one .	evaluation of prototype(s)
+B	984.62	I meant one on mine too .	evaluation of prototype(s)
+D	984.8	Okay .	evaluation of prototype(s)
+D	986.42	Three point one .	evaluation of prototype(s)
+D	987.44	Is that correct on my slide ?	evaluation of prototype(s)
+A	988.53	Yeah .	evaluation of prototype(s)
+A	988.94	Yeah .	evaluation of prototype(s)
+C	989.24	Yeah .	evaluation of prototype(s)
+D	989.45	Yeah ?	evaluation of prototype(s)
+C	990.1	Uh one .	evaluation of prototype(s)
+B	992.87	Three point one .	evaluation of prototype(s)
+B	993.84	I have four .	evaluation of prototype(s)
+A	995.47	Three .	evaluation of prototype(s)
+D	995.64	One , four , three , three , three point two ?	evaluation of prototype(s)
+B	1001.06	Three .	evaluation of prototype(s)
+A	1001.72	Three .	evaluation of prototype(s)
+C	1003.45	Uh .	evaluation of prototype(s)
+C	1004.67	One .	evaluation of prototype(s)
+D	1006.45	Three point three .	evaluation of prototype(s)
+C	1008.31	One .	evaluation of prototype(s)
+B	1008.89	One .	evaluation of prototype(s)
+A	1010.08	Two .	evaluation of prototype(s)
+D	1013.4	Four point one ?	evaluation of prototype(s)
+C	1015.0	One .	evaluation of prototype(s)
+B	1015.63	Two .	evaluation of prototype(s)
+A	1016.55	Five .	evaluation of prototype(s)
+D	1019.35	Two .	evaluation of prototype(s)
+D	1020.23	Four point two .	evaluation of prototype(s)
+C	1022.08	Two .	evaluation of prototype(s)
+B	1023.1	Three .	evaluation of prototype(s)
+A	1023.81	Four .	evaluation of prototype(s)
+D	1025.89	Two and four point three .	evaluation of prototype(s)
+B	1029.19	Two .	evaluation of prototype(s)
+D	1029.51	One , two .	evaluation of prototype(s)
+C	1030.78	One .	evaluation of prototype(s)
+A	1031.35	Two .	evaluation of prototype(s)
+D	1033.76	Right so I put one on that .	evaluation of prototype(s)
+D	1035.3	Okay I'll um I'll just do the calculations now if you want to continue .	evaluation of prototype(s)
+A	1040.8	Okay .	evaluation of prototype(s)
+D	1040.94	Or is it tedious ?	evaluation of prototype(s)
+A	1041.18	Um No no that's um I think we should look at the ones that like where s where people said four , where um it looks like we might wanna discuss changing an aspect of the remote .	evaluation of prototype(s)
+D	1042.12	I'm I'm sorry this was so tedious for everyone .	evaluation of prototype(s)
+D	1045.82	I didn't know how else to do it .	evaluation of prototype(s)
+D	1058.69	Okay .	evaluation of prototype(s)
+D	1059.59	Well the worst ones were three point one .	evaluation of prototype(s)
+B	1062.94	Mm-hmm .	evaluation of prototype(s)
+D	1063.6	Do does every ones have the slide ?	evaluation of prototype(s)
+D	1066.55	Three point one .	evaluation of prototype(s)
+A	1066.84	The that was material .	evaluation of prototype(s)
+D	1069.96	Slide show .	evaluation of prototype(s)
+D	1073.52	Material technologically innovative , okay .	evaluation of prototype(s)
+A	1077.51	Mm .	evaluation of prototype(s)
+D	1078.08	Um , do you want to change it ?	evaluation of prototype(s)
+D	1080.17	What are the suggestions ?	evaluation of prototype(s)
+D	1081.54	I don't know , anyone ?	evaluation of prototype(s)
+A	1083.28	Um Mm-hmm .	evaluation of prototype(s)
+C	1083.51	Which one is that again sorry ?	evaluation of prototype(s)
+C	1084.96	Three point one ?	evaluation of prototype(s)
+D	1087.01	Yeah that it's three point one was not that good .	evaluation of prototype(s)
+D	1090.3	Four point one .	evaluation of prototype(s)
+A	1092.94	Does the shape See I'm having I'm having trouble imagining the is it uh gonna be the size , like the the controller ?	look and usability
+D	1094.29	The shape .	look and usability
+C	1095.2	I think What if we just smash all the vegetables down flat ?	look and usability
+D	1095.68	Four point two ?	look and usability
+A	1105.25	It or bigger ?	look and usability
+B	1105.35	I think the wheel would probably be mm .	look and usability
+A	1107.22	Because Yeah .	look and usability
+C	1110.72	And like then it you could hold it in your hand better .	look and usability
+B	1114.09	I think the base would definitely be larger , 'cause some of these are not as easy to hold .	look and usability
+B	1117.33	They're kinda smallish .	look and usability
+A	1119.95	No but I imagine even if it was bigger , like if it's round and it's big then you you can't get that's why remote controls are long because you have that thumb kind of so c they could all be bananas and cucumbers .	look and usability
+C	1124.58	Yeah .	look and usability
+C	1125.54	The flat one .	look and usability
+B	1125.64	Yeah .	look and usability
+C	1126.58	Yeah .	look and usability
+C	1132.2	Yeah .	look and usability
+A	1133.65	Um but I don't s I I personally don't think this is comfortable to to sit there , like it's an awkward position .	look and usability
+C	1138.61	I didn't yeah .	look and usability
+C	1140.35	But like if if you just squash them flat like and you made it flat But it's still too big I think , in your hand .	look and usability
+B	1144.04	Well if they're that s uh stress ball stuff they would be pretty squishable .	look and usability
+B	1150.74	Mm .	look and usability
+A	1152.24	Yeah .	look and usability
+C	1153.2	Yeah .	look and usability
+A	1155.82	And would it even resemble fruit that way ?	look and usability
+A	1158.38	I mean Yeah .	look and usability
+C	1159.02	Yeah like certain ones you'd have to limit the fruit selection , like you could probably do a strawberry still .	look and usability
+A	1164.78	Yeah .	look and usability
+C	1164.98	I think the broccoli would be out .	look and usability
+C	1167.51	You could do , although the broccoli is quite comfortable , I have to say , like sorta like a joystick .	look and usability
+A	1171.73	Yeah that I I when you were holding that before , it actually looked yeah .	look and usability
+D	1173.34	Yeah .	look and usability
+D	1173.99	That looked really good .	look and usability
+C	1175.45	I don't know .	look and usability
+C	1175.88	So Uh .	look and usability
+D	1178.01	Are there any fruits that look like broccoli , no ?	look and usability
+B	1182.85	Not that I can think of .	look and usability
+B	1183.88	Rhubarb .	look and usability
+C	1185.87	Rhubarb .	look and usability
+C	1188.17	These obscure fruits .	look and usability
+D	1188.65	I think that broccoli is my favourite actually .	look and usability
+A	1191.3	Yeah .	look and usability
+D	1191.85	Uh despite the Yeah .	look and usability
+C	1193.13	I think we needn't Huh ?	look and usability
+A	1193.45	What if um the it was just patterns on like we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber .	look and usability
+A	1209.33	You know like like just a printed yeah or coloured yeah .	look and usability
+C	1209.39	Oh okay .	look and usability
+B	1210.26	So it's just colour , and not necessarily the shape of a strawberry .	look and usability
+C	1212.92	Yeah .	look and usability
+C	1213.39	That could work .	look and usability
+A	1215.94	Or I mean we could even have fruit like around I mean But if we if we need yeah .	look and usability
+C	1220.26	Yeah .	look and usability
+C	1222.32	Yeah .	look and usability
+C	1222.97	I dunno .	look and usability
+D	1223.5	Yeah and just have the colour match or something .	look and usability
+A	1226.41	And if we wanna incorporate the fruit thing somehow , there might be I mean if it if it in if it uh conflicts with the comfort of actually holdi holding the Mm .	look and usability
+C	1235.88	Yeah .	look and usability
+C	1236.68	'Cause yeah no-one wants to hold a remote that's uncomfortable obviously .	look and usability
+D	1240.33	Mm .	look and usability
+C	1241.32	Or like I dunno , some of 'em you can kind of think see as like like you could if it was only this you know , if it was shaped like that , and it just had that .	look and usability
+C	1251.55	But you see the problem is you have to attach that , and this has to be detachable .	look and usability
+A	1252.1	Yeah .	look and usability
+A	1255.01	Yeah .	look and usability
+C	1256.35	So like maybe that's just too big because Yeah it's sorta like a joystick .	look and usability
+A	1257.58	Well see th the reason the broccoli works is you can kinda hold it like that , which is a nice kind of yeah .	look and usability
+D	1261.89	Yeah .	look and usability
+A	1266.13	But I mean is there some way we could make it this kind of shape ?	look and usability
+C	1267.62	I dunno .	look and usability
+C	1268.56	I guess Yeah .	look and usability
+A	1271.95	'Cause like kind of Yeah , yeah .	look and usability
+B	1273.24	We could make it that shape but just have different colours , and call 'em the different fruits .	look and usability
+D	1276.01	Yeah .	look and usability
+A	1277.24	Or like even Or even like Yeah like you said , like a joystick like that .	look and usability
+C	1277.25	Dif Yeah .	look and usability
+B	1277.78	We went with shape because we were having fun with the play-dough .	look and usability
+A	1284.07	You know ?	look and usability
+C	1284.6	Yeah .	look and usability
+C	1285.89	Like uh we could do I'm trying to think of other sha like fruits that are oddly shaped .	look and usability
+A	1290.43	'Cause that , I think I mean that fits the whole round iPod idea .	look and usability
+C	1296.77	Yeah .	look and usability
+B	1297.59	Mm-hmm .	look and usability
+A	1297.67	And you still have the comfort of holding it like that .	look and usability
+D	1297.73	Yeah .	look and usability
+C	1302.17	Mm .	look and usability
+A	1303.99	And you could like if it's like this , you could put fruit designs and stuff on that part .	look and usability
+C	1308.88	Yeah .	look and usability
+C	1309.96	Yeah .	look and usability
+C	1311.34	Alright .	look and usability
+A	1312.36	But I mean it do we have any other ideas about that ?	look and usability
+D	1317.53	Um Think the critical ones came out to be yeah that one .	look and usability
+C	1322.2	We could tr I don't know .	look and usability
+D	1336.81	Batteries easy to insert for some reason , which can be easily I think that's not a problem any more .	look and usability
+A	1343.39	The batteries are going in the back ?	look and usability
+B	1344.06	That everyone gave that a one or a two .	look and usability
+B	1346.95	Yeah they'd probably be either on the front or the side of the remote .	look and usability
+D	1346.99	No .	look and usability
+A	1349.18	The reason I I ga I didn't give it a one I think I gave it a three because I thought you'd have to like unc clip no you could Just like any other one .	look and usability
+B	1354.71	No I imagine there'd be sort of a hatch door , yeah um like on a normal remote .	look and usability
+A	1358.85	Okay .	look and usability
+A	1359.67	Yeah .	look and usability
+A	1361.06	Right .	look and usability
+B	1361.59	So it would probably either in the f no it can't be in the front 'cause the I_R_'s right there , but it'd be on one of the sides probably .	look and usability
+A	1366.64	Okay .	look and usability
+D	1367.01	I think everyone's under three anyway .	look and usability
+A	1371.03	Mm .	look and usability
+D	1371.36	So I think it's yeah those are the only two points .	look and usability
+C	1377.03	Cool .	look and usability
+C	1377.81	Well Yeah the broccoli I guess wins .	look and usability
+D	1383.76	Yeah .	look and usability
+B	1383.96	Yeah I'd agree with changing the shape .	look and usability
+B	1386.01	Um , I was just having fun making strawberries and stuff .	look and usability
+A	1386.21	Okay .	look and usability
+C	1389.66	We were a bit off task .	look and usability
+C	1391.64	Um so uh I can't think of any So we'll have to like Mm .	look and usability
+C	1405.47	Yeah I dunno .	look and usability
+C	1407.81	You could make the touch pad in th in different shapes , but then that kind of re-designs the whole project like , but you could do like Yeah that's true .	look and usability
+B	1414.66	It might also sort of annoy people if we get used to having the buttons in one shape .	look and usability
+A	1418.84	Yeah .	look and usability
+C	1420.22	Yeah .	look and usability
+A	1420.71	And it would probably cost more to produce , 'cause they're irregular .	look and usability
+C	1422.47	Yeah that's true .	look and usability
+C	1425.27	Mm .	look and usability
+B	1426.41	I bet having different colours is a lot cheaper than having different shapes too .	look and usability
+A	1429.62	Yeah .	look and usability
+A	1431.57	Which is why printing might be like just printing the fruit on fruit .	look and usability
+C	1438.24	Hmm .	look and usability
+A	1440.53	Mm .	evaluation of project process
+A	1448.48	Not really Well we've done finance evaluation criteria , production evaluation .	evaluation of project process
+A	1465.36	Um so project evaluation .	evaluation of project process
+D	1467.83	Do you want this and we can all No .	evaluation of project process
+A	1473.25	I guess we're supposed to discuss um the prod the process of the project and how satisfied oh , oh it's alright .	evaluation of project process
+A	1484.08	Uh .	evaluation of project process
+D	1484.5	It's alright yeah ?	evaluation of project process
+A	1485.15	Yeah .	evaluation of project process
+A	1485.98	Um Did you feel there was a lot of room for creativity in the sort of Yeah .	evaluation of project process
+B	1492.5	Sure .	evaluation of project process
+C	1495.64	I did .	evaluation of project process
+D	1497.18	Yeah .	evaluation of project process
+A	1497.38	I mean fruit and squishiness .	evaluation of project process
+A	1498.92	How c more creative can you get ?	evaluation of project process
+B	1500.17	Sponginess .	evaluation of project process
+C	1501.58	The prototype making was very creatively stimulating and I think we've come up with a product that's fun and meets all the criteria .	evaluation of project process
+A	1515.2	And how was our leadership and teamwork ?	evaluation of project process
+B	1518.72	I think it was good .	evaluation of project process
+B	1519.64	We knew what we were doing .	evaluation of project process
+B	1520.9	It was a very democratic process and everyone got to contribute .	evaluation of project process
+A	1525.87	Well I thought my leadership was crap personally .	evaluation of project process
+A	1529.28	Excuse me , am I allowed to say that ?	evaluation of project process
+B	1529.66	Well you told us when to start and when to end , and that's all that matters .	evaluation of project process
+A	1531.57	Yeah .	evaluation of project process
+A	1533.82	Um .	evaluation of project process
+C	1534.49	I think you were fine .	evaluation of project process
+C	1535.34	You did a good job leading .	evaluation of project process
+A	1535.61	Yeah , well I'm never gonna do a management position , I know that now .	evaluation of project process
+A	1540.1	Um yeah , I thought we all worked very well together .	evaluation of project process
+D	1541.47	Yeah we didn't we uh it all c sort of blended quite well .	evaluation of project process
+A	1544.24	Yeah .	evaluation of project process
+C	1544.53	Yeah I think it more than anything we didn't really have our set roles so much , as we just would be like I don't know , all had ideas about it but yeah .	evaluation of project process
+A	1548.68	Yeah .	evaluation of project process
+A	1550.24	Very democratic .	evaluation of project process
+A	1552.54	No spats , that was good .	evaluation of project process
+C	1554.22	No .	evaluation of project process
+A	1557.24	Um and the means for like the materials we used , how convenient were they ?	evaluation of project process
+A	1564.59	Like the the pens , the whiteboard , I mean we used Are you a Mac person ?	evaluation of project process
+B	1567.3	Well I'm not a big fan of any Microsoft , PowerPoint or any of this stuff .	evaluation of project process
+B	1572.63	No no I never touch Macs either .	evaluation of project process
+B	1574.92	I just use the Unix or the off market , sort of WordPerfect and all these other things .	evaluation of project process
+A	1580.39	Huh .	evaluation of project process
+C	1581.09	Hmm .	evaluation of project process
+D	1581.68	Which isn't very user-friendly though .	evaluation of project process
+B	1583.38	Yeah .	evaluation of project process
+B	1584.34	Well the problem is if you don't like my new computer never has WordPerfect so I have to go track someone down who has an old disk and then I have to reinstall it .	evaluation of project process
+B	1591.42	So I have all these documents I can't use now .	evaluation of project process
+B	1595.32	But yeah I mean I guess it's okay .	evaluation of project process
+C	1597.62	I felt like my I dunno if it was just my role , but l but uh I di I thought that my the information that was available to me was kind of just like or maybe it was just the idea that we had .	evaluation of project process
+C	1606.37	But there's kinda it was kinda like okay , I don't really think I dunno what I'm doing here .	evaluation of project process
+A	1611.67	Mm .	evaluation of project process
+C	1611.81	So I didn't really think it was helpful .	evaluation of project process
+C	1614.49	So I kind of just made up my own stuff and I didn't really like the PowerPoint presentations , so I kind of wrote a lot of notes instead .	evaluation of project process
+A	1619.89	Yeah .	evaluation of project process
+C	1624.36	But yeah I d I don't really like PowerPoint personally , think it's kinda stupid .	evaluation of project process
+A	1624.55	Yeah .	evaluation of project process
+B	1628.38	Yeah .	evaluation of project process
+B	1629.34	I never use it .	evaluation of project process
+C	1630.29	Yeah but uh Yeah .	evaluation of project process
+A	1631.94	I can't say I found everything particularly helpful .	evaluation of project process
+A	1636.7	Like I It Really ?	evaluation of project process
+C	1636.9	It didn't really yeah .	evaluation of project process
+B	1637.26	Yeah .	evaluation of project process
+D	1638.55	I though it was brilliant no ?	evaluation of project process
+B	1638.61	My first bit of information was like this child's drawn picture of how a remote works .	evaluation of project process
+D	1642.91	No mine was really helpful as in my stuff was quite helpful I think .	evaluation of project process
+C	1647.64	So like a f Yeah I think so .	evaluation of project process
+A	1647.75	I mean m my problem yeah , yeah .	evaluation of project process
+D	1647.82	I think it depends on the role no ?	evaluation of project process
+B	1649.85	Yeah it probably does .	evaluation of project process
+A	1650.88	'Cause my problem was , you guys had access to like they'd put send you to sites and stuff right ?	evaluation of project process
+B	1655.62	Yeah .	evaluation of project process
+A	1656.17	See I couldn't do that , so I didn't really know what you guys were doing .	evaluation of project process
+A	1658.86	And when you were talking about it I was just like you know that's wh that's why I seemed so ignorant when when you were j explaining things , 'cause I Yeah .	evaluation of project process
+B	1665.93	Yeah well mine was mostly made up except when they told me like you know titanium costs more than wood to make a remote control .	evaluation of project process
+B	1672.6	As if you'd wanted to .	evaluation of project process
+D	1672.7	Yeah .	evaluation of project process
+A	1672.86	Yeah .	evaluation of project process
+D	1673.86	But it must have been quite difficult for them to build a whole um a whole system , 'cause of course they can't give you uh uh anything comparable to the internet for the Yeah , yeah .	evaluation of project process
+A	1677.98	System .	evaluation of project process
+A	1678.99	Yeah .	evaluation of project process
+C	1683.97	Yeah I mean , it Yeah I kinda thought that um I felt like I would go and like try to use my information , or like I'd make this stupid little presentation and then like I just would end up talking about something completely unrelated because I dunno I felt like I was off-task all the time .	evaluation of project process
+A	1684.4	Yeah .	evaluation of project process
+B	1684.81	Well I think it's interesting how it all went together , like I had the stuff about how me how rubber's cheap , and you have how people want it to be spongy , and It seems planned you know .	evaluation of project process
+A	1692.27	Yeah , huh .	evaluation of project process
+A	1694.52	Yeah .	evaluation of project process
+A	1706.39	Yeah .	evaluation of project process
+C	1708.64	But um Yeah .	evaluation of project process
+A	1710.29	Well I mean we really got into talking about like personal practicalit like it wasn't necessarily what was like we would never have thought of fruit or sponginess you know ?	evaluation of project process
+D	1720.13	No .	evaluation of project process
+B	1721.5	Yeah .	evaluation of project process
+A	1721.79	So it's Oh right .	evaluation of project process
+B	1721.95	If I hadn't been told that fruit was They're pretty cool .	evaluation of project process
+D	1723.73	But I think that it it might be to see whether people actually all come up with the same thing .	evaluation of project process
+A	1731.43	given certain information or Just yeah .	evaluation of project process
+D	1734.32	Yeah , like if everyone's given the same input I don't have a clue , anyway .	evaluation of project process
+A	1737.51	Mm , mm .	evaluation of project process
+D	1738.34	Um what's next ?	evaluation of project process
+D	1740.4	Looks like oh no that's not um It's quite Yeah .	evaluation of project process
+A	1744.52	What do you guys think of the pens ?	evaluation of project process
+A	1746.07	It asks about that .	evaluation of project process
+A	1748.3	Mm .	evaluation of project process
+B	1748.42	They're kinda hard to write with though .	evaluation of project process
+C	1748.42	I wanna s I I'd like to see what what it looks like on the Yeah I think I'd like to um I dunno .	evaluation of project process
+A	1750.05	Yeah and I I've f forgotten once or twice to check the box .	evaluation of project process
+B	1760.06	They're nicer than the pen that I'm using , because like your stuff actually shows up here , rather than having to look at the screen and write .	evaluation of project process
+A	1766.66	Mm .	evaluation of project process
+B	1768.91	But even so , I dunno .	evaluation of project process
+A	1773.43	And new ideas found ?	evaluation of project process
+D	1778.19	Yeah it's all very new , no ?	evaluation of project process
+A	1779.54	Yeah .	evaluation of project process
+D	1781.52	It's all very new .	evaluation of project process
+C	1791.2	Like it was the I think the microphones are okay when you're sitting down , but like they're kinda clumsy I guess when you're like when you're s going up to the whiteboard like .	evaluation of project process
+D	1791.35	Sorry .	evaluation of project process
+B	1796.81	Oh yeah .	evaluation of project process
+B	1799.81	Well they drop off if you like move too much .	evaluation of project process
+C	1801.7	Yeah I dunno .	evaluation of project process
+C	1802.51	But they're they're okay .	evaluation of project process
+B	1802.84	But I don't think we're supposed to be testing these microphones .	evaluation of project process
+B	1806.06	Maybe we are .	evaluation of project process
+B	1806.64	I don't know .	evaluation of project process
+A	1806.82	Mm .	evaluation of project process
+C	1807.18	Uh I think , and I think that uh all this technology like I guess some people must be interested in using it but I can't imagine finding it any more useful than like looking at someone's notes , or like I dunno .	evaluation of project process
+A	1819.4	Yeah .	evaluation of project process
+B	1819.88	Well the thing is , like I actually worked in a company , and I had a role and I had to go to meetings .	evaluation of project process
+B	1825.42	And like the last thing I would have wanted would be to have to watch a video 'cause I missed a meeting .	evaluation of project process
+B	1830.12	Like usually I missed meetings deliberately .	evaluation of project process
+B	1832.25	There's just there's really not that much information that actually goes through a real meeting , like when you're actually at a real meeting in a real company .	evaluation of project process
+A	1836.07	Yeah .	evaluation of project process
+C	1838.42	Hm .	evaluation of project process
+B	1838.71	It's mostly like rehashing old stuff .	evaluation of project process
+B	1841.23	And you're sort of going over general stuff that anybody who's sort of on task should already know .	evaluation of project process
+A	1842.85	Yeah .	evaluation of project process
+B	1846.09	It's like the there's just really not a lot of information that goes through .	evaluation of project process
+A	1847.99	Seems kind of like an excessive reiteration .	evaluation of project process
+B	1849.51	It seems like way overkill .	evaluation of project process
+A	1850.86	Yeah .	evaluation of project process
+B	1851.1	Like if I missed a meeting I could probably get it summed up in like one sentence .	evaluation of project process
+A	1854.36	Yeah .	evaluation of project process
+B	1855.03	I wouldn't need to have to watch like a t two hour video with the sound and the transcript and I think I've learned not to bring play-dough to meetings .	evaluation of project process closing
+A	1859.64	Yeah .	evaluation of project process
+C	1860.94	I guess it would be it's gotta be worth it to I 'cause I'm just mostly curious about like what kind of person or like company would would really find it useful , 'cause can't really imagine , dunno .	evaluation of project process
+C	1877.39	How about a p a ?	evaluation of project process
+C	1882.35	Um I dunno .	evaluation of project process
+A	1888.68	Well does anyone wanna talk about fruit more while we still have time ?	evaluation of project process
+A	1893.74	Any other ideas for Um we still have time if there's any other input .	evaluation of project process
+D	1895.04	What what's the end ?	evaluation of project process
+D	1896.45	Are we are we supposed to um you supposed to write a report ?	evaluation of project process
+D	1900.79	Or we ending ?	evaluation of project process
+D	1902.25	Is that the end ?	evaluation of project process
+A	1909.27	I mean the I think we did really well personally , which is why we've you know , gone through this so quickly .	evaluation of project process
+A	1917.55	'Cause I mean we've all we all kind of agreed our product is satisfactory , it fits the budget , and it's trendy .	evaluation of project process
+C	1927.1	Yeah .	evaluation of project process
+A	1929.17	So .	evaluation of project process
+A	1932.02	Um .	evaluation of project process
+D	1933.13	End of meeting .	closing
+D	1933.93	You have to tell her , she Okay we have to fill in all this stuff .	closing
+A	1936.22	So I think that's all for today .	closing
+D	1942.77	Stuff stuff stuff .	closing
+C	1943.25	M meeting adjourned .	closing
+A	1944.42	Meeting adjourned .	closing
+D	1944.9	Yeah .	closing
+A	1949.38	Yeah .	closing
+C	1952.42	I think it would be a good idea , I like it .	closing
+B	1955.87	It's hard enough to get people actually paying attention .	closing
+B	1958.98	Especially if you have food .	closing
+A	1964.19	So I guess we're supposed to write final reports .	closing
+A	1968.22	'Cause I don't know .	closing
+B	1968.39	All of us ?	closing
+D	1970.52	Well there's al eight , nine .	closing
+A	1971.31	Hmm .	closing
+D	1972.33	Ooh .	closing
+D	1973.92	Oh ooh .	closing
+A	1974.66	Hmm .	closing
+A	1975.32	Or is that just me ?	closing

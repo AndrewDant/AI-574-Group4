@@ -1,0 +1,475 @@
+B	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+A	18.55	Um almost , there's one more thing I have to get out of the I have to make sure that this attachment will open .	agenda/equipment issues
+B	28.92	I keep forgetting whether I've done this .	agenda/equipment issues
+A	31.89	Ah-ha .	agenda/equipment issues
+A	36.25	Okay .	agenda/equipment issues
+A	38.69	We'll open that when the time is right .	agenda/equipment issues
+A	42.34	In the meantime Closing things down , okay .	agenda/equipment issues
+A	59.52	Let's see what this thing does .	agenda/equipment issues
+A	62.7	Does it come up together or disappear one of them or what ?	agenda/equipment issues
+A	67.16	Ah , we came up together , we're good .	agenda/equipment issues
+A	84.36	Okay .	agenda/equipment issues
+A	87.01	Are we ready to start ?	opening
+A	90.22	Okay .	opening
+A	90.83	It's now quarter of four .	opening
+A	93.44	This is a f another forty minute one so it will end at four twenty five .	opening
+A	103.93	Okay .	opening
+A	112.09	Right .	opening
+A	112.76	Our agenda is , as before , for me to open the meeting , for us to go over the previous minutes , then for the two of you to present your prototype and for you to g um Sarah present the evaluation criteria .	opening
+A	127.3	We then have a finance aspect , which is a spreadsheet , an Excel spreadsheet .	opening
+A	134.17	And I know what you're all thinking of , oh my , um because we're only given a forty minute time period to get it all in , including the production evaluation .	opening
+A	144.52	So we're going to make a very fast track .	opening
+A	148.2	Okay .	opening
+A	150.49	Um and as you can see that's what we do next on this thing .	opening
+A	157.13	So the first thing I have to do is close this so that I can get to Where is it ?	opening agenda/equipment issues
+D	171.9	Red .	agenda/equipment issues
+A	173.7	I need to open mine .	agenda/equipment issues
+A	179.26	Not the agenda .	agenda/equipment issues
+D	182.54	Agenda three .	agenda/equipment issues
+A	183.9	No that th I want the minutes from the previous minutes .	agenda/equipment issues
+D	186.63	Mm .	agenda/equipment issues
+A	188.62	That should be there , minutes .	agenda/equipment issues
+A	189.99	Yeah .	agenda/equipment issues
+A	191.21	Okay .	agenda/equipment issues
+A	192.62	Uh from meeting three , is it alright with you if I don't switch it to show , just use it as is ?	agenda/equipment issues
+A	201.36	'Cause this way I can more easily flip it .	agenda/equipment issues
+A	204.6	Okay , um obviously all of us were here for the last meeting , we reviewed the previous minutes before that , um each of you made your presentations .	opening
+A	218.54	Um we discussed the various possibilities based on what was presented in those presentations .	opening
+A	225.86	The market trend of fruit and veg , mm spongy , uh fancy and elegant more than technologically innovative and that more than easy .	opening
+A	237.6	Um we decided chip on print would be used .	opening
+A	242.29	Um we would use plastic with a rubber casing , I think was the consensus , powered by kinetic energy .	opening
+A	250.77	There was no decision made on the curvatures or double curvature or straight .	opening
+A	256.27	Um perhaps the prototype will give us an inkling of that .	opening
+A	260.95	Um looking like a scroll , but it's really a push button technology , excuse my spelling um that was actually in use , that is uh behind the scenes is push button which we uh according to Kate have a very good uh grasp on doing that in production .	opening
+A	281.98	Um we decided that separate fashionable covers covering your fruit and veg might be a separate product that could be suggested to management .	opening
+A	291.9	Um and as suggested um yellow with black buttons with the company logo , a slogan and image might be a good idea based on the requirements that have been provided to us .	opening
+A	306.4	Um we did have a few production issues and coordination of the various bits and we had some conflict of ideas and cost constraints and we ran out of time .	opening
+A	322.62	Um we had to follow that up and prepare for the last one .	opening
+A	327.4	And uh we closed as it ran out of time .	opening
+A	331.14	Is that a fair presentation of what happened ?	opening
+C	332.9	Yes .	opening
+B	333.3	Yep .	opening
+A	336.33	Okay , back to this meeting .	opening
+A	340.78	Um we're down to the prototype presentation .	opening
+B	344.23	Ta-da .	opening
+C	345.2	Alright .	opening
+A	345.72	Over to you .	opening
+B	346.24	Right .	opening
+C	347.52	Well .	presentation of prototype(s)
+A	350.59	Ooh , two .	presentation of prototype(s)
+C	352.3	Yeah , well you see , each made one , we didn't have enough yellow dough .	presentation of prototype(s)
+A	355.3	Ah .	presentation of prototype(s)
+C	356.15	This is the one that I made .	presentation of prototype(s)
+A	359.84	Uh-huh .	presentation of prototype(s)
+C	360.66	It is uh curved , easy to hold , hand-held , nice and small with big easy buttons .	look and usability
+C	368.3	This is like a scroll , but they are push buttons and they enter takes you into the different menus .	look and usability
+C	375.06	Of course we need someone who's experienced with the television .	look and usability
+C	381.17	I mean this is the infrared thing that's gonna zap at the television .	look and usability
+C	384.94	Uh I'm not quite sure how to make that , but I'm sure it will work .	look and usability
+C	389.29	Uh this is on off switch , 'cause I think we do need that , and I think it gives it a nice balance .	look and usability
+C	395.47	And it's gonna have the logo imprinted on it uh in there .	look and usability
+A	395.72	'Kay .	look and usability
+A	399.51	Okay .	look and usability
+C	400.8	Um as for what it's actually made of well the function of these buttons is up , down , left and right in the different menus .	look and usability
+A	410.16	Okay .	look and usability
+C	411.22	Uh position , I presume that just means right right on it , easy to see .	look and usability
+C	418.04	The main feature of it is just a simple design , simple , lack of uh buttons all over the place .	look and usability
+C	425.97	Right ?	look and usability
+C	427.01	Form curved , kind of smooth , hand-held , makes it feel nice to hold .	look and usability
+C	437.52	Uh material , I think Kate's gonna tackle that quite a bit , but I think we have two different options , because we did make a another one , which wa uh is in the shape of banana , it's just if you can imagine this as yellow with black buttons , like just like this but in the shape of a banana , which is also nice and easy to hold and feels good and has a similar sort of scroll push button technology , just a slightly different design .	components, materials and energy sources
+A	452.66	Mm-hmm .	components, materials and energy sources
+A	453.96	Mm-hmm .	components, materials and energy sources
+C	467.24	Also with on off switch and infrared uh I had envisioned it in hard smooth plastic .	components, materials and energy sources
+C	478.76	So like uh well , I dunno , what's it like ?	components, materials and energy sources
+C	484.24	I guess like an existing remote control , but molded and smooth .	components, materials and energy sources
+C	489.38	Whereas otherwise we'd thought , like with this one or mix and match , just we were gonna see what you thought , the uh a more spongy rubber cover with spongy buttons .	components, materials and energy sources
+C	500.31	So we have the two options we can follow , either the smooth hard plastic or the spongy rubber , depending on cost restraints .	components, materials and energy sources
+C	507.06	And what we well , what conclusion we reach when we discuss it .	components, materials and energy sources
+C	513.32	Uh material yeah , that's what I have to say about material .	components, materials and energy sources
+C	516.64	Can I scroll down on there and see what else Well colour , I think I definitely have a preference towards bright yellow with black buttons , because that's the company colours , but if anybody's got any other suggestions , I'm quite willing to consider them as well .	look and usability presentation of prototype(s)
+B	517.65	Mm-hmm .	presentation of prototype(s)
+C	537.3	So , it just depends what you think about these ideas and if I'm yeah , maybe , Kate , you better say what you think about them .	presentation of prototype(s)
+B	545.99	Um well I don't have very much to add .	presentation of prototype(s)
+B	547.54	Um the the case oops , that's the uh on off button just come off our prototype .	components, materials and energy sources
+B	552.83	The the case can be either um spongy rubber or hard plastic .	components, materials and energy sources
+B	558.53	We're not absolutely sure about a combination of the two , but it can be either of those .	components, materials and energy sources
+B	561.88	We have the technology to do that .	components, materials and energy sources
+B	563.96	Um and as for the the actual components um , uh Steph just said this is a quite a cheap device to manufacture .	components, materials and energy sources
+B	574.85	We have simple rubber push buttons um which provide all the functionality we need .	components, materials and energy sources
+B	579.23	Um the um the diode that actually does the um infrared is at the end , it's the stalk of the banana , or it's just the thing at the end of this version .	components, materials and energy sources
+B	592.33	Um so that's for material .	components, materials and energy sources
+B	596.24	Colour , well uh Steph's the expert on colour .	look and usability
+B	599.34	Um we we don't have any particular restrictions on that .	look and usability
+B	605.17	Yeah , I think that's all we've got to say really .	look and usability
+C	605.82	I thin as for as for the fruit or organic theme , I guess this one is obviously fruit shaped .	look and usability
+C	614.11	This one has n banana , yeah .	look and usability
+B	614.57	A banana .	look and usability
+C	616.79	This one has no obvious connections to fruit , but because it's round and molded , it kinda makes you think sort of organic , touchy-feely , kiddie , it's more like yeah , you'd expect it to be like a child's sorta toy remote control instead of a real one , which I quite like that sort of image .	look and usability
+C	638.27	'Cause it's very big and chunky and child-friendly and Hold them , you see , you know .	look and usability
+B	642.71	Would you care to examine the prototypes , see how they feel in the hand ?	look and usability
+C	646.64	Curvature , is it to your liking ?	look and usability
+A	652.2	Oh I see , the on-off's in the back .	look and usability
+B	654.44	Yes , that's so that your index finger automatically goes straight to it .	look and usability
+C	659.54	If you don't wanna tire out your thumbs after all .	look and usability
+A	660.45	And then you can use your thumb .	look and usability
+B	662.03	And it was partly we thought the design looked better , but it could be moved if if marketing feel it's important to have the on off button in a different place .	look and usability
+C	663.8	Yeah .	look and usability
+A	670.09	I could see this thing , unless it's reinforced , having a problem with the you know yeah .	look and usability
+C	675.34	Breaking , oh right .	look and usability
+C	676.97	Well you see , that's why hard plastic would be quite a good thing for it , because then it'd just be rigid .	look and usability
+D	687.04	I like the fact that on both of them the keys play such a prominent role .	look and usability
+A	691.38	Hmm .	look and usability
+D	692.97	It's really kind of a Mm-hmm mm-hmm .	look and usability
+C	693.01	Yeah , we really like we really like that design , I mean it looks just like a logo , that arrangement of the keys .	look and usability
+C	699.25	Like a c like a compass point , you know , just up , down , left and right , and we think we could make that quite a good feature .	look and usability
+C	704.98	And it's like the the iPod scroll wheel , but better .	look and usability
+D	707.94	Yeah .	look and usability
+D	708.77	But it's also like texting , you don't Yeah .	look and usability
+C	710.7	Yeah .	look and usability
+C	711.13	Yeah , yeah , I mean it that's what it makes me think of , mobile phones , I was try I was thinking , moving your thumb like this , what does that remind me of ?	look and usability
+B	711.61	Hmm .	look and usability
+B	718.71	And it's a very simple design , there's not a lot to wrong , the components are cheap to make .	look and usability
+C	718.97	It's texting .	look and usability
+D	722.6	It's also in terms of um being lost it's it's quite it looks quite different .	look and usability
+C	728.73	Hmm .	look and usability
+D	728.92	You know , I I d I have several four remotes , and they all look the same until you get up close and you have to you know , this is really identifiable .	look and usability
+C	735.75	Yeah .	look and usability
+C	738.39	I mean the thing is we do need to develop our technology of I mean actually how to program the menus and what sort of , you know , text box is gonna appear at the bottom of the screen , but we do definitely think that it's a viable option .	look and usability
+D	744.79	Mm-hmm .	look and usability
+D	750.01	Mm-hmm .	look and usability
+A	754.61	Okay .	agenda/equipment issues
+A	756.31	The next item is evaluation .	agenda/equipment issues
+D	761.21	No , okay .	agenda/equipment issues
+A	762.44	Uh if that's if you're finished .	agenda/equipment issues
+D	762.72	Um shall I take your uh power ?	agenda/equipment issues
+C	763.52	Uh yeah , we're finished .	agenda/equipment issues
+B	763.8	Mm-hmm .	agenda/equipment issues
+A	767.19	Oh sorry .	agenda/equipment issues
+D	784.79	Oh .	agenda/equipment issues
+A	788.13	Try again .	agenda/equipment issues
+D	806.92	Okay .	evaluation of prototype(s)
+D	808.75	This is going to be a heavily interactive evaluation , and the method here is to evaluate the new remote control in terms of the user requirements and the hot trends introduced by the marketing department .	evaluation of prototype(s)
+D	821.48	So , this means we're going to go over the priorities that were raised by uh the consumers a as well as incorporate all of our insight into this uh evaluation exercise .	evaluation of prototype(s)
+D	832.56	So I'm going to go and use the whiteboard , and I've made a list of criteria to look at , and so I'm gonna I'm gonna leave this up as the last thing , but for the evaluation it's going to be one is true and seven is false , going over these different criteria , so one true seven false and I'm gonna now use the um the board .	evaluation of prototype(s)
+D	880.54	Okay .	evaluation of prototype(s)
+D	881.98	So um fancy , technologically innovative , easy to use , trendy , buttons , excess buttons , good buttons , ugly , sellable , and other .	evaluation of prototype(s)
+D	916.51	And in fact I hope that uh you all introduce some additional terms , because these are things that um have been brought up , some of them seem rather close , like they overlap .	evaluation of prototype(s)
+C	925.84	Yeah , what about price , is that gonna go on there as well ?	evaluation of prototype(s)
+D	928.63	Mm , yeah , price .	evaluation of prototype(s)
+C	929.21	Price of materials .	evaluation of prototype(s)
+A	929.22	Hmm .	evaluation of prototype(s)
+D	931.45	We'll put price up at the top .	evaluation of prototype(s)
+C	932.45	Not that we actually know anything about it , but we can we can pretend .	evaluation of prototype(s)
+A	937.58	Well we will soon , unfortunately .	evaluation of prototype(s)
+D	940.13	Um Okay , so Did you say ?	evaluation of prototype(s)
+A	944.33	Come on .	evaluation of prototype(s)
+A	949.45	No , .	evaluation of prototype(s) look and usability
+D	950.31	Uh okay , so wha how do we feel in terms of is this fancy ?	look and usability
+C	958.56	It depends what what you mean by fancy really , 'cause when I think of fancy , I think of it's got lots of extra sort of fripperies and , you know , like baroque curliness and which I'd call these quite uh minimalist , simple and plain , but I mean I do see what it is heavily reliant on appearance instead of pure functionality , so in that respect it is quite fancy .	look and usability
+D	970.41	Mm-hmm .	look and usability
+B	973.64	Yes , a plain , simple , clean design .	look and usability
+D	982.54	Mm-hmm .	look and usability
+D	984.77	I yeah , so in that respect I think we'll go with that respect .	look and usability
+C	988.13	I think just maybe we need a different word other than fancy , I'd say maybe aesthetic .	look and usability
+D	990.47	Yeah .	look and usability
+B	992.29	Well we have got s trendy further down , but Elegant , I don't know if I'd call them elegant .	look and usability
+A	993.07	Elegant .	look and usability
+A	994.91	Elegant .	look and usability
+D	995.82	Elegant .	look and usability
+D	998.37	Yeah , no these aren't the exact terms that the um Yeah .	look and usability
+C	1000.8	like stylish or aesthetic .	look and usability
+B	1003.09	Stylish , yeah .	look and usability
+D	1004.71	Elegant .	look and usability
+D	1005.38	We're gon let's use elegant , although the the the people , the word on the street is is Yeah .	look and usability
+C	1011.1	Fancy .	look and usability
+D	1014.36	N that um yeah uh the uh is fancy .	look and usability
+C	1017.64	Did you just break the pen ?	look and usability
+D	1021.89	So let's let's take it to the next level .	look and usability
+C	1023.2	Well d we'll just call it fancy then .	look and usability
+D	1025.09	Well okay , so in terms of elegant , fancy .	look and usability
+D	1029.6	we'll call it E_F_ um , do we do we think that perhaps and maybe we should say the yellow ?	look and usability
+D	1036.54	Should we go with the yellow in terms of I think that's a really superior they're both Yeah .	look and usability
+C	1040.97	Yeah , I think we n we need to they're both yellow with black buttons , it's just that we didn't have any more dough to represent uh that , but if you can just imagine banana shape with these bits as black .	look and usability
+A	1047.28	Mm .	look and usability
+D	1049.59	Yeah .	look and usability
+C	1051.15	So what we re really need to decide is whether we want the actual banana shape or just a a purely blob or some sort of abstraction in between the two that isn't that is more curved , like a banana , but that isn't actually recognisable as a banana , you know , with the grooves and the stalk and stuff , so .	look and usability
+D	1060.51	Yeah .	look and usability
+D	1067.85	As a banana .	look and usability
+D	1070.45	I think that many of us are abstract enough to look at the yellow one and say we'll call it the banana .	look and usability
+A	1075.36	Yeah .	look and usability
+D	1076.38	And of the two I really like I m I like the banana , but I I do like the chunk .	look and usability
+A	1079.96	The chunk .	look and usability
+C	1083.44	So that's maybe not something we have to decide just right now , is it .	look and usability
+D	1085.88	No , but I mean in terms we have to evaluate one of them .	look and usability
+C	1086.46	Just somewhere a long the scale of in between these two .	look and usability
+D	1091.38	Unless do you guys wanna evaluate both ?	look and usability
+A	1092.15	I think between the two , somewhere between the two is true .	look and usability
+B	1094.9	Yeah , I'd I d I don't think that's what we're aiming at with this concept .	look and usability components, materials and energy sources
+A	1097.48	It's more true than false , about a two .	look and usability
+D	1098.32	Okay .	look and usability
+D	1099.99	So we say true .	look and usability
+D	1101.57	Um technologically innovative .	components, materials and energy sources
+D	1109.32	Yeah .	components, materials and energy sources
+B	1109.92	I think we're using simple components that are gonna be robust but not particularly innovative .	components, materials and energy sources
+D	1110.06	So we'll say we'll say uh false .	components, materials and energy sources
+D	1115.35	Easy to use .	look and usability
+B	1116.53	Very .	look and usability
+C	1117.06	Yes .	look and usability
+D	1119.51	One , is that inappropriate ?	look and usability
+A	1120.35	Mm-hmm .	look and usability
+B	1120.81	Yeah .	look and usability
+D	1121.11	Okay .	look and usability
+D	1122.09	Oh , pardon me .	look and usability
+D	1123.21	Um trendy , s and I say specifically spongy fruity .	look and usability
+A	1126.2	Trendy .	look and usability
+C	1126.92	Oh yes .	look and usability
+A	1130.46	Mm-hmm .	look and usability
+C	1132.26	Well , maybe only a two or a three then , 'cause it's no we still haven't decided about specific sponginess or specific Yeah , I don't really think that's gonna work , but No .	look and usability
+B	1137.88	We have the worry about how robust it will be if it's it's curved as a banana but spongy .	look and usability
+A	1143.32	Hmm .	look and usability
+B	1143.35	I think yeah .	look and usability
+D	1143.65	Okay .	look and usability
+D	1146.23	Okay , so two ?	look and usability
+B	1147.38	Yeah .	look and usability
+D	1148.44	Um are there excess buttons ?	look and usability
+A	1150.12	Excess buttons .	look and usability
+B	1151.53	No .	look and usability
+A	1152.0	No .	look and usability
+B	1156.71	So that's false .	look and usability
+D	1157.86	That is false .	look and usability
+D	1158.59	Um good , well designed buttons , intuitive buttons .	look and usability
+A	1163.08	Better , more intuitive buttons , yes .	look and usability
+D	1165.4	True .	look and usability
+D	1167.7	Ugly .	look and usability
+C	1168.34	No .	look and usability
+B	1168.71	No .	look and usability
+A	1169.42	No .	look and usability
+D	1170.8	People don't respond well to ugly .	look and usability
+D	1173.05	Sellable , uh quirky , you know , something people like oh , yeah .	evaluation of prototype(s)
+B	1177.46	Yeah , I think they're different , aren't they ?	evaluation of prototype(s)
+C	1178.2	Well it is quite it is quite quirky I think .	evaluation of prototype(s)
+A	1179.63	I like it .	evaluation of prototype(s)
+D	1180.32	Yeah , I do too .	evaluation of prototype(s)
+C	1181.08	It could be quite a good brand , like a good little object .	evaluation of prototype(s)
+D	1184.41	Oh yeah .	evaluation of prototype(s)
+D	1186.44	And I was I was thinking of other things um in terms of uh could we say it's cost saving ?	evaluation of prototype(s)
+D	1194.69	With the Yeah , with the energy .	evaluation of prototype(s)
+C	1195.32	Oh , we also need tho think about the energy .	evaluation of prototype(s)
+C	1196.83	Is it the kinetic energy ?	evaluation of prototype(s)
+C	1198.44	If it's it is gonna be environmentally friendly with the kinetic energy .	evaluation of prototype(s)
+B	1198.53	Mm .	evaluation of prototype(s)
+B	1199.61	Yeah .	evaluation of prototype(s)
+D	1200.1	It is going to be kinetic ?	evaluation of prototype(s)
+B	1201.84	Yeah .	evaluation of prototype(s)
+A	1202.4	Mm-hmm .	evaluation of prototype(s)
+D	1202.6	Yeah , we'll c we'll say it's a cost saving enviro .	evaluation of prototype(s)
+D	1207.09	Uh so yes .	evaluation of prototype(s)
+C	1208.66	Yeah , but we haven't completely developed that side of it yet , so we're not completely sure about that , but yeah .	evaluation of prototype(s)
+D	1213.9	Well you're still in the Play-Doh stage .	evaluation of prototype(s)
+C	1217.34	Yeah .	evaluation of prototype(s)
+D	1217.82	Anything else ?	evaluation of prototype(s)
+D	1219.34	Including price , do you have any idea about price or other features ?	evaluation of prototype(s)
+B	1223.89	Well I think our instinct is that it should be pretty cheap to develop .	evaluation of prototype(s)
+B	1226.54	We haven't got a lot of expensive components in there .	evaluation of prototype(s)
+D	1226.8	Okay .	evaluation of prototype(s)
+A	1227.04	Yes , the instinct says true .	evaluation of prototype(s)
+D	1229.43	So true one or should I go to two or three ?	evaluation of prototype(s)
+B	1232.69	I'd put it at one I think , but I dunno , what do you Yeah , true , it might be the yeah , yeah , true .	evaluation of prototype(s)
+D	1234.03	Okay .	evaluation of prototype(s)
+C	1234.4	I would say maybe a two , 'cause we still we need to uh get somebody in who is good with the programming for the menus and things .	evaluation of prototype(s)
+C	1242.17	I mean it's not just like I mean it's not like ev you know , on a normal chunky remote every button res I mean means something different , whereas this one has only got the four buttons and they all they mean everything , depending on what menu you're in .	evaluation of prototype(s)
+A	1242.71	Yeah , that's not a cheap thing to get .	evaluation of prototype(s)
+B	1246.39	True .	evaluation of prototype(s)
+A	1256.29	Hmm .	evaluation of prototype(s)
+B	1257.48	Yeah , that's a good point .	evaluation of prototype(s)
+C	1257.69	uh we need somebody to develop that .	evaluation of prototype(s)
+D	1261.51	Um other ?	evaluation of prototype(s)
+D	1264.25	Anything else you guys can thing of ?	evaluation of prototype(s)
+D	1269.87	And I'm gonna actually change a couple of these so then I'm gonna instead of ugly I'm gonna say it's attractive and then make that true , so that 'cause I have to do an average .	evaluation of prototype(s)
+C	1277.68	Yeah .	evaluation of prototype(s)
+B	1279.24	Right .	evaluation of prototype(s)
+D	1279.66	And then um excess buttons .	evaluation of prototype(s)
+C	1282.65	Just putting no excess buttons .	evaluation of prototype(s)
+D	1284.08	Exactly .	evaluation of prototype(s)
+D	1287.36	Wow we're doing really well .	evaluation of prototype(s)
+D	1290.5	Yeah , be you know , so it doesn't ruin the polarity .	evaluation of prototype(s)
+C	1292.37	As for see if we're technologically innovative , I'd say it is quite innovative , because there aren't really many that have this menu idea instead of all the extra buttons .	evaluation of prototype(s)
+D	1300.25	Mm-hmm .	evaluation of prototype(s)
+C	1303.14	I mean I know we're not doing anything involving internet or speech recognition but but we are at the upper end of the push button market .	evaluation of prototype(s)
+D	1308.43	Or L_C_D_ .	evaluation of prototype(s)
+D	1313.07	Yeah .	evaluation of prototype(s)
+D	1314.28	Well if you g uh let me know if if any of these um if you if you all can think of any other um thing to change here if you th if you think I should change the innovative or add other features .	evaluation of prototype(s)
+D	1328.67	If not I'll average those .	evaluation of prototype(s)
+A	1333.18	I think we're good .	evaluation of prototype(s)
+D	1334.37	Okay .	evaluation of prototype(s)
+D	1338.78	Mm .	agenda/equipment issues
+A	1345.59	Okay .	agenda/equipment issues
+D	1346.36	So Um okay , how about if I uh pass this back to you and I'll uh figure out the average here .	agenda/equipment issues
+A	1346.4	We're a little over halfway through the meeting and the next big thing is the finance .	agenda/equipment issues
+A	1358.06	Okay .	agenda/equipment issues
+A	1364.81	Yep .	agenda/equipment issues
+A	1368.22	Right .	agenda/equipment issues
+D	1375.8	Thank you for everyone's help with that .	agenda/equipment issues
+A	1380.96	Right .	agenda/equipment issues
+A	1383.86	And as you can see it says the same thing , it had not lost itself , thank Goodness .	costing
+A	1392.63	And we're going to raise what's called a sp a spreadsheet that they provided to me .	components, materials and energy sources
+A	1399.44	Um and it says fill in the number of components you plan to use in your device .	components, materials and energy sources
+A	1412.18	Hand dynamo , battery , kinetic , solar cells .	components, materials and energy sources
+A	1418.31	Okay .	components, materials and energy sources
+C	1418.44	Well , just kinetic then , .	components, materials and energy sources
+A	1420.77	Yeah .	components, materials and energy sources
+B	1421.45	Yeah .	components, materials and energy sources
+A	1423.05	Um what's a hand dynamo ?	components, materials and energy sources
+B	1428.23	That was the crank , wind-up crank on the side .	components, materials and energy sources
+C	1428.53	It's the wind-up .	components, materials and energy sources
+A	1429.49	Oh shoot , forget that .	components, materials and energy sources
+A	1433.04	Kinetic is um and how many of those will we need per we only need one .	components, materials and energy sources
+B	1438.53	Just one .	components, materials and energy sources
+A	1442.51	Okay .	components, materials and energy sources
+A	1443.94	Electronic simple chip on print , and we'll need one of those .	components, materials and energy sources
+B	1448.93	Uh uh yeah , I think we can do it all with simple Just checking that .	components, materials and energy sources
+B	1471.04	Yeah , simple , 'cause we've just got push buttons , so we can do it all with simple which is the ch should be the cheapest .	components, materials and energy sources
+A	1475.94	Okay , and we only need one of those .	components, materials and energy sources
+B	1477.45	Yep .	components, materials and energy sources
+A	1478.46	Okay , the case will be uncurved and flat or a single curve or a double curve .	components, materials and energy sources
+A	1484.12	It looks like it single curve , 'cause of th the chunkiness .	components, materials and energy sources
+A	1488.57	It's that's uh uh one .	components, materials and energy sources
+B	1488.87	Yeah , that that one is single curve , isn't it ?	components, materials and energy sources
+B	1490.97	Um do we have I I think you it means you reverse the curve .	components, materials and energy sources
+C	1492.12	What does double curved mean , I don't understand .	components, materials and energy sources
+A	1492.26	And that's uh that's the the one that goes like this .	components, materials and energy sources
+C	1496.71	Oh no , we don't need that .	components, materials and energy sources
+B	1496.76	Yeah .	components, materials and energy sources
+C	1497.85	No .	components, materials and energy sources
+B	1497.88	Yeah , I do I don't think we need that for either of them , you can do a banana in single curve , yeah .	components, materials and energy sources
+A	1498.06	Right .	components, materials and energy sources
+C	1499.94	Single-curved , I'd say .	components, materials and energy sources
+A	1500.39	No , single curve .	components, materials and energy sources
+A	1506.45	Okay , case material supplements .	components, materials and energy sources
+A	1509.3	Plastic , wood , rubber , titanium , special colour .	components, materials and energy sources
+C	1509.4	I I just wanna say plastic .	components, materials and energy sources
+A	1513.9	We had the special colour .	components, materials and energy sources
+A	1517.11	And did we say plastic ?	components, materials and energy sources
+B	1520.1	Yeah , can we do some what ifs , 'cause it may I mean I I still quite like the idea of combining plastic and rubber myself , but it depends on the cost , I guess .	components, materials and energy sources
+D	1522.29	One , two , three , four , five , six .	components, materials and energy sources
+A	1522.61	Yeah .	components, materials and energy sources
+A	1528.36	Okay .	components, materials and energy sources
+A	1529.36	We'll come back , if we can , to the rubber being added at the moment , that's where we are .	components, materials and energy sources
+A	1537.19	Interface button push button interface .	components, materials and energy sources
+C	1538.88	It's just button .	components, materials and energy sources
+C	1540.63	Yeah .	components, materials and energy sources
+A	1541.11	That's what we're using , isn't it ?	components, materials and energy sources
+B	1541.12	Yes .	components, materials and energy sources
+B	1542.76	Yep .	components, materials and energy sources
+C	1542.77	Yeah .	components, materials and energy sources
+B	1543.29	Do we need to say how many buttons , or or d is it just one ?	components, materials and energy sources
+A	1546.08	Whoops , don't want that , not yet .	components, materials and energy sources
+A	1549.52	Um No , it just says push button interface .	components, materials and energy sources
+A	1556.33	Button supplements , they'll be in a special colour of black .	components, materials and energy sources
+B	1556.51	'Kay .	components, materials and energy sources
+A	1562.33	And the buttons Wha what is the buttons made of , rubber ?	components, materials and energy sources
+B	1567.3	Uh they'll be rubber , yep .	components, materials and energy sources
+A	1569.54	So we need one of them .	components, materials and energy sources
+A	1573.11	And are they any special form ?	components, materials and energy sources
+C	1576.48	Well yeah , like the compass point one .	components, materials and energy sources
+B	1581.69	Actually , does tha does special material mean that plastic is not a special material ?	components, materials and energy sources
+B	1586.03	'Cause I think they can be plastic .	components, materials and energy sources
+A	1598.99	'Cause the rate we're going we can put the rubber on top .	components, materials and energy sources
+B	1600.92	Yeah .	components, materials and energy sources
+B	1601.45	They could be plastic , we don't have to have rubber buttons , because we haven't got a double curved case .	components, materials and energy sources
+A	1605.52	Oh .	components, materials and energy sources
+C	1609.09	Yeah , they could be plastic .	components, materials and energy sources
+A	1611.91	Okay .	components, materials and energy sources
+A	1613.73	Um let's put that rubber in then , of the case material supplement .	components, materials and energy sources
+B	1622.4	It's just one , isn't it ?	components, materials and energy sources
+A	1624.16	Uh we only need one of them .	components, materials and energy sources
+A	1629.03	Um and the total cost has been calculated as nine Pounds twenty out of the twelve and a half we were allowed .	costing
+B	1637.65	What , we're in .	costing
+D	1638.79	Yeah .	costing
+A	1639.89	We're in .	costing
+A	1642.81	That's us .	costing
+B	1644.15	More profit .	costing
+C	1645.4	Great .	costing
+A	1646.77	Okay , I'm going to save this into our desktop , project documents .	agenda/equipment issues
+A	1658.71	Okay .	agenda/equipment issues
+A	1660.94	As our project document bit .	agenda/equipment issues
+B	1662.55	Do you do you need to double click on that to open it ?	agenda/equipment issues
+A	1665.24	Yeah .	agenda/equipment issues
+A	1670.09	There we are .	agenda/equipment issues
+A	1673.59	That's the only Excel document that will be in there , so it's there for all of us .	agenda/equipment issues
+A	1680.36	Okay , so , are they under twelve fifty ?	agenda/equipment issues
+A	1683.81	Yes , go to the project evaluation , next slide .	agenda/equipment issues
+C	1684.21	Yes .	agenda/equipment issues
+A	1687.62	Right .	agenda/equipment issues
+A	1689.21	Um the project process , satisfaction with , for example , the room for creativity .	evaluation of project process
+A	1696.77	Yeah , leadership , teamwork , means , of having whiteboard , the digital pens and all that kind of good things .	evaluation of project process
+D	1699.82	Sure .	evaluation of project process
+C	1699.86	Yeah .	evaluation of project process
+D	1701.36	Yes .	evaluation of project process
+C	1706.77	And Play-Doh .	evaluation of project process
+A	1708.38	Uh-huh .	evaluation of project process
+D	1708.4	Yeah .	evaluation of project process
+B	1708.75	Yeah , yeah , the Play-Doh was best , I thought .	evaluation of project process
+C	1711.49	Yeah well , 'cause I mean it's so hard to describe what you mean just with words and pointing at photographs and saying , well we quite want this , but imagine it rounder .	evaluation of project process
+C	1720.48	So much better just to go and , you know , this is it , this is what we want .	evaluation of project process
+B	1725.26	Yep .	evaluation of project process
+A	1734.08	Okay .	evaluation of project process
+A	1737.03	So , we went over all those things and we're satisfied with all the above .	evaluation of project process
+D	1742.75	Yep .	evaluation of project process
+A	1748.2	Um did we find any new ideas ?	evaluation of project process
+D	1751.8	I think with the marketing element of uh fruit shaped I I mean I that really opened my eyes .	evaluation of project process
+C	1760.16	Yeah .	evaluation of project process
+C	1761.43	Spongy .	evaluation of project process
+D	1765.11	I I only speak for myself though .	evaluation of project process
+C	1768.77	And I'd never heard of the kinetic energy before , so .	evaluation of project process
+B	1772.2	Yeah .	evaluation of project process
+C	1772.88	Good work as a design team , because we Oh yes .	evaluation of project process
+B	1774.49	Yeah , I think we're a good team actually .	evaluation of project process
+B	1780.45	I'm not sure all the wires are really great though .	evaluation of project process
+A	1787.89	So we actually worked well as a group .	evaluation of project process
+B	1792.5	I thought so .	evaluation of project process
+A	1794.0	Right .	evaluation of project process
+A	1794.61	Are the costs within the budget ?	evaluation of project process
+A	1796.64	Yes .	evaluation of project process
+D	1796.97	Yes .	evaluation of project process
+B	1797.27	Yes .	evaluation of project process
+A	1797.54	Is the project evaluated ?	evaluation of project process
+C	1799.12	Yes .	evaluation of project process
+A	1799.13	Yes .	evaluation of project process
+B	1799.48	Yes .	evaluation of project process
+D	1799.65	I can give you a number , um it's uh the average evaluation score is one point eight eight , so it means w you know , I can I can spell it out .	evaluation of project process
+B	1800.12	Oh hang on , we haven't heard .	evaluation of project process
+A	1801.77	Uh-huh .	evaluation of project process
+D	1809.67	There were six true or ones , four um pardon me , two s almost true or close to true , so that was four points , and then uh one false , seven points , so seventeen divided by nine we're between one and two .	evaluation of project process
+D	1828.96	I would say that's ex excellent in terms of uh ho how much we adhere to the ideals of the uh market place .	evaluation of project process
+C	1836.26	Yeah .	evaluation of project process
+C	1837.0	And the the only false one is because we've chosen to keep a simple old technology , which if it works perfectly well I see no point in improving on if it works , so .	evaluation of project process
+D	1840.9	To maintain old technology , exactly .	evaluation of project process
+B	1844.16	Mm-hmm .	evaluation of project process
+D	1848.71	Yeah , yeah .	evaluation of project process
+B	1849.79	Absolutely , and it's kept us within budget .	evaluation of project process
+D	1851.98	Yes .	evaluation of project process
+C	1852.04	Yeah .	evaluation of project process
+A	1852.59	Mm-hmm .	evaluation of project process
+C	1852.66	So we do count as I think excellent or one .	evaluation of project process
+A	1855.7	Alright .	closing
+A	1857.33	And we've therefore we have to do the final questionnaire and do the meeting summary , I have a final report to present , um and then we're done .	closing
+D	1868.32	Okay .	closing
+A	1869.67	We done good , and we're finished in time .	closing
+C	1870.12	Bring on the ice sculptures .	closing
+D	1872.64	Nice .	closing
+B	1874.01	And then we get the product launch party .	discussion
+D	1874.28	So we might have to wait .	discussion
+C	1876.32	Yeah .	discussion
+B	1876.81	Product launch party ?	discussion
+D	1878.32	Yeah .	discussion
+C	1878.42	That's what I said , ice sculptures .	discussion
+B	1880.5	Absolutely .	discussion
+D	1882.21	Um I one thing I want to do is oh , I think the meeting's done .	discussion
+C	1885.57	Is that the end of the meeting ?	discussion
+A	1885.84	I believe that is the end of our meeting .	discussion
+D	1887.93	Yeah .	discussion
+A	1888.03	Thank you , Melissa .	discussion
+D	1889.72	Um one thing I wa I wanna do is save everything in the right files , because I don't think everything is saved .	agenda/equipment issues
+D	1896.37	The right files .	agenda/equipment issues

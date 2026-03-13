@@ -1,0 +1,445 @@
+C	37.25	Okay .	agenda/equipment issues
+D	38.71	Or you get it .	agenda/equipment issues
+D	40.89	Okay .	agenda/equipment issues
+C	44.93	No I don't think so it has to be like that yeah and you have to adjust the length .	agenda/equipment issues
+C	70.02	Okay , and then .	agenda/equipment issues
+B	93.56	So we uh we will wait for Anna , a few minutes .	agenda/equipment issues
+C	96.02	Yeah , s yeah , um .	agenda/equipment issues
+D	104.96	Mm .	agenda/equipment issues
+D	105.45	Yours is well Yeah but the the mic should not Yeah .	agenda/equipment issues
+C	110.91	I think you can put anywhere you want , actually .	agenda/equipment issues
+C	114.49	I thin It's not a directional mic , anyway .	agenda/equipment issues
+B	122.88	I think it should work like this .	agenda/equipment issues
+C	126.4	Uh .	agenda/equipment issues
+B	126.94	So I will try to get my presentation running .	agenda/equipment issues
+C	133.51	Yeah .	agenda/equipment issues
+B	138.26	Mm .	agenda/equipment issues
+D	141.52	Mm .	agenda/equipment issues
+D	141.98	Can't help you with that .	agenda/equipment issues
+C	143.39	Last .	agenda/equipment issues
+B	144.84	It's no matter .	agenda/equipment issues
+D	144.85	Okay , it's y yeah .	agenda/equipment issues
+B	148.98	No problem .	agenda/equipment issues
+B	150.61	Ah yes .	agenda/equipment issues
+D	154.37	Right .	agenda/equipment issues
+C	158.83	Okay .	agenda/equipment issues
+D	161.88	Then press uh al This .	agenda/equipment issues
+C	165.23	Okay .	agenda/equipment issues
+B	166.09	I don't know .	agenda/equipment issues
+D	166.36	You know ?	agenda/equipment issues
+B	167.57	Just try .	agenda/equipment issues
+C	169.27	'Kay .	agenda/equipment issues
+B	169.96	On this normal Good .	agenda/equipment issues
+D	170.19	Oh oh .	agenda/equipment issues
+C	171.11	Alt F_ five .	agenda/equipment issues
+B	174.96	Doesn't appear on the screen here .	agenda/equipment issues
+D	179.28	Right well Wow .	agenda/equipment issues
+B	183.66	Oh .	agenda/equipment issues
+D	185.64	Amazing .	agenda/equipment issues
+D	186.39	It's working .	agenda/equipment issues
+B	188.04	Okay .	agenda/equipment issues
+B	189.32	Thank you .	agenda/equipment issues
+B	191.7	Uh .	agenda/equipment issues
+A	208.3	Hold that .	agenda/equipment issues
+B	212.93	Yes and you can put can clip it uh on your Somewhere .	agenda/equipment issues
+A	213.26	Okay .	agenda/equipment issues
+A	216.64	Okay .	agenda/equipment issues
+A	217.54	Mm .	agenda/equipment issues
+B	224.47	So , good morning , everyone .	agenda/equipment issues
+B	227.6	Um Welcome at uh at the kick off meeting of our uh latest project .	agenda/equipment issues
+B	233.5	I hope you all have been uh updated about it .	agenda/equipment issues
+D	236.98	Yeah .	agenda/equipment issues
+B	238.52	Good .	agenda/equipment issues
+C	238.76	So .	agenda/equipment issues
+C	239.76	Yes .	agenda/equipment issues
+B	240.34	So w we will try to structure this uh meeting with an a with an agenda uh as presented here .	opening
+B	247.91	Um after the opening we will tr get acquainted to each other .	opening
+B	255.03	See what our roles are in this project .	opening
+B	258.77	So , um We have been provided with uh some uh w technical tools to uh to communicate and to well , learn from each other's plans uh as I can say um so w we will also try to uh to get acquainted to this tools so they are also new to me I don't know whether you worked with them before .	opening
+B	288.56	Um then we will come to the uh to the to the actual project plan .	opening
+B	293.77	You all know I hope how it's about uh the uh new r remote control we are going going to design .	opening
+A	298.36	Mm-hmm .	opening
+C	299.33	Total .	opening
+B	301.7	Uh then we will uh discuss uh , well , how it should be and uh wh what uh what our new product should look lite like .	opening
+B	313.46	And uh well then uh after some twenty five minutes I hope uh we can end this meeting .	opening
+B	322.58	So .	project specs and roles of participants
+B	323.83	Um basically this is about a uh a new c remote control .	project specs and roles of participants
+B	329.95	Um We When you design a new product you of uh you of course want it to be original .	project specs and roles of participants
+B	339.99	Be uh we want to be distinguished , mm ?	project specs and roles of participants
+B	342.62	People uh want to uh when they look at the shelf want to think , well that's the product I I need .	project specs and roles of participants
+B	350.37	So it needs to be trendy .	project specs and roles of participants
+B	352.04	I mean trendy is what people want , so then I w they will buy our product .	project specs and roles of participants
+B	357.68	But then , uh , it also should work uh user friendly and uh otherwise people uh uh well it will not be uh be rated very well in consumer uh articles and like that .	project specs and roles of participants
+B	378.66	So , the general outline of uh new project will be we first uh go through a functional design phase .	project specs and roles of participants
+B	390.67	Um You all get uh um certain task uh in this uh in this phase and uh then we will meet again and uh discuss this functional design .	project specs and roles of participants
+B	405.76	And the same holds for the uh ph two phases uh after this , the conceptual design and after that a a more detailed design in which the the final project should get its definite shape .	project specs and roles of participants
+B	426.45	Alright , but first we will do some uh tool training .	tool training introduction exercise
+B	431.25	In all in front of you uh you see uh the uh notebooks and w uh n note blocks and we have here a a a a white-board .	tool training introduction exercise
+C	442.8	Whitebo Yeah , you can start it you know .	tool training introduction exercise
+A	443.55	Mm-hmm .	tool training introduction exercise
+B	445.88	And um well it should work uh I've read it from my uh from some colleague that it should work with some kind of toolbar .	tool training introduction exercise
+B	454.57	I didn't find out yet how it work , but maybe one of you did , so Um Yes .	tool training introduction exercise
+D	461.0	Under documents in the shared folder .	tool training introduction exercise
+D	463.1	Okay .	tool training introduction exercise
+B	465.55	Do Do we have to say something about that ?	tool training introduction exercise
+B	467.41	I I I'm not fully updated about this shared folder uh .	tool training introduction exercise
+D	472.5	Yeah , I guess we'll have a shared folder uh with documents that we can share .	tool training introduction exercise
+D	476.57	And uh , yeah .	tool training introduction exercise
+B	478.02	Yes well we will then find out ho how it works .	tool training introduction exercise
+D	482.66	Yes .	tool training introduction exercise
+B	483.65	Um .	tool training introduction exercise
+B	486.42	Well , this seems to me , yes , some computer program but I didn't find it yet .	tool training introduction exercise
+B	492.0	So , we'll come to that later .	tool training introduction exercise
+B	495.3	So , uh now we will try out the white-board we have here .	tool training introduction exercise
+B	502.29	So , I would suggest uh Well , yes , um we uh we should try to t to draw on it and then well it should be smart some way .	tool training introduction exercise
+D	507.51	Each of us is going .	tool training introduction exercise
+B	517.07	I I'm not really sure how this works , but Yes , a good idea Mael .	tool training introduction exercise
+D	521.19	Okay , shall I start ?	tool training introduction exercise
+A	522.34	Mm .	tool training introduction exercise
+A	522.77	Yeah .	tool training introduction exercise
+A	524.13	I think for us it's just like a normal whiteboard , but they'll be recording what we write down .	tool training introduction exercise
+D	527.85	So , i But it's Actually , I think I cannot go with uh Yeah .	tool training introduction exercise
+C	528.85	No they will record through that .	tool training introduction exercise
+C	530.24	There's a sensor over there which is going to record the strokes that you make .	tool training introduction exercise
+A	531.12	Mm .	tool training introduction exercise
+A	532.0	Mm .	tool training introduction exercise
+A	533.24	But for us it's just like a normal whiteboard .	tool training introduction exercise
+B	533.61	Okay .	tool training introduction exercise
+C	534.97	Yeah .	tool training introduction exercise
+B	536.23	'Kay .	tool training introduction exercise
+B	548.4	You you D doesn't it work ?	tool training introduction exercise
+B	553.6	Maybe someo Maybe maybe Anna , maybe you can start .	tool training introduction exercise
+A	555.66	Mm-hmm .	tool training introduction exercise
+B	556.82	Then he can maybe find out to get his cord right .	tool training introduction exercise
+A	562.38	I have to draw .	tool training introduction exercise
+B	562.6	So um L Why don't you draw uh your favourite animal on on th on the white-board .	drawing exercise tool training introduction exercise
+A	570.62	M my my favourite animal .	drawing exercise
+A	573.58	Sorry this is all tangled up here .	drawing exercise
+B	579.42	Oh , I see uh Yeah .	drawing exercise
+A	580.98	That's better .	drawing exercise
+C	584.46	Yeah .	drawing exercise
+B	587.63	Yes .	drawing exercise
+B	588.3	Mm .	drawing exercise
+B	594.54	So draw it .	drawing exercise
+B	595.05	We will try to guess what it is .	drawing exercise
+A	595.69	Mm-hmm .	drawing exercise
+A	597.19	I'm a very bad drawer .	drawing exercise
+A	602.83	Weird .	drawing exercise
+A	607.11	Um .	drawing exercise
+A	608.48	You're not gonna be able to guess from my drawing .	drawing exercise
+A	610.75	I'm a bad drawer .	drawing exercise
+A	611.89	Okay .	drawing exercise
+B	614.73	Mm .	drawing exercise
+A	617.71	They're ears , by the way .	drawing exercise
+C	617.72	's a cat .	drawing exercise
+A	619.08	No .	drawing exercise
+A	619.87	Um close though .	drawing exercise
+A	626.75	Okay so like a pet animal .	drawing exercise
+D	632.98	Okay .	drawing exercise
+A	636.19	Like a cat .	drawing exercise
+C	637.14	Yeah .	drawing exercise
+B	639.34	It's like a cat , so I guess it's a cat .	drawing exercise
+A	641.35	No , not a cat though .	drawing exercise
+B	645.03	What is this now ?	drawing exercise
+C	658.87	Ah you forget about it .	drawing exercise
+D	661.6	You're on the knife .	drawing exercise
+C	662.65	Yeah , uh I think it's fine .	drawing exercise
+C	667.23	I just don't want to carry it off .	drawing exercise
+C	671.29	Man , this wires , eh ?	drawing exercise
+C	673.41	We need a wireless microphone .	drawing exercise
+C	678.79	You know ?	drawing exercise
+C	680.79	Pro specially we should next project we should take l like that .	drawing exercise
+B	688.88	So , that's the cat .	drawing exercise
+A	688.96	Okay .	drawing exercise
+A	689.51	So .	drawing exercise
+A	690.26	It's not a cat , it's a dog .	drawing exercise
+B	691.14	Oh .	drawing exercise
+C	691.38	So .	drawing exercise
+D	691.54	Mael .	drawing exercise
+B	692.26	It's a dog .	drawing exercise
+A	692.77	Yes .	drawing exercise
+B	694.35	So but that's also kind of cat , isn't it ?	drawing exercise
+C	695.69	Oh the dog doesn't have a tail ?	drawing exercise
+A	697.62	It's got a tail then .	drawing exercise
+B	697.88	B bo both predators .	drawing exercise
+C	698.95	Yeah , sure , yeah .	drawing exercise
+A	700.6	Yeah yeah .	drawing exercise
+C	701.37	I thought so .	drawing exercise
+C	702.05	The dogs have a tail .	drawing exercise
+B	703.29	So , thank you .	drawing exercise
+A	703.49	So do cats .	drawing exercise
+B	704.0	Uh d did you uh work out cord ?	drawing exercise
+A	705.53	And you guessed cats without a tail .	drawing exercise
+C	708.06	Yeah .	drawing exercise
+D	708.52	Yeah , I think I will go without without it , right ?	drawing exercise
+A	710.34	Okay .	drawing exercise
+B	712.4	Okay .	drawing exercise
+C	715.86	It'll still not extend , right ?	drawing exercise
+C	717.41	It's not up to that .	drawing exercise
+A	722.42	Okay , there you go .	drawing exercise
+A	723.78	So what favourite characteristics .	drawing exercise
+A	726.08	Uh .	drawing exercise
+A	726.49	Dogs are always friendly and loyal and fun .	drawing exercise
+A	750.07	A horse ?	drawing exercise
+C	750.59	It's a horse .	drawing exercise
+A	755.75	This is why you're the designer .	drawing exercise
+A	757.54	And I'm marketing .	drawing exercise
+B	757.81	Yes .	drawing exercise
+B	758.26	Yes , yes this is Yes definitely a horse .	drawing exercise
+B	762.27	Yes .	drawing exercise
+B	762.76	Oh very good .	drawing exercise
+B	766.18	So I suppose it Yes .	drawing exercise
+A	766.79	Ah Mm-hmm .	drawing exercise
+C	768.01	Ah I think you can put that .	drawing exercise
+A	776.15	That's it .	drawing exercise
+A	782.56	A blue and black zebra .	drawing exercise
+B	790.23	Can you can meet them in Africa , I think .	drawing exercise
+B	792.47	Yes .	drawing exercise
+B	793.06	Very good .	drawing exercise
+B	794.19	So Ma Matthew ?	drawing exercise
+A	794.55	The very rare blue zebras .	drawing exercise
+A	796.03	Yes .	drawing exercise
+C	796.94	I'll tell to get it off my Uh ?	drawing exercise
+C	809.24	Mm-hmm .	drawing exercise
+B	809.98	So Maybe I hope you have some space in your uh the horse of uh Mael .	drawing exercise
+A	813.44	You got a lot of room here .	drawing exercise
+A	814.33	You can probably reach .	drawing exercise
+C	815.64	Oh y it's not for that .	drawing exercise
+A	817.25	No ?	drawing exercise
+C	817.84	No .	drawing exercise
+C	820.64	Okay .	drawing exercise
+C	820.84	Yeah .	drawing exercise
+C	826.41	So what should I draw ?	drawing exercise
+C	827.56	Mm .	drawing exercise
+C	828.82	He has already to do cat .	drawing exercise
+A	831.48	I took a dog .	drawing exercise
+A	841.26	Um .	drawing exercise
+A	843.57	A mouse ?	drawing exercise
+B	849.43	This looks likes a cat who has been driven over .	drawing exercise
+A	856.36	Okay .	drawing exercise
+D	857.49	Yeah .	drawing exercise
+D	860.58	And we should sum up its favourite charas characteristics , right ?	drawing exercise
+A	866.37	Mm-hmm .	drawing exercise
+B	870.23	Yes , the moustache .	drawing exercise
+D	872.3	So Uh yeah .	drawing exercise
+B	873.42	That's that's definitely a cat .	drawing exercise
+A	875.13	Mm-hmm .	drawing exercise
+D	876.82	And i Th They like to sleep , that's why you said you they are like this .	drawing exercise
+D	887.17	Yeah .	drawing exercise
+B	889.07	It's quite , you know relaxed situation .	drawing exercise
+B	893.74	Yes .	drawing exercise
+A	894.95	Mm-hmm .	drawing exercise
+B	906.2	Yes , okay .	drawing exercise
+D	911.75	She has the small legs .	drawing exercise
+B	912.96	Th thank you , Matthew .	drawing exercise
+D	914.06	Yeah .	drawing exercise
+D	919.12	Thank you , Matthew .	drawing exercise
+A	922.14	It's a very big rat .	drawing exercise
+D	922.24	Perfect .	drawing exercise
+A	923.26	Or a very small cat .	drawing exercise
+D	923.86	Oh a rat , okay .	drawing exercise
+B	927.93	Yes , this is certain uh some contribution to our project .	drawing exercise
+D	932.51	And you , A bird .	drawing exercise
+A	932.88	Mm 'kay .	drawing exercise
+A	933.59	Your turn .	drawing exercise
+B	934.19	So .	drawing exercise
+B	936.67	Let's see .	drawing exercise
+B	937.92	Which animal has not been drawn yet .	drawing exercise
+B	952.27	So you've all drawn land animals , so why not draw an animal from the water .	drawing exercise
+D	957.86	Okay , in the water .	drawing exercise
+A	968.95	Ah I don't know what that is .	drawing exercise
+A	971.26	It's a bit It's a bit hard to guess .	drawing exercise
+D	971.35	Mm .	drawing exercise
+D	973.84	Yeah .	drawing exercise
+B	976.13	Mm .	drawing exercise
+C	977.43	So The cat is going to eat the fish or the rat ?	drawing exercise
+D	978.36	Put it colours .	drawing exercise
+D	979.02	Maybe it would help us .	drawing exercise
+A	980.0	Yeah .	drawing exercise
+B	980.64	Yes .	drawing exercise
+D	982.85	With different pen widths .	drawing exercise
+A	984.64	Mm-hmm Oh , it's a shark now .	drawing exercise
+B	987.27	So Oh , yes , why not ?	drawing exercise
+D	994.15	Ah it's a shark , yeah .	drawing exercise
+B	997.86	Good idea .	drawing exercise
+C	999.36	Ah it's a baby shark , it looks to me , you know it's going to eat the cat rather than the cat eating the fish , no ?	drawing exercise
+A	1001.3	Mm .	drawing exercise
+D	1004.83	Oh .	drawing exercise
+A	1005.67	Now it's a swordfish .	drawing exercise
+B	1010.46	Why not .	drawing exercise
+D	1010.87	You have some in in Australia , right ?	drawing exercise
+B	1010.91	A swordfish .	drawing exercise
+A	1013.07	Swordfish .	drawing exercise
+D	1013.64	Yeah .	drawing exercise
+A	1014.29	Um , maybe .	drawing exercise
+D	1014.31	I dunno .	drawing exercise
+A	1017.36	I've never seen one , no .	drawing exercise
+D	1017.6	Oh well .	drawing exercise
+D	1018.86	Yeah .	drawing exercise
+B	1022.01	I hope it still works .	drawing exercise
+D	1023.89	Perfect .	drawing exercise
+B	1024.36	So W Well , this uh this tool seemed to work .	drawing exercise
+D	1024.39	So I dunno if we need to spend time on that , actually But uh Yeah , exactly , yeah .	drawing exercise project budget
+C	1028.48	You should go for the next one it seems to me .	drawing exercise
+A	1033.27	Mm-hmm .	project budget
+B	1033.78	Let's continue to uh to the real stuff .	drawing exercise
+D	1035.93	Wow .	project budget
+B	1039.08	Um our project uh finance uh thing .	project budget
+B	1045.01	Uh when we are and when w you are uh going to design w uh we must keep in mind that the selling price of the product uh will be about twenty five Euros , so when designing a project uh I also look at you uh Mael , keep in mind uh uh uh People uh want to get the feeling this is a twenty five Euro project uh pr um product .	project budget
+C	1059.18	Twenty four .	project budget
+D	1064.39	Yeah .	project budget
+D	1073.59	Per remote control , yeah ?	project budget
+A	1074.99	Mm .	project budget
+D	1075.04	Per project .	project budget
+B	1076.13	Yes .	project budget
+B	1076.83	Okay .	project budget
+B	1077.96	Um more interesting for our company of course , p uh profit aim , about fifty million Euro .	project budget
+B	1086.04	So we have to sell uh quite a lot of this uh um things .	project budget
+B	1095.07	Uh we will try to uh to get at a international market uh so um it will be I think mainly Europe and uh Northern America , maybe some uh Asian countries .	project budget
+C	1106.68	Ah yeah , the sale man , four million .	project budget
+B	1111.01	Um also important for you all is um the the product uh production cost must be maximal uh twelve uh twelve Euro and fifty cents .	project budget
+D	1124.0	So it's half of the selling price , if I am good in mathematics .	project budget
+B	1127.6	Yes , of course .	project budget
+B	1128.7	Uh um I mean we still have to uh to make a profit , huh ?	project budget
+D	1133.72	Of course .	project budget
+C	1133.83	They have to sell at least four million to make a profit Ah we have to make we have to sell at least four million to make our own profit .	project budget
+A	1134.45	Mm .	project budget
+B	1134.79	You all have to be paid .	project budget
+A	1136.4	Mm .	project budget
+B	1138.14	Excuse me ?	project budget
+D	1141.94	Oh you're g very good in mathematics .	project budget
+C	1142.08	Fifty mill Of course it should have a on off button .	project budget project specs and roles of participants
+A	1143.36	Yes .	project budget
+B	1145.19	Yes , indeed .	project budget
+D	1146.0	Four million .	project budget
+B	1148.25	So uh well I think w when we are working on the international market , uh in principle it has enough customers uh so when we have a good product we uh we could uh meet this this aim , I think .	project budget
+D	1149.19	Yeah .	project budget
+B	1162.48	So , that about finance .	project budget
+B	1165.08	And uh now just let have some discussion about what is a good remote control and uh well keep in mind this this first point , it has to be original , it has to be trendy , it has to be user friendly .	project specs and roles of participants
+B	1182.06	Um , maybe someone can mention some additional uh prerequisites for a good remote control .	project specs and roles of participants
+A	1190.32	Mm-hmm .	project specs and roles of participants
+A	1197.71	Mm-hmm .	project specs and roles of participants
+B	1198.92	Yes , well i it should have the the the the expected functionality uh of a remote control .	project specs and roles of participants
+A	1202.62	Mm .	project specs and roles of participants
+A	1204.56	Yeah .	project specs and roles of participants
+C	1204.59	Yeah , s and it depends what application you are using it for .	project specs and roles of participants
+A	1208.4	Mm .	project specs and roles of participants
+C	1208.93	You might need uh We are targ targeting the television set .	project specs and roles of participants
+B	1210.45	We wer we were thinking television .	project specs and roles of participants
+B	1211.84	Uh .	project specs and roles of participants
+A	1212.05	Mm .	project specs and roles of participants
+C	1214.95	So , you need to record the channels .	project specs and roles of participants
+A	1215.71	Mm .	project specs and roles of participants
+A	1217.97	Yeah .	project specs and roles of participants
+B	1218.97	Mm-hmm .	project specs and roles of participants
+C	1219.45	You need to browse the browse the channels in upward downward way , Uh And Uh , and Marketing .	project specs and roles of participants
+B	1225.98	Yes , yes .	project specs and roles of participants
+A	1226.41	Mm .	project specs and roles of participants
+B	1226.93	Th th that's very handy I I always miss it and on some remote controls that you can go channel up or down ins instead of retyping the number , especially when you have a lot of channels .	project specs and roles of participants
+A	1233.47	Mm .	project specs and roles of participants
+A	1235.06	Mm .	project specs and roles of participants
+D	1237.12	And uh just before starting the detailed discussion , maybe we You are the marketing guy ?	project specs and roles of participants
+D	1241.78	Or th So you are the marketing .	project specs and roles of participants
+A	1242.12	I'm marketing .	project specs and roles of participants
+A	1244.69	Yep .	project specs and roles of participants
+D	1245.23	And you are in the u use user interface uh design .	project specs and roles of participants
+C	1247.48	Yeah .	project specs and roles of participants
+B	1248.08	Yes .	project specs and roles of participants
+D	1249.22	So just yeah I wanted to to be sure .	project specs and roles of participants
+C	1249.23	Yeah .	project specs and roles of participants
+C	1251.08	Sure .	project specs and roles of participants
+D	1251.08	And I I'm the the industrial designer okay .	project specs and roles of participants
+A	1254.58	Mm-hmm .	project specs and roles of participants
+B	1254.96	Yes .	project specs and roles of participants
+D	1255.43	Because I I don't know you very well , actually , but yeah .	project specs and roles of participants
+C	1255.69	Oh .	project specs and roles of participants
+C	1257.17	I'm Matthew .	project specs and roles of participants
+D	1257.98	Okay .	project specs and roles of participants
+C	1258.12	You know .	project specs and roles of participants
+D	1258.98	Mael .	project specs and roles of participants
+C	1259.51	Matth s uh Anna .	project specs and roles of participants
+D	1260.01	Happy to meet you .	project specs and roles of participants
+A	1261.23	Anna .	project specs and roles of participants
+D	1261.49	Okay .	project specs and roles of participants
+D	1262.17	It's very uh Uh so yeah uh Just uh on your web page but uh yeah not uh not face to face .	project specs and roles of participants
+C	1262.89	And um uh Matthew , yeah .	project specs and roles of participants
+B	1263.38	A and I'm Nanne .	project specs and roles of participants
+C	1266.37	I thi think you know me , yeah ?	project specs and roles of participants
+B	1266.51	So Yes .	project specs and roles of participants
+C	1267.77	right yeah .	project specs and roles of participants
+B	1272.0	So .	project specs and roles of participants
+B	1273.23	Um S S s Are there some other very important things to to do well , to specify in this first phase of of the project .	project specs and roles of participants components, materials and energy sources
+C	1277.05	So .	project specs and roles of participants
+D	1277.07	So mm So I Like what ?	project specs and roles of participants components, materials and energy sources
+A	1278.58	Mm .	project specs and roles of participants
+C	1279.1	So And uh , you'd need the usual ones , like the changing the volume , changing the the channel and then you uh Today we have uh um teletext and all those things .	components, materials and energy sources
+B	1289.75	So the browse function , as you m mentioned .	components, materials and energy sources
+A	1291.39	Mm .	components, materials and energy sources
+A	1292.64	Yeah .	components, materials and energy sources
+A	1293.53	Oth yeah .	components, materials and energy sources
+B	1303.25	Yes .	components, materials and energy sources
+B	1303.73	Yeah .	components, materials and energy sources
+C	1309.85	Tomorrow you might have a some more functions which might come through that , so Yeah I_P_O_ or .	components, materials and energy sources
+B	1313.28	Yes .	components, materials and energy sources
+A	1313.61	Mm .	components, materials and energy sources
+D	1314.75	Like internet on the on T_V_ ?	components, materials and energy sources
+A	1316.4	Mm .	components, materials and energy sources
+C	1318.18	Now we are looking for television things or I_P_ .	components, materials and energy sources
+C	1323.83	For example personal video recorder and all those stuffs are coming up .	components, materials and energy sources
+D	1323.92	Yeah .	components, materials and energy sources
+A	1326.19	Mm .	components, materials and energy sources
+A	1328.61	But we can't really design for something that hasn't been invented yet .	components, materials and energy sources
+C	1329.71	Yeah .	components, materials and energy sources
+C	1331.49	Ah it's it's it's it's coming up , actually .	components, materials and energy sources
+C	1334.16	The personal video recorder and all those things it is coming up .	components, materials and energy sources
+B	1336.23	Mm , well uh I I think Uh w y you two should should , I think , think this over uh w espec what , what functionality .	components, materials and energy sources
+D	1341.51	Actually , yeah w Of course , and first before um designing the func well thinking about the functionalities , we need to know what are the user requirements .	components, materials and energy sources
+C	1342.11	Let's Let's take Oh in that case you can you always hook up with uh someone who is providing that and you know , you you sell their product as well as your product with them , you know .	components, materials and energy sources
+A	1357.26	Mm .	components, materials and energy sources
+A	1357.88	Yeah .	components, materials and energy sources
+D	1358.03	Um then if they need internet , then we would be able to to p to propose something with uh uh T_V_ over I_P_ .	components, materials and energy sources
+B	1358.75	Mm-hmm .	components, materials and energy sources
+A	1359.3	Yeah .	components, materials and energy sources
+A	1361.42	Mm .	components, materials and energy sources
+A	1363.57	Yeah .	components, materials and energy sources
+D	1367.05	But before Yeah , but w w we want to design a new one .	components, materials and energy sources
+A	1367.4	But Ninety percent of the time , ninety nine percent of the time , people will be using the main functions , the volume , the different channels , so we can have all the fancy things as well but the main controls need to be very obvious and very easy to use .	components, materials and energy sources
+B	1379.07	Mm mm mm .	components, materials and energy sources
+B	1380.28	Keep k keep in mind i it's a it's a twenty five Euro unit , so uh uh the the very fancy stuff uh w we can leave that out , I think .	components, materials and energy sources
+B	1391.36	So twenty five Euro you expect a quite , well normal but good functioning user friendly remote control .	components, materials and energy sources
+A	1391.69	Mm .	components, materials and energy sources
+A	1396.77	Mm .	components, materials and energy sources
+A	1410.62	Mm .	components, materials and energy sources
+A	1413.11	So try and get T_V_ manufacturers to Mm-hmm .	components, materials and energy sources
+C	1416.04	Yeah .	components, materials and energy sources
+C	1418.1	No , it's okay , yeah I understand .	components, materials and energy sources
+D	1419.78	Mm .	components, materials and energy sources
+C	1420.19	So we need some numbering buttons , some teletext things and then um Yeah .	components, materials and energy sources
+D	1420.5	Yeah .	components, materials and energy sources
+D	1424.51	The Yeah , the main is browsing .	components, materials and energy sources
+B	1425.52	Yes , but but but ab about the spec the buttons , the buttons uh that will be on it .	components, materials and energy sources
+D	1426.56	Yeah .	components, materials and energy sources
+B	1430.73	I I think we can discuss that in the in the next meeting .	components, materials and energy sources
+C	1434.24	Yeah .	components, materials and energy sources
+B	1435.35	Uh I would like to get this wrapped up and go to an end of this meeting .	components, materials and energy sources
+C	1442.0	Okay .	components, materials and energy sources
+B	1443.68	So So you know now the basic the basic things .	components, materials and energy sources
+C	1443.7	Okay , we are alread mm .	components, materials and energy sources
+D	1445.31	Okay .	components, materials and energy sources
+C	1445.63	Mm .	components, materials and energy sources
+C	1448.28	Yeah .	components, materials and energy sources
+B	1449.1	And well just just for the next meeting , um well , uh , you wor yes , work on a design , keep it general , I mean so w we will be still fle flexible with maybe adding some functions .	closing components, materials and energy sources
+C	1451.87	L Yeah , sure .	closing components, materials and energy sources
+D	1469.76	Mm-hmm .	closing
+B	1469.92	So Um you will be working on on technical function design , so And uh you and you and uh uh uh well , think about requirements , eh ?	closing
+A	1486.87	Mm-hmm .	closing
+B	1487.12	Does it need internet , or or do do we stay at basic basic television uh interface .	closing
+C	1491.35	Stam .	closing
+A	1492.16	Yeah .	closing
+B	1497.64	So , uh I think we should now all go work uh uh at this and uh you will be informed via email and other kind of communication .	closing
+A	1505.63	Mm-hmm .	closing
+A	1510.0	Yeah .	closing
+C	1510.78	Okay .	closing
+B	1511.37	So next meeting will be in uh in thirty minutes uh .	closing
+D	1511.51	Perfect .	closing
+B	1513.61	K keep it in mind .	closing

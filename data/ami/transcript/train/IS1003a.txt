@@ -1,0 +1,266 @@
+A	0	?	NO_TOPIC
+B	0	.	NO_TOPIC
+C	0	?	NO_TOPIC
+A	75.11	So we can start ?	opening
+D	76.31	Yeah .	opening
+A	78.41	Suppose I have to do my presentation .	opening
+C	80.26	Ah okay .	opening
+A	81.14	Eh um So , I'll present myself , I'm Ada Longmund , and as you may know it , I'm the pr project manager .	opening project goals and workplan
+C	83.96	It's Ada Longmund ?	project goals and workplan
+A	94.12	So um we will have to um speak about m the project .	project goals and workplan
+A	104.46	Our project project is to create um a new remote control and as you may know there's lot of industrials interesting in creating a remote control , so the remote control has to be original , trendy and um user-friendly .	project goals and workplan
+A	127.86	Record .	project goals and workplan
+A	131.55	So the project method is the following .	project goals and workplan
+A	135.44	So if we're um the functional design , you have to do uh any individual work and uh also work with uh meetings talking with each other .	project goals and workplan
+A	150.29	Uh it will be the same for the conceptual design and also the same for the detailed design .	project goals and workplan
+A	158.18	Uh .	project goals and workplan
+A	164.55	The tool training is to try out the white board , so Maybe you can draw your favourite animal and make a list of its favourite characteristics .	project goals and workplan
+D	167.9	Mm-hmm .	project goals and workplan
+C	168.14	Maybe someone ha we have to this whiteboard , yeah ?	project goals and workplan
+D	176.8	So right now ?	project goals and workplan
+A	181.73	I don't know if we have to do it now , maybe later later .	project goals and workplan
+B	182.61	So yeah I think you can do it .	project goals and workplan
+C	184.04	Yeah , I don't know .	project goals and workplan
+A	188.09	So the selling price of the product will be twenty five Euros .	project goals and workplan
+B	192.63	Twenty five Euros ?	project goals and workplan
+D	193.58	Mm .	project goals and workplan
+A	193.69	Yeah .	project goals and workplan
+A	194.65	Yeah .	project goals and workplan
+A	195.66	I think it's quite good price , yeah .	project goals and workplan
+C	196.39	I it's it's reasonable , s quite yeah .	project goals and workplan
+D	198.12	It's reasonable , I think , yeah .	project goals and workplan
+C	199.09	Twenty five .	project goals and workplan
+A	199.67	And uh it will uh be a an international remote control , as we want to sell it in the entire world , and the product costs will be not more than twelve Euros and fifty centimes .	project goals and workplan
+C	204.45	Is Yeah .	project goals and workplan
+A	223.51	So , as you will discuss about the remote control you will have to experience your um with the remote control .	project goals and workplan
+A	232.74	Um just uh maybe be imaginative with remote const con controls , try to create something new and people would like to to buy .	project goals and workplan
+A	246.85	And and the next meeting will start in thirty minutes , so you'll ha all have your spethisfispis specif specific role and you know I suppose you know what you have to do .	project goals and workplan
+A	263.49	And uh you will have to work on the design and also to work on the design of th technical fun functions of the remote control and think of the user requirement specifications .	project goals and workplan
+C	263.78	I I hope so I_D_ is for the Industrial Design , yeah ?	introduction and definition of participants' roles project goals and workplan
+D	279.28	Those things just refer to each of each of us , I think .	introduction and definition of participants' roles
+B	282.87	Yep .	introduction and definition of participants' roles
+A	283.17	Yeah .	introduction and definition of participants' roles
+D	283.53	AMI and okay .	introduction and definition of participants' roles
+A	284.85	I_D_ , yeah .	introduction and definition of participants' roles
+B	286.1	Yeah .	introduction and definition of participants' roles
+A	287.23	So So I will manage all all the group .	introduction and definition of participants' roles
+D	289.27	Okay .	introduction and definition of participants' roles
+C	290.08	And U_I_D_ , it's for the User Interface Designer , yeah ?	introduction and definition of participants' roles
+B	292.77	That's me .	introduction and definition of participants' roles
+D	293.32	Okay , and Marketing Expert , it's me .	introduction and definition of participants' roles
+C	295.24	AMI yeah project .	introduction and definition of participants' roles
+C	297.97	you will be the manager yeah .	introduction and definition of participants' roles
+D	298.9	You can manage all this , yeah .	introduction and definition of participants' roles
+B	301.01	Okay .	introduction and definition of participants' roles
+D	301.24	Good .	introduction and definition of participants' roles
+A	302.4	So you have questions ?	introduction and definition of participants' roles
+D	306.7	Um .	introduction and definition of participants' roles
+D	308.82	Not really .	introduction and definition of participants' roles
+A	311.8	So you all know what the parts of the work you have to do .	introduction and definition of participants' roles
+B	315.14	Yeah .	introduction and definition of participants' roles
+D	315.81	So which you , the Industrial Designer .	introduction and definition of participants' roles
+B	317.93	No I'm user interf I'm user interface design .	introduction and definition of participants' roles
+C	318.87	I am the Industrial Design , yeah I am the Industrial Designer so .	introduction and definition of participants' roles
+D	321.62	Okay .	introduction and definition of participants' roles
+A	321.97	Mm-hmm .	introduction and definition of participants' roles
+A	322.71	And you ?	introduction and definition of participants' roles
+A	325.74	Mm okay .	introduction and definition of participants' roles
+B	326.21	Okay .	introduction and definition of participants' roles
+D	327.05	Yeah .	introduction and definition of participants' roles
+B	327.06	So what's the difference between user interface design d industrial design ?	introduction and definition of participants' roles
+A	331.64	Hmm .	introduction and definition of participants' roles
+D	332.44	I mean , you have to know .	introduction and definition of participants' roles
+D	333.81	Ah , you have to know it .	introduction and definition of participants' roles
+C	335.24	It's difficult .	introduction and definition of participants' roles
+D	335.99	It's your job , so I hope you you know what it is .	introduction and definition of participants' roles
+C	339.16	You know very soon .	introduction and definition of participants' roles
+B	340.74	Yeah , I think so .	introduction and definition of participants' roles
+C	343.05	So I I think the user the user interface design is he will design how the user will you know the relation between the user and you know the remote control so And the uh industrial design , it is how the object will look like .	introduction and definition of participants' roles
+D	343.36	Mm .	introduction and definition of participants' roles
+A	343.91	I suppose you have to design it and you have to take care of the industrial way to transform it .	introduction and definition of participants' roles
+B	348.87	Okay , so I make uh u user interface .	introduction and definition of participants' roles
+D	349.8	Yeah .	introduction and definition of participants' roles
+B	351.74	You you de you implement the core functions in the Use it .	introduction and definition of participants' roles
+A	353.09	And i maybe you will transform it .	introduction and definition of participants' roles
+B	362.74	Make make yeah .	introduction and definition of participants' roles
+B	369.44	Maybe I think uh uh i industrial design's uh , it's the function design .	introduction and definition of participants' roles
+C	370.02	Yeah .	introduction and definition of participants' roles
+C	370.75	So the materi Okay right .	introduction and definition of participants' roles
+B	374.55	I design the user f user interface , you design the function .	introduction and definition of participants' roles
+A	378.09	Maybe , it is the outside and the inside .	introduction and definition of participants' roles
+B	380.02	Yeah .	introduction and definition of participants' roles
+D	384.04	Okay .	introduction and definition of participants' roles
+B	385.79	Okay .	introduction and definition of participants' roles
+C	386.44	But I was thinking that he's a user 'cause the user interface to design for example where the but button will be , you know .	introduction and definition of participants' roles
+B	392.24	Yeah yeah .	introduction and definition of participants' roles
+C	393.06	But I don't know .	introduction and definition of participants' roles
+C	393.95	Okay .	introduction and definition of participants' roles
+D	394.87	Well .	introduction and definition of participants' roles
+D	395.16	You know .	introduction and definition of participants' roles
+C	396.5	I'm the industrial designer .	introduction and definition of participants' roles
+D	397.78	Oh , okay , okay .	introduction and definition of participants' roles
+D	398.39	Not the other one .	introduction and definition of participants' roles
+C	399.34	So .	introduction and definition of participants' roles
+B	400.56	Okay .	introduction and definition of participants' roles
+C	401.07	Okay .	introduction and definition of participants' roles
+C	402.56	So and the marketing expert will Ok Okay .	introduction and definition of participants' roles
+D	405.29	Yeah , I'm just go I'm trying to give you some trends about what should be done and what the users would like to have and then thi this would I guess converged to the User Interface Designer wi and then Industrial Designer .	introduction and definition of participants' roles
+A	412.07	And yeah .	introduction and definition of participants' roles
+A	419.75	And when designing y the remote control just remember that uh it has to be a kind of international product .	project goals and workplan
+B	426.05	Okay .	project goals and workplan
+A	426.1	So you don't have to do something really specific , as everybody everybody will have to use it , it's sor the same as keyboards .	project goals and workplan
+B	429.4	Mm-hmm .	project goals and workplan
+D	430.01	Mm .	project goals and workplan
+B	433.65	Yeah .	project goals and workplan
+A	433.9	You know , you have Qwerty , Azerty , French and U_K_ keyboard , so really the remote control to be international .	project goals and workplan
+B	436.72	Mm .	project goals and workplan
+B	437.65	Yeah .	project goals and workplan
+B	441.78	Okay .	project goals and workplan
+D	442.33	Mm-hmm .	project goals and workplan
+A	442.46	And not too expensive .	project goals and workplan
+B	443.97	Yeah .	project goals and workplan
+B	444.42	And uh simple .	project goals and workplan
+A	445.36	As we want to maximise the benefit .	project goals and workplan
+B	446.28	And easy to use .	project goals and workplan
+D	447.69	And you have to keep it under twelve Euros and f fifty , so .	project goals and workplan
+A	450.41	Yeah , you have to keep in mind that the product cost won't be maxim more than twelve dot fifty Euros .	project goals and workplan
+B	450.71	Ah , yeah .	project goals and workplan
+D	452.2	That's the problem .	project goals and workplan
+C	452.6	It should be There was a step about drawing something in the in the board , I don't know .	drawing animals on the whiteboard project goals and workplan
+B	455.16	Okay .	project goals and workplan
+B	458.5	Okay .	project goals and workplan
+A	460.32	And to be sure that really people will be interested in buying a new remote control with maybe new functionalities that don't exist in the mm existing remote controls now .	project goals and workplan
+B	471.24	Okay .	project goals and workplan
+A	473.67	So , is it okay ?	project goals and workplan
+D	475.87	Mm .	project goals and workplan
+B	476.25	Yeah .	project goals and workplan
+D	476.84	It's clear .	project goals and workplan
+D	484.61	Yeah , maybe should go and draw an animal .	drawing animals on the whiteboard
+C	486.68	Is it ?	drawing animals on the whiteboard
+C	487.48	Are we supposed to do right now ?	drawing animals on the whiteboard
+B	488.79	Yeah yeah , you try .	drawing animals on the whiteboard
+B	490.16	Try first .	drawing animals on the whiteboard
+C	490.22	Oh right it's it's from the left to the ri It's I d I was thinking but I n I'm not sure now .	drawing animals on the whiteboard
+A	493.12	So you think we have to do it now ?	drawing animals on the whiteboard
+B	501.0	You can draw something which is very simple .	drawing animals on the whiteboard
+C	504.77	Oh Everybody I think everybody should do it , so .	drawing animals on the whiteboard
+A	504.92	You want me to draw something ?	drawing animals on the whiteboard
+A	507.2	Product manager okay , let's go , I will try .	drawing animals on the whiteboard
+B	507.99	Oh , maybe we should bring Kemy here .	drawing animals on the whiteboard
+B	509.83	Kemy is really good at drawing .	drawing animals on the whiteboard
+D	509.91	Many Yeah .	drawing animals on the whiteboard
+C	514.26	It's not matter So .	drawing animals on the whiteboard
+B	522.9	You're going to draw ?	drawing animals on the whiteboard
+B	527.75	Okay .	drawing animals on the whiteboard
+D	532.92	Uh it's the same as mine .	drawing animals on the whiteboard
+C	534.58	yeah .	drawing animals on the whiteboard
+C	535.3	It's a It's a cat .	drawing animals on the whiteboard
+B	536.69	What's this ?	drawing animals on the whiteboard
+B	541.05	It's a fat cat .	drawing animals on the whiteboard
+C	542.51	It is not a fat cat .	drawing animals on the whiteboard
+D	549.02	It's the fat cat , okay .	drawing animals on the whiteboard
+C	550.58	Yeah , it is a Yes you have to draw a rat if you want a rat .	drawing animals on the whiteboard
+B	551.25	Can you draw uh um rabbit ?	drawing animals on the whiteboard
+B	554.45	Oh , hat ha rat .	drawing animals on the whiteboard
+D	557.49	A rat ?	drawing animals on the whiteboard
+B	558.13	Yeah .	drawing animals on the whiteboard
+D	558.59	That's difficult .	drawing animals on the whiteboard
+A	560.93	No .	drawing animals on the whiteboard
+A	561.4	A mouse is not too difficult .	drawing animals on the whiteboard
+C	562.21	It's your rat .	drawing animals on the whiteboard
+A	563.46	Mouse is okay .	drawing animals on the whiteboard
+B	564.6	Yeah , it's okay .	drawing animals on the whiteboard
+D	565.09	Yeah .	drawing animals on the whiteboard
+D	567.36	Just go , you you the closest to the whiteboard .	drawing animals on the whiteboard
+C	568.05	Okay , go right , but in grow , it's everybody has to grow What are you I don no idea , so It's a rabbit .	drawing animals on the whiteboard
+B	570.16	Mm .	drawing animals on the whiteboard
+D	570.18	Jus Yeah .	drawing animals on the whiteboard
+B	571.79	Okay .	drawing animals on the whiteboard
+B	575.94	Oh .	drawing animals on the whiteboard
+B	578.24	Okay , I draw .	drawing animals on the whiteboard
+B	581.58	The only thing I can draw is like this .	drawing animals on the whiteboard
+B	584.53	Oh .	drawing animals on the whiteboard
+B	586.67	Oh .	drawing animals on the whiteboard
+B	586.72	Oh .	drawing animals on the whiteboard
+D	590.24	A duck .	drawing animals on the whiteboard
+B	591.61	No .	drawing animals on the whiteboard
+B	592.47	What's this ?	drawing animals on the whiteboard
+A	594.19	You love the eyes .	drawing animals on the whiteboard
+A	598.39	Yeah , that was the eyes .	drawing animals on the whiteboard
+B	599.83	Okay .	drawing animals on the whiteboard
+A	601.34	A clown .	drawing animals on the whiteboard
+A	602.71	Rabbit .	drawing animals on the whiteboard
+D	605.92	Pikachu .	drawing animals on the whiteboard
+A	612.64	It's a rabbit .	drawing animals on the whiteboard
+D	615.2	Oh yeah .	drawing animals on the whiteboard
+D	617.04	Bugs Bunny one .	drawing animals on the whiteboard
+A	618.04	Yeah .	drawing animals on the whiteboard
+B	622.27	Okay .	drawing animals on the whiteboard
+C	622.68	It's not so bad so .	drawing animals on the whiteboard
+B	625.35	The only thing I can draw , because it's very simple .	drawing animals on the whiteboard
+D	628.04	Okay .	drawing animals on the whiteboard
+D	629.4	I go .	drawing animals on the whiteboard
+D	639.46	What ?	drawing animals on the whiteboard
+D	641.4	Oh .	drawing animals on the whiteboard
+D	643.51	So what else ?	drawing animals on the whiteboard
+D	644.5	This was my favourite one , but Right .	drawing animals on the whiteboard
+C	646.03	So you don't have a A fish .	drawing animals on the whiteboard
+A	647.54	Thank you .	drawing animals on the whiteboard
+D	656.32	A fish .	drawing animals on the whiteboard
+C	656.93	That's a that's a fish ?	drawing animals on the whiteboard
+C	659.3	Okay , let's try to draw something .	drawing animals on the whiteboard
+A	660.52	You forgot the chips .	drawing animals on the whiteboard
+D	662.79	Oh yeah , doesn't look so fine .	drawing animals on the whiteboard
+C	667.77	Have to be really careful .	drawing animals on the whiteboard
+A	669.81	Fish and chips .	drawing animals on the whiteboard
+D	671.53	Okay , it's your turn .	drawing animals on the whiteboard
+C	673.8	Ah it's my turn .	drawing animals on the whiteboard
+B	675.05	Oh .	drawing animals on the whiteboard
+B	677.34	Okay , be careful .	drawing animals on the whiteboard
+C	677.9	Okay .	drawing animals on the whiteboard
+C	679.23	So .	drawing animals on the whiteboard
+A	687.69	Of Oh .	drawing animals on the whiteboard
+B	688.76	No problem , no problem .	drawing animals on the whiteboard
+C	689.39	It's ok So , what can I draw some more ?	drawing animals on the whiteboard
+C	705.65	No .	drawing animals on the whiteboard
+C	714.42	Mm Yeah , it's it's a se it's my priority this one .	drawing animals on the whiteboard
+C	737.12	Yeah .	drawing animals on the whiteboard
+D	744.56	Mm .	drawing animals on the whiteboard
+B	746.52	A person ?	drawing animals on the whiteboard
+C	748.07	No .	drawing animals on the whiteboard
+C	751.04	It's a really crazy dog Okay .	drawing animals on the whiteboard
+B	753.24	Dog .	drawing animals on the whiteboard
+A	753.35	Oh yeah .	drawing animals on the whiteboard
+D	756.53	Good .	drawing animals on the whiteboard
+C	757.23	Transfer .	drawing animals on the whiteboard
+C	757.99	It's a dog in a village .	drawing animals on the whiteboard
+B	760.26	Okay .	drawing animals on the whiteboard
+C	772.91	So what are you sug going to do now ?	drawing animals on the whiteboard
+D	775.74	I think it's done .	drawing animals on the whiteboard
+A	776.81	Yeah , I think yeah .	drawing animals on the whiteboard
+C	776.96	It's done ?	drawing animals on the whiteboard
+D	777.78	Yeah .	drawing animals on the whiteboard
+B	778.58	Okay .	drawing animals on the whiteboard
+A	779.67	Just have to present project , discuss a little bit about it .	closing drawing animals on the whiteboard
+B	781.67	So we have break .	closing
+C	784.96	Oh my God .	closing
+D	788.66	Oh , we have twenty five minutes for the meeting .	closing
+A	791.0	Yeah .	closing
+D	791.57	Okay .	closing
+A	792.53	So , if you have questions .	closing
+B	792.66	Oh .	closing
+B	794.77	Hmm .	closing
+D	795.93	Know what time is it ?	closing
+D	801.65	No .	closing
+B	802.64	No .	closing
+A	804.86	It's okay ?	closing
+C	805.64	Yeah , it's okay .	closing
+A	806.99	You know your job ?	closing
+A	807.67	you know your job ?	closing
+C	808.6	We have an idea yeah .	closing
+A	809.24	You know your job ?	closing
+C	810.12	I have an idea of my job so yeah so .	closing
+A	812.75	Okay .	closing
+C	814.32	Yeah .	closing
+B	816.44	Okay .	closing
+D	819.83	Good .	closing

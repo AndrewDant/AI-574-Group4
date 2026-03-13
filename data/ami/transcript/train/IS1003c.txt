@@ -1,0 +1,515 @@
+A	44.08	So let's start our second me meeting on conceptual design .	opening
+D	50.91	Mm-hmm .	opening
+A	51.29	So , as the previous meeting I will be the secretary and we will have three presentations and we'll have to decide on the remote control concept and finally we'll close the decision .	opening
+B	56.25	Mm-hmm .	opening
+A	69.72	So I will first uh What ?	opening
+D	74.96	No y you do the minutes first , or ?	opening
+D	78.74	No ?	opening
+A	79.59	I I think I will let uh our User Interface Designer speak first , Mister David Jordan .	interface specialist presentation
+D	81.4	Okay .	interface specialist presentation
+C	87.8	Yep .	interface specialist presentation
+A	88.77	So , we'll S technical accessoire ?	interface specialist presentation
+C	93.96	Yeah .	interface specialist presentation
+C	97.66	No no no .	interface specialist presentation
+A	98.38	Interface ?	interface specialist presentation
+C	98.74	Yeah .	interface specialist presentation
+A	100.02	This .	interface specialist presentation
+C	100.34	Mm .	interface specialist presentation
+C	105.24	So uh first I will present the concept of user interface .	interface specialist presentation
+C	110.91	Um there's three concepts in the user interface .	interface specialist presentation
+C	115.51	So first one it's a Google controller .	interface specialist presentation
+C	119.06	The second is a fancy controller .	interface specialist presentation
+C	122.29	The last one is uh intelligent controller .	interface specialist presentation
+C	125.06	So there are three concepts in our controller .	interface specialist presentation
+C	128.66	Um n next I will explain one by one , the first is Google controller .	interface specialist presentation
+C	134.34	Um , so I want the controller to be easy to use , but with sophisticated functions .	interface specialist presentation
+C	140.53	So it's a combination of easy to use and um sophisticated functions .	interface specialist presentation
+C	146.9	Uh this is a first concept of our controller .	interface specialist presentation
+C	150.85	The second concept is a fancy controller , um so we want give the customers the impression that our controller is very attractive , um they can easy recognise our controller among a lot of products , so so the u the user f the the u user interface should be very very cute , very very g um attractive .	interface specialist presentation
+D	173.89	Mm .	interface specialist presentation
+B	174.01	Mm .	interface specialist presentation
+B	177.33	A nice one .	interface specialist presentation
+C	178.72	Such like this , there are several uh examples in the slides .	interface specialist presentation
+A	183.11	I'm not sure the one in the middle is very attractive .	interface specialist presentation
+C	186.28	Yeah , it's very , you know if you're Yeah .	interface specialist presentation
+A	187.83	It's very big , yeah .	interface specialist presentation
+C	190.27	It's hard f i it's easy for you to remember it .	interface specialist presentation
+C	193.53	Or to recognise it , yeah .	interface specialist presentation
+A	196.19	Okay .	interface specialist presentation
+A	197.16	Yeah , why not .	interface specialist presentation
+C	197.17	Yeah .	interface specialist presentation
+C	198.41	Yeah .	interface specialist presentation
+A	199.12	We'll have big discussion I suppose after that , so .	interface specialist presentation
+B	200.49	Yeah .	interface specialist presentation
+C	201.89	Yeah .	interface specialist presentation
+B	202.13	Yeah .	interface specialist presentation
+D	202.32	Mm .	interface specialist presentation
+C	202.83	So the last uh concept is intelligent .	interface specialist presentation
+C	206.29	We want uh we want our controller to be smart , so maybe we should uh use um uh technology , such as speech recognition technology and gesture recognition technology , so we need to have coop some cooperation with some research institute on speech recognition and um gesture recognition .	speech recognition
+B	210.41	Mm-hmm .	speech recognition
+D	210.48	Mm .	speech recognition
+C	233.02	Um With this advanced features we I think we can attract a lot of user .	speech recognition
+A	239.08	Okay .	speech recognition
+C	240.34	Okay .	speech recognition
+A	240.5	Something else ?	speech recognition
+C	241.53	No .	speech recognition
+C	242.61	There this is the three concepts of our controller .	speech recognition
+B	244.97	Yeah .	speech recognition
+A	245.89	I just have one question , because for the intelligent controller , you said that we can use the voice recognition or the gesture recognition , but as the um expert told us , most of the people want to use the remote control to zap t to zap between channels .	speech recognition
+C	247.16	Yeah .	speech recognition
+C	249.48	Yeah .	speech recognition
+C	265.04	Yeah , so Y Uh I think some time it's very uh convenient to use voice interface and gesture interface than use button .	speech recognition
+A	265.11	Do you think they will be able to use gestures ?	speech recognition
+A	267.84	Because , if they do all the time the same gesture , as you said previously in the last meeting , maybe they will get injuries because of that ?	speech recognition
+B	276.4	Yeah .	speech recognition
+A	276.55	or if you say channel three channel three two three four six five , I think they will be bored after a while .	speech recognition
+B	276.74	Maybe .	speech recognition
+A	283.54	You don't think so ?	speech recognition
+A	291.28	Yeah , sure .	speech recognition
+C	292.88	For example , if you cannot find your uh controller , you can just uh just just uh speak something such as , yeah , one two .	speech recognition
+A	295.2	I That's true .	speech recognition
+B	295.25	Oh yeah , that's a good that's a good point , so .	speech recognition
+B	300.73	One and Yep .	speech recognition
+A	301.3	Yeah , but suppose you got a cold .	speech recognition
+A	303.39	You have a mute remote controller .	speech recognition
+C	303.47	Yeah .	speech recognition
+D	304.57	Mm .	speech recognition
+C	305.88	So you can use your gesture .	speech recognition
+C	307.39	That's no problem .	speech recognition
+D	308.34	Yeah but how how is how risky is it to trust like speech recognition or gesture recognition ?	speech recognition
+A	310.38	Broken arm ?	speech recognition
+C	315.85	For limited vocabulary speech recognition is very reliable and for s limited vocabulary gesture recognition is also very Yeah .	speech recognition
+D	318.85	Okay .	speech recognition
+D	320.05	Okay .	speech recognition
+A	323.3	Yeah , but suppose you have a family watching T_V_ , and if they want to use their private remote control in the same time , do you think it will work ?	speech recognition
+A	332.01	Everybody wanting to change channel in the same time ?	speech recognition
+D	333.57	But this this but this would never happen anyway .	speech recognition
+C	336.15	Yeah , they cannot speak at the same time .	speech recognition
+A	336.55	Why ?	speech recognition
+D	338.18	Yeah Yeah , but the Yeah but this Yeah .	speech recognition
+A	338.21	If you have one brother and one sister and they want to watch their favourite uh T_V_ programme , so they say oh channel four channel three channel four channel three all the time , so .	speech recognition
+B	346.38	Yeah but Yeah but the same can happen even with it you know this kind of remote control because the That's right .	speech recognition
+C	346.66	Yeah , it's very interesting .	speech recognition
+C	351.67	Yeah .	speech recognition
+D	351.94	I don't think it Oh , okay , okay , you mean it could be a problem for this kind of stuff .	speech recognition
+A	352.17	Yeah , but you have the remote control , so maybe you can keep it f with you .	speech recognition
+A	356.29	You're not you're not obliged to share it .	speech recognition
+A	359.49	Yeah , we can yeah .	speech recognition
+C	360.04	Yeah , that's that's the advantage of intelligent controller .	speech recognition
+C	362.82	Even you h you have the controller , I can I can say channel three , so it's c come to channel three , I don't have to It's advantage .	speech recognition
+D	363.46	No .	speech recognition
+B	365.38	It's it's And mayb maybe we can have the switching mode to pass from you know voice controller to manual controllers , eh .	speech recognition
+D	367.25	No , but this is disadvant disadvantage .	speech recognition
+A	368.72	Yeah , I think it's a disadvantage .	speech recognition
+D	370.71	Yeah .	speech recognition
+A	375.67	Yeah , but one other question .	speech recognition
+A	377.34	How how much will it cost ?	speech recognition
+B	380.07	No , more expensive maybe .	speech recognition
+C	380.39	How much ?	speech recognition
+A	381.12	Yeah .	speech recognition
+A	381.59	Because I suppose we need to do research to have something working .	speech recognition
+C	384.79	No no we we d we we just are use um No no we just um have some cooperation with some research institute , we don't have to do some basic research on this field .	speech recognition
+D	386.64	Uh if you if if you use the basic But it's it's changing how the remote control is gonna be built .	speech recognition
+A	387.07	Some some efficient .	speech recognition
+A	396.65	So you think it won't cost an Not a lot for us ?	speech recognition
+A	401.06	Or ?	speech recognition
+C	401.06	Yeah , I think it's uh because uh this technology is uh um for limited wor or limited wor uh lexical recognition , it's very it's uh yeah .	speech recognition
+A	410.63	Yeah , but uh uh Mm-mm .	speech recognition
+C	412.86	It's No it's uh Even for the f um because the the vocabulary the The vocabulary is very small , so that's not a problem .	speech recognition
+D	417.34	Because then you need uh I mean this doesn't have uh the power to do recognition , for example .	speech recognition
+B	424.34	Well y y you have also the language problem , you know when you 'Cause it it have to be universal , so .	speech recognition
+A	430.77	Yeah .	speech recognition
+A	431.24	I agree with uh Yeah , but there is one problem that uh Baba talked about is the international remote control .	speech recognition
+D	433.0	Yeah .	speech recognition
+B	437.03	Yeah .	speech recognition
+C	437.19	Yeah .	speech recognition
+A	441.62	We need something that is international .	speech recognition
+A	443.75	Suppose we're we want to sell it in France .	speech recognition
+C	446.84	Yeah .	speech recognition
+A	447.7	The recognition system will be able to understand French .	speech recognition
+A	450.61	If you want to go to England , it will be able to understand English , so .	speech recognition
+C	452.52	Yeah .	speech recognition
+C	454.74	Yeah , the key , the key um the key of our the key feature of our controller is that it's it has some some um adaptation mechanism .	speech recognition
+D	455.92	Yeah , this could be downloaded by the web maybe , or Yeah .	speech recognition
+B	466.16	Yeah but you know .	speech recognition
+B	467.44	The product The pro It's a very smart , it's a very smart controller maybe Oh yeah yeah yeah yeah .	speech recognition
+C	467.56	It's It's it means when you when you sell this controller in China it's can recognise Chinese .	speech recognition
+C	473.13	It's r if you sell this controller in France it can recognise French .	speech recognition
+A	477.54	Mm , okay .	speech recognition
+C	478.84	Yeah , it's Because of this product uh this technology has already been developed .	speech recognition
+A	479.48	And with no increase in the pri production price of the remote control ?	speech recognition
+B	483.54	But Yeah but the problem is how to s you know if this is a push button controller , you can send this con this remote control everywhere in the world , the same one .	speech recognition
+A	487.01	Yeah , but how will you Oh .	speech recognition
+C	487.02	So Yeah .	speech recognition
+C	495.99	Yeah .	speech recognition
+D	497.37	Mm .	speech recognition
+B	497.41	If you have the language , you have to develop for each country .	speech recognition
+C	499.15	Oh n Yeah , yeah tha that's why we have to do language adaptation .	speech recognition
+B	502.87	Yeah , but for each country you have to do one , because uh the for example for Se Oh really ?	speech recognition
+C	504.71	Yeah .	speech recognition
+C	506.87	Even for each f for even for different family we have to do d yeah we would we have to do adaptation to No , it's not so complex .	speech recognition
+B	511.68	That's Comple A microphone maybe .	speech recognition
+D	513.67	Yeah , but then w Yeah , we have to take care of the twelve Euros problem .	speech recognition
+A	514.18	Seems to be quite complex .	speech recognition
+A	518.87	And what about voice recognition , do we have microphones ?	speech recognition
+A	522.09	And where will be they ?	speech recognition
+A	523.22	Do you think if we're far from television it will work ?	speech recognition
+C	523.48	No no no it's not I think that's n that's not a problem because you you don't have to wear a microphone .	speech recognition
+C	532.62	It it just the microphone is embedded in the controller .	speech recognition
+A	536.79	Yeah , but where is the controller ?	speech recognition
+D	537.7	Okay .	speech recognition
+C	539.58	Where is the controller ?	speech recognition
+A	540.95	Yeah .	speech recognition
+C	541.72	It's in your family , in your home .	speech recognition
+D	543.64	No , but then it's it's like this uh Yeah .	speech recognition
+A	543.81	Yeah , but we're here it's uh an object .	speech recognition
+A	547.36	But here you say you want to use i uh s technology .	speech recognition
+C	547.43	Yeah .	speech recognition
+C	549.03	Yeah you can you can embed it uh microphone here .	speech recognition
+A	551.94	Yeah , but wha what is the use of voice or gesture recognition if you have a remote control li like this , if you have an object .	speech recognition
+A	558.78	If you want to use voice or gesture you need to be free , without any object .	speech recognition
+B	561.16	To talk to the to the T_V_ maybe .	speech recognition
+A	563.34	You just want to interact with television .	speech recognition
+C	564.46	Yeah yeah just you just put the controller here , then you you use your command and you do s your gesture .	speech recognition
+B	568.77	I if you say one , he switch to channel , yeah .	speech recognition
+A	572.13	Yeah , but you can lose it .	speech recognition
+C	576.28	No no it's n y if you lose it Yeah .	speech recognition
+B	579.06	So well for example if it is somewhere in the room if i maybe if it is in the table there you can always say s channel one and the t the remote control gives the order to the T_V_ to switch to channel one .	speech recognition
+A	587.81	Okay you so you can build a kind of black box and put it on T_V_ and just to recognize gestures and voice .	speech recognition
+B	590.28	Devic Yeah .	speech recognition
+B	594.45	Yeah .	speech recognition
+B	596.31	Yeah but so you need a camera and you know a microphone inside your remote control .	speech recognition
+C	599.43	Yeah .	speech recognition
+A	599.74	Ah .	speech recognition
+D	601.24	But you would still have the buttons .	speech recognition
+D	602.78	Or is it do you think it should be only voice recognition and gesture recognition ?	speech recognition
+D	607.79	Or you you still have the possibility to use buttons ?	speech recognition
+C	611.73	I think it we should give the uh flexibility to the user and we think yeah .	speech recognition
+D	615.72	Okay , so you yeah .	speech recognition
+A	617.09	Yeah , but Mm .	speech recognition
+C	617.83	You can see they can switch form one modality to another .	speech recognition
+D	621.09	Yeah , I dunno .	speech recognition
+D	622.34	It's a bit risky risky .	speech recognition
+B	623.87	Yeah .	speech recognition
+A	624.14	I think so .	speech recognition
+C	624.17	No , that's quite inter quite attractive .	speech recognition
+A	624.7	And maybe it will be quite Okay .	speech recognition
+B	626.66	But I think that , you know , switching from one country to to another will be a problem , so although y y Yeah but i i Yeah , we should .	speech recognition
+C	631.33	Well , if you do language adaptation , there should be no problem .	speech recognition
+D	635.16	Yeah , I dunno .	speech recognition
+C	643.72	We should have confidence in technology .	speech recognition
+B	650.04	Uh .	speech recognition
+A	651.31	Hmm .	speech recognition
+A	652.34	So , what do you think ?	speech recognition
+A	654.03	We'll try the controllers you'd prefer .	speech recognition
+B	657.92	Mm .	speech recognition
+D	658.4	What ?	speech recognition
+A	659.06	Which kind of controller would you prefer to use , you as a remote control user ?	speech recognition
+D	663.0	If if I mean , uh I'm sure if the user pays the same price , he's happy to have recognition .	speech recognition
+C	669.54	More features , yeah .	speech recognition
+D	670.88	But if if if it like doubles uh no one would would be interested .	speech recognition discussion of proposed features
+B	671.03	Yeah , but I think he need a control that is very reliable , so .	discussion of proposed features
+A	677.89	So I think it would be better not to do any intelligent controller and to stay with the Google controller or a fancy controller .	discussion of proposed features
+A	684.47	Maybe try to mix the Google controller and the fancy controller ?	discussion of proposed features
+A	687.75	Hmm ?	discussion of proposed features
+B	688.53	Yeah .	discussion of proposed features
+B	688.73	Yeah .	discussion of proposed features
+A	689.05	Just want to have something controller which is in a kind of intelligent controller , easy to use , sophisticated and fancy .	discussion of proposed features
+C	697.16	Yeah but if if you stick to um stick to the first two parts .	discussion of proposed features
+A	697.3	You think it's possible ?	discussion of proposed features
+C	703.08	So what's the difference between our controller with other products in the market ?	discussion of proposed features
+C	707.77	There's no k features of our controller , so is there is there any necessary to design new controller without any breakthrough features ?	discussion of proposed features
+D	714.19	Yeah .	discussion of proposed features
+B	714.21	Yeah .	discussion of proposed features
+D	716.61	No , I mean Y No , but you need you need new remote controller then .	discussion of proposed features
+C	717.27	Would y would you replace your controller with a controller with similar function if you do not have some some function inside it that Yeah , you y that's a fun that's not the function of the controller , that's a function of T_V_ .	discussion of proposed features
+B	722.57	It's not really the we we can add for example some function like for browsing in internet , so or something like that .	discussion of proposed features
+B	731.13	But uh I think a user need Don't have a the the Yeah if we can send email from it .	discussion of proposed features
+C	737.51	You can replace your T_V_ with a new T_V_ with internet browsing function , but Okay .	discussion of proposed features
+D	743.72	Because if you wanna browse internet or , I don't know , if you wanna type something , or No .	discussion of proposed features
+C	750.07	But it's not the only the problem only the issue of controller , it's it's also the issue of the T_V_ .	discussion of proposed features
+D	753.41	No .	discussion of proposed features
+B	755.59	Because the p the problem I can see with with the voice or the gesture itself wh what can happen in a family i i for example if Yeah And for all the person of the family maybe , so , yeah .	discussion of proposed features
+D	760.1	Cause for example yeah .	discussion of proposed features
+C	762.2	Yeah , but we do we do we we we cannot rely one hundred percent on these features to u to use the controller , but with the features of our controller such as you have the feature of voice recognition in your mobile but you seldom use it , your mobile , but you when you choose a new mobile , you choose the one with voice recognition .	discussion of proposed features
+D	766.74	Yeah .	discussion of proposed features
+A	768.1	Yeah , but uh we want so Yeah , but w we we want something th that works all the time , every day , every hour , for everyone .	discussion of proposed features
+D	779.72	Yeah , you wou you would True .	discussion of proposed features
+C	782.61	That's the feature is not one hundred percent reliable , but it's a feature to distinguish our product from our from other products .	discussion of proposed features
+C	796.04	Yeah .	discussion of proposed features
+C	798.36	Yeah , uh Yeah , if if if if you're if you ar if you already have a product it works one hundred percent reliable , would you replace it with another one ?	discussion of proposed features
+A	801.03	You don't need to tune it .	discussion of proposed features
+A	809.68	Yeah , why not ?	discussion of proposed features
+D	811.14	I mean , for example the goo y you say we would we would to have a Google-like controller .	discussion of proposed features
+A	811.2	If it's Not too expensive too .	discussion of proposed features
+B	812.42	Because you have new Ye Okay .	discussion of proposed features euqipment issues
+C	815.8	Yeah .	discussion of proposed features
+C	816.46	Yeah .	discussion of proposed features
+D	818.48	I don't see how adding speech or gesture recognition would make the remote control look more like Google .	discussion of proposed features
+D	826.83	Google is is simple , works fine , so I I guess if can have a remote control that is really basic , simple and works fine , it's already a lot .	discussion of proposed features
+C	830.37	Yeah .	discussion of proposed features
+C	836.66	Yeah .	discussion of proposed features
+C	839.72	Oh yes , but there's no big difference between the traditional controller .	discussion of proposed features
+D	840.19	Uh thi this I mean , the user is not only interested in having speech or gesture recognition or if he has something that works fine and is really fancy , looks nice and it's easy easy to use , easy to use .	discussion of proposed features
+C	848.4	The then nn no .	discussion of proposed features
+C	849.72	Tha But the there's there's n there's n not enough motivation for them to replace their old controller with a new one if there's no key feature in the new controller .	discussion of proposed features
+D	860.98	See That's the problem , yeah .	discussion of proposed features
+C	863.67	That's the same yeah .	discussion of proposed features
+D	865.11	I mean , I I know it's more interesting to develop a remote controller with speech and gesture and whatever .	discussion of proposed features
+C	870.2	Yeah .	discussion of proposed features
+D	870.48	But you have to think , the user is the one who gonna buy the product and so .	discussion of proposed features
+C	875.25	Yeah .	discussion of proposed features
+A	877.03	Okay .	discussion of proposed features
+D	877.33	I mean , that's the point .	discussion of proposed features euqipment issues
+A	877.85	So let's go to the Industrial Designer .	euqipment issues
+C	880.64	Okay .	euqipment issues
+A	881.58	Maybe we'll be able to take a decision after that , so .	euqipment issues
+B	884.49	Okay .	euqipment issues
+C	884.49	Yeah .	euqipment issues
+A	889.12	Two ?	euqipment issues
+B	889.6	Yeah , participant two um Yeah , working design , so .	euqipment issues
+A	891.72	Working ?	euqipment issues
+B	896.02	So I think Can you go to the next one ?	euqipment issues
+A	901.37	I can Okay .	euqipment issues
+B	903.32	I uh it's not this one .	euqipment issues
+B	904.4	It's uh oth the oth so I It's the working design .	euqipment issues
+B	907.51	Sorry .	euqipment issues
+B	909.13	Component design .	euqipment issues
+A	909.51	It's okay Uh I think there's something wrong with your Maybe you you record it somewhere else .	euqipment issues
+B	910.48	So this yeah so this is the described use What ?	euqipment issues
+B	917.45	Are you inst I don't think so .	euqipment issues
+C	921.35	It did didn't r receive it .	euqipment issues
+C	922.83	Didn't receive it .	euqipment issues
+C	931.65	Participant one .	euqipment issues
+C	936.92	Participant one .	euqipment issues
+A	939.51	Interface concept .	euqipment issues
+A	941.98	No .	euqipment issues
+D	943.72	Hmm .	euqipment issues
+A	946.92	Mm mm .	euqipment issues
+B	947.57	Oh .	euqipment issues
+B	951.22	Maybe I record recorded directly on the Computer .	euqipment issues
+D	956.96	Yeah .	euqipment issues
+A	959.69	Uh .	euqipment issues
+D	962.35	Dunno .	euqipment issues
+A	962.4	Nope .	euqipment issues
+B	964.02	Okay , okay .	euqipment issues
+B	964.88	Yes .	euqipment issues
+A	964.99	It seems that we have a problem with the Yeah , so No , I think it will be more interesting to start with uh Yeah .	euqipment issues
+D	967.72	I dunno if you remember what you had to say or I think it's more interesting what he says , okay .	euqipment issues
+B	970.42	I can say it to you without .	euqipment issues
+C	973.67	Yeah , maybe we can first come to uh to Frahan .	euqipment issues
+C	979.25	With Frahan , then you can prepare your slides , then present it later .	euqipment issues
+B	982.57	Yeah , exac Okay .	euqipment issues
+A	983.6	You will had s some more information in I think it will be interesting after your presentation to have um Baba's presentation .	euqipment issues
+B	987.89	Yeah .	euqipment issues
+D	988.8	Yeah , true .	euqipment issues
+B	991.11	Yeah .	euqipment issues
+C	991.41	Okay .	euqipment issues
+B	992.06	In fact , I don't know , I s because i in my presentation I don't have here with so It was in fact the design use to show you the design of what is inside a what is inside and what are the different component of the r of the remote control .	euqipment issues
+A	992.84	So .	euqipment issues
+A	993.66	Okay .	euqipment issues
+A	997.73	Okay , never mind .	euqipment issues
+C	1003.09	Okay .	euqipment issues
+C	1009.65	Okay .	euqipment issues
+B	1009.97	So it will be interesting so I could show you some some picture of what is inside and so .	euqipment issues
+C	1014.84	Okay .	euqipment issues
+B	1019.0	So I in fact the the f something I want to discuss is which kind of material are we going to use , so will it will be wooden wooden di wooden remote control or a a plastic remote control like this one .	components, materials and energy sources
+A	1025.95	Mm-hmm .	components, materials and energy sources
+B	1035.55	So and in which which which kind will be the the different bu button , so it can be some , you know , classic pushbutton like this one , or you have also some button like L_C_D_ where you know , the button the buttons are unlighted during the night , or , you know , you can see them in the darkness .	components, materials and energy sources
+A	1043.08	Mm-hmm .	components, materials and energy sources
+C	1052.11	Mm-hmm .	components, materials and energy sources
+A	1052.31	Mm-hmm .	components, materials and energy sources
+A	1057.01	Okay .	components, materials and energy sources
+C	1058.43	Okay .	components, materials and energy sources
+B	1059.05	And the other thing I want to discuss also is which kind of alimentation , electric alimentation do you want to have , so will it be for example uh d uh solar energy alimentation or will it be a battery like the classical battery so .	components, materials and energy sources
+C	1072.82	Uh-huh .	components, materials and energy sources
+B	1077.96	And I think that for example for the alimentation it would be good to have uh both of them , so so for example in some country where you are in the the countryside and you are far from , you know , the cities uh for example in some place in in S Senegal , so if you have electric if you have solar alimentation , you just , when you want to have recharger or remote control power you just put it on the sun and after one hour you can come and so it can be interesting for people to have this kind of remote con It can be something interesting to make people buy it , for example .	components, materials and energy sources
+C	1091.92	Mm-hmm .	components, materials and energy sources
+C	1098.56	Mm-hmm .	components, materials and energy sources
+A	1115.62	Yeah , I think it's an added value to the remote control and maybe it can attract all the ecological k yeah consumers and but about the the price of adding this solar battery , would it be something really that will increase the price of production more , no ?	components, materials and energy sources
+B	1116.54	Yeah .	components, materials and energy sources
+B	1118.19	Yeah , yeah mm .	components, materials and energy sources
+B	1121.78	Ecologists , yeah , yeah , yeah , yeah , yeah .	components, materials and energy sources
+D	1122.67	Yeah .	components, materials and energy sources
+D	1124.08	Yeah .	components, materials and energy sources
+B	1134.21	Alrigh In fact , having them both will if we want to have battery , regular battery and and the solar energy battery it could be it'll it will add a little bit of the price , but it will be an added value also that will be compensated , so hmm .	components, materials and energy sources
+A	1148.84	So .	components, materials and energy sources
+D	1151.49	Yeah .	components, materials and energy sources
+A	1152.14	Okay .	components, materials and energy sources
+A	1156.53	And what tha what about the uh materials ?	components, materials and energy sources
+B	1160.93	And the materials , it depends for example you if you have a wooden material it can be more the plastic material is more common it's very resistant but , you know , something wooden will be like , I don't know high cl so a special high class , or you know , you can have some Yeah , even if it is not completely wood , but just a part of the , you know , will be wooden , in wood and it can be interesting .	components, materials and energy sources
+A	1169.71	Impersonal , mm-hmm .	components, materials and energy sources
+A	1174.79	Yeah .	components, materials and energy sources
+D	1174.79	Special for Mm-hmm .	components, materials and energy sources
+A	1177.8	Yeah , and i if you we want to put fashion in electronics maybe we can try to do something with wood .	components, materials and energy sources
+C	1182.91	Mm-hmm .	components, materials and energy sources
+D	1183.37	Yeah .	components, materials and energy sources
+A	1186.12	Mm-hmm .	components, materials and energy sources
+A	1188.09	Mm .	components, materials and energy sources
+A	1190.39	Mm okay , seems to be interesting , mm .	components, materials and energy sources
+B	1191.09	And so the last point is y also would do you want to have some very cheap integrated cir circuits , chips , or do you have low level or or very very expensive , it depends , but I think that low level will be , you know , it is an interim module .	components, materials and energy sources
+A	1211.52	Yeah , we want something easy to use and so I think maybe something very low level wou would be enough .	components, materials and energy sources
+B	1213.19	Yeah .	components, materials and energy sources
+B	1216.24	Yeah .	components, materials and energy sources
+B	1216.57	Yeah , yeah .	components, materials and energy sources
+A	1218.32	And you think that we will be Okay .	components, materials and energy sources
+B	1220.28	Yeah , I think it will fit on the price we want , twel twelve Euros , so .	components, materials and energy sources
+A	1223.61	So wood .	components, materials and energy sources
+A	1224.27	And what about the buttons ?	components, materials and energy sources
+B	1226.44	I think the buttons I pr I prefer , you know , the L_C_D_ you know lighted buttons because , you know , it's I don't know um yeah , in the dark , it's fashion and it's related to how beautiful it is or uh if you want to watch T_V_ in the darkness or if you want to lo find your find your your remote control that is lost , you know in the darkness it's very easy so , right .	components, materials and energy sources
+A	1235.61	No it's fashion , yeah .	components, materials and energy sources
+D	1252.87	What about the touch scr touch screen ?	components, materials and energy sources
+D	1255.72	For example .	components, materials and energy sources
+D	1257.08	It's it's expensive I I guess .	components, materials and energy sources
+B	1261.24	I think a touch screen will be t as expensive as the L_C_D_ buttons so .	components, materials and energy sources
+D	1267.4	Mm .	components, materials and energy sources
+B	1267.92	But And it is a kind of other design , I mean .	components, materials and energy sources
+B	1270.81	It can also be interesting to have this kind of Mm .	marketing expert presentation components, materials and energy sources
+D	1270.93	Yeah .	components, materials and energy sources
+C	1278.09	So you got email ?	industrial designer presentation
+A	1279.72	I dunno .	marketing expert presentation
+A	1281.31	I think we have only uh five minutes left .	marketing expert presentation
+D	1286.96	Okay .	marketing expert presentation
+A	1288.26	Participant four ?	marketing expert presentation
+A	1289.66	Functional requirements ?	marketing expert presentation
+D	1291.25	Uh no , trend watching .	marketing expert presentation
+D	1294.48	The other one .	marketing expert presentation
+A	1299.18	This one ?	marketing expert presentation
+D	1300.12	Yeah .	marketing expert presentation
+D	1301.18	Uh , I think so , just Yeah , so just to meet the user requirements I would just do a s short anal analysis of the remote control market and to kind of um have a better overview of what's the fashion in general I've checked more than only the remote control market , so next .	marketing expert presentation
+D	1329.27	So again , it's pretty much similar to what I've said in the previous meeting .	marketing expert presentation
+D	1333.6	Um user really really want a fancy look and feel .	marketing expert presentation
+D	1337.47	They're not so so interested in uh functional look and feel , okay .	marketing expert presentation
+D	1341.09	Like the one you've shown , David , with all the buttons and I mean i i it sounds good technically but it's it's not what they want and uh So , second point is they still want it it to be technologically innovative , so maybe it's sort of related to what you've said with the speech recognition and so on .	marketing expert presentation
+C	1342.84	Mm .	marketing expert presentation
+A	1361.24	Okay .	marketing expert presentation
+D	1361.69	At the same time , it's important that it's easy to use .	marketing expert presentation
+D	1365.84	So that were the three first points from the remote control uh analysis .	marketing expert presentation
+D	1371.14	Now i if we look at fashion in general um Okay .	marketing expert presentation
+D	1377.97	Wha what we really see this year is that uh everything from clothes to shoes and furniture is is inspired by fruits and vegetables , okay , so I think we really have to take this into account for the design of the the thing .	marketing expert presentation
+B	1388.04	Ah yes .	marketing expert presentation
+B	1393.39	Yeah , yeah .	marketing expert presentation
+B	1394.37	Okay , yeah .	marketing expert presentation
+D	1395.16	'Cause it's it's really what people want .	marketing expert presentation
+D	1397.44	Even if it's in general fashion , we want it to be in the remote control .	marketing expert presentation
+D	1402.68	And then uh if if we take the ordering or the ranking of all the points , fancy look and feel has , on a score of seven would have six as importance .	marketing expert presentation
+D	1415.51	Uh the remote control has to be technologically innovative , it's three .	marketing expert presentation
+D	1419.86	Then easy to use uh it's not so important actually with respect to other y other ones .	marketing expert presentation
+B	1425.03	Okay .	marketing expert presentation
+D	1425.95	So we see fancy look an look and feel is the most important one , and then if we combine this with the fashion uh from Milan and Paris we go to the fruits and vede vegetables .	marketing expert presentation
+B	1433.84	And fruit and vegetables yeah .	marketing expert presentation
+D	1437.33	And the other point I haven't mention is people wan want to have a spongy touch , okay so this is this maybe doesn't really fit with the wooden design .	marketing expert presentation
+B	1442.4	Spongy 'Kay .	marketing expert presentation
+B	1448.82	Okay , yeah , yeah .	marketing expert presentation
+D	1449.85	I dunno .	marketing expert presentation
+B	1450.87	Yeah , but the problem is which kind of material do you need to to be spongy ?	marketing expert presentation
+D	1455.28	Yeah thi this is this would be like um plastic-like , but rubber , mayb maybe , you know , rubber-like uh device , so um Okay , tha tha that was the main point , I think , from the trend in fashion .	marketing expert presentation
+B	1458.32	Pla S Very stuff Okay , rubber rubber desi okay , yeah .	marketing expert presentation
+B	1463.27	Yeah .	marketing expert presentation
+B	1468.31	Yeah .	marketing expert presentation
+B	1474.7	Okay .	marketing expert presentation
+A	1475.38	So we have to take decisions about the component concepts , about the energy .	decisions on conceptual design
+A	1481.24	So , as you say you want something technologically innovative , maybe using solar energy and with battery would be something interesting , maybe will attract pro-ecology consumers .	decisions on conceptual design
+B	1485.8	Yeah .	decisions on conceptual design
+B	1487.46	Solar .	decisions on conceptual design
+D	1488.97	Yeah , so when I think it's Mm-hmm .	decisions on conceptual design
+B	1490.05	Okay .	decisions on conceptual design
+B	1496.62	Yeah .	decisions on conceptual design
+B	1498.18	It will be a Yeah .	decisions on conceptual design
+A	1503.22	Uh cheap imprint so you s you propose low level chips would be uh enough to have something working well .	decisions on conceptual design
+B	1508.2	Yeah , I think Yeah , yeah .	decisions on conceptual design
+B	1513.03	Yeah .	decisions on conceptual design
+A	1514.45	Case .	decisions on conceptual design
+C	1516.46	Later ?	decisions on conceptual design
+A	1522.44	So you think case .	decisions on conceptual design
+A	1526.53	Something spongy .	decisions on conceptual design
+A	1528.16	Someth no wood .	decisions on conceptual design
+B	1529.91	No wood but Plastic ?	decisions on conceptual design
+D	1530.64	Maybe not no wood , but I mean ma maybe not the part you touching you know .	decisions on conceptual design
+B	1532.61	Would some I think we can have wood for example in the bottom and , you know .	decisions on conceptual design
+C	1534.93	Pla Uh yes .	decisions on conceptual design
+A	1535.57	Maybe you It's it's natural .	decisions on conceptual design
+D	1538.2	Yeah , maybe the base .	decisions on conceptual design
+B	1538.55	It depends on the design we want , so .	decisions on conceptual design
+D	1540.85	But still y Yeah .	decisions on conceptual design
+B	1542.36	Yeah , it's natural and i And it can be correlated to energy , solar energy , so for the marketing aspect , you know , saying that it's ecol Mm , yeah , it's not right , so .	decisions on conceptual design
+A	1542.7	Th The feeling is natural , so maybe we can stay with wood .	decisions on conceptual design
+D	1550.8	Yeah , I mean it's not exactly right for the spongy point of view .	decisions on conceptual design
+A	1556.53	But it's still fashion .	decisions on conceptual design
+D	1557.9	But we could maybe have both like part of wood and some rubber for the buttons , or I dunno .	decisions on conceptual design
+B	1562.52	Okay .	decisions on conceptual design
+A	1563.02	Yeah , something that you can into it .	decisions on conceptual design
+D	1564.75	Yeah .	decisions on conceptual design
+A	1566.53	Uh and what about the user interface concept ?	decisions on conceptual design
+B	1571.51	Google and and fancy , f how about the the voice ?	decisions on conceptual design
+A	1572.98	Google and fancy ?	decisions on conceptual design
+A	1576.38	Because I think that with the voice and gesture recognition there are still some disadvantages with this .	decisions on conceptual design
+B	1576.38	And Uh maybe we can do some marketing studies asking people if they're interested and how It It is an an interesting concept to see to have uh voice control .	decisions on conceptual design
+D	1594.77	Yeah .	decisions on conceptual design
+C	1595.48	Yeah .	decisions on conceptual design
+C	1597.27	Yeah .	decisions on conceptual design
+C	1598.03	The smart controller .	decisions on conceptual design
+B	1598.32	Mm .	decisions on conceptual design
+B	1599.15	Yeah .	decisions on conceptual design
+B	1599.77	But and the problem is I I'm we can infer i if you have v voice control why not to put it directly on the the T_V_ , so speak directly to the T_V_ and you don't need a remote control actually , so .	decisions on conceptual design
+A	1612.31	Yeah , but you need a receiver to recognize the gestures and the voice .	decisions on conceptual design
+B	1616.18	But it will be embedded on the T_V_ and not on the remote control , so .	decisions on conceptual design
+A	1619.76	That's true .	decisions on conceptual design
+D	1620.05	Yeah d I dunno .	decisions on conceptual design
+C	1621.36	Okay .	decisions on conceptual design
+A	1622.28	So maybe we'll just focus on the Google controller plus the fancy controller , maybe try to mix them these two concepts together , just in one and do a remote control with solar energy and batteries and with lev low level chips and wood .	decisions on conceptual design
+C	1625.25	Mm .	decisions on conceptual design
+C	1634.1	Yeah .	decisions on conceptual design
+C	1639.12	It's good .	decisions on conceptual design
+A	1640.39	And L_C_D_ buttons .	decisions on conceptual design
+B	1643.44	Yeah , L_C_D_ .	decisions on conceptual design
+A	1658.24	Yeah , I think for these supplements the solar energy would be something quite interesting and not maybe too difficult to add .	decisions on conceptual design
+B	1666.58	Yeah , yeah , yeah .	decisions on conceptual design
+B	1670.68	And pf what can we think a supplement to I think the supplement can be the voice .	decisions on conceptual design
+D	1675.11	What interface ?	decisions on conceptual design
+A	1676.6	Yeah , for the interface something added value .	decisions on conceptual design
+B	1683.33	It is just , you know , it is not the most important , but it can be a part of Yeah , yeah .	decisions on conceptual design
+A	1690.64	With a module ?	decisions on conceptual design
+A	1691.39	You mean the remote control with a mur module if you want you can just use commands , words and use them when you don't want to use your fingers .	decisions on conceptual design
+B	1699.0	Yeah .	decisions on conceptual design
+B	1699.51	Mm .	decisions on conceptual design
+C	1700.84	Mm-hmm .	decisions on conceptual design
+B	1702.42	To push button , yeah , yeah .	decisions on conceptual design
+B	1704.14	Even it is for s just some kids , you know , switching channels one two three four .	decisions on conceptual design
+A	1709.08	Turning the T_V_ o on o or off .	decisions on conceptual design
+B	1709.97	Yeah , turning yeah , yeah .	decisions on conceptual design
+B	1712.35	Not very complex commands , but easy commands , so .	decisions on conceptual design
+A	1714.97	So , adding some vocal commands .	decisions on conceptual design
+B	1717.63	Yeah .	decisions on conceptual design
+A	1720.65	Simple ones ?	decisions on conceptual design
+B	1721.83	Yeah , simple ones for expensive buttons Yeah , to make some new Yeah .	closing decisions on conceptual design
+A	1724.55	Okay .	decisions on conceptual design
+A	1728.59	So the next meeting will start in thirty meeti minutes so we'll you will all have to work in in your direction .	closing
+A	1743.48	So you will have to work on the look and feel design , to have the easy to use , powerful and fancy remote control with some added value such as the uh simple vocal commands recognition .	closing
+C	1747.16	Yeah .	closing
+C	1751.88	Yep .	closing
+C	1758.48	Yeah .	closing
+A	1759.55	Uh you will have to work more , Baba , on the um spongy way to to add spongy um touch to the buttons and try to find maybe a nice shape for the wooden remote control .	closing
+A	1778.19	And I sup I think we'll have to evaluate th the product too .	closing
+D	1781.88	Yeah , no not forgetting about the fruits and vegetables trends .	closing
+A	1784.47	Yeah .	closing
+B	1784.98	Okay , fruits .	closing
+A	1786.99	Yeah .	closing
+D	1787.51	If possible .	closing
+B	1788.62	Okay .	closing
+A	1789.81	And remember as as I said last meeting , we really have to build a fashion remote control and uh the colour of the um the society will be really it will be seen in the remote control .	closing
+B	1803.43	Need it to be , okay .	closing
+A	1807.23	So you will have Baba and David Jordan you will have to work together on the prototype and you will have next time to show us um modelling a cl a clay remote control , so you will have to model model something .	closing
+C	1812.85	Yeah .	closing
+C	1820.34	Okay .	closing
+B	1820.36	Okay .	closing
+C	1822.3	Yep Okay .	closing
+A	1823.78	And I think that some specific instructions will be sent to you by your personal coach .	closing
+B	1829.6	Okay .	closing
+A	1830.18	So , no more questions , we can close the session .	closing
+D	1833.35	Hmm .	closing
+B	1833.73	Sounds good , mm-hmm .	closing
+D	1834.5	Okay .	closing
+A	1834.6	Yeah .	closing
+C	1835.11	Okay .	closing
+A	1835.63	Okay , cool .	closing

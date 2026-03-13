@@ -1,0 +1,725 @@
+B	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	94.69	Okay , all set ?	opening
+A	96.17	Welcome to the conceptual design meeting .	opening
+B	96.26	Uh , okay .	opening
+C	96.31	Yes .	opening
+A	100.47	The agenda .	opening
+A	102.17	The opening .	opening
+A	103.72	I'll again be the secretary and make minutes , take minutes , uh and it will be three presentations , just like the last meeting .	opening
+A	113.13	So um , who wants to start off ?	opening
+A	116.09	Technical uh designer again ?	opening
+B	117.72	Again .	opening
+A	118.25	Okay .	opening
+B	141.55	Hmm .	opening
+A	142.06	Uh , yeah .	opening
+A	142.8	Uh , before we begin it , I want to say I've I've put the minutes of the uh second meeting in the shared folder , but they're still not uh quite okay .	opening
+A	152.57	It uh it uh still some technical difficulties so the the first part of the minutes are very hard to read , because there are two documents that uh were layered over each other .	opening
+B	155.72	Mm-hmm .	opening
+D	164.03	Okay .	opening
+A	164.23	So But uh , from now on I won't use my pen anymore , so will be p just ordinary keyboard .	opening
+B	170.81	Uh , may be better , yeah .	opening
+D	172.03	Keyboard work .	opening
+A	172.75	I think it will will be more uh easy for you to read the minutes .	opening
+D	172.77	Yeah .	opening
+B	176.15	Yeah .	opening
+D	177.77	Alright .	opening
+C	179.25	Okay , when we talk about uh components design , um it's really about the material and the and uh uh really the stuff we build uh the remote controls of .	components, materials and energy sources
+C	192.95	Um , a remote control consist of uh components and the components of a remote control consist of uh properties and material .	components, materials and energy sources
+C	201.28	We have to choose th uh these uh wisely and it could affect uh uh a kind of grow of in uh in buying uh the remote controls .	components, materials and energy sources
+C	214.95	Um , the components of a remote control are of course uh the case .	components, materials and energy sources
+C	220.27	Uh the properties of the case , um it has to be solid uh in hard material like uh hard plastic uh with soft rubber for uh falling and and uh uh yeah , it feels uh good in your hand .	components, materials and energy sources
+C	237.56	Mm the buttons has to be uh solid too , and the material is soft rubber .	components, materials and energy sources
+C	243.38	Uh I've got a uh email from the possibilities of Real Reaction .	components, materials and energy sources
+C	250.81	Um uh they're telling me that um when we build uh a remote control of um of plastic or rubber , the uh buttons have to be uh rubber too .	components, materials and energy sources
+C	265.09	Mm It's okay .	components, materials and energy sources
+C	268.76	Yeah .	components, materials and energy sources
+C	270.03	I when we use a rubbled a doubled curved case , we must use a rubber push-buttons to uh the the rubber double-curved case is a is a t uh three-dimensional uh curve in the in the design , which is uh necessary when we want to be trendy .	components, materials and energy sources
+C	288.16	Uh Um the energy source , uh I've got a lot of possibilities for that too .	components, materials and energy sources
+B	293.77	Oh .	components, materials and energy sources
+C	300.71	Um , uh the basic battery , which I thi prefer because of its uh its non uh non-depending of of of uh um Uh here you have to have a hand uh yeah , kinetic uh energy .	components, materials and energy sources
+C	322.69	Also in uh this one , like in the watches , but a remote control can lie on a table for a day , and then you push uh a button and so you don't have to uh walk with it all the all the time .	components, materials and energy sources
+C	335.81	Mm , solar cells are also uh a bit weird for uh remote controls .	components, materials and energy sources
+C	343.09	Um uh also the case material , uh I think that plastic is the is the best with rubber , because uh wood or titanium would also be a bit weird .	components, materials and energy sources
+B	360.19	Oh titanium is probably trendy , I think .	components, materials and energy sources
+D	365.68	That's true , I guess .	components, materials and energy sources
+D	366.84	Yeah .	components, materials and energy sources
+B	368.15	Well , maybe a little bit expensive .	components, materials and energy sources
+B	372.23	I don't know .	components, materials and energy sources
+D	372.94	Huh .	components, materials and energy sources
+C	373.36	Uh , they don't tell anything about the cost of uh titanium .	components, materials and energy sources
+C	377.85	Um the chip uh the chip set uh and the board is uh all off the shelf .	components, materials and energy sources
+C	386.3	Also , the speaker in the remote control , when we want to retrieve it .	components, materials and energy sources
+C	391.46	Um , the base station is also off the shelf , all the materials and the components are uh just available in uh in our uh factory .	components, materials and energy sources
+C	406.05	Mm , I've told about uh the three first points .	components, materials and energy sources
+C	414.31	Mm , the simple electronical chip uh is is available uh with the LED transmitter uh transmitter .	components, materials and energy sources
+C	424.09	Uh , it's all uh off the shelf and even the speaker and the wireless retriever are all uh available in our company .	components, materials and energy sources
+C	434.06	Um , another possibility .	components, materials and energy sources
+C	435.9	I uh yeah , I looked up on was uh the L_C_D_ displays .	components, materials and energy sources
+C	443.2	Could be uh something special to our uh remote control , and it's possible , but it only cost a bit more , but maybe it can be uh within the limits of twenty five Euros .	components, materials and energy sources
+A	457.37	Twelve and a half .	components, materials and energy sources
+C	459.02	Ah yeah .	components, materials and energy sources
+A	459.27	Actually What are those , t tooth uh brushes , or so But it's actually kind of uh well , it resembles the design I had in mind for this proj You know the the cartoonish Alessi kind of design .	existing products components, materials and energy sources
+D	459.29	Yeah .	components, materials and energy sources
+B	459.8	Yeah , production cost .	components, materials and energy sources
+C	464.0	I th I got an email with uh some examples and it these were were the most trendiest one .	existing products
+C	471.58	You see uh a covers , which can be Um , I don't know .	existing products
+C	479.57	Um Yes .	existing products
+B	482.52	I Different colours also .	industrial designer presentation existing products
+D	486.22	Yep .	existing products
+C	491.63	Yes , maybe we can uh bri uh bring a couple of uh couple of types of uh maybe a kind of uh whole uh um a whole set of uh different uh remote controls .	industrial designer presentation existing products
+A	494.91	And we can we can steal their ideas .	existing products
+C	509.54	Maybe we can bring a whole line uh with uh with a huge variety of uh uh house uh stuff .	industrial designer presentation
+A	509.92	Huh .	industrial designer presentation
+A	517.62	Well , it's a possibility , too .	industrial designer presentation
+C	519.57	Like uh maybe radios and uh television also uh in this in this in the same style , but Yes , because we have to uh we have to we have to bring the logo and all the stuff uh back into it .	industrial designer presentation
+A	522.33	Uh-uh .	industrial designer presentation
+D	525.99	Yeah , that'll be for the future , I guess .	industrial designer presentation
+A	526.23	Okay .	industrial designer presentation
+A	529.62	Next time we're here .	industrial designer presentation
+D	530.57	Yeah .	industrial designer presentation
+B	530.62	Yeah .	industrial designer presentation
+A	533.9	Oh , okay .	industrial designer presentation
+D	535.33	Yeah .	industrial designer presentation
+D	535.88	Definitely .	industrial designer presentation
+A	540.22	Okay .	interface specialist presentation
+C	540.38	Thank you .	interface specialist presentation
+D	540.44	Alright .	interface specialist presentation
+B	540.58	Okay .	interface specialist presentation
+B	544.08	uh Ah .	interface specialist presentation
+D	544.35	Yeah .	interface specialist presentation
+D	545.66	That's okay .	interface specialist presentation
+B	560.87	Well , I shall go to the next slide .	interface specialist presentation
+B	563.19	Um um , I still don't have any information about user requirements .	interface specialist presentation
+B	570.67	I was thinking about just uh the basic functions and I got uh Yeah , but but then wh I don't know when there are new user requirements .	interface specialist presentation
+A	575.64	Oh , we decided upon that in the last meeting .	interface specialist presentation
+A	580.19	Didn't we ?	interface specialist presentation
+A	585.8	Oh , okay .	interface specialist presentation
+B	586.01	I ha I ha I have the I have nothing .	interface specialist presentation
+A	586.49	Well , tha I didn't receive any new requirements or somethi Just no , but we decided to use only b basic functions only .	interface specialist presentation
+B	594.05	Well , I have here a couple of basic functions I could think of .	interface specialist presentation
+A	597.43	Okay .	interface specialist presentation
+B	598.49	I dunno if they're maybe a little bit more , but Yeah .	interface specialist presentation
+A	603.98	Well we maybe we can think of that later .	interface specialist presentation
+A	606.1	W just these are the ones you already summed up in the Okay .	interface specialist presentation
+B	609.34	Yeah , I I uh well , I pointed them out here , just to make it a little bit easier .	interface specialist presentation
+B	616.68	Um Another function uh is of course we already discuss it on the side .	interface specialist presentation
+B	624.8	Um , I don't know what costs of it .	interface specialist presentation
+B	628.11	Uh , I've no idea about it .	interface specialist presentation
+B	630.17	Uh , I was also looking for what you said , for I got an email uh uh about uh L_C_D_ in in in front of the remote control .	interface specialist presentation
+B	639.58	I don't know if that's a good idea , or maybe it's a little bit too much for twelve and a half .	interface specialist presentation
+B	648.32	Production .	interface specialist presentation
+A	648.33	Yeah .	interface specialist presentation
+C	649.09	Uh-huh .	interface specialist presentation
+B	649.45	If we got already uh something like a base .	interface specialist presentation
+A	651.25	That might get redundant also maybe .	interface specialist presentation
+A	653.47	I don't know what kind of information it would Yeah .	interface specialist presentation
+B	654.47	Yeah , I don't know .	interface specialist presentation
+B	655.31	I d I uh ju I was just thinking about it .	interface specialist presentation
+D	655.57	Mm yeah .	interface specialist presentation
+B	657.36	Then I got a pop-ups to go to the meeting .	interface specialist presentation
+A	658.04	Yeah , it's okay .	interface specialist presentation
+C	658.28	Maybe we can bring t uh uh teletext to the t to the remote control .	interface specialist presentation
+B	659.4	But The remote control .	interface specialist presentation
+B	664.78	a little uh too A little bit A little bit too big , I think .	interface specialist presentation
+D	664.86	Then you and then you've got a flag s Very big R_C_ .	interface specialist presentation
+A	668.12	Okay .	interface specialist presentation
+A	669.22	That's not It was not a good idea .	interface specialist presentation
+D	670.31	Yeah .	interface specialist presentation
+B	673.19	Exactly .	interface specialist presentation
+A	674.84	Okay .	interface specialist presentation
+B	675.5	Um , yeah .	interface specialist presentation
+B	677.28	Well , the functions are are not more to discuss , I think .	interface specialist presentation
+A	680.36	No .	interface specialist presentation
+B	680.97	It's it's just the base things we already discussed that the no V_C_R_ or that kind of uh , so that's very easy .	interface specialist presentation
+A	681.01	No .	interface specialist presentation
+D	681.46	No .	interface specialist presentation
+B	689.1	Um Mm-hmm .	interface specialist presentation
+A	689.63	But you do mention the next and previous uh button .	interface specialist presentation
+D	694.12	Next channel , previous channel .	interface specialist presentation
+B	694.43	Well , that's next channel .	interface specialist presentation
+A	695.56	Oh , okay , o okay okay .	interface specialist presentation
+B	695.79	I mean next channel .	interface specialist presentation
+B	696.93	Uh Um oh , I I got an email with with an uh a remote control with a base .	interface specialist presentation
+A	703.88	Huh .	interface specialist presentation
+B	705.94	So , it's uh just an idea .	interface specialist presentation
+B	710.06	And I um uh thinked of the button sizes and I'm not sure uh if they have to be big or uh just small Well , I'm not a e I'm the expert for user-friendly , but not for trendiness .	look and usability interface specialist presentation
+C	724.3	But you're the expert .	look and usability
+D	724.74	I think it depends on the function .	look and usability
+A	732.15	Mm-hmm .	look and usability
+B	732.22	Maybe it Well uh okay , that's your point .	look and usability
+D	732.7	Well , if you save uh Perhaps uh s tiny buttons aren't user-friendly , then we wouldn't im implement that of course .	look and usability
+B	747.7	Um , yeah .	look and usability
+B	750.05	Yeah , okay .	look and usability
+B	751.9	Yeah , I've nothing to s Uh , with a little bit larger , yeah .	look and usability
+A	754.01	Well , w when we only use basic functions , we have the possibility to make the buttons larger .	look and usability
+D	754.06	Oh , that's right .	look and usability
+D	758.7	Yeah .	look and usability
+B	760.11	I thought so , but maybe with the Yeah , that groups .	look and usability
+A	763.56	Well , I think we already agreed upon the fact that the the the skip buttons and the cha and the volume buttons , th th those two have yeah , they have to be large .	look and usability
+A	772.47	Uh , I mean th th the the two two basic buttons , you know , the to skip channels and to uh I think yeah , I don't know why , but I think that is that's t trendy too , because that's the mo it it you know , it's uh acc acc um accentu uh , how do you say it ?	look and usability
+B	772.48	Large ?	look and usability
+B	776.6	Yeah .	look and usability
+D	777.61	Yep .	look and usability
+B	782.9	Most the most used uh buttons .	look and usability
+D	783.05	Those are probably the the th Yes .	look and usability
+A	791.43	It puts an extra accent on the the on the simplicity of our remotes to j to make these two most basic functions extra big , like t Yeah .	look and usability
+B	796.33	True .	look and usability
+B	797.02	Yeah .	look and usability
+D	801.0	Those are probably the b four most most used buttons on the th in the remote control .	look and usability
+C	806.48	You did the research .	look and usability
+A	806.79	And you want to acc accentuate that , you know .	look and usability
+B	807.09	Yeah .	interface specialist presentation
+D	808.57	Sorry ?	interface specialist presentation
+C	809.21	It's from your research .	interface specialist presentation
+D	810.83	Yeah , sure .	interface specialist presentation
+B	814.67	Okay .	interface specialist presentation
+A	815.02	So Okay .	interface specialist presentation
+B	816.07	Uh , that was all y uh personal preference I didn't have .	interface specialist presentation
+B	820.35	I didn't had any time left .	interface specialist presentation
+B	822.06	So Yeah , .	interface specialist presentation
+A	822.46	No uh , that's coo it's cool .	interface specialist presentation
+D	824.85	You don't care .	interface specialist presentation
+D	825.44	No , sorry .	interface specialist presentation
+D	829.78	Yeah .	marketing expert presentation
+D	834.96	Oh .	marketing expert presentation
+D	836.27	Go away .	marketing expert presentation
+D	846.55	Come on .	marketing expert presentation
+B	846.61	It's there .	marketing expert presentation
+B	848.54	Yeah , click on it .	marketing expert presentation
+B	852.7	Couple time .	marketing expert presentation
+D	854.0	Oh , great .	marketing expert presentation
+D	856.61	Well , I've done some research again about trends on the internet .	trendwatching
+D	862.84	Um I've done some investigation , and uh well I uh got some information from fashion watchers from Paris and uh Milan .	trendwatching
+D	877.81	Some uh some findings the most important thing is fancy look and feel of the remote control .	trendwatching
+D	883.74	Uh , well , we were going to imply that , so that's nice .	trendwatching
+D	887.53	The second important thing is uh innovative technology in the R_C_ .	trendwatching
+D	892.59	Uh , our market really likes really likes that .	trendwatching
+D	896.34	And uh the third point there in this uh order if of importance , the third point , is a high ease of use .	trendwatching
+D	904.93	And uh , well , for the idea , I've put some trends uh for the market of elderly people .	trendwatching
+D	910.8	Dark colours , simple recognisable shapes .	trendwatching
+D	914.04	So we probably won't do that .	trendwatching
+D	916.49	The younger market likes uh Well , the themes of of this year are uh surprisingly fruits and vegetables and spongy material .	trendwatching
+D	931.13	I found this image , which is uh Well , it symbolises the idea of fruits and vegetables .	trendwatching
+D	938.18	I don't see the spongy part in it .	trendwatching
+D	939.79	But with a little bit of fancy Exactly .	marketing expert presentation trendwatching
+A	941.63	Well maybe c then we have to do something with Sponge Bob then .	marketing expert presentation
+D	948.13	I got some ideas Uh well , yeah , pictures isn't really good word , but um some symbols of fruits or vegetables maybe .	marketing expert presentation
+D	956.91	Uh , catchy colours .	marketing expert presentation
+D	958.87	Fruit is uh yellow , green , red , whatever .	marketing expert presentation
+D	962.23	So , remote controls in in catchy colours .	marketing expert presentation
+A	963.12	It doesn't stroke with the with the dark colours .	marketing expert presentation
+D	966.09	Uh , no , we don't want dark colours .	marketing expert presentation
+A	968.1	Not the dark colours ?	marketing expert presentation
+A	968.96	Okay .	marketing expert presentation
+D	969.49	No , I just put them there to uh , yeah , uh for general idea .	marketing expert presentation
+A	973.16	Okay .	marketing expert presentation
+D	973.5	And uh , the docking st uh I think the spongy material is is very irritating for the uh remote control itself .	marketing expert presentation
+D	982.37	But to Yeah , the To implement some spongy thing , maybe we can do it in the in the docking station .	marketing expert presentation
+D	989.76	At the bottom of the docking station or whatever .	marketing expert presentation
+D	992.58	And uh , we could bring one line with a dark colour uh to um uh p uh yeah uh uh v how do you say ?	marketing expert presentation
+A	1002.27	For diversity or something .	marketing expert presentation
+D	1003.76	Yeah , also a bit for elderly people who are a little bit crazy and want maybe want a little younger design but still the dark colour .	marketing expert presentation
+A	1004.1	Uh No , but I I I think that uh our design already resembles so a piece of fruit .	marketing expert presentation
+B	1008.59	Well , how uh But how do we use uh fruits and vegetables in Christ's sake with remote control ?	marketing expert presentation
+D	1012.66	I mean it it it reaches a different market uh , but it it it doesn't cost really much effort to b to uh bring uh like a black R_C_ on the market or whatever .	marketing expert presentation
+D	1022.38	Yes .	marketing expert presentation
+D	1029.79	Yeah , there's there's always a Well there there's always empty space of course on a remote control .	marketing expert presentation
+B	1030.48	Uh , make it a banana ?	marketing expert presentation
+A	1033.63	It's like a pear or something .	marketing expert presentation
+D	1037.18	I mean I think this part of the R_C_ uh well the upper the upper part or whatever is uh is not not used with buttons , I guess .	marketing expert presentation
+A	1042.28	No , I don't think you have to do it like Yeah , but it that doesn't have to remind you , you know , like explicitly of s our f of a of a specific piece of fruit , but just , you know , like the the the the round curves .	marketing expert presentation
+D	1048.42	So you you can put some fruity things No , of course not .	marketing expert presentation
+A	1060.52	And so y I I think this y it already sem resembles uh something like a pear to me or something .	marketing expert presentation
+D	1061.71	Especially i Yeah , yeah .	marketing expert presentation
+B	1064.49	Yeah , but th yeah , but that Yeah , but that's Yeah uh uh But d don't we need a creative artist or something like that to m make it to feel like a a a a vegetable or fruit ?	marketing expert presentation
+D	1066.79	Yeah , exactly .	marketing expert presentation
+D	1068.92	If we make it little bit greenish .	marketing expert presentation
+A	1069.17	Yeah .	marketing expert presentation
+A	1070.2	You do get the idea , eh ?	marketing expert presentation
+A	1071.17	The fruity kind of round 'Kay .	marketing expert presentation
+D	1073.08	A and we could use one of these for the uh w what is it ?	marketing expert presentation
+A	1077.12	Yeah , uh yeah , I don't know .	marketing expert presentation
+C	1079.05	Grapes .	marketing expert presentation
+D	1079.26	Uh Isn't Wha whatever .	marketing expert presentation
+A	1081.08	Uh , this is a b yeah .	marketing expert presentation
+A	1086.9	Yeah , yeah .	marketing expert presentation
+A	1087.41	Of course we have uh we have a very big uh the s Of d design team , yeah .	marketing expert presentation
+D	1088.76	Yeah , sure .	marketing expert presentation
+D	1090.66	Yeah .	marketing expert presentation
+D	1091.91	Well , w we can uh w we can we can produce multiple uh multiple things .	marketing expert presentation
+C	1093.45	For a big team of artists .	marketing expert presentation
+D	1097.43	This is then the uh pear .	marketing expert presentation
+D	1099.46	I don't know the English word , so forget it .	marketing expert presentation
+A	1100.58	Yeah , but It's pear , I guess .	marketing expert presentation
+D	1103.25	And um , maybe , yeah , a b a banana is uh is n not easy for a remote control , but m yeah .	marketing expert presentation
+C	1104.87	But uh but I think we don't have to make we can't make all uh ten designs .	marketing expert presentation
+A	1110.87	No .	marketing expert presentation
+C	1113.84	We have to make one design I th I I think .	marketing expert presentation
+A	1116.4	No , but I think it's it's already what we were were up to .	marketing expert presentation
+D	1117.28	Mayb maybe two or three .	marketing expert presentation
+B	1119.5	Yeah .	marketing expert presentation
+A	1120.2	Uh , it's it doesn't have to resemble uh what I already said , a specific piece of fruit , but just , you know , like a fruity thing going on .	marketing expert presentation
+D	1120.51	Yeah .	marketing expert presentation
+D	1125.13	No sure , but but B but that's great , and and and what I was what what I was saying , the catchy colours Yeah .	marketing expert presentation
+A	1127.57	And it's it looks fruity to me .	marketing expert presentation
+A	1131.03	And uh , but I do like the yeah , I do like uh the f uh to the idea of making a a y uh , a catchy colour design and a d because I do I think a dark colour would be nice too .	marketing expert presentation
+C	1141.99	But pictures of fruit , vegetables vegetables Yes , you can put a logo on top of it .	marketing expert presentation
+A	1143.19	Maybe it's too much , you know .	marketing expert presentation
+B	1144.12	But , we we have to um There have to be the the the the firm colours , our own uh colours has to be in it .	marketing expert presentation
+D	1144.24	Yeah , uh not really .	marketing expert presentation
+D	1145.73	Pictures was a was a bad word , but Well we c yeah .	marketing expert presentation
+A	1150.09	Okay , but what are the This is yellow .	marketing expert presentation
+B	1152.67	Yellow , a Real Reaction .	marketing expert presentation
+D	1156.4	Yeah , sure .	marketing expert presentation
+A	1156.41	But I don't think our our company colours are this fashionable .	marketing expert presentation
+B	1157.26	Uh , yeah .	marketing expert presentation
+D	1160.22	Maybe we can if if we got our docking station over here .	marketing expert presentation
+C	1160.9	Yes , it's really fruity .	marketing expert presentation
+B	1161.81	We uh f A yellow do Uh , yeah .	marketing expert presentation
+D	1163.95	I can't draw with this thing , but I'll try .	marketing expert presentation
+D	1166.49	If this is our docking station , we can make our logo over here .	marketing expert presentation
+D	1170.73	It doesn't work .	marketing expert presentation
+D	1172.15	And then Well , the button button over here or whatever , I don't know .	marketing expert presentation
+B	1173.18	Yeah , and the button then .	marketing expert presentation
+C	1174.2	With a strawberry on top .	marketing expert presentation
+A	1175.16	Yeah , on uh n uh on the bottom of the remote you can do Okay .	marketing expert presentation
+B	1178.87	Okay , yeah .	marketing expert presentation
+D	1181.02	On the front , of course , because else you can't find it .	marketing expert presentation
+B	1185.08	Okay .	marketing expert presentation
+D	1185.36	Well , that were my ideas a little bit .	marketing expert presentation
+D	1188.78	I'll close 'em down .	marketing expert presentation
+D	1190.42	Um , go away .	marketing expert presentation
+A	1194.7	Okay , you can you open the conceptual design presentation ?	discussion
+D	1196.9	Conceptual design , yes .	discussion
+A	1199.1	See what was on the agenda .	discussion
+B	1202.49	Lazy .	discussion
+D	1203.5	The agenda .	discussion
+A	1204.89	This is his own remote .	discussion
+A	1206.24	Because um , maybe we can start with the technical uh functions , but I don't think it's there uh , yeah um , do we want to um use an L_C_D_ display , for example ?	discussion
+B	1206.9	Yeah .	discussion
+D	1217.64	Well , it's nice , of course .	discussion
+C	1218.65	Only if we Maybe maybe we can make a T_V_ guide on it , for the channel you're on .	discussion
+D	1219.18	But I don't I don't know what to display on it .	discussion
+D	1221.65	I mean Yeah , but it should be li like this big , and I don't think Yes sure , but it it has to to show an entire title of a programme or at least a q a quite quite large part of it and then you get a very large L_C_D_ screen , because Yeah , I don't know .	discussion
+A	1222.64	Me neither .	discussion
+A	1227.29	Yeah , but it's so I don't think we should do it .	discussion
+C	1230.15	No , no , only the T_V_ channel with the with uh with uh four programmes .	discussion
+C	1235.96	You can uh zap through them with the page up page down button .	discussion
+C	1246.35	Yes , it can On your No , on your mobile phone you can y you can read text also .	discussion
+C	1253.19	So why not on your remote ?	discussion
+A	1255.66	Yeah , but no .	discussion
+A	1257.5	I do I think it's a bit redundant , actually .	discussion
+A	1259.9	And it's also not I don't th even think it it looks s like sexy or something , it's But you're already watching the T_V_ , you're not gonna watch your remote control .	discussion
+B	1263.53	Well well what would you display on it then ?	discussion
+C	1266.08	Uh , programme uh information or or or or g or a guide on t on teletext , yes .	discussion
+D	1267.71	Programme information .	discussion
+B	1268.55	But is it isn't that a already on T_V_ , a lot of new T_V_s ?	discussion
+D	1268.72	But Well a lot a lot of T_V_s indeed show uh when you uh zap to a But then we also uh w need to bring out a line of T_V_s which we were planning to , but whatever .	discussion
+C	1273.04	Also on the internet .	discussion
+C	1274.63	But Yes , but you also want to know what's next .	discussion
+B	1277.87	Yeah .	discussion
+B	1286.97	Yeah , and we also have to yeah .	discussion
+D	1288.33	Because the T_V_ has to send information back to the R_C_ , and I don't know if that's possible .	discussion
+C	1293.04	Yes , that's uh really possible .	discussion
+D	1295.78	Yes , yes , o of course it's possible , but you gotta uh implement it in the T_V_s , and I don't think everyone's gonna buy a Real Reaction T_V_ within a month after the release of our uh remote control .	discussion
+B	1308.51	And I also Yeah , I dunno .	discussion
+A	1308.52	I really understand you want to make your job more exciting by putting an L_C_D_ in it , but I I really don't think it's a good n goo because it also doesn't stroke with we wanted uh c When we talk about the materials , uh it's a good idea to use these plastic materials with soft rubber stuff on it .	discussion
+A	1325.33	It was our idea , you know , to give it a more sturdy look and that you ca like you can throw with it .	discussion
+D	1328.05	Yeah .	discussion
+A	1329.93	But I don't think a L_C_D_ display fits in that image .	discussion
+A	1332.77	You know , it's like more vulnerable , and it adds nothing really , you know .	discussion
+D	1335.91	That's true , that's true , it breaks f yeah , it it it's not very solid , it's uh frag fragile .	discussion
+A	1341.05	Yeah , yeah .	discussion
+A	1341.46	You could make it , but it's just it it doesn't I don't think it it's coherent with the design we're after .	discussion
+D	1346.52	No .	discussion
+D	1347.29	No .	discussion
+D	1347.9	I don't think so ei either .	discussion
+A	1349.76	But that's my opinion .	discussion
+A	1351.2	Well , you you y Okay , we can vote for it .	discussion
+A	1353.04	You want the L_C_D_ display .	discussion
+C	1354.71	No .	discussion
+A	1355.29	I don't want to and he doesn't , so it's up to him .	discussion
+A	1359.95	If we wanna And I've read somewhere that I've got some kind of veto veto uh rights .	discussion
+D	1360.28	Ah .	discussion
+B	1367.37	Oh , okay .	discussion
+D	1367.71	Bastard .	discussion
+A	1369.0	So I can also say But did we skip the Yeah , you could do m but what what i so what i but do you think we should We're not even sure what what information we want to display on it .	discussion
+B	1370.7	We can you away .	discussion
+B	1374.47	Yeah , I don't know .	discussion
+B	1375.13	Uh , uh I i if it's it's a simple p No , that that's right , and uh I also have to think about new functions , maybe buttons or something like that to control it .	discussion
+C	1379.89	No uh um Y yes , you can use uh buttons uh uh w that are already uh on the remote control for double functions .	discussion
+A	1380.21	So Nah , that's not gonna work .	discussion
+B	1387.17	Kind of L_C_D_ or something or But how does it display then ?	discussion
+D	1390.15	Yeah , I guess .	discussion
+B	1397.6	W when I go to the second channel , what what does it show me ?	discussion
+C	1398.1	Uh , then you push a button .	discussion
+C	1401.89	The title and the information about the programme .	discussion
+B	1405.2	About that programme ?	discussion
+C	1405.38	But but uh yeah , what he said was right , about the televisions , they have to be uh customised to the But maybe in future it will be a giant hit , and when you are the first you have the biggest uh Yes , you can put uh a little L_C_D_ display on it with uh with lots of information .	discussion
+D	1414.12	No .	discussion
+A	1415.46	Yeah .	discussion
+A	1419.07	Oh , well uh I've seen it done before .	discussion
+A	1420.93	Do you know th like the the bigger rem uh universal remotes , they have d L_C_D_ displays , but then it's very functional to indicate which what uh uh device you are controlling .	discussion
+B	1420.95	Yeah .	discussion
+A	1430.83	So it's that that's what I've seen .	discussion
+D	1432.55	Yeah , that's true , if you uh Yeah .	discussion
+A	1437.61	But it just it j it doesn't doesn't match with the our whole basic concept .	discussion
+C	1437.68	But uh I haven't thought about it .	discussion
+C	1441.73	But whe but when you put a a a transparent uh plastic uh uh screen on top of it , it i it isn't vulnerable .	discussion
+A	1450.77	Well yeah , yeah , okay .	discussion
+C	1450.92	You can throw with it and When when you put uh maybe a colour L_C_D_ t uh screen on it , it's very special and very trendy to have uh a remote control from But uh I've got a the email with uh with the possibilities .	discussion
+A	1451.75	That's maybe not the most important , but it's just I don't think so .	discussion
+B	1453.67	Is it fashion ?	discussion
+B	1462.15	I don't know .	discussion
+B	1463.12	That's not up to you .	discussion
+B	1463.85	That's up to market if i if it's trendy .	discussion
+A	1466.23	Yeah , well do you ha do you have to You haven't looked after the trendiness of L_C_D_ displays , have you ?	discussion
+D	1467.84	No .	discussion
+B	1469.89	Because our our motto is we put fashion Yeah , if you want to be trendy you have to be coloured .	discussion
+D	1470.07	Well , I think it's uh I think it's pretty trendy , to be honest , uh but um I don't know if if if well , I'm coming back to the costs again , but I think uh we gotta build a b pretty cheap design to to stay within our limits .	discussion
+D	1485.3	And I think uh especially colour L_C_D_ , which is indeed pretty trendy .	discussion
+D	1489.37	But I don't think Uh , I think it will be too expensive .	discussion
+C	1499.65	And L_C_D_ was a possibility for the remote control .	discussion
+A	1502.19	Yeah yeah yeah .	discussion
+C	1503.06	So why don't we use it .	discussion
+D	1505.91	Uh , did it say a price also uh for for uh monogramme uh L_C_D_ or uh coloured L_C_D_ ?	discussion
+A	1506.01	Yeah , but we're gonna if it Then uh then you better don't yeah , d Uh uh I really don't feel the whole idea of an L_C_D_ display .	discussion
+B	1515.02	Coloured If you have black and white or something , or grey , that's It's too much uh maybe uh with with the L_C_D_ and the docking station and With one thing special .	discussion
+D	1516.73	Yeah really , if y if you c i I in in two thousand and four you can't uh put something on the market which is a monogramme .	discussion
+D	1526.79	Really .	discussion
+C	1527.91	No , but it doesn't sa say anything about a colour or But , mm , I alf I also got a possibility to put uh a scroll button on it .	discussion
+C	1538.74	But I didn't think that Yes , but o on the No , when y But it look Yes , but that remote controls are already on the market .	discussion
+A	1542.97	I'm sorry .	discussion
+A	1544.42	It can't co you cannot convince me .	discussion
+A	1546.58	I don't know how well how to with you guys , but I don't really feel it .	discussion
+A	1551.21	We already we're uh Yeah , we already have the the th th th base station gadgets , and want and it uh uh , do it has to be a simple design , which sturdy , which soft I don't think I j uh , and really , I don't see how the the L_C_D_ display is gonna add anything , you know , on a design level .	discussion
+D	1554.66	Yeah .	discussion
+D	1561.87	W we've we've gotta find a balance , of course .	discussion
+D	1564.3	And I think We have a pear .	discussion
+B	1565.16	Not a whole package of specialty .	discussion
+A	1575.19	Uh , I think it's slicker to have no L_ CEDs .	discussion
+A	1578.7	Y we want to it's simplicity , w you have two big buttons and you can do whatever you want with these two buttons , so you don't need an L_C_D_ .	discussion
+A	1587.54	It doesn't fit in our philosophy uh behind the whole remote .	discussion
+C	1588.28	The simple Yes , but but when you want to have something special Yes , but you had a picture of it from another company .	discussion
+A	1595.58	Yeah , but we already have the docking station , which is It has to be developed , but no , but it that's that's our that's our killer feature .	discussion
+B	1599.18	And uh the Yeah .	discussion
+B	1607.96	It's just an it's just an idea .	discussion
+A	1609.74	That's our what makes it special .	discussion
+B	1609.81	It's a it's True .	discussion
+C	1610.25	Yes , it was already made .	discussion
+C	1612.17	Tha the remote control on the docking station .	discussion
+A	1612.87	Yeah , we're gonna develop our own r n docking station .	discussion
+D	1614.91	Is that so ?	discussion
+D	1615.59	Was it it wasn't just a prototype ?	discussion
+C	1615.93	Yes , he have a picture of it .	discussion
+B	1616.25	Well uh I uh Yeah , I dunno .	discussion
+D	1620.65	Exactly , I've never seen it in a store .	discussion
+A	1622.01	Uh , but re we really have to cut this off , I re I know you I I I I I get the idea you really like it , you know , the the L_C_D_ thing , but I I think it's it's not a good idea , and we have already mentioned all the arguments .	discussion
+A	1635.39	I don't uh , do you guys agre How do you guys think ?	discussion
+A	1637.82	I d Okay , we s skip the L_C_D_ display .	discussion
+B	1638.08	No , it's too much .	discussion
+D	1639.21	I think it's a little too much , yeah .	discussion
+B	1641.1	It's overdone .	discussion
+C	1643.94	Okay .	discussion
+D	1646.02	Okay .	discussion
+A	1646.75	I'm sorry , maybe you can do something if we are at your own place , or make it make it make it happen in your basement or something .	discussion
+B	1647.55	Democratically .	discussion
+D	1648.37	No .	discussion
+C	1652.37	Mayb I will rule the world with it .	discussion
+A	1656.29	But Probably so .	discussion
+D	1658.19	Yeah , yeah , yeah , yeah .	discussion
+A	1659.47	Okay .	discussion
+A	1660.21	But for the technical part .	discussion
+A	1661.2	The m material , I think uh it was a good idea to use the plastic and uh the rubber .	discussion
+C	1666.6	Yes , maybe a bit of a cushion is Yes .	discussion
+A	1666.82	Uh Yeah yeah yeah , p Exactly .	discussion
+A	1670.52	This is what it w Yeah , but it it was already what we're uh we're after , you know , to give it uh , you know , the soft touch in your hands and also to , know , like Yeah , that is y the b airbag kind of thing .	discussion
+D	1670.57	Yeah , for the spongy uh feel .	discussion
+B	1672.75	With a spongy Bob feel .	discussion
+D	1673.24	Yeah .	discussion
+B	1676.48	Yeah .	discussion
+C	1681.47	Like a b yes .	discussion
+A	1682.72	You can st throw it at your little brother's head .	discussion
+B	1682.81	Yeah , you just can drop it .	discussion
+D	1683.39	Yeah , airbag .	discussion
+B	1684.4	Yeah .	discussion
+D	1684.81	If you drop it if you drop it the airbag comes out , yeah .	discussion
+B	1687.36	Yeah .	discussion
+A	1687.48	Yeah .	discussion
+A	1688.15	No no no , not that comfy .	discussion
+C	1688.99	Maybe it but then we have to look that it uh w uh will not um be too childish to see .	discussion
+A	1697.07	Yeah yeah .	discussion
+A	1697.94	Yeah .	discussion
+A	1698.34	Okay , that's a that's a good point .	discussion
+A	1699.74	And that's why I like the dark t col dark colour bit , you know , because it may be the design uh , it's uh maybe it is a bit of the it's a bit nineties maybe , what we're what we're up to rat fun to this point .	discussion
+D	1703.72	Yeah .	discussion
+B	1708.37	But not black I think .	discussion
+D	1710.85	No .	discussion
+B	1713.83	Well if if it's fruit and vegetables , it have to be colourful .	discussion
+A	1717.25	Yeah , that's that's true , but but it has to be a little big solid .	discussion
+D	1717.54	Yeah , b yeah , that's what w I I was pointing at .	discussion
+B	1718.27	But can we ge uh uh Can we combine it or something ?	discussion
+A	1720.79	It mustn't be too , n you know , th too overwhelming , then when you put it on your just Yeah .	discussion
+B	1726.34	Uh with uh yellow and black ?	discussion
+A	1728.55	Yeah , maybe so .	discussion
+B	1729.98	Make it a bee ?	discussion
+D	1731.74	What ?	discussion
+B	1732.39	A bee .	discussion
+D	1732.78	Oh , a bee .	discussion
+D	1733.75	Oh .	discussion
+A	1734.44	No , uh I don't like the yellow and black combination .	discussion
+A	1737.57	But it is our company colours .	discussion
+C	1739.3	Yes , real real good colours .	discussion
+A	1739.38	Apparently .	discussion
+B	1739.7	Yeah , it's our yeah .	discussion
+B	1742.31	We we have to use yellow .	discussion
+D	1744.33	Yeah .	discussion
+D	1745.71	Hmm .	discussion
+C	1747.0	Hmm .	discussion
+A	1747.77	I don't like yellow , and uh maybe I don't know .	discussion
+D	1749.19	Well , we can as as I draw really nicely over there .	discussion
+C	1750.95	But that's not really fruity .	discussion
+D	1754.3	We can put the logo on our uh on our base station .	discussion
+D	1757.93	Uh , yeah .	discussion
+D	1759.55	And maybe very very tiny on the remote control itself .	discussion
+A	1760.02	But Okay , but what uh , what are other tef technical things we have to discuss ?	discussion
+D	1763.02	But , i Yeah .	discussion
+C	1768.78	Uh fronts of the We can have uh different uh uh fronts of the telephone .	discussion
+A	1777.43	Should we do that ?	discussion
+A	1778.58	I don't think you we should do that .	discussion
+A	1779.7	Maybe just bring it out in different colours , but not af that you can switch fronts afterwards , that's also too much .	discussion
+B	1780.99	Different fronts .	discussion
+D	1783.74	I guess that's that's enough .	discussion
+A	1788.06	People don't wanna spend more money on their remote control , I guess .	discussion
+D	1788.07	That's way too Nokia .	discussion
+B	1789.71	Yeah .	discussion
+B	1791.14	Uh , you can you can l uh let choose the customer which colour he wants , yeah .	discussion
+C	1792.52	Are these designs ?	discussion
+A	1795.27	Yeah , yeah .	discussion
+D	1795.87	Yeah , definitely .	discussion
+B	1796.53	Yeah , Three three or four uh four uh colours , or something like that .	discussion
+D	1797.58	Just bring more designs on the market .	discussion
+A	1800.19	But uh , without gon uh okay .	discussion
+D	1800.36	Why not , yeah .	discussion
+A	1801.74	So , are we through the technical part then ?	discussion
+C	1804.59	Yes .	discussion
+A	1805.19	Okay .	discussion
+A	1806.2	So we uh agreed upon uh n uh well , not u unanimously or how you call it , but Yeah .	discussion
+C	1809.33	It this a real uh young young and dynamic uh uh styles .	discussion
+B	1809.61	Well , yeah , the Three to one .	discussion
+B	1812.43	That's And tita uh titanium , is uh is is it a no ?	discussion
+A	1813.97	The materials you uh mentioned in your your personal preferences were all were quite okay .	discussion
+C	1816.01	Yes .	discussion
+A	1818.88	O o only only the last point your no titanium's not not out of question , I guess .	discussion
+C	1818.92	Yes , But also w Yes , b bu but when we use s soft mm Mm .	discussion
+B	1822.24	Is It's just like that , th this titanium .	discussion
+A	1827.56	But is it possible to use both the the plastic and so uh soft things and t p titanium , as well ?	discussion
+D	1833.81	Sure .	discussion
+A	1834.68	Makes it in a homogeneous uh design .	discussion
+B	1835.34	No , not all , not all of them .	discussion
+C	1837.5	But it it then it uh you can't throw it it .	discussion
+C	1840.03	It will uh make a huge noise or break other stuff when you throw with uh titanium with your remote control .	discussion
+A	1846.18	It will it will break other stuff w when it's plastic , as well .	discussion
+C	1850.85	No uh , titanium is a bit uh it's a bit harder .	discussion
+A	1852.34	Yeah .	discussion
+D	1852.81	Yeah , that's true .	discussion
+A	1853.99	No , but uh uh , you should ma Yeah .	discussion
+C	1855.96	But also on the colours , the young Yes , but a titanium remote control , when you're uh watching T_V_ uh or your hands are a little bit sweaty , and the Yes .	discussion
+A	1857.55	Okay , think of the possibilities and make it in completely titanium .	discussion
+A	1861.27	Well would it be more trendy ?	discussion
+A	1863.28	More chic ?	discussion
+D	1865.56	Yeah , I think it I think it does .	discussion
+B	1866.14	Uh , I think titanium nowadays is way more often used than plastic .	discussion
+B	1871.77	In trendy things .	discussion
+D	1876.01	Yeah , o On the other hand , if you want to make fruit fruity stuff with uh Yeah , that's true , that's true .	discussion
+B	1879.08	Yeah .	discussion
+B	1880.25	It's cold in the winter .	discussion
+A	1881.76	Yeah , but I I really like the idea of the the the plastic and the big kind of thing .	discussion
+B	1885.32	Yeah .	discussion
+A	1885.49	But the question is i then it's , you know , is is it fits in our s philosophy to make it uh sturdy and simple and uh , know , like uh When you make it titanium , it becomes more like some kind of gadget you actually don't need .	discussion
+C	1894.17	Sports and gaming .	discussion
+C	1895.61	Define .	discussion
+A	1900.54	And when it's big and plastic , it's like some fun stuff you can always have around .	discussion
+A	1905.72	It's always fun to have something big and plastic around .	discussion
+D	1907.61	Yes .	discussion
+B	1907.88	You have that uh M_P_ three player of Nike , I saw .	discussion
+D	1908.0	Yeah .	discussion
+B	1911.76	Isn't that titanium with a little bit of rubber ?	discussion
+C	1914.27	Yes , it's w but it is uh plastic .	discussion
+B	1915.27	Isn't it Is plastic ?	discussion
+B	1918.78	Well , it's titanium looking .	discussion
+C	1920.29	Yes , w we can do that on the on the We can make this as a style too .	discussion
+D	1920.66	What ?	discussion
+B	1921.77	Yeah , he is .	discussion
+B	1922.29	Here he is .	discussion
+B	1922.92	Uh , the I don't know if you know the M_P_ three player of Nike .	discussion
+B	1926.42	'Kay , uh that that's very uh with rubber , so it's very rough .	discussion
+D	1926.86	Oh , yeah .	discussion
+D	1927.3	Okay , yeah .	discussion
+A	1929.16	Yeah , that's beautiful .	discussion
+D	1929.35	Yeah , I see .	discussion
+D	1931.5	Yeah , but but but Yeah , I th I think that's difficult , because uh that's different material , and then you gotta have like uh uh uh two material lines of of of Yeah , if it's just a colour uh which you uh which you change then , I guess it's it's nice to have one of these .	discussion
+C	1933.15	Uh , this is uh just a No , we c we can make it from the same kind of plastic .	discussion
+A	1934.55	Oh , maybe th maybe this is an No , I do like the idea of maybe a t titanium kind type of body w and then with s plastic colouration around it .	discussion
+D	1954.51	Uh Yeah .	discussion
+C	1954.56	Uh I don't have the information .	discussion
+A	1961.6	You know , like the the soft stuff , but I don't know if it's possible .	discussion
+C	1966.39	Uh , I I didn't got it Yes .	discussion
+A	1968.46	But you can't make the plastic give uh the ti titanium look .	discussion
+B	1972.09	True .	discussion
+A	1972.24	But make it just like shiny .	discussion
+D	1972.49	Mm-hmm .	discussion
+B	1973.18	Yeah yeah , true .	discussion
+A	1974.2	Maybe we should uh shou And uh and maybe we sh should we t I don't know if we should talk about uh , how how much time have we got left ?	discussion
+C	1974.31	Like the M_P_ three player .	discussion
+B	1975.07	Yeah , maybe that's good idea , yeah .	discussion
+B	1977.46	But if you want to la uh yeah , last longer than two weeks or something like that , you can maybe I don't know .	discussion
+D	1980.75	Yeah .	discussion
+C	1987.62	Uh , in a lot of other uh in a lot of other product uh categories like uh even in b in bags industry .	discussion
+B	1989.65	What time does The rubber .	discussion
+A	1989.99	Forty minutes .	discussion
+C	1997.4	Uh , they began with uh t typical uh leather bags , but then they became stylish , with all all si all sort of colours , and w kind of fon of uh of fronts , like we can use on the telephone and it Like Eastpack uh began a revolution with it with all this uh kind of bags and and colours and and Yes , and and styles .	discussion
+D	2006.56	Yeah .	discussion
+A	2009.71	Okay .	discussion
+A	2020.06	You putting in different colours .	discussion
+A	2023.0	Okay .	discussion
+C	2023.68	They have uh also uh a kind of uh um uh roses on it , a and uh Then we can always uh use the same design for a greater resemblance , but with new uh with new colours , new yes .	discussion
+D	2031.54	Uh yeah , yeah .	discussion
+A	2032.07	Okay .	discussion
+A	2032.86	Yeah , but w yeah .	discussion
+A	2036.25	Well , it is .	discussion
+A	2036.82	It's a possibility .	discussion
+A	2037.92	But , let's think about the bas Mm-hmm , mm-hmm .	discussion
+D	2044.9	Yes .	discussion
+D	2046.98	New prints on it .	discussion
+D	2048.3	Yep .	discussion
+A	2049.03	But wha th our basic idea y I mean , you gonna we're probably gonna have like two type of materials , like the d d b the plastic uh enclosure and then the the pads that surround it .	discussion
+A	2059.07	And and pro and lights .	discussion
+A	2060.18	We have to incorporate the lights too .	discussion
+A	2062.12	But , uh do w gonna gonna are we going to give it a two-tone colour look , like the the plastic mould is in in one colour and the s the cushion pads around it are in another colour ?	discussion
+A	2073.77	Is that the idea ?	discussion
+A	2074.45	Is that a good idea ?	discussion
+D	2076.21	How do you mean ?	discussion
+D	2076.66	Th th the uh base in a in another Yes .	discussion
+A	2078.24	How many colours are we how many colours are we gonna we're uh uh f uh f Only five minutes left , by the way .	discussion
+A	2083.66	How many colours are we gonna give it ?	discussion
+A	2085.06	Like two-tone colour ?	discussion
+C	2085.36	There there are three uh components three components type .	discussion
+A	2086.21	T I think maybe the case itself should be in one colour and then the rubber of the buttons , and the cushions as well should be in another colour .	discussion
+B	2086.25	Yeah .	discussion
+B	2086.62	Uh no , not too much I think .	discussion
+C	2089.18	You have the buttons , the the case uh itself , and the rubber and th Yes .	discussion
+D	2091.04	How the buttons yeah .	discussion
+B	2099.69	Or you just make uh one colour , uh maybe with a a z a kind of like a big wave or something like uh In in another colour .	discussion
+D	2100.21	Yeah .	discussion
+A	2107.98	Okay , but not more than Well , yeah , it's No .	discussion
+B	2109.86	Not more than two colours I think .	discussion
+D	2111.13	No , definitely not .	discussion
+B	2111.14	It's a g a little bit too flashy .	discussion
+A	2111.85	Maybe we should talk about it on a l in a later meeting .	discussion
+D	2113.49	Yes , definitely .	discussion
+C	2113.55	Yeah , or or when you use the buttons as black , it you can use two colours as well uh But then you have to put uh up and down and uh left and right Okay .	discussion
+A	2119.1	Okay .	discussion
+A	2119.77	But we have to uh think of some other uh important things .	discussion
+A	2122.57	Uh oh yeah , the the functionalities of the the buttons .	discussion
+B	2124.1	The funct yeah , I was I was thinking about th the st do we still want a joystick idea .	discussion
+A	2128.68	No .	discussion
+D	2129.5	No , I think that's too vulnerable .	discussion
+B	2131.19	Yeah .	discussion
+A	2131.64	I think this is okay , the so we have the basic .	discussion
+A	2134.2	Then we have the numbers .	discussion
+A	2135.35	We have the power button .	discussion
+A	2136.96	We have we have a teletext button .	discussion
+B	2137.5	The volume , teletext and Yeah yeah yeah yeah , b Yeah , but wha what kind of menu ?	discussion
+A	2139.91	And maybe want to access a a menu or something .	discussion
+D	2143.23	Yeah , but that's that's I was thinking that's gotta be on the television .	discussion
+A	2143.45	Most T_V_s have a menu .	discussion
+A	2147.1	Yeah , but I think you ha I really need a menu button .	discussion
+A	2149.75	That's just i the only button only You know , I No , I think most T_V_s have an uh a menu nowadays to access the uh uh screen settings .	discussion
+B	2152.56	Is uh isn't that different from every television ?	discussion
+D	2156.44	Mm .	discussion
+D	2157.33	Yeah , if it's c if Yeah , I think it's okay to to add a menu button for uh and if the T_V_ doesn't have a menu , then Yeah .	discussion
+A	2160.63	And so But that that covers all the all the other settings .	discussion
+A	2166.37	It covers everything then .	discussion
+D	2170.57	Yeah , you can put that on the two eight four and six or whatever .	discussion
+A	2170.79	No , you can use the And you al can also use the normal skip buttons for that .	discussion
+A	2176.19	Th in that way we have like only the numbers , the power button , skip and volume , and then uh uh ten uh rem uh yeah , mute .	discussion
+D	2176.66	Mm , yeah .	discussion
+D	2183.01	A mute and a teletext and a menu .	discussion
+B	2184.19	Mute .	discussion
+A	2184.92	A teletext and a menu , and then then i that's it .	discussion
+D	2186.67	That's all .	discussion
+A	2187.07	It's all we need .	discussion
+B	2188.79	Yeah .	discussion
+D	2188.8	Hmm .	discussion
+A	2189.99	Okay , uh another stuf some stuff about the the the design of the docking station .	discussion
+D	2190.08	Great .	discussion
+D	2190.75	Yeah .	discussion
+B	2191.14	Okay , that's not mu not much functions .	discussion
+B	2192.88	So Okay .	discussion
+A	2195.9	Something important about a s uh , no , uh which sh uh should remind us of the remote itself , I guess .	discussion
+D	2201.08	Yeah , definitely .	discussion
+A	2201.82	Uh , in one colour .	discussion
+D	2202.58	Are we gonna do something with the uh spongy thing there ?	discussion
+A	2203.23	Just use I think the spongy thing already um comes forward in the in the in the cushions , pads and things on the s uh side .	discussion
+C	2206.82	Uh What are we going to do now ?	discussion closing
+D	2211.55	Yeah , that's true , that's true .	discussion
+A	2212.75	And we will make it spongy and and uh and uh well , the fruity thing is just the shape should be fru i did I think this is kind of fruity , you know .	discussion
+A	2219.45	Just round shapes with uh Yeah , but we're gonna have to we really have to think I think colours is very important , because it has to be flashy , but and but it d it doesn't have to be annoying , that when you uh , know , some things is just over the top , and when you have it on your table for more than two weeks , you it just gets annoying , because it's so big and flashy .	discussion
+D	2220.96	Yeah , it's kinda fruity , and with th with catchy colours uh uh w Yeah , definitely .	discussion
+A	2239.0	Uh , it has to be some level of subtlety , but we have to still have to think of how we manage to uh to get to that .	discussion
+D	2246.21	Yeah .	discussion
+A	2248.31	Okay .	discussion
+D	2249.02	Okay .	discussion
+A	2249.22	Guess we're through then .	discussion
+D	2251.03	I guess so .	discussion
+A	2251.88	But we I think also we just so we have to do something with colour but also , I I think we have to keep the dark colour thing in mind .	discussion
+A	2257.89	I think that's uh adds to the too much colour maybe m um But our des design experts will uh work that out .	discussion
+D	2258.04	Yes .	discussion
+B	2258.45	Yeah .	discussion
+B	2261.31	Too much colour , i it uh when you got it in a living room , it's too much maybe .	discussion
+D	2265.55	Yea yeah .	discussion
+B	2266.34	It has to be Yeah .	discussion closing
+A	2268.57	Okay , well I think the meeting will be over within a minute .	closing
+D	2268.73	Yep .	closing
+A	2272.78	So we will wrap up .	closing
+D	2272.87	Something like that .	closing
+A	2275.0	Or is there anything we'd like to discuss ?	closing
+D	2277.14	I guess not .	closing
+A	2277.54	That's right .	closing
+A	2279.06	Okay .	closing
+D	2279.06	Do you , guys ?	closing
+B	2279.9	No .	closing
+D	2281.19	No ?	closing
+A	2281.91	Okay .	closing
+A	2284.08	Well , you will read the minutes uh in the you can find them in the pro probably .	closing
+D	2287.82	In the shared folder .	closing
+B	2288.12	Oh , okay , yeah .	closing
+A	2290.57	Yeah uh no , for su for sure because I'm will now type them out .	closing
+A	2297.02	Uh , y yeah .	closing
+D	2297.5	You'll see in you email , I guess .	closing
+B	2298.5	Yeah .	closing
+A	2299.27	I think uh But toilet paper roll and uh Okay .	closing
+D	2299.76	Yeah , I don't know .	closing
+D	2300.35	I don't know .	closing
+B	2301.19	I hope so .	closing
+B	2302.21	And the other thing is that you don't have kind of prototype or something like that .	closing
+B	2306.06	You see a kinda prototype you can a little bit more uh Yeah .	closing
+C	2308.31	I will make one in the next uh twenty minutes .	closing
+D	2313.08	Construct one , yeah .	closing
+B	2314.48	With you laptop ?	closing
+B	2316.3	Yeah .	closing
+B	2319.36	Oh my God .	closing
+D	2319.98	Alright , shall we get back to work ?	closing
+A	2321.4	Yep .	closing
+D	2322.3	Great .	closing
+A	2322.6	I was waiting for the l last message , but Mm yeah .	closing
+B	2323.18	Well you are .	closing
+D	2324.15	Yeah .	closing
+B	2324.45	We're not .	closing
+D	2325.97	Bastard .	closing
+C	2326.35	Back to the pen .	closing

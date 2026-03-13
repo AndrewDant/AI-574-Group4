@@ -1,0 +1,242 @@
+D	31.69	Hmm .	chitchat
+A	32.58	Okay .	opening
+A	32.79	Good morning everybody .	opening
+A	33.86	Um I'm glad you could all come .	opening
+A	35.36	I'm really excited to start this team .	opening
+A	37.49	Um I'm just gonna have a little PowerPoint presentation for us , for our kick-off meeting .	opening
+A	41.95	My name is Rose Lindgren .	opening
+A	43.03	I I'll be the Project Manager .	opening
+A	46.13	Um our agenda today is we are gonna do a little opening and then I'm gonna talk a little bit about the project , then we'll move into acquaintance such as getting to know each other a little bit , including a tool training exercise .	opening
+A	56.46	And then we'll move into the project plan , do a little discussion and close , since we only have twenty five minutes .	opening
+A	63.86	First of all our project aim .	project aim and goals
+A	65.62	Um we are creating a new remote control which we have three goals about , it needs to be original , trendy and user-friendly .	project aim and goals
+A	72.86	I'm hoping that we can all work together to achieve all three of those .	project aim and goals
+A	77.13	Um so we're gonna divide us up into three compa three parts .	project aim and goals
+A	82.14	First the functional design which will be uh first we'll do individual work , come into a meeting , the conceptional design , individual work and a meeting , and then the detailed design , individual work and a meeting .	project aim and goals
+A	94.34	So that we'll each be doing our own ideas and then coming together and um collaborating .	project aim and goals
+A	101.16	Okay , we're gonna get to know each other a little bit .	drawing exercise
+A	103.78	So um , what we're gonna do is start off with um let's start off with Amina .	drawing exercise
+A	109.8	Um Alima , sorry , Alima .	drawing exercise
+B	109.98	Alima .	drawing exercise
+A	112.73	Um we're gonna do a little tool training , so we are gonna work with that whiteboard behind you .	drawing exercise
+A	117.18	Um introduce yourself , um say one thing about yourself and then draw your favourite animal and tell us about it .	drawing exercise
+B	123.64	Okay .	drawing exercise
+B	124.82	Um I don't know which one of these I have to bring with me .	drawing exercise
+A	129.45	Probably both .	drawing exercise
+B	132.92	Right , so , I'm supposed to draw my favourite animal .	drawing exercise
+B	135.81	I have no drawing skills whatsoever .	drawing exercise
+B	138.48	But uh let's see , introduce myself .	drawing exercise
+B	140.6	My name is Alima Bucciantini .	drawing exercise
+B	142.57	Um I'm from the state of Maine in the US .	drawing exercise
+B	146.8	I'm doing nationalism studies , blah , blah , blah , and I have no artistic talents .	drawing exercise
+A	152.02	How do you spell your name ?	drawing exercise
+B	153.08	A_ L_ I_ M_ A_ .	drawing exercise
+A	154.62	Thanks .	drawing exercise
+B	155.82	Oh , and I guess I'm the Industrial Designer on this project .	drawing exercise
+B	160.4	So let's see if I can get um here .	drawing exercise
+B	165.21	I will draw a little turtle for you all .	drawing exercise
+B	171.72	Not necessarily 'cause it's my absolute favourite animal , but just that I think they're drawable .	drawing exercise
+B	180.36	And you have the pretty little shell going on .	drawing exercise
+B	185.05	Some little eyes .	drawing exercise
+B	186.79	Happy .	drawing exercise
+B	192.5	There you go .	drawing exercise
+B	193.48	That's a turtle .	drawing exercise
+D	195.19	Yes .	drawing exercise
+A	195.91	So what are your favourite characteristics ?	drawing exercise
+B	197.54	Um .	drawing exercise
+B	198.49	I I like the whole having a shell thing .	drawing exercise
+A	200.49	Mm .	drawing exercise
+B	201.07	It's quite cool carry your home around where you go , um quite decorative little animals , they can swim , they can , they're very adaptable , they carry everything they need with them , um and they're easy to draw .	drawing exercise
+A	217.04	Excellent .	drawing exercise
+A	218.4	Shall we just go around the table ?	drawing exercise
+C	220.07	Uh Okay .	drawing exercise
+C	220.85	Well , my name is Iain uh and I'm the User Interface Designer for the project .	drawing exercise
+A	222.53	Mm .	drawing exercise
+C	228.69	Um .	drawing exercise
+C	230.56	And I'll try and draw my favourite animal .	drawing exercise
+C	239.09	I'll I should leave that one on there shouldn't I before I callously rub it off .	drawing exercise
+B	240.19	No , you can erase the turtle , it's alright .	drawing exercise
+A	242.75	Might be nice to have them all up there at same time .	drawing exercise
+C	246.18	Um I'm not gonna draw it quite to scale um .	drawing exercise
+C	275.17	Is that at least identifiable ?	drawing exercise
+B	278.14	Snake .	drawing exercise
+D	278.29	Well .	drawing exercise
+C	279.06	It's a whale , yes .	drawing exercise
+A	279.07	Em Mm 'kay .	drawing exercise
+B	279.5	Well , snake ?	drawing exercise
+B	280.15	It's w Oh , a cat .	drawing exercise
+C	281.05	Thanks .	drawing exercise
+D	281.21	Oh my god , it's better than what I'm gonna be able to do .	drawing exercise
+C	283.5	Um and , yeah , the reason I like whales is 'cause uh they're well , first of all they're quite intelligent um and also they're they're kind of mysterious , like we don't really know much about them or or understand how they work , how they form groups .	drawing exercise
+C	299.24	And I just find them interesting animals .	drawing exercise
+D	308.15	Take my contraptions with me .	drawing exercise
+D	312.1	Alright , I'm Jessy .	drawing exercise
+D	313.57	I'm from around D_C_ ish sort of in the U_S_ .	drawing exercise
+D	319.19	And we're gonna keep the deep sea sort of theme going on , animal .	drawing exercise
+D	328.44	Don't really know how to draw this .	drawing exercise
+D	330.87	Just where can I Mm .	drawing exercise
+D	339.48	Mm .	drawing exercise
+D	341.06	Maybe if I do the water , but how ?	drawing exercise
+D	343.94	Sort of give an idea .	drawing exercise
+D	346.74	I have no idea how one would explain this .	drawing exercise
+D	350.7	Mm maybe with some whiskers .	drawing exercise
+D	353.53	Briefly , it's supposed to be a seal .	drawing exercise
+D	356.66	You can imagine it in the water .	drawing exercise
+D	358.6	I like them , because they are like playful and silly sort of have a good time .	drawing exercise
+D	366.07	Not gonna try and pretend like I can get any better than that .	drawing exercise
+A	375.64	Mm 'kay ?	drawing exercise
+A	376.02	I'm Rose and I'm Project Manager , from California .	drawing exercise
+A	382.26	Um .	drawing exercise
+A	387.0	Hmm .	drawing exercise
+A	407.82	S Um it's actually a coyote .	drawing exercise
+D	411.52	It's definitely significantly harder once you are doing it .	drawing exercise
+B	414.76	Yeah .	drawing exercise
+A	416.73	Let's see .	drawing exercise
+B	417.09	Right .	drawing exercise
+A	417.85	Let's see , let's give it a little bit of a snout , I don't know , some teeth .	drawing exercise
+D	418.09	That's impressive .	drawing exercise
+B	420.78	That's That's pretty impressive .	drawing exercise
+A	423.32	Yeah .	drawing exercise
+C	424.46	Cool .	drawing exercise
+A	427.44	Oh dear .	drawing exercise
+A	428.86	Yes .	drawing exercise
+A	429.42	I live um I live right across the street from an open space in California .	drawing exercise
+A	433.23	We have coyotes howl all the time .	drawing exercise
+A	435.7	So I really enjoy their their singing , you they're really beautiful animals .	drawing exercise
+A	440.1	Mm .	drawing exercise
+A	443.16	Okay um , moving on to slightly more serious stuff .	costing
+A	448.95	We're gonna talk about project finances .	costing
+A	452.89	Um we have a couple we'd like to sell it for about twenty five Euro with the profit aim of um fifteen million Euro um from our sales and because this is such this is for television it's a we have a market range of Internet , like it's an international market range , we don't have to worry about specifics .	costing
+A	471.89	Um in order to make a profit of this magnitude , we need to um be able to produce each one at a maximum of twelve fifty Euro .	costing
+A	482.36	So we're selling it for twice what we'd like to produce it for .	costing
+A	490.42	Okay um , just to generate a little bit of discussion about the project um , I could I'd like to hear about your experiences using ro remote controls , um your first ideas about um creating a new r remote control , what would be the best um like you what are the features that you really like what are the features that you don't like , etcetera , so Hmm .	discussion of remote controls good and bad features
+D	513.36	Um I hate when there's like four different buttons and you have to press to actually turn on the T_V_ like you have to do one for the power of the T_V_ and then like another one to get the actual screen on and something else to get it all going , I don't know .	good and bad features
+D	525.95	Now they keep combining all different remotes together , and I don't know if I necessarily like that 'cause I feel like you end up with multimedia overload .	good and bad features
+D	535.45	I just wanna watch the T_V_ um .	good and bad features
+D	541.43	Always gets lost .	good and bad features
+D	542.8	Some sort of like device to help you find it .	good and bad features
+C	551.1	I've used , I've used remote controls , for things like T_V_ and the C_D_ player and video recorder and I I guess they're they're pretty neat neat little tools uh .	good and bad features
+C	563.39	You don't have to get up and walk across the room to change a channel .	good and bad features
+A	565.86	Mm .	good and bad features
+C	567.06	So especially if you're someone really lazy like me they they're pretty nice .	good and bad features
+C	571.05	Um .	good and bad features
+C	573.0	I find them they can be a bit annoying , especially , like you know if I'm watching T_V_ I have have to have three separate remote controls of in front of me , you know , one for the T_V_ , one for the digital box , one for m the video recorder as well .	good and bad features
+C	586.15	Um .	good and bad features
+C	588.15	And also they tend to they tend to be a bit confusing , they've got too many buttons on them uh too too sort of too sort of complicated when all I really wanna do is switch on and off , change the channel , change the volume .	good and bad features
+B	603.44	Yeah um .	good and bad features
+B	605.81	I agree with having too many remotes around .	good and bad features
+B	608.91	My dad has a whole drawer at home of remotes for various things , and I don't know how to work half of them um .	good and bad features
+B	617.43	What's important for me , I guess , is that it's easy to use and that there's not too many buttons , they are not too small , you know you know you need to n to know what you're doing .	good and bad features
+B	630.21	And one thing I particularly like is if you are not um sort of moving it around to get it to work with the infra-red .	good and bad features
+D	637.59	Yeah .	good and bad features
+C	638.12	Yeah .	good and bad features
+B	638.34	Um , I think there is a way around that , but I know in my residence right now the the television you sort of have to walk all around the room to get it to turn on , so i it's just simpler just to just turn around the T_V_ itself , and I think that's if we're gonna make a remote control , it should actually work for what it's doing .	good and bad features
+A	646.49	Mm-hmm .	good and bad features
+B	657.32	So I know .	good and bad features batteries
+D	657.92	What about like batteries and things like that , like are there some remotes that don don't require like batteries or do all remotes require batteries ?	batteries
+A	666.65	Um I would imagine all of them , but we could but it's possible we could use like a lithium battery um that would last a lot longer than like double A_s .	batteries
+B	671.94	Yeah , something that doesn't Mm .	batteries
+D	673.67	Mm-hmm .	batteries
+A	674.81	Um like tho those are the batteries that are used in a lot of um M_P_ three players now and that kind of thing .	batteries
+D	680.0	Mm-hmm .	batteries
+A	681.06	Um .	batteries
+A	685.9	Um .	combining remote controls
+A	687.94	Okay , it seems we have a little bit of a conflict over um to uh combining all the remotes cont together versus having f five different remotes .	combining remote controls
+A	697.8	So um like you said you don't like having all the buttons on one on one remote , and yet you don't wanna have five remotes .	combining remote controls
+A	705.75	So how do we work with that ?	combining remote controls
+C	705.9	Mm .	combining remote controls
+B	706.24	Yeah .	combining remote controls
+B	707.48	Could we get something that just has No doesn't have all the buttons that you need to program the video recorder or program s other things that I'm not very coherent about , but that just has your major buttons for that work for everything , you know volume control , on , off , channel changing .	combining remote controls
+A	726.96	Mm-hmm .	combining remote controls
+D	730.72	And maybe that spatially divides it , so it's like if you're looki if you're trying to get the T_V_ on that's , you know , like the top thing on the remote , I dunno if d be vertical or horizontal in terms of how we're gonna make it , but if it's like all the T_V_ stuff was here , then all the V_C_R_ stuff was here , all the whatever else we have programmed into it it's all just in its separate place and not like all the on buttons together , 'cause then you like , I don't even know what I'm turning on .	combining remote controls
+B	739.5	Yeah .	combining remote controls
+A	745.5	Mm .	combining remote controls
+B	745.88	N that way Yeah .	combining remote controls
+A	751.55	Mm .	combining remote controls
+B	751.98	Yeah , and if um if you'd save the more complicated functions maybe for separate remotes that you wouldn't need to use every day .	combining remote controls
+D	760.71	Mm-hmm .	combining remote controls
+A	761.29	Okay , so maybe have like one remote that has the main functions on , off , channel changing , volume , and another rote remote with all the special things .	combining remote controls
+B	761.51	Um .	combining remote controls
+A	768.66	Because that is one thing that um remotes tend to have buttons that the T_V_s no longer have as well .	combining remote controls
+B	768.8	Yeah .	combining remote controls
+B	774.3	Mm .	combining remote controls
+A	774.54	So like you have to have them somewhere , 'cause you're gonna m need those special functions occasionally .	combining remote controls
+C	774.57	Yeah .	combining remote controls
+B	778.8	Right .	combining remote controls
+A	778.92	Um but not necessarily on the m the normal remote .	combining remote controls
+C	783.99	Can I ask , are we designing a remote control for a television only um , and if if this device is just to be used for the television would we even technically be possible to include video recorder functions on it ?	look and usability
+A	789.11	Good question .	look and usability
+A	801.3	I don't know that yet .	look and usability
+C	801.8	Um or should we just stick to just stick to having television television related buttons on it ?	look and usability
+B	808.13	Mm .	look and usability
+A	810.4	It's a good question .	look and usability
+A	811.58	Um .	look and usability
+D	814.08	Mm-hmm hmm .	look and usability
+A	814.17	I'll look into that .	look and usability
+A	815.99	If I can .	look and usability
+D	816.24	I think it's just T_V_ , I mean , if it if we're taking it just new product a new television remote control that's not like doesn't say .	look and usability
+B	827.41	Mm yeah .	look and usability
+D	828.63	You know , things might be more advanced than that .	look and usability
+A	831.0	Mm .	look and usability
+C	833.0	So we should maybe we should assume that i t it's just a television that we're wanting to control .	look and usability
+C	839.03	Well , I mean I suppose it would be nice to have playing and record and stop buttons on it for the video recorder as well I I don't know if that works technologically or not .	look and usability
+B	850.31	Yes .	look and usability
+B	850.6	I guess we have to define what what we're aiming for .	look and usability
+B	854.42	If it's just a television then that it's a bit simpler , 'cause there's less buttons that would even need to be on it .	look and usability
+C	860.47	Yeah .	look and usability
+D	861.52	It's an idea with the buttons being really .	look and usability
+B	864.42	Large .	look and usability
+D	865.28	Yeah .	look and usability
+B	865.41	If you have older people or people like me that aren't very co-ordinated hand-eye , it's really quite important that you are not pressing a small like teeny mobiles phone size buttons , if we can help it .	look and usability
+A	870.43	Mm .	look and usability
+C	874.76	Yeah .	look and usability
+A	878.47	Okay .	agenda/equipment issues
+A	879.36	'Kay sounds like we've had a good little discussion for our first ideas .	agenda/equipment issues
+A	882.79	Mind if we move on ?	agenda/equipment issues
+A	883.97	Ps mm okay .	agenda/equipment issues
+C	884.19	'Kay .	agenda/equipment issues
+D	884.29	Mm-hmm .	agenda/equipment issues
+A	886.71	Um now our next meeting starts in thirty minutes .	agenda/equipment issues
+A	891.62	I believe we've actually been only working on this this one for about twenty , so we can continue discussing more new ideas if you'd like um , but this is just a breakdown of what we'll be doing individually .	project specs and roles of participants agenda/equipment issues
+B	895.59	Hmm .	agenda/equipment issues
+A	903.23	Um the industrial design , Alima will be doing um the working design .	project specs and roles of participants
+B	905.59	Yeah .	project specs and roles of participants
+A	908.75	Um the User Interface Designer , that's for .	project specs and roles of participants
+A	913.11	Technical functions , I guess like keeping in mind the buttons thing , the size of the buttons .	project specs and roles of participants
+A	918.09	Um user requirements um , so you'll be hearing about different trends , uh about different things that people need , um I guess kind of the same uh discussion that we've been having , we'll get from the actual consum s consumers .	project specs and roles of participants
+D	928.64	Mm-hmm .	project specs and roles of participants
+A	932.89	Mm 'kay um .	project specs and roles of participants
+A	935.78	And you will get specific instructions sent by your personal coach .	project specs and roles of participants
+A	938.78	I realised in this past one we we didn't have much , we just wanted to get a little brain-storming done .	project specs and roles of participants
+A	943.31	Um so very exited to see all your animals and how what wonderful um artists we all are um .	closing
+A	958.66	Any questions ?	closing
+C	972.63	What we're gonna be discussing at the next meeting ?	closing
+C	975.29	Do we know that ?	closing
+A	976.01	I haven't gotten an agenda yet , um I'll put that together .	closing
+A	979.07	I'm sure as we'll each get our own instruction and then um because what we gonna do is first our individual actions and then we'll come back together .	closing
+C	979.38	Right .	closing
+C	986.13	Yep .	closing
+A	986.5	So I'm sure we'll all have more concrete things to contribute next time Mm 'kay um I'll type up mi minutes and probably email those out to all of you .	closing
+B	988.8	'Kay .	closing
+C	991.82	Yep .	closing
+B	992.5	I'm sure we'll be busy .	closing
+C	1002.35	Okay .	closing
+A	1002.47	Um just including all the things that we talked about .	closing
+C	1005.96	Can you e-mail your slides as well ?	closing
+A	1006.0	Um .	closing
+C	1008.21	Is that possible ?	closing
+A	1009.26	Yes , I yes , I think I can .	closing
+A	1011.04	Mm-hmm .	closing
+C	1011.06	Cool .	closing
+A	1012.03	I'll just attach it to an email .	closing
+A	1013.94	And you're you're number two , three , four ?	closing
+B	1015.7	I'm two .	closing
+D	1016.96	I'm four .	closing
+A	1017.47	Is that correct ?	closing
+A	1018.03	Okay .	closing
+B	1020.14	Alright .	closing
+A	1021.15	Excellent .	closing
+A	1021.51	It was lovely meeting you all .	closing
+A	1032.66	Just make sure you keep checking the company web site and the emails .	closing
+B	1038.02	'Kay .	closing
+A	1039.88	Let me see if I can do that right now .	closing

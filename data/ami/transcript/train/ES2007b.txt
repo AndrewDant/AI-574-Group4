@@ -1,0 +1,415 @@
+A	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	0.02	Think we can first .	agenda/equipment issues
+C	9.62	Right it was function F_ eight or something .	agenda/equipment issues
+B	9.71	Mm .	agenda/equipment issues
+C	13.7	This one right there .	agenda/equipment issues
+B	14.07	Tha Okay .	agenda/equipment issues
+C	17.64	Okay .	agenda/equipment issues
+B	18.32	Who is gonna do a PowerPoint presentation ?	agenda/equipment issues
+C	20.75	Think we all Huh .	agenda/equipment issues
+B	22.96	You will as well ?	agenda/equipment issues
+C	24.59	Oh I thought we all were .	agenda/equipment issues
+C	25.3	Yeah , I have one too , okay .	agenda/equipment issues
+B	25.73	Okay .	agenda/equipment issues
+C	33.49	S Whoops I forgot to put the thing on Okay .	participant names agenda/equipment issues
+B	46.02	Yep .	agenda/equipment issues
+A	63.4	Right .	participant names
+A	63.91	I just wanna 'cause basically I can't re I've really crap at remembering everyone's name so I just wanna rather than going uh Miss Marketing and Miss this and Miss that wanted to know your names again .	participant names
+B	74.83	Okay I'm Okay .	participant names
+A	75.42	just gonna leave this up here 'cause I'll you know .	participant names
+C	76.97	Yeah .	participant names
+C	78.45	Sure , that's a good idea .	participant names
+A	79.87	So Okay , and Gabriel .	participant names
+B	80.45	I'm Catherine with a C_ .	participant names
+B	83.2	C_A_T_H_ E_R_ I_N_E_ .	participant names
+C	93.36	Uh Gabriel .	participant names
+A	99.15	E_L_ is it ?	participant names
+C	99.6	E_L_ .	participant names
+A	102.58	'Kay .	participant names
+A	103.97	And you're s r R_E_I_S_S_ Okay .	participant names
+D	104.94	I am Reissa .	participant names
+D	106.36	R_E_I_S_S_A_ .	participant names
+D	111.18	Double S_ A_ , yeah yeah .	participant names
+D	113.45	Sorry .	participant names
+A	120.95	'S just a bit nicer calling people by their names I think .	participant names
+B	123.82	Right .	participant names
+B	125.36	True .	participant names
+A	126.38	Uh , right .	participant names
+D	131.72	Mm 'kay .	participant names
+A	133.01	Okay , right , welcome to meeting B_ .	opening
+A	135.89	Um this is gonna go a lot better than the last meeting , basically , uh 'cause I know what I'm supposed to be doing now .	opening
+A	143.5	I am your Project Manager , and , uh yeah , I'm just here to sort of liaise between the three of you and get things going , get people talking and and I'm gonna be making notes and sending them off to the powers that be and stuff basically .	opening
+A	163.32	Um right , this for the purposes of this meeting what this meeting is all about is um I'm gonna have some presentations from all three of you , what you've been working on for the last wee while , when you haven't been getting hit with spam on your computers and and , you know , filling out silly questionnaires and things .	opening
+A	188.56	But hopefully you've been actually been doing something productive .	opening
+A	192.41	So we're gonna each of you gonna give us a litt a little presentation .	opening
+D	196.88	Mm .	opening
+A	197.36	Um .	opening
+A	199.38	Then we're gonna work , you know , from each of your presentations .	opening
+A	202.4	We'll we'll uh talk about what we actually need as a final coming together of it all .	opening
+A	209.12	Um and then we'll , yeah , we'll sort of conclude anything else comes up at the end of it .	opening
+B	214.92	How long is the meeting ?	opening
+A	216.13	This meeting it's not very long .	opening
+A	217.79	It's uh probably down to about thirty five minutes now .	opening
+B	220.88	Okay .	opening
+A	221.2	So I want each of your presentations to not be too long , five five minutes , something like that .	opening
+B	225.8	No problem .	opening
+A	228.63	Um if you haven't done a PowerPoint thingy , it doesn't matter , it it just it just says that you it's that's just one particular medium .	opening
+A	236.64	If you haven't had time to prepare one , you can draw stuff on the noteboard , you can talk to us , you can you know however you want to do your little presentation , basically , you can .	opening
+A	248.56	Don't feel pressurised into using this thing .	opening
+A	251.83	'Cause I don't .	opening
+A	255.17	Uh okay .	opening
+A	257.31	So um .	opening
+A	261.04	You okay over there ?	opening
+A	262.77	Reissa , are you uh b are you joining in with this meeting here or are y or are y or are you are you just are you just uh doing some Internet shopping there ?	opening
+D	263.08	I'm fine .	opening
+D	263.87	Yeah .	opening
+D	266.3	I uh yeah , yeah .	opening
+C	267.06	Think she's finishing up her presentation .	opening
+D	267.74	D I mean , I I'm finishing off my presentation .	opening
+D	271.33	No no .	opening
+D	273.36	Uh I'm done .	opening
+D	274.75	Okay .	opening
+A	274.97	Okay , jolly good .	opening
+A	276.27	Alright , let's have um well , we all know that it's it's a remote control that we're gonna be dealing with .	opening
+A	283.2	I think the first thing we should look at is um probably the um what it is that it is actually supposed to be .	opening
+D	283.2	Mm .	opening
+A	291.46	So that's gonna be you Catherine , if we wanna hear from you first .	opening
+B	292.96	Okay .	opening
+B	295.31	Okay .	agenda/equipment issues
+B	296.5	Um just connecting this .	agenda/equipment issues
+B	314.02	Are we getting i Really ?	agenda/equipment issues
+A	314.21	You don't have to worry about screwing it in just there you go .	agenda/equipment issues
+B	317.09	Okay .	agenda/equipment issues
+B	318.3	Cool .	agenda/equipment issues
+B	319.88	Okay .	agenda/equipment issues
+B	322.56	So I've got a very quick uh Uh .	agenda/equipment issues
+B	330.48	Okay .	agenda/equipment issues
+B	332.86	So the working design , I've got a very quick presentation on this , so um I've oh no , you can't see a thing .	industrial designer presentation agenda/equipment issues
+B	342.94	Oh well , I'm gonna draw it on the board then .	agenda/equipment issues
+B	345.36	It's in blue uh , and I couldn't change it .	agenda/equipment issues
+C	345.56	Oh .	agenda/equipment issues
+B	348.32	We it's fine on my screen , but never mind .	agenda/equipment issues
+A	348.42	Ah .	agenda/equipment issues
+B	351.12	So um the idea is that we've got the energy source um , which in our case will pr , oh well okay , never mind .	industrial designer presentation agenda/equipment issues
+B	366.84	So um I think maybe uh two batteries , I dunno what they're called six , or something like that .	industrial designer presentation
+A	374.76	Mm-hmm .	industrial designer presentation
+B	376.41	Uh and then um then on the uh remote control itself will have um the sender for the signal , which could be uh an infra-red signal , um which will be sent by an electronic chip .	industrial designer presentation
+B	414.98	And uh the chip will be controlled by the user interface .	industrial designer presentation
+B	422.29	So we'll hear about that later from Gabriel .	industrial designer presentation
+A	425.59	Mm-hmm .	industrial designer presentation
+B	425.74	And uh the sender will send to the telly itself an infra-red signal to tell it to switch on or switch channels .	industrial designer presentation
+B	442.1	Um and that's it really for the working design .	industrial designer presentation
+A	448.27	Great .	industrial designer presentation
+A	452.84	Okay .	industrial designer presentation
+B	453.03	Sorry the presentation wasn't very uh clear but Really ?	industrial designer presentation
+A	455.92	I prefer the pe I prefer the human touch personally .	industrial designer presentation
+B	458.35	Cool .	industrial designer presentation
+A	458.92	Yeah .	industrial designer presentation
+B	459.95	Um , should I erase this or Okay .	industrial designer presentation
+A	462.66	Do you wanna just give us a moment , I just wanna copy this down .	industrial designer presentation
+A	465.83	Um I dunno if you guys have got any questions for Catherine on any of this ?	industrial designer presentation
+B	465.94	Fine .	industrial designer presentation
+B	471.08	Or suggestions ?	industrial designer presentation
+D	475.81	Is a battery like the only way of No , no No I meant like No 'cause like cha 'cause always changing um um batteries can get like annoying .	components, materials and energy sources
+B	481.12	Well , it's just , you don't want it plugged in really , s In indoors .	components, materials and energy sources
+C	484.87	Yeah , alternate energy source , like win wind power or Bicycle power .	components, materials and energy sources
+A	489.3	Yeah , you blow on it and i Yeah , it's worked for the last fifty years you know .	components, materials and energy sources
+D	497.1	The battery's down and maybe , I dunno , solar charged ?	components, materials and energy sources
+B	500.31	I dunno , swi I th I th I think changing your batteries once every six months is not really a pain , but Yeah .	components, materials and energy sources
+D	506.8	Mm .	components, materials and energy sources
+D	508.38	Yeah .	components, materials and energy sources
+C	510.33	One question I have , and I don't know how much control we have over this is um , as far as the infra-red signal , do we have control over , you know , how far away you can be from the receiving unit , the the T_V_ , and still have it be operational ?	components, materials and energy sources
+C	522.22	I mean , maybe we want one with a strong signal stream .	components, materials and energy sources
+A	526.44	How far away is your television ?	components, materials and energy sources
+A	529.92	It's never gonna be more than it's never gonna be , you kno unless you've got a T_V_ the size of a football pitch , it's not doesn't have to go that far , does it ?	components, materials and energy sources
+C	530.08	Uh That's true .	components, materials and energy sources
+B	530.92	Well , the thing is uh you you don't Well , we can make the the signal strong enough to go through walls if if you fancy it .	components, materials and energy sources
+A	536.78	Doesn't have to go through a wall , because you're not gonna be looking through a wall .	components, materials and energy sources
+D	541.19	Yeah , but if like you're on the phone in the other room and you need turn television off or something and you don't really want to go into the put the telephone down , and go into the other room .	components, materials and energy sources
+B	556.58	I didn't think about that but Why not ?	components, materials and energy sources
+D	558.92	How about Bluetooth ?	components, materials and energy sources
+D	562.77	Instead of using infra-red , use Bluetooth .	components, materials and energy sources
+D	569.22	Isn't that a better signal ?	components, materials and energy sources
+B	569.28	I just think that it's it's gonna cost more and I'm I'm not sure it's you're gonna use it .	components, materials and energy sources
+A	572.15	Yeah , yeah I d it sounds like you you w don't wanna overcomplicate things .	components, materials and energy sources
+D	576.34	Mm .	components, materials and energy sources
+A	577.04	You know we don't need it .	components, materials and energy sources
+B	577.66	It's a fancy idea uh it's quite nice , but then I don't th I dunno , either you if you wanna watch the telly you're in the room , you are gonna But Oh , we can we can keep the idea if you i We can see at a later stage , maybe , I don't Do you need the border ?	components, materials and energy sources agenda/equipment issues
+A	585.12	Yeah , exactly .	components, materials and energy sources
+A	586.19	Basically , we're we're desi we're designing and marketing a television remote control unit .	components, materials and energy sources
+A	591.67	We're not w w w w designing something that you can plug in a headset to and and you know connect to your laptop computer and stuff .	components, materials and energy sources
+A	599.67	It's uh Okay .	components, materials and energy sources agenda/equipment issues
+D	602.12	Mm .	components, materials and energy sources
+D	609.45	'S just an idea .	components, materials and energy sources
+A	632.22	Right , well done , Catherine .	agenda/equipment issues
+A	636.56	Um Gab Gabriel let's uh let's hear from you on on on such things .	agenda/equipment issues
+C	640.0	Okay .	agenda/equipment issues
+C	643.33	Uh I'm just gonna use the PowerPoint uh .	agenda/equipment issues
+B	644.6	Okay .	agenda/equipment issues
+B	668.12	Sorry .	agenda/equipment issues
+C	668.41	Technical .	agenda/equipment issues
+C	669.04	Okay .	agenda/equipment issues
+D	691.65	Adjusting .	agenda/equipment issues
+C	691.7	Okay , so , while this is warming up , there it is uh .	agenda/equipment issues
+D	693.86	Yeah .	agenda/equipment issues
+C	695.57	So I'm doing the user interface design .	interface specialist presentation
+A	700.22	Mm-hmm .	interface specialist presentation
+C	701.2	Yeah , and basically uh , as far as methods , I was I was looking looking at looking at uh already existing remotes , trying to find some inspiration from designs that are already out there .	interface specialist presentation
+C	714.39	Thinking of what we can retain , what we can do away with , uh what we what we can perfect a little bit as far as design um .	interface specialist presentation
+C	723.61	we don't want to do something that's too radical of a change , I guess , I mean people want a remote that's familiar , that has their favourite functionalities um and and does the basics , but Um so we can improve what's out there and maintain that , the basic functionality that people want .	interface specialist presentation
+A	733.2	Mm yeah .	interface specialist presentation
+C	742.79	Um so things that seem like absolute must-haves uh would be a volume control , um so up-down keys for that , uh channel keys up-down , but then also a numerical key pad so that they can just key directly to the channel that they want , rather than doing up-down , and uh a mute button .	user requirements
+C	764.29	Uh one thing that I didn't include here , that I forgot that we talked about last time , was doing um some sort of lock uh function .	user requirements
+C	770.79	Uh , I don't I dunno , uh that's one possibility .	user requirements
+A	770.8	Okay .	user requirements
+C	776.71	And so in the research that I was doing there's basically two types of remotes , ones that are engineering centred and ones that are more user centred , which I don't know if I can access the web page from here , but I can show you uh .	existing products
+C	793.65	Yeah .	existing products
+C	794.27	So this is a engineer centred one , so you see it's rather busy , but it also lets you play your movie , stop your movie , fast-forward , all this , um freeze frame .	existing products
+A	803.28	Mm-hmm .	existing products
+C	807.28	Uh and this is a user centred one .	existing products
+C	810.46	Uh it's it's easier to g just glance at this and see what's possible to do , you're not gonna be staring at it for five minutes .	existing products
+A	811.47	Yeah .	existing products
+A	818.09	Great .	existing products
+C	818.25	And I judging from what what we all talked about during our last meeting I kind of gathered that that's what we were going after , uh or the direction we were going in at least .	existing products
+C	828.88	Um .	existing products
+C	831.78	So , the engineering centred ones uh provide a lot of functionality , but it can be a little bit overwhelming , so the user centred ones just focus on ease of use .	existing products
+C	841.1	Uh and this sort of overlaps with what the marketing person uh , Reissa , because uh we we need to find out what what people want before we make firm decisions on this .	existing products
+D	846.91	Mm .	interface specialist presentation
+A	851.73	Yeah .	interface specialist presentation
+C	854.21	So uh , yeah , that's me .	interface specialist presentation
+A	857.2	Great .	interface specialist presentation
+A	857.79	Okay .	interface specialist presentation
+A	859.63	Now that's I just have a q a q question for you .	look and usability
+A	863.12	This w um research that you've been doing looki looking at other , you know , existing units stuff .	look and usability
+A	871.73	Um have you found that anyone else has do has looked into the locking function or Yeah .	look and usability
+C	878.0	No that that that seemed like a novel idea as f as far as I know .	look and usability
+C	880.9	I mean obviously another exists like you like you said in in mobile phones .	look and usability
+C	885.13	That was sort of the inspiration for it .	look and usability
+C	887.01	Um I've never seen that with in in all my years in in the remote business .	look and usability
+A	889.92	Yeah .	look and usability
+C	891.25	I've , haven't I've never seen a locking functionality .	look and usability
+C	895.19	I dunno , what uh do you guys have a a yea or nay on that a feeling about whether that's really necessary ?	look and usability
+A	902.05	Um I would say it's If it's simple to do , which I think it probably should be , even if it's a physical , you know , a f a like a f a physical switch or a physical cover for the remote , even something like that , um then yes , it's like , you know , like s you said earlier on ab ab ab a flip thing , something like that , but you know being physical .	look and usability
+C	915.93	Yeah .	look and usability
+C	923.01	Mm-hmm .	look and usability
+C	925.23	'Kay .	look and usability
+C	932.91	Right .	look and usability
+A	936.67	Look into .	look and usability
+A	938.1	Um I've had word down from head office that something that we should be centred well , something we should take into account is um we've gotta keep the corporate image within this remote control unit .	new requirements
+A	952.99	It's gotta d look like it's in the R_ and R_ .	new requirements
+C	956.72	Mm .	new requirements
+A	957.4	You know , the the company it's it's , from what I can see from our other products , are yellow with blue writing on them .	new requirements
+C	964.04	Right .	new requirements
+D	964.5	Mm .	new requirements
+A	964.83	Um .	new requirements
+C	965.62	And our motto is is we put the fashion in electronics .	new requirements
+A	967.46	We put the fashion in electronics .	new requirements
+D	968.97	Mm .	new requirements
+C	969.35	I think I think we have to carry that mental .	new requirements
+A	969.4	There you go .	new requirements
+A	971.57	So it's kinda gotta look it's gotta look new and s you know something fashionable .	new requirements
+A	978.08	If if remote control well , if telephones can be fashionable , then maybe remote control units can be .	new requirements
+C	978.27	Mm .	new requirements
+D	983.89	Mm .	new requirements
+C	984.44	Well yeah these , I think , we can so we talked about the layout in my presentation and what I didn't mention yet really is is the sort of like the ergonomic design .	look and usability
+A	991.11	Yeah .	look and usability
+A	991.61	Because we need Yeah .	look and usability
+C	991.86	I t I think we can make big improvements over these two that you see here , I mean .	look and usability
+C	995.92	Uh , everything is going t ergonomic , you know , there's you know mice for your computers that are very ergonomic and keyboards and that could be one of our niches p sort of uh uh in the market , I guess .	look and usability
+A	996.74	Great .	look and usability
+A	1006.76	Okay , fantastic .	interface specialist presentation
+C	1007.0	Um .	look and usability
+A	1010.27	Right , well done , Gabriel .	interface specialist presentation
+D	1010.27	Okay .	look and usability
+A	1012.18	Um Reissa .	agenda/equipment issues
+D	1015.92	Where does it go into ?	agenda/equipment issues
+A	1016.31	Let's plug you in , baby .	agenda/equipment issues
+D	1018.33	Here ?	agenda/equipment issues
+C	1018.91	Yeah .	agenda/equipment issues
+D	1019.25	The blue thing .	agenda/equipment issues
+C	1020.19	Uh , yeah , this is getting all .	agenda/equipment issues
+C	1022.09	Mm .	agenda/equipment issues
+C	1030.15	Yeah , then you just have to do function F_ eight and it should come up .	agenda/equipment issues
+D	1034.91	Well , function F_ eight .	agenda/equipment issues
+D	1040.23	No oh .	agenda/equipment issues
+A	1040.99	Yeah , w it it just takes a wee while .	agenda/equipment issues
+C	1041.35	Yeah , it just takes a second uh .	agenda/equipment issues
+D	1047.17	Come on .	agenda/equipment issues
+D	1053.61	Right .	marketing expert presentation
+D	1054.79	Okay .	marketing expert presentation
+D	1056.98	Okay .	marketing expert presentation
+D	1057.62	Well , for our marketing report uh we observed remote control users in a usability lab , and also gave so this is research and we also gave participants um questionnaires to fill out .	marketing expert presentation
+D	1074.26	Um total number of people tested were a hundred just so you know , so that hundred people were tested and these were the findings .	marketing expert presentation
+D	1080.67	So seventy five per cent of users find the remote control ugly .	marketing expert presentation
+D	1086.38	Okay , so they don't like the look of the remote control .	marketing expert presentation
+D	1089.19	Um eighty f eighty per cent of them would spend more money if the rem remote control looked really cool and fancy .	marketing expert presentation
+D	1095.55	So I think we all agree with that .	marketing expert presentation
+D	1097.91	Um current remote controls do not match well with the operating behaviour of the user .	marketing expert presentation
+D	1104.31	So , they don't like like the way they operate it doesn't like match how people behave .	marketing expert presentation
+D	1112.45	Um per cent of the users say that they only use ten per cent of the buttons on a remote , so probably if you have like one , two , three , four , five , the whole up to z ten , they probably don't use those , they only use the up and down channel .	marketing expert presentation
+A	1124.92	'Cause we've only got five channels .	marketing expert presentation
+D	1127.46	exactly .	marketing expert presentation
+D	1129.23	That's another thing .	marketing expert presentation
+D	1130.78	Um seventy five per cent of users say they zap .	marketing expert presentation
+D	1135.4	Not quite sure what they mean , zap , goes like .	marketing expert presentation
+A	1137.93	I think that's k flicking quickly between channels .	marketing expert presentation
+C	1141.6	Yeah , you wanna navigate the channels quickly I guess .	marketing expert presentation
+D	1141.89	Yeah .	marketing expert presentation
+A	1143.22	Yeah .	marketing expert presentation
+D	1143.39	Mm .	marketing expert presentation
+D	1145.03	Um takes too much time to learn how to use a new remote .	marketing expert presentation
+D	1147.96	I think especially for uh the older generation .	marketing expert presentation
+D	1150.55	I know my grandmother doesn't like mobile phones , takes ages to work how to use .	marketing expert presentation
+D	1155.5	Anyway um and they also remotes often get lost in the room , so nobody can find them .	marketing expert presentation
+C	1161.48	Mm .	marketing expert presentation
+D	1161.93	So maybe tracking devices is a good idea .	marketing expert presentation
+D	1164.59	Um personal preferences .	marketing expert presentation
+A	1166.82	Wow .	marketing expert presentation
+A	1168.66	You are a child of technology , aren't you ?	marketing expert presentation
+D	1173.71	Um so yeah um I was thinking something easy to use , especially for older people .	marketing expert presentation
+D	1179.35	Um has to look really cool , flashy groovy for people to buy it .	marketing expert presentation
+D	1186.2	And it's easy to find , so I don't know whether maybe and also we asked them whether they wanted whether they'd be interested in um voice activating .	marketing expert presentation
+D	1201.13	So voice activation .	discussion
+D	1202.92	So and this was what we came up with .	discussion
+D	1205.54	Then if you look fifteen to twenty five this is age , sorry , age groups .	discussion
+D	1211.3	So fifteen to twenty five said like ninety two ninety one per cent of them said yes .	discussion
+A	1215.34	So there you go , yeah .	discussion
+D	1217.16	Um so basically the majority except for the forty five to fifty five year olds for some reason didn't want a voice activated one .	discussion
+D	1224.36	And neither did the older generation , but the younger generation who we are catering for , like who have most of the money nowadays , do want a voice act speech recognition in a remote .	discussion
+A	1232.12	Uh but do the younger generation have the money ?	discussion
+C	1234.53	No I would I would say the older the older people , yeah .	discussion
+A	1235.02	They they don't .	discussion
+A	1235.84	It's older generation , they're the ones that have gone out and People people from the age of thirty f there's a big drop off there .	discussion
+D	1237.26	Well the twenty five to thirty five year old , and thirty five , and the thirty five to forty five , forty five point seven per cent say no , so So they don't Well These guys are growing up .	discussion
+A	1249.95	For people up to the age of thirty five , you're kinda saying , yeah , they want it .	discussion
+A	1255.92	Um but no they're not sort of most people that have the money are people from the age of thirty five to fifty five , uh 'cause they're the ones that have been working for twenty years .	discussion
+C	1262.21	Yeah , that would be my guess as well .	discussion
+A	1266.46	Um d and tha and that's a that's quite a minority there , so yeah , it's not even like fifty fifty that's th thirty five per cent .	discussion
+C	1277.97	What about just from the the prospective of our manufacturing cost ?	discussion
+C	1281.31	I mean if if it's twelve fifty per unit .	discussion
+A	1283.0	Yeah .	discussion
+C	1283.91	I mean , okay , there's Uh .	discussion
+D	1284.93	Voice activation might not be the best .	discussion
+A	1286.55	I would say scra I'd say scrap that straight off .	discussion
+D	1290.96	Um also with um with buttons , a thing called R_S_I_ , so wrist sense Huh ?	marketing expert presentation
+C	1300.28	Repetitive strain uh rep repetitive strain injury or like from doing Mm .	marketing expert presentation
+D	1303.49	Yeah , repetitive strains injury , so they don't I think people who watch T_V_ maybe too often , keep changing channel hurts their wrist .	marketing expert presentation
+D	1311.56	I don't think so .	marketing expert presentation
+B	1311.79	Well maybe they shouldn't watch so much T_V_ then .	marketing expert presentation
+A	1313.6	So y so it's so it's so you got so that's something we should have a look into then i when desi when designing the ergonomics of see have a look if um there's any w any medical background we can find out about this .	marketing expert presentation
+D	1318.79	Yeah maybe not so hard .	marketing expert presentation
+C	1322.52	Mm .	marketing expert presentation
+B	1327.32	Maybe it could be , instead of pressing button it could be just touching a Yep .	marketing expert presentation project specs and roles of participants
+D	1331.22	Yeah .	marketing expert presentation
+A	1332.42	Let's jus we just want need to cover our arses so that people aren't gonna sue us in ten years' time , say your remote control gave me repetitive strain injury .	marketing expert presentation
+D	1332.59	Maybe Mm .	marketing expert presentation
+C	1341.01	Yeah , we should probably consult with our legal department uh .	marketing expert presentation
+A	1344.18	Yeah .	marketing expert presentation
+A	1346.34	They're having a lunch break at the moment , but yeah .	marketing expert presentation
+D	1350.27	Yeah .	marketing expert presentation
+A	1350.83	I'll see if I can get see if I can get hold of them for the next meeting .	marketing expert presentation
+C	1351.29	Yeah .	marketing expert presentation
+C	1354.04	I think we can do some really in in that department , the the ergonomic department , we can make some some really good improvements .	marketing expert presentation
+A	1357.88	Yeah .	marketing expert presentation
+D	1360.25	Mm .	marketing expert presentation
+D	1361.09	Maybe th the buttons not so high up so you don't have to press so much , or we just like flat buttons , something .	marketing expert presentation
+C	1364.13	Mm .	marketing expert presentation
+D	1367.75	Yeah .	marketing expert presentation
+A	1370.21	Okay .	marketing expert presentation
+D	1370.93	So that is me .	marketing expert presentation
+A	1372.26	That's great , thank you very much for that , Reissa .	marketing expert presentation
+A	1376.33	Um okay , so we've basically we've decide we've d we've decided that it's gonna be , you know uh , we're going for a basic television remote .	project specs and roles of participants
+A	1391.62	It's gotta be safe to use , it's gotta look cool .	project specs and roles of participants
+D	1395.15	Mm .	project specs and roles of participants
+A	1399.37	It's gotta be cheap .	project specs and roles of participants
+A	1401.13	S um .	project specs and roles of participants
+D	1401.41	Mm .	project specs and roles of participants
+A	1403.7	Now going back to the uh industrial design of it , you know , we were looking at whether to use maybe infra-red or Bluetooth .	project specs and roles of participants
+A	1413.66	I think , we should just go with the simplest option on everything , uh and that would be infra-red , energy source , that would be batteries .	project specs and roles of participants
+A	1426.59	Uh mean we we can look into using the s , you know , the little tiny weeny batteries , all like special long-lasting batteries .	project specs and roles of participants
+A	1433.91	Um .	project specs and roles of participants
+A	1437.36	But a in there's no I don't think there's any point in making a remote control unit that's gonna last for fifty years , because technology will have changed and , you know , we won't have televisions in ten years' time .	project specs and roles of participants
+A	1451.42	So I think we're all um pretty sussed on that .	project specs and roles of participants
+A	1458.74	Um anyone have any questions ?	discussion
+D	1464.28	Mm .	discussion
+A	1464.57	Everybody happy in their work ?	discussion
+C	1466.92	Yeah , it seems like we're all on the pretty much on the same page .	discussion
+A	1469.5	Now this is good , we've got a good structure going on .	discussion
+A	1473.66	We all know where we're going to .	discussion
+A	1477.69	Have you been ge has have any of you lot been getting loads of crap spam on your computers ?	discussion
+C	1482.48	Oh it's probably just you , 'cause you're the project manager .	discussion
+D	1485.51	Well , just questionnaires .	discussion
+A	1487.65	Yeah .	discussion
+C	1487.67	Sell trying to sell your things .	discussion
+A	1490.07	Yeah , stuff .	discussion
+A	1492.23	Um okay .	discussion
+A	1494.7	Do oh have you guys found out if we can if we can e-mail stuff to each other ?	discussion
+D	1500.41	Yeah , you can .	discussion
+A	1501.73	Right .	discussion
+C	1502.64	Okay .	discussion
+A	1502.8	Do all you all know my e-mail address ?	discussion
+C	1504.6	No I don't .	discussion
+D	1505.51	I think he's participant one , aren't you ?	discussion
+B	1505.57	Well , in the project announcement , you've got the addresses , I think .	discussion
+C	1505.6	I Uh Oh , it's just participant one oh okay .	discussion
+B	1509.2	So Project Manager , it's participant one at A_M_I_ .	discussion
+C	1512.58	Yeah .	discussion
+A	1513.03	Can you all d e-mail me your e-mail addresses ?	discussion
+C	1517.14	Well it's just w it's just it's just par participant one , participant two .	discussion
+B	1517.48	You have them i you have them , but we'll send you an e-mail .	discussion
+A	1521.72	Send me , yeah yeah , okay .	discussion
+B	1521.83	You want to have friends , don't you ?	discussion
+C	1525.69	So are we headed towards like a b a big yellow and black remote as far as maybe that's our next meeting that we discuss that .	look and usability
+A	1530.73	Is it yellow and black or is it yellow and blue ?	look and usability
+A	1532.58	I I kind of thought it was blue writing on a yellow background , but I might be just going a bit Okay .	look and usability
+C	1536.97	Well , it's like white on i white and blue on a black background with white with yellow borders .	look and usability
+C	1542.21	Maybe that's like getting ahead of ourselves .	look and usability
+A	1542.95	Well , maybe you can come up with a few with a couple of different ideas ?	look and usability
+B	1544.13	It wouldn't be Well you could It could come But it could come in different colours and have the R_R_ colours just somewhere like just around the lock button could be the R_R_ logo or colours and If .	look and usability
+C	1546.52	Mm .	look and usability
+D	1547.74	Can't we have different colours in the remotes , so somebody can choose different col like does it have to be of a certain ?	look and usability
+A	1551.27	Well , see the thing is is we've gotta keep the company image .	look and usability
+C	1551.52	Mm .	look and usability
+A	1554.12	It's gotta say people have gotta look at this remote control and instantly recognise that it's a Real Reaction i product .	look and usability
+D	1559.94	But if it's a R_R_ , it would be Real Reaction , like if it had a symbol on it .	look and usability
+C	1560.18	Mm .	look and usability
+A	1563.48	There's loads of companies that called R_R_ .	look and usability
+C	1565.0	Mm .	look and usability
+D	1566.9	Whoa .	look and usability
+A	1567.25	This is slog but this is the slogan , this is the the the the type .	look and usability
+C	1570.93	And this is something that came on down from from the higher ups , so , I mean , we are sort of beholden to them .	look and usability
+A	1573.64	Yeah .	look and usability
+D	1576.47	So we have to have it one colour .	look and usability
+A	1578.06	Well , not necessarily .	look and usability
+C	1578.57	Not one colour , but the pattern needs to be recognisable .	look and usability
+A	1579.55	But we have to incorporate it .	look and usability
+D	1582.12	Mm .	look and usability
+A	1583.13	Not necessarily even if i it just has to ye but you have to look at the product and instantly know that it's one of our products as opposed to a Sony product or a , you know , a Panasonic product .	look and usability
+D	1591.09	Mm .	look and usability
+A	1595.35	It's got to so maybe , so you can have a look at our our other products and see if they all follow a s similar vein , perhaps .	look and usability
+A	1608.85	Yeah .	look and usability
+A	1614.32	Yeah .	look and usability
+D	1616.17	Mm .	look and usability
+A	1618.29	Quite poss yeah .	look and usability
+A	1619.74	Well this is all your department .	look and usability
+A	1623.98	Mm okay .	closing
+A	1626.41	Well , well done everybody .	closing
+A	1628.92	And um , I think we uh stop for lunch now .	closing
+C	1633.29	Yeah , pretty soon I think , I guess that's now .	closing
+D	1634.74	Are we are we finished ahead of schedule ?	closing
+A	1636.62	We might possibly have done .	closing
+B	1638.61	Cool .	closing
+C	1639.58	Alright , see you all soon .	closing
+A	1642.95	If we've if we've finished at five minutes before the meeting's supposed to finish , then that means we get an extra five minutes for lunch .	agenda/equipment issues
+D	1653.13	'Kay uh .	agenda/equipment issues
+A	1660.64	Yeah , there you go .	agenda/equipment issues
+A	1669.87	Right .	agenda/equipment issues
+A	1670.82	I just have to there's a few little bits and pieces I have to write down , but Take your headsets off , kick back , smoke 'em if you got 'em .	agenda/equipment issues

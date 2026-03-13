@@ -1,0 +1,609 @@
+A	39.38	Well hi everyone again .	opening
+B	41.27	Hello .	opening
+C	41.31	Hello .	opening
+D	41.82	Hello Mm-hmm .	opening
+A	43.24	Um like before we uh I have to redo the meetings from n th the minutes from the last meeting and so here we go .	opening
+A	55.91	Uh it was discussed in the last meeting uh which was opened by the presentation from the interface um designer that uh looks would be very important on this new remote and um it is to send messages of course to the T_V_ .	opening
+B	65.64	Designer .	opening
+A	79.03	It should have nine channel buttons , a next button , volume buttons , subtitle buttons , switch to control features , colour contrast , sharpness etcetera .	opening
+A	90.2	It should have a memory switch , a mute button in case the telephone rings or something .	opening
+A	94.35	Uh speech recognition is one of her very f favourite personal uh features she would like see d d to be integrated in this um in this new remote .	opening
+A	106.53	Um .	opening
+A	111.92	Should be child friendly design with few buttons , colourful maybe with s star shaped or other shaped buttons .	opening
+A	120.13	Um she uh presented also an oversized remote which she guarantees nobody will ever be able to lose .	opening
+A	130.37	Um that's right .	opening
+D	130.37	And she was challenged on that point Okay .	opening
+B	133.21	Yes .	opening
+A	134.85	But uh her very f personal favourite really she , she would very much like to see a speech recogniser integrated in this remote .	opening
+A	144.1	The industrial designer um presented her uh thoughts on the issue .	opening
+A	153.15	She would like a special case made out of plastic that is very strong , not using any harmful materials , should be recyclable and should be colourful .	opening
+A	165.64	Should have an integrated circuit board that's highly sophisticated and temperature resistant .	opening
+A	172.84	She would like to see a timer and or alarm facility integrated .	opening
+A	180.1	Uh technically this thing would also have a resistor and a capacitor , diode transistor , resonator , and if possible a rechargeable battery .	opening
+A	192.63	Uh and of course a circuit board .	opening
+A	195.99	And how it would works , you press the button , the chip is morse morse code related relays the uh to the generat to the generator amplification and uh the circuit board is very inexpensive to build and so she thinks this is a great feature uh to to to consider .	opening
+A	222.16	She would like uh this whole thing should be push buttons with a simple chip uh scrolling method is more expensive and not that practical anymore .	opening
+A	233.84	Should be battery operated and of course she would have the special cases .	opening
+A	240.4	The marketing expert uh who has to finally come up with to to to market this product has been watching the competition , has done some research on the internet and also has used h her personal observations to come up with the fact that such a remote sh should be small , easy to use and it should be eye catching .	opening
+A	270.36	From her point of view of course one of the most important facts is that we should get to market before our competition does .	opening
+A	280.59	To do that uh maybe one or two features should be developed on which we could dwell on or in other words on which our campaign could be built on .	opening
+A	292.13	Too many new features or too many points would only confuse matter .	opening
+A	296.97	So we prefer to have one or two features that can be really uh driven home .	opening
+A	302.88	Um it should have a fruit and vegetable design and should have a soft feel .	opening
+A	309.16	She feels that's really what people want today .	opening
+A	312.93	And the decision that we took last time was that uh the special feature we would like to see is a speech recogniser , the energy should be battery uh should be on a chip , should be trendy design , compact and strong , and should have buttons .	opening
+A	333.25	And that concludes the presentation from the last minutes from the last meeting .	opening
+A	340.72	Now uh we are ready for the presentation of the prototype .	presentation of prototype
+C	347.27	Yeah .	presentation of prototype
+B	347.73	Yeah .	presentation of prototype
+B	348.81	Just the look like , the button part I'll explain .	presentation of prototype
+C	351.32	Yeah .	presentation of prototype
+C	356.25	Uh so this is our what uh we have made .	look and feel
+C	359.39	This is a model of the remote control which we are going to build .	look and feel
+A	363.39	Mm-hmm .	look and feel
+C	363.76	Uh this is us in a snail shape so uh it it is attractive um and it's it's blue in colour uh bright and uh it has yellow buttons and all the different colour buttons so it is a uh uh a looks-wise it is beautiful .	look and feel
+D	366.74	Mm-hmm .	look and feel
+D	372.4	Mm-hmm .	look and feel
+D	377.8	Mm-hmm .	look and feel
+D	381.16	Mm-hmm .	look and feel
+C	381.47	Uh and also compact in shape .	look and feel
+D	383.89	Mm-hmm .	look and feel
+C	384.29	Uh um and also i it it will be easily fit into into the hands and you can access all the buttons easily .	look and feel
+D	388.95	Mm-hmm .	look and feel
+D	391.48	Mm-hmm .	look and feel
+D	392.09	Good .	look and feel
+C	393.0	Yeah , oops , sorry .	look and feel
+D	396.83	You used to have all the buttons Oh that's good , no , that's nice and friendly .	look and feel
+C	400.24	Um yeah and um uh the material which we are going to use for the case is uh plastic and uh w which which is s strong um uh and also uh for the Um the material is plastic and uh for the buttons it is uh s soft rubber um and als yeah .	look and feel
+C	424.26	Yeah because uh uh you'll be touching the buttons more so it is soft when you touch it .	look and feel
+D	426.89	Mm-hmm .	look and feel
+D	427.43	Mm .	look and feel
+A	429.22	Mm-hmm , mm-hmm .	look and feel
+D	429.5	Mm-hmm .	look and feel
+C	430.39	And then um uh for the for the led , for the light emitting diode it is a fluorescent green and it's a a it is a bulb like an ordinary infrared .	look and feel
+D	434.93	Mm-hmm .	look and feel
+D	436.74	Mm-hmm .	look and feel
+C	444.13	And and the button button's part uh will be explained by F Francina .	features and functions
+B	448.91	Okay .	features and functions
+D	449.1	Okay .	features and functions
+B	449.7	Now the um we decided upon including certain features on our remote .	features and functions
+B	455.42	Now these features includes the s um signal emitting uh signal it's the led or L_E_D_ the infrared .	features and functions
+D	462.89	Yeah , okay , mm-hmm .	features and functions
+A	463.31	Mm-hmm , mm-hmm .	features and functions
+B	465.64	Now uh we have included the switch on and off button .	features and functions
+D	470.22	Mm-hmm .	features and functions
+B	473.12	Now we have included another feature that is the mute button on the side of the model .	features and functions
+D	479.57	Mm-hmm .	features and functions
+D	483.18	Mm-hmm .	features and functions
+B	483.63	Then we have included one to nine buttons for controlling the programmes the different channels .	features and functions
+D	494.39	Mm-hmm .	features and functions
+B	497.51	We have also included two buttons for increasing or decreasing the volume .	features and functions
+D	506.23	Mm-hmm .	features and functions
+B	507.38	And we have also included two buttons for scrolling up and scrolling down the programme channels .	features and functions
+D	516.52	Mm .	features and functions
+B	516.9	Now our our model also contains a button which is called as the menu button .	features and functions
+A	521.78	What kind of button ?	features and functions
+B	522.59	Menu button .	features and functions
+A	523.68	Menu ?	features and functions
+A	523.99	Uh menu th menu , uh one one .	features and functions
+B	524.16	Yes , menu At the centre we have included a button which is fluorescent green colour and this is the menu button which will control the colour , sharpness , brightness of this uh picture .	features and functions
+D	524.41	Menu button .	features and functions
+D	527.68	Mm-hmm .	features and functions
+D	537.24	Mm-hmm .	features and functions
+D	538.28	Of the screen .	features and functions
+D	539.02	Mm , mm-hmm .	features and functions
+B	543.0	We have also included a button which is called as the swapping button .	features and functions
+B	548.55	Now this is uh a special , special feature which we have included .	features and functions
+B	553.07	Now this button is an elongated shaped button and this is slightly flexible so if it is turned towards the right it will take to the previous channel , if it is turned towards the right it will take to the next channel .	features and functions
+B	570.45	It will take the user to the previous and the next channel so this is a swapping button .	features and functions
+D	580.41	The next channel in the numeric pattern , or Yeah , mm-hmm .	features and functions
+B	584.12	No , swapping is if if example you're you're watching the second channel and then you go to the tenth channel and if you want to go back to the second channel you can swap , this button .	features and functions
+D	590.61	Mm .	features and functions
+D	593.76	Okay , okay .	features and functions
+B	594.2	Yes .	features and functions
+B	599.19	And at the end , it this remote has inbuilt voice recogniser which c which will recognise the user's voice and then it'll act accordingly .	features and functions
+A	604.16	Okay .	features and functions
+A	607.11	Mm-hmm .	features and functions
+A	612.53	Mm-hmm .	features and functions
+B	614.77	So this is our proposed model .	features and functions
+D	614.87	Okay .	features and functions
+D	617.29	Mm-hmm .	features and functions
+B	617.73	Now the marketing expert has to give her suggestion whether it'll be sellable or it'll be cost effective .	evaluation of prototype
+C	620.31	Tell , yeah .	evaluation of prototype
+D	628.21	Okay , well um what what I really like a lot about it is that you can reach the whole thing with one thumb , that you can really hold it in one h you don't need two hands and it's easily reachable even for somebody with a small hand , yeah ?	evaluation of prototype
+B	635.32	Yes , yes .	evaluation of prototype
+C	637.67	Mm-hmm .	evaluation of prototype
+A	642.8	Yes the buttons are all raised , right ?	evaluation of prototype
+D	645.11	The buttons are all raised and if you hold it in the centre of your hand you can even reach it over here so you don't have to turn it around , turn it upside down , move it up , up and down , I really like that .	evaluation of prototype
+B	645.27	Yes .	evaluation of prototype
+A	645.67	Are raised , mm-hmm .	evaluation of prototype
+A	649.7	Right .	evaluation of prototype
+A	653.18	Or have two hands to operate it , yeah .	evaluation of prototype
+D	656.53	You really did a good job on that , my little designers .	evaluation of prototype
+B	656.85	Mm .	evaluation of prototype
+C	656.9	Mm-hmm .	evaluation of prototype
+D	661.94	Um and um I like the idea that the on-off button is in a really prominent place .	evaluation of prototype
+D	669.48	That's that's a really good good thing .	evaluation of prototype
+A	670.81	Yes , and it sort of sticks up so that you really you don't have to g first go like oh yeah here it's on and yeah , mm-hmm .	evaluation of prototype
+D	672.2	Yeah , that's great .	evaluation of prototype
+C	674.88	Hmm .	evaluation of prototype
+D	675.92	Mm-hmm .	evaluation of prototype
+C	676.33	Mm-hmm .	evaluation of prototype
+B	676.84	Abs okay .	evaluation of prototype
+D	677.86	The colour's very attractive .	evaluation of prototype
+D	680.08	Um the um these buttons uh around here are the mute and these mm-hmm On both sides they're mute ?	evaluation of prototype
+B	687.45	No , these the front buttons which are here , are the mute buttons .	evaluation of prototype
+B	692.36	Yes , yes .	evaluation of prototype
+D	693.14	So you can push either one ?	evaluation of prototype
+B	694.4	Yes .	evaluation of prototype
+D	695.19	Okay .	evaluation of prototype
+A	695.7	So if you're left-handed or right-handed it doesn't matter .	evaluation of prototype
+D	697.03	And this brings the menu up on the screen ?	evaluation of prototype
+B	699.16	Pardon me ?	evaluation of prototype
+D	699.48	This brings the menu up on the screen and the orange ones are Okay .	evaluation of prototype
+B	699.86	This is the menu yes , yes .	evaluation of prototype
+B	704.04	A the the these these two are th to increase or decrease the volumes , and these two are to uh scroll the programme channels .	evaluation of prototype
+D	712.1	F f okay .	evaluation of prototype
+D	713.87	Right , very good .	evaluation of prototype
+B	714.08	Scroll up or scroll down the channels .	evaluation of prototype
+D	715.89	Uh it looks mm looks like something I can sell .	evaluation of prototype
+D	721.04	Okay and now I'm supposed to yeah .	evaluation of prototype
+A	722.55	Well , I have one question uh will there be anything written on the buttons , like that people know , or they have to learn that from a piece of paper which button does what ?	evaluation of prototype
+B	733.84	Yes , it will have uh these buttons will have the numbers and all the rest of the buttons will have symbols .	evaluation of prototype
+C	734.11	Ah .	evaluation of prototype
+C	735.22	Yeah , definitely .	evaluation of prototype
+A	739.33	Will have symbols so that that that the user really knows you know and doesn't have to first learn it Yeah .	evaluation of prototype
+B	740.01	Yes , which can be easily recognised .	evaluation of prototype
+D	740.48	Yeah .	evaluation of prototype
+C	740.51	Yeah .	evaluation of prototype
+C	741.38	Yeah .	evaluation of prototype
+C	742.46	Yeah .	evaluation of prototype
+B	742.93	Yes .	evaluation of prototype
+C	743.52	Yeah .	evaluation of prototype
+D	743.73	Good point because we need the symbols 'cause we're going into an international market we can't have anything that's language dependent .	evaluation of prototype
+B	744.74	Yes .	evaluation of prototype
+C	746.14	Yeah of course , and also Hmm .	evaluation of prototype
+B	747.97	Yes .	evaluation of prototype
+C	749.34	Yeah .	evaluation of prototype
+A	749.76	But anyway it would ha i i i it has to have some kind of of symbols , text or something so that people kn That's right .	evaluation of prototype
+B	749.88	Yes .	evaluation of prototype
+C	751.61	Yeah we can Text .	evaluation of prototype
+D	753.56	Symbols on it .	evaluation of prototype
+D	754.47	Mm-hmm , mm-hmm .	evaluation of prototype
+B	754.68	Yes .	evaluation of prototype
+C	755.41	Text that we can have on the case itself , we can it will be printed on the case and symbols as well as the buttons .	evaluation of prototype
+B	757.69	Yes .	evaluation of prototype
+D	758.1	Mm-hmm .	evaluation of prototype
+A	759.24	Okay , yeah just wanted make sure of that mm-hmm .	evaluation of prototype
+B	760.05	And and one more feature is we we have a holder for this remote which is an oyster shape .	evaluation of prototype
+C	760.79	Yeah .	evaluation of prototype
+D	761.58	Mm , 'kay , mm .	evaluation of prototype
+D	765.04	Mm-hmm .	evaluation of prototype
+B	767.3	A shell shape .	evaluation of prototype
+D	768.55	For the snail , yeah , mm-hmm , we have the snail shell .	evaluation of prototype
+A	769.27	Right , mm-hmm .	evaluation of prototype
+B	769.28	Yes , yes .	evaluation of prototype
+C	769.42	Yeah .	evaluation of prototype
+C	770.42	So it is yeah , yeah shell .	evaluation of prototype
+B	770.93	Yes , snail shell .	evaluation of prototype
+A	770.97	Mm-hmm .	evaluation of prototype
+D	771.67	He goes right back into his shell .	evaluation of prototype
+B	772.92	Yes .	evaluation of prototype
+A	773.28	Right .	evaluation of prototype
+D	773.58	Well you know I think we could do something really funny with this too because the snail is known to be slow and we could have some sort of little comic effect on our marketing about how this is a rapid snail or something like that you know that would , that would really work .	evaluation of prototype
+C	778.3	Mm-hmm .	evaluation of prototype
+B	784.18	Mm-hmm .	evaluation of prototype
+C	784.48	Mm .	evaluation of prototype
+B	786.8	Y Yes Yes .	cost estimate evaluation of prototype
+C	787.64	Yeah , of course , yeah .	evaluation of prototype
+A	790.05	Now what , what are our special features for the marketing ?	evaluation of prototype
+D	790.32	So I think voice recognition is our big selling point 'cause nobody else seems to have that in in this price range .	evaluation of prototype
+A	793.29	That's really the voice recognition that's really unusual And then , and then the other thing would basically be sh shape or practicality of use .	evaluation of prototype
+C	799.16	Mm .	evaluation of prototype
+C	799.6	Mm-hmm .	evaluation of prototype
+C	801.03	Mm .	evaluation of prototype
+D	809.81	Yep uh well I think that everybody's gonna say their remote control is practical .	evaluation of prototype
+A	811.09	You know .	evaluation of prototype
+D	815.79	I think we have to , we have to dwell on on on the appearance .	evaluation of prototype
+A	816.95	Colours .	evaluation of prototype
+A	820.76	Mm-hmm .	evaluation of prototype
+D	821.28	We're really gonna have the be the cutest remote control on the block .	evaluation of prototype
+A	824.15	Cutest .	evaluation of prototype
+C	826.51	Mm .	evaluation of prototype
+A	826.94	Yeah .	evaluation of prototype
+D	827.08	So I think we have to play with the image , play with the snail image um play with the visual and then the voice recognition .	evaluation of prototype
+D	835.55	I think those are the two things to push .	evaluation of prototype
+C	835.61	Mm-hmm .	evaluation of prototype
+D	837.13	The look and the voice recognition .	evaluation of prototype
+D	840.11	They're gonna be our two selling points .	evaluation of prototype
+A	842.93	Okay , now uh having said that No , now this was our evaluation criteria which we uh just have done .	agenda
+D	845.56	I'm supposed to make a little presentation , aren't I ?	agenda
+D	851.4	Okay .	agenda
+A	852.97	Now we're gonna talk about financing .	agenda
+D	856.63	Ah , but in my instructions I think it said I was supposed to go to the board and do something .	agenda
+D	862.59	No ?	agenda
+A	862.78	Well , there is a production evaluation .	agenda
+A	864.37	Is that you ?	agenda
+D	865.17	Yeah , that's me .	agenda
+A	866.04	But that's after the financing .	agenda
+D	867.44	Oh , okay .	agenda
+A	868.09	See ?	agenda
+D	868.22	Sorry , sorry .	agenda
+A	868.72	Fi see ?	agenda
+D	870.76	Mm-mm .	agenda
+A	873.09	Um .	agenda
+A	875.73	Okay , we had looks and voice recognition .	cost estimate
+A	879.96	Okay now on the financing we bring up the mm there it is .	cost estimate
+A	886.86	Okay uh energy source we say that's battery , right ?	cost estimate
+C	894.86	Mm .	cost estimate
+D	895.56	That's right .	cost estimate
+A	896.37	Okay , now .	cost estimate
+A	900.85	So we I guess we use one .	cost estimate
+C	903.74	Yeah .	cost estimate
+A	906.02	What ?	cost estimate
+A	909.83	T cell or chart you are trying to change is protected .	cost estimate
+A	913.58	Well , that's nice .	cost estimate
+A	915.3	She told me I could just ch change it here and then it would It doesn't work .	cost estimate
+A	922.01	Hmm .	cost estimate
+D	924.77	Can you just fill it in in the yellow boxes ?	cost estimate
+D	926.77	Or Well .	cost estimate
+A	927.31	Oh , okay yeah , okay , let's see .	cost estimate
+C	927.88	Yeah .	cost estimate
+A	929.79	Okay , one , okay .	cost estimate
+B	929.83	Yes .	cost estimate
+A	933.28	Oh go away .	cost estimate
+A	934.43	Um kinetic source so that's in the energy source that's all we need .	cost estimate
+C	938.34	Mm-hmm .	cost estimate
+A	939.18	Uh electronics , simple chip on print ?	cost estimate
+A	942.26	Is that's what we're using ?	cost estimate
+C	942.38	Yeah , yeah .	cost estimate
+B	942.55	Yes .	cost estimate
+A	943.56	One of those ?	cost estimate
+A	945.59	Come on .	cost estimate
+A	946.85	Okay , one .	cost estimate
+A	948.72	Uh regular chip on print .	cost estimate
+A	951.21	No .	cost estimate
+C	952.51	No .	cost estimate
+A	952.86	That's all we need , the one case , uncurved flat , single curved , double curved .	cost estimate
+C	953.71	Yeah .	cost estimate
+C	962.77	This is a Yeah .	cost estimate
+B	963.6	Single curve ?	cost estimate
+B	964.59	Mm .	cost estimate
+D	965.33	I guess it's double curved .	cost estimate
+A	967.04	Double curved ?	cost estimate
+A	968.64	One of those ?	cost estimate
+D	969.48	Mm-hmm .	cost estimate
+A	972.23	Case materi s supplements .	cost estimate
+A	974.44	Plastic we said , right ?	cost estimate
+B	976.17	Plastic .	cost estimate
+A	978.26	Uh wood , rubber ?	cost estimate
+D	979.75	Rubber , because we're gonna have the soft buttons .	cost estimate
+C	980.1	Yeah .	cost estimate
+A	982.68	Uh but , yes but That's just for the case material , so special colours though , we having that , right ?	cost estimate
+C	985.01	I think uh that is uh f for rubbers that is uh yeah case material .	cost estimate
+B	988.78	Is this for the case ?	cost estimate
+D	989.36	Oh okay , the mm-hmm , mm' kay .	cost estimate
+B	989.91	Yes .	cost estimate
+C	992.77	Mm-hmm .	cost estimate
+B	992.8	Yes .	cost estimate
+D	993.08	Mm-hmm .	cost estimate
+A	995.09	And then we have to interface push buttons .	cost estimate
+B	999.17	Yes .	cost estimate
+D	999.19	Mm-hmm .	cost estimate
+A	1003.68	Scroll wheel , no .	cost estimate
+A	1005.0	Integrated scroll wheel , L_C_ display ?	cost estimate
+D	1007.97	No , 'cause we didn't put the clock in it after all , right ?	cost estimate
+B	1008.24	No .	cost estimate
+A	1009.18	Button .	cost estimate
+A	1011.62	No .	cost estimate
+C	1011.72	Yeah .	cost estimate
+D	1012.22	Mm-hmm .	cost estimate
+A	1013.19	Uh , button supplement special colour ?	cost estimate
+B	1013.48	Speci Yes Yes d we do have special form .	cost estimate
+A	1017.7	Special form ?	cost estimate
+D	1019.65	Yes .	cost estimate
+A	1022.76	And special material , rubber , wood , yes .	cost estimate
+C	1025.48	Yeah .	cost estimate
+A	1027.27	Okay .	cost estimate
+A	1031.73	Total seven point six whatever that means .	cost estimate
+C	1035.08	Uh , I think that's the price .	cost estimate
+A	1036.65	That's the price .	cost estimate
+B	1036.69	One two three four five six seven eight nine Nine points , okay , yes .	cost estimate
+C	1039.15	Maybe it is it just n Yeah .	cost estimate
+A	1039.16	Mm ?	cost estimate
+A	1040.79	Eight , eight point two .	cost estimate
+A	1046.84	That's hmm ?	cost estimate
+A	1049.67	Eight point two , right ?	cost estimate
+A	1052.37	So , we looks like we are well within budget .	cost estimate
+D	1056.71	Mm-hmm .	cost estimate
+B	1057.0	Okay .	cost estimate
+A	1057.86	Okay .	cost estimate
+A	1060.93	I guess I should save this I suppose , huh ?	cost estimate
+D	1062.93	Yeah .	cost estimate
+A	1068.99	Oops .	cost estimate
+A	1079.99	Uh-huh huh huh .	cost estimate
+B	1084.98	On the desktop .	cost estimate
+A	1086.62	I just tried that .	cost estimate
+A	1088.07	My documents , computer .	cost estimate
+C	1088.15	AMI .	cost estimate
+A	1089.69	My compu Ah oh here it is , yes .	cost estimate
+C	1089.87	AMI should for Yeah .	cost estimate
+A	1096.83	Okay , fine .	cost estimate
+A	1098.37	Save .	cost estimate
+A	1101.4	Okay good , so that's the good news .	cost estimate
+A	1104.31	We gonna be popular .	cost estimate
+D	1105.97	Mm-hmm .	cost estimate
+A	1108.35	Um .	cost estimate
+A	1111.64	So that uh I think financing was pretty simple .	cost estimate
+D	1114.6	Mm-hmm .	cost estimate
+A	1115.36	Now we would like to have a presentation by the marketing expert on production evaluation .	evaluation of prototype
+D	1122.17	Okay , I'll take my file down so you can bring it up .	evaluation of prototype
+D	1137.91	'Kay should be able to get it now .	evaluation of prototype
+D	1142.72	'Kay , why don't you move just to the next slide right away .	evaluation of prototype
+A	1146.0	You wanna go to the next slide ?	evaluation of prototype
+D	1146.88	Yeah right away .	evaluation of prototype
+A	1147.6	Okay .	evaluation of prototype
+D	1148.46	Okay , well uh obviously my method for uh s m the marketing of this thing is first to ask the big question , will it sell ?	evaluation of prototype
+D	1157.17	And I think we should show this prototype to people from various age and socio-economic groups and see about any fine tuning that maybe little things we haven't thought of .	evaluation of prototype
+B	1165.36	Okay .	evaluation of prototype
+C	1166.99	Mm-hmm .	evaluation of prototype
+D	1168.0	We can't accept every suggestion of course , but maybe we just need to get a few .	evaluation of prototype
+C	1171.27	Yeah .	evaluation of prototype
+D	1172.68	And show the the prototype to consumer research groups , we don't s want somebody to suddenly come to us and tell us that this button is toxic and you know some child will swallow it and then we won't sell any .	evaluation of prototype
+C	1180.33	Mm-hmm .	evaluation of prototype
+C	1183.11	Mm .	evaluation of prototype
+D	1183.56	So we have to get some input from those people .	evaluation of prototype
+C	1185.86	Mm-hmm .	evaluation of prototype
+D	1186.28	And then after that we just have to go with our best intuition and you know we like it , we think it's good , we're gonna get behind it and sell it .	evaluation of prototype
+D	1193.88	Um , next slide please .	evaluation of prototype
+D	1197.81	Okay , now the things that I was thinking and th my wish list has really been realised in this prototype .	evaluation of prototype
+D	1205.14	I wanted the shape to be biomorphic , I didn't want anything with angles and all square , I wanted it to be comfy and roundy so we we've got that .	evaluation of prototype
+D	1212.83	The size is small , the colour's bright and warm which is what we wanted .	evaluation of prototype
+D	1216.44	We wanted the feel to be as soft as possible , we'll have the soft buttons and the way this is shaped , even though it's gonna be hard plastic , it feels good in your hand so that's nice .	evaluation of prototype
+C	1220.78	Mm-hmm .	evaluation of prototype
+D	1226.87	And functionality I put last on my list because people aren't going to use it before they buy it .	evaluation of prototype
+D	1232.07	So paradoxically the other features , in other words , the look , the feel um and the shape , that's what people are gonna get in the store .	evaluation of prototype
+B	1238.78	Fee selling .	evaluation of prototype
+C	1240.75	Yeah .	evaluation of prototype
+D	1241.24	They don't have a television in the store , they can't play with it .	evaluation of prototype
+C	1243.4	Yeah .	evaluation of prototype
+B	1243.74	Yes .	evaluation of prototype
+D	1243.78	Um so they'll be our main selling points .	evaluation of prototype
+D	1246.59	So um th those have been fulfilled by your prototype and go ahead to the next slide please .	evaluation of prototype
+D	1254.17	Okay , so um the shape um I think is a a one .	evaluation of prototype
+D	1260.43	That's really , really excellent shape .	evaluation of prototype
+D	1263.01	The size is small um and th these points are in the importance for the , for the marketing , these aren't i in how I feel .	evaluation of prototype
+D	1273.41	I think that it's I think that it's plenty small enough to sell but I think we're sort of right the scale is one to seven .	evaluation of prototype
+D	1279.67	I think we're sort of right in the middle as far as c other competitors .	evaluation of prototype
+B	1281.81	Okay .	evaluation of prototype
+D	1284.56	And our colour I think is great .	evaluation of prototype
+D	1286.2	The colours are bright and warm and we really do great job there .	evaluation of prototype
+D	1289.75	And given um the constraints that we had I think we got it as soft as possible .	evaluation of prototype
+D	1295.52	And then functionality um I think you did a really good job on functionality , obviously we could have ad added different functions but then we'd disturb something else so I would say that we got to a five out of seven on on functionality .	evaluation of prototype
+D	1310.14	So I think that basically we've got a great product and we can get off and running with it .	evaluation of prototype
+B	1310.22	Okay .	evaluation of prototype
+C	1310.32	Mm-hmm .	evaluation of prototype
+C	1314.07	Yeah .	evaluation of prototype
+A	1314.19	Um I just realised one thing .	cost of speech recognition
+D	1317.47	Yes .	cost of speech recognition
+A	1317.83	In the financing there was no room for our voice recogniser .	cost of speech recognition
+B	1322.5	Yes .	cost of speech recognition
+D	1322.64	Ah .	cost of speech recognition
+C	1323.32	Yeah .	cost of speech recognition
+A	1324.29	And uh I don't know how we can evaluate that or how we can include that , too .	cost of speech recognition
+D	1331.43	Well , um we had what , eight eight euros twenty as our cost ?	cost of speech recognition
+A	1335.54	Eight , eight twenty , yes .	cost of speech recognition
+C	1336.75	Eight twenty so We have um four euros , yeah Yeah .	cost of speech recognition
+D	1337.3	And so we've got we've still got four euros to go to spend .	cost of speech recognition
+A	1341.16	I mean maximum we have another four point three euros I mean four thirty .	cost of speech recognition
+D	1344.32	Mm-hmm .	cost of speech recognition
+D	1346.02	Well um that's Mm-hmm .	cost of speech recognition
+A	1347.67	But I mean we have no way of presenting that to management as you know as a f finished , as a finished product and saying okay with the voice recogniser that costs so much .	cost of speech recognition
+A	1362.02	So um we just have to beware of that .	cost of speech recognition
+A	1366.54	I mean and know whether the four thirty will really cover that .	cost of speech recognition
+D	1371.5	Well as we know in today's technic technological world you can do just about anything at any price , the the the problem is quality .	cost of speech recognition
+C	1371.67	Yeah .	cost of speech recognition
+C	1379.2	Yeah .	cost of speech recognition
+D	1379.39	So we're just gonna have to settle for whatever quality that will buy us .	cost of speech recognition
+C	1381.86	Yeah , yeah .	cost of speech recognition
+B	1382.5	Yes , yes .	cost of speech recognition
+D	1383.51	And um it may not be the greatest quality but it may sell anyway .	cost of speech recognition
+C	1389.53	Yeah , still .	cost of speech recognition
+A	1389.87	Yeah .	cost of speech recognition
+D	1391.03	As we've seen with so many of these kinds of products .	cost of speech recognition
+C	1392.0	Yeah .	cost of speech recognition
+A	1394.88	I'm sorry to interrupt then but I just uh recog I just remembered that there was no that that was not um included uh that there was no room for any special features , okay ?	cost of speech recognition
+C	1402.4	Included , yeah .	cost of speech recognition
+C	1405.81	Hmm , hmm Yeah , even my yeah , shape is one .	giving marks to prototype properties cost of speech recognition
+B	1407.28	Yeah mm .	cost of speech recognition
+A	1409.07	So to beware of that .	cost of speech recognition
+A	1410.86	You wanna go to this next slide , marketing expert ?	giving marks to prototype properties
+D	1412.52	Uh , well I isn't this my last slide ?	giving marks to prototype properties
+D	1415.34	Maybe .	giving marks to prototype properties
+A	1415.4	I dunno .	giving marks to prototype properties
+D	1416.07	Go ahead .	giving marks to prototype properties
+A	1416.54	Yes it is .	giving marks to prototype properties
+D	1416.56	I think that was my last slide , yeah .	giving marks to prototype properties
+A	1417.8	Mm-hmm .	giving marks to prototype properties
+D	1418.44	Um .	giving marks to prototype properties
+D	1422.74	Mm okay .	giving marks to prototype properties
+D	1425.96	And I'm supposed to present this scale on the whiteboard .	giving marks to prototype properties
+D	1429.34	Um and we're supposed to talk about those things as a team now , so if you put my last slide back up there .	giving marks to prototype properties
+A	1436.69	Oh .	giving marks to prototype properties
+D	1438.17	I'm sorry I've um forgot to do that , um .	giving marks to prototype properties
+A	1442.55	Why ?	giving marks to prototype properties
+A	1442.86	Wh why you need that up ?	giving marks to prototype properties
+D	1446.12	Hmm ?	giving marks to prototype properties
+D	1446.6	Well because I can't remember what I put on there .	giving marks to prototype properties
+D	1452.41	Okay .	giving marks to prototype properties
+D	1453.1	Now I'm supposed to see how long my leash is here .	giving marks to prototype properties
+A	1456.22	I think you can make it there .	giving marks to prototype properties
+D	1457.61	Mm 'kay .	giving marks to prototype properties
+D	1459.37	You ready .	giving marks to prototype properties
+D	1460.5	So now we're all supposed to say what we think .	giving marks to prototype properties
+D	1463.95	Um okay so on shape I gave it a one .	giving marks to prototype properties
+D	1474.8	Wait what would you ra uh one being good and seven being the worst .	giving marks to prototype properties
+B	1478.47	Worse , okay .	giving marks to prototype properties
+D	1479.45	Um what do you think the shape is ?	giving marks to prototype properties
+B	1482.0	One .	giving marks to prototype properties
+D	1482.44	One , okay , and Be Betsy ?	giving marks to prototype properties
+A	1485.05	Yes I think uh shape is one .	giving marks to prototype properties
+D	1486.83	Okay , uh-huh one , okay .	giving marks to prototype properties
+D	1490.6	And how about on size ?	giving marks to prototype properties
+D	1496.76	On size I gave it a four , yeah , I feel it's just average .	giving marks to prototype properties
+A	1497.56	You you gave it a four .	giving marks to prototype properties
+A	1502.47	Um , I dunno .	giving marks to prototype properties
+A	1505.16	I think I would give it at least a two .	giving marks to prototype properties
+D	1507.16	Okay .	giving marks to prototype properties
+B	1509.75	One .	giving marks to prototype properties
+D	1510.94	Mm-hmm .	giving marks to prototype properties
+C	1511.75	Yeah , even I think it is one .	giving marks to prototype properties
+D	1513.38	Okay .	giving marks to prototype properties
+C	1513.64	It's quite small .	giving marks to prototype properties
+D	1514.79	Okay you're the designer , of course you wanna give it a one .	giving marks to prototype properties
+D	1520.66	Um and then how about how we doing on colour ?	giving marks to prototype properties
+A	1525.96	Colour uh I One .	giving marks to prototype properties
+D	1526.68	Colour , I gave it a one .	giving marks to prototype properties
+D	1528.19	I really like all those nice bright , warm colours .	giving marks to prototype properties
+A	1529.88	I I like the colours .	giving marks to prototype properties
+B	1531.22	One .	giving marks to prototype properties
+A	1531.57	One .	giving marks to prototype properties
+D	1531.83	One .	giving marks to prototype properties
+B	1532.02	Yes .	giving marks to prototype properties
+C	1532.66	Yeah , one .	giving marks to prototype properties
+D	1534.05	One , one , one , okay .	giving marks to prototype properties
+D	1536.17	And how about the feel ?	giving marks to prototype properties
+D	1541.26	Taking into um consideration texture and comfort in the hand .	giving marks to prototype properties
+A	1547.76	Uh , I think I would give it a two .	giving marks to prototype properties
+D	1550.51	Okay , I gave it a three , two , yeah ?	giving marks to prototype properties
+B	1553.05	I'll give three .	giving marks to prototype properties
+D	1554.1	Three .	giving marks to prototype properties
+C	1555.7	Uh maybe two , yeah .	giving marks to prototype properties
+D	1556.87	Two , okay .	giving marks to prototype properties
+D	1559.19	And the next is functionality where I I admit I was a little hard on our team here , but Yeah .	giving marks to prototype properties
+A	1569.22	Well it's also you can't really try it out uh the other things you have have more is are more tangible so from that point of view but um I'll give it a three .	giving marks to prototype properties
+D	1575.02	Mm-hmm .	giving marks to prototype properties
+D	1582.23	Okay .	giving marks to prototype properties
+B	1586.28	Two .	giving marks to prototype properties
+D	1586.86	Two , okay .	giving marks to prototype properties
+C	1588.69	Uh three , mm-hmm .	giving marks to prototype properties
+D	1589.55	Three ?	giving marks to prototype properties
+D	1592.0	Okay .	giving marks to prototype properties
+D	1594.32	Well , um .	giving marks to prototype properties
+D	1598.03	It looks like we've got got ourselves a pretty good product .	giving marks to prototype properties
+D	1601.56	Um the functionality's the only place where maybe we have to think about m m maybe , heaven forbid , having another meeting .	giving marks to prototype properties
+C	1611.98	Yeah .	giving marks to prototype properties
+D	1613.62	But um otherwise I think we're we're ready to go to go with this product .	giving marks to prototype properties
+D	1620.68	Anybody else have any other comments or any other things that we feel we should evaluate ?	giving marks to prototype properties
+A	1630.43	Uh .	creative process
+A	1637.65	Here is what we looking at uh satisfaction on for example room for creativity .	creative process
+A	1645.44	Um .	creative process
+A	1649.81	Is there more room for creativity or are we absolutely happy ?	creative process
+C	1655.33	Maybe we can yeah , include some more buttons and uh um yeah features .	creative process
+B	1655.36	We can always improve , yes .	creative process
+B	1658.69	Yes , features .	creative process
+C	1661.06	We can make the buttons few buttons smaller .	creative process
+C	1663.42	Uh I think they are quite big , so I think I I mean we can just have small buttons and more buttons in that case .	creative process
+C	1672.06	If we want to have more features than that .	creative process
+D	1674.44	Mm-hmm .	creative process
+D	1676.42	Well then again if we're gonna um do the speech recognition thing we're gon there gonna be some buttons that are gonna have to be added for that for the recording of the the speech .	creative process
+C	1681.21	Yeah .	creative process
+C	1684.04	Yeah , definitely .	creative process
+B	1684.79	Yes .	creative process
+B	1687.27	Voices .	creative process
+C	1687.52	Mm-hmm .	creative process
+D	1687.75	So that that's where we're gonna have to do maybe we can eliminate one of the mute buttons , instead of having two mute buttons .	creative process
+C	1693.38	Yeah , definitely , yeah , two mu mute buttons .	creative process
+B	1693.91	Yes .	creative process
+B	1695.75	Yes .	creative process
+D	1695.98	And um then maybe we can do something with the um the volume control .	creative process
+D	1705.35	Maybe we can put that all on one button .	creative process
+C	1708.39	Hmm .	creative process
+D	1709.18	Um and a couple of other th maybe comp uh consolidate some of the usage an and see what we can do with that .	creative process
+C	1718.32	Mm-hmm .	creative process
+A	1718.58	Y um al always bearing in mind that right now we are of course well within the budget and that we still you know we probably can't , with this particular item , we probably can't just uh add a whole lot of more things .	creative process
+B	1719.06	And maybe Yes .	creative process
+D	1722.84	Mm-hmm .	creative process
+D	1732.91	No .	creative process
+A	1733.41	Uh um we need uh you know we need to leave space money-wise for the voice recogniser .	creative process
+C	1733.97	Yeah .	creative process
+D	1741.45	Mm-hmm .	creative process
+D	1744.16	Mm-hmm .	creative process
+A	1745.52	Um .	creative process
+C	1745.56	Mm-hmm .	creative process
+A	1749.86	So th the question really is how do we feel with the project process ?	creative process
+A	1754.38	Uh , um are we happy with the creativity that has passed here or we're not happy with the new product we created or that was created ?	creative process
+A	1768.06	Uh I think personally I think uh I'm pretty happy .	creative process
+D	1771.7	I'm pretty happy with it too , yeah um , it's something I think I can market .	creative process
+C	1772.49	Even I'm happy .	creative process
+A	1772.58	Um an and then the next question is are we happy with the leadership of this project ?	creative process evaluation of project
+C	1775.25	Yeah .	creative process
+D	1775.76	Yeah .	creative process
+A	1782.16	Uh And I think team work I think was very very good , I think we really yeah .	evaluation of project
+D	1782.71	I think you've done a good job , Miss leader .	evaluation of project
+B	1784.02	Yes , yes you've done a good job .	evaluation of project
+C	1784.37	Yeah , yeah , definitely .	evaluation of project
+D	1789.81	Yeah I d I do too I think we worked well together as a team , yeah .	evaluation of project
+C	1790.06	Mm-hmm .	evaluation of project
+C	1791.05	Yeah .	evaluation of project
+C	1792.54	Yeah .	evaluation of project
+A	1792.57	Mm-hmm .	evaluation of project
+D	1792.74	Mm-hmm .	evaluation of project
+A	1793.98	And uh I think we are we happy with the means we used ?	evaluation of project
+A	1798.99	We used whiteboard , we didn't use digital p well digital pens I guess are these things .	evaluation of project
+D	1803.22	Yeah maybe we could've used the whiteboard a little bit more , yeah , we didn't use that enough .	evaluation of project
+B	1804.93	Whiteboard more , yes , yes .	evaluation of project
+C	1806.36	Yeah , probably .	evaluation of project
+A	1807.45	Yes , we could .	evaluation of project
+A	1808.64	Uh , it's maybe not in the best position in the room um you know like sometimes it's positioned so that it's much better visible for everybody and I think from that point of view we sort of ignored it a little bit .	evaluation of project
+D	1818.26	Mm-hmm .	evaluation of project
+D	1822.05	And we used the slide because it was better positioned .	evaluation of project
+B	1822.31	Yes .	evaluation of project
+A	1824.13	Yes , I think so , I think absolutely , and fortunately we all had slides presentation which made it a little easier .	evaluation of project
+C	1824.41	Yeah .	evaluation of project
+B	1824.98	No .	evaluation of project
+D	1825.37	Mm I think that's true mm-hmm .	evaluation of project
+C	1830.44	Hmm .	evaluation of project
+B	1830.94	Yes .	evaluation of project
+D	1830.94	Mm-hmm .	evaluation of project
+A	1831.35	Um did we new did we find new ideas ?	evaluation of project
+A	1834.41	I think we did .	evaluation of project
+C	1835.4	Yeah , many .	evaluation of project
+D	1835.45	I think we were we were very good , yeah , mm .	evaluation of project
+A	1837.27	I think we we did , uh in more than one respect and uh so I think we did very well here .	evaluation of project
+D	1840.43	Mm-hmm .	evaluation of project
+D	1846.51	Okay .	evaluation of project
+A	1847.19	Are the costs within budget ?	evaluation of project
+A	1848.48	Yes , yes .	evaluation of project
+A	1849.47	Uh is the project evaluated ?	evaluation of project
+D	1851.9	Yes , yes .	evaluation of project
+A	1852.32	Yes .	evaluation of project
+C	1853.09	Yeah .	evaluation of project
+A	1853.67	Um then celebration .	closing
+D	1853.74	Celebration .	closing
+B	1854.98	Cel celebration yes , yes .	closing
+C	1855.9	Ah .	closing
+D	1858.96	Today we have apple juice and after we sell m million of 'em we have champagne .	closing
+A	1864.64	So I I thank you all very much .	closing
+A	1867.76	Um , I think this was very good and um I think we did come up with a new product that's uh feasible .	closing
+D	1869.94	Mm-hmm .	closing
+C	1870.05	Yeah .	closing
+D	1876.62	Mm-hmm .	closing
+A	1876.69	Feasible from the production point of view and feasible from a marketing point of view .	closing
+D	1880.74	Mm-hmm .	closing
+A	1882.8	So , thank you .	closing
+D	1883.01	Okay .	closing
+C	1883.61	Yeah .	closing
+B	1884.29	Thank you .	closing
+C	1884.33	Thank you very much .	closing
+D	1884.76	Okay .	closing
+D	1886.46	Watch I I have my cord behind you here .	closing
+B	1888.25	Okay .	closing
+D	1889.3	Okay .	closing
+C	1896.56	Do we do we have some time left ?	closing
+C	1901.11	Uh you have Oh , alright .	closing
+B	1902.92	They say it's forty minutes .	closing
+D	1905.01	But we we were told we could end the final meeting at any time , whenever we felt we were finished .	closing
+B	1908.84	Okay .	closing
+D	1918.56	It'll take me the rest of the time to get my microphone out from my necklace .	closing
+D	1925.17	Oh , there we go .	closing

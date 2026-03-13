@@ -1,0 +1,389 @@
+A	16.94	Good morning .	opening
+A	51.89	Sorry ?	opening
+A	53.33	Yeah , busy job .	opening
+A	62.98	Good morning .	opening
+A	71.47	So Oh , good morning everyone .	opening
+C	76.01	Good morning .	opening
+B	76.39	Good morning .	opening
+A	77.33	I'd uh like to welcome you to our first meeting .	opening
+A	82.9	I've prepared a little presentation .	opening
+A	86.77	My name is and uh I hope you will introduce yourself uh in a few minutes , as will I .	opening
+A	93.27	Um I'm the Project Manager of this project , and uh , well I will tell you on what actually is the project .	opening
+A	101.98	This is uh the agenda for our first meeting .	opening
+A	106.19	Um this is the opening , then we will get I will hope we will get acquainted to each other .	opening
+A	112.06	We'll do a little tool training with these two things .	opening
+A	115.33	We'll take a look at the project plan .	opening
+A	117.23	Uh there will be time for discussion .	opening
+A	118.67	Actually we have to discuss because we have to create a product .	opening
+A	122.62	And then we will close this session .	opening
+A	125.73	Um but first of all we I'd like to uh introduce you to this room .	introduction to tools and equipment
+A	130.8	Um as you probably have noticed there are little black uh fields on the table .	introduction to tools and equipment
+A	136.03	Um you have to put your laptop exactly in that field so the little cameras can see your face .	introduction to tools and equipment
+A	142.19	Um there are cameras everywhere around the room especially here for your face , of course , and this isn't a pie , it's a a set of microphones and there are microphones here also .	introduction to tools and equipment
+A	152.6	But please uh don't be afraid of them .	introduction to tools and equipment
+A	155.4	They won't hurt you .	introduction to tools and equipment
+B	156.81	Well Well uh I'm uh and my uh function is User Interface Design , I think .	project specs and roles of participants introduction to tools and equipment
+A	156.91	Um well uh I said I'm the Project Manager and uh I'm hoping uh for a good project and uh I'd like to hear uh who you are and what your functions are uh on this project .	project specs and roles of participants
+A	169.91	Let's start with the ladies .	project specs and roles of participants
+B	178.87	So uh that's me .	project specs and roles of participants
+C	181.95	Okay , uh I'm uh I'm the Industrial Designer and I uh hope to uh look forward to uh a very uh pleasing uh end of this uh project .	project specs and roles of participants
+A	193.39	Okay , so I .	project specs and roles of participants
+B	194.05	Me too .	project specs and roles of participants
+D	194.44	My name's .	project specs and roles of participants
+D	194.82	I'm uh Marketing Expert .	project specs and roles of participants
+D	198.49	My job is in the company to promote company or promote products to the customers .	project specs and roles of participants
+D	204.04	So I also h hope we have a pleasant uh working with uh with each other .	project specs and roles of participants
+A	209.01	Okay , well we have some expertise from uh different pieces of the of the company .	project specs and roles of participants
+A	214.63	That's good .	project specs and roles of participants
+A	215.65	Um well I said uh we're working on a project and the aim for the project is to to create a to design a new remote control which uh has to be original , trendy and of course , user friendly .	project specs and roles of participants
+A	228.95	And uh I hope we have the expertise to create such a project such a product .	project specs and roles of participants
+A	235.11	Um the way we hope to achieve that is uh the following methods .	project specs and roles of participants
+A	239.05	It consists of three phases , namely the functional design , conceptual design and detailed design .	project specs and roles of participants
+A	244.93	As you can see , all of these phases consists of two parts , namely individual work part and a meeting where we will discuss uh our work so far .	project specs and roles of participants
+A	255.18	Okay .	introduction to tools and equipment
+A	256.11	But first I will uh tell you something about the tools we have here .	introduction to tools and equipment
+A	259.77	I already talked about the cameras and microphones , but they are not of uh much use to us .	introduction to tools and equipment
+A	265.29	Uh we will have to take advantage of these two things .	introduction to tools and equipment
+A	268.51	They are smart boards .	introduction to tools and equipment
+A	269.86	As you can see , you can give a presentation on them .	introduction to tools and equipment
+A	272.81	And uh this one here is a white board .	introduction to tools and equipment
+A	276.74	I will uh instruct you about that soon .	introduction to tools and equipment
+A	279.82	Um as you also noticed uh this presentation document is in our uh project folder and every document you put in this folder uh is uh it is possible to show that here in our meeting room .	introduction to tools and equipment
+A	292.69	Um and yeah there are available on both smart boards but I think we will uh mainly use this one for the documents in the shared folder .	introduction to tools and equipment
+A	302.01	As you can see , this is the same tool bar uh as is located here .	introduction to tools and equipment
+A	306.67	Um the most functions uh we will use will be to to add a new page , um uh to go back and forward between pages , and of course uh to save it every now and then .	introduction to tools and equipment
+A	319.41	Um and this is the pen with which you can draw on the board , for instance like this if everything's okay , but I first have to put it on the pen , you see I'm new to it too .	introduction to tools and equipment
+A	330.51	Um and then you can write things like test or whatever you want .	introduction to tools and equipment
+B	331.92	Oh .	introduction to tools and equipment
+A	336.14	As you can see you have to move it a little bit slow , it's not such a fast board , it's a smart board but also a slow board .	introduction to tools and equipment
+A	342.64	Uh but you can write things and of course you can also , when you click here , uh erase things , so we have uh est left .	introduction to tools and equipment
+A	351.43	And um you can also delete an entire page , but we ask you not to do that .	introduction to tools and equipment
+A	355.84	Just simply create a new one and uh start all over because we want to save all the results .	introduction to tools and equipment
+A	364.37	Um does everyone understand this nice application ?	introduction to tools and equipment
+B	367.89	So we can't erase anything .	introduction to tools and equipment
+D	367.94	Mm-hmm .	introduction to tools and equipment
+C	368.12	Yeah .	introduction to tools and equipment
+A	369.58	Well you can erase it with the eraser , but uh you shouldn't delete an entire page , but just create a new blank one .	introduction to tools and equipment
+B	373.52	Right .	introduction to tools and equipment
+D	374.09	S Good .	drawing exercise introduction to tools and equipment
+A	375.42	I will delete this one now because we don't use it yet .	introduction to tools and equipment
+B	377.44	Alright .	introduction to tools and equipment
+A	378.82	But you can of course erase when you make a mistake , but don't uh delete entire pages .	introduction to tools and equipment
+A	384.32	And you can also um let's see I think it's here uh change the uh colour of your pen , for instance take a blue one and uh change the line width like to five .	introduction to tools and equipment
+A	398.83	Um that's what you will need for our first exercise , because I'm uh going to ask you to draw your favourite animal .	introduction to tools and equipment
+A	407.32	It's also to gets to know each other because um I'm asking three things , uh for that uh drawing , to do it on a blank sheet , with different colours and I just showed you how to pick a colour , and also with different pen widths which I also showed you .	drawing exercise
+C	409.3	Okay .	drawing exercise
+A	421.25	Um and a favourite characteristic can be just uh one word .	drawing exercise
+A	426.54	Well I'm not very good at drawing , but I will uh go first and um try to draw Or maybe you should guess what I'm drawing , eh .	drawing exercise
+C	443.27	Hmm .	drawing exercise
+D	445.29	No .	drawing exercise
+B	445.41	It's a sheep .	drawing exercise
+D	448.55	Dinos Dinosaur .	drawing exercise
+C	449.32	Seal , a seal .	drawing exercise
+D	452.82	Beaver .	drawing exercise
+C	453.59	A be Mm .	drawing exercise
+B	453.66	A beaver .	drawing exercise
+A	456.77	Well it uh could be everything .	drawing exercise
+B	457.13	It's weird .	drawing exercise
+C	460.55	With a tail and a mouth .	drawing exercise
+A	461.43	Maybe when I put on this thing it could be a turtle , or a snail , and But a turtle has .	drawing exercise
+B	462.88	It has wings ?	drawing exercise
+D	463.57	Turtle .	drawing exercise
+C	471.27	Snail .	drawing exercise
+B	474.43	Well the snail doesn't have legs .	drawing exercise
+C	475.96	Okay .	drawing exercise
+A	478.97	And those are slow .	drawing exercise
+A	482.18	And I hope our project group will not be slow , but we will uh work to a good result and do it uh as fast as we can .	drawing exercise
+A	490.33	Okay , time for another animal .	drawing exercise
+A	493.36	Would you like to go next ?	drawing exercise
+C	495.19	Sure .	drawing exercise
+D	495.4	No problem .	drawing exercise
+D	497.48	No problem .	drawing exercise
+B	498.29	Oh right .	drawing exercise
+D	500.25	Mm .	drawing exercise
+D	500.99	It was four months ?	drawing exercise
+D	509.39	Nice , okay .	drawing exercise
+B	516.57	Well .	drawing exercise
+C	531.29	The hell .	drawing exercise
+D	537.99	To make it a little bit easier .	drawing exercise
+B	546.4	It's a giraffe .	drawing exercise
+C	547.94	Make that cute .	drawing exercise
+B	550.71	Or a dinosaur .	drawing exercise
+D	552.06	No , it's a giraffe .	drawing exercise
+D	557.09	'Kay .	drawing exercise
+D	558.9	I think it's easy to r uh to recognise as a giraffe .	drawing exercise
+B	566.28	Yes .	drawing exercise
+A	566.81	Mm-hmm .	drawing exercise
+B	566.98	Giraffe .	drawing exercise
+D	568.45	Yeah , the favourite charis characteristic is that the long neck , it can reach everything .	drawing exercise
+D	575.21	And I hope I can also reach a lot with this project .	drawing exercise
+D	579.18	So that's my favourite animal .	drawing exercise
+A	583.3	Okay .	drawing exercise
+D	583.6	Anything else you need to know ?	drawing exercise
+A	584.25	Could you write the words , uh underneath it ?	drawing exercise
+D	586.95	Oh , uh Tall .	drawing exercise
+A	587.26	Or more words .	drawing exercise
+C	592.94	Tall .	drawing exercise
+D	597.86	So , 'kay .	drawing exercise
+B	599.23	Should I uh Alright .	drawing exercise
+B	605.35	So I can draw , but uh Uh .	drawing exercise
+B	612.55	Well .	drawing exercise
+B	617.18	Oh .	drawing exercise
+C	621.72	B Bunny rabbit .	drawing exercise
+D	621.83	It's a mouse .	drawing exercise
+D	625.09	A bunny rabbit .	drawing exercise
+B	643.7	Oh wrong one .	drawing exercise
+B	651.71	Uh .	drawing exercise
+B	657.64	Well uh you can guess what it is , I hope .	drawing exercise
+D	660.56	Uh-huh .	drawing exercise
+D	661.33	No problem .	drawing exercise
+B	661.81	It's a rabbit .	drawing exercise
+A	662.19	Little rabbits .	drawing exercise
+B	663.36	And uh well uh it's uh quick , I guess .	drawing exercise
+B	679.19	That's uh my uh favourite animal .	drawing exercise
+A	681.37	Okay , thank you .	drawing exercise
+C	681.41	Okay .	drawing exercise
+A	686.08	And our final drawing .	drawing exercise
+D	688.18	Bob Ross .	drawing exercise
+D	711.25	Dolphin .	drawing exercise
+B	711.44	A dolphin .	drawing exercise
+C	714.87	Okay , um .	drawing exercise
+C	724.34	Uh I uh draw I I've drawn a dolphin because of its intelligence .	drawing exercise
+C	729.74	One of the most intelligent uh animals in our world .	drawing exercise
+B	730.2	Right .	drawing exercise
+A	732.71	Mm-hmm .	drawing exercise
+B	740.36	Well .	drawing exercise
+C	742.1	Yeah intelligent .	drawing exercise
+B	744.76	With an E_ .	drawing exercise
+C	745.41	I've I've uh Eraser .	drawing exercise
+B	748.4	You can try out the eraser now .	drawing exercise
+C	753.01	Pen .	drawing exercise
+C	757.33	Well not perfect , but okay .	drawing exercise
+A	759.96	Okay , well thank you very much .	drawing exercise
+A	761.52	I can see we have some uh drawing talent uh in this group , huh ?	drawing exercise
+B	764.9	Not really .	drawing exercise
+A	766.79	Well , nice animals , nice words .	drawing exercise
+A	770.16	Sounds good .	drawing exercise
+A	771.08	Um back to business , back to the money part .	project budget
+A	775.72	Um from the finance department I have learned that we are aiming for a selling price of twenty five Euros .	project budget
+A	781.37	And we're hoping for a aim of fifty million Euros and uh we are hoping to achieve that uh by aiming for an international market .	project budget
+A	789.62	And the production cost will be twelve Euro fifty max .	project budget
+A	795.03	Okay , well it's time uh for some discussion .	discussion
+A	797.75	I've wrote down some examples here of what we can can speak about .	discussion
+A	800.72	Uh what's your experience with remote controls , um what kind of ideas do you have to design a new remote control , maybe for which market segments should we aim , or should we aim for all segments .	discussion
+A	811.99	Uh well actually I'd like to hand the word uh back to you .	discussion
+A	815.57	What's your experience with remote control ?	look and usability
+C	820.0	A lot of buttons .	look and usability
+B	820.1	I always lose them .	look and usability
+D	821.32	Yeah .	look and usability
+C	821.37	And you always lose them .	look and usability
+B	822.41	Yes .	look and usability
+C	823.33	A lot of buttons which you don't use or who you don't use Complex .	look and usability
+B	824.81	Yeah .	look and usability
+A	826.16	Mm-hmm .	look and usability
+D	826.63	Complex .	look and usability
+B	828.02	Yeah .	look and usability
+C	830.29	Not user friendly .	look and usability
+D	831.54	No .	look and usability
+B	832.24	search for the buttons , which one is which and uh Well .	look and usability
+D	833.91	No .	look and usability
+D	837.15	Boring .	look and usability
+A	838.5	Boring , it's not fun to use a remote .	look and usability
+D	840.32	No .	look and usability
+C	840.96	Mm .	look and usability
+D	841.55	Black , all black .	look and usability
+A	843.36	Mm-hmm .	look and usability
+D	843.48	So , yeah .	look and usability
+C	843.94	Black colours .	look and usability
+A	845.67	Well maybe we should try to make it fun .	look and usability
+D	847.44	Mm-hmm .	look and usability
+C	848.01	They use batteries and batteries uh and poor signal .	look and usability
+A	852.81	Mm-hmm .	look and usability
+D	853.27	Yeah .	look and usability
+C	853.69	Uh .	look and usability
+D	854.47	The the angle you have to use .	look and usability
+B	854.77	Perhaps that you have a lot of road remotes r road con remote controls .	look and usability
+D	857.4	You had different remote controls for different devices .	look and usability
+C	858.56	Yeah , different remote controls , yeah .	look and usability
+B	859.97	Yes , perhaps you can integrate them or something .	look and usability
+D	860.79	Yes .	look and usability
+C	863.41	Uh for the use of different uh devices .	look and usability
+B	864.71	Yes .	look and usability
+D	866.09	Yeah .	look and usability
+B	866.42	Your stereo and your T_V_ and uh .	look and usability
+A	866.52	Mm-hmm .	look and usability
+B	870.17	Perhaps that's an idea .	look and usability
+D	870.92	Yeah but then again you you still have a lot of buttons , so Flap yeah .	look and usability
+B	875.04	Yeah , that's right .	look and usability
+C	876.31	Yeah but you could uh I thin uh there's a possibility to g uh to uh to put those buttons uh behind some uh kind of uh protection so that if y y you only get to see them when you need 'em .	look and usability
+B	876.52	And which you don't use .	look and usability
+B	887.9	Right .	look and usability
+D	890.34	Yeah , okay , that's possible , but it'll get very big the the remote control .	look and usability
+C	891.83	That's possible , so that you only get the No n n no , just Uh for example you got th uh the same size uh remote control you use everyday , but um the usual buttons such as uh um zapping uh as you call it in Dutch .	look and usability
+B	894.0	Yeah .	look and usability
+B	894.82	You should just give it to .	look and usability
+D	901.35	Mm-hmm .	look and usability
+C	908.23	Uh and the volume control uh are only the only possible buttons uh to use directly .	look and usability
+B	909.09	Changing channel .	look and usability
+A	914.32	Mm-hmm .	look and usability
+D	914.32	Mm-hmm .	look and usability
+C	914.43	Or uh the numbers , of course .	look and usability
+D	915.06	numbers .	look and usability
+C	917.77	But uh not uh the buttons used to search on the the channels on your television .	look and usability
+D	918.13	On and off .	look and usability
+C	923.15	You only use those uh the first time , or .	look and usability
+D	925.78	Yeah , play , pause , stop .	look and usability
+C	926.53	So .	look and usability
+C	927.35	Uh .	look and usability
+A	927.64	Mm-hmm .	look and usability
+A	928.18	So maybe a a minimalist design , the least uh possible amount uh of buttons .	look and usability
+C	930.0	Yeah , I think so , yeah .	look and usability
+B	930.89	Yes .	look and usability
+B	932.85	But you should make sure that you have every button they need on it .	look and usability
+D	935.84	Mm-hmm , of course .	look and usability
+B	935.92	Because uh things for uh teletext , I dunno uh , w what's the name ?	look and usability
+C	938.89	Yeah , uh teletext .	look and usability
+A	942.36	Mm-hmm .	look and usability
+C	942.98	think so .	look and usability
+C	944.23	Okay .	look and usability
+A	946.01	So you don't want to bother people with uh loads of buttons , but on the other hand they need many buttons so they don't have to get out of their seat .	look and usability
+D	949.11	No .	look and usability
+B	952.87	Yeah .	look and usability
+D	953.05	Yeah .	look and usability
+B	953.73	But But if if it's if it's international you should uh look in think in Britain they have uh different things they can do with the T_V_ , or so uh that you can choose what you want to see .	look and usability project budget
+C	953.88	Right .	look and usability
+D	954.5	Because I think a market will be all kind of people .	look and usability
+D	957.43	Elderly p el elderly , young people , so .	look and usability
+B	969.93	I dunno if you should uh take that in consideration , or that you just should aim for the normal T_V_s that uh And the B_B_C_ .	project budget
+C	974.58	Uh .	project budget
+D	977.44	Yeah I think that's the better one , because I think if you you're going to target a lot of people and the whole world and only Britain then I think the cost will uh rise higher than the twelve fifty , I think .	project budget
+C	977.54	Yeah I I understand .	project budget
+B	987.71	Yes .	project budget
+C	987.89	No .	project budget
+B	991.27	Yeah , I don't know if the they have that anywhere else , though .	project budget
+D	992.02	I think the aim is better to use uh the whole world and Britain , yeah .	project budget
+C	995.5	Yeah .	project budget
+B	996.63	Yeah , we can leave that .	project budget
+C	997.25	When I think of it uh I think the main idea uh of this remote remote control is uh to make it user friendly .	look and usability
+D	997.62	Not that much .	look and usability
+C	1005.59	So uh I think uh when p uh when uh the customers will buy this remote control , they already have uh the remote control which uh companies uh uh with uh the the standards uh remote control with which comes uh with the television .	look and usability
+D	1015.4	Mm .	look and usability
+B	1015.56	Yeah .	look and usability
+D	1016.07	Standard deliver .	look and usability
+A	1020.56	Mm-hmm .	look and usability
+D	1020.64	Mm .	look and usability
+C	1020.84	So uh it only has to have uh the most used buttons .	look and usability
+C	1025.54	You don't have to integrate the buttons to search the channels on your television .	look and usability
+C	1029.33	In those in that Yeah but I but it is impossible to uh to accommodate uh accommodate uh all the buttons on the s on the difference different televisions sets on one remote control .	look and usability
+D	1029.52	No but Yeah .	look and usability
+B	1029.65	Well but but then you have to to find your other remote control if you want to search .	look and usability
+D	1032.84	Yeah , th it it's I think that's not Yeah , okay .	look and usability
+B	1034.52	That's not Yeah , that's right .	look and usability
+C	1046.17	It's impossible .	look and usability
+C	1047.68	Because uh for example Sony television uh has the opportunity to s to make uh uh to make it possible for to see on one side of the screen uh teletext , and on the other side uh just n uh regular television .	look and usability
+D	1056.6	No .	look and usability
+B	1057.12	Yeah that's uh .	look and usability
+C	1059.03	Uh Yeah , but uh they don't use the same signal , uh on remote control .	look and usability
+D	1059.28	I think n m n most televisions nowadays do this .	look and usability
+B	1063.07	Well not everywhere .	look and usability
+D	1063.57	So I think numerals .	look and usability
+C	1066.21	Because you can't use a Panasonic uh remote control on a on a Philips television .	look and usability
+D	1069.89	Yeah , but then you have to choose the this always with r universal remotes you have to choose the code .	look and usability
+B	1073.91	Yeah , you can choose the code .	look and usability
+D	1075.11	You can use which which type of television you have .	look and usability
+C	1075.22	Okay .	look and usability
+C	1076.4	Okay .	look and usability
+D	1077.64	That's no problem .	look and usability
+C	1078.69	Okay .	look and usability
+D	1078.83	But I think like the two pages on the same screen , like teletext and normal television , that's that's nowadays standard , I think .	look and usability
+C	1087.66	Okay , but uh I think that most people uh th uh will buy the remote control because because uh the first they lost the one they lost first one or the first one is broken , so uh uh perhaps they have a got a an older television , so that option is not uh optional for those uh people .	look and usability
+D	1095.37	Simplicity .	look and usability
+D	1098.38	Yeah .	look and usability
+D	1099.68	Yeah , yeah .	look and usability
+D	1104.96	Mm-hmm .	look and usability
+B	1107.35	Yeah .	look and usability
+D	1107.61	Yeah g available .	look and usability
+B	1109.9	But the people have a new television , and c if you look into the future , then they want will want the button , if their thing is broke .	look and usability
+D	1110.03	True .	look and usability
+C	1114.04	Yeah , yeah .	look and usability
+D	1114.27	Yeah .	look and usability
+C	1116.8	So we should take that in consideration .	look and usability
+B	1118.42	Yeah .	look and usability
+D	1118.56	Mm-hmm .	look and usability
+A	1119.39	Mm-hmm .	look and usability
+D	1121.15	Mm-hmm .	look and usability
+A	1121.6	Okay , well any more ideas ?	discussion
+C	1125.57	Oh mm , no .	discussion
+D	1128.03	Of course .	discussion
+A	1128.21	No ?	discussion
+B	1128.34	Guess not .	discussion
+C	1128.71	Things'll come up .	discussion
+D	1129.75	Yeah .	discussion
+A	1130.25	Okay , yeah well we have some time .	discussion
+A	1133.8	Let's see what more I have to tell you .	closing
+A	1135.82	I don't think there is much left .	closing
+A	1137.71	Nope .	closing
+A	1138.17	We're starting to close .	closing
+A	1139.51	Um our next meeting uh will start well we're a little bit early , but our next meeting will start in in thirty minutes .	closing
+A	1145.7	In the meantime uh there's time for some uh individual actions .	closing
+A	1150.69	Um , as you can see , the different roles have uh different tasks .	closing
+A	1156.71	And there's a ping .	closing
+A	1159.0	Is it my laptop ?	closing
+D	1159.75	Yeah .	closing
+A	1161.51	Yep .	closing
+C	1162.32	Stop the meeting now .	closing
+A	1163.25	Ah well that's good , five minutes and uh the meeting's over , uh right on schedule .	closing
+B	1163.38	Yeah meeting will close in five minutes .	closing
+C	1167.17	Okay .	closing
+A	1168.89	Um the Marketing Expert will uh will take a look at the user requirement specification .	closing
+A	1173.46	The User Interface Designer will work out the technical functions design .	closing
+A	1177.77	And this was the Interface Designer ?	closing
+A	1179.52	Or the Interaction Designer .	closing
+B	1180.11	Hmm hmm .	closing
+C	1180.58	Mm .	closing
+A	1181.35	Or what was it , I_D_ ?	closing
+B	1181.58	No interface .	closing
+C	1181.59	No ?	closing
+D	1181.65	Interface .	closing
+A	1182.51	Interface Designer , okay , first guess was right .	closing
+A	1184.78	Uh will take a look at the the working design .	closing
+C	1187.12	No , the Industrial Designer will take a look at the working design , and the in uh usability interaction Yeah , okay .	closing
+B	1187.64	No the Yeah .	closing
+A	1191.84	Industrial Designer , okay , sorry .	closing
+C	1195.2	Okay .	closing
+A	1196.46	Let's just use the acronyms .	closing
+B	1197.86	So So I should look at uh what you should be able to do with the remote , or uh , or how I don't really Right .	closing
+A	1197.89	Um and of course specific instructions uh will be sent to you uh through your personal coach .	closing
+A	1208.62	Uh well those instructions will be uh in the email you will receive uh shortly , I hope .	closing
+B	1211.62	Alright .	closing
+B	1213.84	Me too .	closing
+A	1214.58	And of course you have your own uh expertise .	closing
+A	1217.25	Well uh that was what I had to say .	closing
+D	1217.67	Uh-huh .	closing
+A	1219.58	Uh are there any more questions ?	closing
+C	1219.78	Okay .	closing
+D	1221.95	No .	closing
+C	1222.84	No .	closing
+A	1223.65	No ?	closing
+A	1224.24	Okay well I think then we have to head uh back to our offices and uh start working .	closing
+D	1229.48	I have one question .	closing
+C	1229.72	Okay .	closing
+A	1230.26	Okay , one question ?	closing
+C	1231.29	Oh .	closing
+D	1231.42	Where does it says we have to make a remote , because I presumed She didn't know who .	closing
+D	1243.04	Okay , no , no problem .	closing
+A	1245.6	Okay we're still going .	closing
+C	1246.33	No problem .	closing
+D	1247.3	No problem .	closing
+A	1247.44	Okay , well I expect everything will be much clearer with the instructions we will receive uh shortly .	closing
+C	1247.95	Okay .	closing
+D	1249.98	Yeah .	closing
+D	1252.27	Mm-hmm .	closing
+B	1252.33	Alright .	closing
+A	1253.43	Okay well uh see you all in about thirty minutes , then .	closing
+C	1254.05	Alrighty .	closing
+B	1255.7	Yeah .	closing
+C	1255.97	Okay .	closing
+A	1256.16	Thank you very much .	closing
+B	1269.26	Yeah .	closing
+B	1273.73	Okay .	closing

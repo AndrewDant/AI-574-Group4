@@ -1,0 +1,281 @@
+A	5.59	Okay .	chitchat
+A	11.68	Je croix que c'est dommage de le it will be sad to destroy this prototype .	chitchat
+A	22.02	It really looks like a banana .	chitchat
+C	25.08	It is a banana .	chitchat
+A	26.33	It is a banana .	chitchat
+C	26.82	It is the essence of bananas .	chitchat
+C	33.28	I would be confused with this thing .	chitchat
+A	46.23	Mm .	chitchat
+C	46.69	S How is everyone ?	opening chitchat
+D	47.67	Mm-hmm .	chitchat
+A	47.81	Okay .	opening
+A	52.16	Hi .	opening
+B	53.14	Hi .	opening
+A	54.35	So we are here for the detailed design meeting .	opening
+C	59.77	Mm-hmm .	opening
+A	61.09	So we will uh I will first present what we are going to do in this meeting .	opening
+A	68.88	Then uh I've I will also take notes during this meeting and I will send you uh a summary then as usual .	opening
+A	78.9	We will then look at the evaluation criteria of the prototype presented by uh our two colleagues that make good work .	opening
+A	92.69	And uh then we will see the financial aspects and the cost of the product .	opening
+A	98.76	Then we will uh evaluate the product .	opening
+A	102.74	And uh end with the conclusion of this project and see whether it fits with it fulf if it fulfil the requirement or not .	opening
+B	115.99	Mm-hmm .	opening
+A	116.44	So d let's start with the cost aspect so so I look at the aspect discussed last time , that is to say uh to have a standard battery , to have a yellow banana shaped uh case with uh a rubber material around it to be uh to feel spongy , and uh also at the different aspect like having a wheel etcetera .	costing
+C	138.4	Like a banana .	costing
+B	146.93	Mm-hmm .	costing
+A	148.69	And the cost ended to be ten point seven Euros .	costing
+A	152.74	So which is uh good , because we had a price gap of twelve point five Euros .	costing
+B	159.1	Mm-hmm .	costing
+A	159.89	So for the financial aspect it's okay , we can uh we can continue with this product uh as if , and we are now going to see the project evaluation with uh our marketing expert .	evaluation of prototype(s) costing
+D	175.75	Yeah .	evaluation of prototype(s)
+D	176.71	Okay .	evaluation of prototype(s)
+D	177.85	So uh you can have my project in Uh yeah just a Four .	evaluation of prototype(s)
+A	180.92	Yeah .	evaluation of prototype(s)
+A	182.58	You have a presentation ?	evaluation of prototype(s)
+A	187.81	Participant four , yes .	evaluation of prototype(s)
+D	191.22	Evaluation .	evaluation of prototype(s)
+A	192.38	Okay .	evaluation of prototype(s)
+A	196.4	Okay .	evaluation of prototype(s)
+D	196.98	Okay .	evaluation of prototype(s)
+D	197.3	So you can go .	evaluation of prototype(s)
+D	200.0	We can go through .	evaluation of prototype(s)
+A	201.2	Okay .	evaluation of prototype(s)
+D	202.82	So I made an evaluation and the the evaluation criteria is made according to the users' requirements and the market trends we talked about uh during the previous uh meetings .	evaluation of prototype(s)
+D	216.87	So you can go through and okay so uh we have uh six points .	evaluation of prototype(s)
+A	220.04	Okay .	evaluation of prototype(s)
+D	224.89	We we talked about before .	evaluation of prototype(s)
+A	228.14	Okay .	evaluation of prototype(s)
+D	228.15	So we we want to have a product fancy look and feel , technologically innovative , easy to use , fashion , easy to find in a room , and robust , uh and uh uh I have a scale of uh seven points .	evaluation of prototype(s)
+A	237.86	Yeah .	evaluation of prototype(s)
+B	237.94	Mm-hmm .	evaluation of prototype(s)
+A	243.99	Yeah .	evaluation of prototype(s)
+D	244.15	Okay .	evaluation of prototype(s)
+D	244.88	So I go through all the uh all the points here , and uh according to what you think about the this project you can uh mm make a one point , two point or seven point .	evaluation of prototype(s)
+A	248.4	Yeah .	evaluation of prototype(s)
+D	258.06	Okay ?	evaluation of prototype(s)
+A	258.63	Okay .	evaluation of prototype(s)
+D	258.99	And after we ha we have an an average , and uh we see .	evaluation of prototype(s)
+B	262.54	Mm-hmm .	evaluation of prototype(s)
+A	262.55	Okay .	evaluation of prototype(s)
+D	262.87	The okay ?	evaluation of prototype(s)
+D	265.05	Uh so uh fancy look and feel , what do you think ?	evaluation of prototype(s)
+A	267.86	Okay .	evaluation of prototype(s)
+A	268.41	Maybe you can presen okay .	evaluation of prototype(s)
+D	268.83	F between o one and seven .	evaluation of prototype(s)
+A	272.32	Maybe hold it .	evaluation of prototype(s)
+A	274.66	So I think it's uh very uh very nice .	evaluation of prototype(s)
+C	280.26	I give it a I give it a five .	evaluation of prototype(s)
+A	280.39	What do you think ?	evaluation of prototype(s)
+A	283.32	Yeah .	evaluation of prototype(s)
+A	284.88	So it's between one and seven ?	evaluation of prototype(s)
+D	286.32	Yeah .	evaluation of prototype(s)
+A	286.79	Seven is the highest uh ?	evaluation of prototype(s)
+D	288.13	Seven is the Mm-hmm .	evaluation of prototype(s)
+A	288.61	I will give a six .	evaluation of prototype(s)
+B	291.12	I will give a a five .	evaluation of prototype(s)
+C	296.34	And you ?	evaluation of prototype(s)
+D	296.71	sorry .	evaluation of prototype(s)
+C	298.28	Do you vote uh Christine ?	evaluation of prototype(s)
+D	299.69	eh ?	evaluation of prototype(s)
+C	300.07	Do you also vote ?	evaluation of prototype(s)
+D	301.83	No , I just want to see something Mm-hmm .	evaluation of prototype(s)
+A	310.44	Maybe we all have to agree on a common Yeah .	evaluation of prototype(s)
+C	313.68	Well , we can very easily .	evaluation of prototype(s)
+D	320.61	Uh I think uh and need to as well .	evaluation of prototype(s)
+A	327.22	No problem .	evaluation of prototype(s)
+D	328.31	Need to uh I don't know if you we ha we have to put uh one uh f If it's better or Uh-uh .	evaluation of prototype(s)
+A	328.55	So this is your One is most .	evaluation of prototype(s)
+C	344.4	I So it will have five point five average .	evaluation of prototype(s)
+D	349.56	Um .	evaluation of prototype(s)
+A	349.64	Well , we can choose what we want .	evaluation of prototype(s)
+D	351.41	Yeah .	evaluation of prototype(s)
+A	352.24	Okay , let's say that seven is the best .	evaluation of prototype(s)
+D	352.32	Or maybe we can say s seven is the best mm .	evaluation of prototype(s)
+A	356.4	Okay .	evaluation of prototype(s)
+A	357.69	So so do note the grade we have five , six for me , five .	evaluation of prototype(s)
+B	365.48	Five .	evaluation of prototype(s)
+A	367.13	And what what's your choice ?	evaluation of prototype(s)
+D	367.36	Oh sorry .	evaluation of prototype(s)
+D	369.07	Six Uh s you can how much what ?	evaluation of prototype(s)
+A	369.24	How much would you give on the fancy aspect , on the fashionable aspect ?	evaluation of prototype(s)
+A	375.32	How much would you you don't answer to this uh questionnaire ?	evaluation of prototype(s)
+D	377.86	Oh yes I mm I dunno mm , I think six , it's a good uh Yeah .	evaluation of prototype(s)
+A	383.85	Five point five average .	evaluation of prototype(s)
+D	386.39	Wa can .	evaluation of prototype(s)
+A	386.45	Okay .	evaluation of prototype(s)
+C	386.45	Mm .	evaluation of prototype(s)
+D	391.3	Okay .	evaluation of prototype(s)
+A	392.77	Well , does it Okay , techne technological aspect .	evaluation of prototype(s)
+D	393.62	I sorry .	evaluation of prototype(s)
+D	399.45	Okay .	evaluation of prototype(s)
+D	400.06	So after , the technological aspect ?	evaluation of prototype(s)
+D	407.0	So we we said uh we have uh a new technological uh thing with a wheel .	evaluation of prototype(s)
+A	414.34	Yeah , we have the wheel .	evaluation of prototype(s)
+D	415.82	Uh .	evaluation of prototype(s)
+A	416.17	We also have the rubber material , which make it uh like new also .	evaluation of prototype(s)
+A	426.03	I think I would give a five .	evaluation of prototype(s)
+C	428.3	It's four .	evaluation of prototype(s)
+A	429.59	Four ?	evaluation of prototype(s)
+B	429.69	A four also , because , except for the wheel , we don't have so much innovation .	evaluation of prototype(s)
+C	431.21	Yeah .	evaluation of prototype(s)
+B	434.75	The rubber is Uh a four .	evaluation of prototype(s)
+A	436.07	Okay .	evaluation of prototype(s)
+C	436.39	D are we including the voice are you glu are we including the voice in the end or not ?	evaluation of prototype(s)
+B	437.06	I I Yeah .	evaluation of prototype(s)
+A	440.68	No .	evaluation of prototype(s)
+C	440.82	Huh ?	evaluation of prototype(s)
+C	441.29	No .	evaluation of prototype(s)
+C	442.25	Okay .	evaluation of prototype(s)
+A	443.86	So what's your uh grade ?	evaluation of prototype(s)
+D	444.46	No .	evaluation of prototype(s)
+D	446.58	Four .	evaluation of prototype(s)
+A	447.32	Four ?	evaluation of prototype(s)
+A	448.26	So we have four , four f and five ?	evaluation of prototype(s)
+D	450.27	We can put four ?	evaluation of prototype(s)
+C	450.8	Yeah .	evaluation of prototype(s)
+C	451.63	For twenty five .	evaluation of prototype(s)
+A	451.67	Yeah , four .	evaluation of prototype(s)
+D	451.97	Everyone is okay or four poin Four .	evaluation of prototype(s)
+A	453.3	Four , yeah , let's put four .	evaluation of prototype(s)
+C	455.31	Yeah .	evaluation of prototype(s)
+D	457.52	Okay .	evaluation of prototype(s)
+A	458.66	Doesn't it Yeah , I think so .	evaluation of prototype(s)
+D	461.53	Very easy to use .	evaluation of prototype(s)
+D	462.52	Do you think it's easy to use ?	evaluation of prototype(s)
+C	465.86	I give a seven , I think .	evaluation of prototype(s)
+A	467.42	Yeah .	evaluation of prototype(s)
+B	467.44	Six .	evaluation of prototype(s)
+A	469.36	I would give a I would give a seven as well .	evaluation of prototype(s)
+A	474.43	It's very easy to use .	evaluation of prototype(s)
+D	475.8	Mm , six for me also .	evaluation of prototype(s)
+B	476.04	Six .	evaluation of prototype(s)
+A	478.2	So six point five .	evaluation of prototype(s)
+D	478.24	Six point five .	evaluation of prototype(s)
+C	478.33	'Kay .	evaluation of prototype(s)
+B	479.25	Six six six point five .	evaluation of prototype(s)
+D	480.92	Okay .	evaluation of prototype(s)
+A	481.38	Okay .	evaluation of prototype(s)
+D	484.47	Is it fashion ?	evaluation of prototype(s)
+A	485.94	Oh yeah , its its f its fruit fruit shape .	evaluation of prototype(s)
+D	487.71	Seven ?	evaluation of prototype(s)
+A	489.13	I would say seven .	evaluation of prototype(s)
+A	490.71	And is very very nice design .	evaluation of prototype(s)
+D	491.9	Yeah it's fashion , because it's a fruit , and we say that the yeah , seven .	evaluation of prototype(s)
+C	493.89	Yeah , we can we can put a seven here .	evaluation of prototype(s)
+C	495.54	Yeah .	evaluation of prototype(s)
+B	495.83	Yeah , seven .	evaluation of prototype(s)
+A	496.61	Yeah .	evaluation of prototype(s)
+C	496.68	Yeah .	evaluation of prototype(s)
+A	496.7	Seven , okay .	evaluation of prototype(s)
+C	497.65	Well , we hope .	evaluation of prototype(s)
+B	500.21	Easy to find .	evaluation of prototype(s)
+D	500.3	Uh easy to find in a room ?	evaluation of prototype(s)
+B	502.17	I lost my banana .	evaluation of prototype(s)
+A	506.13	I think you can't miss it .	evaluation of prototype(s)
+C	508.33	Yeah .	evaluation of prototype(s)
+D	509.2	Yeah ?	evaluation of prototype(s)
+A	509.35	Okay .	evaluation of prototype(s)
+B	509.72	Uh .	evaluation of prototype(s)
+C	510.16	Yeah , I think it's cool .	evaluation of prototype(s)
+C	511.91	I think we can put a six here .	evaluation of prototype(s)
+D	513.43	We have the lightning , or The lighting .	evaluation of prototype(s)
+A	516.9	Yeah , we have the we don't sesh especially have the lightning but So it's yellow .	evaluation of prototype(s)
+C	520.14	So you'll make the material transparent so that it uh lights up completely , or Yeah .	evaluation of prototype(s)
+A	525.46	It's okay .	evaluation of prototype(s)
+A	526.04	I think it's very easy to I would say seven .	evaluation of prototype(s)
+D	526.24	Yeah .	evaluation of prototype(s)
+D	528.02	Seven ?	evaluation of prototype(s)
+A	530.2	It's hard to miss it .	evaluation of prototype(s)
+B	530.59	Six .	evaluation of prototype(s)
+B	532.15	Yeah , okay .	evaluation of prototype(s)
+D	532.66	Is it is it robust ?	evaluation of prototype(s)
+A	535.22	Yeah , it's rubber , made of rubber , I think it's m it's uh more rubber than uh other remote control .	evaluation of prototype(s)
+B	535.54	Uh f yeah , it's ru it's rubber .	evaluation of prototype(s)
+B	541.92	Yeah .	evaluation of prototype(s)
+C	542.71	Yeah the only problem there might be which know , i if it's very sensitive , they will , I don't know Yeah , okay .	evaluation of prototype(s)
+A	547.19	Yeah .	evaluation of prototype(s)
+B	547.97	Yeah .	evaluation of prototype(s)
+A	548.87	But it is uh it is surrounded by rubber material .	evaluation of prototype(s)
+B	551.99	Yeah .	evaluation of prototype(s)
+A	552.66	So maybe we can put a six .	evaluation of prototype(s)
+B	554.79	Yeah .	evaluation of prototype(s)
+C	554.93	Mm .	evaluation of prototype(s)
+B	556.29	Six or five .	evaluation of prototype(s)
+D	556.29	Everybody is okay , six .	evaluation of prototype(s)
+B	557.94	Five .	evaluation of prototype(s)
+A	558.46	Six is okay ?	evaluation of prototype(s)
+C	558.72	Six , yeah , for me .	evaluation of prototype(s)
+B	559.77	Six .	evaluation of prototype(s)
+D	559.78	Yeah .	evaluation of prototype(s)
+D	560.96	Okay .	evaluation of prototype(s)
+A	561.52	Yeah .	evaluation of prototype(s)
+C	561.78	Yeah .	evaluation of prototype(s)
+D	562.23	S now um so .	evaluation of prototype(s)
+A	563.65	Tadada .	evaluation of prototype(s)
+A	566.44	We have to sum up everything .	evaluation of prototype(s)
+C	566.61	Twenty .	evaluation of prototype(s)
+D	567.06	Thirteen uh , twenty , twenty six point five , uh seven , thirty two , thirty six .	evaluation of prototype(s)
+C	572.37	Thirty .	evaluation of prototype(s)
+C	573.27	Thir Okay .	evaluation of prototype(s)
+D	574.75	That's that's okay ?	evaluation of prototype(s)
+D	578.05	Six .	evaluation of prototype(s)
+A	581.35	Six is a good Yeah , the be .	evaluation of prototype(s)
+D	581.91	Good .	evaluation of prototype(s)
+D	582.78	Uh if we say that seven it's uh it's the better , and when uh s six sit six are good it's a good uh p product , I think .	evaluation of prototype(s)
+C	585.64	Yeah , the top Mm .	evaluation of prototype(s)
+A	587.91	Okay , so six is a So it's a good evaluation , I think .	evaluation of prototype(s)
+C	590.35	So will become eight soon ?	evaluation of prototype(s)
+A	594.7	It's very promising .	evaluation of prototype(s)
+C	596.21	Yeah , well it's a bit biased .	evaluation of prototype(s)
+D	599.81	We have a good price and uh .	evaluation of prototype(s)
+A	600.22	Huh .	evaluation of prototype(s)
+B	602.47	Yeah .	evaluation of prototype(s)
+C	604.11	Okay .	evaluation of prototype(s)
+D	604.15	Good .	evaluation of prototype(s)
+A	604.52	So this prototype is quite nice .	presentation of prototype(s)
+C	607.78	Because I saw uh some phones that were banana shaped , uh wireless phones not mobile ones , wireless for the house , uh quite big also , and they were selling something like a hundred Euros , two hundred Euros .	presentation of prototype(s)
+A	611.49	Yeah .	presentation of prototype(s)
+A	614.29	Okay .	presentation of prototype(s)
+C	623.78	Just a just a phone , wireless .	presentation of prototype(s)
+B	625.33	Mm-hmm .	presentation of prototype(s)
+A	625.41	So having this at twenty five Euros is uh quite attractive , I think .	presentation of prototype(s)
+C	630.2	Yeah .	presentation of prototype(s)
+A	632.06	I think the Yeah .	presentation of prototype(s)
+B	632.33	But almo also the complexity between a phone and a remote control is not cannot compare .	presentation of prototype(s)
+C	637.49	Yeah .	presentation of prototype(s)
+C	638.66	Yeah , it's much more complex , but Okay .	closing presentation of prototype(s)
+A	641.88	So , I think , we can summarise .	closing
+A	645.73	So we have seen the prototype .	closing
+A	647.37	It's very nice according to the work of our two designer .	closing
+A	654.05	The the the financial aspect were okay .	closing
+A	658.66	We we have the cost below uh our threshold and so we could sell at twenty five Euros and make i make profit .	closing
+A	668.73	The the evaluation give satisfying result as well .	closing
+A	675.08	So I think we can move to the last part of the meeting .	closing
+A	680.8	So the cost is in the budget , the evaluation is okay , so I th I think we can now uh open champagne and make a huge party .	closing
+B	692.4	Start to eat banana .	closing
+A	692.7	I don't know if it's provided by uh by the meeting staff .	closing
+D	698.69	Mm-hmm .	closing
+A	700.16	Okay so congratulation .	closing
+B	703.12	Yeah .	closing
+C	703.27	Congratulations to the team .	closing
+A	703.49	Nice product .	closing
+C	704.53	Uh very well , we worked together fantastically .	closing
+A	706.76	Yeah .	closing
+A	708.2	I think it was a good collaboration uh .	closing
+A	711.99	Aspect .	closing
+C	712.98	So what does the management say ?	closing
+A	715.6	Sorry ?	closing
+C	716.01	What does the management say ?	closing
+A	717.98	I think we will have um much bigger project next time and a much bigger salary as well .	closing
+C	723.48	Ah .	closing
+A	724.93	All it depends on who watch this meeting .	closing
+B	731.29	Yeah .	closing
+A	732.16	We don't know .	closing
+C	733.17	Yeah .	closing
+A	734.64	Okay , so good guys , so see you for next uh successful project .	closing
+C	735.14	Okay .	closing
+B	738.75	Okay .	closing
+B	742.68	Yeah .	closing
+B	743.35	Fruits .	closing
+D	744.61	Mm 'kay .	closing
+C	751.73	Mm .	closing

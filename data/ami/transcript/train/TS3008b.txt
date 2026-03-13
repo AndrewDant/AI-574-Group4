@@ -1,0 +1,709 @@
+B	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+B	6.87	Here we go again .	agenda/equipment issues
+C	25.72	My mouse is not working anymore .	agenda/equipment issues
+B	27.66	Oh .	agenda/equipment issues
+D	28.25	Oh .	agenda/equipment issues
+C	28.37	He's uh when I put it in , is is going to beep beep beep .	agenda/equipment issues
+B	29.85	Okay .	agenda/equipment issues
+D	34.51	Oh , I got a nice little screen here over here .	agenda/equipment issues
+D	39.81	I got like this big black border uh on every side .	agenda/equipment issues
+A	46.48	Okay .	agenda/equipment issues
+B	48.15	Mm , okay .	agenda/equipment issues
+A	48.91	Everybody ready ?	opening
+D	49.3	I'll I'll fix it .	agenda/equipment issues
+B	50.19	Yeah , it's okay .	opening
+D	50.77	Yeah , whatever .	agenda/equipment issues
+A	50.89	Welcome at the functional design meeting , again presented by Maarten .	opening
+A	57.65	Uh this is the agenda , the opening .	opening
+A	59.93	Uh , we've got three presentations .	opening
+A	63.13	And I'm gonna show you some of the new projects requirements that were sent to me .	opening
+A	68.34	And we're gonna make a decision on the remote control functions .	opening
+A	71.52	We have uh forty minutes .	opening
+D	73.6	Yes .	opening
+A	74.82	Oh , well this is the the closing already .	opening
+A	77.39	So uh well we start off with the th the first presentation then .	opening
+A	81.82	Uh , I think um in uh we have to do it in uh in right order .	opening
+B	82.35	Okay .	opening
+A	87.25	Maybe the Well , it Oh that .	opening
+D	88.42	I don't know what the right order is .	opening
+D	89.84	So Mm-hmm .	opening agenda/equipment issues
+B	89.94	No .	opening
+C	90.57	Huh .	opening
+A	92.65	It won't doesn't Maybe we should start with the the technical functions .	opening
+C	96.29	Okay , how can I get this on the whiteboard ?	agenda/equipment issues
+A	96.87	Yeah ?	agenda/equipment issues
+A	98.7	Well it's you dumped the file in the uh in the sh in the project document folder .	agenda/equipment issues
+B	101.01	In project .	agenda/equipment issues
+C	101.99	Okay , I've done that .	agenda/equipment issues
+A	104.04	You've already done that ?	agenda/equipment issues
+B	104.77	No can that open .	agenda/equipment issues
+C	104.82	Yes .	agenda/equipment issues
+A	108.42	Well let's close this one .	agenda/equipment issues
+A	109.59	We'll just uh open a new one .	agenda/equipment issues
+B	110.66	Open it there .	agenda/equipment issues
+A	113.6	Uh , well .	agenda/equipment issues
+A	115.09	Yes .	agenda/equipment issues
+A	118.21	Uh-oh .	agenda/equipment issues
+A	119.31	New thing .	agenda/equipment issues
+A	122.71	Oh yeah , uh I have to say something .	agenda/equipment issues
+A	124.96	Uh , due to some uh technical problems I haven't uh digitized the last uh the meeting minutes .	agenda/equipment issues
+A	132.26	But I'll uh make sure that uh happens next time .	agenda/equipment issues
+B	134.82	Okay .	agenda/equipment issues
+B	136.76	About the get Okay .	industrial designer presentation agenda/equipment issues
+A	137.15	And I'll get this one uh in digital uh form too .	agenda/equipment issues
+C	142.66	'Kay , we're going to um uh talk about working design .	industrial designer presentation
+C	148.14	Um , the method of the remote control is uh electrical energy , it activates a chip uh in the remote .	components, materials and energy sources
+C	157.05	It's an electrical circuit which compose uh messages in the form of uh uh infrared signals to control the television .	components, materials and energy sources
+C	169.07	Mm , it's a nowadays very uh known , a known uh uh technology .	components, materials and energy sources
+C	178.64	Um , the known technology can make a cost very low .	components, materials and energy sources
+C	182.87	Uh , it's a wild uh a wide sale uh of uh remote controls in the world .	components, materials and energy sources
+C	187.99	And and the components are very uh very cheap .	components, materials and energy sources
+C	193.32	Um , Uh , diodes , uh bat batteries and uh uh LED lights , they're needed and they're uh everywhere available .	components, materials and energy sources
+C	203.68	Uh , again , it's a fair price .	components, materials and energy sources
+C	205.89	It's a common uh technology uh , like I told um Uh , the circuit board , it's the most um important uh um part of the remote control .	components, materials and energy sources
+C	220.22	Uh , we can use for that uh fibreglass with copper wires , it's it is uh can be made as fast as printing paper .	components, materials and energy sources
+C	229.36	It's uh it's all very uh Yeah , they're making it uh all the time .	components, materials and energy sources
+A	231.43	Okay .	components, materials and energy sources
+C	238.8	Uh , and it's not uh very specialised uh technology .	components, materials and energy sources
+A	239.44	Okay .	components, materials and energy sources
+C	246.61	I haven't come to here , but um I've got uh some uh images of uh remote controls .	industrial designer presentation
+C	255.7	They were not uh very uh trendy or just uh just a remote control like everyone knows .	industrial designer presentation
+C	264.86	So I don't know uh why I should put it here .	industrial designer presentation
+C	272.0	Uh Yes , but uh I uh haven't made it because uh of the time .	industrial designer presentation
+A	272.98	Okay .	industrial designer presentation
+A	274.16	But it's the technical side of the remote control .	industrial designer presentation
+A	279.38	Oh .	industrial designer presentation
+A	281.08	Okay .	industrial designer presentation
+C	281.38	But What ?	industrial designer presentation
+A	282.25	Well , we'll we'll have to skip that part then .	industrial designer presentation
+A	289.04	But you don't think it's a problem um to design uh the technical part of the remote control ?	industrial designer presentation
+C	294.62	No .	industrial designer presentation
+A	294.82	It's gonna be easy ?	industrial designer presentation
+C	296.17	Yes .	industrial designer presentation
+A	296.72	Okay .	industrial designer presentation
+B	297.34	But nothing restricted for user interface ?	industrial designer presentation
+A	301.36	Yeah .	industrial designer presentation
+B	301.46	With technical I don't know .	industrial designer presentation
+C	301.62	Um , no , it's uh it's just a part of uh a known technology , yeah .	industrial designer presentation
+A	301.71	M Okay .	industrial designer presentation
+B	309.03	'Kay .	industrial designer presentation
+C	309.37	Remote control is nothing special nowadays .	industrial designer presentation
+A	312.36	R regardless of what type of functions we want to implement .	industrial designer presentation
+B	312.5	Okay .	industrial designer presentation
+A	316.79	Doesn't really matter .	industrial designer presentation
+C	317.92	Um I don't think so , because of the all the televisions uh there are a few maybe a couple of televisions with the new functions , but is it useful to put them on a on a standard uh remote ?	industrial designer presentation
+B	319.35	But I kind of uh Yes .	industrial designer presentation
+A	320.51	Okay .	industrial designer presentation
+A	321.42	Yeah , okay .	industrial designer presentation
+B	324.6	Uh Well , the technical functions .	industrial designer presentation interface specialist presentation
+A	330.08	Okay .	industrial designer presentation
+A	335.99	Well , we'll see .	industrial designer presentation
+A	336.77	We'll see later on .	industrial designer presentation
+B	340.78	Um , well I don't know if you got the same uh pictures as I got , but uh I got these two , and I think they're we have to focus uh on uh the uh one hand the expert view or the novice user .	interface specialist presentation
+A	345.88	No .	interface specialist presentation
+C	346.34	No .	interface specialist presentation
+B	359.6	th I think it's it's very much uh depending on the user requirements , I don't s uh know who's doing t Yeah , but it I think that's very important to watch uh what kind of functions there we want to uh put in a remote control .	interface specialist presentation
+A	365.68	Well , uh will there be some uh user requirements later on ?	interface specialist presentation
+A	369.56	The ones I I've uh received from the account manager .	interface specialist presentation
+A	372.66	Yeah .	interface specialist presentation
+A	377.35	Well , we'll keep this in mind , and then discuss it later on .	interface specialist presentation
+B	379.68	Yeah , well y we can put functions in it when uh yeah , when we uh get the user requirements uh and we can update it .	interface specialist presentation
+A	386.96	Uh-huh .	interface specialist presentation
+A	388.99	Okay , but this real this uh big d uh distinction between this type of remote .	interface specialist presentation
+A	393.75	we should we should choose one uh we should not compromise but uh really choose for uh expert viewer or novice v Yeah ?	interface specialist presentation
+D	398.73	Yes , I agree .	interface specialist presentation
+D	400.11	Yeah .	interface specialist presentation
+A	400.83	Well , what that's what you want trying to say .	interface specialist presentation
+B	402.34	Well , yeah w if you want try a a a huge market , if you want to reach a huge market , uh like elderly people and we have to choose for novice user .	interface specialist presentation
+A	412.44	Okay .	interface specialist presentation
+A	413.81	Okay .	interface specialist presentation
+B	414.22	But I don't know .	interface specialist presentation
+B	415.34	It's it's really um depending on how how how far the the the remote controls are already in n um in use .	interface specialist presentation
+A	416.87	Yeah , well some of these Uh , yeah .	interface specialist presentation
+A	424.15	Well , some of that will Yeah , but i but it will be more clear when we come to the uh u uh some of the new requirements .	interface specialist presentation
+B	430.02	Yeah , probably , yeah .	interface specialist presentation
+D	430.36	Yes .	interface specialist presentation
+A	431.3	So Mm-hmm .	look and usability interface specialist presentation
+B	433.61	Uh well , there are l at least uh basic functions , uh like just th the channels uh one till nine , uh on and off switch , which must be clear with a red button or something like that .	look and usability
+B	446.38	Um , most standard uh have volume , of course , and a mute function , and , of course , the next and previous channel .	look and usability
+B	454.48	I think that's just basic what we need .	look and usability
+B	458.0	And from that on we can user requirements what we need more .	look and usability
+B	465.06	Uh Yeah , I just um um I thought Joost was looking at the trendy the trends in the markets , and I don't know if there uh are any um uh if you put more functions , more buttons , maybe it's com becoming less trendy or something like that .	look and usability
+D	476.97	Yes .	look and usability
+B	488.58	M you can just you can k you can keep it in mind that .	look and usability
+D	489.25	I haven't really found a conclusion like that .	look and usability
+D	492.72	Yeah .	look and usability
+B	493.37	I don't know .	look and usability
+B	494.03	Uh , I th I thought the the with less buttons you can make a more trendier uh yeah , more trendier design , I think .	look and usability
+D	500.88	Design .	look and usability
+B	503.71	I think .	look and usability
+D	504.77	Sounds interesting .	look and usability
+B	506.02	Yeah ?	interface specialist presentation
+B	507.96	Uh , well , that's all I have to say , I think .	interface specialist presentation
+A	509.51	Okay .	interface specialist presentation
+B	510.63	Yeah , that was it .	interface specialist presentation
+D	510.87	Alright .	interface specialist presentation
+A	512.04	Well , then the Marketing expert can uh tell us something about the current market .	marketing expert presentation
+D	514.14	Yes .	marketing expert presentation
+D	516.76	Yeah .	marketing expert presentation
+D	517.59	It's alright .	marketing expert presentation
+D	519.35	Um Alright , I've done some research for functional requirements .	user requirements marketing expert presentation
+D	531.7	Um yes .	user requirements
+D	534.63	The working method um there were hundred uh uh w h one hundred people , uh how do you say uh , f watched using remote controls in the usability lab and they also uh filled out a questionnaire uh with a few questions .	user requirements
+D	553.33	Uh , I've lined them up here .	user requirements
+D	555.41	Uh , ask whether um common remote control looks good or not , about willingness to spend money on remote control , about zapping behaviour , and uh and stuff like that .	user requirements
+D	568.58	I uh have found some interesting things .	user requirements
+D	570.99	We do we do got a market .	user requirements
+D	573.28	Um , three out of four people claim m uh to find remote controls ugly .	user requirements
+D	580.98	So if we make a trendy design , we sure have seventy fi seventy five percent of the market , which you can reach .	user requirements
+D	588.49	Um , three out of four users uh zaps a lot , as I uh quoted here from the uh results .	user requirements
+D	598.29	Zap buttons are used one hundred and sixty eight times per hour .	user requirements
+D	601.6	That's quite a lot .	user requirements
+D	603.1	Um , relevant options are , of course , power buttons .	user requirements
+D	608.56	Although , only used once per hour .	user requirements
+D	612.08	Uh , channel selection , volume and buttons for text , and the more um , yeah , other functions , like audio settings , video settings , sound settings are not said to be very important and uh very much used .	user requirements
+D	629.52	Furthermore , fifty percent says uh they only use ten percent of the buttons on a remote control .	user requirements
+D	637.61	That doesn't say we got we can leave ninety percent off .	user requirements
+D	640.87	But it sure um says we shouldn't make it too uh complicated .	user requirements
+D	649.68	Fifty percent also claims uh to have lost a remote control very often in the room .	user requirements
+D	655.85	And um an important thing here , the most important customers uh , which is over seventy percent of our market , is in the age range of thirty six to sixty five years old .	user requirements
+D	670.48	And uh elderly people , our market , are less interested in uh nice features , but more willingly to spend more money on remote controls .	user requirements
+D	682.83	So , what I was thinking oh , wrong side .	marketing expert presentation
+D	688.45	We shouldn't implement too much features on uh on our remote control , because elderly people will get th lost .	marketing expert presentation
+D	695.7	Group features for a higher usability , uh what I was claiming in the previous meeting .	marketing expert presentation
+D	702.46	Um , all the settings , about audio settings , video settings and channel settings , which are not very often used , we could group them uh on one button and make them accessible uh in one menu button or whatever , because they are used very rarely and well , it uh there are a lot of options there , so we can really make uh yeah , how do you say , we can spare at buttons over there .	marketing expert presentation
+A	734.78	Okay .	marketing expert presentation
+D	735.71	And um , if you want to implement V_C_R_ and D_V_D_ options , group them in the button , not too uh Yeah .	marketing expert presentation
+D	746.02	Small buttons , so they won't be very um , how do you say Yes , won't be very present , thank you .	marketing expert presentation
+A	751.02	Visually presents .	marketing expert presentation
+D	755.23	And a trendy look , well uh , although seventy percent of the market is uh consists of elderly people uh who don't really care for trendy looks or whatever , I guess it can do no harm to make it trendy for the other thirty percent .	marketing expert presentation
+D	771.7	That was kind of what I found .	marketing expert presentation
+A	773.93	Okay .	new requirements
+B	774.32	Okay .	new requirements
+D	774.55	Okay .	new requirements
+A	775.56	Well , then we I'm gonna show you some of the new project requirements and then we gonna discuss on uh what features we find important .	new requirements
+D	781.02	Yes .	new requirements
+A	784.12	Uh , well some of the uh new requirements make some of your findings quite uh irrelevant , I think .	new requirements
+A	796.36	Because um uh s decided to put They have decide to put two additional requirements forward .	new requirements
+A	805.07	Well , now I see four .	new requirements
+D	805.48	Two ?	new requirements
+A	806.34	That's kinda strange .	new requirements
+A	809.08	Well , they say tele teletext becomes outdated since the popularity of the internet .	new requirements
+A	814.16	Well , I think that may be so , but well , we can't just leave the teletext button off .	new requirements
+B	814.76	Well No way .	new requirements
+D	819.75	No uh , I agree , I agree .	new requirements
+A	819.76	It's impossible , I think .	new requirements
+A	821.77	So the compromise we could make is just to make one teletext button , you know , like on and off , and don't make a lot of special put a lot of special features on it to make it transparent or You know , it's just you want you want to be able to make use of teletext , but not to play with it that much .	new requirements
+D	832.36	Not too much , no .	new requirements
+D	841.67	Yeah .	new requirements
+A	842.28	So we have to think of that .	new requirements
+A	843.28	The remote control should only be used for television .	new requirements
+A	845.6	Otherwise , the project becomes more complex , which endangers the time t t ma uh the time to market .	new requirements
+A	851.97	So maybe we should leave all D_V_D_ and V_C_R_ related features off completely .	new requirements
+B	856.5	Yeah .	new requirements
+D	858.26	Okay .	new requirements
+A	859.36	I don't know .	new requirements
+A	859.72	I think that uh that's what they're trying to say .	new requirements
+A	864.49	Uh , our current customers are within the age group of forty plus .	new requirements
+A	867.64	New products should reach a new market with customers that are younger than forty .	new requirements
+A	871.35	So you uh talked about the elderly who were willing to spend more on a remote control and who were interested .	new requirements
+D	873.78	Mm-hmm .	new requirements
+A	877.18	But , well , they're not relevant because we are aiming at a younger Yeah , but it is it's is a dif it's a fact that the th th that bigger market you're talking about , we already cover that .	new requirements
+D	881.99	I don't really agree actually , to be honest .	new requirements
+D	884.08	It's a very small market which we will approach then if we uh want to reach customers younger than forty .	new requirements
+D	891.61	It's only like thirty percent of the total market .	new requirements
+D	895.41	Mayb yeah ?	new requirements
+A	901.49	Our company already sells remote control to the older people , but we we also want , you know , a new customer group .	new requirements
+A	909.02	That's the one we haven't covered yet .	new requirements
+A	910.86	So I think that's what the problem is .	new requirements
+A	913.47	We haven't got remote controls for uh Well I think , yeah .	new requirements
+D	913.94	Okay .	new requirements
+D	916.07	Maybe maybe we can compromise a little bit .	new requirements
+A	917.89	Yeah , I think so .	new requirements
+A	918.83	Maybe if it's no no , but I think we have to just keep in mind what the older age group wants .	new requirements
+D	919.2	Not too much then , bu alright .	new requirements
+A	924.37	So maybe we can make a remote control that's primarily interesting for the younger group , but isn't that bad for an older person either .	new requirements
+D	932.5	Yes .	new requirements
+A	933.58	Uh , our corporate image sh should stay recognisable in our products .	new requirements
+A	937.01	Our product's corporate colour and slogan must be implemented in the new design .	new requirements
+A	941.33	Okay , something else nice to know .	new requirements
+B	943.53	But what's our slogan ?	new requirements
+A	945.5	Sorry ?	new requirements
+A	945.86	Yeah , you will have to look that up .	new requirements
+B	946.26	The slogan uh Puts fashion in electronics .	new requirements
+D	949.72	Yeah , I'll have a look .	new requirements
+D	953.36	We put the fashion in electronics .	new requirements
+A	953.44	I think it's something about the Oh , okay .	new requirements
+A	957.22	I thought it w might be , let's make things better or something , but Okay well , let's go back to the the agenda .	new requirements discussion
+D	960.92	Sense and simplicity .	new requirements
+B	960.95	Sense simplicity .	new requirements
+A	971.11	So we've now had to the three presentations .	discussion
+A	972.92	We know about the new project requirements .	discussion
+A	975.95	That means we can uh well d yeah , discuss on the remote control functions .	discussion
+A	980.45	Well , if I can uh make a start , I think it's becoming more clear what kind of remote control it's gonna be , and I already talked about the maybe you have a f familiar with the rem remote control that has the the can opener underneath it .	discussion
+A	993.49	I think we're we're looking for some Yeah , we we're looking for a really simple remote control with only basic T_V_ functions .	discussion
+A	1000.91	Y well , that Yeah .	discussion
+B	1001.01	Yeah .	discussion
+D	1001.31	Well , to be honest , if um our uh aim group is uh till forty , not older than forty , maybe that's not very uh yeah , we don't really need to have a simple remote control .	discussion
+A	1013.73	Yeah .	discussion
+D	1015.88	I think we can implement more functions then , because um basically uh the younger people are more able to adapt to new technology and therefore will be a more Yes .	discussion
+B	1021.38	Yeah , but wha But Yeah , but you sai you said that that a lot of functions aren't used .	discussion
+A	1026.95	Yeah , yeah .	discussion
+A	1027.41	M yeah , that's why um well a lot of um the use the requirements the the account manager sent me , I think they are are c are contradicting each other , because they want a simpler design , and no uh other uh s functions than just T_V_ , but they s do aim at a younger Well , ma But I think uh you we can make some discuss uh distinctions in uh what kin in the , know , th th in functions you have Y Well you have different kind of uh equipment in your room , like a t T_V_ and a D_V_D_ player .	discussion
+D	1044.38	Yeah .	discussion
+B	1048.21	So why should j we put this function in ?	discussion
+D	1051.01	Well , I think Yes .	discussion
+B	1051.26	I think more I think uh people younger people are more looking for just a trendy look than uh more functions .	discussion
+A	1069.8	You can uh , know , you you can make very d you can put very detailed functions regarding the T_V_ set on your remote control uh with the with uh the , you know , audio settings and uh v uh screen settings .	discussion
+A	1083.28	We don't want that .	discussion
+A	1084.03	I think that was that became clear .	discussion
+A	1086.45	We don't want .	discussion
+A	1087.34	But w maybe we should put some func uh , I know that the younger people will most likely have a D_V_D_ player they want to , you know , they want to uh control , remotely .	discussion
+D	1095.76	Yeah , control .	discussion
+B	1096.44	Yeah , but uh you said Yeah , d yeah , but th the functions are not in the remote control we're making .	discussion
+A	1104.12	No , yeah , th th the user requirements of the the The new project requirements told us not to But maybe w Yeah .	discussion
+B	1104.5	It's n Yeah .	discussion
+B	1111.33	Yeah .	discussion
+A	1111.87	I think we maybe should Yeah , well we should uh put some functions for other maybe for other equipment on it .	discussion
+A	1119.49	But just the basic functions .	discussion
+A	1121.26	Maybe like rewind and wind , or n what d what do you guys think ?	discussion
+C	1123.72	But you can put them under the same button .	discussion
+D	1123.81	Not much more than that .	discussion
+D	1126.54	Yep .	discussion
+A	1126.56	Yeah , if as far as possible .	discussion
+D	1128.16	Or we can u u we could put 'em behind the flip-flap or whatever .	discussion
+D	1133.03	So t Yeah .	discussion
+A	1133.06	But what do you think ?	discussion
+A	1133.69	Do th should we implement features that uh uh or functions that to control other devices ?	discussion
+B	1139.28	No .	discussion
+A	1140.31	No , you don't think so ?	discussion
+B	1140.87	No , new requirements say no .	discussion
+A	1141.96	Yeah , the new requirements say so .	discussion
+B	1143.51	So Yeah , but I i if it's too simple uh th they won't use the remote control , they use their own th th with lot more functions .	discussion
+C	1144.42	But you can put a play and stop and and rewind .	discussion
+A	1146.94	Well , maybe it's maybe there there there is something th m most of the time these functions don't support the particular device as well as their their own remote control .	discussion
+A	1155.31	You know , a lot of D_V_D_ players have some tricky settings with Yep , exactly .	discussion
+C	1157.38	Yes , but we Huh .	discussion
+D	1157.98	Y yes .	discussion
+A	1163.98	That's that's wha No no , you don't No no , you don't need it .	discussion
+D	1164.34	But but for for example , V_C_R_ , that's better example in this case .	discussion
+D	1168.5	I think on a remote control for television you don't need to be able to programme uh the V_C_R_ to start recording at three P_M_ or whatever , just play , stop , rewind and uh fast forward .	discussion
+B	1176.28	No , no .	discussion
+B	1177.62	Exactly .	discussion
+A	1178.08	No , no .	discussion
+A	1180.54	Okay , but we have to think uh w we have to think D_V_D_ I th uh , I guess , so um but uh from my experience it's kinda a lot of D_V_D_ players , you know , like forwarding , goes differently .	discussion
+D	1184.06	Yeah , I know , but uh Yes .	discussion
+A	1191.39	Uh , you get two speed or eight speed or sixteen speed .	discussion
+B	1193.9	Mm , yeah .	discussion
+A	1194.08	It's c sometimes a bit difficult .	discussion
+A	1196.52	Maybe if we just leave the D_V_D_ functional m uh Well , I was thinking about putting it in , but concerning the project requirements and what you just said , I think we m should focus on the T_V_ then .	discussion
+B	1205.99	Yeah , but just keep it simple and look more at th No .	discussion
+A	1210.35	And uh and it's just an uh a complimentary remote and not a universal one .	discussion
+A	1215.16	If you want to keep it simple , you can make a universal remote .	discussion
+B	1217.4	It's only for television .	discussion
+A	1218.37	Okay .	discussion
+B	1218.65	So Yeah .	discussion
+C	1219.0	Yes , but there are there are But how wi how will you be able to handle a whole market ?	discussion
+A	1219.22	It's just a s it it should be something that is like a gadget on your coffee table , and it's just for when you you you jump on the couch , you pick up the the the nice remote , the simple one , just to put on the television , nothing more .	discussion
+D	1228.58	Yeah .	discussion
+B	1229.54	Yeah , nothing more .	discussion
+A	1231.24	Okay .	discussion
+B	1231.83	Exactly .	discussion
+D	1232.24	Alright .	discussion
+A	1233.21	Um , but what televis Yeah , we we'll make w this one trendy .	discussion
+C	1238.74	There are uh a dozen of uh dozens of of remote controls that have Yes , but you could put on the z on the zap buttons you can put it to uh to uh access all the same pages .	discussion
+B	1245.15	Yeah .	discussion
+A	1245.4	And simple .	discussion
+B	1245.4	The user interface is easy .	discussion
+A	1246.52	Well , we we will come to that , but ju first on the on the functions .	discussion
+A	1250.34	So we should put uh zap buttons on it .	discussion
+A	1253.08	Um , also numbers , to uh to go to the specific channels .	discussion
+B	1254.94	And the basic yeah , basic functions , yeah .	discussion
+D	1257.44	Yes , definitely , yeah .	discussion
+A	1259.17	Uh , Okay , a t a teletext button should be there .	discussion
+B	1259.56	It's too much integrated in the other .	discussion
+A	1262.94	But just one big teletext button , on and off .	discussion
+B	1263.04	Yeah .	discussion
+A	1266.48	Probably .	discussion
+D	1266.61	Yeah , and maybe two or three other options , but not nothing more than that .	discussion
+D	1270.46	I think stop function is very useful .	discussion
+D	1272.88	If you have a uh a page which consists of more pages , and you are not a very quick reader , then I think it's very irritating if the next page shows up , but Well , I use it very regularly , the action .	discussion
+A	1279.38	Oh , okay .	discussion
+A	1281.47	Yeah , but uh I think that becomes too difficult , it's not a very common function and people will have to read up on their remote then .	discussion
+D	1288.58	I re I use it quite often .	discussion
+A	1290.27	Yeah , yeah , but maybe you s yeah yeah , maybe y you do , but I've never heard of it in the first place .	discussion
+B	1293.4	Will you look Look at the market .	discussion
+A	1295.08	And we have to well t yeah , and t and teletext is becoming outdated .	discussion
+A	1300.76	We just want to see what programmes are on and what time it is probably .	discussion
+A	1306.32	Yeah .	discussion
+A	1306.61	I don't know .	discussion
+A	1307.08	I think that that's kin getting too complex for our remote .	discussion
+B	1309.68	Well Yeah , I uh , it's Sunday I always use it for the uh yeah , for the soccer uh Well , uh when you uh uh when you look uh for example um , a couple of weeks ago I looked at the for the flights , and there are a lot of flights in one page , so if if th Yeah , but True .	discussion
+A	1310.33	I don't know what you th guys think .	discussion
+D	1310.54	Might be .	discussion
+D	1310.95	Might be .	discussion
+A	1318.07	Yeah , but do you like to have a such a s stop button ?	discussion
+A	1320.88	Or do you think it uh I think it's a kind of uh uh very rare and special function .	discussion
+A	1334.55	Yeah .	discussion
+A	1335.87	Okay , it goes Yeah , but that's kind of stuff we should do on the internet right now .	discussion
+A	1339.84	That's why it was uh said in the in the use in the r new requirements .	discussion
+C	1347.47	If you have seven pages , you can go up and down .	discussion
+A	1347.9	Well yeah uh , lots of new televisions can store pages , you know , and then you can just skip manually through them using I think we should just put one teletext button on it .	discussion
+C	1351.91	Yes .	discussion
+A	1357.7	Then we meet uh the new requirements .	discussion
+A	1361.64	we also meet the other thin y you sh you just re we have to choose for the the simple design , I guess .	discussion
+B	1366.77	A simple yeah .	discussion
+A	1369.2	Okay .	discussion
+A	1370.29	Um , well , what functions do we have to decide on ?	discussion
+A	1377.5	Or do we uh I dunno if we have t stif specifically name all the functions we n we want .	discussion
+A	1385.04	We have the zap and uh the volume .	discussion
+A	1386.98	Should we do m make them very big ?	discussion
+A	1388.96	The the the zap button .	discussion
+A	1390.36	D d Th that's that's that's considered to be trendy also .	discussion
+D	1390.37	I think the plus and the minus button should be uh quite present , yep .	discussion
+C	1390.53	Yes .	discussion
+B	1393.58	But trendy , yeah .	discussion
+B	1395.56	I don't know .	discussion
+A	1395.76	Or maybe you should place them on a uh , in a special way ?	discussion
+C	1398.03	Maybe we can make uh a kind of a joystick .	discussion
+A	1400.66	Yeah , something or uh somethin special way to to zap through the it has to s it has to be yeah , and quick .	discussion
+B	1407.52	Original .	discussion
+A	1408.07	You have to use it very quickly .	discussion
+B	1408.38	It was uh True .	discussion
+D	1410.09	Yep .	discussion
+D	1411.92	If you grab the remote , your hands should be on top of the plus .	discussion
+A	1415.35	Yeah , and it the buttons should make it um possible to to zap through your channels in a rapid at a rapid pace .	discussion
+D	1424.1	Yes .	discussion
+A	1425.72	Oh , what should we decide on then ?	discussion
+A	1430.32	I think in a in a case of this simple remote control , the technical aspects which uh weren't worked out already , but it w shouldn't be a problem then .	discussion
+C	1430.41	But No , it's o just signals uh and the television d uh does the rest .	discussion
+B	1431.2	Yeah .	discussion
+A	1441.14	Yep .	discussion
+B	1441.62	Maybe uh Uh maybe we uh uh the batteries maybe .	discussion
+A	1444.91	No , okay , but we don't have to uh , when we don't want to uh control other devices , I think it makes it even more simple .	discussion
+C	1450.24	No .	discussion
+B	1454.35	If you use large batteries or small batter batteries .	discussion
+C	1457.74	The most standard batteries .	discussion
+A	1458.06	I think I think that we should use uh d yeah , not not uh the b the watch kind th the most uh Well , it has to be simple , and I wi Which are most likely to be found somewhere in the house , you know .	discussion
+D	1459.96	I think double A_ .	discussion
+B	1460.11	Yeah ?	discussion
+D	1462.1	Yep .	discussion
+B	1467.28	Yeah .	discussion
+D	1467.65	The most ordinary uh batteries .	discussion
+B	1471.22	Okay .	discussion
+D	1472.68	Yep .	discussion
+A	1474.66	Oh .	discussion
+A	1475.12	How much time do we ha we have left uh ?	discussion
+A	1477.4	M m m more than thirty minutes ?	discussion
+D	1477.51	I think about twenty minutes .	discussion
+A	1478.81	Uh ten twenty minutes .	discussion
+C	1480.87	But i in a way we have to be uh uh special .	discussion
+A	1480.99	Well , uh these these shouldn't Yeah .	discussion
+B	1481.35	Early break .	discussion
+A	1485.82	Yeah , okay .	discussion
+A	1486.42	But that's that's Do you uh have you have you think about tha thought about that ?	discussion
+A	1491.11	How we can what the extra touch can be .	discussion
+C	1493.72	Maybe th m For the remote control .	discussion
+A	1493.75	Do you suggest design or the shape or some gadget f f kind of feature or Well , it was something about how we lose them .	discussion
+A	1501.91	Maybe it should be a remote control when you you clap you hands it makes some noise or some gadget kind of thing .	discussion
+D	1508.25	I think that's n that's more for a for an age range or uh ten to twelve or whatever .	discussion
+B	1508.63	To find him .	discussion
+A	1509.43	Yeah .	discussion
+B	1509.81	That's maybe yeah .	discussion
+A	1513.88	I don't know .	discussion
+A	1515.15	I don't know .	discussion
+A	1515.57	Nah , um a lot of people like to have such kind kind of kind of gay kind of things .	discussion
+A	1520.0	It w it w should be like a birthday present or something that you give someone , and it is i has something nice .	discussion
+D	1523.69	Yeah , yeah , that's good one , yep .	discussion
+B	1526.16	Yeah .	discussion
+A	1526.45	Or maybe it w should have a big uh light that can flash or something on it , or maybe it should or an or the like the the can opener .	discussion
+A	1535.65	Maybe it contains some feature that you don't normally link to a remote control .	discussion
+A	1540.54	I think it's very impor because we're gonna make such a basic remote control , we have to do something to make it special .	discussion
+B	1543.3	Yeah .	discussion
+A	1546.07	It's gonna cost twenty five Euros .	discussion
+D	1548.22	Ye I think the can opener i is a brilliant idea actually , because television and beer is not a rare combination .	discussion
+A	1551.94	Yeah , but the well , it's already been done .	discussion
+B	1552.41	Yeah , but that's yeah .	discussion
+A	1555.57	Nah .	discussion
+A	1556.55	Yeah , that's true .	discussion
+A	1557.96	But and I think it's gonna be uh very uh it has to be sturdy or something , so maybe with with bouncing pads so that you can just throw it on the floor or something .	discussion
+D	1562.5	Yes .	discussion
+A	1567.03	it has to be used something special , and you really it has to , you know y not s people , when they buy it , they have to think , well this one lasts for a long time .	discussion
+B	1567.09	Yeah .	discussion
+D	1569.21	Yep .	discussion
+A	1576.63	We're really gonna use them .	discussion
+A	1577.64	Not some thing you you throw away next week , you know .	discussion
+D	1580.66	No , that's true .	discussion
+A	1582.49	So maybe uh that's i I think that's when uh when we decide on these type of functions , know , basic functions , uh it's very important to find something like this .	discussion
+A	1590.46	So there's a very important task for you .	discussion
+A	1593.5	And maybe we can all think about it .	discussion
+B	1594.69	Be original , yeah .	discussion
+A	1595.78	Uh , also for you maybe , when t you it's very nice when you can be entra when you can be trendy , and and uh and al as in a friend use friendly as well , you know .	discussion
+B	1600.7	Mm-hmm .	discussion
+B	1601.58	And use friendly , yeah .	discussion
+A	1603.81	So big buttons , flashy design , and maybe some kind of gadget kind of thing .	discussion
+B	1603.83	Yeah .	discussion
+D	1607.22	Yeah .	discussion
+B	1611.82	Must brain-storm .	discussion
+A	1611.97	Uh-huh .	discussion
+D	1611.97	Yeah , a swapable front or whatever .	discussion
+A	1613.75	Yeah , or just different colours would be uh I don't know if people also wanna spend more money on fronts for their uh remote control .	discussion
+B	1620.63	Well Why not ?	discussion
+A	1621.66	It could be be Yeah , you never know , but But it and I think we have to make it quite big .	discussion
+D	1623.46	Yeah .	discussion
+B	1624.5	More money for us .	discussion
+B	1627.75	Yeah .	discussion
+B	1630.61	Quite big .	discussion
+D	1631.05	Yes , definitely , definitely .	discussion
+B	1631.08	Yeah , you think ?	discussion
+A	1631.21	Yeah , people So , and and also because uh it is expensive .	discussion
+C	1632.58	That's to be uh a formed for your hand .	discussion
+A	1636.62	If you want it to be something , you know , it's ha doesn't have much functions want to be you don't want to get it l make it Mm-hmm .	discussion
+D	1640.85	Yes , it it it should be f be visible nearly anywhere in the room .	discussion
+D	1644.57	As I uh as I said during my presentation , fifty percent uh o Yeah .	discussion
+A	1648.28	And shou and should ni look nice when you put it on a table .	discussion
+A	1650.88	I I think you m might wanna put it uh yeah , that it it it it stands up .	discussion
+B	1653.03	A standard or something .	discussion
+A	1655.88	Yeah , you have to put it on its So it's like a vase or uh something you put on a table .	discussion
+D	1659.76	A face ?	discussion
+D	1660.31	Or uh yeah , yeah .	discussion
+A	1660.53	no no , put stuff inside it .	discussion
+D	1661.05	Yeah .	discussion
+C	1661.55	More like a joystick then .	discussion
+A	1662.63	But , it's like like a statue or something Yeah yeah , but yeah , but you also can put it somewhere near the window in That it's it's fashionable .	discussion
+D	1665.01	Yeah , yeah , I see what you mean , yep .	discussion
+B	1666.04	It's like you have uh four phones .	discussion
+B	1668.0	Something like that .	discussion
+D	1669.96	If you do that , but I don't know if that's possible within the production cost of twelve and a half Euros .	discussion
+A	1675.74	I I don't Oh , yeah .	discussion
+D	1676.45	I in in the base we could like make uh a button , and if you push it , the remote control itself s makes noise .	discussion
+D	1684.95	That's probably stupid , but uh as I found here uh , fifty percent , was it fifty ?	discussion
+C	1691.91	But that's that's fun for the first time , and then the second Or you can Yeah .	discussion
+D	1692.26	Uh fifty percent fifty percent often loses remote control .	discussion
+A	1696.9	Yeah , but but when you when it gets lost , how can you press the button to make it Oh , okay .	discussion
+D	1701.18	No uh , of the base the the the the the the the thing you put it in .	discussion
+B	1703.7	On the television .	discussion
+B	1706.09	Oh , like this .	discussion
+A	1707.0	Uh , that's kind of nice .	discussion
+D	1707.18	If an a button in in that uh Yeah , you can ma make rechargeable one , yeah .	discussion
+A	1710.0	And then also you don't even need batteries , because you can make it uh chargeable .	discussion
+B	1713.5	A char chargeable .	discussion
+B	1714.38	Yeah .	discussion
+A	1716.45	Yeah , that w yeah , but yeah , the pro No , well I think that it might be t p Well , nee but we don't Yeah .	discussion
+D	1716.54	Why not .	discussion
+B	1719.28	Why not .	discussion
+A	1722.64	Maybe you , but we don't know much about production cost , but when you you can imagine that when you spend twenty five Euros on a remote control and it's a basic remote control , then the then the money there must be money to spend on that kind of st you know , rechargeable units .	discussion
+C	1730.12	With recharger .	discussion
+D	1736.76	It should only cost twelve and a half Euros , of course .	discussion
+D	1739.16	Aye ?	discussion
+A	1739.52	Yeah , but we would d ma we'd do it in Taiwan and So , it's not gonna be that expen Uh I I think it's a great idea .	discussion
+B	1740.61	Production .	discussion
+D	1745.22	Yeah , okay .	discussion
+B	1746.09	It should be possible .	discussion
+B	1747.76	I think it's a good idea .	discussion
+D	1749.07	Yeah .	discussion
+A	1749.57	S some kind of be I've never seen that before , and you make it uh um be uh , you see it with uh the mo the mouses nowadays .	discussion
+B	1750.35	To make a base or something ?	discussion
+D	1756.2	Yes .	discussion
+D	1756.89	Yes , definitely .	discussion
+D	1758.02	Yeah .	discussion
+C	1758.29	Yes , but is that handy ?	discussion
+A	1760.94	Well , I well it's really ch you can recharge it , so you ha never have the battery problem .	discussion
+B	1764.28	It's it's it's it's it's not the purpose to be handy , it's Mm .	discussion
+A	1764.71	That's one .	discussion
+A	1765.26	And uh you can always find your remote control up Uh , okay .	discussion
+C	1766.42	But but remote controls remote controls nowadays can can last uh two years , three years , with with t two batteries .	discussion
+A	1775.56	Well , maybe yeah , you could when that's when it's too costly , you could probably skip the recharger , but you will you do need uh also an uh , also you would need a battery in the the base unit as well , you know .	discussion
+C	1776.7	And then you Yes .	discussion
+A	1787.3	Does it makes it kinda Yeah , yeah .	discussion
+D	1787.81	Well y you you could connect that to two hundred to twenty volts , of course .	discussion
+C	1788.1	Or But you pay for it .	discussion
+D	1792.2	I don't know .	discussion
+A	1792.46	Okay .	discussion
+B	1792.7	Yeah , but that's not it's ugly , I think .	discussion
+A	1792.77	Yeah .	discussion
+A	1794.52	Yeah , but then it's very easy to make it also a rechargeab I don't think that is gonna cost much to make it also a recharge function in it .	discussion
+B	1800.6	No .	discussion
+D	1802.18	On the other hand , if you don't do it , we can also make a nice bay .	discussion
+D	1805.09	I mean , it looks trendy and still still put a bleep function in it , but um I think the bay is definitely uh Sure , why not .	discussion
+A	1809.79	Yeah .	discussion
+A	1814.1	I think it's a good idea .	discussion
+A	1814.97	And make it , you know , we we um Well , we uh it's it isn't a t a most uh costly uh remote control .	discussion
+A	1822.46	We can save on the on the functions .	discussion
+A	1824.19	We just put some simple button in , make it big and sturdy , nothing more , and just make s sure there's some noise that it can make , or probably some kind of cheap light thing around it or that it uh that it lights up , it's also nice .	discussion
+D	1837.67	Yep .	discussion
+A	1838.86	And if you put it away , I think it's uh w we have to we uh that's uh it's not a easy market .	discussion
+D	1841.57	Yeah .	discussion
+B	1843.63	Yeah .	discussion
+A	1844.64	We have to something special .	discussion
+D	1845.99	Yeah .	discussion
+A	1846.04	And for twenty five Euros people want something remote c special from your mote control , and we can't deliver that in r with uh regards to the functions , because we aren't gonna put Yeah .	discussion
+B	1846.71	True .	discussion
+B	1850.44	Yeah .	discussion
+D	1851.07	Definitely .	discussion
+D	1854.98	With eye candy , ear candy , whatever .	discussion
+D	1857.78	Yeah , definitely .	discussion
+A	1858.67	And then uh when make it , you know , nice looking shape and this and then you also you got the stand-up thing .	discussion
+A	1864.79	Yeah .	discussion
+A	1865.33	I think I think it's a good idea .	discussion
+D	1865.44	Yeah .	discussion
+B	1866.07	Yeah , it must be must be a gadget to have .	discussion
+A	1868.92	Yeah .	discussion
+D	1869.41	Definitely , yeah .	discussion
+A	1870.1	Oh , if it let's well , we will see what's possible concerning the the costs , and if it's possible we'll do that .	discussion
+B	1876.42	Yeah .	discussion
+A	1876.74	And we even try to save up on other stuff to make sure we can do such a thing .	discussion
+A	1880.55	And the first thing we the most likeable thing to to n to skip is then probably the recharge function or something .	discussion
+A	1888.32	If that's too expensive , we won't do that .	discussion
+B	1889.14	Yeah , we c Or just give a beep when the battery's out or uh down .	discussion
+A	1890.44	But it would be nice .	discussion
+D	1891.81	It would be nice , yes .	discussion
+A	1892.41	It's the idea .	discussion
+A	1893.09	I know that batteries last long nowadays .	discussion
+A	1895.27	And and what people just think about , well , I'll never have to buy any r batteries again , so y b because it's very annoying when your battery is empty .	discussion
+A	1903.29	And you know then when you haven't batteries around , and probably for two weeks , your remo I've experienced that that Yeah , okay .	discussion
+D	1906.89	Most televisions break down before the battery pack is empty , so yes .	discussion
+A	1912.07	So , easy functions .	discussion
+A	1913.39	Well , we will we will I think we'll work that out , zapping , numbers on it , bi Yeah .	discussion
+D	1922.28	Yeah , why not .	discussion
+A	1923.55	But it's also annoying .	discussion
+A	1926.76	'cause as long as it stays as it ke keeps working , you're not very motivated to do something about it .	discussion
+D	1927.18	Hmm .	discussion
+B	1929.42	Yeah .	discussion
+B	1931.83	true .	discussion
+A	1932.18	Then it beeps all the time and .	discussion
+D	1932.36	No , that's true .	discussion
+A	1933.74	You don't want to have ever have those problems , and you won't have if if you have the rechargeable .	discussion
+A	1939.39	And you don't have to use the unit , you can also put it on the side if people don't like it .	discussion
+A	1944.23	Uh , i i in the in the ma Yeah , but it w I mean , if if they pay for it because they think , oh , that's a great idea , I'm gonna use it .	discussion
+D	1944.27	Why not .	discussion
+A	1951.03	And when it , you know , when time goes by and they think , well , I'll never put him in the recharger , I think last long enough , then they put it on side and they can use it now and then .	discussion
+A	1960.13	Then when they look get m I I I know for sure that everybody who buys this remote control , within a couple of months of they will be in the situation that they they're seeking for the remote control , they wanna see something quick and uh just push the button and th uh , I think it's brilliant .	discussion
+B	1969.06	Yeah .	discussion
+D	1971.72	Bleep bleep bleep , oh there it is , yeah .	discussion
+A	1973.22	Yeah , I've never it's so simple , but I've never seen it .	discussion
+B	1973.49	Yeah .	discussion
+D	1973.84	Yeah .	discussion
+D	1976.5	No .	discussion
+B	1976.88	And you can leave it just there .	discussion
+D	1977.27	Nearly .	discussion
+A	1977.33	M maybe we should really do this .	discussion
+B	1980.34	Yeah .	discussion
+D	1980.62	Yeah .	discussion
+A	1982.95	Okay now , well , how much time have we got left ?	discussion
+A	1986.14	These clocks aren't uh synched .	discussion
+B	1987.71	Yes .	discussion
+A	1988.24	Oh , now I've put uh well , it is twenty p Okay , so we have ten minutes or something ?	discussion
+B	1990.16	Yeah , I'll Uh fifteen minutes .	discussion closing
+D	1992.98	Something like that , yeah .	discussion
+A	1994.87	Yeah , but we're uh we're done .	closing
+A	1996.97	I think .	closing
+A	1999.65	We've decided on the functions .	closing
+A	2001.91	Well , there is some oh .	closing
+A	2005.29	There is a closing sheet .	closing
+A	2008.04	We have lunch break , and then we have thirty minutes of individual work .	closing
+D	2011.66	Oh .	closing
+A	2013.2	Oh okay , I'll make sure I'll I had some problems with uh the digitising the the first minutes , the the s the next minutes won't be a problem , but I'll try to make sure the first one will be in the folder too , but maybe it won't work , but you'll see .	closing
+A	2026.74	I think these are more important than the first ones , so .	closing
+D	2027.12	We'll see .	closing
+B	2029.41	Can you make an uh uh a part of f folder for the minutes maybe ?	closing
+B	2036.16	That not not everything in one one uh folder .	closing
+D	2036.68	Maarten , five minutes .	closing
+A	2038.21	Oh , five minutes .	closing
+A	2039.48	Yeah , because uh I I d I did uh the first minutes I did were were were a bit scratchy , you know .	closing
+A	2045.08	Then I did a s second one with a nicer layout , which I could uh , know , use for the other ones well , but uh I d think uh I forgot to do put done under the first one , and when you go write a second uh it's get it's not working when you try to write second uh paper or something .	closing
+B	2055.68	Yeah .	closing
+B	2059.38	Maybe .	closing
+D	2060.47	No , that's true uh , yeah .	closing
+A	2061.98	And then you you had to overwrite it or someth I don't know .	closing
+A	2065.47	Becau I d uh , it was not my uh pen .	closing
+D	2067.64	Should we by the way draw um on our nice whiteboard , um a little uh idea of yeah .	discussion
+A	2070.77	this kind of looks you like .	discussion
+A	2075.6	Of the shape .	discussion
+B	2077.24	Or the sh Do you get an idea of the shape ?	discussion
+A	2077.43	Yeah , probably , it would be nice .	discussion
+D	2077.87	I dunno .	discussion
+D	2078.41	Has anyone got um a little bit detailed ideas about the shape ?	discussion
+D	2084.47	I don't , for one .	discussion
+C	2085.13	Maybe like this pen .	discussion
+D	2087.91	A bit bigger I guess , but The shape is nice , it's um something different , and we want we want that .	discussion
+A	2088.63	No , bigger .	discussion
+B	2090.32	A little bit bigger , yeah but Oh , uh look uh look at the pictures .	discussion
+C	2096.33	It has to feel nice in your hand .	discussion
+A	2097.21	Well , I I I have to say , I have this uh can opening remote control in my head most of all , or I think some maybe we should no , that will be too costly .	discussion
+D	2098.48	Yeah .	discussion
+A	2106.76	We shou we could also , that was a would also be an idea , but I don't think it I don't know if it exists already , you should like make Alessi or something design it .	discussion
+D	2116.04	Okay , yeah .	discussion
+A	2117.14	That would also be nice .	discussion
+A	2119.17	But that's gonna then you c then you don't Yeah , but then you don't have t yeah it that's not something i that's in the production cost a one it's a one time , you know s was it's a single cost .	discussion
+D	2119.27	Yeah , but twelve and a half Euros ?	discussion
+D	2121.74	Uh Yeah .	discussion
+A	2130.87	Yeah , m but but then you can nah , I don't thin I think that it would be more expensive , because I've bought the Alessi stuff more often and even small pencil holders or something are more expensive .	discussion
+D	2142.16	Yeah , that's true .	discussion
+A	2144.76	Would be a nice idea though .	discussion
+A	2147.16	I don't know .	discussion
+A	2147.67	I think it uh has to be a r it has to have round forms or something .	discussion
+A	2153.64	Like something like that or so or so And on th and then uh s a base unit underneath it .	discussion
+D	2155.69	Something like that is very ergonomic .	discussion
+D	2159.38	So Yeah .	discussion
+A	2161.76	It's also round .	discussion
+A	2164.44	Put it in there uh wire on it .	discussion
+A	2167.8	Maybe uh , I don't know , some some lights , a big but well .	discussion
+B	2173.94	Yeah , flash lights at the side .	discussion
+A	2175.59	Volume and programme , yeah .	discussion
+B	2176.64	At the side , or something like that .	discussion
+D	2176.96	Yes , volume and programme should be there I guess , because you hands wi uh y your hands will be in the smaller part .	discussion
+A	2180.24	And some of the extra funct Some of the extra functions over here .	discussion
+B	2183.13	Yeah .	discussion
+D	2184.66	Yeah , and the numbers on top , I guess .	discussion
+A	2185.33	Numbers .	discussion
+B	2186.27	Yeah .	discussion
+A	2186.83	And and lights ?	discussion
+A	2187.61	How we're g well , maybe uh s a ring of no , no , you have to Maybe on the side of it .	discussion
+D	2193.02	Maybe ro roun rounds uh uh l sorry .	discussion
+B	2194.48	Yeah , side of it .	discussion
+A	2195.26	Along the side uh strip of yeah .	discussion
+B	2195.31	Just two LEDs or something on the side .	discussion
+D	2197.2	Maybe lights also around the volume and the p the plus minus programme buttons .	discussion
+B	2197.52	Yeah .	discussion
+A	2203.88	Yeah , but I also meant the the blinking li w you know , the ones that also blink when you try to uh uh locate your remote .	discussion
+D	2204.87	Oh .	discussion
+D	2211.64	Okay .	discussion
+B	2212.83	Yeah .	discussion
+D	2213.24	Yeah .	discussion
+A	2214.96	Well , theys have to be Yeah .	discussion
+B	2214.98	Well , uh probably at the side .	discussion
+B	2218.04	You know look at the front , but Yeah , exactly , and then there is yeah .	discussion
+A	2219.43	Yeah , yeah .	discussion
+A	2220.11	Exactly .	discussion
+A	2220.57	When you you see it from the side , then it would look just like that .	discussion
+A	2225.43	And then you have a strip of uh lights or something .	discussion
+B	2228.78	Yeah , something like that , yeah .	discussion
+D	2228.95	Okay , yeah .	discussion
+A	2232.21	Well , uh I think it's nice , for one thing .	discussion
+A	2234.16	maybe put something on top of it or , you know , like that's looks funny .	discussion
+B	2237.63	No .	discussion
+A	2238.95	I don't know .	discussion
+B	2239.83	No .	discussion
+A	2241.03	Or some bump .	discussion
+D	2241.61	I think I think that'll be too big tha too big then .	discussion
+A	2242.39	Maybe some Yeah ?	discussion
+B	2245.33	Bumper or something .	discussion
+A	2246.75	We'll have to think about it .	discussion
+A	2247.69	I think we're we're done .	closing
+D	2248.11	Yeah .	closing
+B	2248.88	Yeah .	closing
+D	2249.67	Yes , we are .	closing
+A	2251.22	We can save this one .	closing
+B	2251.45	Lunch break .	closing
+D	2251.71	Alright .	closing
+D	2252.6	Yes , I guess it's lunch time .	closing
+B	2253.95	Okay then .	closing
+A	2258.01	Mm mm .	closing
+D	2261.48	I don't know .	closing
+D	2264.08	Half and hour ?	closing
+D	2265.3	I thought our next uh next individual round was half an hour .	closing
+B	2265.45	Okay , five uh Oh .	closing
+A	2268.84	Yeah , that was what uh Mm , we'll hear about it .	closing
+D	2269.73	I don't know about the lunch break .	closing

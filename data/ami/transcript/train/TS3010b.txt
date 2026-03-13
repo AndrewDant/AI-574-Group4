@@ -1,0 +1,484 @@
+B	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	107.17	Okay .	opening
+A	109.11	So welcome back .	opening
+A	113.03	What do do we have to do ?	opening
+A	120.72	So first .	opening
+A	123.22	I want to say I'm the secretary , so I make the minutes .	opening
+A	127.41	You find them in your in the map in the From the group .	opening
+A	135.17	There's the minutes from the first meeting .	opening
+A	137.34	You'll find the next minutes also there .	opening
+A	142.44	Then I wanna hear from you , what you've done .	opening
+A	149.3	And after that I have some new product requirements .	opening
+A	152.63	So And after that we have to make decisions , what we will do .	opening
+A	159.48	And then we're ready .	opening
+A	161.06	We have forty minutes for this meeting .	opening
+A	165.28	After that we'll have lunch .	opening
+A	167.62	So first I wanna ask the Industrial Designer to tell what he did .	industrial designer presentation
+C	181.83	That's my task .	industrial designer presentation
+A	182.51	So Yeah on your computer , or the What's the name ?	industrial designer presentation agenda/equipment issues
+C	183.47	Okay .	industrial designer presentation
+C	185.02	Uh I've Where have I put it ?	industrial designer presentation agenda/equipment issues
+C	191.09	My Documents or not ?	agenda/equipment issues
+C	200.93	Hmm .	agenda/equipment issues
+C	205.46	I've save it on my computer , my presentation .	agenda/equipment issues
+C	211.77	But where ?	agenda/equipment issues
+C	216.49	Uh uh uh It was about the working of the remote control .	agenda/equipment issues
+A	221.66	What's the name of it ?	agenda/equipment issues
+A	231.57	It's the technical function or the functional requirements .	agenda/equipment issues
+C	235.81	Nope .	agenda/equipment issues
+C	241.42	Not a of Wait .	agenda/equipment issues
+C	253.65	The working design .	agenda/equipment issues
+C	254.84	But I've saved it .	agenda/equipment issues
+A	255.66	Working design .	agenda/equipment issues
+C	260.79	But now I don't know where it is .	agenda/equipment issues
+C	271.32	Hmm .	agenda/equipment issues
+A	272.55	Working design .	agenda/equipment issues
+A	274.44	What is this ?	agenda/equipment issues
+A	274.99	Product documents .	agenda/equipment issues
+C	277.29	Yeah .	agenda/equipment issues
+C	281.22	And I import this until One more .	agenda/equipment issues
+A	283.7	On the desktop .	agenda/equipment issues
+A	291.73	Up .	agenda/equipment issues
+A	294.22	up .	agenda/equipment issues
+A	296.18	Up .	agenda/equipment issues
+A	297.79	Up .	agenda/equipment issues
+A	299.6	Up .	agenda/equipment issues
+A	301.15	Yes .	agenda/equipment issues
+A	302.07	My Documents .	agenda/equipment issues
+A	306.49	Nope .	agenda/equipment issues
+C	307.9	What the fuck is this ?	agenda/equipment issues
+A	308.95	Gone .	agenda/equipment issues
+A	313.28	Well you Um Nah .	agenda/equipment issues
+A	316.32	Nah , nah , nah .	agenda/equipment issues
+A	320.02	PowerPoint .	agenda/equipment issues
+A	321.09	Working design .	agenda/equipment issues
+C	322.12	Yeah that's the empty one .	agenda/equipment issues
+A	326.26	And Presentation of working design .	agenda/equipment issues
+C	328.05	I had one .	agenda/equipment issues
+C	331.93	Uh-huh .	agenda/equipment issues
+C	334.64	Open it .	agenda/equipment issues
+C	336.56	Okay here it is .	agenda/equipment issues
+A	338.37	Save as .	agenda/equipment issues
+A	344.54	Uh it's Project .	agenda/equipment issues
+D	345.09	Desktop .	agenda/equipment issues
+C	348.75	Project .	agenda/equipment issues
+D	349.31	Yeah .	agenda/equipment issues
+A	350.62	Save .	agenda/equipment issues
+C	351.22	Okay .	agenda/equipment issues
+D	351.34	Okay .	agenda/equipment issues
+A	353.09	Very good .	agenda/equipment issues
+D	354.76	Well .	agenda/equipment issues
+C	355.0	A little later but here it is .	industrial designer presentation
+A	356.61	Okay .	industrial designer presentation
+A	358.29	So Now have ten minutes to tell it .	industrial designer presentation
+C	375.27	So okay .	industrial designer presentation
+C	376.17	It's a little difficult what I'm gonna tell you .	industrial designer presentation
+C	379.22	It's about the working of the remote control .	industrial designer presentation
+C	382.6	I just had an half an hour j to study it and I don't get it .	industrial designer presentation
+D	386.96	Make it .	industrial designer presentation
+C	389.21	Ten minutes to tell it .	industrial designer presentation
+C	390.2	Okay .	industrial designer presentation
+C	390.87	I think it will be a few minutes and First uh I will tell you something about the findings , what I discovered about the remote control .	industrial designer presentation
+A	393.19	Okay .	industrial designer presentation
+C	399.77	The working bout it uh of it .	industrial designer presentation
+C	402.94	Uh then I'll have uh some kind of map , and it's the top of the remote control .	industrial designer presentation
+C	409.25	With a little bit of science , uh you I will show that uh in in a few minutes .	industrial designer presentation
+C	414.21	And then uh what I'll think about it .	industrial designer presentation
+C	417.99	First , the findings .	components, materials and energy sources
+C	419.44	The remote control is a very difficult uh thing to uh to explain to just all of you wh who haven't seen a remote control uh inside .	components, materials and energy sources
+C	431.11	Uh there's a lot of uh plastic on it , um because its uh not so expensive .	components, materials and energy sources
+C	437.46	And there are uh a lot of uh wires , uh which um connect the components in it , the battery , and there are um switches and things like that .	components, materials and energy sources
+C	450.39	There's a lot of small uh electronics .	components, materials and energy sources
+C	452.83	So it won't be um uh too expensive to build it .	components, materials and energy sources
+C	457.25	Only twelve Euro fifty I think uh we will make it .	components, materials and energy sources
+C	463.23	Now And here I have the top of the remote control .	components, materials and energy sources
+C	467.92	Uh here's some kind of chip .	components, materials and energy sources
+C	469.61	Uh on top of this , there are uh the numbers .	components, materials and energy sources
+C	473.04	Uh you have all on your remote control .	components, materials and energy sources
+C	475.98	And uh the teletext uh button .	components, materials and energy sources
+C	478.48	And uh here's the battery .	components, materials and energy sources
+C	482.16	And when you push the button , it will uh will be sent to the chip .	components, materials and energy sources
+C	488.01	And the chip will um send it to all kind of sub-components .	components, materials and energy sources
+C	495.18	That's what I said , it's very difficult .	components, materials and energy sources
+C	497.5	And after that it will be sent to the infrared .	components, materials and energy sources
+C	500.82	And that will send it to your television .	components, materials and energy sources
+C	503.89	That's a short h uh how it works .	components, materials and energy sources
+C	506.98	Uh I think I can uh make it uh difficult , but we all we all don't get it .	components, materials and energy sources
+C	514.72	My preferences ?	industrial designer ideas
+C	516.01	It's uh it won't be uh We shouldn't make it too big .	industrial designer ideas
+C	521.72	Uh also for the cost , uh we should only put one battery on it .	components, materials and energy sources
+C	526.63	A long-lasting battery .	components, materials and energy sources
+C	529.03	Uh also for the cost , uh use only plastic .	components, materials and energy sources
+C	532.8	Not other materials .	components, materials and energy sources
+C	534.91	Also because of the cost , uh not too much buttons on it .	components, materials and energy sources
+C	539.41	We can also make uh a button uh with a menu uh button .	components, materials and energy sources
+C	544.66	And then um that that you will see it on the T_V_ .	components, materials and energy sources
+C	549.0	And on the T_V_ you can uh switch into the menu .	components, materials and energy sources
+C	552.43	That's I think it's easier .	components, materials and energy sources
+B	552.86	Mm-hmm .	components, materials and energy sources
+C	555.47	And the bleep signal , y uh you told us .	components, materials and energy sources
+C	558.73	Uh but we can also use it uh a bleep like something , when the battery's empty , then there is a bleep .	components, materials and energy sources
+C	564.18	Then you'll have to change it in a in a week or something .	components, materials and energy sources
+C	567.79	And also the bleep , when what I told you about uh when you lost it , and you push a button , and then you hear bleep bleep , and we will find it .	components, materials and energy sources
+C	577.11	This is uh just uh Yeah .	components, materials and energy sources
+A	577.77	Oh oh .	components, materials and energy sources
+A	579.21	Two questions .	components, materials and energy sources
+C	579.38	Yeah .	components, materials and energy sources
+A	579.97	The battery .	components, materials and energy sources
+A	581.32	You say one battery is cheaper .	components, materials and energy sources
+A	584.09	Why ?	components, materials and energy sources
+C	585.6	If we w if we use only just one uh small pen-light , then it will be cheaper than when we use two .	components, materials and energy sources
+A	590.86	Yeah but when you use two , you can use it two times longer .	components, materials and energy sources
+C	596.28	Yeah but then we'll have to make the um remote control uh long lasting .	components, materials and energy sources
+A	603.93	Okay so it's the size of the remote control .	industrial designer ideas
+C	604.07	Just Yeah .	industrial designer ideas components, materials and energy sources
+A	607.67	Okay and the buttons .	industrial designer ideas
+A	609.51	When you use it on the television , you've you need the television , wh which can use it .	industrial designer ideas
+C	616.61	Yeah .	industrial designer ideas
+C	618.26	But uh I think this our remote control is for the televisions we uh we sell in our company ?	industrial designer ideas
+A	618.55	S Okay .	industrial designer ideas
+C	626.46	Or is it also for other company uh for other televisions ?	industrial designer ideas
+A	632.77	I think we have to use it also on other televisions though .	industrial designer ideas
+C	636.31	Then this is an option .	industrial designer ideas
+A	637.93	So Yeah but I don't I think it They are two different things though .	industrial designer ideas
+C	638.65	Maybe just a menu button to use it on our televisions .	industrial designer ideas
+C	642.29	And then we make it easier uh for our televisions .	industrial designer ideas
+C	646.12	And on the other tele televisions , you can also use it , but then we won't use the Yeah ?	industrial designer ideas
+A	653.7	We have to choose one .	industrial designer ideas
+A	656.12	It has to work on o uh all televisions .	industrial designer ideas
+B	659.54	Mm .	industrial designer ideas
+C	660.51	Okay .	industrial designer ideas
+C	661.02	Then I think uh the menu button uh will only work on the newer televisions .	industrial designer ideas
+C	668.62	And we will uh look forward and don't make a remote control which for the older televisions .	industrial designer ideas
+D	672.22	Hmm .	industrial designer ideas
+A	675.84	Okay .	industrial designer ideas
+C	676.98	And I just uh have one more idea .	industrial designer ideas
+C	679.88	Uh maybe it's one of your tasks .	industrial designer ideas
+C	682.25	But Uh , to have a trendy remote control , we can also um make something like the Nokia um mobile phones .	industrial designer ideas
+C	691.53	To change covers .	industrial designer ideas
+C	693.11	So if you have uh a trendy half with all red , uh yellow and something .	industrial designer ideas
+C	697.41	And then you can put a red cover on it .	industrial designer ideas
+D	698.59	Hmm .	industrial designer ideas
+C	700.57	And also different things .	industrial designer ideas
+A	702.99	Yeah .	industrial designer ideas
+A	703.38	Good idea .	industrial designer ideas
+D	704.26	Will this will this add to the cost ?	industrial designer ideas
+C	704.29	Yes .	industrial designer ideas
+C	707.43	Uh then it won't be uh will have just one cover on the uh original one .	industrial designer ideas
+C	712.79	And then you can buy the covers .	industrial designer ideas
+D	715.01	Yes but you have to m uh be able to change it .	industrial designer ideas
+D	717.77	D does it make it more difficult to design ?	industrial designer ideas
+C	720.81	I think it will be a little more difficult , but not too much .	industrial designer ideas
+A	723.75	Mm-hmm .	industrial designer ideas
+D	724.15	Not much .	industrial designer ideas
+D	724.8	'Kay .	industrial designer ideas
+C	725.49	Just like with the Nokia uh mobile phones .	industrial designer ideas
+A	728.07	Yeah but there are much more Nokia telephones than um these ones .	industrial designer ideas
+C	728.57	Just one .	industrial designer ideas
+C	733.25	Yeah but then we'll have to to just um put five covers on it , and see if it works .	industrial designer ideas
+C	738.09	If it won't works then we'll get something else .	industrial designer ideas
+C	740.75	Then we uh won't g uh go further with it .	industrial designer ideas
+A	743.2	Yeah but are their profits bigger than their cost ?	industrial designer ideas
+C	749.08	Uh a p a a cover made in uh in China , it it won't be I guess so expensive I think .	industrial designer ideas
+A	754.88	Yeah but there are also design cost .	industrial designer ideas
+A	759.45	I don't think When you have a remote control , do you change the cover ?	industrial designer ideas
+C	765.55	Maybe .	industrial designer ideas
+A	765.87	Would you change the cover ?	industrial designer ideas
+C	766.52	I wi I won't .	industrial designer ideas
+C	768.24	But maybe I think trendy people or like children where you can paint on it , and uh the the children think , oh this is my remote control , uh I made a picture on it .	industrial designer ideas
+A	768.73	No .	industrial designer ideas
+A	773.46	N yeah but I think that too less people would change it for good profit .	industrial designer ideas
+C	777.52	Uh Yeah .	industrial designer ideas
+A	781.99	So Yes it is but I don't think we have to do it .	industrial designer ideas
+C	782.72	Okay .	industrial designer ideas
+C	786.08	And the other people ?	industrial designer ideas
+D	786.81	Um Mm .	industrial designer presentation industrial designer ideas
+C	786.85	What do you think about it ?	industrial designer ideas
+B	789.85	Yeah it's a good idea .	industrial designer ideas
+B	790.79	But If if it Yeah , I don't I'm not sure if it will make profit enough to uh But it's uh yeah it's uh original idea .	industrial designer ideas
+C	795.53	Okay .	industrial designer ideas
+B	803.11	No .	industrial designer ideas
+C	803.23	Okay .	industrial designer ideas
+C	804.3	You're the Project Manager .	industrial designer ideas
+A	805.84	Okay .	industrial designer presentation
+C	806.76	Yes .	industrial designer presentation
+C	807.25	That's it .	industrial designer presentation
+A	807.79	That's clear .	industrial designer presentation
+A	809.42	Okay thank you .	industrial designer presentation
+A	810.76	So now the User Interface Designer .	interface specialist presentation
+B	813.06	Oh .	interface specialist presentation
+B	813.74	That's me .	interface specialist presentation
+B	820.66	Uh Come on .	interface specialist presentation
+B	833.36	Ah .	interface specialist presentation
+D	833.72	Yeah .	interface specialist presentation
+B	837.59	Yes well uh uh I shall give a short talk about the the technical function design .	interface specialist presentation
+B	847.2	Um I thought the the the technical function design was uh to uh for a remote control to to to have some influence on the T_V_ set .	interface specialist presentation
+B	855.78	Uh both audio and vide video uh in a cordless way .	interface specialist presentation
+B	859.1	No cords attached .	interface specialist presentation
+B	861.84	And uh well , it all by pushing a button on the remote .	interface specialist presentation
+B	867.22	That was from my own experience and uh and uh the previous meeting .	interface specialist presentation
+B	872.44	Uh I find some uh some interesting quotes on the web .	interface specialist presentation
+B	875.43	Uh well the same idea here .	interface specialist presentation
+B	877.51	Uh message to the television .	interface specialist presentation
+B	881.5	And uh and and and well basic uh operations like on and off , and uh switching channels , and uh and maybe uh teletext or something like that .	interface specialist presentation
+B	892.55	Uh well these are two uh remotes , and that's our uh our dilemma I think .	interface specialist presentation
+B	902.3	Uh We just heard from the Industrial Designer how uh difficult it is .	interface specialist presentation
+B	907.46	But uh shall we make a basic remote control , uh just uh swapping channels and volume and uh power button and well nothing much more .	interface specialist ideas
+B	916.86	Or uh uh more functions on the remote .	interface specialist ideas
+B	921.57	Uh maybe more devices you can influence .	interface specialist ideas
+B	925.72	Uh a radio or a v a video recorder , uh V_C_R_ .	interface specialist ideas
+B	931.83	Yeah well that's our dilemma .	interface specialist ideas
+B	933.22	Um any ideas about that ?	interface specialist ideas
+B	936.72	Basic or multifunctional ?	interface specialist ideas
+A	939.37	We'll got back on that later .	interface specialist presentation
+B	941.26	Okay yeah .	interface specialist presentation
+B	942.07	Yeah well the that was just on my mind .	interface specialist presentation
+D	942.35	Yes .	interface specialist presentation
+B	943.75	So uh I didn't know what uh what way we would go .	interface specialist presentation
+B	951.32	Mm yeah well that was my uh functional uh talk .	interface specialist presentation
+C	956.25	'Kay .	interface specialist presentation
+A	957.43	'Kay , thank you .	interface specialist presentation
+A	961.06	Then it's your turn , the marketing expert .	marketing expert presentation
+D	963.09	Okay .	marketing expert presentation
+D	965.58	Uh um m Yeah .	marketing expert presentation
+D	992.44	Um yeah okay .	marketing expert presentation
+D	993.89	This bit too far .	marketing expert presentation
+D	998.24	So So I'm uh gonna have a presentation about um the market , about um yeah what people think .	marketing expert presentation
+D	1009.01	Uh we did a usability lab-test with a hundred persons .	user requirements
+D	1014.41	And we looked at uh several um things .	user requirements
+D	1017.21	Uh among them design , uh d d how d did they like the use of it , uh what frustrations they had while using remote controls .	user requirements
+D	1026.54	Uh well what what will be our market .	user requirements
+D	1030.08	And uh we asked them if we had some new featu features .	user requirements
+D	1034.34	If um that would be a good idea or not .	user requirements
+D	1037.96	Well our findings .	user requirements
+D	1039.37	Uh our users , they disliked the look and feel of current remote controls .	user requirements
+D	1047.14	Um uh they especially found found them very ugly .	user requirements
+D	1051.24	And um th they also found them hard to to learn how to use it .	user requirements
+D	1057.34	Uh well they also zap a lot .	user requirements
+D	1059.6	So uh zapping uh should be very easy .	user requirements
+D	1063.33	And uh fifty percent of the users only use ten percent of the buttons .	user requirements
+D	1069.81	So a lot of unused buttons .	user requirements
+D	1072.95	There is more findings .	user requirements
+D	1074.5	Uh on the buttons .	user requirements
+D	1075.39	Which uh buttons find users uh very important and which which not ?	user requirements
+D	1080.77	And how much would they use them ?	user requirements
+D	1082.55	Well uh the most used button is the channel selection .	user requirements
+D	1087.1	And uh we asked them how uh relevant they think uh the buttons are .	user requirements
+D	1092.53	The power , volume and channel selections are very relevant .	user requirements
+D	1096.66	Uh teletext is uh less relevant but also important .	user requirements
+D	1100.66	Uh not important they found the audio , uh that's not the volume but uh specific the the pitch , or the left or right .	user requirements
+D	1110.58	Uh the screen and the brightness .	user requirements
+D	1112.06	And uh channel settings .	user requirements
+D	1114.05	Uh th and they also are not used very often .	user requirements
+D	1118.54	Then we have a few um graphs about the market .	user requirements
+D	1122.85	Uh here we can see what the market share is of uh several groups .	user requirements
+D	1129.65	Um as you can see , most users are uh between thirty six and forty five .	user requirements
+D	1135.48	Um the the the younger group between sixteen and twenty five is not very big .	user requirements
+D	1141.59	And to come back on the the swapping uh things , uh I don't think uh , I I think the younger will be most interest in it .	user requirements
+D	1151.6	But uh they are not a very big group .	user requirements
+D	1155.57	Um in the we asked them , uh how would you like a s a new feature .	user requirements
+D	1161.23	If you have an L_C_D_ on the remote control , what would you think of it .	user requirements
+D	1166.11	Now you can clearly see young users say .	user requirements
+D	1169.26	I will that would very nice .	user requirements
+D	1171.63	And older user think uh they will be scared of change I think .	user requirements
+D	1176.07	And they won't like it .	user requirements
+D	1177.87	And another thing , how would you like to have a speech recognition on it .	user requirements
+D	1184.14	Well here we see the same .	user requirements
+D	1185.15	Young users uh think that's an interesting idea .	user requirements
+D	1188.55	And old users not .	user requirements
+D	1191.92	Uh well we uh found out that there are two several markets at which we can aim .	user requirements
+D	1198.56	Uh the first are the younger , the age between sixteen and forty five .	user requirements
+D	1203.6	Uh they are highly interested in the features , as you can see uh here .	user requirements
+D	1210.2	And um they are more critical on their money spending .	user requirements
+D	1216.49	Uh the second group is the older group .	user requirements
+D	1219.19	Aged between forty six and sixty five .	user requirements
+D	1222.5	They are less interested in uh new features .	user requirements
+D	1225.64	But uh they spend their money more easily .	user requirements
+D	1228.12	Now if we look back at this graph , we can see that among the first group is about um sixty percent .	user requirements
+D	1237.48	And the second group about forty percent .	user requirements
+D	1240.13	So the the first group is bigger .	user requirements
+D	1244.18	Well then I come to my uh personal preferences .	marketing expert ideas
+D	1248.12	Uh yeah the first question is uh also we have to ask is at the which market do we aim at .	user target group
+D	1255.3	Uh of course n uh saying we aim at the young group doesn't say that old people won't buy it .	user target group
+D	1261.19	But less of them will buy it .	user target group
+D	1264.04	Um well I uh Okay .	user target group
+D	1267.8	What I thought , um even young people say it's hard to use , remote control .	user target group
+D	1274.63	So if you make a remote control that is uh very easy to use , that's especially aimed at this group , even uh the young group will also be more interested .	user target group
+D	1284.65	And um we can make special features .	user target group
+D	1288.02	But uh I think it looks nice in the first time .	user target group
+D	1291.8	But when use it , uh I don't know what's uh good thing of speech recognition .	user target group
+B	1297.18	Mm-hmm .	marketing expert ideas
+D	1299.16	Um well th uh that's my second point .	marketing expert ideas
+D	1301.86	Uh less important functions should be discarded from the remote control .	marketing expert ideas
+D	1306.59	It's about discussion we had earlier .	marketing expert ideas
+D	1309.18	Um You can find most functions on a T_V_ set .	marketing expert ideas
+D	1316.14	So uh you don't have to have a lot of audio options , or screen options to change the brightness .	marketing expert ideas
+D	1323.4	And such things .	marketing expert ideas
+D	1324.97	Um well the design is very important .	marketing expert ideas
+D	1327.43	One thing I did not say I think , is that a lot of users also said then I would uh buy a good looking uh remote control if there will be one .	marketing expert ideas
+D	1338.18	But they found most remote controls very ugly .	marketing expert ideas
+D	1342.23	So the design of our remote control is very important .	marketing expert ideas
+D	1346.15	And uh yeah it should be very zap friendly , as most users use it for that .	marketing expert ideas
+D	1353.43	That were my findings .	marketing expert presentation
+A	1356.09	Okay thank you .	marketing expert presentation
+C	1356.32	Yeah .	marketing expert presentation
+C	1356.73	I have uh one question .	project budget
+C	1358.03	If we aim for the younger people , um and there will be uh a lot of features like L_C_D_ or the the the speech uh f recognising , uh the cost will be a lot of h uh a lot higher .	project budget
+A	1358.05	Yes .	discussion
+D	1372.32	Yes .	project budget
+B	1372.33	Mm-hmm .	project budget
+C	1372.42	Uh I think we don't have that in our budget .	project budget
+B	1377.17	No .	project budget
+C	1377.44	Do you think ?	project budget
+D	1377.99	No .	project budget
+B	1378.86	And I don't uh I don't think twenty five Euros for a remote is really cheap or something .	project budget
+C	1379.18	Like No .	project budget
+C	1385.51	No .	project budget
+B	1385.84	So it's Yeah , it's hard to uh get the younger group .	project budget
+C	1393.33	Uh-huh .	project budget
+A	1394.66	I think uh the L_C_D_ is cheaper than speech recognition .	project budget
+A	1398.12	So I think that can be an d good option .	project budget
+B	1398.83	Mm-hmm .	project budget
+A	1402.08	L_C_D_ .	project budget
+B	1403.6	Just the L_C_D_ ?	project budget
+A	1404.42	Yes .	project budget
+A	1405.01	Only the L_C_D_ .	project budget
+B	1405.09	Mm-hmm .	project budget
+A	1409.12	So But we'll come back on that .	discussion
+D	1412.78	Okay .	discussion
+A	1413.78	Now Oh , go on .	discussion
+A	1421.36	What d d d um Um Uh we go back on the decisions later .	discussion
+A	1435.16	Now we have a few new product requirements .	new requirements
+A	1439.24	First , teletext .	new requirements
+A	1441.38	We have internet now so we don't need the teletext anymore .	new requirements
+A	1445.43	So not necessary .	new requirements
+A	1450.08	Next .	new requirements
+A	1452.95	Only for the television .	new requirements
+A	1453.94	So we don't look at the other things like the radio or something .	new requirements
+A	1458.86	Only the television .	new requirements
+A	1461.44	Third .	new requirements
+A	1465.72	We look at the age group of forty plus .	new requirements
+A	1468.87	Uh no , younger than forty .	new requirements
+A	1471.22	Is a g big group , and like you showed , n not very much people buy our stuff .	new requirements
+A	1481.96	Fourth point .	new requirements
+A	1485.75	Our corporate colour and slogan must be used .	new requirements
+A	1488.65	Very important for the design .	new requirements
+A	1490.89	So you can see it on our site .	new requirements
+A	1494.63	Next .	new requirements
+A	1497.1	Um no .	new requirements
+A	1505.75	We have to make our decisions , what we want to do .	new requirements
+A	1510.54	So like you said , we need the .	new requirements
+A	1523.55	Maybe it's good to put it in a document .	new requirements
+A	1529.45	Now we have to decide what controls do we need .	new requirements
+A	1532.7	So maybe you can tell us .	new requirements
+D	1536.39	Yeah maybe we can first have a discussion uh on the the product requirements you just uh said .	new requirements
+A	1542.79	Sorry ?	new requirements
+D	1543.78	The the requirements you just said , maybe we should first have a discussion about that .	new requirements
+A	1545.86	Yes .	new requirements
+A	1549.0	Yes , it's okay .	new requirements
+D	1549.54	I uh personally think uh teletext is a good option .	new requirements
+D	1553.9	Uh not everyone um who is looking T_V_ can go to internet when they want to see the latest news .	new requirements
+A	1561.53	Yeah but we don't use it .	new requirements
+A	1563.56	It's a new requirement .	new requirements
+A	1566.93	So , it's not my requirement .	new requirements
+C	1571.65	'Kay , we'll just have to do that .	new requirements
+A	1573.1	We have to do this .	new requirements
+C	1573.72	Okay .	new requirements
+D	1575.09	Okay .	new requirements
+C	1575.52	No discussion about it .	new requirements
+D	1575.81	Okay sorry .	new requirements
+D	1576.44	Then uh Mine ?	new requirements look and usability
+A	1576.76	No .	new requirements
+C	1577.21	Okay .	new requirements
+C	1578.57	Unfortunately .	new requirements
+A	1579.81	So what controls do we need ?	look and usability
+A	1588.46	Who first ?	look and usability
+B	1590.7	Well a power button ?	look and usability
+A	1592.86	Okay .	look and usability
+A	1595.58	Uh power .	look and usability
+B	1600.56	Uh the well um I think separate channels .	look and usability
+B	1606.37	So But then both the the separate channels .	look and usability
+A	1608.99	Uh mm channel .	look and usability
+B	1615.28	So so uh zero to nine or something .	look and usability
+A	1616.28	Channel Zero to nine .	look and usability
+B	1622.98	Uh volume .	look and usability
+A	1624.94	Volume .	look and usability
+A	1631.89	Maybe it's easy to pick .	look and usability
+A	1635.32	What was w your one ?	look and usability
+A	1637.97	Techno Okay .	look and usability
+D	1639.05	It's the functional requirements .	look and usability
+A	1651.84	We had w uh no no no no .	look and usability
+A	1656.72	Where was that example of the Johan .	look and usability
+B	1659.34	Oh mine .	look and usability
+A	1661.48	That was the the the the the technical Hallo .	look and usability
+B	1664.52	Technical .	look and usability
+A	1676.09	Okay .	look and usability
+A	1678.24	What do we need ?	look and usability
+A	1680.95	On-off .	look and usability
+A	1681.94	Zero to nine .	look and usability
+C	1684.61	To change to the next channel , just one button .	look and usability
+C	1687.25	To move up , move down .	look and usability
+A	1689.54	Yeah that's the channel .	look and usability
+D	1690.45	D Yeah .	look and usability
+D	1691.59	Do we make a menu ?	look and usability
+A	1694.2	Menu ?	look and usability
+A	1695.61	Uh yes the n newer televisions ha do have menus .	look and usability
+A	1702.08	Uh M Menu .	look and usability
+D	1704.64	Uh I think it will be um q quite easy to use , to have uh uh four arrows .	look and usability
+A	1707.17	I think um the only one or two numbers .	look and usability
+B	1718.33	Mm yes .	look and usability
+A	1720.67	And Hello ?	look and usability
+A	1725.77	That's ch Yes .	look and usability
+D	1741.97	Up-down for channel selection , and left-right uh for volume .	look and usability
+D	1746.69	And uh a menu uh button .	look and usability
+D	1749.97	And if you press the menu button you get into the menu , and you can use the same buttons .	look and usability
+D	1754.88	But the then to scroll through the menu and to change the options .	look and usability
+A	1758.3	On the L_C_D_ screen , you mean ?	look and usability
+D	1762.85	Uh well yeah that depends on if you have uh the menu on the T_V_ .	look and usability
+D	1767.0	Or you get the menu on the L_C_D_ screen on the remote control .	look and usability
+A	1770.15	Think it's better to have it on the remote control , 'cause it it has to work on all televisions .	look and usability
+A	1777.94	So we need N Yes .	look and usability
+D	1778.29	Yes .	look and usability
+C	1780.25	But then we come to the costs .	look and usability
+A	1784.78	But if we have this So now we don't have a lot of buttons .	look and usability
+D	1789.84	'Kay .	look and usability
+D	1792.0	But well if you aim at the younger market , um a as they as uh s uh as we seen in the usability uh lab , uh they will buy a nice looking um remote control .	look and usability
+D	1807.73	And also to find the easy to use uh part very important .	look and usability
+D	1812.84	So if we have a L_C_D_ sh uh screen , and uh not too many buttons , I think that will incre uh uh even when it's a bit more cost , it will still sell .	look and usability
+A	1833.77	Is this enough ?	look and usability
+B	1836.09	Mute .	look and usability
+A	1837.99	Mute .	look and usability
+A	1840.55	Maybe in the menu ?	look and usability
+B	1844.26	Um Yeah but then it's always uh more than one uh thing to do .	look and usability
+D	1844.7	Mm .	look and usability
+A	1853.21	Mute .	look and usability
+A	1854.51	Mm-hmm .	look and usability
+D	1855.15	Yeah .	look and usability
+A	1855.38	Okay .	look and usability
+A	1858.63	Maybe more ?	look and usability
+A	1865.63	No .	look and usability
+A	1868.82	Well .	look and usability
+A	1871.58	Then that's all .	look and usability
+A	1875.88	This will be the buttons .	look and usability
+A	1881.33	And I think that's enough for the next phase .	closing
+A	1889.17	So we can go on to Yes .	closing
+C	1894.9	But now we have only the buttons .	closing
+C	1896.81	And uh we don't yet have to decide what the remote control would look like ?	closing
+C	1902.49	Or Okay .	closing
+A	1903.26	No that's for the next phase .	closing
+A	1905.34	Um Phase two is the conceptual design .	closing
+A	1917.38	So then we'll have the concepts .	closing
+C	1918.06	Okay .	closing
+C	1920.98	Okay .	closing
+A	1922.98	That's for the So uh next point .	closing
+A	1928.17	Now we have lunch-break .	closing
+A	1930.87	After that we have t thirty minutes for work .	closing
+A	1935.06	And you can find the minutes in the Project Documents folder inclusive the uh buttons .	closing
+A	1944.83	No .	closing
+A	1946.31	Your individual action , you can find them in the email .	closing
+A	1953.22	So now it's time for lunch .	closing
+C	1954.91	Okay .	closing
+D	1955.3	Okay .	closing
+D	1955.8	Good idea .	closing
+A	1956.74	Thanks for coming .	closing

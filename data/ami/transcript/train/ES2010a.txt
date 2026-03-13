@@ -1,0 +1,205 @@
+A	19.21	Okay .	opening
+A	19.91	Hi everybody and welcome to our kick-off meeting um for our new product that we're gonna be designing .	opening
+A	25.92	Um I'm Mandy and I'm the Project Manager .	opening
+A	29.12	And I know all your names again , Courtney , Fenella and Amber .	opening
+D	31.73	Yep .	opening
+B	35.42	Yep .	opening
+A	35.53	Alright .	opening
+A	36.55	Okay , so first let's go through this PowerPoint .	opening
+A	42.08	I wonder what button I press ?	opening
+C	44.6	Just do it on the arrow .	opening
+A	47.17	Yeah , or how about I just click ?	opening
+A	49.11	Okay , here is our agenda for this meeting .	opening
+A	51.76	Um we're gonna start with our opening which was our introductions .	opening
+A	55.12	We're gonna get to know each other a little bit better .	opening
+A	57.24	Um tool training , we're going to , I guess , figure out what to do on this project with our individual roles .	opening
+A	64.76	Um we're gonna make a project plan and then have some time for discussion and close up the meeting .	opening
+A	70.99	Okay , here is our project .	project specs and roles of participants
+A	73.04	We're gonna make a new remote control that's um original , trendy and also user-friendly .	project specs and roles of participants
+A	84.53	And how we are going to do it is each of us is going to um We're gonna have discuss the functional design first , how is it gonna be used , what's the actual goal here , it has to operate T_V_ , blah blah blah .	project specs and roles of participants
+A	98.88	And we're going to do individual work on that and then meet .	project specs and roles of participants
+A	102.11	Same thing with conceptual design .	project specs and roles of participants
+A	104.67	Just the basic overview of the project and then we're going to do individual work , meet .	project specs and roles of participants
+A	110.4	That's pretty much the the whole process for today .	project specs and roles of participants
+A	113.75	And then the detailed design , just more in-depth , get the actual schematics of the remote .	project specs and roles of participants
+A	120.82	Okay .	drawing exercise
+A	122.23	Alright .	drawing exercise
+A	123.39	First we're gonna start off by using our tools .	drawing exercise
+A	127.7	And the whiteboard thing , do you guys wanna give that a try even though the ink wasn't working or do you wanna do it on here .	drawing exercise
+B	134.9	I think we should forgo the whiteboard since we can't actually see what we're writing .	drawing exercise
+D	137.09	We could Yeah , we could on here .	drawing exercise
+A	139.79	Alright , let's go forward then .	drawing exercise
+A	141.38	Um right now so we're all gonna draw our favourite animal and then sum up our favourite characteristics of that animal .	drawing exercise
+A	148.06	Even if you are not a good drawer like me .	drawing exercise
+A	150.56	Alright .	drawing exercise
+B	150.57	Artistic skills , nil .	drawing exercise
+C	152.12	Fine .	drawing exercise
+A	152.9	Um .	drawing exercise
+A	164.98	Bless you .	drawing exercise
+D	165.45	Oh , thanks .	drawing exercise
+B	187.24	I draw like I'm in grade five .	drawing exercise
+A	190.14	Oh do I .	drawing exercise
+A	218.94	'Kay , about one more minute .	drawing exercise
+A	241.94	Okay .	drawing exercise
+A	245.6	Okay .	drawing exercise
+A	246.36	And who would like to start us off ?	drawing exercise
+D	249.41	I'll go .	drawing exercise
+A	250.15	Alright .	drawing exercise
+D	250.62	Um this is my picture .	drawing exercise
+D	252.88	I drew fish I like fish , because uh , you know , their whole water-vascular system thing .	drawing exercise
+D	259.31	It's pretty cool , and um they've got a pretty good habitat and they are pretty sometimes , sometimes vicious but that's okay .	drawing exercise
+D	266.73	Yeah .	drawing exercise
+A	267.27	Only if they're piranhas .	drawing exercise
+D	268.39	Yeah , they they're easy , you know .	drawing exercise
+D	272.02	Yeah .	drawing exercise
+A	272.46	Alright .	drawing exercise
+A	274.73	Who wants to go next ?	drawing exercise
+B	276.76	I'll go .	drawing exercise
+B	278.15	I drew a kitty .	drawing exercise
+B	279.7	It's pretty much impossible to tell that's a cat , but I love cats .	drawing exercise
+D	282.07	No I I see it .	drawing exercise
+C	282.58	No , I kne I knew .	drawing exercise
+A	283.03	No , it looks like a cat .	drawing exercise
+D	283.76	Yeah , it does look like a cat .	drawing exercise
+B	285.36	I love cats because they're independent , uh they pretty much know what they want , they get it , they move on .	drawing exercise
+A	294.06	I love cats , too .	drawing exercise
+C	295.31	Yeah .	drawing exercise
+A	295.37	I'm a cat person .	drawing exercise
+D	296.34	I'm allergic to cats .	drawing exercise
+C	297.63	Ah .	drawing exercise
+A	297.74	Uh .	drawing exercise
+B	297.78	I'm allergic to cats , too .	drawing exercise
+D	299.1	Oh , okay .	drawing exercise
+A	300.0	If you're around one I had a roommate who was um allergic , but if she was around my cat forever she became used to it , you know , it's weird .	drawing exercise
+C	300.08	In my next life .	drawing exercise
+D	306.05	Yeah , yeah , if you're around them for a long period of time Oh , yeah , this summer I , oh I had to live with cats .	drawing exercise
+B	308.4	I still can't sleep with them in my room .	drawing exercise
+A	308.64	Okay .	drawing exercise
+D	313.72	It was crazy .	drawing exercise
+D	315.35	Yeah .	drawing exercise
+A	315.43	Okay , Fenella ?	drawing exercise
+C	316.29	Um , I drew a badger .	drawing exercise
+D	318.79	Cool .	drawing exercise
+B	318.99	Yay .	drawing exercise
+A	319.36	Badger .	drawing exercise
+C	319.99	Well , yeah .	drawing exercise
+A	320.79	Good choice .	drawing exercise
+A	321.69	Why a badger ?	drawing exercise
+C	321.85	Uh I dunno , they're grumpy and nocturnal and Well , a little bit like the Yes .	drawing exercise
+B	326.38	Are you trying to suggest something ?	drawing exercise
+C	330.37	Um .	drawing exercise
+C	331.3	And then , if you know Wind in the Willows badger .	drawing exercise
+D	334.44	Oh , okay .	drawing exercise
+C	335.09	Yeah and then uh I don't know if you know Brian .	drawing exercise
+C	338.14	He's Liverpudlian writer .	drawing exercise
+A	340.16	Alright .	drawing exercise
+C	340.77	Um , that kind of books .	drawing exercise
+C	344.48	Badgers are cool in that one too .	drawing exercise
+A	347.08	Okay .	drawing exercise
+A	348.14	And I'm last .	drawing exercise
+A	349.86	'Kay .	drawing exercise
+A	350.27	Look at my sad sad giraffe .	drawing exercise
+D	351.72	No , that's good .	drawing exercise
+A	352.67	No , no , no , it ends up looking like some kind of a dinosaur , but whatever .	drawing exercise
+A	356.11	I don't know even much about giraffes , but I just love the way they look .	drawing exercise
+A	360.14	They're just such odd creatures , you know .	drawing exercise
+A	362.85	I I like that they're so unique and individual , I guess .	drawing exercise
+A	366.41	I don't know much about their behaviour or anything , though .	drawing exercise
+A	368.96	Only seen a couple in zoos .	drawing exercise
+D	369.49	You don't really have to , I mean , if you like 'em Right .	drawing exercise look and usability
+A	370.53	Yeah , but you can appreciate the way they look .	drawing exercise
+A	372.77	Okay .	project budget
+A	376.09	Alright .	project budget
+A	376.81	Guess we're getting straight back into business here .	project budget
+A	379.13	Um the selling price for our remote is going to be twenty-five Euro , and our profit aim is fifty million Euro .	project budget
+A	388.9	We're going to make this an international product marketed in the States , in Europe , in Asia .	project budget
+A	395.45	And um our production cost to make that profit is gonna be a max of twelve fifty Euro per remote .	project budget
+A	408.26	Okay .	discussion
+A	410.16	So we're gonna talk for a little while .	discussion
+A	411.97	Um here are some topics that we might be able to discuss .	discussion
+A	415.46	Expe our experiences with remote controls um , our first ideas about this new remote , anything that you can bring to the table for this project .	discussion
+A	424.9	So .	discussion
+C	426.25	Now ?	discussion
+A	427.25	Yeah .	discussion
+A	428.27	You wanna start us off ?	discussion
+A	429.45	Anybody have anything to offer ?	discussion
+B	431.02	Well , we wanna make a multifunctional remote , right ?	look and usability
+A	433.56	Right .	look and usability
+B	433.87	One remote for everything .	look and usability
+C	436.05	And everything being Wait , we have what , sound system , T_V_ , D_V_D_ , V_H_S_ , uh TiVo ?	look and usability
+B	438.49	Um .	look and usability
+B	447.12	I think they'll be phasing V_H_S_ out shortly .	look and usability
+D	448.29	Yeah , TiVo .	look and usability
+A	449.46	TiVo .	look and usability
+C	450.55	But it's still there , so if po if we're gonna do it Or if it's not like a Sony , if it's like a I don't know .	look and usability
+B	452.21	Okay .	look and usability
+D	455.01	It needs to be compatible 'cause universal remote controls are never universal .	look and usability
+A	458.0	They're never universal .	look and usability
+A	459.3	That's right .	look and usability
+A	459.74	Esp e especially if you buy a a not big product , D_V_D_ player , say , usually it doesn't work if it's not one of the Yeah .	look and usability
+A	469.36	Yeah .	look and usability
+A	470.07	Something from Sam's club .	look and usability
+B	470.11	So we'll have to figure it how to cover all the different variances in signals .	look and usability
+A	475.48	Yeah .	look and usability
+D	475.51	And what we need an insanely good instruction booklet , because you always have to reconfigure all your contraptions to go with the remote anyways .	look and usability
+A	480.05	Yeah .	look and usability
+A	485.41	'Kay , and um another thing that I think is important is the d the design of the product , how it feels in your hand .	look and usability
+A	493.03	If it's just flat and kind of boring th those don't Nobody wants to buy those any more .	look and usability
+A	499.15	They want the ergonomic ones .	look and usability
+D	500.13	They want like the flashy lights .	look and usability
+A	501.07	Yeah .	look and usability
+D	501.59	Oh like this came from Las Vegas .	look and usability
+A	502.19	Ones that ones that look high-tech , too .	look and usability
+C	506.87	But at the same time are simple .	look and usability
+D	508.25	Mm yeah .	look and usability
+A	508.27	Right .	look and usability
+A	510.2	So that people like my mother can use it .	look and usability
+B	510.44	What about something with the curvature like that matches the curvature of a hand ?	look and usability
+A	514.44	Yeah .	look and usability
+A	519.45	'Kay .	discussion
+A	520.36	Anybody have any experiences with remote controls that they can remember that Yeah .	discussion
+C	524.01	Just bad ones .	discussion
+A	526.21	That's true .	discussion
+C	527.14	Um .	discussion
+B	529.06	What kinda battery would we want to use ?	components, materials and energy sources
+B	531.21	Because battery changing is usually Okay .	components, materials and energy sources
+C	531.64	D Double A_ .	components, materials and energy sources
+D	533.4	Double A_ .	components, materials and energy sources
+A	535.52	Do some of them use triple A_s though ?	components, materials and energy sources
+D	537.37	Yeah some use triple A_s .	components, materials and energy sources
+C	538.54	Some but Yeah , I guess then it's If we need to do triple A_ we can , but most people usually have double A_s around .	components, materials and energy sources
+D	538.58	So double or triple ?	components, materials and energy sources
+A	538.79	Okay .	components, materials and energy sources
+A	547.7	Okay .	components, materials and energy sources
+A	548.18	Yeah .	components, materials and energy sources
+A	549.5	But that has to do with the size of it too .	components, materials and energy sources
+C	551.46	Right .	components, materials and energy sources
+B	551.86	Yeah .	components, materials and energy sources
+A	552.01	Well , w as long as we know that issue is Here we can Triple A .	components, materials and energy sources
+D	555.25	Yeah , if we want it to be more thin , then we'd probably wanna go with a triple A_ .	components, materials and energy sources
+B	558.93	Can you with a small lithium battery ?	components, materials and energy sources
+A	559.07	But it's okay , we don't have to decide about it now , just as long as we remember battery type and size is important .	components, materials and energy sources
+A	567.25	Hey .	components, materials and energy sources
+A	567.79	Anything else ?	components, materials and energy sources
+A	574.58	Alright .	closing
+A	575.0	Moving along .	closing
+A	577.2	Oh , we're closing the meeting .	closing
+A	579.4	Next meeting is gonna start in thirty minutes .	closing
+A	582.08	Here's what we're going to do .	closing
+A	584.04	Um the I_D_ , which is who ?	closing
+A	587.0	Okay , you're going to think about the working design .	closing
+A	593.13	What do you think that means ?	closing
+A	598.5	Okay .	closing
+A	599.2	And U_I_D_ , the technical fun functions design , making sure it does everything that we need the remote to do , the functionality of it , operating all those different things .	closing
+C	600.59	Mm-hmm .	closing
+A	609.74	Okay .	closing
+A	610.49	And the marketing person , that's Courtney , is going to do the user requirements specification .	closing
+A	619.14	I guess that means specifying um what exactly the user is going to be looking for .	closing
+A	626.29	Right ?	closing
+D	626.79	Right .	closing
+A	627.14	I would think so .	closing
+A	627.89	Okay .	closing
+A	628.62	And you're gonna get more specific instructions emailed to you in just a little while .	closing
+A	633.45	Okay , so does anybody have anything they wanna say before we close the meeting ?	closing
+A	638.14	Okay .	closing
+A	639.63	This meeting is officially over .	closing

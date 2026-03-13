@@ -1,0 +1,480 @@
+A	40.92	Okay everybody is ready ?	opening
+A	42.52	Good morning again .	opening
+A	45.26	So , today we are going to have a f second meeting .	opening
+A	48.38	Oh Michael , hi .	opening
+B	49.13	Yep .	opening
+A	50.19	You're late .	opening
+A	51.8	You have a good reason for that ?	opening
+B	54.13	Yes .	opening
+A	56.4	Very good .	opening
+A	59.74	Okay , let's have a look to the agenda today .	opening
+A	65.19	So , we are going to have a meeting about the functional design .	opening
+A	69.88	Um so first before starting I w just going to uh to go quickly to through the minutes of previous meeting .	opening
+A	80.01	So uh basically we we are not decided if w we should go for a universal or specific uh uh remote control , but I have new um new i inputs for about that topics .	opening
+A	93.71	I goin I'm going to share with you .	opening
+A	96.32	And uh basically we decided to um to uh go to individual actions for each of you uh so um Industrial Designer should wor was supposed to work on th on th on the working design .	opening
+C	110.06	Yep .	project specs and roles of participants
+A	110.44	You showed us you ar you you prepare something for us ?	opening
+C	113.64	Yeah .	project specs and roles of participants
+C	114.63	Yep .	project specs and roles of participants
+A	115.54	The U_I_ guy also uh work on that , yeah , and for the mar our Marketing Expert should deliver some specs .	project specs and roles of participants
+B	121.79	Mm .	project specs and roles of participants
+A	126.05	Alright so so we are going to go through three of your individual presentations .	project specs and roles of participants
+A	133.02	But first I would like quickly to uh to decide of to give a name to the project .	project specs and roles of participants
+A	137.97	So , I just put d quickly Remo , but if you have any o other names that we co could decide for just to to keep something fun for our project we we should we could discuss quickly .	project specs and roles of participants
+A	154.47	Any ideas ?	project specs and roles of participants
+C	156.29	Mm-hmm .	project specs and roles of participants
+B	156.53	Uh the Powerstick .	project specs and roles of participants
+A	158.37	Powerstick , yeah .	project specs and roles of participants
+A	161.16	What else ?	project specs and roles of participants
+A	165.67	What else ?	project specs and roles of participants
+D	167.61	Uh .	project specs and roles of participants
+B	170.08	Maybe a Spanish name would work well .	project specs and roles of participants
+D	171.46	Mm I was thinking of the Mando .	project specs and roles of participants
+B	172.34	Especially if we're selling into the U_S_ market becasue there's a lot of Spanish speakers there .	project specs and roles of participants
+B	177.86	Maybe something that sounds cool in English but sounds funny in Spanish .	project specs and roles of participants
+B	181.63	Mando .	project specs and roles of participants
+B	182.87	What is that ?	project specs and roles of participants
+A	182.88	Mango ?	project specs and roles of participants
+A	183.65	Mango ?	project specs and roles of participants
+D	184.29	Mando .	project specs and roles of participants
+A	184.98	Mando .	project specs and roles of participants
+A	185.56	M_A_ ?	project specs and roles of participants
+A	187.62	M_A_ ?	project specs and roles of participants
+D	188.26	A_N_ yeah D_O .	project specs and roles of participants
+A	190.23	M_ D_O_ .	project specs and roles of participants
+A	191.55	Mm , okay .	project specs and roles of participants
+D	192.85	It doesn't it doesn't sound cool for me , but maybe for a Spanish for I for Control .	project specs and roles of participants
+A	194.93	What does it mean ?	project specs and roles of participants
+A	196.53	Oh .	project specs and roles of participants
+B	199.2	What does it mean in Spanish ?	project specs and roles of participants
+B	202.66	Control .	project specs and roles of participants
+A	203.27	Hmm .	project specs and roles of participants
+B	203.27	Okay .	project specs and roles of participants
+A	204.24	Nice .	project specs and roles of participants
+B	204.32	'Cause it also like in English it sounds like you know the man's tool you know because you know men like to have control of the remote so it might The Mando .	project specs and roles of participants
+D	208.56	But mm , yeah .	project specs and roles of participants
+D	210.84	Mando sounds Latino .	project specs and roles of participants
+A	217.56	Okay .	project specs and roles of participants
+A	219.61	So , let's go for Mando ?	project specs and roles of participants
+A	222.31	Yeah ?	project specs and roles of participants
+C	222.68	Yeah , yeah .	project specs and roles of participants
+A	222.79	No objection ?	project specs and roles of participants
+B	224.0	Yeah that's .	project specs and roles of participants
+A	224.52	Great .	project specs and roles of participants
+B	225.57	And we could have some like you d you could have the fonts you know special , so you have man in like in in uh in one o in one font and then the O_ as like Although you don't wanna cut uh cut women out of the uh potential buyers though , do you ?	project specs and roles of participants
+A	225.65	So Okay , I think this is Okay .	project specs and roles of participants
+B	240.22	So Yeah .	project specs and roles of participants
+C	240.54	Yeah they are the most T_V_ watcher .	project specs and roles of participants
+C	243.07	So we should be careful .	project specs and roles of participants
+A	244.29	Okay , I think this is more a question of of I I think this is more a question of of look and feel .	project specs and roles of participants
+D	246.37	But yeah it uh Yeah because if the product will be international Maybe maybe I should uh start .	marketing expert presentation project specs and roles of participants
+B	246.73	Marketing .	project specs and roles of participants
+A	250.99	Something that should be addressed later .	project specs and roles of participants
+A	253.38	We should we should go to other for the other topics .	project specs and roles of participants
+B	257.45	Well that's the thing .	project specs and roles of participants
+B	258.02	We need to know who we're selling it to before we can really decide on a Um .	project specs and roles of participants
+A	260.95	Yeah okay , so let's stick f to Man Mando for the name and we'll see for the for the look and feel later .	project specs and roles of participants
+A	267.0	So let's go for the three presentations right now .	project specs and roles of participants
+A	269.45	So , who want to start ?	project specs and roles of participants
+A	272.99	So maybe we could start with the market , yeah .	marketing expert presentation
+D	275.18	Yeah .	marketing expert presentation
+D	277.62	Mm .	marketing expert presentation
+D	278.4	Okay .	marketing expert presentation
+A	278.66	Okay so I have your slides somewhere ?	marketing expert presentation
+D	280.88	Yeah .	marketing expert presentation
+D	282.98	Should be in participant four .	marketing expert presentation
+A	286.06	Participant four .	marketing expert presentation
+D	293.11	Yeah , yeah .	marketing expert presentation
+A	293.12	This one ?	marketing expert presentation
+D	301.13	Uh .	marketing expert presentation
+A	309.03	S that's coming .	marketing expert presentation
+A	310.06	Uh okay .	marketing expert presentation
+B	311.78	Yeah .	marketing expert presentation
+C	312.88	Yep .	marketing expert presentation
+A	314.25	Great .	marketing expert presentation
+D	315.8	Okay so yeah I will I will give a brief outline about what I what I prepared for this meeting .	marketing expert presentation
+A	323.21	Mm-hmm .	marketing expert presentation
+D	324.16	For the functional requirements and especially for the for the user requirements .	marketing expert presentation
+D	330.82	I prepare a marketing report and we have to find the weaknesses and and the the improvements we could do to the current remote controls .	marketing expert presentation
+D	344.96	And also I di I did a study with for the incorporation of new technologies it seems that the remote controls have been have remained the same for the last five , ten years .	marketing expert presentation
+D	358.34	There is no no significant difference between the the b the first new controls and Yeah .	marketing expert presentation
+A	368.64	Okay .	marketing expert presentation
+A	369.71	Sh next slide ?	marketing expert presentation
+A	370.44	Okay .	marketing expert presentation
+D	370.46	Yeah .	marketing expert presentation
+D	372.47	Well more most of the people think that remote controls are ugly , thoroughly .	marketing expert presentation
+D	378.61	So and they they admit that the the they should uh s they would uh spend more money in a fancier remote control , which is which is good and it's interesting point .	marketing expert presentation
+D	390.53	Also the people are worried about about the R_S_I_ disease , which is if you repeat the sa the same movement , which is not a with a not very appropriate device , you you will have problems whe when you will get old .	marketing expert presentation
+D	410.33	So s people are uh are worried about the the shape of the of the remote control .	marketing expert presentation
+D	417.11	They are also they get angry very often because they lost the remote control very often , so I think it would be a good point to to l to to find a a solution to any beep any alarm or something incorporated to with the remote control every time it it get lost .	marketing expert presentation
+A	440.47	Mm-hmm .	marketing expert presentation
+D	441.83	And also I found that young people the the younger people are the more interested they are in incorporating new technologies in the in the remote control .	marketing expert presentation
+A	455.12	Okay .	marketing expert presentation
+D	457.8	So in my opinion the Mando this Mando shouldn't be very small because the smaller it is , the more like the the liklier it is to get lost .	marketing expert presentation
+D	473.52	Liklier or more likely ?	marketing expert presentation
+B	475.06	More likely .	marketing expert presentation
+D	475.8	likely .	marketing expert presentation
+D	476.66	Okay .	marketing expert presentation
+D	477.76	Uh people also complain because they they they all have the same size of the buttons for buttons who w which are not very use like f uh memorising channels or or this kind of actions which are not very often but they they shouldn't they shouldn't have the same importance in the in the uh in the remote cont in the remote control .	marketing expert presentation
+D	505.98	Also the z the design should fit the hand shape .	marketing expert presentation
+D	509.65	So it may be interesting to to think in a in both prototypes , for right and left handed people .	marketing expert presentation
+B	517.25	Well th the on the thing is though , most remote controls are used by more than one person .	marketing expert presentation
+B	521.7	So unless you're kind of targeting single people you know you're gonna maybe cut out some a lot of your market .	marketing expert presentation
+D	530.24	Yeah .	marketing expert presentation
+D	534.19	I dunno I th Anyway I think it could be int interesting to to release some a a small fraction of of this remote controls .	marketing expert presentation
+C	542.9	Well maybe it could be a universal design .	marketing expert presentation
+D	545.01	Sorry ?	marketing expert presentation
+C	545.51	A universal design , which is which is good for both the hands .	marketing expert presentation
+D	549.92	Yeah .	marketing expert presentation
+B	550.31	Still shaped for yeah for your hand but not for a particular hand , right ?	marketing expert presentation
+C	550.43	Yeah ?	marketing expert presentation
+C	553.49	That's right , whether it's left hand or right hand , but but don't you think that the two points are clashing , one thing you are saying design should fit the hand shape and it should not be very small ?	marketing expert presentation
+D	554.24	Yeah .	marketing expert presentation
+D	564.08	Sorry ?	marketing expert presentation
+C	565.0	The first and the third point , they are clashing .	marketing expert presentation
+B	566.87	Well it can still be a , you can still extend past the hand .	marketing expert presentation
+D	568.74	Yeah .	marketing expert presentation
+A	569.59	Yeah .	marketing expert presentation
+C	570.21	Okay .	marketing expert presentation
+D	570.5	Like uh Yeah , like No no I was thinking of so like something yeah .	marketing expert presentation
+B	570.84	Uh .	marketing expert presentation
+C	571.25	So fitting the hand doesn't mean much then .	marketing expert presentation
+B	574.77	Well it means like , this remote here is kind of is very thin and long so instead of having you know you might have it kind of a bit bigger or , you know , with maybe some some finger molds or something .	marketing expert presentation
+C	578.84	Mm-hmm mm-hmm .	marketing expert presentation
+C	583.77	Mm-hmm mm-hmm mm-hmm .	marketing expert presentation
+C	585.41	So it means design should be similar to the traditional ones ?	marketing expert presentation
+C	588.68	Little sleek , longer ?	marketing expert presentation
+C	591.33	And it should fit the hand .	marketing expert presentation
+A	594.64	Something with the shape of the palm ?	marketing expert presentation
+C	596.36	Mm-hmm mm-hmm mm-hmm .	marketing expert presentation
+B	597.52	Some finger grips maybe .	marketing expert presentation
+D	597.53	Yeah .	marketing expert presentation
+B	598.6	You could even have some buttons like you know on the sides and everything , but Yeah .	marketing expert presentation
+A	601.7	On the sides .	marketing expert presentation
+D	601.78	Yeah yeah .	marketing expert presentation
+D	602.04	It sh it shouldn't it shouldn't be symmetric symmetrical .	marketing expert presentation
+C	605.08	Mm-hm mm-hmm mm-hmm .	marketing expert presentation
+D	605.43	Not anymore .	marketing expert presentation
+D	607.09	That's what yeah .	marketing expert presentation
+A	608.93	And then finally Yeah .	marketing expert presentation
+D	609.97	And finally , the incorporation of a L_C_D_ or a speech recognition system in the remote control could also be interesting , but I don't know if the budget would be large enough .	marketing expert presentation
+A	622.11	First I'm just wondering about the L_C_D_ stuff because uh because Yeah , so maybe it's a good time for me to uh to bring you to some new uh new informations .	marketing expert presentation
+D	624.72	But most of yeah most of the young people to thirty to thirty years old were really interested in this kind of technology .	marketing expert presentation
+A	640.82	We had the new requirements from the so uh from the head offices of the company , and so they wanted so they want to um they would like to be restricted to T_V_ .	marketing expert presentation
+B	653.6	Yeah .	marketing expert presentation
+A	654.12	Okay , I dunno if you had this information already .	marketing expert presentation
+B	656.24	No .	marketing expert presentation
+A	656.67	No , so they want us to restrict the remote control to T_V_ only because of time limitations .	marketing expert presentation
+A	663.63	Um they want also uh Excellent .	marketing expert presentation
+D	666.36	Actually this marketing report is restricted to T_V_ remote controls .	marketing expert presentation
+A	671.41	So we have also to focus more on the internet aspects because well well te teletext is outdated now and uh finally , it should be clear that the corporate image , that means colours and logos of the co our company should be clearly inde identified in the product .	marketing expert presentation
+A	693.44	So Yeah yeah .	marketing expert presentation
+B	693.53	I was still uh I was still working on this uh twenty five Euro price point because I think actually having looked at some of the remotes out there , this is quite a low uh price if if we're maybe I can get to this in my presentation though , but um yeah .	marketing expert presentation
+A	710.28	Sure sure .	marketing expert presentation
+A	710.75	So maybe we can jump to your presentations , right now .	marketing expert presentation
+B	713.05	Yep .	marketing expert presentation
+B	713.51	Okay .	marketing expert presentation
+A	714.01	Okay so let's keep in mind about tha that that this last point about L_C_D_ and speech uh reco Sorry , what is your ?	marketing expert presentation
+B	718.83	Yeah .	marketing expert presentation
+B	719.34	I think even even if it was within budget do a speech reco rec system it might be a bit difficult because if you think if you're watching T_V_ you're gonna have a lot of this uh background noise from the T_V_ which might interfere with the Uh participant three .	marketing expert presentation
+B	734.76	You might have some background noise from the T_V_ which will make the speech recognition much uh harder , so .	marketing expert presentation
+D	738.61	Yeah but you should be able to activate or disactivate , so yeah yeah .	marketing expert presentation
+B	743.63	Oh you press a press a button to talk , and the the T_V_ the T_V_ sound turns off .	marketing expert presentation
+D	745.54	Yeah uh channel fifty .	marketing expert presentation
+D	748.31	Yeah .	marketing expert presentation
+C	748.48	No it could be command control kind of thing .	marketing expert presentation
+C	750.92	It requir recognises particular sequence and then it gets activated .	marketing expert presentation
+C	756.32	Means you say you should say like does that , remote control being on or be on kind of thing , and then remote control comes in the picture for the speech recognition .	marketing expert presentation
+B	766.58	Yeah .	industrial designer presentation
+C	766.83	Because this kind of thing means speech is there from the T_V_ also .	marketing expert presentation
+B	770.85	Yeah .	industrial designer presentation
+C	770.89	So there should be something command controlled , you start and then you stop .	marketing expert presentation
+B	773.82	Mm .	industrial designer presentation
+B	775.31	Yeah .	industrial designer presentation
+C	775.64	It's like V_I_ editor , you are having two modes similarly .	marketing expert presentation
+C	778.81	Otherwise it's just lying idle .	marketing expert presentation
+A	780.79	Okay Michael .	industrial designer presentation
+B	781.92	Okay , so , could I describe the mouse maybe be easier to could I use the mouse , or Mm .	industrial designer presentation
+A	784.52	Sorry ?	industrial designer presentation
+A	786.6	Um yeah .	industrial designer presentation
+B	788.81	Thanks .	industrial designer presentation
+B	791.21	Okay .	industrial designer presentation
+A	793.85	The wheel doesn't work .	industrial designer presentation
+B	795.54	Great .	industrial designer presentation
+B	797.61	Okay so um while uh researching this this topic I first of all just thought of a couple of things that I would like to see in a remote , and just uh looked to see if they're actually available in any current remotes , and then also searched for which are the top-rated uh remote controls on Epinions dot com , which is a a you know a a customer um written basically review site .	industrial designer presentation
+B	822.94	So um there's a pretty wide range of uh remote controls these days and and uh this remote control on the right here is is one of the more extravagant , but it's not really it's by no means uh mm you know on it's own in being so expensive .	industrial designer presentation
+B	840.47	There are a lot of expensive remote controls out there .	industrial designer presentation
+A	842.54	Looks like a P_D_A_ ?	industrial designer presentation
+B	843.21	So yeah it doe it's well basically all the functions uh are controlled through through the L_C_D_ screen except for the really really kind of main functions , which have a couple of of their own buttons .	industrial designer presentation
+B	855.88	Um and if you look at a lot of the universal remotes out um on the market , I know we're working on television remote , but a lot of the universal remotes out there have uh have these L_C_D_ screens which kind of helps when you're using multiple uh devices I suppose because you can have multiple kind of functions d different functions on the screen at different times .	industrial designer presentation
+B	878.56	But um the thing that I find most interesting about this remote control , and it's kind of difficult to uh to see in the slide , but it has a scroll wheel on it , which is kind of like uh a mouse scroll wheel , which I think is it's a really kind of important design aspect um is it's 'Cause the thing is what a what we the presen this presentation we had is what we want the remote control to actually do .	industrial designer presentation
+B	900.76	And obviously the the simplest thing that a remote control does is it just change the change the channel .	industrial designer presentation
+C	905.45	Change the channels .	industrial designer presentation
+C	906.7	Yeah .	industrial designer presentation
+B	907.13	Now um uh the I think that a scroll wheel is actually pretty a pretty handy way of of changing the channel .	industrial designer presentation
+B	915.66	'Cause I know when I um when I use the remote to change the channel I very rarely use the numbers on the on the pad .	industrial designer presentation
+C	922.2	Mmm-hmm mm-hmm .	industrial designer presentation
+B	922.5	I usually use the up and down because most channels are you know two digit numbers and you have to press you know a special button to enter a two-digit number , and then two numbers , so that's just uh it's annoying .	industrial designer presentation
+C	923.81	Yeah yeah .	industrial designer presentation
+B	933.23	So I think a scroll wheel is is quite handy .	industrial designer presentation
+B	935.67	Now um the the scroll wheel is is much more useful if you have an L_C_D_ screen , and this brings us to the the point you were mentioning before about the internet uh capability .	industrial designer presentation
+A	948.77	Mm-hmm .	industrial designer presentation
+B	949.78	One possibility , if we now we need to still talk about the price point because obviously a lot of this stuff can't be done for twenty five Eu uh Euro , but one possibility is to download program information into the L_C_D_ screen so that instead of actually saying I want to I want to go to channel thirty seven because I know this programme's on , you know , often you don't know what ch what channel it's on , or you don't know what's on .	industrial designer presentation
+B	973.37	If you have a list of of programs on your L_C_D_ screen you just scroll to that program rather than to a channel .	industrial designer presentation
+B	979.65	So if you think about it's kind of like a you know in mobile phones now you don't use you don't remember people's phone number , you remember their name and you go find that name and ring it .	industrial designer presentation
+B	988.24	So this would be pretty kind of a handy thing to have , but um we we really need t to discuss the price .	industrial designer presentation
+B	994.2	So , I mean there are there are uh cheaper this is another multi kinda purpose remote control where it's it's it's very simple , there's only a few buttons , but al each of those buttons does something different in a different context .	industrial designer presentation
+B	1008.95	So this is something else we might wanna consider , is really kind of limiting the number of buttons , because this is the top rating uh universal remote control on on Epinions .	industrial designer presentation
+B	1017.8	It it's really uh maybe worth thinking about limiting the number of buttons as much as as possible um because really I think people want to be able to find the button they're looking for without even looking at the remote control .	industrial designer presentation
+B	1030.16	And was saying before about having different size buttons for different you know frequently used uh tasks , but I think also you know the location and and shape of the buttons is important , but also the number of buttons .	industrial designer presentation
+B	1042.02	So if you have too many buttons it it it increases the the difficulty of finding the one you want .	industrial designer presentation
+C	1047.19	But there is one problem then the user has to understand each of that functionality .	industrial designer presentation
+B	1047.86	So Yeah well we w Yeah well we will have a bit of a simpler uh task in that we're only doing uh a television remote control .	industrial designer presentation
+A	1052.43	Mm-hmm .	industrial designer presentation
+C	1053.4	Because the same button is doing too many things .	industrial designer presentation
+B	1062.75	Um I think maybe one option is to have you know a little flip-open um door that uh that you have hidden most of the time , but contains the extra buttons like , say , the number buttons for instance .	industrial designer presentation
+C	1073.61	Mm-hmm .	industrial designer presentation
+B	1074.15	Um I I would if I had my perfect remote control , I'd probably just have no numbers at all on it because they're just in the way .	industrial designer presentation
+C	1081.03	Mm-hmm .	industrial designer presentation
+B	1082.92	They don't really do anything .	industrial designer presentation
+B	1084.51	Maybe you know I although I do also find flip-open doors a bit of a pain because sometimes they can break off or or whatever , but maybe a door that you can you can permanantly remove or permanantly have on would be good .	industrial designer presentation
+C	1094.6	Mm-hmm .	industrial designer presentation
+B	1096.72	Um but I think definitely you need to to keep the buttons down to a minimum , but not not let that kind of interfere with the functionality of of the device .	industrial designer presentation
+B	1107.76	Um Well I guess that depends on how you market it .	industrial designer presentation
+D	1107.97	H I think I think that the tr the transition to this to this new remote control shouldn't be very very abrupt very hard because w if people see a remo see the see a remote control without numbers mm they will think it's very difficult to learn very difficult to very different build very different to the traditional If y I'm sure if you can sell a a speech recognition remote control for twenty five Euros everyo everyone will s will buy it .	industrial designer presentation interface specialist presentation
+C	1127.2	It does sampling out of the .	industrial designer presentation
+B	1131.86	If you if you have the right advertisement showing how how how easy it is and how you can , you know , navigate to a program without the numbers , then people might say that looks pretty easy .	industrial designer presentation
+A	1142.91	Okay , can you continue , please Mi ?	industrial designer presentation
+B	1143.14	So , but yep .	industrial designer presentation
+B	1145.03	Um okay , so , I think um one of the really kind of useful things you can do with with internet connectivity would be to have this a programme driven interface rather than the channel number .	industrial designer presentation
+B	1156.12	So if we can have a higher priced uh remote control I think that would really be worth uh something that would be worth implementing .	industrial designer presentation
+B	1163.49	Um mm there's the L_C_D_ screen , um which maybe maybe is too expensive , um but I think also at the scroll wheel , I haven't mentioned it here , the scroll wheel could be used without an L_C_D_ screen , just for changing channel numbers easily .	industrial designer presentation
+B	1177.67	I think even that , I mean , that would be a fairly cheap thing , compared to an L_C_D_ screen , to implement , um but I think that would be quite useful as well .	industrial designer presentation
+A	1180.98	Mm-hmm .	industrial designer presentation
+B	1184.62	And the other thing , you say we need to we need to keep it just television , but I think one maybe one option , since this is supposed to be a kind of a fashionable device , is you know there's a certain kind of cool or wow factor that you can kind of you can have with technology , and maybe we wanna make it something that's extensible to do other tasks .	industrial designer presentation
+B	1204.7	Say you have like um a little another little kind of base unit that can also receive signals as well as the television where you can , say uh , change the lighting in the room .	industrial designer presentation
+B	1216.1	You know that would be something maybe you could sell as an extra , so that it doesn't have to be part of the initial development , but , you know , later on you could you can you know you also , selling the potential of the device .	industrial designer presentation
+B	1226.86	Then you say potentially you can then do other cool stuff like change the lights , I dunno , close the windows , whatever , turn the heating on , and um , I think that's something we may need to have as as at least as an optional extra to to kinda make our product cool , since we say we're putting the fashion in electronics .	industrial designer presentation
+A	1241.81	Okay .	interface specialist presentation
+A	1244.48	Okay .	interface specialist presentation
+A	1245.58	Okay , thanks .	interface specialist presentation
+C	1247.47	Yep .	interface specialist presentation
+A	1248.11	you want to go ?	interface specialist presentation
+C	1248.15	So yeah .	interface specialist presentation
+C	1255.24	So most of the things which we are discussing about is speech recognition uh , that means on my own I yeah , it should be .	interface specialist presentation
+A	1260.17	This one ?	interface specialist presentation
+A	1264.76	Great .	interface specialist presentation
+A	1265.49	No , not that one .	interface specialist presentation
+A	1268.65	you are two .	interface specialist presentation
+C	1269.34	Two .	interface specialist presentation
+A	1272.63	Alright .	interface specialist presentation
+C	1273.97	Okay so the working design is uh user i interface could be of two types , one is the usual press buttons which are there so that the user feels that he is knoing doing some he is knowing about that technology .	interface specialist presentation
+C	1287.65	So he is pretty comfortable if he wants to get this , and on top of that there there could be a speech recognition technology also being sitting on the on the remote .	interface specialist presentation
+C	1297.58	So the old kind of users who don't want to have any changes , it can it can be useful for them , and the new users , as uh our Marketing Expert was saying , they can use the new gizmo which is speech recognition kind of thing .	interface specialist presentation
+A	1312.9	Okay , sorry to interrupt you , but we have seen before that there is a new way of interacting that use wheel .	interface specialist presentation
+C	1319.15	That's right .	interface specialist presentation
+C	1319.81	So anyway , that didn't come into my mind , so th that is a possibility .	interface specialist presentation
+A	1322.68	Okay .	interface specialist presentation
+C	1324.47	These could be other kind of interfaces .	interface specialist presentation
+C	1327.06	Means we can have , depending on the cost , how much we can afford , we can have different kind of interfaces .	interface specialist presentation
+C	1333.25	So spe buttons are something which is very everybody is familiar with .	interface specialist presentation
+C	1336.86	So if you go to the market and you say that buttons are there the people know what it is , and on top of that if we are having extra functionality people are willing to shell that twenty-five Euros money which we are thinking .	interface specialist presentation
+A	1341.44	Mm-hmm .	interface specialist presentation
+C	1348.71	Otherwise we are just like others in the market .	interface specialist presentation
+C	1351.68	So anyway that is the first , user interface could be of more than one type , and uh yeah that means we can do the on-line changes which which cannot be done now actually .	interface specialist presentation
+C	1361.22	So apart from the speech , we can have the scroll kind of thing with the buttons .	interface specialist presentation
+C	1365.68	Now for buttons , normal requirements like bit coding and all those things are required .	interface specialist presentation
+C	1370.12	And for voice , limited vocabulary automatic speech recognition system is required and we require a microphone also to be sitting there on the remote .	interface specialist presentation
+A	1379.4	Yeah .	interface specialist presentation
+A	1379.83	That increases the the cost also .	interface specialist presentation
+C	1382.05	Uh that's right .	interface specialist presentation
+C	1382.95	But uh means we have to see how much what kind of microphones and stuff like that .	interface specialist presentation
+A	1389.48	Do you think that performance of such systems are enough to to target well of such technologies is enough ?	interface specialist presentation
+C	1397.32	Uh yes , if it is limited vocabulary usually it's enough .	interface specialist presentation
+A	1401.04	Okay .	interface specialist presentation
+C	1401.64	Yeah we we can uh target , means we can target ninety five percent accuracy or somewhere ninety seven perc That's right .	interface specialist presentation
+A	1407.09	Well wh uh I imagine also that the microphone will be an ambiance um a um an ambience microphones because you are not going to speak into into th into the remote control .	interface specialist presentation
+B	1408.81	Hmm .	interface specialist presentation
+C	1415.06	No it it could be little d yeah it could be That's right .	interface specialist presentation
+A	1416.98	So it could be s a few centimetres .	interface specialist presentation
+B	1419.47	Well one one other thing that that speech recognition could really blow out the price for is uh when you want to sell into other markets , though , because , I'm not sure exactly where we're gonna sell this , but I presume it's not gonna just be English speaking countries .	interface specialist presentation
+C	1419.55	That's right .	interface specialist presentation
+A	1432.17	Yeah .	interface specialist presentation
+B	1432.43	So then you have to s you know , you have to train models for Yeah .	interface specialist presentation
+C	1432.55	Mm-hmm mm-hmm .	interface specialist presentation
+C	1435.5	Uh it's more like , means there are different speech technologies which are existing so D_T_W_ could be kind of which is the easiest .	interface specialist presentation
+C	1442.63	So you have to store some templates on the on the on the chip itself , and it's just dynamic time warping where you try to find out what it is , instead of having a model which has to be trained and being a micro-controller .	interface specialist presentation
+A	1454.06	Okay .	interface specialist presentation
+A	1456.78	Okay we shou we should discuss this la later after after after this this uh slide .	interface specialist presentation
+C	1458.24	Yeah , that's right .	interface specialist presentation
+C	1460.55	Yeah .	interface specialist presentation
+C	1461.46	So we can That's right .	interface specialist presentation
+A	1461.74	This is a this is a this is a a very important uh issue in discussion .	interface specialist presentation
+C	1465.79	Yep .	interface specialist presentation
+A	1466.55	Okay , next .	interface specialist presentation
+C	1467.61	Yep .	interface specialist presentation
+A	1468.07	Uh that finished ?	interface specialist presentation
+C	1470.17	No no .	interface specialist presentation
+C	1470.6	Components .	interface specialist presentation
+A	1470.61	No ?	interface specialist presentation
+A	1471.61	Components ?	interface specialist presentation
+C	1472.19	Yeah .	interface specialist presentation
+C	1473.88	So , will you go to the next slide ?	interface specialist presentation
+A	1476.75	Yes sure .	interface specialist presentation
+C	1477.31	Yeah so this is the design which we are thinking so .	interface specialist presentation
+C	1481.33	We are having a power button and the switch , which is not much , and then we are having the which is to indicate whether the power is on or not .	interface specialist presentation
+C	1491.07	And then there are two kind of things which can be so one is the button interface which has not been shown because because of lack of time .	interface specialist presentation
+C	1499.36	So we could not put that .	interface specialist presentation
+C	1500.39	So now where the A_S_R_ decoder is sitting , similarly there are different kind of interfaces which could be there .	interface specialist presentation
+C	1506.31	So there is A_S_R_ decoder which could be there , and then there could be another scroll button scroll scroller , and then there could be buttons , and all of them they will just do the decoding and put it in the math put it in the proper message format .	interface specialist presentation
+C	1518.93	And then there is there is the chip which is sitting , the green one , and it converts it into bit codes , and that bit codes are sent by the infrared device to the receiver .	interface specialist presentation
+A	1528.55	Okay .	interface specialist presentation
+C	1529.83	So this is the easiest design the there could be .	interface specialist presentation
+C	1531.94	So th an A_S_R_ decoder we can have things in .	interface specialist presentation
+C	1535.96	To have different technologies .	interface specialist presentation
+C	1538.12	So this was the my personal preference was that we can have A_S_R_ sitting there on the remote control .	interface specialist presentation
+B	1544.98	You know I guess you could actually train the remote control as you're using it by saying you know turn volume up , and you press the uh press the button like uh s people teach sign language to kids f well , by speaking and doing Yeah .	interface specialist presentation
+C	1544.99	Yeah .	interface specialist presentation
+C	1556.28	Yeah but uh as soon as you try to put the microchip kind of thing or something the price will go up .	interface specialist presentation
+C	1562.3	So these are the slight problems .	interface specialist presentation
+A	1562.58	Okay .	interface specialist presentation
+A	1564.84	So your your opinion is that we should go for special condition technologies ?	interface specialist presentation
+C	1569.15	Because yeah the reason is that if we go into the market means though I don't have much idea , but as he the uh Marketing Expert presentation was So if we go with just the Mm-hmm .	interface specialist presentation
+B	1587.0	Actually I'm not so sure because I'm the you know if I was using a remote control to , say , turn the volume up because I can't hear it very well , I don't really want to you know drown out what people are saying by talking you know when I'm when I'm instead of pressing up on on a remote control .	interface specialist presentation
+D	1588.69	I'm sure .	interface specialist presentation
+B	1602.93	You know if there's some there's some dialogue all of a sudden that I can't hear , I'm trying to actually find out what's being said , so maybe speech recognition gets in the way more than it helps .	interface specialist presentation
+A	1606.29	Yeah .	interface specialist presentation
+A	1610.87	Okay so Okay gentlemens , we have to take some deci decisions right now .	closing interface specialist presentation
+D	1611.58	Yeah but you know the the average frequency of pushing buttons , it's about it's about eighty eighty eighty pushes per hour , or something like that .	interface specialist presentation
+B	1618.79	Well it depends if it's a remote control th Maybe if the remote control is something that y you don't actually have to pick up anymore , that would be a a useful feature of the speech recogntion .	interface specialist presentation
+B	1630.97	If you can leave it sitting on the table and you don't actually have to find it , then that could be .	interface specialist presentation
+C	1632.23	Mm-hmm .	interface specialist presentation
+C	1633.27	Mm-hmm .	interface specialist presentation
+C	1634.14	Mm-hmm .	interface specialist presentation
+C	1634.71	Mm-hmm .	interface specialist presentation
+C	1635.16	Mm-hmm .	interface specialist presentation
+C	1640.5	Alright .	closing
+A	1641.44	Um so if I if I kind of summarise everything we've de we we said .	closing
+A	1648.67	We are targeting T_V_ .	closing
+A	1651.0	We need we need to have um um remote control which is fanc fancy , which is uh which is easy to to hand not too small , not too big .	closing
+A	1663.01	Um we have or good shape , yes .	closing
+D	1665.25	With a good shape for the Yeah .	closing costing
+A	1667.89	We should bring new technologies for young peoples , and uh as we have uh also requirements to to use uh to to push thr toward the internet .	closing
+A	1678.05	Maybe this is something we can stick to it .	closing
+A	1680.25	And um also , a very interesting things I I I've seen on on on the one of the comp o our competitor is this wheel that we can use to navigate .	closing
+A	1690.25	So so my feeling is that re regarding costs budget we have an an an target price , it's not possible to go s to go to L_C_D_ and also to go to automatic speech recognition technologies .	closing
+A	1707.66	Uh first m m why not to go to L_C_D_ .	closing
+A	1710.3	Because um in fact as we are targeting uh T_V_ in fact we can use T_V_ screen as a screen to feedback to to give some feedback informations about what we could have .	closing
+B	1722.39	Well it depends though well it depends .	components, materials and energy sources
+B	1724.29	If we we don't unless we have some input some video input to the T_V_ or we have control over the T_V_ then we can't actually display that .	components, materials and energy sources
+B	1732.28	Like if we if we produce the T_V_s then then yeah we can put you know menus up up there , but otherwise we need to actually have some kind of something sitting in between the video signal and the and the T_V_ to superimpose those those menus .	components, materials and energy sources
+B	1744.79	So that's an extra cost .	components, materials and energy sources
+A	1746.54	Yeah that's right .	components, materials and energy sources
+A	1747.22	Don don't you ha don't we have contacts with uh people on T_V_ or or well systems that exist that we can use ?	components, materials and energy sources
+B	1753.3	Well this is this is another que we still haven't really defined the remote .	components, materials and energy sources
+B	1757.49	Are we still you say we're focusing on T_V_ , but is it still a kind of like a universal remote in that it's a replacement remote control , or is this something for our own line of of televisions ?	components, materials and energy sources
+A	1765.53	Yeah .	components, materials and energy sources
+B	1768.96	'Cause that really makes a big difference .	components, materials and energy sources
+B	1771.46	'Cause even if we have contacts we can't really produce a remote control that can bring up menus on other other companies' T_V_s .	components, materials and energy sources
+B	1779.36	It's just there are too many T_V_s out there .	components, materials and energy sources
+A	1781.6	Yeah .	costing
+B	1781.6	It's it's not really gonna For twenty five Euro ?	costing components, materials and energy sources
+A	1782.26	That's good point .	costing
+A	1783.23	What's what cou what could be the cost of uh well , could we fit the the targets uh in terms of cost uh if we go s to L_C_D_ on the remote control ?	costing
+A	1798.72	Yeah .	costing
+C	1799.93	It's not possible .	costing
+B	1799.95	I think it's impossible .	costing
+C	1801.03	It's impossible .	costing
+B	1801.22	But but I dunno , I think um it would be good to know if there is any leverage in that any leeway in that um that twenty five Euro because for twenty five Euro I think all we can really do is provide a very basic remote control , and that seems to be kind of against the philosophy of our company which is you know putting the fashion into electronics .	costing
+B	1821.81	So I would I would like to know if there's any chance of of increasing the uh of increasing the unit price .	costing
+D	1825.96	Uh What would be Wha but what would be one question , what would be the goal of putting an L_C_D_ in a remote control ?	costing components, materials and energy sources
+A	1830.01	So you mean yo you mean we we should target something maybe which is which would be more expensive but re really fancy in terms to um in terms to had to have really an added value ?	costing
+B	1835.17	Yeah .	components, materials and energy sources
+B	1836.98	Yeah .	components, materials and energy sources
+B	1840.6	Yeah because yeah .	components, materials and energy sources
+A	1841.1	Okay , so regarding the automatic speech recognition , I think this is They have tele teletext .	costing components, materials and energy sources
+B	1851.35	Well th 'Cause you can have things like the programme name instead of the channel numbers , like an interactive programme guide .	components, materials and energy sources
+D	1851.37	What what kind of information ?	components, materials and energy sources
+D	1857.5	Yeah but mo most of the T_V_s nowadays show the show the the n Yeah but yeah most of the T_V_s have teletext nowadays .	components, materials and energy sources
+A	1863.82	Well , because they have teletext on it .	components, materials and energy sources
+A	1865.37	Th th you have a teletext sin signal that you can that you can uh that you can get thr through the channel .	components, materials and energy sources
+A	1876.04	They have t most of them have teletext , but we want to get rid well one of our requirements is to uh to move to teletext to uh to the use of internet .	components, materials and energy sources
+D	1877.43	Yeah .	components, materials and energy sources
+A	1886.52	So to to uh to browse more easily the teletext .	components, materials and energy sources
+B	1888.85	You can get a lot more information on it .	components, materials and energy sources
+A	1892.96	For instance through uh through your remote control .	components, materials and energy sources
+D	1897.38	So what would what would appear in the in the L_C_D_ ?	components, materials and energy sources
+B	1902.29	So you could have the name of the programme , you could have um the start time you know where it's up to .	components, materials and energy sources
+A	1905.0	The ti the start time , all the p all the programmes you could have uh o Well I don't know if this information is available from teletext , also .	components, materials and energy sources
+B	1908.88	You could have a l even a little image of you know the c you know the the m the main actors or something so you can quickly just kind of even without reading Well no , but there are the electronic programme guides out there .	components, materials and energy sources
+D	1912.84	Okay .	components, materials and energy sources
+C	1924.14	Are But just a small thing , what kind of market we are targeting ?	components, materials and energy sources
+B	1924.47	They may not have pictures , but maybe they do .	components, materials and energy sources
+B	1926.53	There's dependi it also depends on the country .	components, materials and energy sources
+A	1927.35	Well because for the same reason that we cannot uh informations on the T_V_ .	components, materials and energy sources
+A	1935.1	We c we couldn't grab information information which is not there .	components, materials and energy sources
+B	1939.62	No but I mean with the internet you have flexibility of where you get your information from .	components, materials and energy sources
+B	1943.03	So it may be possible that there are people out there providing that .	components, materials and energy sources
+A	1945.04	So so that mean w w we need an in an extra internet connection to use the remote control , if you want to browse , in addition to the T_V_ , or uh or it should be a special T_V_ connected to Okay .	components, materials and energy sources
+D	1946.25	But Yeah .	components, materials and energy sources
+B	1946.52	Uh .	components, materials and energy sources
+B	1955.14	Well I I think if we're gonna I think we would definitely need the internet connection because even with y I don't think you could even get teletext information from the T_V_ onto the remote control , especially if we don't control the T_V_ .	components, materials and energy sources
+B	1966.38	I dunno .	components, materials and energy sources
+B	1966.74	We need to find that out .	components, materials and energy sources
+A	1968.54	We need to close the meeting .	components, materials and energy sources
+A	1970.16	Um so Very quickly .	components, materials and energy sources
+C	1975.36	Is it that we are targeting the replacement remote market , or what ?	components, materials and energy sources
+C	1979.57	So the remote has gone bad and the person wants to buy a new remote or because the cost of L_C_D_ thing could be as high as the T_V_ itself .	components, materials and energy sources
+C	1987.05	That is very important .	components, materials and energy sources
+A	1987.35	No .	components, materials and energy sources
+B	1987.81	Mm .	components, materials and energy sources
+B	1989.22	If it's a really small T_V_ maybe .	components, materials and energy sources
+A	1989.32	Yeah , well people go to buy another remote control when they broke n broke their , and they want to go t for universal one , and they take the fanciest they can have .	components, materials and energy sources
+C	1994.62	Broke .	components, materials and energy sources
+C	1995.16	Okay .	components, materials and energy sources
+C	1995.62	Okay .	components, materials and energy sources
+C	1997.91	Okay .	components, materials and energy sources
+C	1998.69	Okay .	components, materials and energy sources
+C	2000.19	Okay .	components, materials and energy sources
+C	2000.75	Okay .	components, materials and energy sources
+A	2001.09	So this is that we z that that we should target .	components, materials and energy sources
+A	2004.22	So the com the um the uh the committment is the following , we don't go for speech recognition technology .	components, materials and energy sources
+C	2012.64	Mm-hmm .	components, materials and energy sources
+A	2012.91	The L_C_D_ is still on disc is still open to discussion .	components, materials and energy sources
+A	2017.93	It is up to you to go through this um uh this way and to to report report me back next meeting .	components, materials and energy sources
+A	2026.71	So Yeah , but not sure .	costing components, materials and energy sources
+D	2027.92	I think that the speech recognition technology would be cheaper the than the L_C_D_ .	costing
+C	2030.26	It's it's cheaper as compared to the L_C_D_ .	costing
+A	2034.98	Maybe it's cheaper , but we have no Okay this is this is an open question for you .	costing
+D	2037.08	Because with the L_C_D_ you need more requirements .	costing
+D	2039.23	You need a internet connection .	costing
+D	2041.0	You need m more things .	costing
+D	2042.98	But for the speech recognition you you don't need anything .	costing
+B	2044.76	Well the thing is I think I think the type of peop I think the type of people that are gonna want to buy a very stylish rem r remote control with lots of new technologies are the kinda people that are gonna have you know a wireless internet connection maybe , or a you know .	costing
+D	2046.41	You just say channel fifty , and that's it .	costing
+D	2058.92	But then we should move to another target b because at twenty five Dollars , it's To move to another target ?	discussion costing
+C	2061.86	Means th yeah twenty five Euros is yeah , that's right .	costing
+B	2063.14	Well this is what we need to find out .	costing
+B	2064.46	Can we can we increase the the price point of this remote control ?	costing
+B	2068.15	'Cause otherwise we need It's kind of hard to guarantee that you're gonna Ninety five percent is not good enough though .	discussion costing
+A	2072.88	Yeah .	discussion
+A	2073.67	This is uh up to you to tell us .	discussion
+A	2076.15	But I'm definitely not keen on to to no no no , I'm no I'm definit definitely not keen on going to speech recognition technologies .	discussion
+A	2086.53	I'm not confident enough .	discussion
+A	2088.2	I'm not sure that that we'll have a product really that work .	discussion
+A	2092.1	I uh that work It's real yeah .	discussion
+A	2095.65	How to guarantee such performances is really hard .	discussion
+D	2100.65	the expert uh said ninety five percent .	discussion
+A	2104.1	Well this is still is is very bad .	closing
+A	2107.57	So , this is the end of this discussion .	closing
+A	2109.92	Next meeting uh here are the task you have to work on .	closing
+A	2114.32	Um so you have to work on the component uh concept .	closing
+C	2119.63	Okay .	closing
+A	2120.47	Uh you have to work on user interface , and you have to go through a trend watching .	closing
+A	2126.95	Okay .	closing
+A	2128.49	So the question is still open about the L_C_D_ thing .	closing
+A	2134.24	Um uh we I hope that next meeting we will uh we'll take some um decision that direction .	closing
+A	2140.86	Thanks .	closing
+B	2141.87	Yep .	closing
+A	2142.06	Bye .	closing

@@ -1,0 +1,391 @@
+A	0	.	NO_TOPIC
+B	30.61	I'm sorry to be late .	opening
+A	30.73	Welcome back .	opening
+A	32.96	Welcome back everybody .	opening
+C	36.86	Yeah .	opening
+C	38.19	Thanks .	opening
+A	41.51	So this meeting agenda will be the detailed design meeting .	opening
+A	48.0	And uh opening and uh P_M_s of the meet minutes , uh prototype presentation from uh Christine and uh Agnes .	opening
+B	60.46	Agnes , yes .	opening
+A	61.56	Yes and uh evaluation criteria .	opening
+A	65.09	The finance , it's uh from my side , from the management , and uh production evaluation .	opening
+A	71.55	Then uh closing .	opening
+A	72.88	So we have forty minutes to discuss and uh finalise and close the product and project and to move further , okay , so Okay , let's talk about uh maybe first uh for the prototype .	opening presentation of prototype(s)
+C	95.81	Mm , okay .	presentation of prototype(s)
+A	96.69	So I handle to So shall I go to sorry .	presentation of prototype(s)
+C	99.25	I've done a presentation , but it pretty much covers work that we've both done , so if I'm missing anything , Christine can just correct me .	presentation of prototype(s)
+B	105.78	Uh thank you , so you did a PowerPoint presentation , good for you .	presentation of prototype(s)
+A	107.43	Yep .	presentation of prototype(s)
+A	108.15	S Okay , let's go to A_M_I_ .	presentation of prototype(s)
+C	113.89	It's not the biggest PowerPoint presentation in the world , but Three .	presentation of prototype(s)
+A	118.53	So in two or three or Yeah .	presentation of prototype(s)
+C	126.15	Um .	presentation of prototype(s)
+C	128.67	No it's think it's the last one .	presentation of prototype(s)
+D	128.69	Probably .	presentation of prototype(s)
+D	130.71	Technical pa I would think .	presentation of prototype(s)
+C	132.7	No , then this is the la yeah , that one , final design .	presentation of prototype(s)
+D	134.7	Ha .	presentation of prototype(s)
+C	137.04	It is named appropriately , you just couldn't see the name .	presentation of prototype(s)
+C	141.23	Um okay , can I have the mouse ?	presentation of prototype(s)
+A	142.79	Yes .	presentation of prototype(s)
+C	145.22	Thanks .	presentation of prototype(s)
+C	147.84	Alright , so from when we were discussing specifying the case in the last meeting , we decided that we wanted an ergonomic shape , the material that we chose was wood , and uh the colour would be customisable , 'cause you can stain the wood whatever colour .	presentation of prototype(s)
+C	165.9	Um , so in terms of function , you have to be able to turn the T_V_ on and off , volume and channel control , menu control , voice recognition control , and we've incorporated the L_C_D_ screen on the flip panel as part of the design , if we figure out it's too expensive , well then you just take it off .	presentation of prototype(s)
+C	182.51	Um , so to unveil our lovely product .	presentation of prototype(s)
+C	190.07	This is our remote control , with the flip panel as you can see .	presentation of prototype(s)
+C	195.54	So if you lift up the panel , you can see the lovely yellow L_C_D_ display .	presentation of prototype(s)
+C	201.35	Um , this is actually hard to do .	presentation of prototype(s)
+C	203.88	The yellow button you have is the on off button , so it's really big , hard to miss .	presentation of prototype(s)
+C	208.39	You have the the red um triangles are the toggles for changing the volume .	presentation of prototype(s)
+C	215.12	So up volume up , down volume down .	presentation of prototype(s)
+C	218.3	The green are the channel changing .	presentation of prototype(s)
+C	221.06	S And it's one of those very light , very touchable displays .	presentation of prototype(s)
+C	224.43	And then you have the numeric pad in the dark blue at the bottom , and on the right-hand side you have the access to the menu on the T_V_ , and on the left-hand side you have the the the ability to turn off the voice recognition .	presentation of prototype(s)
+C	242.41	So this is pretty much what we had on the white board the last time .	presentation of prototype(s)
+A	247.02	Mm-hmm .	presentation of prototype(s)
+C	249.77	So .	presentation of prototype(s)
+B	250.42	Um and uh I could Yeah the d We haven't um uh specified where the speaker or the microphone will be placed .	presentation of prototype(s)
+C	251.8	Oh yes .	presentation of prototype(s)
+C	253.29	Additional feature on the back is that you can have your own customised backing and I suppose you could do the same thing on the flip case on the front .	presentation of prototype(s)
+C	261.85	So that you can really make this a highly highly customisable remote control .	presentation of prototype(s)
+B	273.04	That depends on the uh s design of the circuit board inside and uh what room is left um Yes , okay .	presentation of prototype(s)
+C	279.99	Yeah .	presentation of prototype(s)
+A	281.35	I think the microphone is on on the top , uh on the middle , the under the flip .	presentation of prototype(s)
+B	286.72	Uh-huh .	presentation of prototype(s)
+A	288.04	So that will be the safe , so p any the chip it's not on the chip because you need to have microphone to Yes .	presentation of prototype(s)
+B	294.87	No , I mean it depends on the design of the circuit board .	presentation of prototype(s)
+C	298.02	But it shouldn't be under the flip either , because you can have the remote control closed , but you still might want to activate it by voice .	presentation of prototype(s)
+A	304.11	Uh it's it's Yeah , but uh uh my opinion I think it's better under the flip because whenever you want to uh the talk , okay , so then you can speak then you can close it .	presentation of prototype(s)
+A	315.61	But if you put it on the on the flip , okay , then uh technical I don't think it's uh feasible , 'cause most of the time you speak then it will be recognised .	presentation of prototype(s)
+C	324.72	But if you've already got the remote control in your hand you need to open the flip to use the voice , why use the voice , why not just use your hand ?	presentation of prototype(s)
+C	331.32	I mean the whole point of the voice is that if the remote control is sitting there and I'm too lazy to reach over and pick it up , I can just use my voice .	presentation of prototype(s)
+B	338.28	Maybe I've got my hand in the popcorn bowl and I'm holding my cup of Coca-Cola in the other hand .	presentation of prototype(s)
+C	344.6	Yeah .	presentation of prototype(s)
+C	344.71	And you don't wanna let go of either one .	presentation of prototype(s)
+D	345.49	I don't wanna say .	presentation of prototype(s)
+D	347.02	Louder .	presentation of prototype(s)
+D	349.9	Yeah .	presentation of prototype(s)
+C	350.13	I mean it doesn't have to be on the flip , it can be on the side somewhere .	presentation of prototype(s)
+D	352.21	Can also be on the side .	presentation of prototype(s)
+A	352.87	Yeah , the sides maybe is good .	presentation of prototype(s)
+C	353.49	Yeah .	presentation of prototype(s)
+A	354.25	So That's good idea .	presentation of prototype(s)
+B	354.97	Mm-hmm .	presentation of prototype(s)
+C	355.22	So , I mean I can pass this around if anyone wants to Yeah .	presentation of prototype(s)
+A	357.08	Yes .	presentation of prototype(s)
+A	357.78	So it's maybe good idea .	presentation of prototype(s)
+B	359.32	Yeah , y better you pass it around with a napkin .	presentation of prototype(s)
+D	364.85	No , because y you can easily put a microphone on the side that would have no problem would haven't been not be damaged or anything , and it'd be accessible all the time to voice .	presentation of prototype(s)
+A	367.78	Yes .	presentation of prototype(s)
+A	370.33	Yeah .	presentation of prototype(s)
+C	372.45	Yeah , exactly .	presentation of prototype(s)
+D	375.9	Yeah .	presentation of prototype(s)
+A	376.54	So it's maybe good idea .	presentation of prototype(s)
+A	377.58	S s Okay .	presentation of prototype(s)
+B	378.42	It's um It's um You need to work on the weight a little bit .	presentation of prototype(s)
+D	379.99	Compliments to the artist .	presentation of prototype(s)
+C	385.74	Yes .	presentation of prototype(s)
+D	385.82	Uh .	presentation of prototype(s)
+A	387.13	S I'm fine , I'm satisfi I'm satisfied .	presentation of prototype(s)
+C	388.22	And maybe the shape of the buttons , the little egg shapes aren't the most economical , but Yeah .	presentation of prototype(s)
+B	392.94	We're glad you're satisfied .	presentation of prototype(s)
+A	393.11	Of course it's it's it's looks more heo heavy , but I think when it's completely maybe it's a less weight .	presentation of prototype(s)
+C	399.73	I mean this is plasticene .	presentation of prototype(s)
+C	400.95	There's only so much you can do .	presentation of prototype(s)
+A	401.06	Yes .	presentation of prototype(s)
+C	402.32	We could have possibly made it a lot thinner as well .	presentation of prototype(s)
+C	405.88	But And part of the thing is m a lot of people say that they don't like something that's too light , because they don't feel like they have enough control over it .	presentation of prototype(s)
+B	413.84	Mm-hmm .	presentation of prototype(s)
+C	413.93	So I mean maybe this is excessively heavy , but I think it needs to have some weight , it needs to feel like you're still holding something .	presentation of prototype(s)
+A	418.09	Yep .	presentation of prototype(s)
+C	422.96	So that's pretty much it for our presentation actually .	presentation of prototype(s)
+A	426.64	That's your uh prototype model ?	presentation of prototype(s)
+C	428.08	Yeah .	presentation of prototype(s)
+A	428.67	Okay , that's good , thank you very much .	presentation of prototype(s)
+A	431.24	So any comments or uh Okay .	presentation of prototype(s)
+D	433.93	Well , the prototype is is very well within the design and ideas that we've we've talked about on the previous meetings .	presentation of prototype(s)
+D	441.0	Now it goes into this next phase as the financial uh marketing uh Well we haven't come to mine yet , so we're gonna have a bit of difference of opinion , yes .	costing presentation of prototype(s)
+A	444.84	Yes , that uh So I'll come back to the So evaluation criteria , I think uh that will be good , so then let's come to the finance uh , I have some uh calculations which I made uh as for uh the budget .	costing presentation of prototype(s)
+A	476.39	So here you can uh look like uh the energy and uh dynamo and uh kinetic and solar cells .	costing
+A	484.79	Uh it's optional , somewhat optional and Ed wants the chip on print , that's what uh we were talking about that .	costing
+A	492.57	So then we have sample sensor and sample speaker , then uh we have the wood material , then special colour and push button .	costing
+A	502.87	So it's uh actually , our budget was uh twelve point five Euro , but uh it's coming to nine point nine five Euro , so we are under uh below the budget , okay , so still we are saving some money .	costing
+A	516.31	I think it's a good figure .	costing
+B	517.81	Yes , great I I'm surprised .	costing
+B	521.1	Congratulations .	costing
+A	521.99	Than thank you .	costing
+B	524.61	Oh , okay .	costing
+B	525.14	It's gonna cost a long way to c you know , cost a lot of money to market it , is it ?	costing
+A	530.37	So maybe it's for some money we can utilise for our uh marketing , for the sales , okay , and uh It's not .	costing
+D	539.85	Well , it just depends on if we're gonna add a o on this pr provisionary cost analysis , we do not have a L_C_ display .	costing
+D	552.05	L_C_ display is gonna be very expensive , it's gonna be It's not it doesn't say .	costing
+C	554.13	No we do , but it's not filled in .	costing
+C	556.01	It's number thirty .	costing
+B	556.45	Thirty .	costing
+D	556.73	We don't have the price up there , okay , so if we add approximately two to three Euro per remote , now we're up around about twelve , twelve and a half as to what uh the company had initially uh requested .	costing
+A	557.01	Yeah .	costing
+C	557.38	Oh , yeah , yeah , you're right , sorry , yes .	costing
+A	558.06	Yeah .	costing
+A	558.46	Yeah .	costing
+B	558.87	Yeah .	costing
+A	559.15	Yeah .	costing
+B	574.4	So that means we can put the uh the L_C_D_ in , yeah .	costing
+D	574.56	Um Display in .	costing
+D	578.53	But as far as production um I'm putting up a question because we're talking about profit also , and in mine you'll see uh the problem with uh our survey , the p the possibility that how many units can be sold , what percentage of the market , etcetera etcetera because that has to be taken in into consideration .	costing
+D	597.71	Uh this is just production cost , it is not uh advertising cost , it's not transportation cost uh And that will inflate quite a bit the cost of the uh the cost of the unit for the company .	costing
+A	605.67	Yes , so still uh we have twelve point five Euro .	costing
+A	609.4	Yes .	costing
+A	611.73	Yeah , but Yes .	costing
+A	614.0	Yep .	costing
+C	614.14	Um-hmm .	costing
+D	614.67	So to come up with what the company wants is a fifty million Pound profit , we're gonna have to go a long ways .	costing
+A	621.0	Yes .	costing
+A	621.5	This we are talking about one unit , okay , so when it go into the quantity , okay , and the cost will come down .	costing
+D	623.59	Yes .	costing
+D	629.9	Slightly .	costing
+B	630.22	Although customisation , because this is being done , you know , the on on-order basis , it might be uh the the quantity won't m won't uh the circuit board will b you're right , would be in producing quantity , but the cost of the case would uh be fixed at the Uh you got some pretty cheap labour that can do this case for one Euro .	costing
+A	636.08	Yeah .	costing
+D	636.45	It's gonna be very hard to reduce .	costing
+C	637.98	Yes .	costing
+D	652.31	That's not bad .	costing
+B	653.15	That's really that's the cost of the material and lab wow , that's really outstanding .	costing
+A	654.57	Yep .	costing
+A	655.73	Yeah .	costing
+A	660.19	But anyhow , still we are under control , okay , so what uh I will do is I will try to negotiate with the vendors , okay , to get uh the production cost less , okay , so then we can save some money , okay , to put into th our marketing or uh you know the promotions , whatever , okay , so that uh I will look after .	costing
+A	679.72	I will speak to the management and how to get uh you know some more uh cost down .	costing
+D	690.04	If we can go to to my display .	marketing expert presentation
+D	693.58	And we'll come back to yours just to give everybody an idea of the market .	marketing expert presentation
+A	695.13	Yes .	marketing expert presentation
+D	701.51	So now I'm gonna scare everybody out of this project .	marketing expert presentation
+D	708.44	If I'm still here .	marketing expert presentation
+A	710.92	You're in four ?	marketing expert presentation
+D	711.86	Yep .	marketing expert presentation
+D	713.49	The four gives me it's gotta be uh TrendWatch .	marketing expert presentation
+A	715.83	TrendWatch .	marketing expert presentation
+B	717.46	Is this the same one you did before ?	marketing expert presentation
+D	719.92	No .	marketing expert presentation
+B	721.09	Okay .	marketing expert presentation
+D	722.59	It shouldn't be if it's not it's not the right one .	marketing expert presentation
+C	723.21	That's no , I think it's the same one .	marketing expert presentation
+D	725.02	No , no we g no , that's the same one .	marketing expert presentation
+D	726.76	You have to go back and find another one .	marketing expert presentation
+D	733.83	Whatever name it popped up under .	marketing expert presentation
+D	736.95	Uh functional , try functional , it might not be it either , but we'll see .	marketing expert presentation
+C	737.08	Functional .	marketing expert presentation
+C	742.47	It looks like it , there's S Yeah .	marketing expert presentation
+D	744.55	Yep , that's it .	marketing expert presentation
+D	745.38	So we'll go screen by screen .	marketing expert presentation
+A	746.49	Okay .	marketing expert presentation
+D	747.33	Although since uh we need to have some type of idea on a market uh we had independent study that says it this this market has an availability to absorb eight mi eight million units per year .	marketing expert presentation
+D	758.01	Okay ?	marketing expert presentation
+D	759.19	Our internal company evaluation puts it between eight to nine million which is approximately the same as the independent study .	marketing expert presentation
+A	765.48	Yep .	marketing expert presentation
+D	766.11	So if we continue , we'll look at the findings .	marketing expert presentation
+D	769.76	Next screen .	marketing expert presentation
+D	773.69	Which means that uh if we have a target of two million would the company has to take twenty five percent of the market in the first year , which is actually a tremendous amount .	marketing expert presentation
+A	779.68	Mm-hmm .	marketing expert presentation
+B	781.46	Yeah , no kidding .	marketing expert presentation
+D	783.0	No kidding , yeah .	marketing expert presentation
+B	784.11	Mayb maybe they already expected something .	marketing expert presentation
+D	785.64	So , if we put an inflated price of fifty Euro at a production cost that cannot exceed twenty-five Euro , okay , we're already in that that price , okay , with transport , promotion , labour , because we hav gi included the promotion in the cost , transport for the material to the stores or whatever how however we're gonna break this down between our our retailers .	marketing expert presentation
+A	794.95	Yes .	marketing expert presentation
+C	801.46	Um-hmm .	marketing expert presentation
+D	808.96	Twenty-five percent of the market to get to two million units .	marketing expert presentation
+D	812.22	At two million units , we have to have a profit of twenty-five Euro per unit to get to the fifty million unit Eu Euro profit .	marketing expert presentation
+A	817.0	Mm-hmm .	marketing expert presentation
+A	818.65	Yep .	marketing expert presentation
+D	819.1	Okay ?	marketing expert presentation
+D	821.08	So , obviously we w w I just did a run down the evaluation of the form , the fan uh the fancy stylishness of the of the unit , the ease of use , speech recognition , cost , we've gone through these .	marketing expert presentation
+D	832.58	Now , the company must evaluate the feasibility of being able to take enough of the market to justify in production .	marketing expert presentation
+D	840.59	Or we project this over two years , but being that the market changes very very quickly , maybe there's no more interest in buying this thing in eighteen months from now .	marketing expert presentation
+A	845.45	Yes .	marketing expert presentation
+A	848.33	Yep .	marketing expert presentation
+D	848.95	So , now we have to come up with a decision .	marketing expert presentation
+A	849.42	Of course .	marketing expert presentation
+C	849.59	Mm .	marketing expert presentation
+D	851.38	Can the company sell two million units ?	marketing expert presentation
+A	853.4	Yep .	marketing expert presentation
+D	853.68	Can it sell it for fifty Euros ?	marketing expert presentation
+B	855.18	Could could I go to findings ?	product promotion/distribution
+A	855.81	Yep .	product promotion/distribution
+B	858.64	Uh uh um I would uh like to explore the possibility of using um alternative um delivery and sales channel which would be um to use the internet for promotion and ordering and then to drop-ship the p product to the customer's residence .	product promotion/distribution
+A	872.86	Yes .	product promotion/distribution
+C	872.86	I was thinking the same thing , yeah .	product promotion/distribution
+C	878.72	Directly .	product promotion/distribution
+B	880.12	That way you have no storage , you have no um you do have transportation , still have the labour cost , but you don't have the transport to the uh point of sale .	product promotion/distribution
+C	884.57	Um-hmm .	product promotion/distribution
+A	890.85	Yes .	product promotion/distribution
+C	891.14	Yeah .	product promotion/distribution
+B	891.16	The point of sale is online .	product promotion/distribution
+A	892.39	To the agents .	product promotion/distribution
+C	894.08	Yeah .	product promotion/distribution
+C	894.5	You can do a shipping centre somewhere , or strategically place shipping centres to minimise distance costs .	product promotion/distribution
+B	898.53	Right , like Amazon .	product promotion/distribution
+B	900.18	In fact , we should sell through Amazon , don't you think ?	product promotion/distribution
+A	900.73	Yes .	product promotion/distribution
+A	902.19	Or eBay , or Yes .	product promotion/distribution
+B	903.08	Or eBay , yeah .	product promotion/distribution
+C	904.18	Yeah .	product promotion/distribution
+B	906.38	There's an idea .	product promotion/distribution
+B	907.13	Going with um Ah , we we're do you know , selling a unique product uh .	product promotion/distribution
+A	907.28	Yeah , that's a good idea .	product promotion/distribution
+A	909.54	To impro more profit and uh Yeah , yes .	product promotion/distribution
+D	910.53	S Upscale technology .	product promotion/distribution
+D	914.46	Well .	product promotion/distribution
+C	918.6	That actually makes more sense if we're gonna make it so highly customisable , 'cause on the web people can look at the different options they have , see maybe what other people have done , what the range of possibility as , whereas if you're in a store , you can't unless you're a highly imaginative person , you may not really know what it is you want , whereas on the web , if you have a bunch of pictures , it can sort of trigger ideas and Yeah .	product promotion/distribution
+B	927.6	Mm .	product promotion/distribution
+D	928.5	There are several companies that have gone that way .	product promotion/distribution
+B	931.1	Mm .	product promotion/distribution
+B	938.3	Mm-hmm .	product promotion/distribution
+B	940.81	And you can even have an a movie that you can rotate the object and look at the di the only thing that you're missing really is the weight .	product promotion/distribution
+C	948.25	The weight and feel .	product promotion/distribution
+D	948.66	Weight , the feel of the product , but There are several that have gone through with the watches , too .	product promotion/distribution
+B	950.11	Mm .	product promotion/distribution
+C	950.24	Yeah .	product promotion/distribution
+B	951.59	We're getting used to that .	product promotion/distribution
+B	952.58	It's not quite like trying on a shoe , but people are getting used to buying things online that they can't touch before buying .	product promotion/distribution
+C	956.77	Yeah .	product promotion/distribution
+C	960.04	Yeah .	product promotion/distribution
+D	962.87	You can customise a watch , you can see how it is at the f at the end of the production , you can change it uh There's a lot of online that's that is doing this now .	product promotion/distribution
+C	965.48	Mm-hmm .	product promotion/distribution
+B	966.15	Uh-huh .	product promotion/distribution
+C	970.19	Yes .	product promotion/distribution
+D	971.23	And when you're rotating , you'll look behind and look this way uh it's possible to do with this , maybe there's a possibility of selling more than two million units in one year , which could you know , feasibili feasibility uh lower the price of the unit .	product promotion/distribution
+A	979.29	Yeah .	product promotion/distribution
+C	985.3	Mm-hmm .	product promotion/distribution
+A	987.8	We can .	product promotion/distribution
+B	988.58	Great .	product promotion/distribution
+A	989.94	I don't think that's uh not possible , it's uh okay then , l uh let's wait for the production , okay , then uh you can evaluate the product , so how it looks like technically and uh how it look like uh the real .	product promotion/distribution
+C	1002.72	What turnaround time do we have ?	agenda/equipment issues
+A	1004.81	T Oh but Yes it's it's very quick , of course .	agenda/equipment issues
+C	1006.13	'Cause I mean production evaluation can be very very quick or very very long .	agenda/equipment issues
+A	1011.75	It will uh come back in two weeks , okay , it will be ready in two weeks .	agenda/equipment issues
+B	1016.25	Works for me .	agenda/equipment issues
+A	1016.81	For evaluation , okay .	agenda/equipment issues
+B	1019.96	Prototypes , you mean .	agenda/equipment issues
+A	1021.51	Yes , the prototype uh prototype product evaluation .	agenda/equipment issues
+B	1021.85	In um We probably should do some market tests uh once we have the prototypes and do some orders and things like that and test-market it .	agenda/equipment issues
+A	1026.07	Yes .	agenda/equipment issues
+D	1027.49	Well , obviously .	agenda/equipment issues
+A	1027.88	Yes .	agenda/equipment issues
+C	1028.66	Yeah .	agenda/equipment issues
+A	1029.53	Yes .	agenda/equipment issues
+D	1031.58	Mm that'd have to be thrown out on the market for people to get an idea , to see get get their I think we pretty much covered everything .	agenda/equipment issues
+A	1031.79	Yeah .	agenda/equipment issues
+A	1034.39	So you can take a minimum two weeks to a maximum four weeks .	agenda/equipment issues
+C	1035.09	Mm-hmm .	agenda/equipment issues
+C	1037.25	Think minimum two weeks if we're gonna develop prototypes and then try to take them to different places and see how people use it's not a trivial task .	agenda/equipment issues
+A	1038.09	Yeah .	agenda/equipment issues
+A	1046.44	Yeah , because we we are not going to do it in uh our factory , okay , so we can give it a product evalua Yes , yes .	agenda/equipment issues
+C	1049.92	No no .	agenda/equipment issues
+C	1050.79	We definitely shouldn't do it in our factory .	agenda/equipment issues
+A	1054.21	So we'll do it in the other place , and I don't think it's take more than four weeks time .	agenda/equipment issues
+A	1061.53	Or uh Okay , so then the real production we will start once we product evaluation , okay , then uh it's approve from uh the technical team and uh your team , okay , uh from the management , then we can launch in the market .	agenda/equipment issues
+A	1081.75	Hm ?	agenda/equipment issues
+B	1082.2	Any outstanding ?	agenda/equipment issues
+A	1083.73	S Any any other uh questions or uh comments to be discuss ?	agenda/equipment issues
+B	1091.53	No , I'm go ahead .	agenda/equipment issues
+C	1091.58	What ab Well I was just wondering about if we're gonna do a product evaluation then what about time for redesign if the users come back and tell us no this is bad , this is bad , we want this done differently .	agenda/equipment issues
+A	1094.08	Okay , so then uh Okay uh , let's take like this .	agenda/equipment issues
+B	1094.96	Did you have something ?	agenda/equipment issues
+A	1111.45	Let's proceed with this model , okay , for the for the marketing direction , okay .	agenda/equipment issues
+A	1116.2	So no more changes will be made , okay , in this the basic design .	agenda/equipment issues
+A	1122.55	Okay ?	agenda/equipment issues
+A	1123.32	So we will introduce m this model and uh let's introduce in the market and let's take the feedback from the customers , then we can uh go for the second generation .	agenda/equipment issues
+B	1132.24	Second generation .	agenda/equipment issues
+A	1134.89	Okay .	agenda/equipment issues
+A	1135.78	There's no end , there's not limit .	agenda/equipment issues
+C	1137.72	The problem is there might not be a second generation if the first generation flops for some silly reason that we haven't thought of .	agenda/equipment issues
+A	1138.32	Every every custom Okay .	agenda/equipment issues
+D	1140.52	Well , then it may not be .	agenda/equipment issues
+A	1143.06	Well , every customer , okay , they have their own ideas , they have their own test , okay , so there's no end , there's no limit .	agenda/equipment issues
+D	1144.27	Like people don't like wood .	agenda/equipment issues
+C	1152.82	No , but there's a difference between releasing a product that has been minimally tested and fine-tuned to suit a general range of requirements versus releasing a product that we think will work but we don't really have anything to back it up .	agenda/equipment issues
+D	1164.72	very specific .	agenda/equipment issues
+A	1165.88	Yeah , so that's the reason you are here for uh the design , okay , I hope you made a good design .	agenda/equipment issues
+C	1169.62	Yes , but I'm not everybody .	agenda/equipment issues
+C	1172.0	I mean the whole point of user evaluation is to see what real people need .	agenda/equipment issues
+C	1176.21	We have our own motivations in mind , we have our own ideas in mind , but that doesn't mean that that's what's gonna sell .	agenda/equipment issues
+A	1181.79	Yeah , but uh see , we ought to take a few considerations , okay , one is the price consideration , one is future consideration , okay , like uh you can eat uh you can all eat more chi I can eat more chilli , okay , so i it's a depends on the individual taste , you know , so we have we have to balance somewhere .	agenda/equipment issues
+C	1198.93	Yeah , of course .	agenda/equipment issues
+C	1199.57	I'm just trying to point out that I think that your evaluation and redesign turnaround time is too short well you have no redesign not you personally , but in the project we have no redesign time and Yeah .	product promotion/distribution agenda/equipment issues
+A	1209.68	Yes .	agenda/equipment issues
+B	1210.32	Our project doesn't um Ed , d do you know what season of the year or time of the year is the most important for T_V_ remote control sales ?	product promotion/distribution agenda/equipment issues
+A	1211.01	Yeah .	agenda/equipment issues
+D	1221.0	Hmm .	product promotion/distribution
+B	1222.58	Would it be the Christmas season by any chance ?	product promotion/distribution
+A	1224.69	The sports time .	product promotion/distribution
+B	1225.68	Sports season .	product promotion/distribution
+D	1228.03	Right before the Eur the World Cup .	product promotion/distribution
+B	1228.46	Which sport season ?	product promotion/distribution
+A	1230.27	Football .	product promotion/distribution
+D	1230.56	World soccer .	product promotion/distribution
+B	1230.84	So so maybe what So I think what we need to do is perhaps to synchronise the final the the launch of a user-tested device with some special event .	product promotion/distribution
+D	1232.02	World Cup soccer , they need those things that they have their hands g occupied and they need to be able to talk to the con remote control .	product promotion/distribution
+A	1233.7	Football .	product promotion/distribution
+A	1244.74	Yes .	product promotion/distribution
+A	1247.31	Yes .	product promotion/distribution
+C	1247.43	Yeah , that's a good idea .	product promotion/distribution
+B	1247.78	And and then um so that gives us a little more time perhaps then we anticipated , because I don't know when the World Cup is , but I'm sure there's gonna be one .	product promotion/distribution
+D	1257.33	Or any major sports .	product promotion/distribution
+B	1259.29	Or another m major sports event .	product promotion/distribution
+B	1261.31	Probably not the um the football games coming up the end of January .	product promotion/distribution
+B	1265.33	I think that might be a little too aggressive um , but , so , I'm just ig uh pointing out a uh a strategy to uh do some additional user testing pri and then to launch um at a a major sports event or uh perhaps to uh also And to work with motion pictures .	product promotion/distribution
+A	1267.12	Yes .	product promotion/distribution
+C	1267.3	Yeah .	product promotion/distribution
+A	1277.09	Research .	product promotion/distribution
+C	1277.25	Mm-hmm .	product promotion/distribution
+A	1282.2	Yep .	product promotion/distribution
+C	1284.3	That's actually good place to advertise it too .	product promotion/distribution
+C	1287.43	Yeah .	product promotion/distribution
+B	1288.24	There might be some motion pictures that are coming out um that are coming out on D_V_D_ that uh they need to have a m special remote control to work with it , so we could maybe work out a campaign with uh with Sony Pictures for example .	product promotion/distribution
+A	1303.16	Yes .	product promotion/distribution
+B	1303.97	Maybe some management has got uh relationships there we can leverage .	product promotion/distribution
+C	1304.18	Mm-hmm .	product promotion/distribution
+A	1308.23	Yes , the that of course uh I will convince the management to do that , okay .	product promotion/distribution
+B	1314.4	That's great .	product promotion/distribution
+C	1316.81	It's just something to to keep in mind , 'cause it's really really important .	product promotion/distribution
+A	1319.68	Sure , sure , yes .	product promotion/distribution
+C	1319.96	A lot of products have gone out there without being properly user-tested and completely flopped , when in fact it gets re-released a few years down the line with proper testing and it takes off like crazy .	product promotion/distribution
+B	1330.84	Disposable diapers is an example of that in fact .	product promotion/distribution
+C	1333.62	Really ?	product promotion/distribution
+B	1334.16	Yes , it is one of the first consumer products that was launched about thirty years that was a disposable consumer product , and uh people the market hadn't really gotten on to the concept that you could use something and then throw it away , 'cause it wasn't uh but then when they re-launched them thirty years later , they were virtually the same design , but people had gotten the throw-away , you know , paper cups and napki y all kinds of things that they hadn't um so , you're right , timing is very important , but I think we've got a good product .	product promotion/distribution
+C	1334.7	That I didn't know .	product promotion/distribution
+C	1349.82	Mm-hmm .	product promotion/distribution
+C	1363.27	Yeah .	product promotion/distribution
+A	1365.43	Yeah .	product promotion/distribution
+C	1367.54	Yeah .	product promotion/distribution
+A	1367.66	That's the reason Ed is here .	product promotion/distribution
+A	1369.01	I think he can promote the the brand value and the product value .	product promotion/distribution
+B	1369.09	That's right .	product promotion/distribution
+B	1373.23	It's gonna be very important to the company .	product promotion/distribution
+A	1374.33	Yes .	product promotion/distribution
+A	1377.59	We are behind the scene and he is the front screen , so .	product promotion/distribution
+C	1380.53	Yep .	product promotion/distribution
+D	1381.69	Yeah , I'm the one who takes the heat .	product promotion/distribution
+A	1382.15	He's on the big screen .	product promotion/distribution
+C	1383.53	Exactly .	product promotion/distribution
+B	1385.16	Good luck , Ed .	product promotion/distribution
+D	1385.76	If it's a flop , it's the marketer .	product promotion/distribution
+B	1389.2	You look very relaxed , considering h you know , the uh the weight on your shoulders , yeah .	product promotion/distribution
+D	1390.49	Yes .	product promotion/distribution
+D	1392.07	Yes .	product promotion/distribution
+D	1392.87	Stress .	product promotion/distribution
+A	1396.42	Okay , so then uh let's come to the closing and uh are the costs within the budget and uh is the product evaluated , okay , so that will uh come soon .	closing
+D	1399.85	Celebration .	closing
+A	1407.98	Okay for uh but our time being , so thanks for all your efforts and great work and uh great design and uh let's leave it to the Ed for later for once production is over and the meantime let's celebrate .	closing
+A	1422.47	So let's meet up uh this evening to hang up for some party .	closing
+B	1429.08	Sounds good .	closing
+A	1429.92	'S good .	closing
+C	1430.02	Okay .	closing
+B	1430.13	Thank you .	closing
+D	1430.48	Very good .	closing
+B	1430.86	Nice working with you .	closing
+D	1431.99	Thank you very much .	closing
+A	1433.0	Thank you .	closing
+C	1434.11	Thanks .	closing
+A	1434.12	Thank you again for all .	closing
+A	1436.39	And see you in the evening for drinks .	closing
+D	1436.47	Bye-bye .	closing
+D	1437.42	Yep , okay , see you later on .	closing
+C	1438.38	Bye .	closing

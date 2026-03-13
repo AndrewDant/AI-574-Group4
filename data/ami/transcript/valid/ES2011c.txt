@@ -1,0 +1,468 @@
+A	74.59	Hi everyone , hope you had a nice lunch .	opening
+A	77.96	Um .	opening
+A	79.62	Alright we're moving on to conceptual design .	opening
+C	84.84	'Scuse me .	opening
+D	86.03	Bless you .	opening
+A	88.02	Um , I'll just review what we did in our last meeting .	opening
+A	92.44	Um , under marketing we targeted our audience , and Um , yeah .	opening
+A	101.12	That was generally how helpful that was .	opening
+A	106.13	Um , then we considered some design options with how it should look , um , we discussed an iPod-like button system which , uh , we haven't concluded but we're Right , um So , if you all have presentations to do , we can see what where you've come from our last time .	industrial designer presentation opening
+A	134.77	Does everyone have presentations ?	industrial designer presentation
+B	135.29	Hmm .	industrial designer presentation
+D	136.72	Yeah .	industrial designer presentation
+C	136.86	Yes .	industrial designer presentation
+A	137.28	Okay .	industrial designer presentation
+B	137.3	Yes .	industrial designer presentation
+A	138.32	Would anybody like to go first ?	industrial designer presentation
+B	141.06	Sure .	industrial designer presentation
+A	141.94	Okay .	industrial designer presentation
+B	161.56	So I've been looking at the components design .	components, materials and energy sources
+B	165.68	Um .	components, materials and energy sources
+B	167.38	Mostly by consulting remote control diagrams from the internet and also by incorporating design ideas from the last project meeting .	components, materials and energy sources
+B	175.35	Um , so we need some custom design parts , and other parts we'll just use standard .	components, materials and energy sources
+B	181.0	Um , I assume we'll be custom designing our case , probably a hard plastic or some other material case , to protect the remote and the locator .	components, materials and energy sources
+B	190.16	And we'll need to custom desi design a circuit board , because the circuit board has to take the button input and send it to the output so you have to design that each time .	components, materials and energy sources
+B	199.92	But once we come up with a design we'll send it to the circuit people and they'll just print it out .	components, materials and energy sources
+B	204.39	Um , standard parts include the buttons and the wheels , um the iPod-style wheel .	components, materials and energy sources
+B	209.37	The infrared L_E_D_ is actually gonna be included in the circuit board that comes with it .	components, materials and energy sources
+B	213.92	Um , we need a radio sender and receiver , those are standard .	components, materials and energy sources
+B	216.71	And al we also need a beeper or buzzer or other sort of noise thing for locating the remote .	components, materials and energy sources
+B	223.54	So we have some material options .	components, materials and energy sources
+B	225.19	Um , we can use rubber , plastic , wood or titanium .	components, materials and energy sources
+B	229.14	Um , I'd recommend against titanium because it can only be used in the flat cases and it's really heavy .	components, materials and energy sources
+B	235.18	Um , and the rubber case requires rubber buttons , so if we definitely want plastic buttons , we shouldn't have a rubber case .	components, materials and energy sources
+A	243.83	And why not wood ?	components, materials and energy sources
+B	243.83	And , hmm ?	components, materials and energy sources
+A	245.09	And why not wood ?	components, materials and energy sources
+B	247.74	Uh , well we can use wood .	components, materials and energy sources
+B	248.87	I don't know why we'd want to .	components, materials and energy sources
+B	251.22	Um and also we should note that if we want an iPod-style wheel button , it's gonna require a m qu slightly more expensive chip .	components, materials and energy sources
+B	257.23	We can't use the minimal chip , we need the next higher grade , which is called regular .	components, materials and energy sources
+B	262.18	I don't think it's much more expensive , but it is more expensive .	components, materials and energy sources
+B	265.94	So that's what I've got on design .	industrial designer presentation
+A	271.33	'S good .	industrial designer presentation
+D	279.28	Um , can I do next ?	marketing expert presentation
+D	280.59	'Cause I have to say something about the material which is quite shocking .	marketing expert presentation
+A	281.85	Hmm .	marketing expert presentation
+C	282.55	Yeah .	marketing expert presentation
+D	292.78	Ha .	marketing expert presentation
+D	293.49	Mm .	marketing expert presentation
+D	310.16	Right , um , I have been searching the current trends , um , both on the web and via fashion-watchers , and the findings are that the first thing to aim for is a fashion uh , fancy look and feel .	trendwatching
+D	325.71	Um .	trendwatching
+D	326.58	Next comes technologic technology and the innovations to do with that .	trendwatching
+D	331.85	And th last thing is the easy to use um factor .	trendwatching
+D	338.07	Um , fancy look and feel goes far beyond the functionality of the thing , but I suppose that is included in in the ease of use .	trendwatching
+D	347.27	Um , our fashion-watchers in Milan and Paris have decided , well noticed , that f the fruit and vegetable theme is the is the current trend and and therefore um we need to go for that if we want , you know , wh whatever our motto is .	trendwatching
+D	369.57	Um .	trendwatching
+D	370.9	For fashion , we go for fashion .	trendwatching
+A	371.48	Mm .	marketing expert presentation
+D	373.11	The fashion in electronics .	trendwatching
+D	374.65	So we want to put the fashion electronics , we need to go fruit and vegetables .	trendwatching
+D	378.84	And also go for a spongy feel , so the the question of our technology whate is Industrial Designer .	trendwatching
+D	389.34	As to the material should be limited to I don't know how spongy it can be , should discuss this together , I don't know how spongy can be achieved but apparently that's the way to go .	trendwatching
+D	401.62	Um .	marketing expert presentation
+D	402.97	I I have been thinking about this fruit and vegetable thing and I prefer fruits to vegetables , but that's just a personal opinion .	marketing expert presentation
+D	412.45	I think I think people like to have a fruit instead of a vegetables in their sitting room .	marketing expert presentation
+D	418.02	Uh those are just suggestions and also we need to decide whether this should be printed , so that still has to do with the material discuss should we print the fruit stuff , or should the actual remote look like a fruit ?	marketing expert presentation
+D	431.64	Um , and finally again with the spongy .	marketing expert presentation
+D	435.96	It has to be technologically innovative so maybe again our Industrial Designer should look into that or find come up with a solution that's better than mine .	marketing expert presentation
+D	446.51	Um , yeah , to summarise these are the points that need to be um , touched in order to get a good decision , and hopefully our User Interface has more to say about the matter .	marketing expert presentation
+C	460.49	Mm-hmm .	marketing expert presentation
+D	461.03	Thank you for your attention .	marketing expert presentation
+C	477.83	So .	marketing expert presentation
+A	480.83	I think it's the next it's the blue one , yeah .	interface specialist presentation
+C	481.74	Oh , uh , there we go .	interface specialist presentation
+C	484.93	Uh .	interface specialist presentation
+C	489.77	Okay .	interface specialist presentation
+C	490.45	Um .	interface specialist presentation
+C	491.81	Well so that fruit and vegetables thing huh .	interface specialist presentation
+C	495.22	I actually wasn't aware of the new trends in electronics and and uh So so okay , let me get this right .	interface specialist presentation
+D	500.28	Neither was I .	interface specialist presentation
+D	500.95	Well it's a trend in fashion , in clothing and um fabrics .	interface specialist presentation
+A	505.35	Yeah but you're not gonna wear your remote control .	interface specialist presentation
+C	512.27	Okay , uh Okay , alright anyway .	interface specialist presentation
+C	515.67	Um here we go .	look and usability
+C	517.53	Conceptual User Interface .	look and usability
+C	519.06	Trying we're gonna try to talk about , um what kind of uh how people are actually going to be using this iPod-ish remote control , based on fruit vegetable design .	look and usability
+C	531.76	And , um , basically , so , this is a touched ba a touch-based graphical interface system .	look and usability
+C	539.16	Uh , so people are going to be looking at this little screen .	look and usability
+C	542.34	Um , kind of I mean I assume , are we still on the screen idea ?	look and usability
+A	546.39	Oh we s hadn't discussed it last time .	look and usability
+C	548.98	'Cause if we're gonna have to ha if we have this it just seems like in order to have someone going around and using the um the wheel you it seems like you would need a screen .	look and usability
+A	559.18	You need a screen for it ?	look and usability
+B	561.43	You need a screen with music because you're looking for a specific song , like you know that band or whatever .	look and usability
+C	565.66	But like if you think about it yeah but if so is it just okay .	look and usability
+B	566.11	With T_V_ channels it's , you know , one two three .	look and usability
+B	568.41	So Yeah .	look and usability
+C	570.21	So , b you you're gonna have to switch to like D_V_D_ and like other things like that , aren't you ?	look and usability
+A	574.43	We're , um , we're actually not having D_V_D_ , that was one of th I I was sorry , I I meant to update you on that .	look and usability
+C	575.45	Are we Okay .	look and usability
+C	580.16	Alright .	look and usability
+C	581.33	Okay .	look and usability
+A	581.49	Um .	look and usability
+D	581.69	But the screen can come up on the telly , the she said .	look and usability
+C	584.05	Okay .	look and usability
+D	584.9	That correct ?	look and usability
+C	584.91	Okay .	look and usability
+B	585.19	Yeah .	look and usability
+C	585.67	So anyway if well we just we need to Okay so if we're not gonna have a screen I think I was thinking okay .	look and usability
+C	593.34	So basically it's just gonna be a wheel then ?	look and usability
+C	596.33	And you're just gonna I mean I think you're gonna have to have some kind of a right .	look and usability
+D	600.2	Graphical interface ?	look and usability
+C	601.14	Yeah like you're g yeah like you're gonna have to be able to switch to like a mode where you can okay we're not choosing that , I guess .	look and usability
+D	601.45	Uh on the you can have it on the telly though .	look and usability
+A	603.72	Yeah .	look and usability
+C	607.92	But like choose channel control , like if you wa Because people aren't gonna be able to have like , um , you know , channels one two three four five six seven eight nine .	look and usability
+A	616.59	Yeah .	look and usability
+C	617.39	So that people seems to be well You know .	look and usability
+A	619.15	You've Yeah , I know what you're saying , you have to But but imagine someone with s But i what if you have satellite and you have like two hundred channels .	look and usability
+C	621.19	But you're gonna have to scroll to get channels .	look and usability
+C	623.48	So um I guess that's wh why I was thinking you may need to have some kind of a screen because So that people can go arou go back and forth and choose if or or then again if you just I guess I c I can see like some kind of a thing where like you sort of have like the number come up on the T_V_ like what channel you're on .	look and usability
+D	642.64	Yeah , yeah , yeah .	look and usability
+C	643.52	You can just scroll and you can just get to like five or like twelve or I oh yeah ?	look and usability
+B	643.71	Yeah .	look and usability
+D	644.37	Yeah , yeah .	look and usability
+B	647.14	My flatmates actually had one with a wheel , and it it did show up on the T_V_ .	look and usability
+A	654.28	Then to get to channel one eighty nine you have to Yeah .	look and usability
+C	654.56	'Cause you'll have to like but you can quickly s you can Yeah .	look and usability
+D	655.67	Yeah .	look and usability
+B	656.55	They have to r wheel really fast .	look and usability
+B	658.93	But I think the wheel goes through like a hundred channels , at least on theirs .	look and usability
+D	660.46	Yeah , yeah , yeah .	look and usability
+C	662.55	Yeah if you do , it w so it would have to be you I mean so you basically just kinda need to figure out like what kind of , you know , range we need to have on the wheel , and um So you're either you're you know , th you're either doing this motion to like control the channels or like once once you stop that , you know , you can like tap for , um , different uh , whatchamacallits , different um , you know , functions like volume or , like you can tap just to get to different channels .	look and usability
+A	683.24	Yeah .	look and usability
+C	695.92	Like if you just wanted to go to like from five to six you could tap or someth And then there's also the concern about you know um how do you get to the menu if you wanna change the brightness of your television , or if you want to um you know switch around , I don't know , like , these different modes like turn on the timer or like something something like that , like I would think so too , like So I mean and it seems it w it does seem a little silly to have this screen if you hardly are ever using it , you know , because but then again it would it does make kind of if the screen's sort of just like an option that , like , is just there and you're not really using it , that's kind of m yeah .	look and usability
+A	699.93	Right .	look and usability
+A	716.46	Yeah I mean with that many options , you'd uh I'd think that the screen would be better , because you could have that menu option , sort of Yeah .	look and usability
+A	739.17	Yeah .	look and usability
+B	739.79	It's more expensive according to the design people .	look and usability
+A	741.75	Uh .	look and usability
+C	742.47	Yeah , that's the only thing though .	look and usability
+B	743.14	You have to get a an advanced chip if you wanna have a screen in , which is more expensive than the regular chip , which is more expensive than the minimal .	look and usability
+C	749.06	Yeah .	look and usability
+C	749.85	So then basically it has to have some way to get to get to a mode on the television where you're doing , um You can get to you know , you can Like maybe it'll be that central button that , like , then you hit that and then you can it brings up like the menu on the T_V_ and you can just scroll around , like , to do the timer , to do the yeah , yeah .	look and usability
+A	750.42	Mm .	look and usability
+D	762.77	Yeah , yeah , yeah .	look and usability
+B	763.34	Mm-hmm .	look and usability
+A	763.83	Mm .	look and usability
+D	766.88	Yeah .	look and usability
+A	767.4	Yeah .	look and usability
+A	768.17	So the T_V_ is the screen , that yeah So it would have all these different options of changing to Okay .	look and usability
+C	773.78	Yeah .	look and usability
+C	775.39	But the remote itself isn't really cluttered up .	look and usability
+D	776.87	Look it even has settings .	look and usability
+C	779.51	Hmm ?	look and usability
+D	779.53	On the you can just take theirs and just Yeah but should be comfortable .	look and usability
+A	780.05	Yeah .	look and usability
+C	781.45	Yeah , well we don't want the screen I guess , but um 'cause that just it does seem like , it that would be , like , incredibly expensive , but I dunno , and then so , it just im really all you need is , like , this little wheel then , and you can control everything .	look and usability
+A	782.19	Yeah .	look and usability
+C	798.32	So Yeah .	look and usability
+A	802.22	Um , right .	look and usability
+A	805.99	What if I mean , if you're thinking of the design of it now , like the a you know , physical attributes , um , and you just have this , it's like just a long silver thing , or whatever we're thinking .	look and usability
+A	819.77	I mean are you you gonna have any buttons on that besides power and this thing ?	look and usability
+A	824.19	Or Yeah .	look and usability
+C	825.12	It doesn't seem that you would need anything besides pow I mean and the power button could even be like hold down the menu button for like longer than one second and it turns on the T_V_ .	look and usability
+A	834.74	So can we imagine that this would be smaller than the remote controls that you showed us before .	look and usability
+A	840.02	I mean okay .	look and usability
+C	840.02	Yeah .	look and usability
+C	840.53	Yeah definitely .	look and usability
+C	841.25	Like , I think we're looking at something that could be , like like even maybe like a cir I'm f I'm seeing almost like a circular sort of like handheld like thing .	look and usability
+C	850.28	I mean it it needs to be easy to somehow it needs to be easy to like manipulate and use your I mean how do how do I'm not really Like when I use an iPod , I end up just kind of using my index finger to like control it .	look and usability
+A	850.69	Yeah .	look and usability
+B	850.93	Yeah .	look and usability
+A	852.05	Yeah .	look and usability
+A	856.45	Yeah .	look and usability
+A	866.87	Yeah , I've seen some people just going like that with their thumb , yeah .	look and usability
+C	867.28	So Yeah .	look and usability
+D	868.97	Yeah I use it like that .	look and usability
+C	869.15	Or your thumb or something .	look and usability
+B	870.36	W when we had the wheely remote control , we it was on the top I think , if you held it like that .	look and usability
+C	870.4	So Yeah .	look and usability
+A	874.74	Yeah .	look and usability
+D	875.25	Yeah .	look and usability
+C	876.8	Yeah , so Mm yeah .	look and usability
+A	876.88	But , were there buttons on there as well ?	look and usability
+B	878.72	Yeah well it had the wheely thing and then it had those eighteen different buttons that I don't know what they do .	look and usability
+A	881.63	Mm .	look and usability
+A	882.67	Yeah .	look and usability
+B	882.74	So we just used the top part .	look and usability
+A	884.6	Yeah .	look and usability
+C	885.04	Yeah , so but I mean I think it could be pretty small .	look and usability
+D	885.13	Uh .	look and usability
+C	887.76	Like , I d I mean , you you want it to be large enough that you can But can't you just get K Yeah , But , I mean , do you need that ?	look and usability
+A	892.13	What if , um , you had like a b a cover that went over buttons that you don't use very much ?	look and usability
+A	898.73	Like you so you could slide it up if you needed to like change the contrast or something like that ?	look and usability
+A	903.98	So the options are there but they're not in interfering with the design and the practicality of it .	look and usability
+A	912.65	Do do you know what I'm talking about though ?	look and usability
+B	913.43	Yeah .	look and usability
+A	913.81	Like , uh , yeah just something Yeah , that you can flip over , yeah , yeah .	look and usability
+B	914.51	Yeah like maybe something on the side where you slip a panel down and it's got a whole bunch of Yeah .	look and usability
+D	915.89	Well you can have it on the settings , no ?	look and usability
+C	919.89	If if you can get to , you know if so long as you're able to bring up the menu on the T_V_ screen .	look and usability
+A	926.01	Yeah I mean I guess that's the thing is is if w I if we can do this , that'd probably be Yeah , yeah .	look and usability
+C	927.09	That keeps it really Yeah .	look and usability
+C	931.89	Uh you wouldn't I don't I just don't think you would even need it .	look and usability
+C	934.64	So Mean I mean you can do it , you it's it doesn't seem that hard .	look and usability components, materials and energy sources
+A	935.86	So I guess we have to look into the , um , like , the programming , how this how they actually programme these things , and if that's yeah .	components, materials and energy sources
+B	944.02	Oh how they make the menu show up on the T_V_ ?	components, materials and energy sources
+B	947.39	I don't know .	components, materials and energy sources
+A	947.77	I mean it would y would that would be Huh .	components, materials and energy sources
+D	947.95	They already do it .	components, materials and energy sources
+B	949.18	I believe it's ins it's gotta be inside the T_V_ , not inside the remote .	components, materials and energy sources
+C	953.8	I mean I've never bought a remote .	components, materials and energy sources
+B	954.45	I'm not sure .	components, materials and energy sources
+C	954.95	It sounds like this remote's going to be purchased separately from the television , which is a little My I've never bought just a remote , like , so I don't I don't really know .	components, materials and energy sources
+B	957.98	Well they usually are .	components, materials and energy sources
+B	959.17	Well I guess that's right .	components, materials and energy sources
+D	961.72	No .	components, materials and energy sources
+C	962.79	But um So , um but I mean it's I've never had a hard time with like my remotes , like bringing up the menu screen if you need to like change the date or whatever , you know .	components, materials and energy sources
+B	964.4	It always comes with the T_V_ .	components, materials and energy sources
+C	976.57	And I don't think that should uh that should be too hard .	components, materials and energy sources
+B	979.72	Yeah , it most of the ones we've had have had the menu button , 'cause it's not like you need to have a button access to like change the contrast or something .	components, materials and energy sources
+C	986.56	Yeah .	components, materials and energy sources
+B	986.92	'Cause it just doesn't come up every day or something .	components, materials and energy sources
+C	989.2	Yeah .	components, materials and energy sources
+C	990.55	Well so So , do we need I dunno .	components, materials and energy sources
+C	995.72	Well I guess we have to you know think about But I mean you just basically need the output signal you know to be able to bring it up .	components, materials and energy sources
+B	1001.15	Mm-hmm .	components, materials and energy sources
+A	1001.75	Yeah .	components, materials and energy sources
+A	1003.36	Okay .	components, materials and energy sources
+C	1003.89	That's what it does anyway .	components, materials and energy sources
+D	1004.64	But also if you have it on the screen you can actually write everything out , because the problem with buttons is you like , they have these sort of abbreviations and codes that you're supposed to understand , and I never get it .	interface specialist presentation
+C	1014.02	Yeah .	interface specialist presentation
+B	1014.44	Yeah .	interface specialist presentation
+A	1014.7	Yeah , you don't know they mean , yeah , it's like yeah .	interface specialist presentation
+C	1017.86	Yeah .	interface specialist presentation
+D	1017.99	Never ever .	interface specialist presentation
+D	1019.68	So Well on the telly .	interface specialist presentation
+C	1019.99	So , but oh , you mean if we have this screen like the iPod screen ?	interface specialist presentation
+B	1024.23	Or on the T_V_ too .	interface specialist presentation
+C	1024.72	On the telly , okay , yeah .	interface specialist presentation
+C	1025.98	So yeah I think , I mean , I think I think the touch-based graphical interface is a really uh cool idea because you know it is so obnoxious to like have to push those like okay now I hit this you know , you have your little guide out and you're like , hit this button twice , like to activate the date .	interface specialist presentation
+A	1039.26	Mm .	interface specialist presentation
+D	1039.88	Mm .	interface specialist presentation
+A	1040.3	And it is technologically innovative in a way , so that fits with the B Yeah .	interface specialist presentation
+C	1043.03	Yeah .	interface specialist presentation
+C	1043.42	I guess .	interface specialist presentation
+C	1045.02	And it is trendy , the iPods are really hot right now , so Um , yeah , by web research , yeah , so Oh .	interface specialist presentation components, materials and energy sources
+D	1047.98	Did you did you get that pc picture on did they provide you with that picture on the web ?	interface specialist presentation
+D	1055.69	That's quite interesting .	interface specialist presentation
+D	1058.16	What are we going to do about this vegetable thing that I'm dreading ?	components, materials and energy sources
+A	1061.32	Oh god .	components, materials and energy sources
+B	1062.61	Oh , I was gonna say .	components, materials and energy sources
+B	1063.71	You said uh people want spongy .	components, materials and energy sources
+B	1066.21	Um , one of your one of the material options is a sort of rubber that's in like those stress ball things .	components, materials and energy sources
+D	1066.33	Yeah .	components, materials and energy sources
+C	1066.48	Yeah .	components, materials and energy sources
+B	1071.68	So , that would be spongy .	components, materials and energy sources
+C	1071.84	Oh , okay , that would be cool .	components, materials and energy sources
+D	1072.39	Yeah .	components, materials and energy sources
+A	1072.47	Ah .	components, materials and energy sources
+A	1073.38	Yeah .	components, materials and energy sources
+D	1073.74	Yeah .	components, materials and energy sources
+C	1074.26	Mm .	components, materials and energy sources
+D	1075.4	Just nice feel , but I hate spongy .	components, materials and energy sources
+C	1077.91	Yeah , c that's e that would be kind of oh , you know , usually like the touch pad things are kind of a hard plastic typ mouse type , you know , thing .	components, materials and energy sources
+A	1078.39	Yeah .	components, materials and energy sources
+A	1083.54	Yeah .	components, materials and energy sources
+C	1085.0	But what if we ha what if we had like a spongy sort of like stress balley kinda so you're like Or what if we integrated the the uh the f what if the whole thing about the fruit and vegetables we somehow made it tactilely fash you know , we c tapped into that , so like it feels like a vegetable .	components, materials and energy sources
+A	1085.28	I mean definitely the area round it .	components, materials and energy sources
+B	1092.36	Yeah I think it could work .	components, materials and energy sources
+A	1093.54	Yeah .	components, materials and energy sources
+D	1104.9	Well it could be like mobiles that just you just put a cover .	components, materials and energy sources
+A	1105.46	An orange .	components, materials and energy sources
+B	1105.65	Don't think I'd want it to feel like a banana .	components, materials and energy sources
+C	1109.72	Yeah .	components, materials and energy sources
+D	1110.01	If it's a small thing , you c instead of creating an object for it that looks like a banana , which frankly I'm not particularly fond of , um you could just have covers and then your mobile f it's like a mobile phone thing .	components, materials and energy sources
+D	1123.85	You know you had there was a time when they had all these different covers for mobiles .	components, materials and energy sources
+C	1124.16	Yeah .	components, materials and energy sources
+A	1124.38	Yeah .	components, materials and energy sources
+C	1126.65	Yeah .	components, materials and energy sources
+B	1126.89	You could do like the computers where they have like the grapefruit , apple machine and they have like the blueberry , like all the colours are named after fruits .	look and usability
+D	1132.62	Yeah , yeah , yeah .	look and usability
+A	1132.94	Yeah .	look and usability
+C	1134.34	Yeah .	look and usability
+A	1134.37	Yeah .	look and usability
+D	1134.73	Yeah .	look and usability
+C	1134.93	You could name it after fruits and vegetables , or Yeah .	look and usability
+D	1137.19	And it could the colour can fit your sitting room , so if you have red sitting room you can have strawberry , and then if you have a green one you can have well I don't know .	look and usability
+D	1145.49	Um .	look and usability
+A	1146.86	So what if what this is I'm just forming this idea in my head of how this thing is looking .	look and usability
+C	1147.07	So I think yeah , colours .	look and usability
+A	1152.88	If you have like that stress ball material kind of as what you're actually holding in your hand , so like what you're feeling is comfortable , and then there's more of a hard plastic thing where that thing is .	look and usability
+D	1161.67	Yeah .	look and usability
+C	1163.4	Yeah .	look and usability
+A	1164.29	And on that hard plastic thing you can change either the colour or the fruit or vegetable that's on there .	look and usability
+C	1171.39	Yeah .	look and usability
+A	1171.7	Is that kind of I 'cause I I'm thinking of silver because those are our company colours .	look and usability
+C	1175.62	Yeah .	look and usability
+A	1176.49	Um I mean how are you how are you all envisioning by what we've just the feedback we've just got about the A ball ?	look and usability
+C	1177.19	Unfortunately they don't have silver fruits and vegetables .	look and usability
+C	1180.07	I do I dunno .	look and usability
+C	1181.02	Um That's in the shape of a fruit , like a Yeah .	look and usability
+D	1191.52	Maybe a ball .	look and usability
+D	1196.29	Know , a squashy ball .	look and usability
+D	1198.98	A relaxing squashy ball .	look and usability
+D	1205.7	That you can p well I see you're thinking , it's weird , you're thinking the opposite of me 'cause you're thinking you change the the hard bit and I'm thinking how do you change the hard would you put a um sticker sort of ?	look and usability
+A	1212.61	Yeah .	look and usability
+D	1219.89	Because I was thinking if you have a cover for the squashy bit , like a Oh , okay , yeah .	look and usability
+A	1225.33	This is just Okay .	look and usability
+A	1228.07	Say that's the s say that's the squashy bit .	look and usability
+A	1230.34	Squashy .	look and usability
+D	1230.79	Yeah I was thinking of getting a cover for Which is cheaper .	look and usability
+A	1234.04	That see I was thinking this s sorry I was thinking this bit here would be the cover and like that's your actual thing .	look and usability
+D	1236.51	Well I don't know if it's cheaper actually .	look and usability
+B	1237.47	Oh .	look and usability
+B	1237.92	Mm .	look and usability
+A	1244.17	And like this you could have like you could have like cherries and things around there .	look and usability
+C	1244.85	Oh I like that shape .	look and usability
+C	1247.4	Yeah .	look and usability
+A	1250.33	Um but I was thinking if it was like this 'cause the way you were describing the the iPod and the thi the roll thingy It's almost like your thumb is farther up , so if if you could squish it lower then Yeah , I know what you meant , yeah .	look and usability
+B	1250.55	I was thinking sort of a single ball shape .	look and usability
+C	1253.6	Yeah .	look and usability
+B	1254.07	So you're holding a squishy ball and then it has a Mm-hmm .	look and usability
+C	1258.95	It's like it has to be s yeah .	look and usability
+B	1262.8	Yeah I guess so .	look and usability
+C	1263.99	Yeah .	look and usability
+D	1264.4	Yeah .	look and usability
+D	1265.69	So it wouldn't be very big in either like how big ?	look and usability
+D	1268.56	This big , and then you just do that , I suppose .	look and usability
+C	1270.81	What if , yeah , what if the squishy , oh so so you're saying the squishy part's like detachable , and you can so so maybe one you know you can have like the broccoli squishy thing , and then you could have like the banana squishy thing and you could get you could have your choice , you know ?	look and usability
+D	1286.23	Well just a li I can't des like condom thingy , like a a cover .	look and usability
+D	1293.2	But well the question is , which one's easiest to change and we can just contact our relevant department for that , and just see what the cost is for covering that or covering that , and for now we can do two prototypes maybe and then hi try and ask users what the best is , and No .	look and usability
+A	1297.11	Yeah .	look and usability
+C	1300.55	Yeah .	look and usability
+C	1303.31	Yeah , yeah .	look and usability
+A	1303.84	Mm .	look and usability
+C	1307.22	Yeah .	look and usability
+A	1309.08	Okay .	look and usability
+A	1311.19	Yeah .	look and usability
+C	1311.33	Yeah .	look and usability
+A	1312.32	Okay .	look and usability
+C	1313.34	Oh .	look and usability
+D	1313.82	Um .	look and usability
+D	1314.36	That's nicer .	look and usability
+D	1315.15	I think it's nicer to have a drawing 'cause it's neater .	look and usability
+C	1315.88	Yeah .	look and usability
+A	1318.79	Hmm .	look and usability
+D	1319.97	Um .	look and usability
+A	1320.39	Well that's not very neat , but Mm-hmm .	look and usability
+C	1322.29	Yeah .	look and usability
+C	1322.94	I mean I think uh and I think the handhe I think the handheld part is definitely So you could make that into the fruit and vegetable part .	look and usability
+D	1333.99	If it's a bit like those juggling balls , you can change shape according to your to the way you hold it .	look and usability
+B	1340.11	Yeah you could squish it .	look and usability
+D	1340.6	If it's got sand in it maybe , or something , you it it just moulds to your hand .	look and usability
+A	1343.46	Yeah .	look and usability
+C	1346.34	Yeah .	look and usability
+C	1348.04	So where are the fruit and vegetables now ?	look and usability
+D	1350.55	We we don't know .	look and usability
+C	1350.75	Fruits and veg .	look and usability
+B	1351.16	I guess they would be either in the colour of that plastic face on the front , or in the colour of the squishy thing underneath .	look and usability
+C	1354.12	Yeah .	look and usability
+A	1354.52	Yeah .	look and usability
+D	1356.72	Yeah .	look and usability
+C	1357.65	Yeah .	look and usability
+D	1358.26	And the rest is the company the company colour's silver ?	look and usability
+A	1362.26	It was , yeah , silver and yellow .	look and usability
+A	1364.26	It l it looks like I don't Yeah .	look and usability
+C	1366.67	We could promote the banana one .	look and usability
+D	1367.2	Okay .	look and usability
+C	1370.0	Like mm .	look and usability
+A	1372.36	I mean that's another question , where are we gonna we we should have the logo somewhere on it .	look and usability
+C	1377.35	Mm .	look and usability
+D	1377.36	Mm-hmm .	look and usability
+D	1378.57	Should also fit the batteries , which we haven't Okay .	look and usability
+C	1381.35	Oh yeah .	look and usability
+A	1381.37	Yeah .	look and usability
+B	1381.79	I think the batteries would have to go right under the plastic case .	look and usability
+A	1383.76	Yeah , th and that would that Mm-hmm .	look and usability
+C	1384.26	Yeah .	look and usability
+B	1385.59	Especially if you're switching out the squishy part .	look and usability
+B	1387.85	Then you need to have the other part just be sort of a single unit that you can snap off .	look and usability
+D	1391.92	Mm-hmm .	look and usability
+C	1393.95	Yeah , I think , um it'd be interesting to have the b the squishy bit .	look and usability
+C	1403.29	The part that you , yeah , can change into the different , you know , trendy vegetables and fruits .	look and usability
+C	1409.6	But uh it Yeah .	look and usability
+B	1411.62	Well I dunno .	look and usability
+B	1412.0	You'd spend so much time like squishing it to your own personal hand .	look and usability
+B	1415.32	Then you'd get a new one and you'd have to do it all over again .	look and usability
+D	1418.55	No but it does it automatically .	look and usability
+D	1421.54	Does it automatically ?	look and usability
+C	1422.06	Yeah .	look and usability
+D	1422.75	I don't know .	look and usability
+A	1423.38	I don't know what the rest of my notes mean because they were made for me .	components, materials and energy sources
+D	1429.26	Okay .	components, materials and energy sources
+A	1429.6	But if someone components concept .	components, materials and energy sources
+A	1433.1	Question mark .	components, materials and energy sources
+A	1433.99	Energy .	components, materials and energy sources
+A	1434.69	Question mark .	components, materials and energy sources
+B	1434.77	That was me .	components, materials and energy sources
+A	1435.79	Was that you ?	components, materials and energy sources
+B	1436.38	Yes .	components, materials and energy sources
+A	1436.88	Okay .	components, materials and energy sources
+A	1437.15	Oh right right .	components, materials and energy sources
+A	1437.83	Yeah .	components, materials and energy sources
+A	1439.1	Um , so what d but what do we know about energy ?	components, materials and energy sources
+A	1443.17	I mean we're gonna use batteries right ?	components, materials and energy sources
+B	1444.71	Uh we actually had an option of batteries , solar power , and um a dynamo , which is something I don't know what it is .	components, materials and energy sources
+A	1444.96	And I think batteries sound good .	components, materials and energy sources
+B	1451.65	Something to do with torches .	components, materials and energy sources
+D	1451.8	Oh , a dynamo is ah , it's a bicycle .	components, materials and energy sources
+D	1455.14	It's a bicycle mechanism .	components, materials and energy sources
+D	1456.6	It's the en it's like if if something moves , when it moves , it stores energy .	components, materials and energy sources
+B	1460.5	Oh okay .	components, materials and energy sources
+B	1461.55	Yeah , the other one was the other one was a kinetic thing where you'd basically have to wind it yourself .	components, materials and energy sources
+B	1467.07	So I sort of picked battery .	components, materials and energy sources
+D	1467.43	It's quite sweet .	components, materials and energy sources
+B	1469.2	We could have talked about doing a wind-up or a dynamo or a solar power .	components, materials and energy sources
+B	1474.87	Um but I think solar power's not available with the rubber case anyways .	components, materials and energy sources
+B	1478.68	It it seems a little weird for a living room anyways .	components, materials and energy sources
+A	1480.03	What does everyone else think ?	components, materials and energy sources
+D	1480.32	No .	components, materials and energy sources
+C	1481.25	The dynamo would be interesting .	components, materials and energy sources
+D	1482.2	But dynamo the the fact with dynamo is , the moment you move it , it c it creates energy on its own .	components, materials and energy sources
+C	1490.18	Oh .	components, materials and energy sources
+A	1490.51	What about Kryptonite ?	components, materials and energy sources
+D	1490.88	Which is quite cool .	components, materials and energy sources
+D	1491.53	So if you throw it , it's gonna store loads of energy , and you don't need to buy a battery 'cause they're quite f I find them annoying .	components, materials and energy sources
+D	1497.79	But we need to find cost .	components, materials and energy sources
+A	1499.83	Yeah .	components, materials and energy sources
+D	1502.24	Don't know the cost .	components, materials and energy sources
+B	1505.08	Didn't have enough data to actually All it said was it gave sort of relative , some chips are more expensive than others , sort of things .	components, materials and energy sources
+D	1505.28	Does anyone have costs on the on the web ?	components, materials and energy sources
+B	1513.1	It didn't give me any actual cost .	components, materials and energy sources
+D	1514.37	Okay .	components, materials and energy sources
+D	1516.37	Right .	components, materials and energy sources
+C	1517.35	Hmm .	components, materials and energy sources
+D	1517.39	Mm .	components, materials and energy sources
+B	1518.57	Most of the stuff is pretty cheap though bought in bulk .	components, materials and energy sources
+B	1520.6	So I don't think it's that much of a problem .	components, materials and energy sources
+B	1524.91	Like the chip is probably the most expensive part .	components, materials and energy sources
+A	1528.28	What does chip on print mean ?	components, materials and energy sources
+B	1530.42	Um , for things like remote controls , um , they stamp out a chip , calculators too I think .	components, materials and energy sources
+A	1535.73	Uh-huh .	components, materials and energy sources
+B	1537.71	Um , so you can mass produce 'em pretty cheap .	components, materials and energy sources
+A	1539.89	Okay .	components, materials and energy sources
+B	1540.38	But it's not like a computer , you can't like reprogramme your remo remote controls , it's like stamped onto the chip .	components, materials and energy sources
+A	1543.6	Right .	components, materials and energy sources
+A	1545.17	So , chip on print is just means like that they're mass-produced .	components, materials and energy sources
+B	1547.87	Yeah .	components, materials and energy sources
+A	1548.85	Okay .	components, materials and energy sources
+A	1550.13	And case ?	components, materials and energy sources
+A	1551.5	Uh I guess that's what we've been talking about , yeah .	components, materials and energy sources
+B	1551.78	Case is what we were discussing yeah .	components, materials and energy sources
+A	1553.07	Casing .	components, materials and energy sources
+A	1553.78	Yeah .	components, materials and energy sources
+A	1555.07	thinking of like syntactic case and thi um let's see .	discussion components, materials and energy sources
+A	1567.36	Is there anything else we need to talk about ?	discussion
+C	1570.65	Hmm .	discussion
+A	1572.06	Oh when we move on , you two are going to be playing with play-dough .	closing
+A	1577.91	Um , and working on the look and feel of the design and user interface design .	closing
+A	1584.14	And you're gonna be doing protu product evaluation .	closing
+A	1589.83	So you'll get mm m more instructions from your personal coach .	closing
+D	1594.21	Oh , thank you .	closing
+A	1594.72	Mm .	closing
+C	1594.95	Cool .	closing
+A	1595.76	See you soon .	closing
+A	1599.27	Does it matter that I end early ?	closing
+A	1604.23	How how early is it ?	closing

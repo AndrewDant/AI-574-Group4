@@ -1,0 +1,433 @@
+A	0	.	NO_TOPIC
+D	23.53	Hello .	agenda/equipment issues
+D	68.27	Dang it .	agenda/equipment issues
+A	72.33	And then you have to place your laptop exactly on the marked spot .	agenda/equipment issues
+D	76.42	Alright .	agenda/equipment issues
+A	83.69	It's important to place your laptop exactly on the marked spot over here .	agenda/equipment issues
+B	87.55	Okay .	agenda/equipment issues
+B	95.14	No , that's okay .	agenda/equipment issues
+B	103.9	Joost , your mouse .	agenda/equipment issues
+D	105.86	What ?	agenda/equipment issues
+B	107.01	No mouse needed ?	agenda/equipment issues
+D	108.24	I've got a touch-pad .	agenda/equipment issues
+D	110.64	Do you know how how I can wake it up ?	agenda/equipment issues
+B	110.97	Mm .	agenda/equipment issues
+B	114.57	A touch-pad ?	agenda/equipment issues
+D	115.76	No , my laptop .	agenda/equipment issues
+B	118.86	Slap it .	agenda/equipment issues
+D	122.05	You with your brilliant ideas .	agenda/equipment issues
+D	123.48	I don't know if I can touch the power button .	agenda/equipment issues
+D	128.22	Do you know how how I can wake it up ?	agenda/equipment issues
+B	129.35	Is Um F_ five .	agenda/equipment issues
+A	129.97	No .	agenda/equipment issues
+A	130.98	Yeah .	agenda/equipment issues
+A	131.64	Try the power button .	agenda/equipment issues
+D	132.94	Oh .	agenda/equipment issues
+D	138.53	Come on , move it .	agenda/equipment issues
+D	151.1	Now , wake up , bitch .	agenda/equipment issues
+A	155.08	Huh .	agenda/equipment issues
+B	161.48	F_ five .	agenda/equipment issues
+C	163.27	I've lost my screen .	agenda/equipment issues
+C	164.56	Uh Yes .	agenda/equipment issues
+D	165.58	Yeah , so did I .	agenda/equipment issues
+D	167.35	I closed it .	agenda/equipment issues
+B	167.74	I don't .	agenda/equipment issues
+D	168.44	That wasn that wasn't very smart , I guess .	agenda/equipment issues
+D	171.87	Come on .	agenda/equipment issues
+D	174.73	Get back to me .	agenda/equipment issues
+D	179.4	Yes .	agenda/equipment issues
+C	182.95	I closed the No .	agenda/equipment issues
+D	183.88	I closed it .	agenda/equipment issues
+B	184.82	You've got your name .	agenda/equipment issues
+A	185.49	Yeah , my name is name .	agenda/equipment issues
+D	189.68	No , I didn't restart it , I just closed it .	agenda/equipment issues
+D	194.33	Yes .	agenda/equipment issues
+B	196.85	Hope it working .	agenda/equipment issues
+D	198.94	Alright .	agenda/equipment issues
+B	208.31	Never close your laptop .	agenda/equipment issues
+A	211.16	Yeah ?	opening
+A	211.54	Everybody's ready ?	opening
+D	212.32	Great .	opening
+B	212.65	Yeah .	opening
+A	213.19	Great .	opening
+D	213.4	Thanks .	opening
+A	214.9	Well , welcome to the kick-off meeting .	opening
+A	217.08	I uh forgot to put my name over here , it's uh it's Martin .	opening
+A	222.21	Uh , so you all know .	opening
+A	226.11	Well , this is the agenda for today .	opening
+A	227.93	Well , the opening is what I'm doing right now .	opening
+A	231.9	Uh , we gonna do some acquaintance acquaintance things .	opening
+A	234.92	Uh give some um examples of the tool training , project plan discussion and the closing .	opening
+A	241.16	We have twenty five minutes .	opening
+A	244.42	Okay , the project aim is to design a new remote control .	project specs and roles of participants
+D	247.25	Mm-hmm .	project specs and roles of participants
+A	248.16	Uh , some of the oje objectives are that is has to be original , trendy , and user-friendly .	project specs and roles of participants
+A	255.25	So now we all know what our goal is .	project specs and roles of participants
+B	255.3	Okay .	project specs and roles of participants
+A	259.38	Um , I oh forget I forget the whole acquaintance part , but we we all know each other .	project specs and roles of participants
+A	264.04	We all know each other's names .	project specs and roles of participants
+A	265.64	Joost , Guido , Antek .	project specs and roles of participants
+D	265.82	Yes .	project specs and roles of participants
+B	266.28	What is your name ?	project specs and roles of participants
+C	266.57	Yes .	project specs and roles of participants
+C	267.28	Antek .	project specs and roles of participants
+B	268.06	Antek Ahmet .	project specs and roles of participants
+A	269.13	Okay .	project specs and roles of participants
+B	269.54	And Joost .	project specs and roles of participants
+A	269.55	I think we uh al already uh been through that part .	project specs and roles of participants
+B	271.71	Okay .	project specs and roles of participants
+B	272.88	Yeah .	project specs and roles of participants
+A	273.71	Okay , it consists of uh three levels of design .	project specs and roles of participants
+A	276.92	Uh we begin with the functional design , then we go to the conceptual design and the detailed design .	project specs and roles of participants
+A	282.24	Every uh level of design consists of some individual work , and we uh close it with a meeting .	project specs and roles of participants
+A	289.18	You all received an email with a example of our explanation of what uh the particular level of design uh means to the different uh functions , and uh you p you probably read that already , so I don't have to tell you about that .	project specs and roles of participants
+D	301.5	Yes .	project specs and roles of participants
+B	301.71	Yes .	project specs and roles of participants
+A	305.64	Okay , first we're gonna um uh gonna try some different things with the tools we have over here , so you get acquainted with these uh um uh meeting tools .	drawing exercise
+A	317.32	We have the smart-boards , uh the thes those two boards .	drawing exercise
+A	321.78	This is the presentation boards , wh which one I'm using right now .	drawing exercise
+A	324.99	You can uh um there's a document folder called um the sh shared document folder .	drawing exercise
+A	330.8	You can upload your uh documents to that folder and then you can open them over here , so you can do your PowerPoint presentations on this screen .	drawing exercise
+A	339.12	We also have the white-board .	drawing exercise
+A	341.25	Uh , we're gonna skip through th No , no .	drawing exercise
+B	343.22	Can we see the white-board on our laptops ?	drawing exercise
+A	346.26	Just on the on the screen over there .	drawing exercise
+B	346.3	No , I saw I saw the file , the smart-board that X_B_K_ but Okay .	drawing exercise
+A	349.2	Oh , no .	drawing exercise
+A	349.85	Probably is , but I don't know if the software is on the laptop .	drawing exercise
+A	353.07	Is is if it's mainly a thing for in the meeting , so I don't think it's I don't know if it's important .	drawing exercise
+A	360.29	This an explanation of the smart-boards .	drawing exercise
+A	362.79	There is a tool-bar over here .	drawing exercise
+A	365.78	It's quite simple .	drawing exercise
+A	366.66	You have the the pen function , eraser function .	drawing exercise
+A	369.62	It's like a very simple uh paint application .	drawing exercise
+A	373.76	Uh , we well , we use the same file during uh the whole day , and uh you can make new sheets by uh by pu puttin pressing on the blank button .	drawing exercise
+A	384.12	It works like this .	drawing exercise
+A	386.51	Oh .	drawing exercise
+A	387.6	If pen is selected , yes .	drawing exercise
+A	389.56	Oh , no no .	drawing exercise
+B	390.57	With that pen ?	drawing exercise
+A	391.18	It's not But it is pen .	drawing exercise
+A	396.22	It's not working like a pen yet .	drawing exercise
+B	402.24	Mm .	drawing exercise
+A	402.87	Huh .	drawing exercise
+A	412.83	Huh .	drawing exercise
+B	413.61	Mm .	drawing exercise
+A	414.2	It's doing some stuff now .	drawing exercise
+B	415.49	Little bit slower .	drawing exercise
+A	415.73	So you can use a pen .	drawing exercise
+A	416.85	You can use an eraser .	drawing exercise
+A	421.03	And you can make new uh fi uh new blanks , and you can change uh the line width and the colour of the pen by pressing on forward , which y you have to select pen format .	drawing exercise
+A	435.8	And then select current colour or line width .	drawing exercise
+A	439.88	So , it's quite easy .	drawing exercise
+A	442.63	Uh well , now you're all uh acquainted with the different tools .	drawing exercise
+A	449.6	Right , we're gonna try out the electronic white-boards .	drawing exercise
+A	452.36	Uh , every participant should draw his favourite animal and some of its favourite characteristics , on blank sheets with different colours , with different pen widths .	drawing exercise
+A	461.47	Uh , I'll start off then .	drawing exercise
+A	464.18	I'll use this uh same sheet .	drawing exercise
+A	465.9	Alright .	drawing exercise
+A	472.0	Oh , let me think .	drawing exercise
+A	475.81	Different colours .	drawing exercise
+A	479.2	Oh .	drawing exercise
+A	487.88	Well , I'm gonna draw um a p piranha .	drawing exercise
+A	490.48	Uh , a fish .	drawing exercise
+B	491.62	piranha .	drawing exercise
+B	492.97	Okay .	drawing exercise
+A	493.94	Uh .	drawing exercise
+A	507.41	Mm-hmm .	drawing exercise
+B	513.53	Oh .	drawing exercise
+A	513.67	I'm gonna use some different colour now .	drawing exercise
+A	516.5	Some a little white .	drawing exercise
+A	521.26	Looks like a fish .	drawing exercise
+A	523.84	Think it is .	drawing exercise
+A	528.41	Oh .	drawing exercise
+A	543.25	Oh .	drawing exercise
+A	546.42	Uh , colour .	drawing exercise
+A	551.57	This is black ?	drawing exercise
+A	553.52	I think so .	drawing exercise
+B	557.52	Yellow Hmm .	drawing exercise
+A	558.38	Oh .	drawing exercise
+A	562.4	Oh , this is just uh useless uh drawings but Oh teeth .	drawing exercise
+A	572.43	I need teeth .	drawing exercise
+A	578.64	Well , they're not supposed to be green , or whatever colour this is .	drawing exercise
+A	583.79	Okay .	drawing exercise
+A	585.29	What was uh I have su to sum up its favourite characteris Well , I like its uh sharp razor sharp teeth .	drawing exercise
+B	587.78	Different .	drawing exercise
+A	593.07	Plus , uh the the big uh forehead and uh a small uh , well a small actual face .	drawing exercise
+A	600.36	And I like its overall uh aggressive look and Well , that's what I like about uh piranha .	drawing exercise
+B	606.8	Okay .	drawing exercise
+A	607.2	I think that's kind of what uh the intention should be .	drawing exercise
+A	612.23	Well , who wants to be next ?	drawing exercise
+D	614.56	Nobody , I guess .	drawing exercise
+B	615.45	I will try .	drawing exercise
+A	616.73	You go , Guido ?	drawing exercise
+B	617.54	Yeah .	drawing exercise
+A	617.61	Okay .	drawing exercise
+B	618.26	I will try .	drawing exercise
+B	620.81	Uh Blank ?	drawing exercise
+A	620.9	Uh , make a new sheet .	drawing exercise
+A	622.11	Uh , it's by pressing on blank .	drawing exercise
+A	624.12	Yep .	drawing exercise
+B	626.86	Okay .	drawing exercise
+B	627.75	Then pen again ?	drawing exercise
+A	629.17	Yep .	drawing exercise
+B	630.79	Okay .	drawing exercise
+A	631.3	And uh so in the format menu you can choose the different uh colours and uh pen widths .	drawing exercise
+B	635.09	Okay , um control .	drawing exercise
+D	642.57	Format .	drawing exercise
+B	652.69	Uh Ah , purple .	drawing exercise
+B	656.69	Um , I don't know what my uh favourite uh animal is , but the easiest animal I can think is is a bird .	drawing exercise
+B	665.51	Uh I will That's my bird .	drawing exercise
+D	670.5	You know , I thought of that actually .	drawing exercise
+B	674.05	Yeah ?	drawing exercise
+D	674.62	Yeah .	drawing exercise
+B	675.23	Isn't it quite it's a little bit light .	drawing exercise
+B	680.79	Uh , another colour maybe .	drawing exercise
+B	683.44	A red one .	drawing exercise
+B	686.8	A small one .	drawing exercise
+B	688.42	Uh , line width .	drawing exercise
+B	692.31	Two ?	drawing exercise
+B	693.18	Three .	drawing exercise
+B	693.93	Oh that's okay .	drawing exercise
+B	700.6	That's another one .	drawing exercise
+A	703.66	Well , tell us something about uh your favourite characteristics of these uh particular birds .	drawing exercise
+B	704.42	Ano Uh uh it's a Yeah , it's uh the most simple uh animal I know , I think .	drawing exercise
+D	707.75	Its simplicity .	drawing exercise
+B	715.76	Um , I don't know .	drawing exercise
+B	717.08	Maybe because uh there's there's some s uh free uh maybe in the sky or something like that .	drawing exercise
+A	721.21	Oh , okay .	drawing exercise
+A	722.6	Okay .	drawing exercise
+B	722.74	Maybe a little bit .	drawing exercise
+B	723.51	Yeah .	drawing exercise
+B	723.87	I don't know .	drawing exercise
+A	724.2	Okay .	drawing exercise
+A	725.78	No , uh it's clear .	drawing exercise
+B	726.15	So more uh birds ?	drawing exercise
+A	728.09	N no no .	drawing exercise
+A	730.76	We get your point .	drawing exercise
+B	731.92	Okay , okay , okay .	drawing exercise
+A	731.97	Okay .	drawing exercise
+A	732.76	Who wants to be next ?	drawing exercise
+D	734.04	Yeah , whatever .	drawing exercise
+D	735.17	I'll go next .	drawing exercise
+D	736.29	Thanks .	drawing exercise
+D	738.79	I haven't got a favourite animal too , so Oh .	drawing exercise
+B	738.96	M Pictionary .	drawing exercise
+D	744.55	What should I draw ?	drawing exercise
+B	746.05	A cow .	drawing exercise
+A	746.17	Oh .	drawing exercise
+D	750.18	Thank you , I'll draw a penguin .	drawing exercise
+B	751.14	Okay .	drawing exercise
+D	756.21	Yeah .	drawing exercise
+D	760.88	I'll draw a penguin .	drawing exercise
+D	761.87	Whatever .	drawing exercise
+D	763.72	I can't draw , so you can start to laugh already .	drawing exercise
+A	769.98	I'll do so .	drawing exercise
+D	770.1	Whatever .	drawing exercise
+D	770.99	Something like that .	drawing exercise
+D	782.39	Come on .	drawing exercise
+B	784.4	Yeah , it's little bit hard .	drawing exercise
+D	787.32	Mm hmm hmm , orange .	drawing exercise
+B	789.03	Orange , of course .	drawing exercise
+D	793.12	Whatever .	drawing exercise
+D	801.68	Oh , it's better than your bird .	drawing exercise
+B	803.34	Uh yeah .	drawing exercise
+D	804.52	Everything's better than your bird .	drawing exercise
+B	805.78	Yeah .	drawing exercise
+B	806.75	True .	drawing exercise
+D	811.05	Whatever .	drawing exercise
+D	812.13	Hey , it's blue .	drawing exercise
+D	813.47	No .	drawing exercise
+D	814.23	Whatever .	drawing exercise
+D	815.14	Um , I like its ugliness and uh Yeah , whatever .	drawing exercise
+D	823.07	The way it walks or whatever .	drawing exercise
+A	824.77	Okay .	drawing exercise
+D	825.22	Your turn .	drawing exercise
+C	826.75	'Kay .	drawing exercise
+D	828.81	Drawing .	drawing exercise
+C	830.98	I'm going to draw a cat .	drawing exercise
+C	833.64	I don't know why , but a cat is a very uh smart animal .	drawing exercise
+C	840.98	And you can have them at home .	drawing exercise
+C	844.93	Which is not as the case with uh with bingwings and Ye yes , yeah .	drawing exercise
+A	849.12	Well , you can have a piranha at home .	drawing exercise
+A	851.82	Huh .	drawing exercise
+D	853.29	Or a line .	drawing exercise
+B	855.05	A little bit .	drawing exercise
+D	855.24	I mean a bird .	drawing exercise
+B	856.93	Yeah .	drawing exercise
+B	858.68	Don't mess with my birds , yeah .	drawing exercise
+C	862.44	It's not very uh very good drawn , but you can see a cat from it .	drawing exercise
+D	869.51	Hmm .	drawing exercise
+D	870.52	It's a handicapped cat .	drawing exercise
+B	874.54	cat .	drawing exercise
+A	874.82	I don't think uh I don't think uh Darwin would agree with that .	drawing exercise
+C	881.85	It's Ah , it's not scared .	drawing exercise
+C	890.01	He's crying but Uh it's i most cats are small .	drawing exercise
+A	891.95	Okay .	drawing exercise
+D	892.82	He's crying because it's ugl because of his ugliness .	drawing exercise
+A	896.46	What do you like about it then ?	drawing exercise
+A	901.16	Oh , okay .	drawing exercise
+C	901.5	You can handle them .	drawing exercise
+A	902.74	Okay .	drawing exercise
+A	903.83	Okay .	drawing exercise
+A	905.14	Okay , and then we are uh through the tool training , I guess .	drawing exercise
+B	905.26	Okay .	drawing exercise
+D	909.73	I wouldn't call it training , but Alright .	drawing exercise project budget
+A	915.33	Okay , this is uh something about the project finance .	project budget
+A	918.25	The selling price of our remote control is gonna be twenty five Euros .	project budget
+A	922.74	And our profit aim is fifteen million Euros .	project budget
+A	925.71	We're very ambitious on this one .	project budget
+A	928.66	The market range is international , so it's gonna be sold world-wide , and the production cost should be a maximum of twelve Euro fifty per remote control .	project budget
+A	938.75	So that's clear .	project budget
+A	940.98	Yeah ?	project budget
+B	941.57	Okay .	project budget
+A	943.24	Okay , we're now gonna discuss some stuff when well , we're gonna brainstorm about uh what kind of kemoro romo remote control it's gonna be .	discussion
+A	952.4	Uh , well tell me about your experiences with the remote controls .	discussion
+A	955.64	Do you have uh know what good experiences with remote controls ?	discussion
+A	959.25	Or do they annoy you sometimes ?	discussion
+C	960.11	Yes .	discussion
+A	961.76	Are they difficult to understand , or maybe they don't interact with different kind of uh equipment very well ?	discussion
+B	968.2	Hmm .	discussion
+D	968.67	I don't th I don't think the four of us got problems with remote controls , but if you see elderly people , all these buttons , and then they buy new T_V_ because their previous one was stolen or whatever .	discussion
+A	973.86	Yeah , okay .	discussion
+B	978.3	Different .	discussion
+A	981.27	Okay .	discussion
+D	981.84	And then a totally different remote control with with different functions on different places , and half of the functions a are removed , or whatever .	discussion
+D	991.82	Uh , so I think what we need is is a clear uh remote control with uh grouped buttons , you know .	discussion
+D	999.01	All th all the buttons which apply to the text functions in in one uh Well , one area or whatever , not like the button to enter text on top of the remote control and the button to um , yeah , to minimise it to this this or whatever o o other functions totally somewhere else .	discussion
+A	1004.29	Different functions of of uh Okay .	discussion
+D	1020.05	I think we should group them .	discussion
+A	1020.15	Yeah .	discussion
+D	1022.09	And same for the for the volume buttons and the the t Well I was I was thinking uh since a T_V_ is uh mostly used together with a V_C_R_ or D_V_D_ player or recorder , and not with a stereo , I think it should be good to include functions for V_C_R_s and D_V_D_ players , recorders .	discussion
+A	1022.26	Okay .	discussion
+A	1024.58	And uh , is it gonna be a remote control that's um what it can be used for different kind of equipment , like your T_V_ and your home stereo ?	discussion
+B	1032.58	Yeah .	discussion
+A	1032.63	Uh Mm-hmm .	discussion
+A	1042.91	Mm-hmm .	discussion
+A	1048.17	But uh , the D_V_D_ players and home cinema sets often double as stereo hi-fi sets probably .	discussion
+D	1051.7	Yeah .	discussion
+A	1055.81	It's what , from my experience .	discussion
+B	1056.48	But isn't it It's only for television , I thought .	discussion
+D	1056.9	I don't know .	discussion
+D	1057.31	Hi-fi set is uh not often used uh as I know of in combination with television .	discussion
+A	1058.69	Okay .	discussion
+A	1064.04	But we gonna Oh , it is only for televis So wha what What wha what uh what document But , where where did it uh Where did you find that ?	discussion
+D	1066.9	Yes .	discussion
+B	1067.41	Not I thought it was only for television .	discussion
+B	1070.63	So so we probably don't have to have to uh have the functions for D_V_D_ player or V_C_R_ .	discussion
+D	1070.66	Yes , it is only for television , but uh Well well we we're gonna brainstorm about that .	discussion
+D	1078.36	If we think it's useful , we do it .	discussion
+B	1084.14	Uh , in the email .	discussion
+A	1085.33	Oh , okay .	discussion
+D	1085.59	That's right .	discussion
+B	1085.6	I thought it said uh Yeah , television remote control .	discussion
+D	1085.99	It's a television remote control .	discussion
+D	1087.52	But I was thinking since it is useful with D_V_D_ Yep .	discussion
+C	1087.83	Yes , Yes , that's uh something extras .	discussion
+A	1090.24	Yeah , but most television remote controls support other functions as well .	discussion
+A	1094.18	So we can No , we have to think about that .	discussion
+B	1094.98	True .	discussion
+B	1095.15	Yeah .	discussion
+B	1097.46	True .	discussion
+A	1097.66	Okay , uh but uh we've gonna put some a uh is is it so user-friendliness , is a is a pri priority in this case , or Okay .	discussion
+D	1105.44	Yeah , also no one's gonna buy it .	discussion
+C	1105.46	Yeah .	discussion
+B	1105.77	Yeah , yeah .	discussion
+B	1107.64	Yeah .	discussion
+D	1108.32	I guess .	discussion
+C	1108.45	Only the experts .	discussion
+B	1108.8	True .	discussion
+A	1110.13	Well , this the maybe is uh some aspect of the uh , or or some point at at which we can excel by making it very useful .	discussion
+D	1110.14	Yeah .	discussion
+A	1117.64	That w Well , then you're you're the usability uh man , so this uh gonna be a very important task for you then .	discussion
+B	1122.4	Oh my God .	discussion
+D	1123.93	Yeah .	discussion
+B	1124.09	Okay .	discussion
+A	1125.51	Okay .	discussion
+A	1126.3	Well , other ideas ?	discussion
+A	1127.07	How can we make it trendy or something ?	discussion
+A	1128.9	Do uh by just sh shape and the look of it ?	discussion
+C	1129.56	Uh , to go with to go with fashion and Team Leader .	discussion closing
+A	1132.65	Maybe a can opener underneath it ?	discussion
+A	1135.39	I don't know .	discussion
+B	1135.54	For the bear .	discussion
+A	1136.1	Or someth something special , like uh M_P_ three player inside of it , or uh Oh , well then the production costs are gonna be too high probably .	discussion
+B	1136.94	Uh I I uh , no I think it Uh , I th I think yo we have to keep it simple , to get a whole market .	discussion
+D	1143.09	Yeah , way too high .	discussion
+D	1146.15	Yep .	discussion
+B	1148.02	It's international , so we have to use a standard .	discussion
+A	1148.42	Okay .	discussion
+A	1148.94	Maybe with different type of fronts or uh Well , m has to be something spectacular or uh one which makes it We gonna skip back to the goals probably .	discussion project specs and roles of participants
+D	1152.5	Well that's an idea of course , yeah .	discussion
+A	1159.47	Uh , original , trendly , and user-friendly Well , we al also already talked about user-friendliness .	project specs and roles of participants
+D	1159.68	Mm-hmm .	project specs and roles of participants
+B	1165.42	Hmm .	project specs and roles of participants
+A	1166.56	No , well something trendy and original , well that that goes hand in hand I guess .	project specs and roles of participants
+D	1170.86	Yeah .	project specs and roles of participants
+A	1171.09	When something is original , it tends to be trendy , probably , or we should make it combination of that .	project specs and roles of participants
+A	1178.42	'Kay , so you the um technical part of the process is something you're gonna look after for , so you have to think about what kind of uh equipment you want to uh , you know , you want to manage with it .	project specs and roles of participants
+A	1193.17	Well , and that's an important part for you then , with gogors regards to the user-friendly part of it .	project specs and roles of participants
+B	1195.54	Use friendly .	project specs and roles of participants
+B	1198.14	Yep .	project specs and roles of participants
+A	1200.74	Well , and you uh should look out for what makes it trendy .	project specs and roles of participants
+A	1204.89	Well , you know , y like some special feature .	project specs and roles of participants
+A	1207.35	Or some Does it does it gets some gadgetness or something .	project specs and roles of participants
+D	1209.47	Yeah .	project specs and roles of participants
+D	1211.18	Yes , what the market wishes .	project specs and roles of participants
+A	1212.9	Okay .	project specs and roles of participants
+A	1215.36	Well , the closing .	closing
+A	1216.05	Next meeting starts in thirty minutes .	closing
+A	1218.83	Individual , I think so .	closing
+A	1220.04	The the Industrial Designer will w or the working design , of course , we will uh Already s said that .	closing
+A	1228.44	The User Interface Designer is it a User Inter User Interface the technical functions design .	closing
+B	1232.85	Yeah .	closing
+B	1233.21	Yeah , yeah .	closing
+D	1233.35	Yeah .	closing
+B	1233.64	Interface d Oh , I don't I didn't get a message .	closing
+A	1235.82	And the Management Expert of uh the Marketing Expert .	closing
+A	1238.84	User requirements specifi Well , this one was already clear to us .	closing
+A	1243.07	Specific instructions will be sent to you by your personal coach .	closing
+A	1247.45	I don't know how much time we have left .	closing
+A	1249.18	Oh , not many I guess .	closing
+A	1250.81	We started at twelve .	closing
+D	1251.57	You just got a message .	closing
+A	1252.82	Oh , and what does it said ?	closing
+D	1253.96	And it said uh five minutes , so we got four and a half .	closing
+A	1256.47	W Okay , well um No , we're uh ahead of schedule then .	closing
+D	1260.39	No .	closing
+D	1262.48	He's the whatever .	closing
+B	1263.01	Oh , the Project Manager .	closing
+D	1265.61	Team Leader .	closing
+D	1268.08	He is the whatever .	closing
+A	1269.23	Yeah , close it .	closing
+A	1271.61	I'm gonna make some minutes or take some minutes .	closing
+B	1271.64	Okay .	closing
+A	1276.3	And uh it's it's clear you can put the stuff in the project documents presentations .	closing
+D	1276.42	Yes .	closing
+B	1279.99	Okay .	closing
+A	1280.56	You can all Or we're all uh Yeah .	closing
+D	1281.88	Project joc project documents is for showing uh on the white-board .	closing
+A	1285.8	Yeah , but we're all familiar with uh uh Microsoft PowerPoint , are we ?	closing
+D	1285.9	Yeah .	closing
+D	1290.49	Yes .	closing
+B	1290.78	Yeah .	closing
+A	1290.87	Yeah , okay .	closing
+A	1291.52	I'm gonna wri uh write some stuff down and then we're ready .	closing
+D	1292.09	Alright .	closing
+D	1296.15	Okay .	closing
+A	1298.71	Or we can leave already I guess .	closing
+A	1301.25	or uh or sh or should we uh or is important that we leave at exact uh Okay .	closing
+D	1301.4	Yeah .	closing
+C	1305.55	No .	closing
+D	1305.99	No .	closing
+D	1306.91	I don't think so .	closing
+B	1308.88	I don't think Oh I will need it .	closing
+D	1309.4	Yes ?	closing
+A	1309.91	Yes .	closing
+D	1310.6	Great .	closing
+C	1310.92	Oh .	closing
+A	1312.37	We'll see each other in uh thirty minutes .	closing
+D	1314.84	Yeah .	closing
+D	1316.11	Good luck .	closing
+A	1317.31	Yeah , good luck .	closing
+D	1321.08	I will need it .	closing

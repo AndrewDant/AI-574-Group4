@@ -1,0 +1,312 @@
+B	19.68	Oops .	opening
+A	21.23	So , hello everyone .	opening
+A	22.95	We're here to have a kick-off meeting for the design of a f for the beginning of new project um uh remote control for the design for a new remote control .	opening
+A	36.12	I'm the Project Manager Christa Pavlov and okay let's begin .	opening
+A	45.68	So I'm first going to do an opening then we get used to one anothers and we speak about this tool we're going to design and try to make a project plan , some discussion and then we talk of uh the next meeting .	opening
+A	73.68	So um we want to to do a new remote control .	project specs and roles of participants
+A	79.67	It has to be original , trendy and user friendly .	project specs and roles of participants
+A	86.85	Um I think the important points we have to t talk about are uh it's functional design , it's conceptual design , and desail detailed design .	project specs and roles of participants
+A	100.72	and for that we're going um all to work individually and then have meeting during the whole day .	project specs and roles of participants
+A	111.62	Um , so let's try the whiteboard .	drawing exercise
+D	117.75	Wow .	drawing exercise
+A	120.42	Um so any of you who want to go .	drawing exercise
+B	124.48	Yeah , for favourite animals .	drawing exercise
+B	128.04	It's gonna be not my favourite one but the one I can draw .	drawing exercise
+B	133.41	And it's gonna be you'll try to guess .	drawing exercise
+D	137.15	Wow .	drawing exercise
+A	146.83	Wow .	drawing exercise
+D	147.99	Complex .	drawing exercise
+D	150.94	Huh ?	drawing exercise
+D	153.17	A cat .	drawing exercise
+C	154.56	No .	drawing exercise
+B	155.79	No .	drawing exercise
+D	156.19	No .	drawing exercise
+D	157.01	Darn .	drawing exercise
+D	159.51	Uh .	drawing exercise
+A	160.08	A rabbit .	drawing exercise
+B	161.11	Yes , that's a rabbit .	drawing exercise
+D	163.3	A what ?	drawing exercise
+B	163.42	That's my favourite one .	drawing exercise
+A	163.82	A rabbit .	drawing exercise
+D	164.64	A r a rabbit , oh oh yeah , where is the carrot ?	drawing exercise
+C	165.01	Rabbit .	drawing exercise
+D	170.29	Okay mm-hmm .	drawing exercise
+B	172.09	That's it .	drawing exercise
+A	173.42	You want to go ?	drawing exercise
+D	174.79	I am not very good at uh this kind of stuff .	drawing exercise
+B	175.9	Hmm .	drawing exercise
+D	179.62	My favourite animal is Guess .	drawing exercise
+B	186.19	Wow .	drawing exercise
+C	187.18	You wa Is the white okay .	drawing exercise
+A	188.52	A human ah .	drawing exercise
+D	191.19	A human , yay .	drawing exercise
+D	193.98	It's a very complex animal and um yeah .	drawing exercise
+B	196.92	No .	drawing exercise
+D	200.27	Characteristics of this this animal is dangerous .	drawing exercise
+A	208.04	Mm I think you're supposed to , yeah .	drawing exercise
+A	225.14	Hmm .	drawing exercise
+C	226.1	I guess you can .	drawing exercise
+B	228.44	Wow .	drawing exercise
+B	229.16	That's cobra .	drawing exercise
+D	230.36	Ah , a kind of uh snake ?	drawing exercise
+D	233.02	Cobra ?	drawing exercise
+D	234.23	Exactly .	drawing exercise
+C	234.4	Yeah uh not really .	drawing exercise
+C	235.81	Small cobra .	drawing exercise
+B	236.72	No , it just small cobra , yeah .	drawing exercise
+D	238.45	Uh-huh .	drawing exercise
+A	239.66	Is that a worm ?	drawing exercise
+B	239.78	It's co c quite recognisable .	drawing exercise
+A	240.76	Or Uh yeah Christa Pavlov Mm .	drawing exercise
+D	245.69	What about you uh Christa ?	drawing exercise
+C	249.52	Chris .	drawing exercise
+B	249.96	Christa Christa .	drawing exercise
+D	259.52	A fish .	drawing exercise
+C	261.34	Mm .	drawing exercise
+B	261.92	Hmm .	drawing exercise
+A	262.43	Smiling fish .	drawing exercise
+C	262.96	Smile fish .	drawing exercise
+D	263.75	A smiling fish .	drawing exercise
+D	267.37	Mm-hmm .	drawing exercise
+A	267.97	Mm-hmm .	drawing exercise
+B	268.02	Okay .	drawing exercise
+D	268.41	So , w whiteboard is working ?	drawing exercise
+C	270.45	Yeah .	drawing exercise
+A	270.47	Yeah .	drawing exercise
+D	271.35	Good .	drawing exercise
+D	272.74	Next .	drawing exercise
+A	273.87	Next .	drawing exercise
+A	274.82	Let's talk about money .	drawing exercise
+B	274.84	Just tr try to guess who is a User Interface Designer .	drawing exercise
+D	278.44	Yeah , well .	drawing exercise
+B	279.57	According to the drawings .	drawing exercise
+D	282.8	Not me .	drawing exercise
+C	285.95	Yeah , you're Hmm .	drawing exercise project budget
+B	286.26	Okay .	drawing exercise
+D	287.85	So .	project budget
+A	288.78	So .	project budget
+D	289.27	Twenty five Euro for a remote control .	project budget
+A	291.73	Yeah , mm that's the price we want to that's the aim for the price for the remote control .	project budget
+D	295.61	Okay .	project budget
+A	299.46	We aim to do this profit .	project budget
+D	306.71	'tis big number .	project budget
+B	307.47	On the international market .	project budget
+A	307.75	Yeah .	project budget
+A	309.28	Mm-hmm .	project budget
+C	309.39	Yeah , we're to sell two million then .	project budget
+B	311.75	Wow .	project budget
+D	313.18	Mm-hmm .	project budget
+A	313.73	Mm for a production cost of mm twelve fifty Euros maximum .	project budget
+A	323.34	'Kay .	project budget
+A	327.2	So any of you have experience in remote controls ?	look and usability
+D	332.11	Uh yes , we have plenty at home .	look and usability
+C	332.36	Mm yeah .	look and usability
+D	336.15	In fact , my daughter likes l remote controls .	look and usability
+A	339.17	That So that could be a great um application .	look and usability
+B	339.2	Mm .	look and usability
+B	339.85	To eat ?	look and usability
+D	340.77	To eat ?	look and usability
+D	341.27	Yeah , mainly , and to break .	look and usability
+A	348.8	Remote controls children proof .	look and usability
+D	350.97	Mm-hmm .	look and usability
+A	351.15	Mm mm-hmm .	look and usability
+D	351.33	Yeah .	look and usability
+D	351.93	Ye ye yeah .	look and usability
+B	352.08	Children proof .	look and usability
+B	353.97	Hmm .	look and usability
+D	354.52	So she likes uh buttons which make click , so it has to click .	look and usability
+C	356.83	Yeah , pret Yeah .	look and usability
+A	357.24	Okay .	look and usability
+A	361.76	So they have to be waterproof maybe ?	look and usability
+D	364.26	It has to be uh wha baby proof yeah but mainly it has to be very robust because even if she's not very tall she's uh high enough so that uh when she throw it away it's uh So it has to be very robust .	look and usability
+A	365.83	'Cause they eat she ate it .	look and usability
+A	372.1	Mm-hmm .	look and usability
+C	380.34	Ah .	look and usability
+B	382.63	Okay , unbreakable .	look and usability
+D	384.32	Unbreakable , yeah .	look and usability
+B	385.01	Uh-huh .	look and usability
+C	385.37	Yeah , we have some child lock or something , yeah .	look and usability
+D	388.59	Mm-hmm .	look and usability
+A	389.39	Mm-hmm .	look and usability
+D	390.31	And uh it has to be nice looking , colourful , maybe colourful , because uh nobody has colourful remote control , they're always black , yeah , but this one could be I dunno , purple or b Yeah , yeah .	look and usability
+C	396.51	Yeah .	look and usability
+A	397.76	Colourful , yeah mm .	look and usability
+B	398.5	Colourful ?	look and usability
+B	399.28	That's not practical .	look and usability
+C	400.26	Yeah .	look and usability
+A	401.83	No , that's a good idea .	look and usability
+C	402.1	Yeah , it's always black or yeah .	look and usability
+A	404.01	Mm mm-mm .	look and usability
+B	404.04	No .	look and usability
+B	408.12	But how gonna okay , just uh but it's uh monochrome it's n it's not like Otherwise you will never find it .	look and usability
+A	408.44	Yeah .	look and usability
+C	412.0	Yeah .	look and usability
+A	413.53	No , because you think , why not .	look and usability
+C	413.55	Yeah .	look and usability
+D	415.27	One colour .	look and usability
+C	416.87	Yeah .	look and usability
+D	417.57	Yeah , yeah .	look and usability
+C	418.1	Yeah even we can change colours , no ?	look and usability
+C	419.61	Like the uh like the phones and these things we c yeah .	look and usability
+D	420.52	Oh like the phones , yeah , it could change colours , yeah .	look and usability
+B	422.49	Cool .	look and usability
+A	423.48	Mm-hmm .	look and usability
+C	424.09	At least for children like one colour and .	look and usability
+B	425.1	Ch Yeah , but without any extremes like n not of this size , not too large .	look and usability
+D	426.02	Yeah .	look and usability
+D	428.47	Good .	look and usability
+A	428.94	Good idea .	look and usability
+C	430.04	And it should be really small and .	look and usability
+A	433.67	Small also ?	look and usability
+A	434.64	Don't you think No uh , not too much buttons or mm .	look and usability
+C	434.81	Huh not so big like yeah .	look and usability
+C	439.79	Yeah , not too much buttons and Uh .	look and usability
+D	442.01	Should it be , y you know these uh remote controls where um they are what they call a universal ret remote control so y you can decide that now it's the remote control for the television , then it's the remote control for the the sound system , or for your refrigerator whatever I dunno if it's Or if we should have a targeted re remote control .	look and usability
+A	448.47	Mm-hmm .	look and usability
+C	455.82	Yeah .	look and usability
+A	460.26	Yeah , that's Okay .	look and usability
+A	469.16	So , I think there's So you you think it's better if small than bigger .	look and usability
+D	469.25	So colour , robustness , easy to use , size , yeah , size matters , yeah .	look and usability
+C	474.15	Yeah .	look and usability
+C	475.2	Colour , size , sh Yeah , maybe at least n not bigger than this I guess .	look and usability
+D	480.89	Mm .	look and usability
+A	486.88	No , not too small , yeah .	look and usability
+C	487.11	Yeah yeah , at least it should hold in your hand n properly , like .	look and usability
+B	488.02	Okay .	look and usability
+D	488.2	Yeah .	look and usability
+A	492.1	Hmm .	look and usability
+B	492.18	Yeah , like a palm sized .	look and usability
+C	493.32	Yeah .	look and usability
+D	493.99	Mm .	look and usability
+B	494.26	Just to hold it .	look and usability
+A	496.1	Okay .	look and usability
+D	498.65	But uh what would be different from this , from the others ?	look and usability
+D	502.43	I dunno if Yeah , at least the colour would be different .	look and usability
+C	504.15	Uh maybe we can change the colours that at least the frame .	look and usability
+C	509.57	Mm .	look and usability
+C	510.1	S so then it depends you are to Mm I mean you c you can easily remove the frame .	look and usability
+A	513.4	Mm .	look and usability
+D	516.02	I think one thing important for instance in this remote control if you remember when people use it they're they never find a good button in the right place .	look and usability
+C	522.87	Yeah , yeah .	look and usability
+A	523.11	Mm-hmm .	look and usability
+D	523.64	For some reason they they they click the off button when they want to use the So there's a problem in the design of that kind of remote control somehow , I dunno .	look and usability
+C	524.82	Yeah .	look and usability
+C	527.54	Yeah .	look and usability
+A	531.55	Mm .	components, materials and energy sources
+A	532.22	So , some kind of idea uh with um um cellular phone with a a screen that will tell you what no .	components, materials and energy sources
+B	542.32	No , no screens , it's too complex .	components, materials and energy sources
+A	544.63	Okay .	components, materials and energy sources
+C	545.05	Mm .	components, materials and energy sources
+D	545.19	Too expensive for twelve Euro ?	components, materials and energy sources
+C	546.41	Too expensive , yeah .	components, materials and energy sources
+B	546.95	And n maybe not too expensive , well it's not my problem , but well okay .	components, materials and energy sources
+A	547.64	And too expensive .	components, materials and energy sources
+D	551.28	Ah .	components, materials and energy sources
+B	551.94	But no screens on remote controls .	components, materials and energy sources
+D	554.96	Mm-hmm .	components, materials and energy sources
+A	555.2	Mm .	components, materials and energy sources
+D	555.6	I thought it could be only a screen which would change depending on uh uh the use or even the user .	look and usability
+D	563.42	So ma I prefer to have the off button at the top right , so I would have my own design of the remote control because it's in fact just a a full touch screen remote control , if you if you like .	look and usability
+B	563.87	Mm-hmm .	look and usability
+C	567.32	Ye yeah .	look and usability
+C	572.98	Hmm .	look and usability
+C	576.4	I mean it it's like it's like two types no ?	look and usability
+D	576.77	I don't know if it makes sense , but Yeah , for instance , mm .	look and usability
+A	578.04	Mm-mm .	look and usability
+C	579.99	people are right handed or left handed so y because I am left handed I use like this , say if you're right handed you use like this or so tha your switch on and off should be on yeah .	look and usability
+B	585.7	Mm-hmm , mm-hmm .	look and usability
+A	586.63	Mm-hmm .	look and usability
+D	586.65	Mm .	look and usability
+A	587.2	Mm mm mm .	look and usability
+A	590.76	So adaptable yeah something yeah .	look and usability
+B	592.53	Adaptable .	look and usability
+D	592.64	Maybe , if if it's possible , yeah .	look and usability
+B	593.36	Alright , good , so how many actions do we need to implement in it ?	look and usability
+C	593.37	Mm huh .	look and usability
+C	598.18	Maybe I think even we can keep two switches and then we can uh only make one working .	look and usability
+B	598.28	On off ?	look and usability
+D	600.5	Yeah .	look and usability
+C	604.09	We can adapt only one switch , suppose here like we can make two switches and if I'm left-hander I use this switch to follow the main operations .	look and usability
+B	612.93	I mean if it's less than three uh then we can make it uh like a like three mental states , yeah you know what I mean , we can just make it uh controlled by a brain , huh ?	look and usability
+C	617.16	Two .	look and usability
+D	617.84	Three buttons you mean ?	look and usability
+A	619.88	Three option .	look and usability
+D	621.09	Ah .	look and usability
+C	623.44	Yeah .	look and usability
+C	624.6	Yeah .	look and usability
+A	625.7	Um .	look and usability
+A	627.32	Mm-hmm .	look and usability
+D	629.02	Mm-hmm , yeah , sure .	look and usability
+A	630.12	Maybe if it's more , if there is a software inside that ask you three Hmm .	look and usability
+B	639.26	Mm-hmm .	look and usability
+A	642.68	If it if we want a r universal remote control that we sa like we say before it may may need more than three mm three button , three mm possibilities , ye yeah .	look and usability
+B	654.36	Sh sure , sure .	look and usability
+D	654.37	Yeah , more than three actions that you may want to do at a given time .	look and usability
+C	655.49	Mm yeah .	look and usability
+C	657.69	Yeah .	look and usability
+B	659.68	But for standard actions you usually what do you do , you change channels , you adjust volume , and nothing else .	look and usability
+D	668.0	Yeah but for instance when you change channels you can have you can just go to the next one or go to channel twenty five .	look and usability
+C	673.8	Mm .	look and usability
+C	675.24	Yeah .	look and usability
+A	675.92	Mm .	look and usability
+D	676.53	And that's already more complex to go to channel twenty five .	look and usability
+B	679.32	Mm-hmm .	look and usability
+B	680.36	You do this ?	look and usability
+C	682.0	Yeah .	look and usability
+D	682.33	Uh no .	look and usability
+B	683.14	I usually just change channels .	look and usability
+D	685.56	Because I'm only using three or four channels but And then back to the one I was before , so there's whichever it was .	look and usability
+C	689.33	Yeah .	look and usability
+C	690.1	But they keep generally their t slash slash uh this thing and then the dash dash and then you can put yeah , you can only have one bit .	look and usability
+A	696.56	Yeah .	look and usability
+A	697.22	I change channel like this , m uh I want to go to twenty five , and then to ten , uh-huh mm yeah .	look and usability
+C	699.28	Dash .	look and usability
+A	705.24	Also we can be here yeah , that would be cool .	look and usability
+B	706.26	Uh-huh .	look and usability
+C	706.41	Yeah you can yeah .	look and usability
+B	707.57	Go back button is good .	look and usability
+C	707.96	Yeah .	look and usability
+D	708.21	Yeah .	look and usability
+D	708.68	Uh uh we had that in in other countries .	look and usability
+B	709.47	I once had it .	look and usability
+C	709.96	Yeah yeah , the previous button is .	look and usability
+A	711.41	Mm yeah .	look and usability
+D	712.29	Yeah e even the history so you could like uh undo previous of the previous .	look and usability
+B	712.9	Mm-hmm .	look and usability
+C	714.36	Uh , okay .	look and usability
+B	715.61	History .	look and usability
+C	716.1	Oh uh .	look and usability
+D	719.88	Then you can watch what your ah you could also record your record your sequence of actions , that becomes more complex , but you could look at what uh the other people have used there or remote controls .	look and usability
+C	721.19	Uh .	look and usability
+C	723.95	Yeah .	look and usability
+C	732.96	Yeah yeah , what the which channels the viewer Marketing yeah .	look and usability project specs and roles of participants
+A	734.36	Mm-mm .	look and usability
+D	735.61	Yeah maybe it's a Okay .	look and usability closing
+A	738.38	Okay .	closing
+A	739.24	So I think we have full of idea .	closing
+A	743.28	Um we're going to meet again in thirty minutes and uh I want you to mm work on these ideas and try to make a uh the ones , make um to decide what what are the ones important and what are the one that we don't want .	closing
+A	767.69	And um m maybe more in the technical parts what uh do we want to do .	closing
+A	775.45	Um .	closing
+A	778.65	So um your personal coach will send you some instruction for for this thirty minutes .	closing
+D	785.7	So what does M_E_ means ?	project specs and roles of participants
+D	787.57	M_E_ the user requirements ?	project specs and roles of participants
+D	789.03	Or that's uh that's for us ?	project specs and roles of participants
+B	790.71	Market Expert .	project specs and roles of participants
+A	791.69	Mm .	project specs and roles of participants
+D	791.79	Uh that's me .	project specs and roles of participants
+D	792.96	Oh , of course yeah , the user requirement specifications , uh-huh , yeah .	project specs and roles of participants
+A	799.67	Mm-hmm .	project specs and roles of participants
+D	801.58	Okay .	project specs and roles of participants
+A	802.62	Mm okay .	project specs and roles of participants
+D	802.79	I'll think of that .	project specs and roles of participants
+A	810.34	So .	agenda/equipment issues
+D	811.43	So ?	agenda/equipment issues
+A	812.12	I think that's all .	agenda/equipment issues
+D	813.57	Meeting's over ?	agenda/equipment issues
+D	814.5	Great .	agenda/equipment issues
+A	814.62	Yeah .	agenda/equipment issues
+B	814.88	Okay .	agenda/equipment issues
+C	817.33	Thank you .	agenda/equipment issues
+D	818.44	Thank you .	agenda/equipment issues
+B	818.97	Thank you everybody .	agenda/equipment issues
+A	819.27	See you in thirty minutes .	agenda/equipment issues

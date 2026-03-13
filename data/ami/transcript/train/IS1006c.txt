@@ -1,0 +1,543 @@
+A	24.28	Okay , so now we are on the conceptual design meeting .	opening
+D	28.72	Mm-hmm .	opening
+A	28.92	Uh y getting close to the last is the penultim meeting .	opening
+B	36.26	How was lunch ?	opening
+A	38.14	Mm great .	opening
+D	40.13	Thanks Don't be sarcastic .	opening
+D	45.45	Mark .	opening
+A	49.02	So um I will again do the secretary part uh we will have three presentation first um uh the industrial design , first Rama then Mark and then Sammy .	opening
+D	58.72	Uh Rama .	opening
+C	60.4	Ramaro .	opening
+A	64.45	Um um we have to take a decision on the control remote control concepts and we have forty minutes .	opening
+B	77.13	Mm .	opening
+A	77.79	So what we want to the decision we want to take on this meeting are on the um first on the component concept , so what kind of energy we use uh what kind of chip on print and one ki kind of case .	opening
+A	95.4	And also on user interface concept uh what kind of interface we use and if there is some supplements .	opening
+A	104.11	And at the end um Sammy will give um a trend watching on what he's he's been doing .	opening
+A	113.47	It's So , let's go .	opening
+A	118.48	First with Rama .	opening
+A	128.98	Participant two .	agenda/equipment issues
+C	130.73	Yeah , participant two .	agenda/equipment issues
+C	134.0	Component .	agenda/equipment issues
+A	134.98	Mm-hmm .	agenda/equipment issues
+C	139.56	Yep .	agenda/equipment issues
+C	142.08	So we're to mainly design f mainly need to know which components we'll use for energy , and the material and interface .	components, materials and energy sources
+C	150.81	For energy there are maybe two or three possibilities .	components, materials and energy sources
+C	154.34	First one , we can use simple battery , or we can use traditional solar cells or mm and the material we can have plastic , rubber which is good for this R_S_A_ and then uh titanium , which can be which have very good look an and then interface we're to use push buttons or liquid crystal d L_C_D_ display .	components, materials and energy sources
+D	170.52	Ah .	components, materials and energy sources
+C	187.64	And we can use some , moving kind of thing .	components, materials and energy sources
+C	197.7	So , as we discussed before , we need to we would like to have some speech recognition s chip in our remote control .	components, materials and energy sources
+C	209.35	So this can be simple kind of programmable chip and which can use microphone sensors .	components, materials and energy sources
+C	217.7	And we also want to look at our remote control , so .	components, materials and energy sources
+C	226.44	Still we are looking for possible uh technical uh specifications and how w easy we can do and within our pri range , like we're to in our twelve Euros or around that .	components, materials and energy sources
+C	242.27	So we are looking for simple devices or simple technology to do the location of remote control in a room or in a house .	components, materials and energy sources
+A	250.66	Mm-hmm , okay .	components, materials and energy sources
+C	254.31	So uh we discussed an Excuse me .	components, materials and energy sources
+C	266.1	So we would like to propose battery instead of solar cells and it would be problematic uh to have enough energy with the solar cells and so we would like to just use simple battery .	components, materials and energy sources
+D	272.76	Mm-hmm .	components, materials and energy sources
+C	279.97	And also we want to go for titanium design instead of rubber or and well the problem is with this design we found that we can't use double-curved shapes .	components, materials and energy sources
+D	293.38	What is a double-curved shape ?	components, materials and energy sources
+C	294.82	Like you can have two curves .	components, materials and energy sources
+D	297.19	Uh-huh .	components, materials and energy sources
+B	299.21	Why ?	components, materials and energy sources
+C	301.16	Uh it's I think in manufacturing I guess it's problematic .	components, materials and energy sources
+C	309.19	So , we want to go for simple push buttons because it need a simple chip and it's really lesser uh re really less expensive compared to L_C_D_ which are uh which needs advanced chip technology and it's more expensive , since we want to put some other features such as speech recognition we want to reduce uh cost .	components, materials and energy sources
+B	326.08	Mm-hmm .	components, materials and energy sources
+D	331.32	The cost .	components, materials and energy sources
+A	331.4	Um I want to know why it b uh just uh sorry but for the point before uh why not the rubber , if it is something that it seems to be light .	components, materials and energy sources
+C	336.94	Uh Uh And also like in if you put a it's be difficult to do all the moulding of buttons and these things and Yeah .	components, materials and energy sources
+A	347.4	Okay .	components, materials and energy sources
+A	348.11	You m titanium it's more uh Yes so mm Uh-huh .	components, materials and energy sources
+B	351.2	W we can use something like you know the whole body's titanium but there are some rubber or I dunno some rubber parts like to make it feel better and to you know Yeah .	components, materials and energy sources
+D	362.3	Mm like this ?	components, materials and energy sources
+C	362.61	Yeah .	components, materials and energy sources
+C	365.46	Like in cell phones recently these you can with the rubber in four directions and yeah .	components, materials and energy sources
+D	367.28	Mm-hmm .	components, materials and energy sources
+B	368.42	Yeah .	components, materials and energy sources
+A	370.64	Okay .	components, materials and energy sources
+C	372.87	But full assembly We'll use mainly for titanium rubber is expensive and also it's bit difficult to do all the shapes uh .	components, materials and energy sources
+A	378.52	Okay .	components, materials and energy sources
+A	380.96	Okay .	components, materials and energy sources
+A	384.13	Okay .	components, materials and energy sources
+C	385.72	And this push buttons we we would like to use push buttons instead of L_C_D_s and so we want to mo I mean we're we want to put speech recognition so we want to reduce price on this technology and so that we can have enough space or enough money for S S Y yeah we have simple buttons and speech recognition technology , so Uh l So uh it's like a Yeah maybe maybe we can see depending on how we'll come up with our full design then if we have enough money or like for and because the speech recognition technology will take at least five Euros or or something so we want to reduce the cost on display or this inter Ok Yeah , that can we we can consider , because like it won't take much money I guess , because Okay , yep .	look and usability project budget components, materials and energy sources
+A	388.7	Uh yeah so Okay , s so simple button and uh speech recognition for the more complicated .	components, materials and energy sources
+D	408.22	Speech L_C_D_ .	components, materials and energy sources
+B	411.24	Mm-hmm .	components, materials and energy sources
+A	415.08	Okay .	components, materials and energy sources
+B	415.65	Okay , and still we have mm can we still include the L_ L_S_D_ display ?	components, materials and energy sources
+B	421.35	L_C_D_ yeah L_C_D_ .	components, materials and energy sources
+D	422.63	Seems not , it's either L_C_D_ or push-button .	components, materials and energy sources
+B	424.6	No , it's not gonna be a t no touchable but still like a source of information or source for menus .	components, materials and energy sources
+D	431.07	Ah .	components, materials and energy sources
+B	440.34	Okay , so let's try it , let's t Yeah , yeah , it's it's not gonna be a touch pad , uh just a display for giving you information .	look and usability project budget
+D	447.26	The L_C_D_ would The display would only be display and not uh touch sensitive you mean .	look and usability project budget
+D	454.97	Just uh for output , yeah .	look and usability
+D	458.4	Yeah .	look and usability
+A	461.12	Mm-hmm .	look and usability
+B	464.14	Mm-hmm .	look and usability
+A	468.74	Okay .	components, materials and energy sources
+A	472.29	Mm .	components, materials and energy sources
+C	472.92	You have any further questions or ?	components, materials and energy sources
+D	475.99	I guess no um .	components, materials and energy sources
+D	477.81	So the batteries uh are going to be very light .	components, materials and energy sources
+C	479.97	Yeah .	components, materials and energy sources
+C	483.01	Yeah , we're to go for li and now I think we have many options in the market so we can go for small nickel or alkaline batteries for really light batteries and with uh good price .	components, materials and energy sources
+D	488.65	Okay .	components, materials and energy sources
+B	489.82	Mm-hmm .	components, materials and energy sources
+B	490.74	Mm-hmm .	components, materials and energy sources
+D	497.73	So this device on n that can be used for speech recognition could also be used for just uh the finding it basically , instead of clapping why not just be ask .	look and usability
+C	508.55	Yeah , that's then the the one thing we want to know is like because remote control is used for like in the household so it it it will be it m maybe at least five , six people want to use it so so how to uh uh how to define our re speech recognition whether we want to do s speaker independent or speaker dependent .	look and usability
+D	523.47	Mm-hmm .	look and usability
+C	532.64	If we're going for more speaker independent then it would be like again cumbersome and we need really m more technology and so Yeah , if if everybody in the house n to locate then we're to go for some speaker independent technology or something .	look and usability
+A	541.3	Okay , for the location .	look and usability
+A	543.77	Hmm .	look and usability
+D	550.68	Okay .	look and usability
+A	556.54	Okay .	industrial designer presentation
+A	558.46	So let's now go to the you don't have more question ?	industrial designer presentation
+D	561.54	No , it's okay .	industrial designer presentation
+B	561.91	No more questions .	industrial designer presentation
+A	562.32	Um mm thank you mm .	industrial designer presentation
+C	562.49	Yep .	industrial designer presentation
+C	562.85	Thank you .	industrial designer presentation
+D	563.15	Puts less of constraint on what we can do but it's always like that .	industrial designer presentation
+B	565.39	Mm yeah , yeah .	industrial designer presentation
+A	565.75	Yeah .	industrial designer presentation
+C	565.83	Yeah .	industrial designer presentation
+D	568.44	We have dreams and the in the end we find out that it's not feasible .	industrial designer presentation
+A	572.93	Yeah , but mm .	industrial designer presentation
+C	573.67	Oh .	industrial designer presentation
+D	573.99	Anyway .	industrial designer presentation
+C	574.58	We have uh some limitations .	industrial designer presentation
+D	576.53	Yeah .	industrial designer presentation
+B	576.57	But still uh L_S_D_'s already quite nice , L_C_ I'm an artist , sorry .	industrial designer presentation
+D	578.48	L_C_D_ .	industrial designer presentation
+D	579.1	L_S_D_ is something else , and it's quite nice as well .	industrial designer presentation
+A	586.02	Okay .	agenda/equipment issues
+D	590.78	So , go on uh artist .	industrial designer presentation
+B	590.92	So uh , that's not I hope that's not too much .	industrial designer presentation
+A	591.37	Um yeah .	agenda/equipment issues
+A	593.67	Now let's talk about uh interface .	agenda/equipment issues
+B	594.11	Okay .	industrial designer presentation
+B	595.8	Uh participant number three .	industrial designer presentation
+A	598.54	Three .	agenda/equipment issues
+C	598.88	Three .	agenda/equipment issues
+B	600.45	Uh mm mm uh have a look at this no it's yeah .	agenda/equipment issues
+A	601.1	Which one ?	agenda/equipment issues
+D	602.52	Hmm .	agenda/equipment issues
+A	611.89	Okay .	agenda/equipment issues
+B	613.36	Uh so the concept of the interface .	interface specialist presentation
+B	618.0	Generally I developed quite a broad concept not only for the interface , but for possible instruction or user's manual and uh all the complex things that come together with your T_V_ and remote controls .	interface specialist presentation
+B	634.21	So let's start with this .	interface specialist presentation
+B	636.02	We got our perfect remote control with a lot of buttons and uh we got explanation for every button and you can use your time and uh it will take i some days to learn all this buttons and um the L_C_D_ is going to be somewhere here and uh go back button , I don't know really where it is , maybe one of this buttons , and um power on and off mm I I don't remember so uh it it it should be maybe this button is power on and off ?	look and usability
+A	665.76	Mm .	look and usability
+B	672.08	Or no ?	look and usability
+B	674.03	I can see nothing .	look and usability
+B	675.4	So that's our concept .	look and usability
+B	677.59	It's called the millennium remote control .	look and usability
+D	682.33	Let's change millenniums .	look and usability
+B	684.8	Yeah .	look and usability
+C	685.99	So maybe you can use in the end and Uh Mm .	look and usability
+D	688.2	doesn't make sense .	look and usability
+D	689.14	This is very ugly .	look and usability
+B	690.26	Really ?	look and usability
+B	692.48	I thought you like it .	look and usability
+D	693.89	Oh no , too much concept .	look and usability
+B	694.36	Ah okay just press the button , please uh .	look and usability
+D	697.73	Ah .	look and usability
+A	698.21	No .	look and usability
+B	700.47	Yeah , we will not use this .	look and usability
+B	702.44	We will not use this .	look and usability
+B	704.23	But instead of this I will devise That's our concept .	look and usability
+D	708.08	Ah , back today .	look and usability
+B	711.25	And it's got just few buttons , quite low looking , and all this stuff we already we already discussed .	look and usability
+A	720.71	Mm-hmm .	interface specialist presentation
+A	721.59	'Kay .	interface specialist presentation
+B	722.18	And uh what will people say ?	interface specialist presentation
+B	725.75	They'll say it's perfect .	interface specialist presentation
+B	728.21	Or what will say ?	interface specialist presentation
+B	730.55	Uh they will say it's splendid .	interface specialist presentation
+B	732.75	And uh e everyone will say I'll buy it .	interface specialist presentation
+A	736.46	Mm-hmm .	interface specialist presentation
+B	737.29	And everyone's gonna be satisfied .	interface specialist presentation
+D	741.91	Do you think it can come in several colours ?	look and usability
+D	745.4	Or did the Um but not the case .	look and usability
+B	746.51	I would make a backlight of the L_C_D_ screen with different colours .	look and usability
+B	753.29	Not the case .	look and usability
+D	754.67	Uh the case would only be in that uh aluminium uh titanium stuff , like Yeah , well they like uh something which is uh Mm yeah , okay , so that would be the option .	look and usability
+B	759.04	Yeah .	look and usability
+A	759.82	Because apparently from your survey people like colours , no ?	look and usability
+C	764.28	Yeah .	look and usability
+B	768.39	Okay , so let's remember there's a Nokia phone which changeable panels .	look and usability
+B	774.41	Do you like it ?	look and usability
+D	776.23	I don't know I don't have a Nokia phone , but I don't use that but again , uh I might Yeah , bu but Mm-hmm .	look and usability project budget
+C	779.33	But it's uh But it would be expensive , no ?	look and usability project budget
+B	781.26	That's why you don't have it .	look and usability
+B	783.25	That's why , 'cause it's nasty .	look and usability
+C	789.75	If you use colour L_C_D_ .	project budget
+B	791.83	No .	project budget
+C	794.14	Uh instead of that maybe we can change the colour of the assembler .	project budget
+C	799.37	Maybe we can just if users want more colours they can pay more money to get this uh the shapes and they can have different assembly .	project budget
+B	811.46	Um , I am here .	project budget
+C	813.77	So users have different I mean they have their own interests , colour interests and so So we can just if they want they can just pay another two Euro .	project budget
+A	813.81	Okay .	project budget
+A	820.12	So ?	project budget
+B	820.2	Mm-hmm .	project budget
+A	824.73	Uh-huh , okay , so you you propose something with option i that increase the price if we if you want o more colours on L_C_D_ , yeah .	project budget
+B	824.88	'Kay .	project budget
+C	827.52	Yeah .	project budget
+C	829.54	Yeah yeah yes .	project budget
+C	831.27	If they want like uh so that we can yeah .	project budget
+D	833.37	Kind of upgradable uh remote control .	project budget
+C	835.17	Yeah .	project budget
+D	836.85	Wow , wow .	project budget
+A	837.18	Okay .	project budget
+C	837.98	Just they'll get few more things and few more colours .	project budget
+B	841.27	Okay , what uh there's one more decisi uh one more solution in fact , um 'cause there are some some paints that can change colour according to where they are , like they can reflect different colours depending on what is around , like what colour is around , and depending on the temperature , yeah .	components, materials and energy sources
+C	855.42	Lights , yeah .	components, materials and energy sources
+D	856.5	Mm .	components, materials and energy sources
+A	857.24	And thermodynamic also .	components, materials and energy sources
+C	859.82	Yeah .	components, materials and energy sources
+A	859.94	Mm-hmm .	components, materials and energy sources
+D	860.28	Like a chameleon .	components, materials and energy sources
+A	862.54	Mm-hmm .	components, materials and energy sources
+C	862.64	Yeah yeah .	components, materials and energy sources
+B	864.07	We can make it in fact .	components, materials and energy sources
+A	865.36	Yeah but that's maybe mo too much expensive , yeah .	components, materials and energy sources
+C	865.49	Mm .	components, materials and energy sources
+B	865.91	If if if the okay .	components, materials and energy sources
+D	868.32	Mm-hmm .	components, materials and energy sources
+A	869.14	But uh it can be in uh maybe in an a gradable version , but Mm-hmm .	interface specialist presentation components, materials and energy sources
+B	872.64	Mm-hmm , mm-hmm , so Uh-huh .	interface specialist presentation components, materials and energy sources
+C	873.18	Yeah .	components, materials and energy sources
+D	874.11	Because uh I think there are two kinds of people .	interface specialist presentation
+D	875.92	Those for which the remote control is uh is to be uh something useful uh I'm going to talk about this later but and those for which is something that that that uh is uh specific to them so it it's like a signature .	interface specialist presentation
+D	893.28	My remote control is pink .	interface specialist presentation
+D	895.66	Nobody else than me has a pink remote control .	interface specialist presentation
+D	900.32	And that makes me special .	interface specialist presentation
+A	903.57	Okay and you think that we don't have to make to make them pay more because of uh o or this is Okay , so so i it's not uh a s base service it's a Mm .	interface specialist presentation
+D	910.3	I think I think they would be ready p ready to pay more for that .	interface specialist presentation
+D	914.08	Those who wanted to have it pink .	interface specialist presentation
+C	915.83	Uh Mm .	interface specialist presentation
+D	918.23	No mm no .	interface specialist presentation
+B	919.21	So , be an option , yeah .	interface specialist presentation
+D	920.99	It might be optional , yeah .	interface specialist presentation
+A	921.79	Okay .	interface specialist presentation
+C	921.91	But those people will be really few , no ?	interface specialist presentation
+C	923.69	So like we can those Ah .	interface specialist presentation
+D	924.54	The the young people the young people want to be different from their friends .	interface specialist presentation
+D	928.79	Although similar but have something just slightly better .	interface specialist presentation
+A	930.11	Mm-hmm .	interface specialist presentation
+C	930.3	Yeah .	interface specialist presentation
+D	932.54	Pink Mm .	interface specialist presentation
+A	932.7	So m so maybe that's if that it's a selling point maybe it has to be the base .	interface specialist presentation
+C	932.7	Mm .	interface specialist presentation
+B	937.74	Yeah , yeah , yeah .	interface specialist presentation
+D	938.47	Yeah .	interface specialist presentation
+B	940.16	But you know if you want to be different you just take your remote control with you all the time .	interface specialist presentation
+B	946.34	And it makes you different , you know ?	interface specialist presentation
+D	946.41	Yeah , yeah .	interface specialist presentation
+A	946.59	And you'll be different .	interface specialist presentation
+D	947.41	You always have your remote .	interface specialist presentation
+A	948.22	Uh in the train uh , hello uh no .	interface specialist presentation
+D	948.87	Oh , you don't ?	interface specialist presentation
+B	948.9	Anyone has their remote controls here ?	interface specialist presentation
+D	949.99	Yeah .	interface specialist presentation
+D	950.93	You don't have your remo Wh you you know like for instance take the iPod .	interface specialist presentation existing products
+B	951.07	No ?	interface specialist presentation
+A	955.06	Want to change my neighbour .	interface specialist presentation
+D	957.94	It's a kind of remote control .	existing products
+D	959.86	Uh it's white and it's so white that you see it from any anywhere .	existing products
+B	961.29	Mm-hmm .	existing products
+D	964.1	It has this distinctive look and feel and look which people seems to like just because it's a colour that we don't usually see in a remote control .	existing products
+A	964.31	Mm .	existing products
+B	971.38	Okay .	existing products
+D	977.46	White .	existing products
+B	978.31	Uh-huh , uh-huh .	existing products
+A	978.46	Mm-hmm .	existing products
+B	979.82	Could we integrate something into our remote control , something like light ?	components, materials and energy sources
+D	979.91	Seems important .	components, materials and energy sources
+C	982.71	Hmm .	components, materials and energy sources
+B	984.23	That they can use it in darkness , like .	components, materials and energy sources
+D	986.45	Mm glow in the dark , so Okay .	interface specialist presentation components, materials and energy sources
+B	987.04	Hand light , yeah .	components, materials and energy sources
+C	988.74	Yeah maybe like the infrared like we can put some radium chips or something so that like at least um yeah .	components, materials and energy sources
+B	992.61	Mm-hmm .	components, materials and energy sources
+A	996.95	Iradium ?	components, materials and energy sources
+B	1000.75	Okay .	interface specialist presentation
+C	1001.21	Yeah , that Oh .	look and usability components, materials and energy sources
+A	1002.17	Ah sorry .	components, materials and energy sources
+B	1002.61	Okay .	interface specialist presentation
+A	1005.5	Mm .	components, materials and energy sources
+A	1007.55	Okay .	interface specialist presentation
+B	1009.08	Okay .	interface specialist presentation
+B	1009.68	S well , let's go on maybe with the presentation .	interface specialist presentation
+A	1009.69	So mm Mm-hmm .	interface specialist presentation
+D	1012.61	Yeah .	interface specialist presentation
+D	1013.56	Uh-huh , yeah sure .	interface specialist presentation
+B	1015.06	And um the remote control's going to be smart but how smart should it be to not to complicate things too much ?	look and usability
+B	1025.0	And uh I dunno that's a question to you and to mm to Mm-hmm .	look and usability
+D	1033.25	Well so I heard that uh it seems that speech recognition is something that can be done uh so that's the smartness of the thing .	look and usability
+D	1041.86	Currently we don't have guns with speech recognition or uh beer cans with speech recognition but we may have remote controls with speech recognition .	look and usability
+B	1051.35	Okay , okay .	look and usability
+D	1052.34	I dunno .	look and usability
+A	1053.6	Mm , that's a nice world .	look and usability
+B	1053.88	So just just just just think about it um .	look and usability
+D	1057.91	Don't touch the remote .	interface specialist presentation
+B	1058.71	Thank you .	interface specialist presentation
+A	1059.4	Okay .	interface specialist presentation
+D	1059.92	But yeah .	interface specialist presentation
+D	1061.43	Are are you saying here that uh the remote controls should be aware of who is using it ?	look and usability
+D	1066.87	So for instance the young guy would not be able to use it because his father doesn't want .	look and usability
+B	1073.35	Uh yeah I just want to say it should be real smart .	look and usability
+D	1073.92	Like with some Maybe fingerprint recognition or Mm .	look and usability
+B	1078.37	Voice recognition is quite tough .	look and usability
+B	1080.02	I say don't use it , and the control just looks .	look and usability
+C	1084.26	Yeah .	look and usability
+B	1086.82	'Cause I ordered jus To l to l lock it .	look and usability
+D	1087.03	Um Mm .	look and usability
+C	1089.72	Uh that mm that could be feasible I guess , like So since we have we want to do some speaker dependent speech recognition uh so we can use yeah .	look and usability
+D	1094.71	Okay .	look and usability
+D	1100.16	So it could be smart in that way .	look and usability
+C	1102.66	Yeah , yeah .	look and usability
+A	1104.33	Mm .	look and usability
+A	1106.41	Okay .	look and usability
+D	1107.92	But for instance th I I'm thinking about the other uh uh particularity that the the remote control could have .	look and usability
+D	1115.48	S since it it knows who is using it , it might also record the kind of uh channels you are u more often using and uh levels of volumes that you're more often uh things like that and provide you ways of using them , I dunno , somehow , I dunno , that might be expensive but that might also be a good sales pitch again .	look and usability
+C	1124.79	Yeah .	look and usability
+B	1128.33	Yeah , sure .	look and usability
+A	1128.76	Mm .	look and usability
+C	1129.51	Yeah .	look and usability
+C	1134.21	Yeah .	look and usability
+A	1136.29	Mm-hmm .	look and usability
+C	1136.98	Uh it's Hmm .	look and usability
+D	1140.59	The remote that knows you .	look and usability
+B	1142.7	Mm-hmm .	look and usability
+A	1147.05	Okay .	interface specialist presentation
+B	1148.42	Okay , thanks .	interface specialist presentation
+A	1150.73	So it's yeah , Marketing Expert .	agenda/equipment issues
+D	1151.17	My turn ?	agenda/equipment issues
+D	1159.19	Okay , it's alright .	agenda/equipment issues
+A	1161.21	Participant two ?	agenda/equipment issues
+C	1161.97	Four .	agenda/equipment issues
+A	1162.75	Four , sorry .	agenda/equipment issues
+D	1162.75	Four , I think .	agenda/equipment issues
+D	1165.2	Trend , yeah .	agenda/equipment issues
+D	1169.69	No uh yes .	agenda/equipment issues
+D	1175.9	Okay , so I'm going to talk about trends and um I hope this can help us to to understand l how we should design our remote control .	marketing expert presentation
+D	1186.62	So , next slide please .	marketing expert presentation
+D	1188.95	So first maybe just a small recap on how how do we watch trends so it's not so uh simple you might think that it's easy but uh it's not so simple .	trendwatching
+D	1200.05	Anyway these days uh the best uh source of information is the web as you know , so have to to go often on the web and look at uh what the others are doing , and ask real people who are using real remote controls every day uh or any other tool that is similar to a remote control which basically is a small device that people have with them , always , like a phone .	trendwatching
+D	1225.89	We can we can use the phone as a as a good uh uh example of where to in be inspired .	trendwatching
+D	1236.67	Of course those tha d who are watching the trends are also have also to be inspired because in fact they're not only watching the trends , they're inventing it , they're creating the trend .	trendwatching
+D	1247.71	I hope I'm going to try to help you on that .	trendwatching
+D	1251.17	This is more risky because you're not following the trend , you try to invent it , which means either you succeed and you make a lot of money or you don't and you're out of business .	trendwatching
+D	1262.24	So anyway uh next slide please .	trendwatching
+D	1266.8	Uh to be to be quick there's a lot of words here but uh basically there are uh in in the market of of remote controls there are three aspects that we should very pay much attention to .	trendwatching
+D	1280.44	The first one , which seems to be the most important one , is that it has to be fancy , it has to have a fancy look and feel .	trendwatching
+D	1288.48	And uh interestingly this is the very most important thing .	trendwatching
+D	1291.37	It has to be fancy .	trendwatching
+D	1293.68	Strangely enough it's more important to be fancy than to be wi and now that's the second thing it has to be , it has to be technologically i innovative , it has to be new with some of uh new uh technology inside and uh and this is also uh more important than the last thing which we w may think that would have been the most important , which is that it should be easy to use and it should be easy to use as a remote control .	trendwatching
+D	1321.49	So as you see uh it first have to be very nice , s something that people are proud of uh uh that i uh they can be id identified with uh and and then uh something that um contains very novel stuff that they can talk about with their friends , huh , mine has this and not yours .	trendwatching
+D	1345.76	And finally of course it has to be useful as a remote control but it seems that it's not so important that it's useful as a remote control .	trendwatching
+D	1354.71	Next slide please .	trendwatching
+A	1355.73	Mm .	trendwatching
+D	1357.24	Uh and now in a more uh general uh uh broad way of seeing th uh the thing .	trendwatching
+D	1365.28	If we look back and not uh look at only remote controls I think it's important to see that the trends are quite the same in many areas so currently the the trends that we see in l in l big cities like Paris and Milan , well , it seems that this year things should have uh a fruit and vegetable uh way of of look or feel or so .	trendwatching
+D	1393.0	And I think of course uh i it applies to everything .	trendwatching
+D	1397.09	That's the thing with trends .	trendwatching
+D	1398.86	It it can travel f from clothe to furniture same idea .	trendwatching
+D	1404.14	Fruit and vegetable .	trendwatching
+D	1405.17	Think fruit and vegetable .	trendwatching
+D	1409.98	And uh if we co we compare to last year , now it has to be spongy , yeah .	trendwatching
+C	1414.04	Mm .	trendwatching
+B	1415.13	What is spongy ?	trendwatching
+D	1416.2	Well this so so I think uh uh i When we were talking about rubber , I think uh the rubber aspect might be important because it's what is probably more feasible in terms of sponginess .	components, materials and energy sources trendwatching
+C	1416.81	Yeah kind of um maybe Yeah it Yeah .	components, materials and energy sources trendwatching
+A	1429.83	Mm-hmm .	components, materials and energy sources
+A	1431.33	S So maybe titanium it's not a good idea .	components, materials and energy sources
+C	1433.63	Yeah .	components, materials and energy sources
+D	1436.31	Seems not , seems not .	components, materials and energy sources
+C	1438.47	We need to think about mm mm .	components, materials and energy sources
+A	1439.96	Mm-hmm .	components, materials and energy sources
+D	1440.2	Yeah .	components, materials and energy sources
+D	1443.61	So Think more of uh something in the colours of uh like fruit and vegetables and spongy , as a even in the shape it has to be more round and uh more uh uh look natural somehow .	look and usability components, materials and energy sources
+A	1443.76	Um sorry Mark .	marketing expert presentation
+A	1445.27	It seems to be Mm-mm .	look and usability marketing expert presentation
+C	1450.31	Fruit .	look and usability
+C	1452.36	Even shape ?	look and usability
+C	1457.52	More yeah .	look and usability
+C	1462.29	Yeah .	look and usability
+D	1463.07	I mean And not those futuristic uh remote control with angles and uh and titanium like .	look and usability
+A	1468.55	Mm-hmm .	look and usability
+C	1471.09	Mm .	look and usability
+D	1471.75	So that's what people seem to yeah i I know it's quite far from what you thought but that's that's fashion and Okay that's all I have to say .	look and usability marketing expert presentation
+A	1472.07	Hmm .	look and usability
+A	1474.52	You're old-fashioned .	look and usability
+A	1475.63	Sorry .	look and usability
+B	1482.33	Okay .	marketing expert presentation
+A	1485.79	Okay .	marketing expert presentation
+A	1488.22	Mm you have questions ?	marketing expert presentation
+C	1489.33	So these abilities are mainly ad addressed by young people ?	discussion
+C	1495.07	Or it's This you you so did you Where ?	discussion
+D	1496.55	These I'm sorry .	discussion
+D	1500.56	Yeah , yeah we have people uh uh listening to the trends everywhere in the world , of course , as you know our company is quite big and uh so I'm just asking them what are the current trends according to them when they go in the stores and when they ask uh their uh friends that are also well .	discussion
+C	1505.46	Oh .	discussion
+C	1506.22	Oh , okay , mm-hmm .	discussion
+C	1508.9	It's not from mm .	discussion
+C	1511.35	Mm-hmm .	discussion
+C	1514.08	Yeah .	discussion
+C	1518.53	Yeah .	discussion
+C	1519.73	It's more general trend it's not particular to the remote control .	discussion
+D	1522.1	No , it's not it's not this this is very general , yeah .	discussion
+D	1525.03	But it seems that trends travel across things .	discussion
+C	1526.71	Mm .	discussion
+C	1528.35	Yeah .	discussion
+D	1528.95	The what we Sure .	discussion
+C	1530.68	Yeah but some materials n they're to be uh they're to be something like solid like they can't be really spongy or yeah yeah .	discussion
+D	1538.01	Yeah .	discussion
+D	1538.95	We have to I think we have to have the look of fruit and vegetables but we still have to put our chips inside , so of course .	look and usability
+C	1541.64	yeah , yeah sponge , yeah yeah at least that's Yeah yeah that yeah yeah .	look and usability
+D	1547.62	This is your problem .	look and usability
+D	1550.62	This is not mine .	look and usability
+C	1551.89	Yeah .	look and usability
+C	1553.49	Yeah , looking yeah fruit .	look and usability
+C	1554.93	These things can be easily incorporated .	look and usability
+C	1557.61	We can have t colours or this shape or at least yeah .	look and usability
+D	1557.75	Yeah , I think in the colours and in the uh the kind of material .	look and usability
+D	1561.38	If if it's something like rubber made or I think it it's also going to be good .	look and usability
+C	1564.21	Yeah .	look and usability
+A	1565.32	Mm .	look and usability
+C	1566.19	Mm .	look and usability
+A	1567.32	Mm-hmm .	look and usability
+D	1568.42	Okay ?	marketing expert presentation
+C	1569.23	Yeah .	marketing expert presentation
+A	1569.4	Okay .	marketing expert presentation
+A	1572.87	No more question ?	marketing expert presentation
+A	1575.91	Okay .	marketing expert presentation
+D	1576.55	Yep .	marketing expert presentation
+D	1577.21	Thanks .	marketing expert presentation
+A	1578.44	So Mm-hmm .	closing
+A	1590.92	Okay , so we will have uh next meeting in thirty minutes again .	closing
+A	1595.62	Um now you have to go straight on this individual action which i which are for Rama uh wil design , um Mark the user interface design , and uh Sammy uh the product evaluation .	closing
+C	1603.15	Look and feel de Hmm .	closing
+D	1614.2	Mm-hmm .	closing
+A	1614.46	Uh you will work together uh on a new on on a prototype using modelling clay .	closing
+C	1621.79	Hmm .	closing
+C	1623.47	Mm sounds interesting .	closing
+A	1624.49	Mm-hmm um and I as always your personal coach will send you specific instruction .	closing
+D	1635.64	Okay .	closing
+B	1636.33	Okay .	closing
+D	1639.11	Thanks .	closing
+C	1640.02	So , can we highlight the specific features of our yeah , so so we want the speech recogniser and we want some kind of buttons and we want some themes like fruits or vegetables , that's we want to follow general trend .	discussion
+A	1643.24	Yeah you're right , you have to So you say s S do we agree on that ?	discussion
+D	1658.88	Spongy .	discussion
+C	1660.26	Yeah .	discussion
+A	1664.04	Yeah .	discussion
+A	1665.57	We have to .	discussion
+C	1666.42	So , do you think Hmm .	discussion
+B	1667.89	So we have to uh for yeah so are we confident enough on creating trends ?	discussion
+D	1669.35	No , we don't have to , but seems it's the trend .	discussion
+A	1670.26	No .	discussion
+D	1671.86	Again , as I said we can also try to make it , to create the trend .	discussion
+C	1672.13	Yeah .	discussion
+D	1676.69	So there's no Well , that's you t can try to convince us .	discussion
+C	1676.88	Yeah .	discussion
+B	1684.72	Well , we can make it smell like fruit .	look and usability
+D	1688.87	Okay .	look and usability
+A	1689.53	Okay , that's a good idea .	look and usability
+C	1691.31	That's So what about location and these things , people are really interesting on those features ?	look and usability
+D	1691.34	that's a good idea , I Uh I think i yeah i it's again in this uh what I said first it has to be fancy so I think if nobody else pro provides currently a remote control with that kind of stuff and if we can provide it I think it's a good sell for us because we have it and others don't .	look and usability
+A	1691.54	So titanium smell like fruit .	look and usability
+B	1693.83	Yeah .	look and usability
+A	1696.05	Mm-hmm .	look and usability
+C	1701.99	Or they really like They more want these fancy features like Feature Yeah .	look and usability
+A	1715.04	Mm-hmm .	look and usability
+C	1724.71	Yeah .	look and usability
+A	1725.81	Okay .	look and usability
+D	1725.93	It's fancy .	look and usability
+D	1727.08	Whether it's useful or not doesn't seem to be very important .	look and usability
+C	1729.92	Yeah .	look and usability
+A	1730.36	I I agree with uh this uh Now we have to decide on what kind of fanciness .	look and usability
+C	1731.49	Yeah .	look and usability
+A	1739.59	Do we take titanium smelling like fruit , or do we make spongy uh fruity-like Mm .	look and usability
+C	1744.6	Yeah .	look and usability
+C	1746.17	Uh we will try to explore these two options and yeah yeah .	look and usability
+D	1748.01	Maybe you could explore the two option .	look and usability
+A	1749.22	Yeah , yeah .	look and usability
+B	1749.59	Mm-hmm , mm-hmm .	look and usability
+B	1751.03	Could we make a titanium shape ?	components, materials and energy sources
+C	1753.88	Uh yeah at least like we can make banana or yeah it's it's yeah that's a we're to look for and and s we're to see the whether rubber is expensive and d Hmm .	components, materials and energy sources
+B	1754.12	I mean fruit-shaped .	components, materials and energy sources
+A	1758.84	Don't you say that you cannot do double shape uh curved shape yeah .	components, materials and energy sources
+B	1758.92	But Doub double-curved .	components, materials and energy sources
+D	1762.8	Mm .	components, materials and energy sources
+D	1763.74	Seems to be .	components, materials and energy sources
+A	1766.23	Mm-hmm .	components, materials and energy sources
+A	1766.77	Okay .	components, materials and energy sources
+B	1768.66	Okay , okay .	components, materials and energy sources
+B	1773.22	In fact I just agreed to make uh to make the like titanium panels on a whole rubber body .	components, materials and energy sources
+B	1785.28	Well , okay w we'll see .	components, materials and energy sources
+A	1785.71	Mm-mm .	components, materials and energy sources
+A	1786.73	Okay , so you explore now that you're going to work together these these two .	components, materials and energy sources
+B	1790.07	Yeah We'll see .	components, materials and energy sources
+C	1790.53	Mm .	components, materials and energy sources
+A	1792.2	Or or spongy an yeah .	components, materials and energy sources
+C	1794.36	Yeah .	components, materials and energy sources
+C	1795.4	Maybe we can have two different assembly also like one spongy and one kind of titanium .	components, materials and energy sources
+A	1801.68	Mm .	components, materials and energy sources
+C	1802.92	we have only the plastic or the the chippy yeah fibre chips or Uh .	components, materials and energy sources
+D	1805.45	If you have time .	components, materials and energy sources
+B	1805.89	We'll see .	components, materials and energy sources
+A	1806.8	Mm .	components, materials and energy sources
+A	1808.32	Yeah I don't think w I think we have to choose .	components, materials and energy sources
+A	1811.43	If we choose uh titanium or if we choose spongy but uh it cannot be both .	components, materials and energy sources
+B	1814.5	We'll see .	components, materials and energy sources
+B	1815.14	I I really don't like this modelling clay 'cause you know it makes some for for I dunno uh yeah um we'll look .	components, materials and energy sources
+C	1817.17	Yeah .	components, materials and energy sources
+D	1821.16	For creation .	components, materials and energy sources
+C	1822.23	Yeah .	components, materials and energy sources
+C	1824.82	Yeah .	components, materials and energy sources
+A	1826.84	Ah you can pretend that it's uh titanium .	components, materials and energy sources
+C	1827.49	Even design .	components, materials and energy sources
+D	1830.62	You can paint it afterward .	components, materials and energy sources
+B	1833.49	Okay , okay .	components, materials and energy sources
+D	1833.63	No problem .	components, materials and energy sources
+D	1834.12	We have a very large department of paint .	components, materials and energy sources
+A	1837.62	Yeah , do don't worry , you you you speak with mm mm .	components, materials and energy sources
+D	1840.22	You will do it .	components, materials and energy sources
+B	1841.42	Alright , alright .	components, materials and energy sources
+A	1843.95	Okay .	components, materials and energy sources
+A	1844.99	So explore a shape .	components, materials and energy sources
+C	1851.57	So still we want to keep L_C_D_ ?	components, materials and energy sources
+C	1853.51	Or Okay .	components, materials and energy sources
+A	1854.91	Mm I think it's what we say , that we have an uh an L_C_D_ with uh information .	components, materials and energy sources
+D	1856.31	Yeah .	components, materials and energy sources
+A	1860.51	Not uh Mm-hmm .	components, materials and energy sources
+D	1860.53	The thing is that uh if we want to have as he says if we want to have uh a small number of buttons we need to have a kind of output that says currently what their actions are .	components, materials and energy sources
+C	1866.13	Yeah , then we can yeah , yeah , that user friendly or Mm .	components, materials and energy sources
+D	1872.96	Yeah .	components, materials and energy sources
+A	1873.33	Mm .	components, materials and energy sources
+D	1874.45	That's the converse to having zillions of button where each button does only one thing .	components, materials and energy sources
+C	1876.47	Yeah .	components, materials and energy sources
+A	1878.71	Mm .	components, materials and energy sources
+C	1879.36	Yeah .	components, materials and energy sources
+A	1884.31	Okay .	components, materials and energy sources
+C	1884.31	and we just stick with two batteries so it's not any solar or yeah yeah j yeah , because Yeah .	components, materials and energy sources
+D	1887.92	Yeah .	components, materials and energy sources
+D	1888.63	Classical , we stay classical in that we don't reinvent uh the wheel .	components, materials and energy sources
+A	1889.37	Yeah , yeah , yeah .	components, materials and energy sources
+A	1892.79	Mm .	components, materials and energy sources
+D	1894.03	Anyway it's very in general I think people uh change T_V_ more often than batteries of their remote control .	components, materials and energy sources
+D	1901.92	So .	components, materials and energy sources
+A	1903.25	Yeah .	components, materials and energy sources
+D	1903.26	Because the trend goes faster than the life of the So it's very Okay .	components, materials and energy sources agenda/equipment issues
+A	1906.0	Mm-hmm .	components, materials and energy sources
+B	1906.66	Mm-hmm .	components, materials and energy sources
+A	1910.92	Okay .	components, materials and energy sources
+A	1913.83	So are we mm .	agenda/equipment issues
+C	1914.29	Yeah .	agenda/equipment issues
+B	1914.98	Yeah .	agenda/equipment issues
+D	1915.25	We're done .	agenda/equipment issues
+C	1915.56	Yeah , we're done .	agenda/equipment issues
+A	1917.97	Okay .	agenda/equipment issues
+A	1918.64	So see you in thirty minutes .	agenda/equipment issues
+C	1921.11	Yep .	agenda/equipment issues

@@ -1,0 +1,469 @@
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	12.73	Right first time this time .	opening
+A	16.66	Nu There we go .	opening
+A	24.38	It's not that complicated , but I get it wrong every time .	opening
+D	58.59	Okay so we are just waiting for Matthew .	opening
+A	61.5	For Matthew , yep .	opening
+B	62.68	Mm .	opening
+B	77.41	Uh So I suggest we start the meeting uh without Matthew uh he's uh obviously late for some reason .	opening
+A	97.33	Mm-hmm .	opening
+D	98.51	Mm 'kay .	opening
+B	106.63	Good .	opening
+B	108.02	Um .	opening
+B	110.47	Today uh we will uh talk about uh conceptual design .	opening
+B	114.66	I hope uh you both did some uh some work uh concerning a uh conceptual design .	opening
+A	117.24	Mm-hmm .	opening
+B	122.26	Um this will be the uh agenda for the meeting uh .	opening
+B	129.65	Uh I will take some minutes uh again .	opening
+A	133.81	Mm-hmm .	opening
+B	134.26	Um we will have the presentations of y of you different team members , and then try to come to decisions uh about the concepts uh you have presented .	opening
+A	138.49	Yep .	opening
+D	140.0	Yep .	opening
+B	147.24	So and that uh will uh we have some uh forty minutes uh to complete this uh .	opening
+D	147.49	Mm-hmm .	opening
+A	152.15	Mm-hmm .	opening
+B	154.72	So um who has the fir do you ha Anna do you have your presentation ready ?	opening
+A	158.36	I have a presentation , I'm just making this Okay I'll just email you this file , my presentation .	opening
+D	159.41	Yeah I think yeah the Matthew it is it's important that Matthew yeah is here because it's really a a team uh project with a team and if someone is not here then we cannot but it's okay it's good .	opening
+B	160.55	Okay .	opening
+B	165.3	Ah there is Matthew .	opening
+C	172.29	Sorry .	opening
+B	184.76	So .	opening
+B	187.05	Good .	opening
+B	194.05	Do presentation ready ?	opening
+A	195.33	Mm-hmm I'm just emailing it to you .	opening
+B	196.98	Oh okay .	opening
+C	206.41	So Yeah I sent you the slides , you didn't see them ?	opening
+B	208.86	So did you manage uh Oh yes I see him , good yes .	opening
+C	214.42	Okay .	opening
+B	217.29	No .	opening
+C	219.24	So 'Kay .	opening
+A	244.15	Okay it should've gone through to you .	opening
+B	246.31	Okay mm yes I have it .	opening
+A	253.85	Mm-hmm .	opening
+A	255.39	Okay so this is just a presentation on uh the trends that we're gonna use to make the product stand out from the rest of the products out there at the moment .	trendwatching
+A	263.9	Um can I just put this on ?	trendwatching
+A	271.67	So we have to work out a way what we can do with our product to make it stand out and make it so people wanna buy it .	trendwatching
+A	278.36	Um .	trendwatching
+A	279.8	This is to do this I will not remove my microphone .	trendwatching
+A	287.16	We basically used um some focus group surveys which I went through with you last time , the main results of that , and um some research on the current design um and fashion trends that are out there at the moment um , and as part of this The important aspects that came out were things that we've already discussed really .	trendwatching
+A	309.94	The most important by far was the look and feel of it .	trendwatching
+A	312.41	It needs to be something that's very different from everything else out there .	trendwatching
+A	316.7	It needs to stand out .	trendwatching
+A	318.08	It needs to be not functional like the rest of the things out there at the moment .	trendwatching
+A	321.98	Most people find remote controls boring at the moment , we need to have something that looks interesting , that looks exciting , that will stand out .	trendwatching
+A	327.97	People will wanna buy it .	trendwatching
+A	329.69	Um That was twice as i important as the next item on here which is that it has to be technologically innovative has to have something else , apart from just the look of it .	trendwatching
+A	339.71	People have to then think about it and say got something there that I want .	trendwatching
+A	343.48	That's a really cool feature , and it has to make them wanna buy it again .	trendwatching
+A	347.94	Third on the list , and again innovative was twice as important as this last um aspect , it has to be easy to use .	trendwatching
+A	354.72	So they have to be able to be able to look at it and have some intuitive idea of how to use it um .	trendwatching
+A	362.82	Drawing on the fashion trends at the moment , uh fruit and vegetables um .	trendwatching
+A	369.36	This is basically talking about just the the feel of it , so probably not the smell of it , but the bright colours , um eye-catching , really bold designs , and a spongy feel .	trendwatching
+B	374.39	Mm .	trendwatching
+D	377.12	Mm-hmm .	trendwatching
+B	377.68	Mm .	trendwatching
+A	378.98	Um I had a talk to the design people about this , but having a remote that's tactile , that feels different , that would be really cool .	trendwatching
+A	385.3	That would make it stand out .	trendwatching
+B	387.2	Hmm .	trendwatching
+A	387.73	Um .	trendwatching
+D	389.03	So can you repeat and be more precise about what you just said ?	trendwatching
+B	393.51	Spongy feel ?	trendwatching
+D	393.9	Uh about the feeling yeah uh yo Okay .	trendwatching
+A	396.56	Well ma make it not necessar sp spongy is the current thing .	trendwatching
+C	398.22	You can Yeah .	look and usability trendwatching
+A	400.98	Spongy is the current texture , but basically there are no reports no remotes at the moment which are spongy or tactile at all , so if we make it like maybe furry or soft or something , that'll be something that sets it apart , rather than just bare plastic which they all are at the moment .	trendwatching
+B	413.16	Mm .	trendwatching
+D	417.14	Yeah .	trendwatching
+B	418.08	Okay .	trendwatching
+A	419.92	So as far as the design goes , the very most important aspect was the design , to the customers .	look and usability
+A	426.7	So going with the fruit and vegetable idea , we've got the bright colours , so makes it stand out , the oranges and the the bright yellows and the florescent colours , part of the fruit and vegetables um .	look and usability
+A	440.53	Going back to the idea of taking inspiration from mobile phones , they've all got those a lot of them have the changeable covers , so they can choose what colour the outside is .	look and usability
+A	448.77	That's one way of looking at it um .	look and usability
+A	452.69	Textured feel we just talked about .	look and usability
+A	454.22	Maybe it's another way of doing that .	look and usability
+B	455.01	Mm-hmm .	look and usability
+A	456.24	So if it's part of the the changeable covers then may maybe they can choose a different texture , a spongy one or a soft one or something like that .	look and usability
+A	462.98	So they can choose it li as they want to to maybe to fit in with their decor in their living room , or just what they like , their sports team or whatever .	look and usability
+D	465.25	Yeah that's a very good idea , yeah .	look and usability
+D	470.21	Yeah .	look and usability
+A	472.15	Um and yeah , still taking the inspiration from the mobile phone design so functionality , the way the mobile phones work , the way the keypad looks .	look and usability
+A	481.73	Also just the way that a lot of industrial design is going into mobile phones at the moment .	look and usability
+A	486.4	They're big selling items .	look and usability
+A	488.52	People put a lot of thought into that so we can leverage off that , and we can start using some of their ideas .	look and usability
+A	496.48	Um back to technological in in innovation , not quite as important , but still a big issue .	look and usability
+A	502.48	Um we talked about having a way of finding a remote control if it's been lost , uh that's one thing we could look at .	look and usability
+A	510.43	There are other aspects like L_C_D_ screens and speech recognition which weren't I don't think , in my personal opinion , gonna be worth the extra expense and the extra effort that will go into them .	look and usability
+D	520.9	Mm-hmm .	look and usability
+A	521.32	I think we're better doing something basic like this which is very important and very will be a really cool feature to put in .	look and usability
+A	528.01	And use .	look and usability
+A	530.44	I had no real specific ideas for this , maybe we just , the basic idea of having your core functions big and at the top maybe , by themselves , and then yeah and then th th the finer details of buttons you don't use as much either hidden away or completely separate .	look and usability
+B	538.36	Mm .	look and usability
+B	539.88	Yes well maybe Matthew can can give some more information on the Mm .	look and usability
+C	548.53	Voila .	look and usability
+A	549.02	Yep and that's the presentation .	look and usability
+B	551.36	Okay good , that's very clear .	look and usability
+D	553.39	Yeah very clear .	look and usability
+C	553.88	Yeah .	look and usability
+B	555.2	'Kay .	look and usability
+B	557.17	Um .	look and usability
+A	557.79	So does anyone have any comments or ideas on that ?	discussion
+B	558.58	Uh Maybe we yes well we maybe can decide later on um the l the the look and feel of uh I've it was a good idea maybe to to Yes the the the there are changeable covers , but on the other hand I I don't know whether my superiors would be so glad with it because you have to introduce a complete uh uh new l line of uh of supplies uh it would be uh very complicated uh organisational Hmm .	discussion
+A	560.58	I think you Hmm .	discussion
+D	575.57	To let the people choose , you mean ?	discussion
+D	578.12	Yeah .	discussion
+A	597.62	Well we're selling so many units of this .	discussion
+A	599.74	This is gonna be a mass marketed product , we can afford to have two or three different designs at least .	discussion
+B	601.86	Mm-hmm .	discussion
+D	602.71	Yeah a range of uh yeah , a set of three , four different aspects .	discussion
+B	604.68	Yes .	discussion
+A	605.13	Mm mm .	discussion
+B	607.98	Mm-hmm .	discussion
+D	608.84	Sure that fits the Yeah .	discussion
+B	609.8	Yes and of course it will be a we we get a if it works we can get uh after-sales I mean that would would be very good I mean those covers could go for for three , five Euro .	discussion
+A	616.37	Mm .	discussion
+A	622.73	Mm .	discussion
+B	625.43	That's a very good idea um And then uh maybe uh we can go a th Matthew's presentation because the Together indeed uh , because you ma might have some some information on the the easy to use , what you were already mentioning .	discussion
+C	635.44	Yeah s then we could discuss later like we can put all ideas together .	discussion
+A	636.1	Mm-hmm .	discussion
+A	641.72	Mm .	discussion
+D	641.93	Yeah yeah I agree .	discussion
+C	642.02	It should be easier with that .	discussion
+C	645.78	Yeah .	discussion
+A	645.89	Mm-hmm , yeah .	discussion
+D	646.23	Yeah .	discussion
+D	647.68	And your part is very related to mine because when you suggest something then it has to be integrated inside .	discussion
+C	647.72	So Yeah .	discussion
+C	651.57	Yeah so I'll I'll go with that actually so um Okay so m so then the the idea of uh having a remote is generally you have uh different keys and uh different structures , different forms , and uh they could be like buttons or like and um they could be of uh a varying sizes if you want to to uh basically emphasize a particular key more than the other , and uh maybe like you can have different colours for example having the r red for the on off switching on and off the button .	discussion components, materials and energy sources
+A	655.23	Mm-hmm .	discussion
+C	714.42	So this this is the general trend to ha the method they do .	components, materials and energy sources
+D	716.16	Yeah .	components, materials and energy sources
+A	716.74	Mm-hmm .	components, materials and energy sources
+C	720.17	So what I have found was that uh currently uh the they are mostly that the T_V_ , V_C_R_ , music system operated ones actually , and they are very specific to each other , but there are some common keys for example if you want to follow the V_C_R_ and if you want to follow the uh g uh s some uh soundtrack on the w w see they have the common thing actually you can have and uh There is also um a speech recognition to store channel information , names , like You can basically if you have a multiple functionality , say T_V_ , V_C_R_ or something I say it to the T_V_ and the T_V_ , and you can programme the keys if you want to , certain keys are even the channel information .	components, materials and energy sources
+A	748.46	Mm .	components, materials and energy sources
+A	765.07	Mm .	components, materials and energy sources
+A	774.31	Mm .	components, materials and energy sources
+A	775.07	I like the idea though of having speech recognition for like the n the name of a channel like B_B_C_ , rather than having to remember the the number of it on the keypad .	components, materials and energy sources
+C	781.66	Yeah yeah so you you you can just uh because uh as more and more channels come then you have more and more problems to remember the v v exact channel numbers ex exactly , even if you arrange it by however you arrange it , you still have the problem to remember exactly which channel you want to So it it it's like it limited one .	components, materials and energy sources
+A	781.74	That's a good idea .	components, materials and energy sources
+A	791.91	Mm .	components, materials and energy sources
+D	793.66	Yeah .	components, materials and energy sources
+A	797.81	Hmm .	components, materials and energy sources
+A	799.57	Mm .	components, materials and energy sources
+A	800.29	Yeah I really like that idea .	components, materials and energy sources
+D	801.16	So what functionalities do you suggest for that ?	components, materials and energy sources
+D	805.19	For facing this problem ?	components, materials and energy sources
+C	809.53	In the present market I saw it that says something like they are looking for eighty word thing , eighty word , which shouldn't be th that difficult to implement , like eighty to hundred word .	components, materials and energy sources
+A	816.64	Mm-hmm .	components, materials and energy sources
+C	822.95	Basically you want you don't want to store all the channels in the remote control , you want to st store your favourite channel .	components, materials and energy sources
+A	826.54	Mm .	components, materials and energy sources
+A	829.76	Maybe ten channels , yeah at the most .	components, materials and energy sources
+C	830.57	Yeah some ten twelve channel information .	components, materials and energy sources
+C	833.12	You know you don't want to st store all the hundred channel information into that .	components, materials and energy sources
+D	833.16	Okay .	components, materials and energy sources
+A	835.32	Mm .	components, materials and energy sources
+C	837.45	And uh basically uh it depends like the remote with L_C_D_ display for browsing because you have multiple functionalities for example you are watching a movie , and uh uh you are having a universal remote control and you want to uh you don't know really which functionality is now , so I am using the T_V_ so every time I use it , it could be like , for example I can use a simple toggle switch , and a display , so I press it so the display says , okay , I'm in T_V_ or D_V_D_ or whatever it is , instead of having three keys separately for four keys , to model the functionalities will increase actually , and for you and you might want you don't want separate keys for all of them .	components, materials and energy sources
+A	872.47	Mm-hmm .	components, materials and energy sources
+D	872.74	Mm-hmm .	components, materials and energy sources
+D	874.83	Oh yeah yeah yeah mm .	components, materials and energy sources
+A	877.74	Mm .	components, materials and energy sources
+D	878.62	Mm .	components, materials and energy sources
+A	882.26	Mm .	components, materials and energy sources
+C	884.59	You can't .	components, materials and energy sources
+C	885.74	And uh well there can be children friendly where you can programme your remote so that they they are not allowed uh to browse certain channels which you can block them , and you can operate them .	components, materials and energy sources
+D	900.1	Mm-hmm .	components, materials and energy sources
+C	900.3	So these are the things presently which are seen in the market scenarios at present .	components, materials and energy sources
+C	905.38	I personally would look at things like having a u universal remote , is uh um is a good idea , like instead of having unusual ones for all of them you can think of having , um with multiple functionality possibly with speech recognition .	components, materials and energy sources
+A	920.27	Mm-hmm .	components, materials and energy sources
+C	926.91	I got a mail from the the coffee machine interface unit that uh they have uh integrated the s speech recognition into a into the coffee machine , and so if you say hello coffee machine , it say hi Joe , or something like that , you know , and uh Yeah you you won't be using it , so it's a limited vocabulary mm thing , and very isolated word and it's uh it is interesting , and basically storing the channel through voice or other ways of programming your keys , on the display for the browsing which is again and maybe having something like a blinking thing , like uh it could indicate you're uh it it could indicate what is cal like the uh whether uh you you have enough battery in your in your uh remote , the blinking .	components, materials and energy sources
+A	939.4	Mm b But a coffee machine , there's not too many words they'd be using with that it's a it's a small vocabulary .	components, materials and energy sources
+A	949.78	Mm .	components, materials and energy sources
+A	952.62	Mm .	components, materials and energy sources
+A	963.46	Mm .	components, materials and energy sources
+A	980.56	Mm .	components, materials and energy sources
+D	986.13	Yeah .	components, materials and energy sources
+C	987.41	At the same time , if it's a dark room , it can be used to locate the remote also or Yeah you can let them to do that .	project budget components, materials and energy sources
+D	994.18	And you want okay for coming back to one point y you want to let the user to programming the keys ?	project budget
+A	996.69	Two thirty five supposed to finish .	project budget
+D	1001.3	Some of them ?	project budget
+D	1003.25	And uh isn't that too difficult for the we want w I don't know if we still want the um R_C_ to be easy to use , that's the compromise .	project budget
+A	1011.59	Hmm .	project budget
+C	1012.87	N no but the if you give it d depends on the easiness like the user how much effort he can put .	project budget
+D	1016.42	Yeah .	project budget
+A	1019.06	Hmm .	project budget
+C	1019.15	Like for example uh I would like to store in certain way , so if you want to give the full freedom to the user or you want to keep some constraints and let the user use it with that constraint .	project budget
+A	1026.07	Mm .	project budget
+D	1026.9	Yeah .	project budget
+A	1029.17	Yeah .	project budget
+A	1031.14	Mm .	project budget
+D	1032.85	Yeah .	project budget
+A	1033.0	I think you can do it both ways .	project budget
+C	1033.13	So it de So So Yeah .	project budget
+A	1034.0	You can have it so it's easy they can pick it up and use it straight away without doing anythi without customizing it , or if they want to they have the option of using these extra features .	project budget
+D	1037.06	A standard .	project budget
+D	1038.94	Yeah .	project budget
+B	1043.02	Um yes but but I do maybe you can give a hand to us because I I'm not sure whether that that we can implement that for twelve Euro and fifty cents .	project budget
+D	1043.47	Yeah .	project budget
+B	1054.21	I'm sorry to have Every time I have to come down on this price again to so this might be a little limiting for your creativity , but it's it's it's the real We have to consider it .	project budget
+A	1054.69	Hmm .	project budget
+A	1058.74	Hmm .	project budget
+A	1064.28	Hmm .	project budget
+B	1070.14	S so do we think these ideas an and my uh sp speech recognition , I mean maybe it's possible for for twelve Euro but then then it will be at cost of other functionality we might implement like the uh uh the the the furry uh uh case of the Mm .	project budget
+D	1070.51	Yeah .	project budget
+A	1083.68	Mm .	project budget
+A	1090.25	Hmm .	project budget
+D	1090.65	Mm-hmm yeah like I would say that for programming uh keys , you said , uh it could be uh easily uh done within the the package of twel twelve Euros , but for the A_S_R_ system , uh I'm not sure if it's feasible to have this or We Exactly yeah i if if it's a low vocabulary it's already implemented , and w how much it's cost , maybe with a f cheap chip .	project budget
+C	1103.33	Yeah .	project budget
+C	1109.62	We well we can still look at we can talk with the coffee unit and you can uh check how much how much they yeah yeah yeah .	project budget
+A	1118.63	Mm .	components, materials and energy sources
+C	1121.23	Maybe we can come we we can talk to them , and we can come with that , you know .	components, materials and energy sources
+B	1122.46	Mm mm .	components, materials and energy sources
+D	1125.33	Yeah .	components, materials and energy sources
+C	1126.16	And also well you can think of having uh since you have a you know something maybe if you added little bit of display , you might need the to che keep checking the battery , so you really need a some kind of indicator , so it could be a blinking option of L_E_D_ it could actually be used to detect also .	components, materials and energy sources
+A	1138.82	Hmm .	components, materials and energy sources
+B	1142.56	Hmm .	components, materials and energy sources
+D	1143.78	Yeah .	components, materials and energy sources
+C	1145.51	If it's in a dark room you can basically detect it also .	components, materials and energy sources
+A	1147.07	Mm .	components, materials and energy sources
+A	1148.18	Hmm .	components, materials and energy sources
+D	1148.62	Yeah .	components, materials and energy sources
+B	1148.98	Hmm .	components, materials and energy sources
+C	1149.44	So No actually i if i it is like you know it tells you um , it can be for two purposes , like if you have an L_C_D_ display and all those things it's not going to be the standard remote , which is having uh which need just uh six six volt uh th sorry three volts um of D_C_ .	components, materials and energy sources
+B	1149.74	Mm .	components, materials and energy sources
+A	1149.75	I like the idea too of being able to use the remote in the dark , so either having the buttons so you can feel the difference between them or if they if they light up or something .	components, materials and energy sources
+A	1162.01	Mm .	components, materials and energy sources
+A	1164.35	Mm .	components, materials and energy sources
+A	1167.27	Hmm .	components, materials and energy sources
+A	1172.01	Mm .	components, materials and energy sources
+C	1176.17	It may need more actually , so y you you may need to check your battery usage it and then you need that , some functionality to indicate the battery limit .	components, materials and energy sources
+D	1182.71	Mm .	components, materials and energy sources
+A	1185.51	Hmm .	components, materials and energy sources
+D	1186.15	It's true .	components, materials and energy sources
+C	1186.39	And then if the battery limit is indicated , if it could be ind indicated through a blinking something and it can change the colour depending on your uh how much is the battery , well that is good enough to even locate even if you want to .	components, materials and energy sources
+A	1192.0	Mm .	components, materials and energy sources
+D	1201.65	Mm-hmm .	components, materials and energy sources
+C	1202.8	You know .	components, materials and energy sources
+B	1203.85	'Kay good .	components, materials and energy sources
+C	1204.92	Yeah so You you have time some more ?	components, materials and energy sources
+D	1205.67	I don't know how if if I have time to talk about the Okay .	components, materials and energy sources
+B	1208.0	Mm yes um I would Yes yes you can you can still .	components, materials and energy sources
+C	1211.11	Yep .	components, materials and energy sources
+B	1214.0	We have time .	components, materials and energy sources
+C	1214.85	Sure you can you know .	components, materials and energy sources
+D	1223.8	So what I'm gonna present here is very uh um yeah basic knowledge about the all the the components that are inside a a R_C_ a remote control , and how is it manufactured h what is the process , just to explain you .	components, materials and energy sources
+A	1239.23	Mm-hmm .	components, materials and energy sources
+D	1246.56	So the method is ther there is a a set of components in a in a remote control like , and uh what cost the the components in themself do not cost a lot but the the way to assemble everything costs obviously , and I will uh show you my preferences uh uh at the end .	components, materials and energy sources
+D	1270.72	So there are two uh different types of uh um Two different ways of using the the components for making a a remote control .	components, materials and energy sources
+B	1276.46	Nice .	components, materials and energy sources
+C	1277.36	Hmm .	components, materials and energy sources
+D	1281.28	Uh the basic way is to use a an integrated circuit and some uh transistors with an that aims at communicating uh uh the message and to to send the message to the um to the led that will uh transmit to the receiver .	components, materials and energy sources
+D	1301.18	And uh yeah the other components and the circuit board buttons , infrared , led , etcetera , for the components um .	components, materials and energy sources
+D	1314.18	So you finding , just to say that the chip can detect uh when a key is pressed , and then it translate to the key , to a sequence , something like morse code , as you know , uh with a different sequence for each key , and uh uh that's , with the components we will use , we will have different uh messages , different sequences , and the chips sends that signal signal to the transistor that amplify to make it stronger um .	components, materials and energy sources
+C	1325.45	Mm-hmm .	components, materials and energy sources
+B	1325.68	Mm-hmm .	components, materials and energy sources
+D	1347.57	So electronic parts are assembled onto uh printed boards uh because it's easier to mass produce and assemble .	components, materials and energy sources
+D	1356.65	And uh so I think for our design we want some b uh programmable uh you know V_ V_L_S_I_ or F_P_G_A_ uh high technology , and this is important , and also we'll use uh yeah like in any uh high-tech uh devices a chip of fi fibreglass to them and connect them .	components, materials and energy sources
+C	1367.03	Yeah mm mm-hmm .	components, materials and energy sources
+C	1379.67	Mm-hmm .	components, materials and energy sources
+D	1384.72	So my personal design we need to find a solution what um what is the material of the cover we want to use .	components, materials and energy sources
+D	1396.35	If it's plastic or you said that yeah you had some ideas uh like fruit , veg or I dunno .	components, materials and energy sources
+A	1397.57	Mm .	components, materials and energy sources
+B	1403.44	Well well m m maybe m maybe we can give the uh the uh the case a very uh uh normal a v very normal case but , with the changeable covers to fancy it up .	components, materials and energy sources
+D	1405.45	Yes .	components, materials and energy sources
+D	1413.3	Yes .	components, materials and energy sources
+A	1415.84	Mm-hmm .	components, materials and energy sources
+B	1416.54	So like a normal cheap plastic case which can be covered up in , for instance , a wooden case .	components, materials and energy sources
+A	1419.17	Mm-hmm .	components, materials and energy sources
+C	1419.49	Yeah .	components, materials and energy sources
+D	1419.78	Yes .	components, materials and energy sources
+B	1422.49	I mean just what Mm-hmm .	components, materials and energy sources
+A	1422.78	Mm just have a yeah Just the veneer on it , yeah .	components, materials and energy sources
+D	1423.42	Yeah like they do in with cars I think .	components, materials and energy sources
+D	1425.98	Yeah inside the car yeah .	components, materials and energy sources
+D	1428.7	So they also emailed me that uh they have available a bunch of different buttons , a scroll wheels , integrated push buttons s such as a computer mouse .	components, materials and energy sources
+C	1442.67	Yeah .	components, materials and energy sources
+D	1442.74	And uh very cheap L_C_D_s , so liquid crystal displays , so I'm wondering , I think we might be able to integrate L_C_D_ into our R_C_ .	components, materials and energy sources
+D	1454.99	And the final point okay is um we have yeah there are some uh compromise to to do .	components, materials and energy sources
+A	1463.28	Hmm .	components, materials and energy sources
+D	1463.54	So we have to know that the push button requires a simple chip , but the scroll wheel uh and that kind of higher high-tech stuff needs more money um which is a higher price range alright .	components, materials and energy sources
+D	1480.62	And the display requires an advanced chip , which in turns is more expensive than the regular chip , but I think uh with twelve Euros um and if it's uh uh made for mm four million uh items , then I think w we could be able to handle that .	components, materials and energy sources
+D	1502.47	So to to sum up um we need yeah so I I just said that the components uh the list of components uh has to be uh yeah listed and um and um assembly is a an important process that has to be taken into account .	components, materials and energy sources
+D	1522.96	And uh for the designing of the cove uh uh cover layout then it's better to to to maybe see that with uh the the U_R_ exp U_R_I_ Expert so that we can it's really a team-working uh .	components, materials and energy sources
+C	1526.48	Sorry .	components, materials and energy sources
+A	1527.01	Mm .	components, materials and energy sources
+B	1537.25	Mm .	components, materials and energy sources
+D	1537.27	So I I cannot design something without your agreement , right ?	components, materials and energy sources
+C	1540.39	Yeah so of course for example uh I wanted to know like if you want to have a a fo if you want to have the L_C_D_ display over there , or if you want to store a programmes with a keys What kind of things you'll need inside your thin inside W wh what W what Okay .	components, materials and energy sources
+B	1540.62	No of course .	components, materials and energy sources
+D	1550.56	Yes .	components, materials and energy sources
+D	1562.74	Yeah it's kind of um simple pro progra programmable device , and we have to insert .	components, materials and energy sources
+D	1570.2	I think we could insert one that could underlie several functions of Exactly yeah , for customizing and yeah .	components, materials and energy sources
+C	1570.24	Okay .	components, materials and energy sources
+C	1574.53	Okay so in that case you can even look at the technology what the mobile phone is trying to use with the card .	components, materials and energy sources
+C	1581.56	Yeah where they do all the wi with with them actually .	components, materials and energy sources
+D	1584.9	Okay .	components, materials and energy sources
+C	1585.27	How f cost effective it would be to put that car chip into it and do the programmable things .	components, materials and energy sources
+D	1590.41	Yeah .	components, materials and energy sources
+B	1590.87	So So I f I think we we should come to some decisions now uh a about this .	components, materials and energy sources
+D	1591.73	Yeah good idea .	components, materials and energy sources
+D	1596.87	Yeah .	components, materials and energy sources
+B	1600.15	Um so I understand uh when we want a display we need a expensive chip , but when we want a scrolling wheel w we also need the expensive chip , so can we use same chip , so with one expensive chip we can uh implement several complicated uh or advanced features .	components, materials and energy sources
+D	1622.66	Exactly yeah that's a very good idea , we could have uh one main chip uh that could handle , uh it's called F_P_G_A_ chip , that could handle both uh like scrolling wheels as well as uh L_C_D_ and yeah .	components, materials and energy sources
+B	1623.55	Yes .	costing
+B	1627.39	Mm-hmm .	costing
+B	1630.93	Mm-hmm .	costing
+A	1630.95	Mm-hmm .	costing
+B	1639.06	So when the more expensive chip you mentioned there is is possible in the in the given budget , uh maybe we should go for for the more expensive chip , so all features uh which you mentioned can be implemented based on the same chip .	costing
+D	1654.27	Yes .	costing
+C	1655.33	D well Well I don't know if it'll fit into our cost of twelve point five Euro you know .	costing
+B	1657.67	Do you think that's feasible ?	costing
+B	1664.2	Uh You th you think it's possible .	costing
+C	1666.38	Is it possible to fit in to that ?	costing
+D	1667.75	Yeah also thinking , I think both uh if we had a budget of twenty twenty uh Euros , it will be okay , but uh .	costing
+C	1672.72	Sorry .	costing
+B	1676.02	Hmm .	costing
+A	1679.0	Well maybe we need specific costings then .	costing
+A	1681.41	Actually do maybe two designs and then cost them out and see which one is gonna fit in our budget better .	costing
+D	1687.43	Yeah that's an excellent idea .	costing
+B	1687.64	Mm yes wh when you make a a design ca you can next meeting you can give an quite an exact cost price .	costing
+D	1695.48	Yeah yeah .	costing
+B	1696.98	That w that would be a very good idea .	costing
+A	1697.21	Mm .	costing
+D	1697.73	Yeah because right now I don't have price in in head but for next meeting I'm sure yeah be able to do that .	costing
+B	1700.58	Mm .	costing
+B	1702.55	Good good .	costing
+C	1703.19	Yeah that's uh that's something which I wanted to ask you also , like what will be the each individually the cost of it .	costing
+D	1709.59	Yeah .	costing
+C	1709.78	For example if f if you want to put wood I wouldn't suggest for wood uh 'cause it's I think it's m much easier to use a plastic or a rubber rather than wood .	costing
+D	1714.33	Okay .	costing
+D	1720.61	I agree on that .	costing
+A	1721.82	Mm .	costing
+D	1722.3	Yeah .	costing
+C	1723.85	It will be much ch much expensive th though it's the most natural thing , but Yeah .	costing components, materials and energy sources
+B	1728.72	Yes but I can I think uh I think we can just use more cheap plastic for a kind of basic edition , and then people can fancy it up with with more expensive materials which which come with a with another price .	costing
+A	1737.91	Hmm .	components, materials and energy sources
+C	1740.47	Yeah it's uh Yeah we we can give a preference to them , but it is but with plastic or the rubber or whatever it is it's much better with that rather than going for Yeah .	components, materials and energy sources
+B	1756.68	Do do you agree ?	components, materials and energy sources
+D	1757.25	Yeah but i it's a detailed uh yeah yeah uh plastic versus uh wood , and we need maybe to centre our description on uh the the really the what buttons what uh functionality we want to offer to the user , and maybe with uh graphs or I don't know uh User Interface Designer you could maybe uh help us on that .	components, materials and energy sources
+A	1757.62	Mm yeah sure .	components, materials and energy sources
+C	1772.53	Yeah .	components, materials and energy sources
+B	1782.66	Ma I I think uh for next meeting we c you two can present a real design .	components, materials and energy sources
+D	1787.55	Yeah .	components, materials and energy sources
+C	1789.37	Yea Okay .	components, materials and energy sources
+A	1791.14	Mm-hmm .	components, materials and energy sources
+B	1792.31	Uh so drawing it on the board .	components, materials and energy sources
+D	1794.34	Perfect yeah .	components, materials and energy sources
+B	1795.41	And then we now sh only have to t to decide the general function uh .	components, materials and energy sources
+B	1801.97	So um Let let's say next meeting w you produce two designs , one one one less advanced and one more advanced and with the cost price .	components, materials and energy sources
+C	1810.1	Yeah sure .	components, materials and energy sources
+C	1812.64	Yeah we will uh Yeah .	components, materials and energy sources
+D	1815.78	Yeah .	components, materials and energy sources
+A	1816.71	Mm .	components, materials and energy sources
+B	1818.72	Uh furthermore we go for the for the uh basic plastic case which can be later uh fancied up with uh with addit uh additional uh , how do you call them , these like like mobile telephones you can put a cover over it .	components, materials and energy sources
+C	1818.97	Uh .	components, materials and energy sources
+A	1835.9	Mm .	components, materials and energy sources
+C	1836.32	Yeah .	components, materials and energy sources
+B	1836.7	But that that that that can be done later .	components, materials and energy sources
+D	1838.58	Yeah customized .	components, materials and energy sources
+B	1839.08	We now can concentrate on the on the basic remote control .	components, materials and energy sources
+A	1841.03	Mm .	components, materials and energy sources
+B	1843.73	Um .	components, materials and energy sources
+C	1843.77	Okay .	components, materials and energy sources
+C	1847.56	We can give them smooth keys , you know .	components, materials and energy sources
+C	1851.44	Smooth keys with bigger s uh So that you know The the problem most of the time we've seen , the keys is that it's small , and every time we have to be very but if i the if we if we go to a different ways of designing those keys , then you can merge them together to Oh you can actually , for example , if you see , they are they are they are quite small over here , and uh now you can , for example , as I was if you make them big , it may change the look of the thing also to the people .	components, materials and energy sources
+D	1862.88	Yeah .	components, materials and energy sources
+B	1863.2	Mm .	components, materials and energy sources
+A	1873.19	So is there any of these that you're looking at particularly or is this just ideas ?	components, materials and energy sources
+A	1880.23	Mm-hmm .	components, materials and energy sources
+A	1884.9	Hmm .	components, materials and energy sources
+A	1888.67	Mm .	components, materials and energy sources
+C	1891.05	At the same time , it is m more uh like it would be more interesting for people who are having this R_S_I_ and all problem .	components, materials and energy sources
+A	1891.24	Mm .	components, materials and energy sources
+B	1891.47	Mm-hmm .	components, materials and energy sources
+A	1897.87	Mm yeah .	components, materials and energy sources
+B	1898.15	Yes yes yes bi big keys is is good thing I think .	components, materials and energy sources
+C	1899.64	Uh big keys may better for them actually and uh Yeah .	components, materials and energy sources
+A	1900.79	You see ?	components, materials and energy sources
+D	1902.67	I agree yeah , and not too m too many keys of course yeah .	components, materials and energy sources
+A	1903.54	Yeah .	components, materials and energy sources
+B	1905.45	No no .	components, materials and energy sources
+A	1905.48	Mm well one I've had before , a r r remote control we have at home is one that's actually got a cover on the bottom so the bottom bit is just , covers half the keys most of the time , and then you can slide the cover back to get to the the more advanced keys .	components, materials and energy sources
+B	1914.6	Mm mm mm .	components, materials and energy sources
+B	1919.03	Mm w but then you have still have uh when you don't use it you have such a a an extent of your remote control which you don't use .	components, materials and energy sources
+C	1919.03	Yeah .	components, materials and energy sources
+A	1927.27	Mm .	components, materials and energy sources
+B	1928.41	So maybe it's possible uh , I don't know whether you can can indicate this , that you can elsewhere open your remote control and on the inside are uh buttons you don't use that much .	components, materials and energy sources
+D	1933.75	Yeah .	components, materials and energy sources
+A	1935.27	Mm .	components, materials and energy sources
+A	1937.28	Yeah .	components, materials and energy sources
+A	1939.43	Um yeah I've seen that before too .	components, materials and energy sources
+C	1941.12	Yeah .	components, materials and energy sources
+A	1941.55	Anoth another like b it flips up and then you've got another layer of buttons underneath .	components, materials and energy sources
+B	1944.59	Yes .	components, materials and energy sources
+C	1944.63	Yes .	components, materials and energy sources
+C	1946.66	Yeah so it's something like this , the model here s you can put the keys Yeah .	components, materials and energy sources
+A	1949.28	Mm .	components, materials and energy sources
+D	1950.19	Mm .	components, materials and energy sources
+A	1951.8	But I've seen also with keys and buttons on the top of here as well .	components, materials and energy sources
+D	1951.99	That's what you mean ?	components, materials and energy sources
+B	1954.29	Yes I I th that's what I mean so I mean something like like a book .	components, materials and energy sources
+C	1955.35	Yeah .	components, materials and energy sources
+A	1960.11	I like this one .	components, materials and energy sources
+A	1960.95	I like the shape of this one .	components, materials and energy sources
+C	1962.34	Yeah .	components, materials and energy sources
+A	1963.59	Can we have can we think about maybe having a a non-recta non non-rectangular one , so with not just the straight little box that's a maybe curved or something .	components, materials and energy sources
+D	1964.67	Yeah I like also this one .	components, materials and energy sources
+D	1971.17	Yeah , the point is w maybe we need to also to make a decision on how how how big we want to be and how many buttons like n we should dec decide numbers or Okay .	closing components, materials and energy sources
+C	1971.54	Yeah , mm .	components, materials and energy sources
+A	1980.06	Mm mm 'kay .	closing
+C	1981.94	We should make a Yeah that yeah next meeting we should be Yeah that would depend upon us actually .	closing
+A	1981.95	Is this for the next meeting though ?	closing
+A	1983.05	I think we might be out of time out of time for this meeting .	closing
+B	1983.83	Mm .	closing
+B	1987.19	Ju just make two designs , and the we we can decide decide between th those designs .	closing
+D	1989.19	Yeah yeah yeah .	closing
+A	1993.81	Yep .	closing
+C	1994.05	Yeah okay .	closing
+B	1995.59	I think that would be a good idea .	closing
+D	1996.5	Perfect .	closing
+B	1996.93	So anyone uh any questions for now ?	closing
+C	2000.42	No no .	closing
+A	2001.3	No .	closing
+C	2003.06	I don't have .	closing
+A	2003.91	So is this is there anything else I need to do from a marketing point of view for the next meeting ?	closing
+B	2008.02	Um yes I come to that uh uh Yes well m maybe uh , I don't know whether that's possible , maybe you can start evaluating uh their work somehow .	closing
+C	2011.8	Maybe it would be interesting if you could look um for the cost inventories of other devices , if you're using speech recognition or something like that .	closing
+A	2029.72	Mm .	closing
+A	2033.22	Okay well is this me designing a way to evaluate it so Thinking about how to set up test groups and things ?	closing
+B	2041.38	I don't know whether that's possible uh in the given time but a as far as possible .	closing
+A	2043.6	Mm .	closing
+A	2046.46	Okay .	closing
+B	2048.21	So uh you two will be together w working on a o on two prototypes and further instructions will be uh will be sent to you by uh by email .	closing
+A	2048.38	Yep .	closing
+D	2049.81	Exactly .	closing
+C	2050.49	Mm .	closing
+D	2052.84	Yeah .	closing
+D	2057.08	Two or three prototypes ?	closing
+C	2058.44	Two .	closing
+B	2059.25	Two .	closing
+D	2059.53	Two ?	closing
+C	2059.92	One for like cost and the one with like higher-end so that then we can be easily comparing them or you know find a compromise between both of them , yeah that's how it is .	closing
+B	2061.12	I Mm and then Hmm .	closing
+D	2063.42	Okay .	closing
+A	2064.2	Mm .	closing
+D	2067.86	Yeah and find maybe a compromise .	closing
+A	2070.19	Hmm .	closing
+B	2071.41	Yes okay .	closing
+D	2072.4	Perfect yeah .	closing
+A	2072.69	Mm-hmm .	closing
+C	2073.65	Yep .	closing
+B	2074.15	Okay let's call this to an end .	closing
+A	2075.48	Mm 'kay .	closing
+C	2075.52	Okay .	closing
+A	2076.31	Thanks guys .	closing
+D	2076.96	Thanks .	closing
+C	2079.08	So we are done for now .	closing

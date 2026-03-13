@@ -1,0 +1,869 @@
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	1.45	Wait for the marketing director actually , so .	opening
+A	7.23	Anyways .	opening
+A	13.64	Uh .	opening
+A	21.61	See , shall we wait ?	opening
+A	22.26	I'm not sure if he's late or delayed or whatever , so I'm gonna start soon , we have now don't have much time anyway .	opening
+B	29.57	Oh , there he is .	opening
+D	29.88	Yes .	opening
+C	29.93	Okay , we Mm .	user requirements opening
+A	30.47	There you are , okay .	opening
+D	30.5	Sorry , a little bit of pl little problem with computer .	opening
+A	32.4	Uh no problem .	opening
+A	32.9	We're about to start , so have a seat .	opening
+A	39.79	Okay , welcome again .	opening
+A	41.32	Today , functional design phase .	opening
+A	45.43	I'll take you over the minutes of last last meeting .	opening
+A	47.24	Okay , that was just to get to know each other , have a little thoughts on what your vision is and on this project , so I put the minutes on the I made on the on the p the the project share , so if you wanna review them , they're there .	opening
+D	48.86	Uh .	opening
+A	60.2	I will do so after every meeting , so if you have some information you wanna take back you can find it there .	opening
+A	66.06	Anyways , um today three presentations , from every one of you .	opening
+A	70.55	Um after that I got some new project requirements from project board , so we're gonna go af go after over this later .	opening
+A	76.85	But I wanna start with uh stuff you did first , so we can see what everybody came up with .	opening
+A	82.89	And after that we can have the new requirements and share some thoughts , so .	opening
+A	86.3	Who would like wanna go first ?	opening
+D	88.67	Yeah , sure , no problem .	marketing expert presentation
+B	89.41	Go ahead .	marketing expert presentation
+A	89.78	Take it .	marketing expert presentation
+D	90.53	Um there was a little problem with my computer so not uh the whole uh presentation uh Yeah .	marketing expert presentation
+A	96.31	Anyway , let's see what you have .	marketing expert presentation
+D	99.5	Um Okay , and I want to open the my s oh no .	marketing expert presentation
+A	109.73	Uh it's still a bit open .	marketing expert presentation
+A	114.95	You should close it on your own notebook , I guess .	marketing expert presentation
+A	117.42	Yeah .	marketing expert presentation
+D	117.45	Oh no , that's okay .	marketing expert presentation
+A	118.02	So there ?	marketing expert presentation
+A	118.36	Okay .	marketing expert presentation
+D	120.64	Uh slide show .	marketing expert presentation
+D	122.95	Yes .	user requirements
+D	124.35	The functional requirements , it's uh uh very important for uh the user , he he wants to yeah .	user requirements
+D	133.06	The the method we used uh it it's not m not a slide , because it went wrong , but the method we use uh , um we tested it w uh with uh a hundred uh men , and we asked them to w uh what the remote uh f feel uh like and uh what what's uh important .	user requirements
+A	154.69	If I can cut in , is it people or men ?	user requirements
+D	154.77	Uh People , sorry .	user requirements
+A	157.61	Is it people , okay .	user requirements
+D	158.24	Both women and men , yeah .	user requirements
+A	158.42	'Cause I thought it was only men , so 'Kay .	user requirements
+D	160.12	Okay .	user requirements
+D	161.0	Uh the findings um uh seventy five percent of the users find most remote controls ugly .	user requirements
+D	169.29	Um Yeah , and yeah , most th th they want to spend money for a better system , for better remote control , so we can do uh a l a little uh nice things with it , and um they use yeah , they use zap a lot , um uh fifty percent say they only So that's the most important things .	user requirements
+B	170.21	That's pretty shocking uh .	user requirements
+A	171.11	So we have to s we have to do something about that .	user requirements
+A	192.99	Okay .	user requirements
+D	194.4	Um oh yeah , not all of it is it on mine on my PowerPoint presentation , but um uh the relevant buttons are the power , the channel selection and the volume selection .	user requirements
+A	200.6	Okay , just talk ahead .	user requirements
+D	208.25	It's uh the most basic buttons that a user wants uh to use .	user requirements
+A	208.46	Mm-hmm .	user requirements
+D	213.57	Uh less important is tel teletext , uh um they use it , but it's not uh very uh important uh on the scale of zero to ten they six and a half uh and but not important is the channel selection , the the hmm ?	user requirements
+A	216.24	Mm-hmm .	user requirements
+A	227.71	Okay , that's okay .	user requirements
+A	234.28	That's a little weird .	user requirements
+D	234.75	Oh , the the no no no no no , that's very important , but uh w and not important in the audio settings , display settings and uh Yeah .	user requirements
+B	235.38	Which channel selection ?	user requirements
+A	245.41	Okay , we can we can hide those under a menu or something , okay .	user requirements
+B	246.21	Oh , okay .	user requirements
+D	249.73	Um new preferences preferences .	user requirements
+D	253.44	Uh um um beep to find your control , was that was in the test , the the most people uh f find it uh irritating uh when they cannot find a rem their remote control , so uh I think it's a bee beep to sound it and uh you can find it .	user requirements
+A	257.99	That's like a button on your T_V_ ?	user requirements
+A	266.69	Remote , okay .	user requirements
+D	273.35	And another thing uh they want was uh speech recognition um so they can say uh what they want to let's go to channel one and uh that's uh kind of things .	user requirements
+A	285.05	Okay .	user requirements
+D	287.33	And they want maybe an uh L_C_D_ screen um to to look it um wh what's on every channel uh and uh what do I want with it ?	user requirements
+A	295.65	We wanna have a little preview on the remote control .	user requirements
+D	298.27	Yeah .	user requirements
+A	298.59	Preview what's on the channel .	user requirements
+A	299.75	Okay .	user requirements
+B	300.34	Is that manageable ?	user requirements
+B	301.83	'Cause it sounds pretty expensive too .	user requirements
+A	303.74	That sounds too It's possible , but uh I think it's expensive , but do continue .	user requirements
+D	304.13	Yeah .	marketing expert presentation
+B	307.65	Okay .	marketing expert presentation
+D	308.32	Yeah .	marketing expert presentation
+D	309.14	Um Uh my personal preferences is uh a button for my favourite channel , so I can uh I dunno , so I can zap to my uh f uh quick uh to my favourite channel wh what I uh so , the remote mu must see or um must um see wha what mine preferences are for which channel , so I can zap t to What ?	marketing expert presentation
+A	337.21	Okay , you don't set it yourself , it just remembers the channel that you are on most , for example .	marketing expert presentation
+A	343.17	You want the you want it to be programmed , for example y programmed f or you want it to recognise your favourite channel ?	marketing expert presentation
+D	345.86	Yeah .	marketing expert presentation
+D	347.38	Yeah .	marketing expert presentation
+D	349.6	Recognise Yeah .	marketing expert presentation
+A	349.62	Let's see , you you spend twenty minutes each day on that channel , so it recognises your favourite channel .	marketing expert presentation
+D	354.65	Yeah , that's uh what my personal preference like .	marketing expert presentation
+A	357.92	Okay , so it's it it does it recognise itself , you don't have to set it Okay .	marketing expert presentation
+D	361.24	No , itself .	marketing expert presentation
+D	363.36	Maybe it's easier to to sell it , but I don't know it's manageable , but we will uh we will see .	marketing expert presentation
+A	368.58	Okay .	marketing expert presentation
+A	371.39	I see .	marketing expert presentation
+D	373.57	Yeah , it's a little bit uh it's the end of it .	marketing expert presentation
+D	376.36	It's a little bit uh I lost it , the computer uh crashed , so .	marketing expert presentation
+A	376.39	Okay .	marketing expert presentation
+B	376.95	Okay .	marketing expert presentation
+A	379.6	No problem , it's it's okay , that's Yeah , go ahead .	marketing expert presentation interface specialist presentation
+B	381.45	Shall I go ?	marketing expert presentation
+B	382.12	Okay .	interface specialist presentation
+D	386.15	Yeah .	interface specialist presentation
+B	392.34	So , some technical functions .	interface specialist presentation
+D	393.49	Darn computer .	interface specialist presentation
+B	395.62	Basically I have some issues which you discussed earlier .	interface specialist presentation
+D	399.31	Yeah .	interface specialist presentation
+B	399.47	Uh let's just start with the method .	interface specialist presentation
+B	402.51	It sounds really easy , what does the user do , what does the th remote control do , but there are quite some issues .	interface specialist presentation
+B	410.35	So the things I'm going to concentrate on are the user aspect , because the technical aspect , that's pretty much covered .	interface specialist presentation
+B	418.2	We can do that .	interface specialist presentation
+B	419.46	What goes wrong at the user .	interface specialist presentation
+B	423.27	Gets the remote control .	interface specialist presentation
+B	424.59	Where is the remote control ?	interface specialist presentation
+B	426.05	We've all had it once , I want to watch some television , where's the remote control ?	interface specialist presentation
+D	428.2	Yeah .	interface specialist presentation
+B	430.4	That was one of your ideas which you posted in the network folder , a really good idea .	interface specialist presentation
+D	432.5	Yeah .	interface specialist presentation
+A	433.45	That seems very good .	interface specialist presentation
+B	435.24	Uh these are just the issues .	interface specialist presentation
+B	437.29	I come to some uh personal experience , findings , possible solutions later .	interface specialist presentation
+B	443.11	Searches for the button .	interface specialist presentation
+B	445.6	There are many buttons on a remote control which are not clear .	interface specialist presentation
+B	449.3	Uh so either we lose those or we try to make it a little bit more clear .	interface specialist presentation
+D	455.12	Mm uh .	interface specialist presentation
+A	455.27	Mm-hmm .	interface specialist presentation
+B	455.42	Uh also symbols tend to fade after a while .	interface specialist presentation
+B	459.3	There's nothing more annoying than faded symbols , because you don't know which channel is this button , so possibly we could find uh something for that , yes .	interface specialist presentation
+A	467.29	Okay , so have it more make it more durable actually .	interface specialist presentation
+A	470.06	Okay .	interface specialist presentation
+B	471.22	Uh covered that .	interface specialist presentation
+B	473.67	Oh yes , user presses the button .	interface specialist presentation
+B	475.56	Um usually when you have a lot of buttons , buttons are small .	interface specialist presentation
+B	479.25	So you press more once remote control goes kablouey or something like that , so we have to pay attention not to put too mun too many buttons on uh the remote control .	interface specialist presentation
+A	484.62	Okay , so the buttons should be Mm-hmm .	interface specialist presentation
+A	492.09	Yeah .	interface specialist presentation
+B	492.91	And possibly also the size , so more important buttons , bigger si So this is basically what I h had in mind in the fade-proof symbols , locator , a sound , uh so clear we should stick to existing symbols , but maybe we could do a little uh investigation to see whether some symbols are uh need to be replaced by others .	interface specialist presentation
+A	494.8	Wow .	interface specialist presentation
+A	495.96	The s Yeah .	interface specialist presentation
+A	496.68	Make it make them bigger .	interface specialist presentation
+A	498.31	Even more durable uh .	interface specialist presentation
+A	516.5	Okay .	interface specialist presentation
+B	516.9	Uh This I pretty much covered .	interface specialist presentation
+B	520.95	So what we want to go to is not this one , but more less buttons , easy , some bigger buttons .	interface specialist presentation
+A	525.3	Yeah , it's true .	interface specialist presentation
+D	526.17	Yeah .	interface specialist presentation
+B	530.66	So that's basically uh what I had in mind .	interface specialist presentation
+A	531.76	Yeah , that's clear .	interface specialist presentation
+B	534.56	This is not the final design , this is just a general idea of how I'd like to see uh basically the general idea .	interface specialist presentation
+A	535.97	No , of course uh Yeah .	interface specialist presentation
+A	540.17	I must say that it Hmm .	interface specialist presentation
+B	543.38	So that was it .	interface specialist presentation
+A	545.53	That was it .	interface specialist presentation
+A	546.11	Okay , that was good .	interface specialist presentation
+A	547.87	So we agree on the the part that we need to get something on the on the remote to find it somewhere and increase it the durability of of the thing , so The other aspects , we'll just see how what you came up with and what's possible for that budget .	interface specialist presentation
+B	555.08	Yeah , I think it's a really good idea .	interface specialist presentation
+B	558.53	Yeah .	interface specialist presentation
+B	563.53	Yeah .	interface specialist presentation
+A	570.42	Okay .	interface specialist presentation
+C	571.05	Okay , that's fine .	industrial designer presentation
+C	573.84	Um .	industrial designer presentation
+C	576.33	Okay , now work a little with me .	industrial designer presentation
+C	580.92	Okay .	industrial designer presentation
+C	581.5	Well , let's start it as it is .	industrial designer presentation
+C	584.91	Okay , uh the method .	industrial designer presentation
+C	586.13	There are a few questions that need to be answered , uh you already uh talked about it a little bit .	industrial designer presentation
+C	590.97	Which buttons are wanted , uh is our remote control universal or should it be programmable .	industrial designer presentation
+C	596.44	Uh if it should be programmeab grammeale then we need um something like a mode that you can switch it .	industrial designer presentation
+C	601.09	Because then the buttons have to send out a different signal then they would normally do .	industrial designer presentation
+A	605.2	Mm-hmm .	industrial designer presentation
+C	605.66	And uh how big is the remote control uh going to be ?	industrial designer presentation
+C	609.42	I'll tell you why that's important to me .	industrial designer presentation
+C	611.77	Um there are a lot of technical parts in the remote control , so uh uh that's why I also would like to say uh go a little bit easy on the designs , uh I heard ab uh you talking about beeps and about uh video screens , but uh the material inside and the technical aspects are quite complex already .	industrial designer presentation
+A	630.42	Mm-hmm .	industrial designer presentation
+C	630.64	So keep in mind that everything that you keep uh think of , it has to b to be built .	industrial designer presentation
+C	634.98	So it's that's not as easy as it s might look like .	industrial designer presentation
+A	635.42	Yeah .	industrial designer presentation
+A	635.83	Of course , hmm .	industrial designer presentation
+B	636.68	Okay .	industrial designer presentation
+C	637.98	Uh material study , I'm working on that um for the the costs .	industrial designer presentation
+C	641.78	I have to check out how far I can go with that .	industrial designer presentation
+C	644.44	Normally , a circuit board is made of fibreglass uh and the wires are made of copper .	industrial designer presentation
+C	649.44	Uh that is how it is done and all the remote controls work that way , I think we can just go on with that .	industrial designer presentation
+C	654.8	Um then I've read more integration of materials means less cost for the production .	industrial designer presentation
+C	660.22	The more we can make uh at once uh in one piece , uh that is cheaper .	industrial designer presentation
+A	665.41	You mean integrate them all into the circuit board .	industrial designer presentation
+C	667.62	Exactly , so if we make a circuit board with the the connections already on it , then that's cheaper .	industrial designer presentation
+A	668.11	Okay .	industrial designer presentation
+A	673.27	Yeah , okay .	industrial designer presentation
+C	673.46	So we have to make something that's not too difficult in design again .	industrial designer presentation
+A	674.0	So you have Mm-hmm .	industrial designer presentation
+C	678.28	This is what look like uh looks like if you press one button , so this is not the entire thing .	industrial designer presentation
+C	682.96	You have the the power coming in , then you have like a switch .	industrial designer presentation
+C	686.75	The switch uh uh uh if you p press it then some electrical charge goes into the processor , that thinks over a Morse code , that's how you should see it .	industrial designer presentation
+C	696.35	The Morse code goes to the amplifier , then uh the signal is sent to two uh light bulbs .	industrial designer presentation
+C	701.14	You have infrared and an interv um uh how to say it ?	industrial designer presentation
+C	705.25	Uh a light in indication , light that you know that it's functioning .	industrial designer presentation
+C	709.09	Uh here again , that's my story about the different modes , if you do want to make remote uh universal , then the processor has to uh make up a different Morse code when some button is pressed .	industrial designer presentation
+C	720.67	That makes it much more complex , so we really need to have a look , do we want that or not .	industrial designer presentation
+C	726.64	Uh I don't have any personal p uh preferences uh so far , except for uh the materials to be used uh light , that they are light .	industrial designer presentation
+A	730.89	Okay .	industrial designer presentation
+A	734.65	Okay .	industrial designer presentation
+A	734.98	That was it ?	industrial designer presentation
+C	736.44	That was it .	industrial designer presentation
+A	736.7	I'll get back to my thing then .	industrial designer presentation
+A	742.72	Uh Okay , back this up to the screen .	industrial designer presentation new requirements
+A	756.14	So I got some new information on the project specifications are changing a little .	new requirements
+A	760.53	Like you said uh teletext is not not very popular anymore because the uh the internet , nowadays people don't use the teletext anymore or hardly , so it can either Well , I don't think we should remove the button , because there are always people who are using it .	new requirements
+B	774.61	Yeah .	new requirements
+A	775.29	But I don't think it should be very it should be one of the big buttons for example .	new requirements
+A	780.54	Just put it somewhere or under second option or whatever .	new requirements
+A	783.54	It's not important anymore .	new requirements
+A	784.93	Um we're targeting young people now , because our um This is a new product and with this new product we want to appeal to younger people , which are um the younger people were defined under forty .	new requirements
+D	794.11	Uh .	new requirements
+D	795.86	Yeah .	new requirements
+C	797.39	Hmm .	new requirements
+A	797.78	I so I think it's that's also good with the fashion and everything , so yeah .	new requirements
+D	798.59	B Yeah , and they want to pay for it and uh With more Where with more technical specifications in the Yeah .	new requirements
+A	802.56	They want to pay for it , people are willing to spend money actually to buy a um remote that they like .	new requirements
+A	807.33	If they like the way it looks , the way it functions , so they're actually gonna spend uh spend money on it .	new requirements
+A	815.16	Yeah .	new requirements
+A	816.73	see how far we can go with it anyway , so And one thing that should be important is that the corporate l colour and slogan are recognisable , which is apparently black and yellow , but I'm not sure if we I think we should keep the the logo in mind , because with colours you can uh have a lot of uh fashionable colours and everything on it , which suits everybody's taste .	new requirements
+A	838.54	So With that concept I started thinking , so why not just steal Nokia's idea and just make changeable covers for your I mean those cost hardly anything I think , and people could even spend extra money on buying a cover and so have an entire new remote control that they like to see .	new requirements look and usability
+B	845.59	Oh .	look and usability
+C	848.71	Yeah .	look and usability
+A	854.47	Or we can sh for example we can make a different a basic design .	look and usability
+A	858.23	And sell the covers separately , for example .	look and usability
+A	860.51	That's just a little marketing idea that could be applied , so you can p it appeals to really everyone .	look and usability
+A	865.7	So you don't have to I think you don't have to make entire remote controls .	look and usability
+A	869.17	We make a basic one and manufacture this cover separately .	look and usability
+C	872.51	Mm-hmm .	look and usability
+A	873.1	So that was that was my idea on what we could do to appeal this product to everyone .	look and usability
+C	877.89	Hmm .	look and usability
+A	878.01	So just I'm not sure if you came up with anything in the meantime , after making a presentation .	look and usability
+D	883.6	Yeah .	look and usability
+A	883.9	Would you like to share ?	look and usability
+C	885.82	No , I think this is a good idea .	look and usability
+A	887.13	Okay .	look and usability
+C	887.72	But Go ahead .	look and usability discussion
+D	887.83	But oh ?	look and usability
+B	888.51	Is it manageable ?	look and usability
+D	890.02	Yeah , with with an L_C_D_ screen you can Why ?	discussion
+B	890.59	Is it easy ?	look and usability
+A	893.38	Oh yeah .	discussion
+A	893.66	I think we should lose the L_C_D_ screen , like you said .	discussion
+C	893.96	Y Yes , I think so too .	discussion
+B	895.72	Yeah .	discussion
+A	895.83	I think for example it's it's huge I think the L_C_D_ is huge , it consumes batteries like hell .	discussion
+D	896.37	Nokia w Uh .	discussion
+A	901.58	I think it takes up a lot of a lot of power .	discussion
+C	902.7	Yeah .	discussion
+B	903.31	And it costs too much to fabricate , so we're on a tight budget here .	discussion
+A	904.23	It costs a lot , I think .	discussion
+C	906.02	Okay , uh Mm .	discussion
+D	906.21	Okay .	discussion
+A	906.56	What we could do , what could be possible , is maybe not an L_C_D_ screen but with a preview , but y I'm not sure if it's even possible .	discussion
+A	914.3	For example , a little T_V_ guide .	discussion
+C	916.11	Hmm .	discussion
+A	916.46	Like you have a little just just a text only , not colour , just a little text thing so you can use your remote as a T_V_ guide .	discussion
+C	918.9	Mm-hmm .	discussion
+D	919.0	Yeah .	discussion
+A	922.15	I'm not sure it's even possible , but maybe okay , make it Yeah , find a little compromise in that , but What did I write down ?	discussion
+C	922.44	Hmm .	discussion
+C	922.69	I have to check that out , I'm not sure .	discussion
+D	927.78	Yeah .	discussion
+A	929.13	I think the p yeah , the beep is a very simple thing to imple implement , just make a button on your T_V_ and just hit the button , it beeps somewhere .	discussion
+C	932.47	That must be possible .	discussion
+A	935.39	I think it's easy to implement , we should go for that .	discussion
+C	935.53	Ja .	discussion
+C	937.18	I'm sorry , whe where do you wanna hit the T_ you wanna we want a button on the television .	discussion
+B	937.81	And it's Maybe just a slap-on sticker with a button which sends out a small signal .	discussion
+A	937.83	Uh speech recognition .	discussion
+A	941.16	I thin Yeah , I mean where else should you put it ?	discussion
+C	942.59	In th okay , but that rules out a universal remote control .	discussion
+C	948.04	Because that's not possible uh .	discussion
+A	948.34	Yeah , but how are you gonna use that if your I mean if your remote control is lost , how are you gonna press where are you gonna press the button ?	discussion
+C	952.58	Uh .	discussion
+C	953.84	Yeah .	discussion
+C	956.05	Exactly .	discussion
+A	961.01	A slap-on sticker .	discussion
+A	962.01	Oh , you mean as like a separate thing you can attach to your T_V_ .	discussion
+D	964.48	Mm uh .	discussion
+B	965.02	Yeah , exactly .	discussion
+A	965.3	Yeah , that could be possible .	discussion
+A	966.49	A little little box you can attach to your T_V_ is fine then , okay .	discussion
+C	968.15	Okay , then uh I'd I'd like to know now if we want the uh universal remote control or not , because that's uh determines everything I'm gonna do .	discussion
+A	975.64	I think it's universal .	discussion
+A	977.49	I think we should go for universal , because apparently we're a separate company making separate c remote controls to sell to a lot of diverse people .	discussion
+C	977.86	If not Okay .	discussion
+D	985.97	Yeah .	discussion
+A	986.42	I think universal remote control should be possible .	discussion
+D	987.48	Um Everyone uh wants to buy it , so we w yeah .	discussion
+C	988.83	Okay , then I go for that .	discussion
+A	991.81	Yeah , I think we're targeting everyone , so remote Okay , universal is good .	discussion
+C	992.0	Yeah .	discussion
+C	993.33	Okay .	discussion
+C	993.77	No , it's fine with me , but then I know what to look for .	discussion
+A	996.83	Speech recognition , I think it's very hard , because we're selling across multiple countries .	discussion
+A	1000.88	So I think implementing speech recognition is such a small um apparatus , it's very hard to do .	discussion
+D	1001.26	Yeah .	discussion
+D	1004.55	Or one .	discussion
+D	1006.58	Or when you say one two uh i it uh it's enough , right ?	discussion
+B	1006.59	And it's Besides that , the technology isn't really super yet , so that is a problem in implementing this .	discussion
+A	1009.63	Yeah , but I don't see Arabian people speaking one , two uh whatever .	discussion
+D	1010.26	But Oh yeah .	discussion
+A	1017.11	It's Yeah .	discussion
+D	1017.7	Yeah .	discussion
+A	1019.06	It's not a mature technology , I think it takes a lot of memory and everything in in a remote control , so I don't think it should be implemented in a remote control yet uh .	discussion
+D	1020.3	Okay .	discussion
+B	1022.64	It's a good idea , but it's just not I don't think the market's ripe for that yet .	discussion
+C	1029.41	Uh-huh .	discussion
+D	1029.96	Yeah .	discussion
+A	1030.38	What else do we have ?	discussion
+A	1031.51	Um well you should you should look into the in into the materials that are real durable .	discussion
+C	1037.21	Mm-hmm .	discussion
+A	1037.58	So the the the symbols won't fade , maybe a little harder plastic or especially li we don't maybe we don't have have to do all the buttons , but especially the ones that are um the popular buttons , so those always fade first .	components, materials and energy sources
+C	1039.6	Exactly .	components, materials and energy sources
+C	1040.41	I already noted that .	components, materials and energy sources
+C	1047.72	Mm , okay .	components, materials and energy sources
+C	1050.11	Okay .	components, materials and energy sources
+A	1050.57	Mm the thing is the most important things that we have now .	components, materials and energy sources
+C	1053.53	Hmm .	components, materials and energy sources
+A	1054.1	Let's see .	components, materials and energy sources
+C	1055.0	If we uh make a remote control with changeable covers , then we can also make uh a cover for every language area .	components, materials and energy sources
+C	1061.78	That's fo is uh especially for older people , that they can read it read it in their own language .	components, materials and energy sources
+A	1062.06	For example ?	components, materials and energy sources
+A	1064.58	Well , we're not we're not targeting older people , we should remember that .	components, materials and energy sources
+D	1065.43	Yeah .	components, materials and energy sources
+A	1067.3	Everything we target is under forty , so .	components, materials and energy sources
+C	1067.63	That's okay , okay .	components, materials and energy sources
+A	1069.54	You assume that that they read correctly and I think they're The most important thing about young people is that they're really sensitive to to trends that are passing through the world , so No , of course .	components, materials and energy sources
+C	1071.27	Huh .	components, materials and energy sources
+D	1072.98	But b But every Oh .	components, materials and energy sources
+C	1077.92	Uh okay .	components, materials and energy sources
+B	1079.62	But should the exchangeable covers include the buttons themselves or just the C that's a problem with the with the text then .	components, materials and energy sources
+A	1084.66	No , I think it's just something you you put over them , because Yeah we c Yeah , you ca Well , tha that's not a that's not a bad that's not even it's not even a bad idea .	components, materials and energy sources
+C	1087.37	Hmm .	components, materials and energy sources
+C	1092.83	Hmm .	components, materials and energy sources
+A	1092.92	I mean , for example , if you're if you're into the durability issue you could For example , if your buttons are faded , after I mean if you make a durable remote , they are faded , you can just buy a new cover .	components, materials and energy sources
+C	1101.24	Mm .	components, materials and energy sources
+A	1104.29	Uh I'm not sure it's it's hard to make .	components, materials and energy sources
+C	1104.34	Okay .	components, materials and energy sources
+C	1106.32	Uh but I know that the buttons are like a Nokia telephone on uh one sleeve , so you don't have to change your whole cover .	components, materials and energy sources
+A	1106.4	So it's a good and a bad idea .	components, materials and energy sources
+A	1112.13	Mm-hmm .	components, materials and energy sources
+C	1113.44	Uh we can make something that you can only remove the sleeve .	components, materials and energy sources
+C	1117.12	Know what I mean ?	components, materials and energy sources
+B	1117.31	Oh yeah , I know what you mean .	components, materials and energy sources
+C	1118.28	It works the same as a Nokia telephone , it's it's in my uh 'kay .	components, materials and energy sources
+A	1119.95	Yeah , I know , it's just just a one one piece of rubber for example , okay .	components, materials and energy sources
+D	1120.95	Yeah .	discussion
+C	1122.27	Exactly .	discussion
+B	1122.67	Yeah .	discussion
+A	1123.12	Yeah , that's what I something I have to look into .	components, materials and energy sources
+A	1125.47	Either either change both the buttons and and the cover or just the cover , I'm not sure which which is easier , so Um anyway , yeah , this is what we're gonna do afterwards , just lunch break and have more individual work after that , so let's see what we let's see we So you have to come up with a components concept , yeah .	discussion components, materials and energy sources
+C	1130.24	Hmm .	discussion
+A	1148.3	I want some you should do some trend-watching , because even if we're if we're gonna do those covers and everything , what people really want , that's what we need to know in this phase , because that's gonna be the essential final design that we're gonna come up with .	discussion
+D	1150.9	Yeah .	discussion
+D	1155.55	Yeah .	discussion
+D	1160.67	Okay .	discussion
+A	1162.76	Um Yeah , I think user interface is fairly obvious .	discussion look and usability
+A	1167.32	I mean it should be very intuitive , s Yeah , it should speak for itself .	look and usability
+B	1167.54	Pretty straightforward .	look and usability
+A	1171.65	Uh for example I bought a remote control last week with a new T_V_ , it was it l it's like all buttons and you have no idea what it does at first , and I'm total T_V_ new , anyway .	look and usability
+A	1181.21	So I think it should be have less or l very little buttons and maybe a second second level menu for the advanced things .	look and usability
+A	1189.39	Or maybe just stick 'em under a menu , like you said the um the sound options and the surround and whatever , they're more complicated , just stick 'em under one menu and uh give it a just put it in in s in a software piece , you can menu and you can uh select everything you want to to set on your T_V_ .	look and usability
+C	1202.11	Mm .	look and usability
+B	1204.72	Is it techni technically possible to uh send a signal to a television and then pops up a menu , because we're working with different types of television , so we're going to work with that ?	look and usability
+C	1211.15	Yeah .	look and usability
+A	1216.99	That is true .	look and usability
+C	1218.23	I don't think so .	look and usability
+A	1219.6	No , that's true .	look and usability
+C	1220.12	No , I don't think so .	look and usability
+C	1221.69	Because the television needs to respond to the signal , and if it doesn't know how , it's Exactly , that's not possible .	look and usability
+A	1223.54	Yeah , that's true .	look and usability
+B	1223.99	It's an in-built menu , isn't it ?	look and usability
+B	1225.56	Yes .	look and usability
+B	1227.57	So basically we Or we could use a double-sided for less used functions you Yeah , with the cover .	look and usability
+A	1228.52	I'm not sure if it's impossible , but uh there's a chance it's not , so .	look and usability
+A	1237.44	A double-sided remote control ?	look and usability
+A	1238.95	I don't think that's useful .	look and usability
+B	1241.33	I it's basically an idea to overcome these issues , because No , but basic functions but functions which are not frequently used .	look and usability
+A	1244.98	Yeah , but then you're gonna have a lot of wasted buttons .	look and usability
+A	1247.13	For example you have a Sony T_V_ and the half of the buttons won't function if you have a for a Sony that won't for a Philips T_V_ .	look and usability
+C	1250.07	Hmm .	look and usability
+D	1251.8	Yeah .	look and usability
+B	1255.03	Because if we use a universal remote control , we're going to have to have most buttons on it , so Yeah .	look and usability
+A	1255.14	I don't think we should Yeah , for exam I'm not s yeah , for ex you have to make it a little decision between the part if you want a universal remote control that it should do what people usually do with their T_V_s , not not the very complicated settings that you can usually do that with uh either a old old remote control if they really hate that thing , but you can't you cannot take into consideration all the different brands of T_V_s .	look and usability
+D	1263.37	Mm yeah .	look and usability
+C	1273.72	Mm .	look and usability
+C	1275.54	Mm .	look and usability
+C	1281.56	But that might be broken .	look and usability
+A	1285.72	I think there's I think there is a standard for example between uh because usually the the menu is the menu button is is usable between different brands .	look and usability
+C	1288.1	Hmm .	look and usability
+C	1297.67	Hmm .	look and usability
+A	1299.41	Especially the big ones , the big brands , so .	look and usability
+C	1300.69	Hmm .	look and usability
+A	1302.57	'Cause everybody I have a universal remote control and it can use the menu button , so I think I'm not sure , if you can put some research into that , if it's possible .	look and usability
+C	1306.06	Hmm .	look and usability
+A	1309.6	Uh I think just a b and the navigation is very basic , it's usually the same thing .	look and usability
+C	1309.61	Mm okay .	look and usability
+C	1313.33	Mm .	look and usability
+C	1314.63	But I think there must be a way uh to invoke the more complicated functions of a television .	look and usability
+C	1319.87	For instance , if your old remote control is broken and you buy ours , then uh you should be able to get everything out of the television that's in it .	look and usability
+A	1324.33	Yeah .	look and usability
+A	1327.48	Yeah , that's true .	look and usability
+D	1327.77	Yeah .	look and usability
+C	1328.13	Because otherwise you'll lose functions by buying our Okay , I thi I think so too .	look and usability
+A	1328.27	I think so uh we need to put some research into that if if we can open the menu , I think it's possible , just the way how to .	look and usability
+D	1328.7	Yeah .	look and usability
+D	1336.09	Yeah , yeah .	look and usability
+A	1336.76	Yeah , then then you could do everything I suppose , because usually the T_V_s have tha that inside in this other little piece of software , so it's okay .	look and usability
+C	1345.11	And I think that our r remote control should not look like uh any other .	look and usability
+C	1348.92	For instance uh Sony makes all their remote controls exactly the same for all their devices , and you always grab the wrong one because formatting of the buttons is exactly the same , only the labels are different .	look and usability
+A	1352.44	Mm-hmm .	look and usability
+A	1356.97	Yeah .	look and usability
+A	1358.58	Yeah I think it should be a little distinct from everything else , because it's either it's both mayb maybe the shape can be a little different .	look and usability
+C	1358.73	We should not do that .	look and usability
+C	1360.64	Exactly .	look and usability
+D	1361.02	Yeah .	look and usability
+B	1362.18	Yeah , I have some ideas .	look and usability
+B	1364.67	I have some ideas .	look and usability
+A	1364.75	Maybe it's a little more curves or whatever .	look and usability
+D	1365.15	Um yeah .	look and usability
+C	1365.28	Mm that's your uh division .	look and usability
+D	1367.4	And uh with different colours uh .	look and usability
+A	1367.98	So um Yeah , this .	look and usability
+B	1369.67	I'll put some on paper and present them next time uh the ideas that I have .	look and usability
+A	1373.43	Not sure what because we have forty minutes , I'm not sure how much time we have left for the meeting anyway , so .	look and usability
+D	1374.13	Okay .	look and usability
+B	1379.03	I heard a beep go .	look and usability
+A	1380.21	Yeah , but it wasn't me , it was him closing something .	look and usability
+D	1381.73	Yeah .	look and usability
+A	1383.68	So anyway , yeah , we could do some i do some work now on on the design for example .	look and usability
+A	1387.73	I mean what do you want , do you want , but Yeah , may maybe something like this .	look and usability
+B	1390.23	Yeah , but we like some some curves or Yeah .	look and usability
+A	1395.36	But though smooth inside .	look and usability
+A	1400.52	So you have the transmitter here for example .	look and usability
+A	1403.51	Let's see that you what would be handy .	look and usability
+D	1404.99	Uh .	look and usability
+A	1405.31	I think that the the buttons should be the channel buttons should be uh on their own .	look and usability
+D	1408.26	And a light uh Volume .	look and usability
+A	1410.68	Let's see one , two God damn it .	look and usability
+B	1414.79	Oh , we get the general ideas , yes .	look and usability
+A	1416.16	Yeah , okay .	look and usability
+A	1419.64	Another one here .	look and usability
+A	1420.79	Let's see what I think this should these are always on top of the of the control , so they should be here .	look and usability
+C	1423.88	Hmm .	look and usability
+B	1426.32	Yeah , and since you're holding it like this , I suggest you put the channel up channel down and volume yeah yeah .	look and usability
+A	1428.79	Think it's like this .	look and usability
+A	1431.47	Withi within the Yeah , just take it .	look and usability
+B	1434.05	So you have the up channel the down channel the volume , do we want that horizontal or vertical ?	look and usability
+A	1441.06	Do you take triangles or Um I think it should be I think it Maybe we should make 'em bigger or whatever .	look and usability
+D	1442.64	Uh it's it's fine , I think .	look and usability
+B	1445.8	This is basically what people are accustomed to , so Yeah , but this is just a g general idea .	look and usability
+C	1447.72	Yeah .	look and usability
+D	1451.99	Oh d Yeah .	look and usability
+A	1453.22	Yeah .	look and usability
+B	1454.07	Uh maybe the menu button can go i in the middle .	look and usability
+A	1456.09	Yeah , in the middle .	look and usability
+A	1456.81	It's it's usually uh there , but Mm .	look and usability
+B	1459.7	Whoa .	look and usability
+C	1461.95	Perhaps we should also make uh something like a flash on it , if you if it's lost , for people that are deaf .	look and usability
+C	1467.43	They they won't hear the the beep .	look and usability
+A	1469.45	Yeah , but for example if it's lost in your armchair , we'll not see the flash .	look and usability
+B	1472.07	You won't be able to find it .	look and usability
+C	1472.12	Yeah .	look and usability
+A	1473.97	And flash takes up a lot of batteries again .	look and usability
+C	1474.54	Uh .	look and usability
+C	1476.49	Yeah , it's true , but it's it's only has to do so when you press the button that it's lost .	look and usability
+D	1479.49	Just And L_E_D_ uh on it .	look and usability
+A	1480.34	Yeah .	look and usability
+B	1480.78	We could make a combination that it goes beep and that you that some light lights up .	look and usability
+C	1481.2	So .	look and usability
+C	1484.99	deaf people ?	look and usability
+A	1485.83	Yeah , I thought about for deaf people for example , so .	look and usability
+A	1488.5	We could do that .	look and usability
+D	1490.3	Just a light on it or Very important .	look and usability
+A	1490.33	Uh let's see .	look and usability
+B	1492.37	So we have the basic channels we've got here , uh the power button somewhere over here ?	look and usability
+A	1496.58	Oh yeah , it's true .	look and usability
+A	1498.55	Um that thing should be central .	look and usability
+A	1501.85	You shouldn't be you uh shouldn't press it by accident , but it shouldn't be stacked away somewhere .	look and usability
+D	1505.15	Oh , that's It's And But you r And you are reading from the t you always read from the top to the the bottom of it .	look and usability
+B	1505.96	I usually press it on top .	look and usability
+B	1509.87	At least that's what I'm accustomed to .	look and usability
+A	1510.01	Yeah .	look and usability
+C	1513.55	I have another idea , I'm not sure if it's possible .	look and usability
+A	1514.1	Yeah , like that's gonna work .	look and usability
+B	1518.2	What would you like to ?	look and usability
+A	1519.49	Yeah , I thought maybe we should move the buttons down and put it here for example to From top to bottom .	look and usability
+A	1527.61	Yeah , that's true , you should I think the bu the power button should be on top , 'cause it's the first thing you do , turn it on .	look and usability
+D	1527.74	Yeah , so it's Yeah .	look and usability
+C	1528.55	Mm .	look and usability
+A	1532.81	So power button on top .	look and usability
+A	1536.18	Um Mute .	look and usability
+B	1536.98	Okay , mute button .	look and usability
+B	1539.59	Is that somewhere here ?	look and usability
+A	1539.89	Do we hardly I think it should be at the bottom somewhere .	look and usability
+B	1541.63	Is that used often ?	look and usability
+D	1541.65	So i it's sorry ?	look and usability
+B	1543.51	The mute button ?	look and usability
+A	1544.09	Mute .	look and usability
+B	1544.57	Do people use that often ?	look and usability
+A	1544.81	Turn the sound off .	look and usability
+D	1545.59	No , it's no .	look and usability
+B	1546.49	'Cause uh I'm pretty much accustomed to it right over here , at least in general , but It's not that important , no .	look and usability
+D	1550.0	Uh .	look and usability
+D	1551.54	Hmm .	look and usability
+A	1553.23	I don't think it's important , but I think it I think it should be you c you could put it somewhere here .	look and usability
+D	1557.53	Or or with the volume selection .	look and usability
+A	1561.14	No , because it Yeah , people are accustomed to that , it's Can I have that ?	look and usability
+D	1562.78	Around uh not uh not at top at the around the volume selection .	look and usability
+D	1567.61	I don't know where exactly , but Wha No .	look and usability
+B	1567.83	Sure .	look and usability
+A	1568.2	That's j Take this out and here see Uh are we gonna take triangles anyway ?	look and usability
+A	1576.77	I'm drawing triangles , but Yeah , it's maybe a bigger lesser than thing .	look and usability
+B	1578.79	That's pretty much what people are accustomed to , aren't they ?	look and usability
+A	1585.0	So anyway , I think this is should be the channels and or sh Here , okay .	look and usability
+B	1591.5	Well , I'm accustomed to the channels being on top .	look and usability
+D	1592.91	Yeah .	look and usability
+C	1593.64	Yeah , me too .	look and usability
+D	1594.5	Yeah , that's better .	look and usability
+A	1595.5	Okay , should we chan okay , this two , channel up and down .	look and usability
+D	1595.56	On the right .	look and usability
+C	1601.6	Shall we uh also look if it's possible to make a rechargeable remote ?	components, materials and energy sources
+C	1605.92	That you don't have to buy new batteries if every Mm , yeah .	components, materials and energy sources
+D	1606.98	Yeah .	components, materials and energy sources
+A	1607.24	Well , for that is it's on one part it's um it's a good thing to recharge it Maybe we should what what could be possible is one with rechargeable batteries for example .	components, materials and energy sources
+D	1610.83	Maybe it's more ex expensive .	components, materials and energy sources
+C	1615.18	Uh .	components, materials and energy sources
+A	1617.51	You have just put Penlite batteries that are rechargeable , because it's an it's it's it's very annoying .	components, materials and energy sources
+C	1620.29	But that's already possible .	components, materials and energy sources
+B	1620.78	But isn't that expensive in the entire package ?	components, materials and energy sources
+D	1622.3	Yeah .	components, materials and energy sources
+A	1624.26	I'm not sure y I'm not sure it's if it's expensive , but just take a look at it , because it might be a very good idea .	components, materials and energy sources
+A	1630.48	Because if it's it's uh useful to have it rechargeable , but at the same time , if you don't want recha if you forgot to recharge it and you wanna watch T_V_ now , you wanna be able to put different batteries in it , use it now and not in half an hour .	components, materials and energy sources
+C	1634.36	Yes .	components, materials and energy sources
+C	1640.36	Yes .	components, materials and energy sources
+C	1644.56	Okay .	components, materials and energy sources
+C	1645.0	Uh you could make a device , but I'm not sure how that uh is possible with the costs , that you can put in normal batteries , rechargeable , but it you're the remote also can act as a recharger .	components, materials and energy sources
+A	1649.7	How about I think I have a nice idea .	components, materials and energy sources
+C	1655.58	So then you can choose , you have every decision .	components, materials and energy sources
+C	1657.98	Know what I mean ?	components, materials and energy sources
+A	1659.68	Not exactly uh .	components, materials and energy sources
+C	1660.25	You can uh put in normal Penlites , rechargeable Penlites , but they can also be recharged with the remote , with a wire .	components, materials and energy sources
+D	1663.18	Hmm .	components, materials and energy sources
+D	1665.92	Yeah yeah .	components, materials and energy sources
+A	1666.62	I think it's uh it's a pretty good idea to have uh like sort of a maybe a base station that you put on the T_V_ .	components, materials and energy sources
+C	1667.98	So but But I think that will cost a lot .	components, materials and energy sources
+D	1668.53	Yeah , that's g But Which Yeah .	components, materials and energy sources
+A	1671.77	Could be flat , you could insert your uh remote into it .	components, materials and energy sources
+C	1677.19	Uh a normal wire would be better .	components, materials and energy sources
+A	1677.58	I'm not sure .	components, materials and energy sources
+C	1678.87	Like a like a P_D_A_ , a hand-held .	components, materials and energy sources
+A	1679.27	A what ?	components, materials and energy sources
+C	1681.75	You can uh just put it in the electricity and it charges itself , you don't need basic station .	components, materials and energy sources
+A	1684.92	Well , we were talking about the fact that we wanted to insert either a beep or a flash into the thing with a little separate signal or So you could put that on a T_V_ for example .	components, materials and energy sources
+C	1689.22	Yes .	components, materials and energy sources
+C	1692.12	That is possible , that's true .	components, materials and energy sources
+A	1694.7	It could be very flat , could be very small .	components, materials and energy sources
+A	1697.15	It's a very small Yeah , I'm drawing it big now , but So you can put your remote on flat for example .	components, materials and energy sources
+C	1701.52	Mm .	components, materials and energy sources
+A	1704.56	And at the backside of remote just just just a little hole for example um you just put it down , it recharges for example .	components, materials and energy sources
+C	1707.79	Yeah .	components, materials and energy sources
+C	1710.23	Yeah .	components, materials and energy sources
+A	1711.4	I don't think it's very expensive .	components, materials and energy sources
+B	1712.0	But again , isn't that too expensive ?	components, materials and energy sources
+D	1712.87	Yeah .	components, materials and energy sources
+B	1715.27	'Cause that means that we have to implement rechargeable batteries , a docking station And do people actually want that ?	components, materials and energy sources
+A	1716.13	I'm not sure if it costs a lot , that that's what he r That's that you that's what you buy yourself .	components, materials and energy sources
+C	1717.36	Mm .	components, materials and energy sources
+C	1721.27	Yes .	components, materials and energy sources
+C	1721.91	I'm going to try to find that out .	components, materials and energy sources
+C	1722.86	I'm not sure if there's information available on this , but Hmm .	components, materials and energy sources
+A	1724.09	It's just an idea , we have to find out if it's possible .	components, materials and energy sources
+D	1724.55	But Yeah , they want to pay for it .	components, materials and energy sources
+B	1727.75	To pay extra they want to pay for rechargeable ?	components, materials and energy sources
+A	1728.84	Do they want but they want a rechargeable one ?	components, materials and energy sources
+D	1729.92	Yeah .	components, materials and energy sources
+A	1731.57	I'm not sure , you should find out if it's if rechargeable is important .	components, materials and energy sources
+D	1732.41	Th uh there was not a el ask esque But But f hmm .	components, materials and energy sources
+A	1735.91	Yeah .	components, materials and energy sources
+C	1736.15	These are uh comfort issues .	components, materials and energy sources
+C	1738.08	So I think people will pay they wanted to pay for comfort .	components, materials and energy sources
+C	1741.2	Well , this is comfort .	components, materials and energy sources
+A	1741.48	They want to pay for comfort , we just assu we we could either make a separate station which just sends a signal to the remote control to either beep or flash to find it , um and Yeah , we have to either that or make it integrated with a with a docking station .	components, materials and energy sources
+C	1749.65	Yes .	components, materials and energy sources
+C	1757.63	Hmm .	components, materials and energy sources
+C	1759.79	Yeah .	components, materials and energy sources
+C	1760.71	Exactly .	components, materials and energy sources
+C	1761.69	I think this is a brilliant product .	components, materials and energy sources
+C	1763.33	I would buy it myself .	components, materials and energy sources
+A	1763.65	I think it would be good actually .	components, materials and energy sources
+A	1766.96	I like the beep part anyway .	components, materials and energy sources
+C	1767.38	Uh .	components, materials and energy sources
+A	1768.68	So um let's go through the Covers is covers is good .	components, materials and energy sources
+C	1770.09	I like the covers .	components, materials and energy sources
+C	1771.04	That's a brilliant idea .	components, materials and energy sources
+B	1771.57	Can can we save this or Yeah .	components, materials and energy sources
+C	1772.03	I never thought I hope if I have information about that , I'm gonna Mm .	components, materials and energy sources
+A	1773.9	Yeah , it's Oh we can save this .	components, materials and energy sources
+A	1775.42	Up and saved .	components, materials and energy sources
+A	1777.51	We even saved the ant .	components, materials and energy sources
+A	1781.1	Um Okay .	components, materials and energy sources
+A	1785.92	So what we have is you have I think you have to do a lot of work on if it's possible for the cost .	components, materials and energy sources
+A	1792.01	Maybe yeah , or maybe you can find out i what people are willing to pay .	components, materials and energy sources
+D	1793.84	Yeah .	components, materials and energy sources
+A	1796.28	We are going for twenty five Euros sales price , but just try to find out what they're willing to pay for it , because if they're willing to pay more , we could lose a little profit and maybe attract more customers , uh we just have to see what it looks like .	components, materials and energy sources
+D	1797.35	Yeah , okay .	components, materials and energy sources
+D	1800.49	Yeah yeah yeah .	components, materials and energy sources
+C	1805.45	Yeah .	components, materials and energy sources
+D	1806.21	Yeah .	components, materials and energy sources
+C	1808.05	I would like to make a decision .	components, materials and energy sources
+C	1809.65	What it costs and what kind of materials that we can uh choose what we want in it and exactly , I need it .	components, materials and energy sources
+A	1813.59	Yeah , if you have some financial information that that'd be nice , so .	components, materials and energy sources
+A	1819.44	Hmm .	components, materials and energy sources
+B	1820.56	Could you post some other essentials of what people want , so that I can work with some buttons , where to put it You seem to have information on that , I'd like to uh see some of it .	components, materials and energy sources
+D	1827.26	Yeah .	components, materials and energy sources
+C	1833.16	Was it not possible to uh send emails around the office ?	components, materials and energy sources
+A	1836.15	No , it wasn't wasn't allo it was possible , not allowed , so .	components, materials and energy sources
+B	1836.63	No , it's not .	components, materials and energy sources
+C	1837.04	Not .	components, materials and energy sources
+B	1837.78	No .	components, materials and energy sources
+A	1839.89	So that's um why I'm not sure that you're allowed to share documents on the on the draft .	components, materials and energy sources
+D	1840.28	Yeah .	components, materials and energy sources
+D	1842.02	My computer crashed , so uh I lost my uh presentation , but I have the uh Yeah , but I Here I have the the s the homepage of uh our internet , and here is my here is my marketing report , maybe you ca you can look at uh that and Ah yeah .	components, materials and energy sources
+C	1843.48	Yeah , okay .	components, materials and energy sources
+A	1844.85	I don't care .	components, materials and energy sources
+A	1845.64	I haven't heard any complaints yet , so .	components, materials and energy sources
+B	1845.81	Oh , your computer .	components, materials and energy sources
+B	1846.59	Okay .	components, materials and energy sources
+A	1848.59	Um Yeah , the oh , they inc uh they include the new one .	components, materials and energy sources
+B	1850.82	Well , I have your PowerPoint presentation , I can get some inf information out of that .	components, materials and energy sources
+B	1856.29	Let's see .	components, materials and energy sources
+A	1862.71	Or just for you .	components, materials and energy sources
+B	1862.75	Oh , where would we Where would we want the uh teletext button ?	components, materials and energy sources
+A	1865.91	Oh no , I didn't have that .	components, materials and energy sources
+B	1873.59	Because we decided that it's n not that important .	components, materials and energy sources
+D	1873.97	And one And uh wha what people want , I've uh I have another thing uh Yeah .	components, materials and energy sources
+A	1874.4	All it tells just let's make make a new tick the new one .	components, materials and energy sources
+B	1876.98	Do we put it somewhere over here ?	components, materials and energy sources
+A	1879.79	Um other side .	components, materials and energy sources
+A	1881.52	Yeah , let's increase it a little because Yeah , draw us up some some designs of of possible just keep in mind that the important buttons should be on top and either big , so the more less important More or less .	components, materials and energy sources
+B	1885.05	Or maybe this is something for the next meeting , I can draw out some ideas .	components, materials and energy sources
+B	1893.73	Yeah .	components, materials and energy sources
+B	1894.98	Well , we have decided more or less the basic structure .	components, materials and energy sources
+B	1898.22	I can put the other buttons in Yeah .	components, materials and energy sources
+A	1899.24	Just play a little with this , put l shift a little up or down and we'll see what looks best .	components, materials and energy sources
+C	1903.74	What uh what did you wanna say ?	components, materials and energy sources
+A	1904.96	Or just po post your designs from time to time on the product share .	components, materials and energy sources
+D	1905.78	Um Uh what I al already said is the the uh the remote controls are always lost , but it it's also for people , they want to learn it fast , not uh they want to No It's yeah , it's easy to learn wi and uh Um And The If Um If um Another thing I want to say is that uh we are looking at the market for the age uh younger than forty .	components, materials and energy sources
+B	1907.33	Yeah .	components, materials and energy sources
+B	1910.53	Maybe another idea uh .	components, materials and energy sources
+C	1919.08	Mm .	components, materials and energy sources
+C	1919.35	Mm .	components, materials and energy sources
+A	1919.75	Yeah , so we don't want we want very little buttons , just the buttons you use a lot .	components, materials and energy sources
+C	1922.75	Mm .	components, materials and energy sources
+B	1925.23	Yes , but it should cover all the functions , so possibly , just an idea that popped in Yeah , but we could go a step further , because some T_V_s have the uh possibility to adjust brightness , that kind of menus .	components, materials and energy sources
+A	1928.02	Well what we had function that what people do , so .	components, materials and energy sources
+A	1932.0	People change channels , people they change the volume and they they change channel , they turn T_V_ off and on , for example .	components, materials and energy sources
+A	1938.24	That's the basic fu that's what you do I'm not sure who present that again , but those are the basic function that people use it for , so those should be very well represented .	components, materials and energy sources
+A	1953.17	That's true , but that's what we stick under the menu button .	components, materials and energy sources
+A	1955.23	Everything is you say in every T_V_ that's configured under the menu .	components, materials and energy sources
+B	1956.03	Yes , but it Because we're making We need to adjust to the technology .	components, materials and energy sources
+C	1958.62	But that's the question , is it ?	components, materials and energy sources
+C	1960.3	Because it needs to be configured in the television under the menu .	components, materials and energy sources
+A	1962.61	Yeah , but But I think most modern T_V_s have it in their menu .	components, materials and energy sources
+C	1963.0	If it isn't , then we cannot reach it .	components, materials and energy sources
+C	1967.11	I think so too .	components, materials and energy sources
+C	1968.27	I think so too .	components, materials and energy sources
+B	1968.54	True .	components, materials and energy sources
+C	1969.49	Uh isn't there a possibility to do research on that , so we know that for sure ?	components, materials and energy sources
+C	1973.72	If you rule out functions , then uh and that gets known , then people are not gonna buy it .	components, materials and energy sources
+C	1978.39	Then the consumer bond or something says uh you cannot do this and that with it .	components, materials and energy sources
+B	1978.72	No , I thi Oh , we're not going to be able to sell it for twenty-five then , with an L_C_D_ screen .	components, materials and energy sources
+C	1983.38	That's a bad bad com commercial for okay .	components, materials and energy sources
+A	1985.69	Uh we'll we'll see what we can come up with .	components, materials and energy sources
+A	1993.88	Under forty .	components, materials and energy sources
+A	1995.25	Yeah ?	components, materials and energy sources
+C	1995.29	That's true .	components, materials and energy sources
+D	1995.97	Um on my report , I didn't uh ish I didn't show it in my uh presentation , because my computer crashed .	components, materials and energy sources
+A	2001.67	Mm-hmm .	components, materials and energy sources
+A	2002.96	Yeah yeah .	components, materials and energy sources
+D	2003.43	Um they want to pay for an L_C_D_ screen and speech recognition .	components, materials and energy sources
+C	2007.24	Hmm .	components, materials and energy sources
+C	2009.57	Hmm .	components, materials and energy sources
+A	2010.44	The want to pay for Oh .	components, materials and energy sources
+D	2010.76	So i yeah .	components, materials and energy sources
+C	2012.24	Did they really said it like that ?	components, materials and energy sources
+C	2013.81	Those two things .	components, materials and energy sources
+D	2014.65	Yeah , and Yeah .	components, materials and energy sources
+C	2014.98	Do they realise how much that costs ?	components, materials and energy sources
+A	2015.41	Uh shall we ?	components, materials and energy sources
+C	2016.9	That's almost undoable .	components, materials and energy sources
+A	2018.1	Younger , age sixteen and forty five .	components, materials and energy sources
+D	2018.86	Uh but If if they So uh we can We can look at the possibilities for an uh L_C_D_ and uh I dunno .	components, materials and energy sources
+A	2021.54	That's all here , here it says Yeah , age sixteen forty fi interest in main features more critical .	components, materials and energy sources
+C	2022.64	No , that's that's .	components, materials and energy sources
+C	2024.12	Even if i if we have this lost unit , then we cannot do it for that price .	components, materials and energy sources
+A	2028.36	Okay , so we're not focusing on this .	components, materials and energy sources
+A	2031.56	Um All the interest in features , not really the L_C_ oh here .	components, materials and energy sources
+A	2037.44	Would you pay for uh speech recognition in a remote control .	components, materials and energy sources
+A	2041.01	Hmm , okay ?	components, materials and energy sources
+C	2044.6	Yeah , that's true .	components, materials and energy sources
+A	2048.9	Speech recognition is quite Yeah , just look at the possibilities then , because if apparently it's what people want , it's supposed to be a luxurious remote , maybe it's not even that expensive .	components, materials and energy sources
+C	2053.48	Mm .	components, materials and energy sources
+D	2055.35	Yeah .	components, materials and energy sources
+C	2056.17	Hmm .	components, materials and energy sources
+D	2057.57	How much it will cost and Um It will come uh Yeah .	components, materials and energy sources
+C	2058.76	Uh .	components, materials and energy sources
+A	2061.55	Or find a compromise , maybe just a black and white or for some extra information on it , on your programmes .	components, materials and energy sources
+C	2063.9	Uh I But I really need finance information .	components, materials and energy sources
+B	2065.24	Well I doubt it , but Well , I had basically Something like this .	discussion components, materials and energy sources
+A	2068.44	Me too .	components, materials and energy sources
+A	2068.96	I mean we all do .	components, materials and energy sources
+C	2070.09	We all do .	components, materials and energy sources
+A	2071.06	Right .	components, materials and energy sources
+A	2072.15	I think it's something we should put into consideration .	components, materials and energy sources
+A	2074.21	Apparently it's what people want , so .	components, materials and energy sources
+C	2076.32	Mm .	components, materials and energy sources
+A	2076.66	We should see if what it costs , if it's possible .	components, materials and energy sources
+C	2078.4	Uh .	components, materials and energy sources
+A	2080.59	Yeah .	components, materials and energy sources
+A	2084.33	Yeah , we should do a little thing about design , because it looks boring really to me .	discussion
+A	2088.98	Even if you put it even if you put a different cover on it , it looks still looks boring , so .	discussion
+D	2091.93	Different colours maybe .	discussion
+C	2092.98	Hmm .	discussion
+C	2094.63	And the design , it should differ .	discussion
+D	2095.12	But all Okay .	discussion
+C	2095.94	This is Philips , huh ?	discussion
+C	2097.49	Philips has this .	discussion
+A	2097.86	I have no clue .	discussion
+A	2098.75	I just drew something what which would fit into your hand easily .	discussion
+C	2100.15	Okay .	discussion
+C	2101.85	Hmm .	discussion
+C	2103.17	Uh .	discussion
+B	2105.82	To make it kind of futuristic .	discussion
+C	2108.18	Mm .	discussion
+C	2108.59	Oh , I realise if we make it small , then it needs to be a little thicker , because I need to put all the electronics in it .	discussion
+A	2112.65	I think it's a very Sorry ?	discussion
+C	2116.45	If we make it s uh smaller , uh less wide , then we need to m make it a little thicker , because I have to put all the electronics in it .	discussion
+A	2119.31	Yeah ?	discussion
+A	2122.32	Okay .	discussion
+A	2123.38	Mm-hmm .	discussion
+A	2124.34	Yeah , but you have to j just keep in mind it shouldn't be too heavy .	discussion
+A	2126.74	I mean we can stick it in in there , I think .	discussion
+C	2128.87	No .	discussion
+A	2129.8	Huh even if in the worst case we can even Could you give me the pen back ?	discussion
+B	2130.47	So what kind of Yeah , sure .	discussion
+A	2135.21	So let's say that people would want an L_C_D_ thing .	discussion
+A	2140.66	Let's take take the basic design again , what we oh , crap uh came up with .	discussion
+A	2146.2	I'll just make it a little bigger now .	discussion
+A	2152.49	So a transmitter here .	discussion
+A	2154.05	Anyway .	discussion
+A	2156.18	We could let's say we have an L_C_D_ screen , people want an L_C_D_ screen .	discussion
+A	2160.24	So then we should probably put it here .	discussion
+A	2164.92	It doesn't have to be really big , but just just have to be has to be there .	discussion
+C	2166.84	Hmm .	discussion
+A	2168.71	Think it's a good place , people don't No ?	discussion
+D	2170.7	If you're reading from top to bottom , I think it's better to put it uh at the top .	discussion
+A	2175.57	It's not that uh it's not the most important function , it's just an extra thing , it just you press the buttons on top , because your finger is on top .	discussion
+C	2176.04	Me too .	discussion
+D	2176.13	It's j Uh .	discussion
+C	2177.59	Ah but .	discussion
+D	2180.07	But i if you if you are going to uh put the L_C_D_ on it , I think it's very important to use it , uh because it's use it uh But nee the function of it .	discussion
+A	2189.74	How can you use an L_C_D_ screen ?	discussion
+D	2194.23	So you can use it maximum , because uh it's a lot it costs a lot .	discussion
+D	2200.58	So Yeah .	discussion
+A	2200.59	Yeah , but why I I'm not sure .	discussion
+B	2201.57	Now it's pretty much tucked away in your hand .	discussion
+A	2204.07	Uh if you t if you press a button , you can see it , ri I'm not sure wha I'm trying to imagine myself what it would look like .	discussion
+C	2204.61	Hmm .	discussion
+C	2208.87	No .	discussion
+C	2210.22	M I personally would prefer it on the top .	discussion
+B	2210.61	I'm I'm still not convinced of the Yeah .	discussion
+A	2213.31	You would prefer it n Okay .	discussion
+C	2214.37	Huh .	discussion
+A	2214.43	So we have three people saying it should be on top .	discussion
+A	2218.87	Okay , but then you would would s have to stack away your buttons somewhere else .	discussion
+C	2218.97	But it Hmm .	discussion
+A	2222.92	Anyways .	discussion
+D	2223.01	It's expensive to build it , so you must use the maximum of it .	discussion
+C	2224.88	Mm .	discussion
+A	2225.77	Uh this looks a little About the L_C_D_s thing .	discussion
+C	2230.26	Hmm .	discussion
+A	2230.35	Well if it if it's if it's possible wi if it's not too expensive , we should include it , because it's it's cool .	discussion
+C	2232.07	They want it uh .	discussion
+C	2235.11	We should just try to make that if it's possible .	discussion
+C	2237.37	If it is possible we should really do it , but we need that information .	discussion
+D	2241.14	Huh .	discussion
+D	2242.64	Uh .	discussion
+C	2243.12	Also keep in mind again , the L_C_D_ screen is very flat , but it needs transistors , resistors , I don't know what more and that needs space .	discussion
+D	2243.39	But uh Yeah , I know uh .	discussion
+C	2251.77	So I have to look if that's possible .	discussion
+C	2254.98	But if we Hmm .	discussion
+B	2255.19	So basically can I what we have to decide now is uh what goes on top .	discussion
+A	2256.94	Uh we have green now uh Or maybe we should m we could uh draw draw something a bit that has it on on on the bottom .	discussion
+B	2262.63	Do we put the volume control and the channel control here , or do we put it on he Would we like to press it in the middle ?	discussion
+D	2267.36	In middle of it .	discussion
+D	2269.16	In the middle .	discussion
+A	2271.73	Maybe in a circle for example , like we like in this example .	discussion
+A	2275.06	I think this is not good , but for we could make circular buttons for example .	discussion
+A	2279.95	For up and down , ma make it a circle on it , because it I think the channel button should be in the centre .	discussion
+B	2280.14	Yes , but we do agree that we keep this at the centre , because it's basically the most important function .	discussion
+D	2284.26	Yeah .	discussion
+D	2286.28	It's the most import yeah .	discussion
+A	2288.02	Channel button should be st stick together , for example here in this section .	discussion
+A	2291.94	Because it's uh We're not sure about the size anyway , just a general design .	discussion
+B	2292.25	Well , that would make them quite small .	discussion
+B	2295.4	So maybe you'd put them here .	discussion
+A	2297.76	You can make it as big as you want .	discussion
+A	2298.86	For example if you take uh No , let's see .	discussion
+B	2299.97	Yes , but a big remote control probably not something which people would like .	discussion
+C	2303.21	Hmm .	discussion
+A	2304.7	For example just Yeah .	discussion
+C	2306.21	If we have a a space issue , we can also lose one battery .	discussion
+C	2311.04	It is rechargeable , so we can stick with one instead of two .	discussion
+C	2314.8	That might be an option .	discussion
+A	2314.92	I don't think if we if we even use an L_C_D_ screen , we need to , definitely .	discussion
+C	2318.8	Yeah , but if we need two batteries and an L_C_D_ screen , that means a lot of space that we need .	discussion
+A	2324.19	Yeah , but we have to see what the si what the size is .	discussion
+C	2324.53	But it has to be a little bit heavier .	discussion
+C	2327.16	Okay .	discussion
+A	2327.25	The L_C_D_ doesn't have to nee doesn't need to be very big .	discussion
+C	2330.26	No , but the things behind it .	discussion
+C	2332.58	space .	discussion
+A	2334.41	Mm let's see .	discussion
+C	2335.37	Like a process uh .	discussion
+D	2335.49	Finish meeting now .	discussion
+D	2338.2	It's on your computer .	discussion
+A	2338.34	Finish meeting now .	discussion
+A	2339.36	Okay , we will .	discussion
+B	2339.99	So would we like this or would we like the Let's see what we have here .	discussion
+A	2340.31	So either We either we have to decide what what people want .	discussion
+C	2343.98	I like this one more .	discussion
+A	2345.49	Either this one , this this could be the luxurious one .	discussion
+A	2348.76	So we have channel buttons here .	discussion
+A	2351.47	I'm just drawing something uh .	discussion
+A	2353.88	Uh I think this would this would look cool .	discussion
+A	2359.43	You could have it for example small buttons here for some extra functions , so if your basic function's here , we should like we decided before , programmes up and down , and volume here .	discussion
+D	2364.52	Uh .	discussion
+C	2375.09	Mm .	discussion
+D	2375.37	Or And uh what about speech recognition uh Yeah , yeah , but or or an L_C_D_ or an uh speech .	discussion
+A	2379.43	Well you can just no , I'm not sure if we can do that , but we could put a microphone in here for example .	discussion
+C	2385.35	Mm .	discussion
+D	2385.43	I think it's L_C_D_ is better now .	discussion
+A	2386.78	Just to do research into both , w what it costs and what it takes for space .	discussion
+D	2389.06	Yeah .	discussion
+C	2390.26	I'll try to .	discussion
+D	2390.58	Yeah .	discussion
+A	2391.07	But let's cut the meeting for now yes .	discussion
+C	2392.63	One more uh thing I'd like to say , uh let's give this uh a name , and not like some vague serial number that no one understands , like with cars .	discussion
+B	2400.91	Okay .	discussion
+D	2401.49	Yeah , okay , yeah , that's yeah , that's okay .	discussion
+C	2402.06	Shall we all try uh to think about a name ?	discussion
+B	2403.5	So I think of a name .	discussion
+A	2404.47	Yeah , let's think of a name , okay .	discussion
+A	2408.73	Uh okay .	discussion
+D	2411.94	Oh , good .	discussion
+A	2413.33	Okay , at anyways , the the minutes will be on the on the web shortly , so there we go uh .	closing
+B	2414.59	So Yes , go and finish up and I'll see you at lunch .	closing
+D	2423.59	Yeah .	closing
+C	2429.73	Good luck .	closing
+A	2430.77	Yeah , to all .	closing
+D	2431.21	Same .	closing
+B	2431.58	Yeah .	closing
+C	2438.4	Yeah , I've Do we uh save the ?	closing

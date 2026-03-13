@@ -1,0 +1,516 @@
+B	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	8.62	I dunno .	chitchat
+D	12.39	Throwing away my toothpick .	chitchat
+B	17.49	Hi there .	chitchat
+A	22.91	Yo .	chitchat
+A	26.87	Ow .	chitchat
+D	42.58	'Kay .	chitchat
+A	48.71	Uh Yeah .	chitchat
+D	50.95	Nice user interface .	chitchat
+A	53.94	What the Uh Yeah well , ja well let's just start .	opening chitchat
+D	64.95	'Kay .	opening
+A	65.69	I've uh made a presentation uh but uh I'll open it on the Smartboard , so we can all see it .	opening
+D	68.15	Right let's see it .	opening
+A	75.51	So it's in the project documents because that's what we can find here .	opening
+A	82.28	Well .	opening
+A	85.57	Very nice .	opening
+A	87.27	Well this is called the the the kick-off meeting .	opening
+A	90.13	So uh I'm the Project Manager , so I had to fill it in , and uh hmm .	opening
+D	94.32	'Kay .	opening
+A	102.51	Oh sorry .	opening
+A	107.09	And an uh a nice agenda .	opening
+A	110.26	Uh we'll do the opening and then uh we'll meet each other , what uh we already do , so , that's not uh very much trouble .	opening
+A	119.18	I'll I'll show you the the tools we have here , so that we can all use them .	opening
+A	125.33	Then uh we'll look at the project plan from uh Real Reaction .	opening
+A	131.53	We'll discuss about our first ideas about the project , and then uh we'll close the meeting , and then we can uh individually uh do our things and then uh we'll get back here .	opening
+A	143.02	So this the opening we'll uh We have to uh design a new television remote control .	opening project specs and roles of participants
+A	151.27	You have heard that uh already I think , so .	project specs and roles of participants
+D	153.42	Mm-hmm .	project specs and roles of participants
+A	153.94	Um we want it to be original , so a nice uh a nice new design .	project specs and roles of participants
+A	159.43	Uh trendy , it's also for young people , and we have to just uh make it uh modern .	project specs and roles of participants
+A	167.46	And uh friendly , so size does matter .	project specs and roles of participants
+A	171.86	And uh Well it has to be a have the the right uh the right buttons on the right place , that kin those kind of things .	project specs and roles of participants
+C	180.91	Mm-hmm .	project specs and roles of participants
+A	185.02	Other uh There happen to be uh three stages .	agenda/equipment issues
+A	189.82	functional , conceptual , and d detailed design .	agenda/equipment issues
+A	194.69	Um so every time we we'll do some individual work , get meeting , talk about it , uh and then go into the next phase .	agenda/equipment issues
+A	204.5	That's just it .	agenda/equipment issues
+A	207.92	Um We have uh these two Smartboards .	agenda/equipment issues
+A	213.2	Um well as I just showed , there's a project management folder , a project document folder on the desktop .	agenda/equipment issues
+A	220.18	It just works exactly the same as a computer .	agenda/equipment issues
+A	222.87	You just uh click on the on the folder and you open the everything you you put in it with your laptop .	agenda/equipment issues
+A	228.9	So you can uh make uh Words Excel , everything .	agenda/equipment issues
+A	232.77	Um and the w the r uh the rest uh also works the same so uh when you open a notepad you uh you just get your uh things , you can uh draw .	agenda/equipment issues
+A	242.13	This is a uh well a drawing board .	agenda/equipment issues
+A	248.02	you have a these different uh functions on the board .	agenda/equipment issues
+A	254.8	You can see them there .	agenda/equipment issues
+A	256.82	So you have a a nice pen , and it's works just like a bal ball pen .	agenda/equipment issues
+A	261.58	This is just a .	agenda/equipment issues
+A	264.17	I want to uh Oh yeah .	agenda/equipment issues
+A	266.58	Of course w doesn't work any more .	agenda/equipment issues
+C	268.84	Maybe you should try to write on the on the big white uh Does it ?	agenda/equipment issues
+C	271.86	Yeah .	agenda/equipment issues
+A	271.87	Yes I will eraser so .	agenda/equipment issues
+C	272.41	It works .	agenda/equipment issues
+A	276.37	It's fantas fantastic .	agenda/equipment issues
+C	276.88	Wonderful .	agenda/equipment issues
+A	278.38	We can uh uh well you can save a file .	agenda/equipment issues
+A	281.72	So if uh we draw we have to save everything .	agenda/equipment issues
+A	284.19	Don't throw anything away .	agenda/equipment issues
+C	285.93	Mm-hmm .	agenda/equipment issues
+A	286.72	Uh just we can start a new one , and we just go on , and don't throw anything away .	agenda/equipment issues
+A	293.25	Just uh let them all uh stand here .	agenda/equipment issues
+A	296.42	We can delete , but we don't do that .	agenda/equipment issues
+A	298.55	Um you can here select a pen , you can draw anything you want .	agenda/equipment issues
+A	302.14	It's a bit uh childish you have to write .	agenda/equipment issues
+A	305.53	It's not as fast as you w you know it , but it does work sometimes .	agenda/equipment issues
+A	314.98	Well it's just like a normal uh paint .	agenda/equipment issues
+A	320.15	So it's gone .	agenda/equipment issues
+C	321.38	Alright , yep .	agenda/equipment issues
+A	323.0	Well we are designers , so we have to have a a more uh a Smartboard .	agenda/equipment issues
+A	327.41	So that's fantastic .	agenda/equipment issues
+A	330.07	Um well this uh speaks for itself .	agenda/equipment issues
+A	335.86	We going to try it .	drawing exercise
+A	338.16	So um we all uh are going to uh draw a nice animal on this board , not my idea .	drawing exercise
+D	345.58	Alright , your favourite animal ?	drawing exercise
+A	347.55	Yes our your favourite .	drawing exercise
+A	349.47	So um I'm to going to have to draw a kangaroo , but I'm going d I'm not going to .	drawing exercise
+A	354.73	I'm just uh going to uh well draw a nice uh beast w I dunno what I'm going to design .	drawing exercise
+D	360.58	Grizzly bear .	drawing exercise
+A	361.98	Oh um doesn't oh .	drawing exercise
+C	367.12	I hope this was part of the assignment and not uh your uh I hope this was part of the assignment and not uh your personal uh enjoyment .	drawing exercise
+A	368.14	Yeah , 'kay .	drawing exercise
+A	370.23	Hmm ?	drawing exercise
+A	373.54	I just said it's not my idea but I am the Project Manager , and officially this is my idea .	drawing exercise
+D	374.39	Yeah .	drawing exercise
+C	378.29	I I I I understand .	drawing exercise
+A	378.57	So what ?	drawing exercise
+D	380.07	We're kinda losing time , though .	drawing exercise
+C	380.22	Alright .	drawing exercise
+D	382.61	We're losing time , but Alright .	drawing exercise
+A	383.75	Ah the first the first meeting is just a bit uh loose , loosen up , a bit uh meeting each other well uh uh nice yeah .	drawing exercise
+C	384.63	so start Yep yes .	drawing exercise
+A	392.97	Sh I hope our Industrial Designer does this better because uh this is uh No so a a few legs .	drawing exercise
+C	399.09	Don't uh count on it .	drawing exercise
+D	406.58	Do we have to guess ?	drawing exercise
+D	408.07	A hippo ?	drawing exercise
+A	408.45	Yes yes guess .	drawing exercise
+A	410.89	Well I should make it an hippo now .	drawing exercise
+C	412.65	I think it's a mouse or a rat .	drawing exercise
+D	414.09	Yeah .	drawing exercise
+A	416.5	No I don't think so .	drawing exercise
+C	418.13	Oh .	drawing exercise
+C	419.78	Oh I know it .	drawing exercise
+A	422.52	Well what is it , huh ?	drawing exercise
+C	423.09	It's a hedgehog .	drawing exercise
+D	423.2	I don't know how to call it .	drawing exercise
+A	424.49	Yeah difficult English word .	drawing exercise
+D	424.59	A hedgehog ?	drawing exercise
+A	428.07	I didn't knew it myself .	drawing exercise
+C	430.68	Well I'm amazed uh about your uh drawing skills .	drawing exercise
+A	435.72	Our characteristics sum it up .	drawing exercise
+A	438.34	Well it's uh very uh painful those kind of thing .	drawing exercise
+A	445.01	So we can uh just uh We're going back and now uh our Industrial Designer can uh draw its uh most favourite animal .	drawing exercise
+C	447.7	Yeah .	drawing exercise
+D	452.32	Alright .	drawing exercise
+C	453.03	I am the Industrial Designer .	drawing exercise
+D	455.01	Thank you .	drawing exercise
+A	456.05	Huh .	drawing exercise
+C	457.59	Chief , I am the Industrial Designer .	drawing exercise
+A	459.67	Oh uh but this uh marketing designer .	drawing exercise
+C	461.89	Yeah .	drawing exercise
+C	465.22	I think It's pr it resembles the animal drawn by .	drawing exercise
+D	474.8	It's .	drawing exercise
+A	477.07	what kind of animal is that then ?	drawing exercise
+C	479.24	I think can I say it ?	drawing exercise
+D	481.68	Yeah sure .	drawing exercise
+A	482.49	Uh it .	drawing exercise
+D	487.94	It's a rabbit .	drawing exercise
+D	489.77	Well Looks very nice , right ?	drawing exercise
+A	492.36	Yeah .	drawing exercise
+C	492.93	It looks amazing .	drawing exercise
+A	494.56	No no no .	drawing exercise
+A	495.7	What are you going to do ?	drawing exercise
+B	497.3	We want to erase it .	drawing exercise
+A	498.34	No no .	drawing exercise
+A	499.67	No no save it and start a new uh save it and start a new black uh doc a blank document .	drawing exercise
+D	502.61	Yes .	drawing exercise
+C	502.76	These are very impor These are very important documents , of course , uh these drawings , uh And he deliberately draws a animal we don't know the English word for .	drawing exercise
+A	507.07	Yeah well we have to save everything so now um the next one uh and then save it and start an blank document .	drawing exercise
+D	507.55	Yes uh right .	drawing exercise
+D	511.36	You go man .	drawing exercise
+B	512.68	Thanks .	drawing exercise
+A	521.86	Yeah .	drawing exercise
+A	523.77	There's also different colours and different uh well pen widths uh the line the the thickness thickness .	drawing exercise
+A	533.04	So um well you should uh try it but uh Well y y y you could have but uh .	drawing exercise
+D	533.04	Alright .	drawing exercise
+D	537.06	I should have made mine a white rabbit .	drawing exercise
+A	542.13	It speaks for itself .	drawing exercise
+A	545.68	What the uh just a duck .	drawing exercise
+C	546.56	It looks like an uh It looks like that beast from Sesame Street .	drawing exercise
+A	554.13	Nice .	drawing exercise
+C	554.21	Yeah .	drawing exercise
+B	555.13	Big bird .	drawing exercise
+A	560.16	Is it a duck ?	drawing exercise
+D	560.26	You're standing in front of it , I can't see it .	drawing exercise
+C	561.03	It's it's uh Do we have to uh But we have uh do we have to name the specific species of the bird ?	drawing exercise
+A	561.87	Is it a plane ?	drawing exercise
+D	562.63	Alright , thank you .	drawing exercise
+D	563.79	Yeah it's a bird , but what kind of bird ?	drawing exercise
+A	568.55	It doesn't draw uh circles uh that easy uh .	drawing exercise
+D	572.26	You have to push harder .	drawing exercise
+A	573.38	Yeah just a bit a bit childish , a bit .	drawing exercise
+B	574.22	Mm .	drawing exercise
+D	577.7	Release your anger .	drawing exercise
+B	583.17	Uh no I don't .	drawing exercise
+C	583.31	No ?	drawing exercise
+B	584.09	It's just a bird .	drawing exercise
+C	586.36	Well wonderful .	drawing exercise
+A	586.38	Well uh save the document and then uh And then a a new blank document for .	drawing exercise
+A	597.16	uh will uh choose a new colour and a new pen width so w we can all see it .	drawing exercise
+B	597.85	Here you go .	drawing exercise
+C	601.22	Why do I have to do the difficult tasks ?	drawing exercise
+C	603.01	Uh pen yeah that's .	drawing exercise
+A	603.2	No well first yeah .	drawing exercise
+A	605.86	And then you go to format I think , and current colour you choose a new colour .	drawing exercise
+C	609.06	Uh current colour .	drawing exercise
+A	611.4	And a new pen width uh also format .	drawing exercise
+C	611.92	I like uh oh they don't have pink .	drawing exercise
+B	612.77	Mm .	drawing exercise
+C	615.28	Oh b oh think this is uh Uh ?	drawing exercise
+A	620.63	It's not like in paint .	drawing exercise
+C	622.16	Uh Line width .	drawing exercise
+A	622.31	Line width .	drawing exercise
+A	623.32	And you can choose a nice one .	drawing exercise
+B	624.52	Width .	drawing exercise
+A	624.74	Width width .	drawing exercise
+C	625.91	Uh fifteen .	drawing exercise
+A	625.97	With each other .	drawing exercise
+C	628.68	And I can draw ?	drawing exercise
+B	628.91	Hmm .	drawing exercise
+A	629.72	Yeah .	drawing exercise
+A	634.47	So .	drawing exercise
+A	635.45	Just a wa that's the way we do it's quite easy .	drawing exercise
+C	635.64	Uh Oh the line width is too thick , but oh well .	drawing exercise
+D	639.82	Hmm .	drawing exercise
+A	641.04	Mm-hmm .	drawing exercise
+B	641.66	It's a pussy cat .	drawing exercise
+D	642.71	It's a cat .	drawing exercise
+A	644.04	Oh Pussy .	drawing exercise
+A	648.66	Well then you change it .	drawing exercise
+A	651.12	And erase things .	drawing exercise
+C	653.75	Uh .	drawing exercise
+A	658.41	What ?	drawing exercise
+D	659.73	It's a pig .	drawing exercise
+C	661.25	It smiles nicely .	drawing exercise
+A	663.99	Super pig .	drawing exercise
+C	665.14	Now I have to change the line width .	drawing exercise
+C	671.15	Uh one .	drawing exercise
+A	673.12	So Yeah yeah yeah we know .	drawing exercise
+C	674.28	These are whiskers , you know .	drawing exercise
+D	676.29	Right .	drawing exercise
+C	677.81	Uh well I think it's obvious right now .	drawing exercise
+A	680.8	Yes alright .	drawing exercise
+A	682.7	It's a cat .	drawing exercise
+D	686.95	No it looks great .	drawing exercise
+C	691.72	Miaow .	drawing exercise
+C	693.78	Well if this isn't obvious I'll save it alright uh save .	drawing exercise
+A	696.76	Well well um Yeah save it and start a new blank document .	drawing exercise
+D	699.09	Just save it .	drawing exercise
+C	706.66	Uh yeah uh blank .	drawing exercise
+A	708.4	Yep .	drawing exercise
+A	709.19	So that's uh what we're going to use when we uh need it .	drawing exercise
+C	712.6	Well I feel comfortable now .	drawing exercise
+D	713.25	Oh great .	drawing exercise
+A	714.05	Well it's terrific , eh ?	drawing exercise
+C	715.28	Thanks for this exercise .	drawing exercise
+D	718.48	It's good for group spirit .	drawing exercise
+C	718.63	I feel totally at ease .	drawing exercise
+A	719.84	Yeah that's it .	drawing exercise
+B	720.55	It certainly is .	drawing exercise
+A	723.19	We're one big happy family now .	drawing exercise
+C	726.13	Yeah something like that .	drawing exercise
+A	727.4	Well then uh the serious uh stuff .	project budget
+A	731.04	We're we want to sell it at twenty five Euros internationally um so um but we dunno what exactly th i it is in dollars , but uh twenty five Euros .	project budget
+A	742.29	Our profit aim is , worldwide , fifty million Euros .	project budget
+C	747.58	So Alright .	project budget
+A	747.94	So I didn't uh exactly uh calculate how much we have to sell .	project budget
+A	754.92	we want to keep it our costs at twelve and a half Euros so , keep uh that in mind when we uh talk about our uh materials an f and stuff , and uh marketing uh research .	project budget
+D	765.58	Right .	project budget
+A	771.46	Now then we all uh we can uh sit down and discuss uh what do we think about our current remote controls , first about design uh about uh aim in the market etcetera ?	discussion
+D	787.17	Right .	discussion
+A	787.84	Well uh we c we can sit down uh because uh presentation can wait .	discussion
+A	793.04	We can uh take notes and uh Well who has uh some uh remarks about the current uh remote controls ?	discussion existing products
+C	805.01	Well I I didn't have to prepare anything about uh it's not , it's it's not my task to uh talk about uh experience with current remote controls , but uh Mm-hmm .	look and usability existing products
+A	805.17	Please ?	existing products
+A	808.15	No uh I did .	existing products
+A	813.89	Well uh just w we're uh four uh if we if we would just have one then Yeah .	existing products
+D	816.5	I think it's im it's important to uh look at uh the remote controls of our competitors .	existing products
+D	822.89	Get the good points uh try to merge them into one universal remote control .	existing products
+A	827.73	Yeah yeah .	existing products
+D	828.19	On our corporate site I saw uh a new D_V_D_ player uh we're gonna produce .	existing products
+A	834.84	Yep .	existing products
+D	835.63	Maybe it's important to make it compatible with the D_V_D_ player so you can uh use your television and your D_V_D_ player with the same uh remote control .	existing products
+A	836.04	That's alright .	existing products
+A	839.38	That would be a nice idea , yes .	existing products
+A	845.57	Yep yep yep .	existing products
+D	847.67	Furthermore it's important to make it uh acceptable for the whole world , for different cultures , maybe , because we want to we want to well fifty million ?	look and usability
+A	860.11	Yes fifty million is our aim to a profit , so .	look and usability
+D	861.84	Yeah yeah so a lot of people have to be able to use it .	look and usability
+C	865.72	No but uh the b the buttons have to uh have to have uh international recognisable buttons and uh and numbers and uh that every culture in uh , yeah , people in every country can recognise .	look and usability
+D	866.18	So Yeah .	look and usability
+B	867.17	Easy to learn .	look and usability
+D	873.67	Yeah that's right .	look and usability
+B	874.08	Yeah .	look and usability
+A	874.34	Yes .	look and usability
+B	879.58	Yeah .	look and usability
+A	882.11	I'll make uh notes and then uh maybe uh well I'll put it in the project uh folder when I'm done uh just now .	look and usability
+D	889.28	Mm-hmm .	look and usability
+C	889.78	Alright .	look and usability
+B	889.96	I also think we should not add too many buttons .	look and usability
+A	890.3	Well yeah ?	look and usability
+D	890.52	Right .	look and usability
+B	893.22	Modern day uh remotes have too much buttons I think .	look and usability
+A	893.43	No that's right .	look and usability
+A	896.04	Y y you don't use uh the half of them that's that's culture uh international .	look and usability
+B	898.82	Precisely .	look and usability
+D	902.13	Maybe we could make one button to switch between D_V_D_ player and T_V_ and make the other buttons uh multi-functional or something .	functionality
+B	905.95	Yeah .	functionality
+B	908.98	Yeah indeed .	functionality
+A	909.35	Yes .	functionality
+C	909.35	Yeah so it doesn't uh become too complicated with too much buttons and uh And stereo uh s uh audio installations .	functionality
+D	913.14	Yeah right .	functionality
+A	913.64	Yep , and maybe we do uh we even have uh more than just a D_V_D_ player .	functionality
+A	919.67	Don't we have uh other uh ou Uh .	functionality
+B	921.43	Yeah we should make it compatible perhaps with everything we use , we uh we make ?	functionality
+A	924.41	We also uh just uh released a T_F_T_ uh thing I saw .	functionality
+D	927.99	Yeah so but th that's kind kind of standard T_ television so it also works on that .	functionality
+A	930.97	Yeah .	functionality
+B	931.48	Yeah .	functionality
+A	933.06	Yep .	functionality
+B	934.17	And I think the people who who will buy our uh remote already have some experience with remotes .	functionality
+B	940.42	So we can keep that in mind .	functionality
+C	941.78	Most people do , yeah .	functionality
+A	943.37	Well yeah .	functionality
+C	944.29	It doesn't it doesn't have to be Yeah .	functionality
+A	945.31	It doesn't have to be , but we can .	functionality
+B	946.92	W well it's a n it's a new remote and you don't buy a remote if you don't have anything to uh to control with it .	functionality
+A	952.54	Well except if we deliver it together with our D_V_D_ .	functionality
+D	953.58	Yeah but We need to to keep it consistent with other d uh Yeah but it's it has to be useable .	look and usability functionality
+B	956.55	Yeah alright , but Yeah .	look and usability functionality
+A	959.33	Yeah because we look at competitors and w if we pick up the good things about that and give it a nice design Yes .	look and usability
+C	959.64	Well .	look and usability
+C	965.4	Hmm .	look and usability
+C	967.59	It has to be different and familiar at the same time .	look and usability
+D	970.16	Yeah .	look and usability
+B	971.43	Yeah we could use another form or shape or colour , that kind of things .	look and usability
+A	972.61	Yep .	look and usability
+C	975.19	yeah the shape will will have to be recognised .	look and usability
+C	977.55	I thought about uh like most uh remote controls uh are uh a long box shaped thing you can make it uh triangle shaped , but that's not uh very recognisable .	look and usability
+A	985.67	Yeah .	look and usability
+B	988.31	Well we we could make more more oval or something , and and Yeah or so Well yeah it's new .	look and usability
+A	988.89	Oo N we can use uh it as a as a game pad .	look and usability
+D	989.5	No .	look and usability
+C	991.0	Oval ?	look and usability
+C	992.71	I Mm .	look and usability
+A	994.53	So one hand has the beer , so the other hand uh Well i we already uh one of our aims is that it has to be original and trendy so Well there has been done a lot of researches about remotes uh we have to we can imagine uh because it's a long time uh on the market .	look and usability existing products
+D	997.43	Not with two hands .	look and usability
+D	1001.33	Yeah yeah yeah , right .	look and usability
+D	1002.85	No Yeah but it's quite important that it fits .	look and usability
+B	1003.14	but young people want something different and it is Yeah .	look and usability
+D	1011.25	Yeah .	look and usability
+C	1011.52	Oh but it ha it has to be m yeah .	look and usability
+C	1014.7	But you still have to know it's a remote and not another Yeah .	look and usability existing products
+B	1017.72	Yeah alright .	look and usability
+A	1024.65	So the the form will have been uh tested out so Yes .	existing products
+C	1028.97	Yeah so the long box uh shaped thing must be uh , yeah , useful or else uh they would have been ano another shape .	existing products
+A	1034.48	Well for me personally I have a a lot of remotes uh at home but those ones that have a a round ending and uh well uh just an uh square uh middle I don't like to use them .	existing products
+A	1048.38	I have uh have to it has to fit my hands .	existing products
+D	1051.34	Yeah .	look and usability
+B	1051.89	Yeah .	look and usability
+A	1051.92	When it falls over it and I just have and then the button that I use most has to be here .	existing products
+D	1054.44	It shouldn't be boxy .	look and usability
+C	1054.76	Yeah .	look and usability
+C	1055.88	Yeah a lo the long box shape yeah .	look and usability
+C	1057.87	You have to use one hand .	look and usability
+A	1058.72	It f it fits your hands and then you just push the button that you use most with thumb .	look and usability
+D	1059.4	Nah I don't agree with the long box uh shape it it has to be custom made for the hand .	look and usability
+C	1064.56	Why not ?	look and usability
+B	1067.7	Yeah it doesn't fit .	look and usability
+A	1068.56	Tho tho those new D_V_D_ players on the market do have those .	look and usability
+D	1068.67	Yeah .	look and usability
+C	1069.7	But it does fit in the hand if you hold it like this , and you can make it another shape , but then you have W no w what else ?	look and usability existing products
+D	1072.13	Yeah but if you shape it If No that's ol old fashioned .	look and usability existing products
+B	1073.93	No if y if you look at new Phillips uh D_V_D_ with their uh remotes pl players they they are the new remotes aren't box shaped .	existing products
+A	1079.09	D_V_D_ players .	existing products
+A	1079.76	Yes .	existing products
+B	1085.62	They're all um Well Yeah .	existing products
+C	1086.51	I di Yeah well but uh what what what do you suggest then ?	existing products
+D	1089.12	I can imagine that us Well Yeah right .	existing products
+B	1089.6	Yes uh Well most of of them are are somewhat thicker at the end , and get um yeah thinner towards the uh the other end .	existing products
+D	1097.16	It fits in your palms .	existing products
+C	1100.21	Hmm .	existing products
+B	1100.71	Mm .	look and usability
+C	1101.72	Well but it's still then uh the the long box , uh but then with some uh round uh round forms in it to fit your hand , but it's it's still Yeah yeah al alright but but it's still it's still sort of box , yeah .	look and usability existing products
+B	1106.98	Yeah it Yeah yea Hmm .	look and usability
+D	1107.75	Hmm ?	look and usability
+A	1108.07	Well A it h it has it it has a that's tha th th shape that it fits your hand .	look and usability
+D	1109.77	Um .	look and usability
+A	1115.45	That's We have five minutes left .	look and usability
+C	1118.57	It it has round forms but it in the end it's still the box , so that's what I mean .	look and usability
+D	1120.48	Well Yeah but it has it has to fit your hand .	look and usability
+C	1126.23	Yeah yeah I understand , but no no I don't mean an entire box like completely square but a also with round edges of course , but in in in at the end it's still this long box shape with convenient uh round uh shapes uh to fit .	look and usability
+D	1126.66	It shouldn't be too boxy , you know .	look and usability
+D	1128.16	It's No no no .	look and usability
+D	1132.96	Yeah .	look and usability
+D	1136.23	Yeah it should be Right maybe something like this or and then a button here to switch between different systems like D_V_D_ player and so you can I've Yeah right , and I do think we have to keep this kind of idea with the with the numbers and Right .	look and usability
+C	1145.03	Yeah yes I thought about something like that .	look and usability
+C	1149.46	Yeah .	look and usability
+C	1151.45	A big recognisable button on top or something .	look and usability
+B	1156.94	Yeah .	look and usability
+A	1161.73	So Yes uh that's yep .	look and usability
+C	1162.67	The buttons should uh also be not too small , not too big , of course , and uh n uh uh not too close uh together .	look and usability
+D	1168.08	But it should be possible to to um make it ap apparent that there are two functions for every button .	look and usability
+A	1176.08	Yep .	look and usability
+D	1176.1	So there has to be some space between the buttons .	look and usability
+C	1176.32	Uh-huh .	look and usability
+C	1179.11	Yeah of course uh to uh to uh to have icons to explain the different functions .	look and usability
+D	1179.74	Yeah .	look and usability
+D	1183.38	Yeah right right , and maybe we should use colours .	look and usability
+C	1184.45	Yeah .	look and usability
+C	1186.69	Colours , yeah .	look and usability
+B	1186.88	Yeah maybe we can um just like on cell phones those um well you can you can put on on them , and so you can customise your uh your own remote with different colours or or special paint jobs I dunno but Well .	look and usability agenda/equipment issues
+D	1193.64	Yeah .	look and usability
+A	1195.56	Ha .	look and usability
+D	1195.89	That's kinda trendy .	look and usability
+D	1201.43	Yeah right .	look and usability
+A	1203.24	Sound nice .	look and usability
+A	1204.22	Yes .	look and usability
+C	1204.68	I think we have to talk also about uh the the materials for um .	agenda/equipment issues
+A	1209.04	Well it's just uh about our first ideas now so I think individually we'll have to uh come up with ideas for the next meeting about these materials and markets etcetera .	agenda/equipment issues
+D	1216.01	Right .	agenda/equipment issues
+D	1217.28	But I think it's uh it's important to uh notate all the the decisions that we make , so we Yeah .	agenda/equipment issues
+C	1218.93	Already thought about something tha Mm-hmm .	agenda/equipment issues
+A	1218.96	Yes ?	agenda/equipment issues
+A	1223.84	Yes .	agenda/equipment issues
+A	1227.28	Well thirty minutes we have .	agenda/equipment issues
+A	1229.85	So um This is about uh what we are going to uh do uh .	agenda/equipment issues
+A	1236.19	You'll get specific instructions when you're back in your room so uh it's uh logical uh .	agenda/equipment issues
+A	1242.06	I think .	agenda/equipment issues
+D	1243.14	No problem .	agenda/equipment issues
+A	1243.73	Oh and uh that's uh that's all .	agenda/equipment issues
+A	1246.1	So we'll just get a notice that the the meeting is uh over .	agenda/equipment issues
+C	1249.8	Yeah now we can still talk about the material , we have some some minutes left uh I w wrote down uh that the case should be plastic of course , hard plastic , the buttons should be uh rubbery I think uh .	components, materials and energy sources
+A	1250.41	Yeah yes say .	agenda/equipment issues
+B	1251.71	Mm .	components, materials and energy sources
+D	1257.89	Yeah .	components, materials and energy sources
+D	1260.72	Yeah it shouldn't be too heavy .	components, materials and energy sources
+C	1262.4	No n n Mm .	components, materials and energy sources
+A	1262.85	Well I have had remotes that um they had uh the function of the buttons was about uh uh a layer over the buttons and when I've had use it much it was gone .	components, materials and energy sources
+B	1274.28	Yeah that's bad , yeah .	components, materials and energy sources
+D	1274.44	Yeah yeah yeah .	components, materials and energy sources
+A	1274.71	So it has to be made in the buttons I think .	components, materials and energy sources
+A	1277.82	It has to uh not be loose .	components, materials and energy sources
+B	1279.05	Yeah that's important .	components, materials and energy sources
+C	1281.54	Alright .	components, materials and energy sources
+C	1282.2	And of course there are several electrical cables in it to uh to connect things uh to each other .	components, materials and energy sources
+A	1285.03	Yeah .	components, materials and energy sources
+A	1286.66	Is there an a universal uh universal way of um transmitting from the remote to the television so it's all about uh It's not that in China it's different ?	components, materials and energy sources
+D	1294.13	Yeah it's univ yeah yeah yeah .	components, materials and energy sources
+C	1294.23	I think so .	components, materials and energy sources
+C	1294.87	It's a a common stan standard way infrared beams an infrared beam I think .	components, materials and energy sources
+D	1297.65	Yep .	components, materials and energy sources
+A	1300.42	Yeah .	components, materials and energy sources
+A	1302.1	But y you can have uh of course different between D_V_D_s and televisions and between Yeah .	components, materials and energy sources
+D	1303.3	And you can use Yeah .	components, materials and energy sources
+C	1305.72	It it's a we we make an a universal remote so it ha has to work with uh all kinds of brands and things .	components, materials and energy sources
+B	1310.08	Yeah .	components, materials and energy sources
+B	1312.34	But our T_V_s are mostly made in China and that sort of country , so .	components, materials and energy sources
+A	1315.79	Probably yes .	components, materials and energy sources
+A	1317.79	China rules .	components, materials and energy sources
+C	1321.09	And have well yeah I've wrote something down about how it works .	components, materials and energy sources
+C	1325.46	The user presses a button and with an infrared beam it signals the television set accordingly , but that's pretty obvious , I think .	components, materials and energy sources
+D	1328.21	But are Are we going w uh with the front uh fronts uh idea ?	discussion look and usability
+A	1336.8	Well I think uh w we can look into that in the in the next uh thirty minutes .	look and usability
+D	1338.04	I think we should make it universal and you can always use a front front on it , you know ?	look and usability
+A	1340.44	Yeah .	look and usability
+D	1344.32	You can use it just plain but you can To make it more trendy .	look and usability
+A	1346.34	Yes .	look and usability
+A	1348.05	Well j just y you get a n a normal front with it , but you can change them uh when you buy the And we should uh dispatch those kind of fronts fronts a a around the world so uh Well th those fifty million don't uh don't se sells itself so we have to uh make uh some extra effort like fronts uh .	look and usability
+B	1351.3	Yeah .	look and usability
+D	1352.79	Right .	look and usability
+B	1353.3	Yes .	look and usability
+D	1354.12	Right .	look and usability
+B	1354.32	Yes .	look and usability
+B	1358.34	Mm .	look and usability
+B	1359.77	Well you can make profit with them , and it's a way to make them trendy .	look and usability
+D	1360.22	Yeah .	look and usability
+C	1370.63	Well but th but the standard front will be uh just grey or something uh b a simple colour not not very flashy .	look and usability
+D	1370.98	Yeah right .	look and usability
+B	1371.14	Yeah alright .	look and usability
+B	1373.76	Yeah normal .	look and usability
+A	1374.44	Yes .	look and usability
+A	1375.14	Yeah well it has to it h it has to fit the the te television and D_V_D_ set we are going to sell , so if they are uh black and black black and silver we'll make them black and silver so .	look and usability
+B	1376.25	No a colour everyone accepts .	look and usability
+B	1381.5	Mm .	look and usability
+C	1382.91	Pink television sets pink remote , .	look and usability
+B	1383.93	Mm .	look and usability
+D	1385.11	Yeah yeah yeah .	look and usability
+B	1386.2	Yeah .	look and usability
+B	1387.74	standard .	look and usability
+D	1388.58	But people of often don't like bright colours or something .	look and usability
+D	1391.18	We have to make it grey or s or black .	look and usability
+B	1392.44	Well young people s li Yeah yeah , yeah .	look and usability
+D	1393.96	Yeah but then you can use a a front .	look and usability
+C	1398.96	Alright .	look and usability
+A	1401.44	Yeah .	look and usability
+C	1402.48	I must not forget my pen the next time .	look and usability
+A	1403.48	Well if if you yeah .	look and usability
+A	1405.2	If you have a a a television room for little children and you make a if if you buy a a pink front they'll they'll love it .	look and usability
+B	1413.09	Yeah .	look and usability
+D	1413.34	Yeah that's right .	look and usability
+A	1413.49	I think .	look and usability
+D	1414.95	Yeah or a t Teletubby front .	look and usability
+A	1415.09	But that's uh marketing uh research you can uh you can ask uh .	look and usability
+D	1418.29	Yeah yeah yeah .	look and usability
+D	1419.99	I will investigate .	look and usability
+A	1421.06	Yes .	discussion
+A	1423.49	Well our user interface you can uh maybe uh I don't know what your specific instructions will be , but uh probably about uh the precision of the buttons and and those kind of things and what buttons will have to be on the uh remote .	project specs and roles of participants
+A	1435.66	And you will look into the technical design and um form , I think .	project specs and roles of participants
+C	1440.84	Mm yeah also the the look and feel uh of the the remote's also my task , yeah .	project specs and roles of participants
+A	1441.37	Or something like that .	project specs and roles of participants
+A	1443.54	Yeah .	closing
+A	1445.76	Yeah .	closing
+D	1446.19	Right .	closing
+B	1446.42	What's the uh url or the website 'cause I didn't get Yeah .	closing
+C	1448.56	Yeah I uh w was wondering that too .	closing
+C	1450.58	Y you went to the company website .	closing
+A	1450.59	Euro ?	closing
+D	1451.06	It's Yeah yeah yeah just if you start up your Internet Explorer Yeah .	closing
+A	1452.06	Well it it it's if you uh Finish meeting now .	closing
+C	1454.16	It's the the the start uh starting page uh Very handy to know .	closing
+B	1455.04	Oh oh right oh well I didn't uh use it .	closing
+A	1459.61	Oh alright .	closing
+A	1462.0	Well uh we're going to back uh back into our rooms so In thirty minutes , but uh I think it will be you will be warned uh through your laptop uh to get over here .	closing
+B	1464.48	Yes .	closing
+D	1466.52	Well that's great .	closing
+B	1467.09	Next meeting is in Thirty minutes .	closing
+D	1468.57	Thirty minutes .	closing
+B	1471.36	Yeah alright it's it's handy to know Oh .	closing
+A	1474.82	I'll have to restore my uh my desktop uh because uh it's it's the half of the normal size .	closing
+D	1478.12	It's totally broken .	closing
+C	1482.23	Right see you in half an hour then .	closing
+A	1482.73	Oh right , oh .	closing
+B	1484.39	Goodbye .	closing
+C	1486.01	W Right uh see you in thirty minutes then .	closing
+A	1486.29	Ma W that was a nice meeting .	closing
+D	1486.43	Oh .	closing
+B	1487.51	S .	closing
+A	1496.15	Yeah , see you .	closing

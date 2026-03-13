@@ -1,0 +1,1483 @@
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+B	0	?	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	2.42	Okay .	costing and re-design of prototype
+A	3.67	Uh first of all I'll start with the costs , because that's going to influence our design .	costing and re-design of prototype
+B	8.72	Oh no .	costing and re-design of prototype
+D	10.36	Oh , .	costing and re-design of prototype
+A	11.02	If you Don't know if you al already had a look or not ?	costing and re-design of prototype
+C	14.46	Did you do your questionnaire already ?	costing and re-design of prototype
+B	14.67	No n I I already did it .	costing and re-design of prototype
+D	15.04	No .	costing and re-design of prototype
+B	17.3	It's not much .	costing and re-design of prototype
+B	18.06	It's just one question .	costing and re-design of prototype
+A	18.6	Because we have a problem .	costing and re-design of prototype
+C	18.78	Uh It wants Yeah but everything is .	costing and re-design of prototype
+D	18.95	Oh .	costing and re-design of prototype
+A	23.16	If you look closely , you can see .	costing and re-design of prototype
+B	25.04	Yeah .	costing and re-design of prototype
+A	29.85	Um I already took the liberty to make some suggestions .	costing and re-design of prototype
+A	48.48	At the moment we have fifteen buttons , one L_C_D_ screen , one advanced chip-on-print .	costing and re-design of prototype
+A	54.49	We use a uh sensor , that's for the speech .	costing and re-design of prototype
+A	58.58	Uh we use kinetic energy .	costing and re-design of prototype
+A	63.1	And we wanted uh the buttons in a special colour .	costing and re-design of prototype
+A	68.75	Okay .	costing and re-design of prototype
+A	69.31	What's the first thing we should drop ?	costing and re-design of prototype
+A	71.66	The special colour of the buttons ?	costing and re-design of prototype
+B	74.89	No that's that's for the trendy uh feel and look .	costing and re-design of prototype
+A	77.31	Okay .	costing and re-design of prototype
+B	78.34	So Yeah , b but I think the battery option .	costing and re-design of prototype
+A	79.09	Uh Should we switch to a hand dynamo ?	costing and re-design of prototype
+A	84.91	Uh that's the still the same idea as the kinetic energy because you have to use it and do things .	costing and re-design of prototype
+D	85.06	No .	costing and re-design of prototype
+D	89.28	Yeah but young people like that .	costing and re-design of prototype
+D	90.86	So just do normal battery .	costing and re-design of prototype
+A	91.34	Batteries ?	costing and re-design of prototype
+A	92.86	Batteries .	costing and re-design of prototype
+C	93.07	Just a normal battery then , yeah .	costing and re-design of prototype
+D	94.52	Yeah .	costing and re-design of prototype
+D	100.01	It has to be twelve and a half .	costing and re-design of prototype
+A	101.89	Yeah .	costing and re-design of prototype
+D	102.16	Or not ?	costing and re-design of prototype
+B	103.05	Oh .	costing and re-design of prototype
+C	103.7	Oh my goodness .	costing and re-design of prototype
+A	104.09	So You're going to redesign something .	costing and re-design of prototype
+B	107.56	Oh no .	costing and re-design of prototype
+A	108.8	Okay , so we're at twenty five .	costing and re-design of prototype
+D	112.68	Uh , yeah .	costing and re-design of prototype
+A	113.87	Um Do we keep the shape doubly curved or g do we go for single curved ?	costing and re-design of prototype
+C	120.5	Well I guess i we'll have to go for single curve then .	costing and re-design of prototype
+C	123.79	I mean we have to drop on everything .	costing and re-design of prototype
+A	125.99	Mm-hmm .	costing and re-design of prototype
+D	127.52	But we can keep it single curved with uh top view still curved , but from the side it's it's flat , and the screen screen is just Well you just have to hold it like this then .	costing and re-design of prototype
+A	127.66	Uh Yeah .	costing and re-design of prototype
+C	137.4	Yeah .	costing and re-design of prototype
+D	142.03	So Alright .	costing and re-design of prototype
+C	143.47	How about Sorry .	costing and re-design of prototype
+A	143.53	Um Uh another option I saw was to drop the buttons one through nine , so you can't directly access a channel , but instead use only the up and down arrows .	costing and re-design of prototype
+C	156.17	That's what I was thinking .	costing and re-design of prototype
+A	156.43	That would skip nine buttons and four and a half Euros .	costing and re-design of prototype
+B	157.11	Yeah .	costing and re-design of prototype
+A	161.27	Yeah ?	costing and re-design of prototype
+D	161.33	Let's do it then .	costing and re-design of prototype
+C	161.43	A a And uh 'cause then they don't have to n They don't need special colour as well .	costing and re-design of prototype
+D	162.12	Yeah .	costing and re-design of prototype
+A	163.05	Uh then we have left Uh yeah .	costing and re-design of prototype
+D	163.37	we F_ eight .	costing and re-design of prototype
+B	163.6	But we don't have any basic options any more .	costing and re-design of prototype
+A	167.44	We do .	costing and re-design of prototype
+A	172.5	They don't need special colours .	costing and re-design of prototype
+A	173.85	Fine .	costing and re-design of prototype
+A	175.0	That's more like it .	costing and re-design of prototype
+D	176.77	Yeah .	costing and re-design of prototype
+A	179.02	You were saying something .	costing and re-design of prototype
+C	180.52	That was exactly my point .	costing and re-design of prototype
+C	182.09	Like let's drop all the buttons , and just make one I mean we're gonna use the L_C_D_ screen anyway .	costing and re-design of prototype
+A	182.21	Yeah .	costing and re-design of prototype
+A	188.09	Mm-hmm .	costing and re-design of prototype
+C	188.38	So we'll just have to use it for everything .	costing and re-design of prototype
+A	190.71	Yeah .	costing and re-design of prototype
+C	190.87	And then you can make an overview of channels in the screen , and select a channel , click Yeah we need one integrated button for everything then .	costing and re-design of prototype
+A	194.73	Yeah , some more menu options .	costing and re-design of prototype
+A	196.16	Yeah .	costing and re-design of prototype
+A	197.13	Okay so maybe we can drop few more buttons .	costing and re-design of prototype
+A	199.35	But um Now let's look .	costing and re-design of prototype
+B	201.92	Yeah we c could We only need the the the the the menu arrow arrow button uh thing .	costing and re-design of prototype
+B	207.96	Everything you can do with with the menu .	costing and re-design of prototype
+B	209.94	So With the display .	costing and re-design of prototype
+A	210.32	Mm-hmm .	costing and re-design of prototype
+B	213.71	Yeah .	costing and re-design of prototype
+D	214.87	The joystick .	costing and re-design of prototype
+C	215.81	Yeah .	costing and re-design of prototype
+C	216.41	Kind of .	costing and re-design of prototype
+C	216.96	I was Because Yeah .	costing and re-design of prototype
+A	217.41	Uh Yeah , scroll-wheel , push-button uh Yeah .	costing and re-design of prototype
+D	222.39	Integrated scroll-wheel push-button , yeah .	costing and re-design of prototype
+C	222.4	If you if you go to If you go to our uh view , like you if you are in the sound system there , uh and you wanna adjust the treble for instance , this is just uh an example , y y you wanna see a bar on which you can adjust it from zero to ten for example .	costing and re-design of prototype
+A	231.83	Yeah .	costing and re-design of prototype
+A	233.85	Mm-hmm .	costing and re-design of prototype
+A	237.14	Mm-hmm .	costing and re-design of prototype
+A	238.6	Mm-hmm .	costing and re-design of prototype
+C	239.04	But you want a sound preview of how it's gonna sound , right ?	costing and re-design of prototype
+C	243.17	So you wanna click on it , activate it , whe and when you move it , hear the difference of the treble coming out or going into the sound .	costing and re-design of prototype
+A	243.32	Yeah .	costing and re-design of prototype
+A	249.38	Yeah .	costing and re-design of prototype
+C	251.26	So you'll you'll need a a kind of a joystick uh button .	costing and re-design of prototype
+D	254.38	Yeah or or the integrated scroll-wheel push-button .	costing and re-design of prototype
+C	257.4	Yeah .	costing and re-design of prototype
+D	257.55	So that's kind of on your mouse and then you can click it , adjust it , click again and then you're out of it .	costing and re-design of prototype
+D	262.53	But you still But you then still need to have Well you can use the scroll-wheel as well for um maybe for the channels .	costing and re-design of prototype
+C	262.56	Exactly .	costing and re-design of prototype
+D	272.14	But you still um You still have to have some some button in the menu to go back .	costing and re-design of prototype
+C	273.94	Yeah it's r Yeah .	costing and re-design of prototype
+B	277.45	So you do one inte You can do one integrated scroll-wheel push-button .	costing and re-design of prototype
+D	282.02	Yeah .	costing and re-design of prototype
+B	282.57	And then just drop all the other buttons .	costing and re-design of prototype
+A	285.06	Uh yeah .	costing and re-design of prototype
+D	285.58	Well not all .	costing and re-design of prototype
+D	286.42	Not s not sound I guess .	costing and re-design of prototype
+B	286.48	But but th the cost of one integrated button is far more than a few extra push-buttons .	costing and re-design of prototype
+C	289.85	No .	costing and re-design of prototype
+A	294.89	Yeah .	costing and re-design of prototype
+A	295.67	It's uh One integrated button is five times the cost of a normal button .	costing and re-design of prototype
+B	299.5	Yeah .	costing and re-design of prototype
+D	300.18	Mm .	costing and re-design of prototype
+B	300.82	So we have to to make it s uh more uh It has to be Could drop the speech recognition .	costing and re-design of prototype
+A	301.03	So You could also drop j three more of these , without losing much functionality .	costing and re-design of prototype
+D	308.84	Yeah .	costing and re-design of prototype
+A	309.25	You just drop the Okay and the Back .	costing and re-design of prototype
+D	309.28	Wh wh what what what is the what is the uh sample sensor sample speaker ?	costing and re-design of prototype
+A	313.32	Oh , that's for the speech .	costing and re-design of prototype
+D	315.07	Speech recognition .	costing and re-design of prototype
+A	315.95	Yeah .	costing and re-design of prototype
+D	317.13	Right .	costing and re-design of prototype
+A	318.03	S s Drop speech recognition ?	costing and re-design of prototype
+C	319.86	No but Yeah it's it's expensive , but uh we never considered the possibilities of uh speech recognition .	costing and re-design of prototype
+A	321.6	Yeah that's possible .	costing and re-design of prototype
+B	321.88	We we d Yeah .	costing and re-design of prototype
+C	327.91	'Cause it can take the function of a lot of uh uh buttons .	costing and re-design of prototype
+A	330.77	Buttons .	costing and re-design of prototype
+D	331.48	Buttons .	costing and re-design of prototype
+A	332.12	That's not very easy to use .	costing and re-design of prototype
+C	332.64	I No .	costing and re-design of prototype
+D	333.96	No , it can be disturbed by by noise and stuff like that .	costing and re-design of prototype
+C	338.02	Yeah but lets just say that the speech recognition works .	costing and re-design of prototype
+D	339.38	Let let let me see what's more what's more popular .	costing and re-design of prototype
+D	341.91	I guess the the screen was more popular than um than the speech recognition .	costing and re-design of prototype
+B	348.74	Yeah .	costing and re-design of prototype
+D	349.04	I have to look on that .	costing and re-design of prototype
+D	350.08	Let me see .	costing and re-design of prototype
+D	355.85	Uh well no I was wrong .	costing and re-design of prototype
+D	357.98	There are more people who like speech recognition than an L_C_D_ screen .	costing and re-design of prototype
+A	362.21	Yep .	costing and re-design of prototype
+A	363.54	Okay .	costing and re-design of prototype
+A	363.92	Because if you d lose the L_C_D_ screen , we need a lot of Yeah .	costing and re-design of prototype
+D	364.79	But if it But it it it's a it's a both a hypers No , but Well we Yeah we keep the screen .	costing and re-design of prototype
+B	368.52	We lose our whole concept .	costing and re-design of prototype
+B	370.06	Uh so No we just We keep the L_C_D_ .	costing and re-design of prototype
+A	371.07	We need a lot of extra buttons .	costing and re-design of prototype
+D	374.37	I mean it's it's about the same .	costing and re-design of prototype
+D	376.26	Eight one to ninety one percent , uh sixty six to seventy six .	costing and re-design of prototype
+C	378.1	We uh we we haven't really integrated this the speech into the system , so we can might as well s drop that .	costing and re-design of prototype
+A	378.25	Okay so we drop the speech .	costing and re-design of prototype
+A	384.52	And drop it yeah ?	costing and re-design of prototype
+D	385.4	Yeah .	costing and re-design of prototype
+B	385.43	Yeah .	costing and re-design of prototype
+D	385.95	Let's drop the speech .	costing and re-design of prototype
+A	386.12	Okay .	costing and re-design of prototype
+A	386.49	S Fo Four less Euros .	costing and re-design of prototype
+D	389.37	Sixteen Euros .	costing and re-design of prototype
+A	389.72	So we still have three and a half Euro to lose .	costing and re-design of prototype
+C	393.36	We need to lose some buttons .	costing and re-design of prototype
+D	393.47	But y y Yeah .	costing and re-design of prototype
+A	394.69	Yeah if you lose the the Back , the Okay button Uh v let's say we only have the four arrows , and the Menu button .	costing and re-design of prototype
+D	403.73	Yeah .	costing and re-design of prototype
+A	404.83	Then you're Oh and the power button we have also .	costing and re-design of prototype
+D	404.97	And then and then use um The the Okay .	costing and re-design of prototype
+D	409.71	And the menu button does also does the okay function then .	costing and re-design of prototype
+A	413.37	Yeah .	costing and re-design of prototype
+D	413.72	And then when you in the menu S so so you activate the menu .	costing and re-design of prototype
+A	416.92	So that's one Euro .	costing and re-design of prototype
+B	419.97	If we do uh two integrated scroll-wheel push-buttons , we can drop all the the push-buttons .	costing and re-design of prototype
+A	423.97	Yeah .	costing and re-design of prototype
+A	427.03	Yeah ?	costing and re-design of prototype
+B	427.51	With with one uh integrated button we can uh do the whole menu thing .	costing and re-design of prototype
+A	427.55	And That would save zero point two Euros compared to No .	costing and re-design of prototype
+D	431.62	Yeah yeah .	costing and re-design of prototype
+B	431.93	With the other , we can do the the channel , the volume , et cetera .	costing and re-design of prototype
+D	435.14	Yeah .	costing and re-design of prototype
+B	441.4	No it's three Euros .	costing and re-design of prototype
+B	443.09	No ?	costing and re-design of prototype
+B	443.41	Um No it's it's n Yeah .	costing and re-design of prototype
+A	445.34	Yeah .	costing and re-design of prototype
+A	445.59	To This together is more expensive than Oof , it's almost the same as t keeping this .	costing and re-design of prototype
+B	447.94	Yeah yeah yeah .	costing and re-design of prototype
+D	451.09	Well okay .	costing and re-design of prototype
+A	451.45	And we can drop these two .	costing and re-design of prototype
+D	451.8	For example if you have f f four buttons , channel up and down , uh volume left right Okay , I've I think we have to keep that .	costing and re-design of prototype
+B	451.88	It's the Let's make the Let's make the case plastic .	costing and re-design of prototype
+A	457.09	Volume .	costing and re-design of prototype
+A	460.22	And the power button .	costing and re-design of prototype
+D	460.57	And then and the power button .	costing and re-design of prototype
+D	462.17	So that's five .	costing and re-design of prototype
+A	464.16	That's the basic .	costing and re-design of prototype
+D	465.01	That's basic .	costing and re-design of prototype
+D	466.0	That that's what you need anyway .	costing and re-design of prototype
+D	468.02	And then for the menu , um you can have a button that activates menu .	costing and re-design of prototype
+D	476.77	Or d or do we just integrate an an an scroll-wheel with a push-button .	costing and re-design of prototype
+D	481.7	And then if the moment you use the scroll-wheel , the the the menu gets activated , and then you can scroll , choose an option , click on it , it goes into an feature .	costing and re-design of prototype
+D	491.25	Click on it again , selects features , scroll , adjust it .	costing and re-design of prototype
+D	494.04	Click again , it's okay .	costing and re-design of prototype
+D	495.44	Then you only need one button to move back .	costing and re-design of prototype
+D	498.64	Or or under each option , you set a you set an a screen thing what says back , and you select that one , click again , and you go one step back .	costing and re-design of prototype
+D	507.61	And in that menu , scroll , click , one step back .	costing and re-design of prototype
+D	512.11	So that then you need five buttons , and one integrated scroll-wheel push-button .	costing and re-design of prototype
+A	514.66	Yep .	costing and re-design of prototype
+C	520.11	Which That's even Yeah , if you if you go to eight I don't know how to Yeah , we need the chip for the for the L_C_ display .	costing and re-design of prototype
+D	520.11	But we can't drop three buttons .	costing and re-design of prototype
+A	520.14	Okay th that's Yeah that's one Euro more expensive .	costing and re-design of prototype
+D	521.93	But I see that's Yeah .	costing and re-design of prototype
+D	525.23	So that's not a good idea .	costing and re-design of prototype
+A	526.38	That's not an option .	costing and re-design of prototype
+D	529.35	Because which buttons do we have now ?	costing and re-design of prototype
+D	531.39	Those five which I mentioned , and then menu , and then Yeah .	costing and re-design of prototype
+A	534.45	Menu , power .	costing and re-design of prototype
+D	536.49	F of the four things ?	costing and re-design of prototype
+A	538.06	Four arrows ?	costing and re-design of prototype
+D	538.94	Yeah , th power .	costing and re-design of prototype
+A	540.29	Power .	costing and re-design of prototype
+A	541.44	Uh Yeah .	costing and re-design of prototype
+D	542.66	Which more ?	costing and re-design of prototype
+A	546.25	Okay .	costing and re-design of prototype
+A	546.54	So four arrows ?	costing and re-design of prototype
+D	548.32	Yeah .	costing and re-design of prototype
+A	548.98	Uh power I believe ?	costing and re-design of prototype
+D	549.38	Power .	costing and re-design of prototype
+D	550.23	Th Yeah that's five .	costing and re-design of prototype
+A	552.0	Uh We have a Back and a Okay button .	costing and re-design of prototype
+D	558.42	Yeah , okay that's seven , and one to activate the menu , yeah .	costing and re-design of prototype
+A	560.72	And the Menu .	costing and re-design of prototype
+D	563.09	So okay that's eight .	costing and re-design of prototype
+D	564.63	Well we can't reduce that .	costing and re-design of prototype
+D	565.78	We we keep the display .	costing and re-design of prototype
+D	568.25	Oh , well okay .	costing and re-design of prototype
+A	568.62	Yeah , and even if we drop three buttons from here , we still have to make some adjustments around here .	costing and re-design of prototype
+A	576.04	So The L_C_D_ ?	costing and re-design of prototype
+D	577.17	Yeah .	costing and re-design of prototype
+A	582.69	Yeah .	costing and re-design of prototype
+D	583.7	Yeah well we need the advanced Instead of r Yeah but but that's not our market .	costing and re-design of prototype
+A	589.52	Then I rather make it wood .	costing and re-design of prototype
+A	591.08	Because then also it's good in the market with the forty five plus uh people .	costing and re-design of prototype
+B	593.89	Yeah .	costing and re-design of prototype
+C	595.79	Yeah .	costing and re-design of prototype
+C	596.88	True .	costing and re-design of prototype
+B	597.85	But Plastic with a with a special colour .	costing and re-design of prototype
+A	599.14	No that maybe not .	costing and re-design of prototype
+A	600.27	But maybe it's better than plastic anyway .	costing and re-design of prototype
+D	604.51	Ah no , hard plastic .	costing and re-design of prototype
+C	607.7	Oh .	costing and re-design of prototype
+B	609.22	A woo wood uh wood uh wood colour .	costing and re-design of prototype
+D	609.3	Yeah , plastic with special colour .	costing and re-design of prototype
+A	611.41	Yeah ?	costing and re-design of prototype
+B	613.85	That's an option .	costing and re-design of prototype
+A	613.91	Yeah okay uh Yep .	costing and re-design of prototype
+D	614.62	No but I I Because we have to use the special colour anyway .	costing and re-design of prototype
+D	617.83	You forgot that .	costing and re-design of prototype
+B	618.85	Yeah .	costing and re-design of prototype
+A	620.33	Yeah , yeah .	costing and re-design of prototype
+D	620.59	So let's go for the plastic .	costing and re-design of prototype
+B	620.63	So we do one one s Yeah .	costing and re-design of prototype
+A	622.64	Yeah , okay .	costing and re-design of prototype
+A	623.12	Plastic .	costing and re-design of prototype
+D	625.18	And since it's not kinetic , it doesn't have to flip around that much ?	costing and re-design of prototype
+A	628.38	Uh that's easy because plastic is free .	costing and re-design of prototype
+C	629.81	Hmm .	costing and re-design of prototype
+B	632.28	Hmm .	costing and re-design of prototype
+D	632.73	We still have problem of two Euros .	costing and re-design of prototype
+A	634.86	Yeah , okay .	costing and re-design of prototype
+A	635.65	Uh if we dropped uh Yeah ?	costing and re-design of prototype
+B	637.92	No the buttons , those are really needed .	costing and re-design of prototype
+D	641.2	Yeah we can't drop them .	costing and re-design of prototype
+B	641.34	Yeah th th it's it's uh An advanced chip-on-print .	costing and re-design of prototype
+C	646.81	Yeah uh You uh uh Yeah .	costing and re-design of prototype
+A	647.4	You still need that .	costing and re-design of prototype
+D	647.97	Do we really need that advanced chip for an L_C_D_ display ?	costing and re-design of prototype
+C	651.35	So the other option would be to go for the the sample speaker , and Which can use a regular chip , wh which is six Euros in total .	costing and re-design of prototype
+A	661.33	S No , I keep the re Yeah .	costing and re-design of prototype
+C	662.2	That doesn't matter .	costing and re-design of prototype
+D	663.44	Oh .	costing and re-design of prototype
+D	664.53	I rather keep I rather keep the display .	costing and re-design of prototype
+C	666.44	Well yeah .	costing and re-design of prototype
+A	666.46	Yeah .	costing and re-design of prototype
+A	667.14	Because we already designed for it .	costing and re-design of prototype
+D	667.31	So the only option is an hand dynamo .	costing and re-design of prototype
+A	668.83	So Yeah and something else .	costing and re-design of prototype
+C	669.75	Exactly .	costing and re-design of prototype
+B	672.31	Oh that But the But the integrated uh button ?	costing and re-design of prototype
+D	674.0	Oh no tha Oh that's one Euro , right .	costing and re-design of prototype
+C	674.69	Yeah but the uh can't we f uh fit all the buttons in an intreg integrated scroll push-button ?	costing and re-design of prototype
+C	680.63	'Cause that will save us one and a half Euro already .	costing and re-design of prototype
+C	684.03	And then if w Th then we have to scroll through a lot of menus to be able to get where you want , huh ?	costing and re-design of prototype
+D	684.25	And then integrated s Yeah but that would make it not so easy to use .	costing and re-design of prototype
+A	687.97	No y you would rec Then you have Then you still need two additional buttons I believe .	costing and re-design of prototype
+D	689.77	I mean it's not that important , easy to use , but Yeah .	costing and re-design of prototype
+C	697.29	And uh Yeah d at l Yeah .	costing and re-design of prototype
+A	700.14	For the volume .	costing and re-design of prototype
+A	701.42	You can use those Yeah .	costing and re-design of prototype
+C	702.56	At least one for power .	costing and re-design of prototype
+A	704.29	Oh yeah and power .	costing and re-design of prototype
+A	705.69	That's three buttons and this would cost Yeah .	costing and re-design of prototype
+C	705.85	Oh .	costing and re-design of prototype
+C	707.8	Yeah it's just as expensive as what we have now .	costing and re-design of prototype
+B	711.96	How many func functions can it uh have ?	costing and re-design of prototype
+A	715.27	Three .	costing and re-design of prototype
+A	715.91	Up , down , Okay .	costing and re-design of prototype
+C	716.8	Yeah endlessly .	costing and re-design of prototype
+C	717.9	I mean it can be a power button as soon as it powered on .	costing and re-design of prototype
+B	718.54	Okay .	costing and re-design of prototype
+C	721.99	You can go into you in you main menu , you can choose uh flip channel , uh you can choose sound options , any options .	costing and re-design of prototype
+D	722.02	You you press it for like three seconds .	costing and re-design of prototype
+D	730.39	Then then then you should do everything in the menu .	costing and re-design of prototype
+C	733.57	Yeah .	costing and re-design of prototype
+D	733.79	On the screen .	costing and re-design of prototype
+A	735.09	Yeah , okay .	costing and re-design of prototype
+A	735.5	It would save enough Yeah you can choose this , drop these , then we have a half Euro left .	costing and re-design of prototype
+C	735.56	Maybe we should .	costing and re-design of prototype
+C	736.46	'Cause we don't have money and w we want the screen .	costing and re-design of prototype
+D	742.91	Yeah .	costing and re-design of prototype
+A	744.52	So we can maybe still use power button .	costing and re-design of prototype
+D	749.14	Yeah , but we'd Alright .	costing and re-design of prototype
+A	749.58	Yeah .	costing and re-design of prototype
+C	752.32	I guess we have to .	costing and re-design of prototype
+D	752.77	It s it saves us four Euros and it costs us two and a half .	costing and re-design of prototype
+D	758.82	So let's see , we we drop the price by one and a half .	costing and re-design of prototype
+C	760.36	We'll we'll be on Yeah it says right here .	costing and re-design of prototype
+A	760.81	Yeah .	costing and re-design of prototype
+A	761.08	You see ?	costing and re-design of prototype
+D	762.53	But we still have thirteen left .	costing and re-design of prototype
+A	763.21	Oh still Yeah ?	costing and re-design of prototype
+A	765.25	Oh then I miscalculated .	costing and re-design of prototype
+A	766.82	Oh yeah .	costing and re-design of prototype
+D	767.32	Thirteen .	costing and re-design of prototype
+D	767.85	So still half .	costing and re-design of prototype
+A	769.31	Shit .	costing and re-design of prototype
+D	770.94	There goes the special co Well That would make it less appealing .	costing and re-design of prototype
+A	771.01	Drop the special colour .	costing and re-design of prototype
+B	772.96	Oh no .	costing and re-design of prototype
+D	776.07	So that's no option .	costing and re-design of prototype
+A	778.76	'Kay .	costing and re-design of prototype
+A	779.14	What else ?	costing and re-design of prototype
+A	780.66	Uncurved ?	costing and re-design of prototype
+B	781.34	No no , it has to be um curved .	costing and re-design of prototype
+D	782.71	We sure about the advanced chip we need for the display ?	costing and re-design of prototype
+A	785.63	Yeah .	costing and re-design of prototype
+B	789.45	Okay .	costing and re-design of prototype
+A	790.48	They made it very easy for us .	costing and re-design of prototype
+D	790.63	Well yeah .	costing and re-design of prototype
+D	792.61	yeah .	costing and re-design of prototype
+D	793.95	We made it hard for ourselves with the display , but it's a cool feature .	costing and re-design of prototype
+A	795.96	Ah , I don't think I can s uh persuade the management to say , this is better for the market so you sell more than Buttons .	costing and re-design of prototype
+B	803.08	Okay .	costing and re-design of prototype
+B	803.37	Wh what we could do is um drop the the special colour , and uh do the special colour for the buttons .	costing and re-design of prototype
+C	808.98	Yeah .	costing and re-design of prototype
+A	812.36	That's Oh yeah since we only have one button .	costing and re-design of prototype
+B	815.4	Yeah .	costing and re-design of prototype
+D	816.21	Yeah but I mean what is meant by special colour ?	costing and re-design of prototype
+A	819.81	I just m I don't I think Uh yeah it's I think it's grey , regular .	costing and re-design of prototype
+B	819.95	Just something else than than black or white I think .	costing and re-design of prototype
+D	826.69	S yeah .	costing and re-design of prototype
+D	827.7	Alright .	costing and re-design of prototype
+A	828.24	Grey and rubber .	costing and re-design of prototype
+C	829.11	But we definitely want the thing to be a special colour though .	costing and re-design of prototype
+A	830.38	Of plastic .	costing and re-design of prototype
+B	831.87	Yeah .	costing and re-design of prototype
+D	832.37	Yeah .	costing and re-design of prototype
+D	833.22	So I rather have an hand dynamo than than drop the colour .	costing and re-design of prototype
+C	833.52	Damn .	costing and re-design of prototype
+C	836.18	Yeah and then Yeah yeah yeah yeah .	costing and re-design of prototype
+A	838.36	Yeah .	costing and re-design of prototype
+D	838.69	You can still play with it then I guess .	costing and re-design of prototype
+D	840.57	I don't know .	costing and re-design of prototype
+A	841.12	Yeah .	costing and re-design of prototype
+D	841.45	Yeah , but a hand dynamo costs a lot of energy to keep the screen working .	costing and re-design of prototype
+D	844.88	So I guess that isn't an option .	costing and re-design of prototype
+B	846.48	The display The But if you have to power the for ten minutes , then the Yeah .	costing and re-design of prototype
+C	848.18	Well , you only have to power it up when you wanna use it .	costing and re-design of prototype
+D	848.31	Yeah .	costing and re-design of prototype
+D	852.41	Yeah .	costing and re-design of prototype
+C	853.01	I don't know .	costing and re-design of prototype
+A	855.9	No I don't think the current status of uh chips are pretty uh energy conserving , no .	costing and re-design of prototype
+D	857.27	Yeah .	costing and re-design of prototype
+D	863.71	Yeah true .	costing and re-design of prototype
+C	864.52	Yeah .	costing and re-design of prototype
+D	864.83	Let's let's go for the hand dynamo then .	costing and re-design of prototype
+A	866.59	Yeah hand dynamo ?	costing and re-design of prototype
+A	868.19	Do you want an extra button ?	costing and re-design of prototype
+D	870.36	Or or do we Or do we do uncurved and flat ?	costing and re-design of prototype
+D	873.69	Instead of Yeah it has to be curved and has to have that colour .	costing and re-design of prototype
+B	874.82	No no it has to be curved .	costing and re-design of prototype
+C	876.59	Yeah .	costing and re-design of prototype
+B	877.44	Yeah .	costing and re-design of prototype
+B	878.53	Just put a special special colour of the buttons , or something .	costing and re-design of prototype
+C	878.93	Yeah .	costing and re-design of prototype
+D	879.04	And a screen .	costing and re-design of prototype
+C	879.83	Yeah .	costing and re-design of prototype
+C	880.26	That's the most import We only have Yeah but Well we come back to the drawing board then , huh ?	costing and re-design of prototype discussion
+A	882.69	Yep ?	costing and re-design of prototype
+A	883.65	Instead of an additional power button ?	costing and re-design of prototype
+B	884.01	Yeah or spe special form ?	costing and re-design of prototype
+D	884.19	Yeah .	costing and re-design of prototype
+D	886.14	S what what is special f Oh yeah , special form .	costing and re-design of prototype
+A	888.76	Yeah ?	costing and re-design of prototype
+D	888.77	Maybe that's nicer .	costing and re-design of prototype
+A	890.05	It's for scroll Without Yeah but it's just a scroll-wheel which you can push down .	costing and re-design of prototype
+B	891.8	Yeah .	costing and re-design of prototype
+D	892.65	But we don't have any buttons .	costing and re-design of prototype
+D	895.05	So do d Uh make it a special colour then .	costing and re-design of prototype
+B	896.02	Yeah .	costing and re-design of prototype
+B	896.35	But it's it's for the integrated button , I think also .	costing and re-design of prototype
+B	899.17	Or Yeah .	costing and re-design of prototype
+D	899.56	Yeah ma make it a special colour then .	costing and re-design of prototype
+B	903.29	Okay .	costing and re-design of prototype
+B	903.92	Yeah .	costing and re-design of prototype
+A	904.13	So Yeah ?	costing and re-design of prototype
+D	905.04	Okay .	costing and re-design of prototype
+D	905.77	Make it a special colour and then it look fancy .	costing and re-design of prototype
+B	908.43	Yep .	costing and re-design of prototype
+A	908.78	So Woah we're within budget .	costing and re-design of prototype
+D	909.5	So Yeah .	costing and re-design of prototype
+A	912.08	It's a miracle .	costing and re-design of prototype
+B	912.19	Oh just oh ma make it two special colours , but we only have one button .	costing and re-design of prototype
+D	912.36	Let's let's save it .	costing and re-design of prototype
+D	916.14	Yeah .	costing and re-design of prototype
+B	917.05	Okay .	costing and re-design of prototype
+D	917.76	Let's do it like this , I mean , because it does not lose our identity of the product as we Yeah all your designs are uh pretty much Yeah but that but that's the fun part of it .	costing and re-design of prototype discussion
+A	919.22	Yeah ?	costing and re-design of prototype
+A	923.29	Okay .	costing and re-design of prototype
+A	924.2	Um , well .	costing and re-design of prototype
+A	927.81	'Kay , this was old .	costing and re-design of prototype
+B	933.78	Yeah .	discussion
+A	934.56	Yeah back to work .	discussion
+B	935.63	Okay .	discussion
+A	935.84	Uh Did I save it ?	discussion
+C	938.56	It's silly 'cause we we should have had this meeting before we start drawing .	discussion
+A	942.27	Yeah .	discussion
+A	943.81	I I wanted to go , but I wasn't allowed .	discussion
+C	944.82	Oh yeah ?	discussion
+A	946.57	So Uh I just forgot to save this .	discussion
+C	947.2	okay .	discussion
+D	948.3	Alright .	discussion
+A	953.95	Just a minute .	discussion
+D	969.36	Yeah what's the next uh phase ?	agenda/equipment issues
+A	971.6	Yeah , this the last phase of course , so Hmm .	agenda/equipment issues
+D	974.69	Uh the agenda .	agenda/equipment issues
+D	977.16	By your humble P_M_ .	agenda/equipment issues
+D	980.79	Oh f Frustrated .	agenda/equipment issues
+A	981.07	Oh .	agenda/equipment issues
+D	983.26	Alright .	agenda/equipment issues
+D	986.75	Yeah .	agenda/equipment issues
+A	987.17	Okay .	agenda/equipment issues
+A	987.58	Um Well we first should have had a uh prototype presentation .	agenda/equipment issues
+A	994.35	But well as you saw that hadn't made no sense , because we had to drop it .	agenda/equipment issues
+C	998.29	Drop everything .	agenda/equipment issues
+D	998.8	Drop , yeah .	agenda/equipment issues
+C	999.46	Yeah .	agenda/equipment issues
+A	1000.41	Uh Yeah .	agenda/equipment issues
+C	1001.7	We went straight into finance ?	agenda/equipment issues
+A	1004.86	Yeah it was more important , so I just pushed up the agenda .	agenda/equipment issues
+D	1006.08	Yeah .	agenda/equipment issues
+C	1006.44	For Yeah .	agenda/equipment issues
+D	1007.28	Yeah .	agenda/equipment issues
+C	1007.97	Yeah .	agenda/equipment issues
+A	1009.71	Uh , evaluation criteria .	agenda/equipment issues
+A	1013.74	You have t produced something about that ?	agenda/equipment issues
+D	1014.84	Yeah that that's Yeah .	agenda/equipment issues
+D	1016.77	I uh I sure did .	agenda/equipment issues
+D	1018.6	And it combines with product evaluation .	agenda/equipment issues
+D	1020.89	Uh so We all have to keep in mind what has changed now .	evaluation of prototype(s) agenda/equipment issues
+A	1022.19	Uh you put it in the .	agenda/equipment issues
+D	1026.19	So what we have left on the Because evaluation is based on the initial uh user requirements .	evaluation of prototype(s)
+A	1028.24	Yeah .	evaluation of prototype(s)
+D	1034.22	Alright .	evaluation of prototype(s)
+A	1035.74	F_ five .	evaluation of prototype(s)
+D	1035.93	Let's make it big .	evaluation of prototype(s)
+D	1039.02	Um Well we evaluate uh the design with a seven point scale , as following .	evaluation of prototype(s)
+D	1046.4	Well the remote controls according criteria blah blah blah .	evaluation of prototype(s)
+D	1050.01	True or false , and then on a scale of seven points , a scale , as we all know it .	evaluation of prototype(s)
+C	1053.5	Mm-hmm .	evaluation of prototype(s)
+D	1056.01	Um Well the criteria are based on the user requirements , uh the trends from the marketing research , and the marketing strategy of the company itself .	evaluation of prototype(s)
+D	1068.4	Um well they are in a Word document , which I will open now .	evaluation of prototype(s)
+A	1072.91	Alt up Freaky .	evaluation of prototype(s)
+D	1074.04	Yeah .	evaluation of prototype(s)
+D	1075.44	I don't know it's open yet .	evaluation of prototype(s)
+D	1076.63	No .	evaluation of prototype(s)
+D	1081.22	And we all have to uh agree on a certain level .	evaluation of prototype(s)
+D	1085.38	What's this ?	evaluation of prototype(s)
+D	1087.37	Oh .	evaluation of prototype(s)
+D	1087.72	I don't know .	evaluation of prototype(s)
+D	1089.04	Um Well the first point is the remote control matches the operating behaviour of the young user .	evaluation of prototype(s)
+D	1097.34	So that means the operating behaviour was using quite a lot of functions .	evaluation of prototype(s)
+D	1103.34	How do you think about that ?	evaluation of prototype(s)
+C	1105.93	I think it does .	evaluation of prototype(s)
+C	1107.99	Because the operating behaviour of the young user was also defined in colour and shape and the use of L_C_D_ , right ?	evaluation of prototype(s)
+A	1114.54	Yeah .	evaluation of prototype(s)
+A	1114.92	Uh , of course we dropped a little bit of those uh Mm-hmm .	evaluation of prototype(s)
+D	1115.38	Yeah the us u It it it's it's mainly con mainly concentrating on a lot of functions , in this question .	evaluation of prototype(s)
+C	1117.97	Yeah .	evaluation of prototype(s)
+D	1122.91	So do you think Yeah .	evaluation of prototype(s)
+C	1124.05	Well , we have extended menus , on the on the L_C_D_ screen .	evaluation of prototype(s)
+D	1127.41	You can you can ma Yeah , you can make a lot of extended menus .	evaluation of prototype(s)
+B	1128.32	Yep .	evaluation of prototype(s)
+C	1128.4	So I No .	evaluation of prototype(s)
+D	1130.6	That's true .	evaluation of prototype(s)
+D	1131.19	I mean the the possibilities are almost unlimited , to to build in menus in the screen .	evaluation of prototype(s)
+D	1137.82	So on a scale from one to seven , what do you think ?	evaluation of prototype(s)
+B	1142.4	Two or three .	evaluation of prototype(s)
+D	1143.92	Huh ?	evaluation of prototype(s)
+B	1144.31	Two or three .	evaluation of prototype(s)
+D	1145.26	Two or three ?	evaluation of prototype(s)
+D	1145.99	Something like that ?	evaluation of prototype(s)
+D	1146.7	Well we have to choose one .	evaluation of prototype(s)
+A	1146.87	Two .	evaluation of prototype(s)
+C	1147.07	Yeah .	evaluation of prototype(s)
+D	1148.57	So uh what do you say ?	evaluation of prototype(s)
+A	1151.39	Uh y we should fill this in now .	evaluation of prototype(s)
+D	1151.72	I agree on two .	evaluation of prototype(s)
+D	1153.63	Yeah .	evaluation of prototype(s)
+A	1153.92	Yeah okay .	evaluation of prototype(s)
+D	1155.07	I uh I say two , personally .	evaluation of prototype(s)
+A	1155.19	Uh Yeah in the new design I s would say it's three .	evaluation of prototype(s)
+D	1157.21	But Yeah well we have to evaluate I guess what we have now .	evaluation of prototype(s)
+B	1157.41	Yeah .	evaluation of prototype(s)
+C	1158.1	Yeah alright .	evaluation of prototype(s)
+A	1160.2	But now , in original design I say two .	evaluation of prototype(s)
+A	1165.63	Okay then I say three .	evaluation of prototype(s)
+D	1167.17	Yeah ?	evaluation of prototype(s)
+D	1167.4	You say three , and you you said al also three ?	evaluation of prototype(s)
+C	1167.75	Yeah yeah .	evaluation of prototype(s)
+D	1170.0	Three ?	evaluation of prototype(s)
+B	1170.36	Yeah .	evaluation of prototype(s)
+D	1170.81	Okay well I say still two , but it has to be three then .	evaluation of prototype(s)
+A	1174.11	Hey , you're marketing , eh .	evaluation of prototype(s)
+D	1175.34	Yeah I know .	evaluation of prototype(s)
+D	1177.25	So it's made bold .	evaluation of prototype(s)
+D	1179.0	But it's nah , it's not very clear on the sc Maybe other colour , yeah .	evaluation of prototype(s)
+A	1179.23	Hmm .	evaluation of prototype(s)
+A	1179.98	M maybe underline .	evaluation of prototype(s)
+B	1181.68	Or give it a colour .	evaluation of prototype(s)
+D	1184.15	That's better .	evaluation of prototype(s)
+D	1186.07	Uh Yeah .	evaluation of prototype(s)
+A	1186.72	Red .	evaluation of prototype(s)
+D	1189.48	Alright .	evaluation of prototype(s)
+D	1190.21	Oh , it doesn't have to be bold anymore .	evaluation of prototype(s)
+D	1193.68	Alright .	evaluation of prototype(s)
+A	1194.26	Oh yeah very true .	evaluation of prototype(s)
+D	1195.9	Yeah .	evaluation of prototype(s)
+B	1196.87	Yeah true one .	evaluation of prototype(s)
+D	1197.56	Um well the remote control has Wha The remote control has irrelevant or less used functions .	evaluation of prototype(s)
+A	1200.13	He types everything .	evaluation of prototype(s)
+C	1202.65	Definitely one .	evaluation of prototype(s)
+B	1203.7	Yeah .	evaluation of prototype(s)
+C	1204.27	It has to be .	evaluation of prototype(s)
+D	1209.24	For example audio settings and screen settings .	evaluation of prototype(s)
+B	1210.44	It hides uh basic functions .	evaluation of prototype(s)
+A	1211.35	Everything .	evaluation of prototype(s)
+A	1214.02	You don't use anything else .	evaluation of prototype(s)
+D	1214.25	Yeah .	evaluation of prototype(s)
+D	1214.85	Well , yeah .	evaluation of prototype(s)
+D	1216.64	So it it's a very true point .	evaluation of prototype(s)
+C	1216.89	You're not gonna find them .	evaluation of prototype(s)
+D	1218.36	I mean it hides all those function .	evaluation of prototype(s)
+A	1218.9	Yeah .	evaluation of prototype(s)
+A	1219.36	Yeah okay .	evaluation of prototype(s)
+A	1220.64	Yeah .	evaluation of prototype(s)
+B	1220.8	Yeah true .	evaluation of prototype(s)
+D	1220.8	But , I mean uh they're hidden in the screen .	evaluation of prototype(s)
+D	1222.36	If you don't want to use them , you don't s you s just scroll over them .	evaluation of prototype(s)
+D	1225.98	And you place them F I don't know where .	evaluation of prototype(s)
+A	1227.39	Mm-hmm .	evaluation of prototype(s)
+D	1229.37	So that's very true , I guess , for our case .	evaluation of prototype(s)
+D	1233.28	Uh the second point .	evaluation of prototype(s)
+C	1233.34	Yeah the next Not so much so .	evaluation of prototype(s)
+D	1235.32	It shows the relevant and most used functions .	evaluation of prototype(s)
+A	1238.0	Nope .	evaluation of prototype(s)
+D	1238.09	Power button .	evaluation of prototype(s)
+D	1240.06	Do we ha still have a power button ?	evaluation of prototype(s)
+A	1241.38	Uh check with the Excel sheet .	evaluation of prototype(s)
+D	1241.5	Well yeah the button's integrated , huh ?	evaluation of prototype(s)
+C	1243.58	Yeah .	evaluation of prototype(s)
+B	1244.97	I think we are It's in Oh yeah it was integrateds .	evaluation of prototype(s)
+C	1245.21	Yeah it's uh it's integrated .	evaluation of prototype(s)
+D	1246.01	Yeah we dropped it .	evaluation of prototype(s)
+D	1246.81	You j you just push it in for Yeah just just push it in for th for three seconds or something , and then Yeah .	evaluation of prototype(s)
+A	1249.15	Yeah integrate it .	evaluation of prototype(s)
+B	1249.31	Yeah .	evaluation of prototype(s)
+C	1252.55	E exactly just like a m mobile .	evaluation of prototype(s)
+A	1252.91	Yeah .	evaluation of prototype(s)
+D	1254.27	I don't know .	evaluation of prototype(s)
+A	1254.94	Just go scrolling and it will activate .	evaluation of prototype(s)
+D	1256.4	Yeah .	evaluation of prototype(s)
+D	1257.6	Um it shows the relevant and most used functions .	evaluation of prototype(s)
+D	1262.84	Yeah uh on the other uh on one side I would say yes , and the other side I would say no .	evaluation of prototype(s)
+D	1268.07	So it's I don't know .	evaluation of prototype(s)
+A	1269.95	It shows the most used functions and they are relevant , but You say you double click on the No , not anymore .	evaluation of prototype(s)
+B	1272.75	Can you uh change channels directly with with just one button ?	evaluation of prototype(s)
+D	1273.44	Yeah .	evaluation of prototype(s)
+B	1276.69	No , you have to scroll through the menu , before Yeah .	evaluation of prototype(s)
+D	1278.05	With the scroll butt Yeah and then say channel .	evaluation of prototype(s)
+D	1281.37	And then Hmm ?	evaluation of prototype(s)
+B	1281.98	So it's it's not No .	evaluation of prototype(s)
+C	1282.42	Well uh we should b build it so that if you don't kind of push into the menu or something , if When it's on , yeah , it's turned on , It automatically has the the programme and the volume function , but as soon as you click it you go into the menu or some Of you Or you double click it .	evaluation of prototype(s)
+D	1291.91	Yeah .	evaluation of prototype(s)
+D	1297.88	Yeah .	evaluation of prototype(s)
+D	1299.14	But but how do you change from volume to channel ?	evaluation of prototype(s)
+C	1303.81	No because it has four arrows , right ?	evaluation of prototype(s)
+D	1306.79	No .	evaluation of prototype(s)
+A	1307.37	Because he's now have a scroll-wheel that you can push in .	evaluation of prototype(s)
+C	1307.78	Oh yeah .	evaluation of prototype(s)
+B	1309.22	Yeah .	evaluation of prototype(s)
+C	1311.21	Yeah I was thinking still about our uh integrated joystick .	evaluation of prototype(s)
+A	1311.44	Like on the the mouse .	evaluation of prototype(s)
+D	1314.83	No we have n we have no buttons left .	evaluation of prototype(s)
+D	1317.33	So the joystick was not an option .	evaluation of prototype(s)
+C	1318.56	Say .	evaluation of prototype(s)
+C	1320.79	Yeah that is a bummer .	evaluation of prototype(s)
+D	1321.35	So so you hav So you you have to double-click , I mean , for , I mean , uh volume , and three double click for the menu , or something .	evaluation of prototype(s)
+A	1323.06	Yeah .	evaluation of prototype(s)
+A	1328.72	To get into menu .	evaluation of prototype(s)
+A	1329.96	Yeah .	evaluation of prototype(s)
+B	1331.56	Oh no .	evaluation of prototype(s)
+D	1332.97	Yeah .	evaluation of prototype(s)
+A	1333.16	Or hold it ten seconds .	evaluation of prototype(s)
+D	1334.17	Yeah .	evaluation of prototype(s)
+D	1334.77	Yeah .	evaluation of prototype(s)
+D	1335.58	Alright .	evaluation of prototype(s)
+C	1335.69	We'll make it a Morse code .	evaluation of prototype(s)
+D	1336.99	But but ease of use was not very important , may I remind you .	evaluation of prototype(s)
+A	1339.67	No no no .	evaluation of prototype(s)
+D	1340.11	So that's Yeah but that that's not a question .	evaluation of prototype(s)
+A	1340.2	Uh it should be trendy .	evaluation of prototype(s)
+D	1343.2	Uh the remote control shows the relevant and most used functions .	evaluation of prototype(s)
+D	1347.08	Well I think it's pretty much in the middle .	evaluation of prototype(s)
+A	1348.96	Yeah .	evaluation of prototype(s)
+A	1349.68	Four .	evaluation of prototype(s)
+D	1350.19	You have to search for them in in the in the s in the screen , in the menu .	evaluation of prototype(s)
+A	1352.03	Yeah , im in the menu .	evaluation of prototype(s)
+D	1354.12	So So maybe it's more like a f a five .	evaluation of prototype(s)
+C	1354.75	Yeah .	evaluation of prototype(s)
+B	1355.17	Seven .	evaluation of prototype(s)
+B	1357.48	Yeah .	evaluation of prototype(s)
+D	1357.61	Or Yeah .	evaluation of prototype(s)
+C	1357.71	Yeah I would go for five or six , yeah .	evaluation of prototype(s)
+B	1357.89	Five .	evaluation of prototype(s)
+D	1360.73	Five or six ?	evaluation of prototype(s)
+A	1361.93	Five .	evaluation of prototype(s)
+C	1363.55	Okay five .	evaluation of prototype(s)
+B	1363.85	Five .	evaluation of prototype(s)
+B	1364.43	Yep .	evaluation of prototype(s)
+D	1364.43	Five ?	evaluation of prototype(s)
+D	1364.93	Alright .	evaluation of prototype(s)
+C	1365.06	Let's not diss our remote .	evaluation of prototype(s)
+D	1366.26	Yeah .	evaluation of prototype(s)
+A	1369.23	It's the weirdest remote control I've ever seen .	evaluation of prototype(s)
+D	1371.27	Oh .	evaluation of prototype(s)
+A	1373.09	So Well it's different .	evaluation of prototype(s)
+D	1374.48	Yeah .	evaluation of prototype(s)
+C	1375.22	Yep .	evaluation of prototype(s)
+C	1377.37	Just one button .	evaluation of prototype(s)
+D	1379.68	Yeah .	evaluation of prototype(s)
+D	1380.61	Alright .	evaluation of prototype(s)
+D	1381.24	Uh the the remote control makes use of technolog technological innovation like L_C_D_ screen and speech recognition .	evaluation of prototype(s)
+C	1382.29	But Uh yep .	evaluation of prototype(s)
+A	1387.25	Yeah .	evaluation of prototype(s)
+D	1388.49	Well yeah but we dropped the speech recognition .	evaluation of prototype(s)
+A	1390.63	Yeah , it's still Yeah , I say two .	evaluation of prototype(s)
+D	1390.73	But it has at least one innovation .	evaluation of prototype(s)
+D	1395.94	I say two then .	evaluation of prototype(s)
+B	1396.32	Yeah .	evaluation of prototype(s)
+C	1396.69	We still have the fruit and vegetable print .	evaluation of prototype(s)
+D	1399.54	Yeah but that that's not that's not this question .	evaluation of prototype(s)
+A	1399.6	Oh , that's the next .	evaluation of prototype(s)
+C	1400.07	Fr Oh I mean the Oh never mind .	evaluation of prototype(s)
+D	1402.15	Uh thi uh that's the other question .	evaluation of prototype(s)
+C	1403.64	I'm a bit lost .	evaluation of prototype(s)
+D	1404.99	This one .	evaluation of prototype(s)
+B	1405.71	I think a two .	evaluation of prototype(s)
+A	1406.92	Two .	evaluation of prototype(s)
+D	1407.25	Two yeah .	evaluation of prototype(s)
+B	1407.43	No .	evaluation of prototype(s)
+D	1408.97	I think L_C_D_'s more useful than speech What ?	evaluation of prototype(s)
+B	1409.37	Yep .	evaluation of prototype(s)
+A	1412.37	Yeah definitely .	evaluation of prototype(s)
+D	1413.73	Oh not the bold one .	evaluation of prototype(s)
+C	1415.75	It's way more practical , yeah .	evaluation of prototype(s)
+D	1417.84	Right .	evaluation of prototype(s)
+D	1420.29	Okay , it has a fancy look and feel by using fruit and vegetable prints , primary colours and sponge-like material .	evaluation of prototype(s)
+D	1426.57	It should have been two questions .	evaluation of prototype(s)
+C	1426.93	Yeah .	evaluation of prototype(s)
+D	1428.85	I realise now , because sponge-like material is dropped .	evaluation of prototype(s)
+D	1433.8	But the look and feel Yeah .	evaluation of prototype(s)
+A	1436.22	You still have rubber d Or no .	evaluation of prototype(s)
+C	1436.29	Yeah .	evaluation of prototype(s)
+C	1437.51	So we still uh we still have the primary colours .	evaluation of prototype(s)
+B	1438.29	No you got a plastic .	evaluation of prototype(s)
+A	1440.64	Yeah .	evaluation of prototype(s)
+C	1440.9	But only on the on the outside , not on the button .	evaluation of prototype(s)
+B	1441.36	Yeah .	evaluation of prototype(s)
+D	1444.09	The button has also colour .	evaluation of prototype(s)
+C	1445.67	Yeah ?	evaluation of prototype(s)
+A	1445.96	Yeah .	evaluation of prototype(s)
+D	1446.0	Yeah .	evaluation of prototype(s)
+C	1446.62	Okay .	evaluation of prototype(s)
+A	1446.87	The one button we have .	evaluation of prototype(s)
+C	1448.35	Yeah .	evaluation of prototype(s)
+D	1448.98	Yeah .	evaluation of prototype(s)
+C	1449.51	Yeah still we we dropped also on the the double uh curve .	evaluation of prototype(s)
+D	1449.54	The one .	evaluation of prototype(s)
+A	1453.82	Yeah you could check with the Excel sheet .	evaluation of prototype(s)
+D	1454.23	Mm mm .	evaluation of prototype(s)
+B	1456.01	Yeah .	evaluation of prototype(s)
+B	1456.74	You only have one Yeah .	evaluation of prototype(s)
+D	1456.74	Yeah we have single curve now , and no and no material .	evaluation of prototype(s)
+C	1459.01	And and colour .	evaluation of prototype(s)
+C	1461.83	Yeah .	evaluation of prototype(s)
+C	1462.33	S Yeah .	evaluation of prototype(s)
+D	1463.05	So maybe in the middle or something .	evaluation of prototype(s)
+B	1464.82	Four .	evaluation of prototype(s)
+A	1465.03	Yeah .	evaluation of prototype(s)
+B	1465.6	Yeah .	evaluation of prototype(s)
+D	1467.29	Yeah , I mean it's worth the Yeah .	evaluation of prototype(s)
+A	1468.77	Yeah or three .	evaluation of prototype(s)
+C	1470.6	Uh Actually we d we didn't do so well on this one .	evaluation of prototype(s)
+A	1471.5	We have something .	evaluation of prototype(s)
+C	1474.49	Because it's basically an old one , uh with little curve on the side , and in a different colour .	evaluation of prototype(s)
+C	1480.81	Still , it's still hard .	evaluation of prototype(s)
+D	1482.07	Yeah .	evaluation of prototype(s)
+C	1482.71	I mean the sponge-like and the three D_ shape , that would give it something young and fresh .	evaluation of prototype(s)
+A	1486.99	New .	evaluation of prototype(s)
+A	1487.5	Yeah .	evaluation of prototype(s)
+D	1488.41	Yeah .	evaluation of prototype(s)
+D	1489.54	But then we would have to drop the screen .	evaluation of prototype(s)
+B	1490.67	Red .	evaluation of prototype(s)
+D	1491.39	Oh red .	evaluation of prototype(s)
+D	1493.22	Yeah .	evaluation of prototype(s)
+A	1493.8	You like both .	evaluation of prototype(s)
+D	1494.9	Yeah .	evaluation of prototype(s)
+D	1496.41	I like bold .	evaluation of prototype(s)
+D	1499.41	Uh the remote control displays the corporate logo .	evaluation of prototype(s)
+A	1502.8	Um oh yeah .	evaluation of prototype(s)
+B	1504.57	Mm yeah yeah .	evaluation of prototype(s)
+C	1504.89	Of course .	evaluation of prototype(s)
+D	1506.24	Yeah .	evaluation of prototype(s)
+A	1507.39	I just couldn't Um , just one minute .	evaluation of prototype(s)
+D	1507.45	You just have to draw it .	evaluation of prototype(s)
+C	1510.52	Yeah but it be because uh we couldn't hardly draw on the b s on the lower half of the screen , we could not make it big enough to actually draw in the So I mean I wanted to put digits on the buttons as well .	evaluation of prototype(s)
+B	1510.95	It's the white part uh Yeah .	evaluation of prototype(s)
+D	1520.22	Yeah .	evaluation of prototype(s)
+B	1521.78	We have a we have a Mm-hmm .	evaluation of prototype(s)
+A	1522.2	So .	evaluation of prototype(s)
+C	1524.59	But Hell yeah .	evaluation of prototype(s)
+D	1524.98	But there's uh enough space for the corporate logo .	evaluation of prototype(s)
+D	1527.39	I mean , if there's only one thing .	evaluation of prototype(s)
+C	1529.71	If we have only one button .	evaluation of prototype(s)
+D	1531.28	Yeah .	evaluation of prototype(s)
+D	1533.08	So I will say that is very true .	evaluation of prototype(s)
+C	1537.15	And even the shape we have now uh simulates kind of an R_ and the reversed R_ , doesn't it ?	evaluation of prototype(s)
+D	1543.67	Yeah .	evaluation of prototype(s)
+D	1544.62	The remote control is easy to use .	evaluation of prototype(s)
+C	1544.66	So No .	evaluation of prototype(s)
+D	1547.54	Well I would say Skill , uh I would say six , or something .	evaluation of prototype(s)
+D	1553.64	I don't think it's easy to use , or not so .	evaluation of prototype(s)
+C	1555.33	The only e the only thing easy about it is that you don't have to move your fingers .	evaluation of prototype(s)
+B	1556.16	Ah i And that you only have to control one button .	evaluation of prototype(s)
+D	1559.57	Yeah .	evaluation of prototype(s)
+C	1559.6	'Cause it has only one button .	evaluation of prototype(s)
+C	1562.84	Yeah exactly .	evaluation of prototype(s)
+D	1563.27	Yeah .	evaluation of prototype(s)
+D	1563.93	It it it has a nice screen .	evaluation of prototype(s)
+D	1565.86	But Yeah .	evaluation of prototype(s)
+B	1567.54	It gives visual feedback .	evaluation of prototype(s)
+B	1568.9	So I think a five .	evaluation of prototype(s)
+D	1569.13	Yeah .	evaluation of prototype(s)
+D	1569.48	Well I I would say a five or a six .	evaluation of prototype(s)
+C	1572.29	I would say six .	evaluation of prototype(s)
+B	1573.23	Five .	evaluation of prototype(s)
+D	1574.21	What do you say ?	evaluation of prototype(s)
+D	1574.95	Easy to use ?	evaluation of prototype(s)
+C	1575.04	It's really not easy to use .	evaluation of prototype(s)
+D	1575.7	Five or a six ?	evaluation of prototype(s)
+C	1577.27	'Cause you're putting everything Most votes count .	evaluation of prototype(s)
+A	1577.46	No not anymore .	evaluation of prototype(s)
+D	1579.12	So a six , more .	evaluation of prototype(s)
+A	1580.21	Yeah .	evaluation of prototype(s)
+D	1581.37	Yeah , uh I would go for the six too .	evaluation of prototype(s)
+B	1583.17	Okay .	evaluation of prototype(s)
+B	1583.83	Yeah .	evaluation of prototype(s)
+D	1583.89	So Um well , another question , uh the remote control is durable .	evaluation of prototype(s)
+C	1588.12	Um Definitely in casing , 'cause we have a hard plastic Yeah .	evaluation of prototype(s)
+B	1591.87	Yeah that looks uh great .	evaluation of prototype(s)
+D	1596.14	I don't know if that's the correct word .	evaluation of prototype(s)
+B	1597.09	Yeah .	evaluation of prototype(s)
+D	1597.71	But uh In use , both battery as casing ?	evaluation of prototype(s)
+B	1597.74	Nah Yep .	evaluation of prototype(s)
+D	1602.93	Yeah ?	evaluation of prototype(s)
+C	1603.3	Yeah because the the batteries , those thingies last forever .	evaluation of prototype(s)
+D	1607.73	True , true .	evaluation of prototype(s)
+C	1608.51	And the the casing , hard plastic also lasts forever .	evaluation of prototype(s)
+D	1609.09	And the casing is plastic , ?	evaluation of prototype(s)
+D	1612.5	Yeah .	evaluation of prototype(s)
+A	1613.26	Yeah .	evaluation of prototype(s)
+D	1613.26	If you don't drop it too much , it's uh should last pretty long .	evaluation of prototype(s)
+C	1615.66	So I would go for one .	evaluation of prototype(s)
+D	1618.64	Yeah ?	evaluation of prototype(s)
+D	1619.03	But uh I think rubber compared is better .	evaluation of prototype(s)
+B	1620.94	Yeah .	evaluation of prototype(s)
+B	1621.86	S Yep .	evaluation of prototype(s)
+D	1621.86	So I think a two is more appropriate than Yeah .	evaluation of prototype(s)
+C	1624.35	Okay yeah .	evaluation of prototype(s)
+B	1627.53	Wow .	evaluation of prototype(s)
+D	1631.15	Logo .	evaluation of prototype(s)
+A	1632.07	Yeah .	evaluation of prototype(s)
+D	1632.93	Okay I will go go for two .	evaluation of prototype(s)
+D	1636.63	Uh the last one ?	evaluation of prototype(s)
+D	1638.01	The remote control's a good example for company's motto , we put the fashion in electronics .	evaluation of prototype(s)
+C	1640.89	Oh .	evaluation of prototype(s)
+C	1644.04	No m I would g I would go for four .	evaluation of prototype(s)
+B	1644.71	No we put the electronics into the fashion .	evaluation of prototype(s)
+D	1650.54	uh turn around .	evaluation of prototype(s)
+D	1652.02	Yeah .	evaluation of prototype(s)
+A	1652.33	Yeah well yeah .	evaluation of prototype(s)
+D	1652.46	But um Yeah ?	evaluation of prototype(s)
+A	1654.66	No Yeah okay .	evaluation of prototype(s)
+C	1655.23	Because we kind of tried to but we kind of failed with the budget that we have .	evaluation of prototype(s)
+D	1655.94	It's not Yeah , true .	evaluation of prototype(s)
+D	1662.87	So a four .	evaluation of prototype(s)
+D	1664.42	It's it g it g goes , it's not the best we could do , I guess .	evaluation of prototype(s)
+C	1669.3	Yeah .	evaluation of prototype(s)
+D	1670.24	But it all has to do with the budget , because it's it's not the bad idea we had , so Alright , yeah .	evaluation of prototype(s)
+C	1674.53	Yeah .	evaluation of prototype(s)
+C	1675.6	Yeah yeah .	evaluation of prototype(s)
+B	1675.92	Yeah , four is okay .	evaluation of prototype(s)
+D	1679.0	Right .	evaluation of prototype(s)
+A	1679.78	So Ooh .	evaluation of prototype(s)
+D	1681.47	So if I understood it right , we have to count these numbers .	evaluation of prototype(s)
+C	1681.89	That's it .	evaluation of prototype(s)
+A	1687.93	And Yeah ?	evaluation of prototype(s)
+D	1688.22	Uh Yeah .	evaluation of prototype(s)
+A	1689.54	What ?	evaluation of prototype(s)
+D	1691.09	Mm-hmm .	evaluation of prototype(s)
+D	1692.18	Oh Oh Alright .	evaluation of prototype(s)
+A	1693.86	Yeah .	evaluation of prototype(s)
+D	1696.79	Word document , the Yeah we have to count them .	evaluation of prototype(s)
+A	1697.81	Yeah .	evaluation of prototype(s)
+A	1698.08	That Count them .	evaluation of prototype(s)
+D	1700.9	Uh Yeah just add them and then uh divide them .	evaluation of prototype(s)
+A	1701.26	Add them ?	evaluation of prototype(s)
+A	1702.1	Or Could somebody start calculator ?	evaluation of prototype(s)
+D	1707.43	Yeah .	evaluation of prototype(s)
+D	1709.7	Mm .	evaluation of prototype(s)
+D	1710.73	I all made it po I I all made it I all made it possible uh for a positive questions , so we can count it .	evaluation of prototype(s)
+C	1710.82	Ah we can do the math .	evaluation of prototype(s)
+C	1713.39	Uh Yeah .	evaluation of prototype(s)
+A	1716.0	Mm-hmm .	evaluation of prototype(s)
+D	1717.33	I mean if you have reversed question , you have to reverse the scale , uh Yes .	evaluation of prototype(s)
+A	1718.48	Yeah , yeah .	evaluation of prototype(s)
+A	1719.09	You have to 'Kay .	evaluation of prototype(s)
+A	1721.81	So four and Nice work .	evaluation of prototype(s)
+C	1723.84	Did you make this questionnaire or what ?	evaluation of prototype(s)
+D	1725.62	Yeah .	evaluation of prototype(s)
+D	1728.06	Thanks .	evaluation of prototype(s)
+B	1729.75	Okay .	evaluation of prototype(s)
+C	1730.13	Oh .	evaluation of prototype(s)
+B	1731.3	Three plus ?	evaluation of prototype(s)
+C	1732.44	I wouldn't be able to do it that fast .	evaluation of prototype(s)
+A	1733.21	O one .	evaluation of prototype(s)
+B	1734.34	Plus one .	evaluation of prototype(s)
+A	1735.23	Plus five .	evaluation of prototype(s)
+B	1736.56	Plus five ?	evaluation of prototype(s)
+A	1738.13	Bo Uh two .	evaluation of prototype(s)
+D	1738.81	Oh Easy .	evaluation of prototype(s)
+D	1741.15	Question number four , yeah ?	evaluation of prototype(s)
+D	1743.96	Yeah .	evaluation of prototype(s)
+C	1746.15	F Pretty difficult .	evaluation of prototype(s)
+A	1746.3	Four .	evaluation of prototype(s)
+B	1746.46	Oh .	evaluation of prototype(s)
+B	1747.29	Wait a second .	evaluation of prototype(s)
+B	1748.17	Oh .	evaluation of prototype(s)
+B	1748.76	It's it's gone wrong .	evaluation of prototype(s)
+D	1749.83	How hard is it ?	evaluation of prototype(s)
+B	1751.16	Okay .	evaluation of prototype(s)
+B	1751.68	It's your turn .	evaluation of prototype(s)
+D	1752.93	Yeah just use Oh there tho uh there's no n There's no num pads .	evaluation of prototype(s)
+A	1753.42	Start over ?	evaluation of prototype(s)
+B	1753.5	No it's if you press twice on the plus button , then you get s s No .	evaluation of prototype(s)
+A	1757.02	You can Oh yeah .	evaluation of prototype(s)
+B	1757.95	That's why it's uh Just count it to Yeah .	evaluation of prototype(s)
+D	1760.18	It's a it's a bit uh Yeah .	evaluation of prototype(s)
+C	1761.52	Just type in the digits .	evaluation of prototype(s)
+C	1762.86	They're all one digit numbers right ?	evaluation of prototype(s)
+C	1764.63	And then you can count them together .	evaluation of prototype(s)
+D	1766.84	I think you can just count them by a Um let's move over .	evaluation of prototype(s)
+A	1770.4	Okay .	evaluation of prototype(s)
+D	1770.82	Three , plus one , four .	evaluation of prototype(s)
+A	1771.63	Three , four , nine .	evaluation of prototype(s)
+D	1773.0	Nine .	evaluation of prototype(s)
+A	1777.17	Uh Eleven , fifteen .	evaluation of prototype(s)
+D	1777.39	Uh , yeah .	evaluation of prototype(s)
+D	1778.18	Are you here ?	evaluation of prototype(s)
+D	1778.81	Eleven .	evaluation of prototype(s)
+C	1778.95	Eleven .	evaluation of prototype(s)
+C	1780.14	Fifteen .	evaluation of prototype(s)
+D	1780.17	Fifteen .	evaluation of prototype(s)
+B	1783.95	Sixteen .	evaluation of prototype(s)
+C	1784.33	Sixteen .	evaluation of prototype(s)
+D	1784.7	Sixteen , yeah .	evaluation of prototype(s)
+C	1787.41	Seventeen .	evaluation of prototype(s)
+A	1788.58	Seventeen .	evaluation of prototype(s)
+D	1788.73	No sixteen .	evaluation of prototype(s)
+D	1789.97	Uh sixteen plus six .	evaluation of prototype(s)
+C	1790.7	Oh what ?	evaluation of prototype(s)
+B	1791.46	Twenty two .	evaluation of prototype(s)
+A	1792.09	S Uh That was the last one .	evaluation of prototype(s)
+D	1792.14	Twenty two .	evaluation of prototype(s)
+C	1792.33	How hard is this ?	evaluation of prototype(s)
+D	1794.3	Twenty two , yeah ?	evaluation of prototype(s)
+C	1795.44	Never mind .	evaluation of prototype(s)
+B	1795.62	Twenty four .	evaluation of prototype(s)
+D	1796.07	Tw Twenty Twenty eight .	evaluation of prototype(s)
+C	1796.26	Twenty four .	evaluation of prototype(s)
+B	1796.78	Twenty six .	evaluation of prototype(s)
+C	1797.56	Twenty eight .	evaluation of prototype(s)
+B	1798.93	Oh , sorry .	evaluation of prototype(s)
+B	1801.46	Oh my .	evaluation of prototype(s)
+A	1802.57	That was that .	evaluation of prototype(s)
+C	1802.85	Twenty eight .	evaluation of prototype(s)
+A	1803.53	Yeah .	evaluation of prototype(s)
+B	1803.72	Okay .	evaluation of prototype(s)
+B	1804.0	Twenty eight .	evaluation of prototype(s)
+A	1804.73	So divided by nine .	evaluation of prototype(s)
+D	1804.95	Twen Uh okay .	evaluation of prototype(s)
+D	1806.87	By nine .	evaluation of prototype(s)
+B	1808.03	Hmm .	evaluation of prototype(s)
+D	1808.29	That's uh three uh Or le less than a three .	evaluation of prototype(s)
+A	1810.83	So Yeah .	evaluation of prototype(s)
+C	1811.12	Yeah the lower the The lower the score the better , right ?	evaluation of prototype(s)
+D	1814.26	Yeah .	evaluation of prototype(s)
+D	1815.22	Twenty eight di divided by nine makes three point one one one one one one one .	evaluation of prototype(s)
+C	1815.81	Yeah but But I Are you sure we this number actually tells us somethings ?	evaluation of prototype(s)
+A	1817.4	Divided by nine .	evaluation of prototype(s)
+A	1819.84	So thr t two .	evaluation of prototype(s)
+A	1824.38	So we're better than average .	evaluation of prototype(s)
+D	1826.14	Yeah .	evaluation of prototype(s)
+A	1829.96	No .	evaluation of prototype(s)
+C	1831.07	I don't think so because some questions are related to positive issues and some to negative .	evaluation of prototype(s)
+B	1833.29	Some questions are Yeah .	evaluation of prototype(s)
+C	1838.85	So if you give a true to a positive , it actually means that the low the lower the better .	evaluation of prototype(s)
+C	1844.36	But if you give true to a negative question No ?	evaluation of prototype(s)
+D	1846.36	Yeah , but there are no negative questions I guess .	evaluation of prototype(s)
+D	1849.14	Good example .	evaluation of prototype(s)
+D	1850.64	Durable use .	evaluation of prototype(s)
+C	1850.82	Durable , that's good .	evaluation of prototype(s)
+D	1852.27	Easy to use .	evaluation of prototype(s)
+C	1853.18	Easy to use .	evaluation of prototype(s)
+D	1853.7	This is good .	evaluation of prototype(s)
+D	1855.57	Fancy look and feel , that's good .	evaluation of prototype(s)
+C	1857.26	Yeah .	evaluation of prototype(s)
+D	1858.41	Technology innovation was good , because of a marketing uh requirement .	evaluation of prototype(s)
+C	1859.41	Also good .	evaluation of prototype(s)
+D	1861.84	Re relevant most used function .	evaluation of prototype(s)
+C	1862.03	Yeah okay .	evaluation of prototype(s)
+C	1863.66	I guess you did do it .	evaluation of prototype(s)
+D	1864.12	And hides these functions .	evaluation of prototype(s)
+D	1867.55	That was also a good thing .	evaluation of prototype(s)
+B	1869.13	Oh yeah .	evaluation of prototype(s)
+B	1869.6	Yeah .	evaluation of prototype(s)
+C	1869.75	Oh yeah yeah .	evaluation of prototype(s)
+D	1870.0	And then matches the opera of the user was also a good thing .	evaluation of prototype(s)
+C	1870.42	No Okay .	evaluation of prototype(s)
+B	1872.62	Yeah .	evaluation of prototype(s)
+D	1873.36	So it were all positive questions , by uh by purpose .	evaluation of prototype(s)
+C	1873.84	Okay .	evaluation of prototype(s)
+C	1875.19	Yeah true .	evaluation of prototype(s)
+D	1876.8	So Yes , so the It tells us something , yes .	evaluation of prototype(s)
+D	1881.39	Becau But the picture would be a lot different if we didn't have to drop those uh those things , I guess .	evaluation of prototype(s)
+B	1881.97	Oh great .	evaluation of prototype(s)
+A	1886.03	Things , yeah .	evaluation of prototype(s)
+C	1887.05	Yeah definitely definitely .	evaluation of prototype(s)
+A	1888.82	Okay .	evaluation of prototype(s)
+C	1888.98	Because now it's just an average It's remote .	evaluation of prototype(s)
+D	1891.63	Yeah .	evaluation of prototype(s)
+D	1892.3	Nah it it's it's better than average , but Yeah .	evaluation of prototype(s)
+C	1894.7	Yeah okay because of the L_C_D_ screen .	evaluation of prototype(s)
+C	1896.38	But uh it looks and stuff , it still uh it's not , it's not really eye-catching , except for the colour .	evaluation of prototype(s)
+D	1897.05	So th Yeah .	evaluation of prototype(s)
+A	1897.57	It's still yeah .	evaluation of prototype(s)
+A	1900.2	Has some shortcomings .	evaluation of prototype(s)
+D	1902.52	No .	evaluation of prototype(s)
+D	1903.91	The colour and the screen .	evaluation of prototype(s)
+C	1905.03	Yeah .	evaluation of prototype(s)
+A	1908.16	Okay so Um this we had , this we had .	agenda/equipment issues
+C	1914.12	Product evaluation .	agenda/equipment issues
+A	1914.44	We have to do a product evaluation .	agenda/equipment issues
+A	1917.58	Uh prototype presentation we dropped .	agenda/equipment issues
+A	1919.62	So Uh the finance we looked .	agenda/equipment issues
+A	1923.1	We have redesigned .	agenda/equipment issues
+A	1924.71	Uh not on that , but So you can just make one big L_C_D_ screen .	redesign of prototype agenda/equipment issues
+D	1927.42	Yeah we we have to maybe if we have to redesign it on this With some casing around it , yeah .	redesign of prototype
+B	1930.24	Okay it's your turn now .	redesign of prototype
+C	1930.39	Shall we try ?	redesign of prototype
+C	1936.33	Black .	redesign of prototype
+C	1938.93	Okay uh we're still gonna go for the fancy colours ?	redesign of prototype
+A	1941.98	Yeah uh The the button has a special colour , the frame has a special colour .	redesign of prototype
+D	1942.3	Yeah .	redesign of prototype
+B	1942.39	Yeah .	redesign of prototype
+C	1942.45	But are we gonna stick with the green or are we gonna do blue ?	redesign of prototype
+B	1944.5	Yeah we we can just uh use this one .	redesign of prototype
+B	1946.55	And then uh over-paint it with uh uh the green uh he only needs one button .	redesign of prototype
+D	1949.23	Yeah .	redesign of prototype
+C	1952.85	One scroll button and For what ?	redesign of prototype
+A	1953.4	It's plastic .	redesign of prototype
+B	1953.82	Yeah .	redesign of prototype
+B	1954.23	Or we have to delete this one or Oh oh no .	redesign of prototype
+A	1955.4	And single curved .	redesign of prototype
+D	1956.41	Yeah .	redesign of prototype
+A	1957.31	Oh and you might want to add a uh infrared LED .	redesign of prototype
+D	1963.88	Oh yeah .	redesign of prototype
+A	1965.49	Otherwise it uh doesn't function uh so well .	redesign of prototype
+B	1967.18	Okay .	redesign of prototype
+D	1968.16	Yeah .	redesign of prototype
+B	1969.94	So that's Okay , but how do we make the the scroll uh button ?	redesign of prototype
+D	1971.0	Do we have to do other things ?	redesign of prototype
+A	1972.8	Well I have to um um make an uh report of every decision we made so far .	redesign of prototype
+D	1972.89	Or just redesign ?	redesign of prototype
+D	1981.29	Alright .	redesign of prototype
+A	1982.26	And I try to get chip just before uh I uh receive the Excel sheet .	redesign of prototype
+D	1986.67	Yeah .	redesign of prototype
+A	1987.41	So I Yeah I'm I'm somewhere , but maybe you can help me .	redesign of prototype
+D	1988.08	So you made a start , right ?	redesign of prototype
+C	1991.34	Should give it some time ?	redesign of prototype
+D	1992.43	Yeah .	redesign of prototype
+C	1993.54	Yay .	redesign of prototype
+A	1994.86	Uh I was here .	redesign of prototype
+A	1997.68	So Ah That's enough to get started with , so Uh , I just took one for every step and then a conclusion .	redesign of prototype
+B	1997.94	It's just one yeah .	redesign of prototype
+C	1998.91	Have to take this away also .	redesign of prototype
+D	1999.15	Alright .	redesign of prototype
+C	2002.35	And this um Oh yeah , of course .	redesign of prototype
+B	2003.42	Uh that's the infrared uh thing .	redesign of prototype
+D	2006.03	The the target group has a weak spot for fruit and vegetables , like primary colours , spongy shape .	redesign of prototype
+B	2007.19	Yeah .	redesign of prototype
+C	2007.48	Um pen yeah ?	redesign of prototype
+C	2009.95	Format .	redesign of prototype
+C	2012.31	Current colour red .	redesign of prototype
+D	2012.68	The playfulness , we decided to use kinetic energy as a power sour Okay .	redesign of prototype
+C	2014.91	Oh Yeah we did our special colour for the Line widths , now that's a ten .	redesign of prototype
+B	2017.28	Yeah .	redesign of prototype
+D	2019.28	That's conceptual , yes .	redesign of prototype
+B	2024.39	Yeah .	redesign of prototype
+B	2024.62	Um , uh it's just a scroll Yeah , is it's horizontal or vertical ?	redesign of prototype
+D	2025.17	Mm .	redesign of prototype
+C	2025.79	It's gonna be one str scroll .	redesign of prototype
+D	2026.77	How many pages ?	redesign of prototype
+D	2030.58	Alright .	redesign of prototype
+B	2030.95	I think Yeah .	redesign of prototype
+D	2031.14	Y you have you have done the first two .	redesign of prototype
+C	2031.75	Horizontal's easier too , 'cause you can Is it more natural than this ?	redesign of prototype
+A	2033.26	Yeah .	redesign of prototype
+D	2033.94	Okay , and and the look and feel is Yeah .	redesign of prototype
+A	2036.11	Well I think I have to make a p an issue called finance .	redesign of prototype
+B	2037.0	Yeah , yeah .	redesign of prototype
+C	2039.12	So let's say Whoops .	redesign of prototype
+C	2040.51	'Kay .	redesign of prototype
+B	2043.93	Yes .	redesign of prototype
+C	2044.62	Basically .	redesign of prototype
+B	2045.49	It doesn't look like uh Uh it it's it's not Yeah .	redesign of prototype
+D	2046.18	The items we had to drop .	redesign of prototype
+A	2047.83	Yeah .	redesign of prototype
+B	2052.67	It's not very fashionable anymore .	redesign of prototype
+B	2054.77	But uh it's okay .	redesign of prototype
+C	2056.25	It's really ugly .	redesign of prototype
+B	2057.45	Yeah .	redesign of prototype
+D	2057.65	Where did we start with price ?	redesign of prototype
+D	2059.48	Twenty six and a half .	redesign of prototype
+B	2059.58	Maybe m make it bigger ?	redesign of prototype
+B	2060.89	Or Yeah .	redesign of prototype
+A	2061.39	Mm-hmm .	redesign of prototype
+D	2061.46	Or not ?	redesign of prototype
+D	2064.12	Or twenty six ?	redesign of prototype
+D	2064.94	Something like that .	redesign of prototype
+B	2071.64	That looks little bit more uh Maybe that's a s a special colour for it .	redesign of prototype
+C	2075.48	Oh What do you mean ?	redesign of prototype
+D	2077.81	This ?	redesign of prototype
+B	2077.95	So we can make it uh special ?	redesign of prototype
+C	2083.82	Like a other colour than this one ?	redesign of prototype
+B	2085.31	Or or speckles in it ?	redesign of prototype
+B	2086.76	I dunno .	redesign of prototype
+B	2087.37	Uh I'm not sure .	redesign of prototype
+D	2089.3	Speckles ?	redesign of prototype
+C	2091.12	Yeah can we do it uh uh can we do a print ?	redesign of prototype
+C	2096.76	I think we have to choose , yeah ?	redesign of prototype
+A	2097.2	... .	redesign of prototype
+A	2097.2	I don't think so , if you see the options .	redesign of prototype
+D	2098.66	Uh Yeah .	redesign of prototype
+A	2099.52	But Yeah .	redesign of prototype
+C	2102.85	Okay special colour .	redesign of prototype
+C	2104.08	We do have special colour .	redesign of prototype
+C	2106.68	Does it mean uh that Shall we just give it some dots to make it look pretty ?	redesign of prototype
+B	2106.96	Yeah red is already a special colour , I think .	redesign of prototype
+B	2109.36	So It's not very special , but uh Yeah .	redesign of prototype
+C	2117.41	Purdy .	redesign of prototype
+B	2117.61	Just uh put the purple uh purple on it .	redesign of prototype
+D	2117.65	Yeah .	redesign of prototype
+D	2117.99	Some some big dots .	redesign of prototype
+C	2120.16	Purple ?	redesign of prototype
+B	2122.06	That's trendy .	redesign of prototype
+D	2123.28	Yeah .	redesign of prototype
+C	2123.7	Yeah yeah .	redesign of prototype
+C	2128.77	Oh no my remote has acne .	redesign of prototype
+D	2128.98	... .	redesign of prototype
+D	2128.98	We have the original balance sheet , or Yeah .	redesign of prototype
+B	2132.47	Woah .	redesign of prototype
+C	2132.72	No .	redesign of prototype
+C	2134.83	That's why we have that button .	redesign of prototype
+B	2144.56	Oh yeah .	redesign of prototype
+C	2146.36	It's so cute .	redesign of prototype
+B	2148.12	Hmm .	redesign of prototype
+B	2149.39	Oh what ?	agenda/equipment issues
+C	2150.71	Doh .	agenda/equipment issues
+D	2151.63	Woah .	agenda/equipment issues
+D	2153.66	Just cut .	agenda/equipment issues
+D	2157.11	Control Z_ .	agenda/equipment issues
+B	2162.27	Oh no .	agenda/equipment issues
+C	2164.27	Is that that ?	agenda/equipment issues
+D	2166.11	Yeah .	agenda/equipment issues
+B	2166.99	No no .	agenda/equipment issues
+B	2168.23	Yeah .	agenda/equipment issues
+D	2168.8	Yeah .	agenda/equipment issues
+C	2169.94	How the We did we do that ?	agenda/equipment issues
+B	2170.94	Oh it's it's just one computer ?	agenda/equipment issues
+D	2172.4	Just dual screen .	agenda/equipment issues
+B	2172.62	Or No .	agenda/equipment issues
+B	2177.08	But can we delete it , just with delete ?	agenda/equipment issues
+B	2179.52	Or Crashed .	agenda/equipment issues
+C	2180.26	We can try .	agenda/equipment issues
+C	2183.01	That doesn't respond also to the undo .	agenda/equipment issues
+C	2185.88	It looks like it's No , Where do you want some more dots ?	agenda/equipment issues
+B	2189.46	Oh , no .	agenda/equipment issues
+D	2191.16	Very nice .	agenda/equipment issues
+B	2191.36	Okay .	agenda/equipment issues
+B	2194.23	Yeah , over here .	agenda/equipment issues
+B	2196.49	Hmm ?	agenda/equipment issues
+A	2196.64	You can't even draw anymore .	agenda/equipment issues
+D	2198.74	Yeah .	agenda/equipment issues
+A	2199.49	Even children can draw .	agenda/equipment issues
+B	2199.49	What's this ?	agenda/equipment issues
+D	2199.53	Y y you you you push the button or something .	agenda/equipment issues
+D	2202.95	Or Lot of options .	redesign of prototype agenda/equipment issues
+A	2203.91	Can you just push pen and then keep on Hmm .	agenda/equipment issues
+B	2204.8	Oh yeah .	agenda/equipment issues
+B	2206.65	Oh that's the select button .	agenda/equipment issues
+B	2209.08	It's uh No , it looks It's okay .	redesign of prototype agenda/equipment issues
+C	2219.01	Okay , it's not the prettiest , I know .	redesign of prototype
+C	2222.97	It's not so random huh ?	redesign of prototype
+B	2227.9	Specially the the R_ .	redesign of prototype
+D	2229.9	Yeah , the R_ and another R_ .	redesign of prototype
+C	2231.85	Yeah okay .	redesign of prototype
+D	2232.42	It's called the Real Remote , right ?	redesign of prototype
+A	2234.41	Yeah .	redesign of prototype
+D	2235.51	Maybe maybe it c it can say that .	redesign of prototype
+D	2237.44	The Real Remote .	redesign of prototype
+A	2239.46	Yeah just on the the m um the L_C_D_ display .	redesign of prototype
+D	2242.9	Yeah .	redesign of prototype
+D	2245.0	Welcome .	redesign of prototype
+C	2246.2	We can make a l a logo .	redesign of prototype
+A	2246.58	This is your Real Remote .	redesign of prototype
+D	2248.36	Yeah .	redesign of prototype
+D	2250.15	Yeah .	redesign of prototype
+C	2250.16	Like uh put it like the shape .	redesign of prototype
+A	2251.35	Yeah .	redesign of prototype
+B	2257.01	D designed by Okay .	redesign of prototype
+C	2259.18	Something like that .	redesign of prototype
+C	2259.99	I mean it's not too uh That's not their logo , is it ?	redesign of prototype
+B	2268.49	No .	redesign of prototype
+B	2270.22	Do they have a lo Oh , the here .	redesign of prototype
+B	2271.89	This i this is the logo .	redesign of prototype
+C	2273.2	Yeah .	redesign of prototype
+C	2273.95	It's a How Shall we do the logo in black or not ?	redesign of prototype
+B	2274.04	Two R_s and a one .	redesign of prototype
+A	2275.4	Yeah .	redesign of prototype
+A	2275.86	You can just reuse that , because the name is the same .	redesign of prototype
+D	2279.28	You can copy and paste the picture if you want .	redesign of prototype
+A	2279.62	Initials .	redesign of prototype
+A	2286.26	Mm .	redesign of prototype
+B	2286.8	Yeah .	redesign of prototype
+D	2287.39	Yeah .	redesign of prototype
+D	2293.94	What is that ?	redesign of prototype
+D	2295.08	Look more Looks more like a campfire .	redesign of prototype
+C	2300.04	Are you dissing my drawing ?	redesign of prototype
+C	2302.56	This one ?	redesign of prototype
+D	2303.49	Yeah .	redesign of prototype
+C	2305.28	It looks like a ribbon .	redesign of prototype
+D	2307.32	Yeah .	redesign of prototype
+B	2308.88	Okay .	redesign of prototype
+C	2316.15	So who wants to draw ?	redesign of prototype
+C	2317.61	This is actually quite fun .	redesign of prototype
+C	2318.88	Do we need to do anything ?	redesign of prototype
+C	2323.55	I hear you people are typing .	redesign of prototype
+B	2323.92	Are we uh ready ?	redesign of prototype
+B	2324.64	Uh Or Is this uh the last assignment ?	redesign of prototype
+D	2327.79	Type in your report .	redesign of prototype
+C	2329.5	Oh , okay .	redesign of prototype
+D	2332.08	I don't see any new messages .	redesign of prototype
+D	2334.08	So Hmm ?	redesign of prototype
+A	2334.66	Luckily .	redesign of prototype
+D	2336.4	Luckily , yeah .	redesign of prototype
+B	2338.95	Or Final Um bug .	redesign of prototype agenda/equipment issues
+A	2339.4	Yeah , it's uh Yeah .	redesign of prototype
+C	2342.59	It's almost four .	redesign of prototype
+D	2345.04	What time do we have to deliver the report ?	redesign of prototype
+D	2347.35	Four o'clock or Or before that ?	redesign of prototype
+C	2348.3	At four , yeah , ?	redesign of prototype
+A	2355.49	Okay .	redesign of prototype
+D	2356.22	Just compare uh No it's on the on the beamer I guess .	redesign of prototype agenda/equipment issues
+A	2356.47	And copy this .	redesign of prototype
+A	2358.71	Just a minute .	redesign of prototype
+C	2360.29	This is really bizarre .	agenda/equipment issues
+A	2362.8	It's It's somewhere I d It isn't inside .	agenda/equipment issues
+C	2363.15	It looks like there's a It looks like a butterfly .	agenda/equipment issues
+B	2366.82	Bug .	agenda/equipment issues
+B	2370.04	No it's in inside the No it Oh .	agenda/equipment issues
+A	2372.2	Yeah , and don't know how it's or eject it .	agenda/equipment issues
+C	2376.19	No , but it i It's not a bu a beamer .	agenda/equipment issues
+A	2376.48	From up there ?	agenda/equipment issues
+A	2378.49	No .	agenda/equipment issues
+C	2378.51	B It's a normal T_V_ screen , kind of thing .	agenda/equipment issues
+B	2381.68	Hey , you've got it uh read only .	agenda/equipment issues
+A	2381.78	Yeah it's somewhere in here .	agenda/equipment issues
+B	2383.51	So you have to uh .	agenda/equipment issues
+A	2385.36	Save copy .	agenda/equipment issues
+D	2387.67	Yeah .	agenda/equipment issues
+D	2388.09	Strange .	agenda/equipment issues
+D	2389.78	This something what's projection from behind , I guess .	agenda/equipment issues
+A	2391.74	Yeah .	agenda/equipment issues
+B	2396.04	It's too uh It is It's now single curved .	redesign of prototype agenda/equipment issues
+C	2399.6	Oh .	agenda/equipment issues
+C	2401.46	Yeah there is some kind of projection I think .	agenda/equipment issues
+A	2403.25	Yes .	agenda/equipment issues
+D	2403.4	Yeah it it's a beamer , but then with a within a mirror , yeah .	agenda/equipment issues
+C	2406.04	With a with a mirror , huh ?	agenda/equipment issues
+C	2407.52	Or something .	agenda/equipment issues
+C	2408.17	Yeah .	agenda/equipment issues
+D	2409.67	So it looks like a big screen , but in fact it isn't .	agenda/equipment issues
+C	2413.17	So are we gonna change anything to this ?	redesign of prototype
+C	2415.89	I mean is it gonna This is gonna be flat .	redesign of prototype
+D	2416.57	Well it's it's single single curved .	redesign of prototype
+A	2417.12	Well Um now you probably have to recalibrate .	redesign of prototype agenda/equipment issues
+B	2419.37	So It's flat .	redesign of prototype
+D	2420.66	Th this is flat .	redesign of prototype
+C	2422.14	Yeah exactly .	redesign of prototype
+B	2422.2	Oh no .	redesign of prototype
+D	2422.4	Yeah .	redesign of prototype
+B	2425.31	Okay .	redesign of prototype
+B	2425.67	It doesn't matter .	redesign of prototype
+B	2426.37	It's it's That's the detector uh for the Okay .	redesign of prototype agenda/equipment issues
+D	2426.55	But it's it's better to have in the front , this kind of shape , because it looks nice .	redesign of prototype
+D	2434.79	I mean you see more of this than of that .	redesign of prototype
+C	2438.23	Yeah .	redesign of prototype
+D	2443.03	Yeah , more like that .	redesign of prototype
+C	2444.94	Yeah .	redesign of prototype
+C	2447.75	And this is also gonna be Nope .	redesign of prototype agenda/equipment issues
+D	2457.52	It's not very uh ideal .	agenda/equipment issues
+D	2462.42	Do like this .	agenda/equipment issues
+C	2462.94	But sometimes then uh all of a sudden it does work .	agenda/equipment issues
+D	2465.94	Yeah .	agenda/equipment issues
+D	2469.27	What's this ?	agenda/equipment issues
+D	2473.99	Ooh .	agenda/equipment issues
+D	2478.3	But I don't see a detector over there .	agenda/equipment issues
+C	2478.32	Maybe No it's I think you only need two points .	agenda/equipment issues
+B	2480.06	Yeah .	agenda/equipment issues
+B	2480.45	I don't know .	agenda/equipment issues
+C	2483.38	Or not .	agenda/equipment issues
+C	2485.92	No , you sh Slanted yeah .	agenda/equipment issues
+D	2486.07	I thought it was a kind of thing to put it on , and then draw right lines or something .	agenda/equipment issues
+B	2489.99	Maybe that's why it's it's not working , because it's more Yeah .	agenda/equipment issues
+D	2495.49	Yeah .	agenda/equipment issues
+C	2495.95	Yeah .	agenda/equipment issues
+D	2496.48	Or just messed it up .	agenda/equipment issues
+C	2500.0	Well maybe .	agenda/equipment issues
+B	2501.73	Oh .	agenda/equipment issues
+B	2502.96	Oh yeah .	agenda/equipment issues
+C	2503.52	Yeah it it matters for the aim of this thing .	agenda/equipment issues
+D	2503.52	Yeah .	agenda/equipment issues
+B	2505.72	Yeah .	agenda/equipment issues
+D	2508.57	Yeah but it wasn't good .	agenda/equipment issues
+B	2514.5	You've to make it s uh ninety degrees .	agenda/equipment issues
+D	2518.73	Yeah it it has to touch the corners , I guess .	agenda/equipment issues
+D	2521.76	But th this one wasn't good , because if I was drawing here , I drew a line and then it came over here .	agenda/equipment issues
+B	2532.14	You have Oh we're always long .	agenda/equipment issues
+A	2533.75	Oh , five minutes to the end of the meeting .	agenda/equipment issues
+D	2535.62	Oh .	agenda/equipment issues
+A	2536.55	And the recalibration is done using this icon here .	agenda/equipment issues
+B	2541.86	Yeah , can we t can we get to that i Oh it's not working anymore .	agenda/equipment issues
+D	2541.94	Ooh .	agenda/equipment issues
+A	2547.88	Yeah well I just Okay .	redesign of prototype agenda/equipment issues
+B	2549.45	Oh yeah yeah yeah yeah , it's it's working , it's working .	agenda/equipment issues
+D	2549.5	Yeah yeah , it's it's okay .	agenda/equipment issues
+D	2551.36	It's working again .	agenda/equipment issues
+C	2552.7	Yeah .	redesign of prototype
+D	2553.37	It's better than before .	redesign of prototype
+B	2554.28	Yeah .	redesign of prototype
+D	2556.47	Yeah .	redesign of prototype
+B	2556.78	We're improving uh Yeah .	redesign of prototype
+A	2557.82	You go ahead .	redesign of prototype
+D	2558.92	Yeah that's improved uh pretty much .	redesign of prototype
+B	2558.99	Yeah .	redesign of prototype
+C	2561.72	Yeah it's only a bit like to that side , but that is that one by the way .	redesign of prototype
+D	2563.65	Yeah .	redesign of prototype
+D	2565.79	Yeah but it's better , it's better Mm .	redesign of prototype
+C	2566.36	'Cause this one makes the angle either like this .	redesign of prototype
+B	2566.64	No it So cake .	redesign of prototype agenda/equipment issues
+C	2570.66	So i if I change this , it will go there , if I change that , will go there .	redesign of prototype
+D	2575.01	No .	redesign of prototype
+D	2575.21	It's better than it was I guess .	redesign of prototype
+C	2577.21	Mm-hmm .	redesign of prototype
+C	2578.5	I will take this away 'cause it looks messy .	redesign of prototype
+D	2580.83	Silly .	redesign of prototype
+D	2586.35	Yeah .	redesign of prototype
+D	2586.95	Works pretty well .	redesign of prototype
+D	2589.7	Five minutes before the meeting's over .	agenda/equipment issues
+A	2590.93	Yeah .	agenda/equipment issues
+D	2591.71	And then ?	agenda/equipment issues
+A	2591.85	Yeah .	agenda/equipment issues
+D	2592.56	We have to present Alright .	agenda/equipment issues
+A	2592.78	Then I have to uh uh write this , and I don't know if you have to present , because I didn't receive any information about that so far .	agenda/equipment issues
+C	2601.56	Maybe we will .	agenda/equipment issues
+A	2602.32	Maybe we get a a final mail .	agenda/equipment issues
+D	2602.49	So it after the after after these five minutes , you have to Alright .	agenda/equipment issues
+A	2605.51	Yeah .	agenda/equipment issues
+A	2606.93	Yeah , I have still ten minutes to finish the report .	agenda/equipment issues
+C	2608.31	What's this anyway ?	agenda/equipment issues
+D	2611.72	After after that five minutes , you have ten minutes to finish it , or Alright .	agenda/equipment issues
+C	2613.24	It looks like candle wax .	agenda/equipment issues
+A	2615.21	Yeah .	agenda/equipment issues
+D	2616.55	And we uh Right .	agenda/equipment issues
+A	2617.73	And you can uh just uh relax and uh have cup of coffee or oh no , they don't have beer here so you can't celebrate .	agenda/equipment issues
+D	2620.88	Chill .	agenda/equipment issues
+D	2623.14	Huh .	agenda/equipment issues
+A	2624.75	You can just if you ma finish my presentation please .	agenda/equipment issues
+A	2629.66	Uh over there .	agenda/equipment issues
+D	2629.75	Uh Yeah ?	agenda/equipment issues
+A	2631.46	The presentation is still open .	agenda/equipment issues
+A	2633.11	So if you finish that then you'll see uh Yeah next .	agenda/equipment issues
+D	2638.45	Next slide .	agenda/equipment issues
+A	2640.83	Oh yeah , we have to do the project uh evaluation .	evaluation of project process
+A	2643.82	Just uh do that quickly .	evaluation of project process
+D	2645.3	Yeah ?	evaluation of project process
+A	2645.89	Uh Uh well basically what that says , we discuss it and um So how were did the project process uh go ?	evaluation of project process
+D	2646.6	How do you do it ?	evaluation of project process
+D	2652.79	Alright .	evaluation of project process
+A	2656.27	Did you , were you all pleased with the process as it was ?	evaluation of project process
+A	2659.94	Or are there uh Yeah the interaction and the steps we followed , and and so forth .	evaluation of project process
+C	2660.08	Uh th uh do you mean the the interaction between us ?	evaluation of project process
+C	2663.59	Or Yeah well at first I was really stressed .	evaluation of project process
+C	2669.66	Because it went a bit fast .	evaluation of project process
+D	2670.01	Yeah .	evaluation of project process
+C	2671.76	But then as I knew the tempo that I had to be on , the second time I think I did a bit better .	evaluation of project process
+D	2678.27	Yeah .	evaluation of project process
+A	2678.77	Yeah .	evaluation of project process
+C	2678.98	And the third time yeah , I mean Yeah , yeah yeah yeah .	evaluation of project process
+D	2680.45	And we move more to to working together as team , because at first you you make your individual contribution , and then come here , and you have no idea what the others have to make .	evaluation of project process
+B	2681.03	No .	evaluation of project process
+A	2683.95	Mm-hmm .	evaluation of project process
+B	2689.41	No .	evaluation of project process
+D	2691.26	And then finally you have some idea , okay this is gonna w this is what we gonna make together and okay I will arrange this and you will arrange that , and you have a k a kind of idea what you can expect on the next half hour when you have to work on your own .	evaluation of project process
+A	2697.76	Mm-hmm .	evaluation of project process
+D	2705.12	So The process , I mean , the interaction between us became better and better I guess .	evaluation of project process
+C	2706.71	Yeah we Mm-hmm .	evaluation of project process
+B	2706.78	Yeah .	evaluation of project process
+B	2710.44	Yeah .	evaluation of project process
+A	2710.85	Mm-hmm .	evaluation of project process
+B	2710.88	Especially after the first meeting .	evaluation of project process
+D	2713.03	Yeah , especially if f f if you see uh you se you saw the largest difference from the first to the second meeting I guess .	evaluation of project process
+B	2713.11	And Yeah .	evaluation of project process
+C	2718.61	Yeah .	evaluation of project process
+C	2719.31	Definitely .	evaluation of project process
+A	2720.71	Okay and was that due to my leadership ?	evaluation of project process
+B	2723.95	Yeah yeah yeah .	evaluation of project process
+C	2725.39	Well you did become more assertive the the second time round , so that Yeah .	evaluation of project process
+A	2728.78	Yeah ?	evaluation of project process
+B	2729.26	Yeah .	evaluation of project process
+D	2729.74	Yeah .	evaluation of project process
+A	2730.18	That okay ?	evaluation of project process
+C	2730.46	You were more in charge kind of thing .	evaluation of project process
+A	2734.34	Okay .	evaluation of project process
+A	2735.35	Um was there uh enough room for creativity ?	evaluation of project process
+C	2739.39	I guess so .	evaluation of project process
+D	2739.92	Yeah .	evaluation of project process
+B	2740.74	Yeah but only the the financial parts uh Yeah .	evaluation of project process
+C	2741.21	I mean I We were pretty democratic .	evaluation of project process
+D	2744.36	Li Limiteded afterwards , but If if you don't take that into account , there's plenty of room for creativ creativity .	evaluation of project process
+D	2753.31	Also not only the drawing and the the making of the thing itself , but also in explaining it to the other people , by means of uh the the board and uh PowerPoint and Word and stuff like that .	evaluation of project process
+A	2764.48	So and the uh about the board digital pen ?	evaluation of project process
+A	2769.4	Uh was that helpful or Ooh .	evaluation of project process
+C	2770.36	Yeah .	evaluation of project process
+D	2772.53	Mm uh I think in in essence the digital pen is better than the SMARTboard .	evaluation of project process
+D	2779.17	Because it it it just works better .	evaluation of project process
+D	2781.23	I mean uh uh I've made yeah , uh I've made several notes just to test it , and and just put the pen in into it , and then it came onto my screen and it looked perfectly .	evaluation of project process
+A	2781.3	Yeah it works .	evaluation of project process
+B	2791.07	Yeah .	evaluation of project process
+D	2791.42	So it it's better a better device than uh than the screen .	evaluation of project process
+A	2792.15	Mm-hmm .	evaluation of project process
+C	2797.22	Maybe Yeah .	evaluation of project process
+D	2797.74	But the screen is useful , in essence , but it doesn't work that well .	evaluation of project process
+C	2800.89	It's uh it's The the pen is more intuitive , 'cause we're all used to writing with pen .	evaluation of project process
+A	2804.96	Use the pen .	evaluation of project process
+C	2805.86	And uh as I said , uh I uh have no idea how PowerPoint works , so will take me half a day to be able to make a normal PowerPoint presentation .	evaluation of project process
+D	2813.15	Yeah .	evaluation of project process
+C	2814.17	But once I get to know the program probably , I mean , it looks better , you know .	evaluation of project process
+C	2819.27	Or uh something like that .	evaluation of project process
+C	2820.54	You can give it a kind of a home style , like we have i the the logo and everything .	evaluation of project process
+A	2827.96	Yeah yeah .	evaluation of project process
+C	2828.43	And I don't know .	evaluation of project process
+D	2829.47	Yep .	evaluation of project process
+A	2833.13	Blink .	evaluation of project process
+A	2833.94	Oh .	evaluation of project process
+D	2834.4	Warning .	evaluation of project process
+D	2834.79	Finish meeting now .	evaluation of project process
+B	2834.98	Finish meeting .	evaluation of project process
+A	2835.51	Okay , are are there any new ideas about this ?	evaluation of project process
+A	2840.42	All I think I didn't really receive , yeah .	evaluation of project process
+D	2842.26	Well , it It's use especially useful , I guess , to to evaluate designs and graph graphical stuff .	evaluation of project process
+A	2851.18	Uh uh w uh S sorry uh Mm-hmm .	evaluation of project process
+D	2851.9	And and the screen and stuff like that .	evaluation of project process
+B	2856.84	I think the PowerPoint is is too limited .	evaluation of project process
+B	2859.43	You can't uh draw easy in in PowerPoint .	evaluation of project process
+B	2862.45	It has to be uh yeah .	evaluation of project process
+B	2864.21	The drawing board has to be integrated into PowerPoint , so that you can just easily Yeah .	evaluation of project process
+D	2868.35	Yeah .	evaluation of project process
+C	2869.14	Yeah the the the problem with PowerPoint for me is that you have to i put in the pre-made chunks c as well .	evaluation of project process
+C	2876.0	You know , you can draw something on the sketch-board and then take it there , or whatever .	evaluation of project process
+A	2876.07	Yeah .	evaluation of project process
+D	2877.59	Yeah .	evaluation of project process
+D	2881.71	Yeah .	evaluation of project process
+D	2882.75	But it it's useful to to show something to to an a small audience , and then to Yeah .	evaluation of project process
+B	2885.96	Yeah just for text , for text it's uh it's okay .	evaluation of project process
+B	2889.17	But 'Kay .	evaluation of project process closing
+D	2890.35	These these kind of screens this size are useful to discuss things .	evaluation of project process
+D	2893.48	So Yes .	evaluation of project process closing
+A	2896.68	Oh .	closing
+D	2896.77	Check your email .	closing
+A	2897.38	Uh we should uh enter our questionnaire .	closing
+D	2906.52	You also .	closing
+A	2916.02	Ah .	closing
+A	2922.75	Woah .	closing
+C	2927.63	Alright .	closing
+D	2927.7	Right .	closing
+A	2929.69	Okay .	closing
+B	2931.33	Okay .	closing
+A	2931.41	Uh okay .	closing
+C	2932.17	Alright .	closing
+D	2934.36	Yes boss .	closing
+C	2937.28	Well , s see you in a second huh ?	closing
+A	2937.94	That's the management .	closing
+D	2941.38	Well see you soon .	closing
+B	2942.14	Oh .	closing
+B	2943.15	Okay .	closing
+A	2943.26	Hope so .	closing
+D	2944.34	Yeah .	closing
+C	2946.9	Yeah we have to pull it this way , huh ?	closing
+C	2949.26	Wait .	closing

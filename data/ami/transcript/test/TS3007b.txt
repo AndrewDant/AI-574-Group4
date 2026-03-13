@@ -1,0 +1,524 @@
+D	0	.	NO_TOPIC
+A	2.16	Hello .	opening
+D	3.59	Hey guys .	opening
+C	4.52	Hi .	opening
+B	4.94	Hi .	opening
+A	5.44	Hi .	opening
+C	6.64	I see my bunny is still standing .	opening
+A	8.34	Yeah .	opening
+C	8.94	No one drawing it .	opening
+A	9.45	It's too beautiful .	opening
+B	10.16	Yeah , true .	opening
+C	10.68	Uh I figured uh that much .	opening
+D	13.83	Too wicked .	opening
+B	15.89	Mm .	opening
+A	22.67	A minute please , my uh laptop is uh oh , there it is , thank you .	opening
+A	44.88	So welcome back .	opening
+A	46.85	At the functional design meeting um the plan is uh that uh each one of you , so not me but only you uh will uh present uh the the things you worked on uh the last uh half hour .	opening
+A	63.24	I will uh take minutes and will put uh the minutes that I have uh at the end of the session in the shared folder .	opening
+A	71.54	Also the minutes of the previous session are also in the shared folder now , so you can read that uh now or afterwards .	opening
+A	80.63	Um uh I had an email from the from the management board uh , I don't know if you a al also uh received it , but there were four points uh which uh I think are very important .	opening
+A	97.55	First one is uh they think that uh teletext teletext becomes outdated uh and internet will be the the main uh focus .	opening
+A	108.29	Uh second one is also important uh , because it's one of the discussion points of the previous session .	opening
+A	115.25	Uh the remote control shou should onl only be used for the television , so it uh not gonna it's not gonna be a multi-purpose remote control , so uh that's one thing to keep in mind .	opening
+A	128.1	Uh second , and I think that's important for the Marketing uh Expert , uh the current uh customers uh are in the age group group of uh forty years and older , but with this uh new remote uh they uh will uh would like to reach uh a group uh younger than uh forty .	opening
+A	146.63	Uh and uh I think to keep in mind , but not really uh for now is that they uh want the the the slogan and the and the logo uh to uh to be recognised more in the remote .	opening
+A	159.66	So , we have uh forty minutes , so I think uh not more than ten minutes uh uh per presentation uh each , and please uh use uh all the the the facilities so that you have either SMARTboards , the the Word files , what you uh whatever you want .	opening
+A	177.22	So uh Tim , can you start ?	opening marketing expert presentation
+D	182.46	Okay .	marketing expert presentation
+A	182.93	Yeah ?	marketing expert presentation
+D	209.52	'Kay , welcome .	new requirements
+D	212.2	I have some uh new findings on uh Marketing Expert level , which I will show you .	new requirements
+B	215.62	Mm-hmm .	new requirements
+D	222.15	The method I used was um giving orders to our usability lab uh to do a questionnaire .	new requirements
+D	232.2	Um one hundred respondents were involved and my marketing uh department generated a report with a lot of results .	new requirements
+D	246.48	Um , these were a couple of findings , first page of three .	new requirements
+D	253.63	Um , we have three audiences of two audiences , I'm sorry .	new requirements
+D	259.47	Uh the first one , this scale , from sixteen to forty five age .	new requirements
+D	266.93	Uh the second one is from sixty four uh forty six to sixty five .	new requirements
+D	272.58	Um , as you can see here , the market share for the first audience is about sixty percent um sixty five .	new requirements
+D	282.69	Uh second audience audience is uh thirty five percent .	new requirements
+D	287.36	Mm and some interests from the from the age groups , uh it seems like the young users of remote controls really like the fancy uh new technology stuff , like uh an L_C_D_ screen on the remote control , um speech recognition .	new requirements
+D	310.63	I don't think that's uh really appropriate .	new requirements
+D	313.8	Um , and when you see uh the audience , the age is going up uh Yeah , they don't really want it anymore , at least the new technologies .	new requirements
+D	329.8	Second findings out of the questionnaire um are the opinion the opinions uh of the audience about current remote controls .	new requirements
+D	342.61	First point is , seventy five percent of the users find the most repo remote controls very ugly , uh and eighty percent of the users would spend more money when a remote control would look fancy .	new requirements
+D	357.15	So that's maybe something for the User Interface uh Designer .	new requirements
+D	364.59	Okay , third findings .	new requirements
+D	366.91	According to the frequency of use versus importance investigation , um following buttons are most important .	new requirements
+D	376.46	Um , I will tell something about the way this uh this test was , yeah , done .	new requirements
+D	385.27	Um , persons were asked uh what the buttons were uh they use most , how much an hour , and uh in the second table the importance of those buttons .	new requirements
+A	393.28	Mm-hmm .	new requirements
+D	400.78	Um , when you multiply them , you get the these three points .	new requirements
+D	405.88	Switching channels , um yeah , that's pretty uh pretty normal , that's what you do with a remote control .	new requirements
+D	417.01	Um the second , teletext , uh and the third , uh volume controls .	new requirements
+D	423.01	Um , I think it's good uh that we know what the user want wants , uh at least the these three points have to be uh very clear .	new requirements
+A	434.32	But it's strange that the the manage board the management board said that the teletext will be uh outdated by the internet .	new requirements
+D	441.24	Yeah , okay .	new requirements
+A	441.27	So that that's strange .	new requirements
+D	442.92	Yeah , okay , but uh at the moment uh teletext is Yeah , th the best thing you can get uh on T_V_ , like getting information .	new requirements
+A	452.25	Yeah , okay .	new requirements
+D	454.55	So uh , when you ask people , what do they use , they use teletext and not the internet on a remote control .	new requirements
+A	454.64	Yeah .	new requirements
+A	460.95	Okay .	new requirements
+A	462.88	Yeah , okay .	new requirements
+D	463.29	That's ridiculous .	new requirements
+A	464.4	Yeah .	new requirements
+D	466.07	That's a ne i it It's a new technology , but it's not incorporated right now .	new requirements
+A	468.05	Yeah .	new requirements
+D	471.08	Okay , my personal preferences .	new requirements
+D	473.43	Um , I think we should aim at the uh audience from sixteen to forty five .	new requirements
+D	481.95	Mm , first of all um it's the biggest share , the biggest audience , sixty five percent .	new requirements
+D	490.61	Uh second , I think you will get the most revenue from i from it .	new requirements
+D	495.33	Um , yeah , people from sixteen to forty five watch a lot of T_V_ , more than uh people who are el uh elder .	new requirements
+D	504.91	Um second point , we have to impro improve the most used functions , as I said here , switching channels , teletext and volume controls .	new requirements
+D	517.7	Third point um that came out of the uh of the questionnaire , uh people used to uh get lost off the remote controller , so maybe it's an idea for us uh to design ex kind of placeholder uh on side of the , yeah , of the T_V_ where you can put the the remote control in .	new requirements
+A	534.21	Yeah , that's a cool idea .	new requirements
+D	542.91	Um , that's about it , I think .	new requirements
+D	546.23	Yeah .	new requirements
+C	546.9	When you mentioned uh improving functions , what uh what do you mean by that what what are you think about ?	new requirements
+D	551.03	Uh not not the r not the functions , but uh it came out that a lot of buttons weren't even used uh on a remote control .	new requirements
+C	554.17	Uh , the funtionability .	new requirements
+D	560.96	So you can have a remote control full of buttons , a hundreds hundreds of buttons , but if you don't use them , yeah it's Yeah , they have to be on it j just to t to get it done if necessary , but um the most used buttons uh have to be bigger or Yeah , perhaps .	new requirements
+A	566.41	Yeah .	new requirements
+C	566.88	Ah okay , so focusing more on the used buttons .	new requirements
+C	570.73	Yeah .	new requirements
+C	580.8	Could you use perhaps uh one button for multiple functions , like example pressing it in longer makes it switch to an different function for example .	new requirements
+D	590.35	Just for the minor functions perhaps .	new requirements
+C	590.39	Thank you .	new requirements
+C	592.16	Yeah , ma perhaps , just just an idea .	new requirements
+D	594.59	Just to get less buttons on the remote control , to make it easier and quicker to learn .	new requirements
+C	599.51	Yeah .	marketing expert presentation
+D	600.32	Yeah ?	marketing expert presentation
+D	602.64	'Kay , that's it .	marketing expert presentation
+A	604.4	Thank you , Tim .	marketing expert presentation
+C	606.17	Uh yeah yeah , I'll go , sure .	industrial designer presentation
+A	606.29	Janus , can you uh Okay , thank you Janus .	industrial designer presentation
+C	624.23	Right uh , I'll be uh explaining a bit about uh working design about uh the project .	industrial designer presentation
+C	631.9	Well uh what I did was I dissected uh uh current remote controls and um I viewed how how they w looked , how they worked , uh what kind of components are involved , and how they are connected together .	industrial designer presentation
+C	646.46	And uh after that I put up a scheme about how uh these things are organised and I'll show it to you in in a in a few seconds .	industrial designer presentation
+C	656.02	And I'll explain a bit about uh how it works and how we could uh build one and why I think several possibilities uh that we discussed in the earlier meeting falls off .	industrial designer presentation
+C	668.85	Um right .	existing products
+C	670.52	Uh well what I did was uh I I checked uh remote controls and the uh remote controls of today are all infrared , not like all probably know .	existing products
+C	678.89	And the thing about that is um the remote controls uh have to act as a T_V_ or uh a stereo or something , and those uh have a transmitter that's also focused on infrared , so if we want to uh build uh mm a remote control uh with Bluetooth for instance then uh the T_V_ should have Bluetooth too in order to communicate , so that would mean extra cost for the user and thus uh that's that wouldn't mean a a cheap uh remote control for us .	existing products
+C	709.29	So that's probably why most controls are still infrared .	existing products
+C	714.1	Furthermore they all have uh a a very simple structure , so that would probably uh mean lower costs and uh i that could mean for us a good thing uh 'cause uh well we we should be able to build a relatively cheap uh a cheap uh remote .	existing products
+C	732.58	Well uh as I mentioned ready , we have some Bluetooth Well it may be possible , but uh I figured it wouldn't be possible in within our budget , but that's not for me to decide , but that's maybe something for marketing to look into .	existing products
+C	744.41	F because uh well my personal opinion is uh is not to do uh Bluetooth or or radio waves , although Yeah , actually I have t Yeah .	existing products how to find when misplaced
+D	753.45	What do you think about uh incorporating Bluetooth or a radio uh receiver uh in the place-holder next to the T_V_ , connected to the T_V_ ?	how to find when misplaced
+D	764.33	So it's in the wrong product .	how to find when misplaced
+C	766.77	Yeah , I actually I figured that would be that would be rather nice , but then you'd still have the uh the infrared function .	how to find when misplaced
+C	773.95	So in in theory you'd actually just move the problem , but uh what I did uh think about was when you mentioned about the uh the cup-holder , is why not uh introduce a speech function like where is the remote .	how to find when misplaced
+D	774.06	Yeah .	how to find when misplaced
+D	777.18	Yeah .	how to find when misplaced
+C	787.03	If somebody says , where is the remote , then it goes uh beep uh beep beep beep or something , I dunno , maybe uh maybe something to look into , I dunno uh what the cost that something like that would be .	how to find when misplaced
+D	791.81	Yeah .	how to find when misplaced
+C	796.19	But it may be uh may be something to explore .	how to find when misplaced
+C	799.17	Uh I'll I'll just explain a bit of the components .	how to find when misplaced
+C	802.46	Uh first you have the energy source .	how to find when misplaced
+C	804.15	The energy source would be a battery , simple uh battery uh that you can find anywhere .	how to find when misplaced
+C	808.51	I figured that would be best , 'cause when the battery uh stops functioning uh we could just uh use you could just go out and buy a new one .	how to find when misplaced
+C	816.05	So we didn't and we don't have to do all uh to be too complicated about that .	components, materials and energy sources
+C	821.43	Uh the energy source is connected to the infrared button , but uh the infrared button uh works only via the chip and the subcomponent to uh the switch there is a switch uh between these .	components, materials and energy sources
+C	834.38	When the switch is pressed in a w on this this case it switches a button , when a button is prush pushed in , uh a electric current goes through here , and in uh immediately , a l a bulb lights up uh displaying to the user that something has happened .	components, materials and energy sources
+C	848.56	That's uh that's so the h user won't be um thinking , well uh did the button be pressed , w what happened uh .	components, materials and energy sources
+C	854.4	Or I press button but nothing's happening on the T_V_ , so is is something wrong or something .	components, materials and energy sources
+C	859.38	So that's just to uh to to explain the of to to uh make it clearer to the user .	components, materials and energy sources
+C	866.3	Uh w well the signal goes via chip that's translated into uh electric sig uh electronic signals and then it's processed and then it's sent to the infrared bulb where it will be uh uh received on the receiving end .	components, materials and energy sources
+C	880.93	And those uh interpreted by the device , well in this case the television .	components, materials and energy sources
+C	885.89	Uh well my personal preferences here , well we have to keep it simple .	components, materials and energy sources
+C	889.61	Not too many uh gadgets and functions , just like you said uh well the most users n uh you have a lot of buttons and you u u use you don't use them , so why why should we invent uh w spend more time on those .	components, materials and energy sources
+C	903.46	Uh I I think we should stick by with infrared transmitting and uh no receiving .	components, materials and energy sources
+C	910.3	So uh no input from the television .	components, materials and energy sources
+C	913.3	So I think we shouldn't be uh spending time on um teletext and st things like that , because when you uh want teletext on uh infrared you'd have to build in a receiver too , and so in order to receive the signals from uh what's on T_V_ and such .	components, materials and energy sources
+C	931.17	So I figure that would be uh spending too much money and time and Yes , but what should we uh s I I I f I agree with you , but should we spend money or and time on building a receiver into the uh remote control ?	components, materials and energy sources
+D	934.77	Um , yeah , maybe another problem uh , I think current T_V_s can even send infrared .	components, materials and energy sources
+D	947.41	Huh .	industrial designer presentation
+D	951.94	Mm-hmm .	industrial designer presentation
+C	952.38	'Cause that would be I mean extra components , extra designs , um larger g uh remote control .	components, materials and energy sources
+D	954.4	Yeah .	industrial designer presentation
+D	958.52	Yeah .	industrial designer presentation
+C	958.84	These all uh all stuff that we have to take in account .	components, materials and energy sources
+C	962.59	So I I my personal opinion is no no no receiver at all .	components, materials and energy sources
+C	966.81	Um , well we should uh look into the design and the functionability .	components, materials and energy sources
+D	966.83	Yeah .	industrial designer presentation
+C	970.39	Like I said , uh use one button for instance for m multiple functions , or well uh just hide the few buttons o of switching it open or something , the usual uh stuff .	components, materials and energy sources
+C	981.28	And uh don't overbuild , we shouldn't make a big uh remote control for simple functions , but we we should stick to the basics .	components, materials and energy sources
+C	989.86	So that was my uh my personal opinion .	industrial designer presentation
+C	993.08	And that was my uh my presentation uh Yeah , but Yeah .	industrial designer presentation components, materials and energy sources
+B	996.23	Okay .	industrial designer presentation
+B	997.6	Yes , I can go ahead .	interface specialist presentation
+A	998.32	You do ?	interface specialist presentation
+A	999.17	The last presentation .	interface specialist presentation
+B	1000.08	Last presentation .	interface specialist presentation
+A	1000.32	You have plenty of time , Tim and uh Janus don't uh talk to ten minutes , so uh take your time .	interface specialist presentation
+B	1001.51	Okay .	interface specialist presentation
+A	1008.87	If you take your time too long I will uh eventually uh warn you .	interface specialist presentation
+B	1020.06	Well , I'm going to give a presentation abut some of the technical functions of these design and uh usability functions .	interface specialist presentation
+B	1029.42	Um what's my opinion about what's most important to combine the design , technical possibilities and the user friendliness in one , so if you um going to design a remote that looks good , that shouldn't weigh over the uh if it's possible to make , of course , but also the user friendliness , so tha that's that's some of the main points .	components, materials and energy sources
+B	1053.96	And another one is um the use um of many functions will will make it more difficult , so use as as little functions as possible or at least don't display them all at once on the same remote .	components, materials and energy sources
+B	1068.03	If you have fifty functions you don't want fifty buttons uh t uh to be shown at the same time , 'cause when you visit an internet uh site you don't want fifty links uh to see , but maybe use a hierarch hierarchy uh structure .	components, materials and energy sources
+D	1069.3	Hmm .	components, materials and energy sources
+B	1083.74	And uh well one of the ideas was maybe uh use touch screen , but s I don't know in how far that is possible , since we are sticking to uh um infrared and and the remote cannot receive anything , but uh we might uh consider that .	components, materials and energy sources
+D	1088.82	Hmm .	components, materials and energy sources
+B	1099.78	Um well , of course I I hope this is all clear to you .	components, materials and energy sources
+B	1104.05	If you you can use remote like this with all the functions , many functions , but Well , your thumb is a little bigger than th it than this .	components, materials and energy sources
+B	1113.52	You have to be very careful what you push , and um if you're looking for teletext you'll be uh searching for half an hour from uh um yeah well , where is it ?	components, materials and energy sources
+B	1123.82	Where the hell he here I guess and , yeah , when you have to uh use something else .	components, materials and energy sources
+B	1131.12	So just keep it simple , make clear buttons , easy to use .	components, materials and energy sources
+B	1134.85	For example if you want to use a play and back and stop , that's very important .	components, materials and energy sources
+B	1143.41	Um well this was because of our last discussion , if multiple machines are used , create easy switch between the machines , but um it's no longer uh applying .	components, materials and energy sources
+B	1154.8	Well yeah , I prefer to use it only for T_V_ and um n uh not to give too many options and and if possible , uh the buttons should give a dr direct action , not first select Yeah , and so that's where the difficulties lie .	components, materials and energy sources
+A	1170.45	Uh you you just said um uh you wanted to to combine more functions in one , so uh you you want to keep it simple , but I think that if you want to do that , then you can't escape the the fact that there will be buttons uh which give s uh more options than one .	components, materials and energy sources
+B	1190.05	Yeah , this so that's the thing you have to weigh against each other .	components, materials and energy sources
+C	1190.8	Yeah , but Yeah , but Well you d you have to keep in mind that uh several T_V_s uh don't even have a menu structure , or they have a very simple menu structure , so you have to keep in mind that not all uh d not our remote won't be able to work on all televisions .	components, materials and energy sources
+B	1193.34	Do we want to use a few options and might not be so or original , or uh multi-purpose as we thought , or do we want to use um many buttons .	components, materials and energy sources
+A	1198.11	Mm-hmm .	components, materials and energy sources
+A	1200.45	Okay .	components, materials and energy sources
+A	1204.03	Yeah .	components, materials and energy sources
+B	1204.05	So um weighing those factors .	components, materials and energy sources
+D	1207.35	Hmm it's maybe an option uh if you use an L_C_D_ or a touch screen um , that in the middle are the the main keys , like displayed on the Uh yeah .	components, materials and energy sources
+B	1222.72	The doesn't .	components, materials and energy sources
+D	1224.69	Yeah , this ?	components, materials and energy sources
+D	1225.65	No ?	components, materials and energy sources
+D	1226.13	Yeah .	components, materials and energy sources
+D	1226.62	Something like that .	components, materials and energy sources
+D	1227.76	Okay , just uh in the middle the general functions , like play , uh channel switching , and then uh at the top or at the bottom , some menus like uh settings or that you can drop down .	components, materials and energy sources
+B	1235.03	Yeah .	components, materials and energy sources
+B	1242.96	Yeah , but when all the questions I had Do we want to use uh a menu display on the T_V_ ?	components, materials and energy sources
+B	1248.41	Or um does have to f everything uh be in remotes ?	components, materials and energy sources
+B	1252.47	'Cause if you use a memory display on the T_V_ , you can simply push uh a more menu and then select the options you want to have and press okay .	components, materials and energy sources
+D	1252.99	Mm .	components, materials and energy sources
+B	1262.14	Uh so that's my recommendation , if you use many options in one buttle button , um display the menu on the T_V_ and don't um use combination of t of two buttons at the same time or pressing buttons three times for five seconds , is too complicated for most users .	components, materials and energy sources
+D	1263.76	Nah .	components, materials and energy sources
+D	1266.68	Mm-hmm .	components, materials and energy sources
+D	1269.71	Yeah .	components, materials and energy sources
+D	1277.22	Yeah .	components, materials and energy sources
+D	1279.09	I think so too , but and that's partly because um uh a lot of T_V_s have different menus , and when you have a particular menu uh at your device , uh it could be that don't correspond to the menu what's actually on T_V_ .	components, materials and energy sources
+B	1298.29	Yeah , that will be a problem .	components, materials and energy sources
+D	1299.86	Yeah .	components, materials and energy sources
+B	1315.3	Yes .	components, materials and energy sources
+C	1315.67	And that would be uh a considerable problem .	components, materials and energy sources
+B	1316.96	So if we have to stick with current technologies and uh um well yeah , the restrictions of what's uh is on the market today , um you should keep it s at this .	components, materials and energy sources
+C	1328.6	Yeah .	components, materials and energy sources
+B	1331.7	Use big clear buttons .	components, materials and energy sources
+B	1333.74	Not too many .	components, materials and energy sources
+B	1336.07	So maybe we'll loose a few option uh options , but I think i this is more important .	components, materials and energy sources
+B	1341.54	Um especially the important buttons , um if you want to switch channel , change your volume , uh use teletext , it uh it has to work at once and more advanced options may be put it s somewhere away on the remote , behind uh a little uh little thing or a touch screen .	components, materials and energy sources
+C	1354.78	Not embed Yeah , but then with something like a touch screen could could make more menu up pop up or something .	components, materials and energy sources
+B	1361.83	And yeah , if you want to uh uh s put on stand-by or change the channel , that should always be possible to do .	components, materials and energy sources
+B	1369.01	Not first change menu options or switch something .	components, materials and energy sources
+C	1370.92	Yeah .	components, materials and energy sources
+B	1373.06	Um , well yeah , as you already told , give some feedback .	components, materials and energy sources
+C	1376.25	Yeah .	components, materials and energy sources
+B	1376.68	If the user is pushing a button he should know if the television or n at least remote is reacting and not just that the batteries may be low .	components, materials and energy sources
+B	1385.24	And um , well , my conclusion is uh is uh less is more , keep it simple .	components, materials and energy sources
+B	1392.04	So uh maybe we should just ease down on the functionality to uh to keep it accessible on t because you all know , if there are a lot of function on the the television , some you you'll never know uh and never use , and therefore it's uh important if you want to change the volume or channel that is always accessible and easy and other functions um that are not so important um well you we should consider just not using them or at least putting them somewhere on the remote where they're not in the way for the for the most important functions .	components, materials and energy sources
+D	1407.25	Yeah .	discussion
+D	1429.07	Yeah .	discussion
+D	1429.76	Uh , I think the idea uh about uh touch screen um is very good .	discussion
+D	1437.92	Um , because recently uh I saw news item on T_V_ um about uh new telephones uh for elder people .	discussion
+D	1450.27	Um , they have like a touch screen with uh really big pictures on it like uh uh call uh hang-up , um and that's a big ad advantage I think , because one the one hand uh you make the remote control compatible for elder users just by uh scaling up the pictures or something .	discussion
+A	1479.89	Mm-hmm .	discussion
+D	1480.12	It's uh very visual intended .	discussion
+D	1488.69	What was I to say more ?	discussion
+B	1490.48	Maybe that's an option .	discussion
+B	1492.1	Um keep the primary buttons visible .	discussion
+D	1494.76	Yeah .	discussion
+B	1495.16	Uh make a remote that fits easily in the hands and for some design issues uh well , put a logo on it and maybe use it uh in some aesthetic uh aesthetic form .	discussion
+B	1505.51	But uh th the important buttons m make them always accessible and pushable and clear and maybe use a touch screen , or if that's uh will become too difficult just uh like televi some o older telephones use a l uh maybe it's possible to to flip them open and uh just expand the number of options that are normally visible .	discussion
+D	1532.19	Yeah okay , but but if you pick the the idea , the left idea then what's gonna be displayed on the touch screen ?	discussion
+B	1532.54	Um Yeah .	discussion
+C	1540.56	The extra functions .	discussion
+B	1541.6	The extra functions , you uh you just see a menu from system functions or teletext functions , and you just choose one , and then all all the options will become available and you just c s yeah t scroll through them .	discussion
+D	1542.47	Yeah , but l like menu functions or Ah okay .	discussion
+C	1544.97	Yeah .	discussion
+C	1555.87	Wouldn't it be better to make just one big touch screen , uh one one small uh touch screen uh applet and uh I'll just make um uh let's say fifteen buttons on it , and uh we have three of those , uh actually just uh menus with sub-menus , with or sub-items , sub-functions .	discussion
+D	1558.68	Yeah , I think so .	discussion
+D	1573.94	Yeah .	discussion
+B	1574.05	Well um then I'd like to make a proposal .	discussion
+B	1581.14	If you make one big touch screen , use the same concept as here , keep the buttons always available and use the lower part of the touch screen for the rest .	discussion
+C	1583.09	Yes .	discussion
+C	1586.59	Yeah .	discussion
+D	1587.9	Yeah .	discussion
+C	1592.52	Yeah , yeah , like like the iPod idea that that we just saw .	discussion
+D	1592.58	Yeah .	discussion
+B	1595.19	Yeah .	discussion
+C	1596.64	You just have a f a few selected buttons and uh a few menus , and with this idea you could actually make uh several you can also improve uh later on .	discussion
+B	1607.93	Yes .	discussion
+C	1610.46	Uh uh I think that will be great .	discussion
+B	1612.82	Okay .	discussion
+A	1613.32	So you think it's will be better to have a t kinda total touch screen .	discussion
+D	1617.47	Yeah , I think so .	discussion
+C	1618.26	Yeah , I wou I would actually go for the Yeah .	discussion
+A	1619.72	Jirun ?	discussion
+B	1620.08	Okay , I agree , but I think it's very important that they always um make the same buttons accessible , so use just for special options a part of the touch screen .	discussion
+D	1631.21	Yeah , of course .	discussion
+A	1631.53	Yeah .	discussion
+B	1632.27	And so um an elder designer picks up th the of an elder parents or grandparent picks up the remote from the little child and who's all in the systems functions , you'll have to have the possibility to turn off the T_V_ or to switch the channel without um well using all the menu structures to get back to the primary functions .	discussion
+A	1638.02	Yeah yeah yeah .	discussion
+A	1653.79	Yeah .	discussion
+D	1654.61	Yeah , I had another uh idea about maybe parental control .	discussion
+B	1660.18	Mm-hmm .	discussion
+D	1660.79	Um , like building in uh some kind of PIN code uh which allows uh parents to switch to all channels , uh but children uh if children don't don't know the PIN code , they can't switch to uh violent uh channels or Th there's just Ju just a simple log-in , something like that .	discussion
+B	1670.34	Yeah .	discussion
+B	1675.77	Yeah wh Is that possible to use or no ?	discussion
+C	1679.41	That is possible , that well that actually depends on the television , but I think I figure that would be Well , y you s you see the fi uh thing is when you buy a remote , you you set the uh channels , the the channels are different on each te television , they aren't set in a preset order , so uh if you uh lock on a remote , uh let's say channel fifteen , well channel fifteen on this television is different than channel fifteen on the other television , so that would be uh that would be actually the main concern .	discussion
+B	1682.73	Well , yeah well , does it have to depend on the television ?	discussion
+A	1687.24	Yeah .	discussion
+D	1693.62	Yeah .	discussion
+D	1696.84	Yeah .	discussion
+D	1702.76	Mm-hmm .	discussion
+D	1706.34	Yeah , okay .	discussion
+A	1708.57	Yeah .	discussion
+B	1709.3	Well , I think that he means that um maybe by some option uh make sure that um remote control and the T_V_ match , and then after that you can um use some s insert some passwords as being apparent that the children cannot use this uh change the settings of the T_V_ , like colour and then volume and uh Mm-hmm .	discussion
+A	1709.95	Yeah .	discussion
+D	1727.11	Yeah .	discussion
+D	1731.49	Yeah , th that kind of stuff , but maybe um if you log in first as a parent um , you address the the channels and like uh oh , that's channel fifteen , that's uh vi violent channel , uh m my ki my kids uh I don't want my kids to watch that , then you set the priority to only parents , for example .	discussion
+C	1740.68	Yes .	discussion
+B	1746.8	Oh , something like that .	discussion
+C	1746.92	Yes .	discussion
+C	1750.42	Yeah .	discussion
+C	1754.28	Yeah .	discussion
+A	1754.63	Okay , yeah .	discussion
+B	1755.31	Well b but make it a separate option in the menu , so that it's it's dif dis displayed from uh displayed here , so uh parents uh Yeah , you can de display it on the on the old style .	discussion
+C	1755.38	Yeah , that would b Yeah , that .	discussion
+D	1757.03	But Yeah okay , but but yeah , that's just that's an a an added feature .	discussion
+A	1764.93	Yeah .	discussion
+A	1765.72	Okay .	discussion
+A	1766.46	But let's not uh go too wide about the those things , that's that why we're here .	discussion
+D	1770.03	Yeah , th th those things are nice .	discussion
+A	1771.22	It's it's a nice idea , but I think that's we wel later in the stage .	discussion
+A	1775.29	I've one little question about um a total touch screen or uh um a p yeah , a partial , uh because I think uh elderly people may be uh not used to uh a touch screen , so they want the the the normal functions like teletext , volume changing , um uh to be uh , yeah , kinda traditionals uh and uh the the the the other functions , the more difficult functions uh to be uh maybe on the touch screen , but to keep this as uh normal as possible , to keep it accessible .	discussion
+D	1781.09	Partial .	discussion
+D	1793.61	Yeah .	discussion
+D	1802.42	Mm-hmm .	discussion
+D	1810.45	Yeah , but but if you display it on L_C_D_ screen with r r really big numbers that's just as e just as easy .	discussion
+C	1818.58	Uh .	discussion
+C	1819.21	I I do Uh I do agree , because well , it's just not the same when you touch a touch screen or when you touch a button , but well we have to look at what's our target uh audience .	discussion
+B	1819.24	You can display actual buttons on the touch screens .	discussion
+A	1819.78	Yeah .	discussion
+A	1820.98	Yeah , that's true , that's true .	discussion
+D	1821.55	Yeah .	discussion
+B	1825.63	Yeah , okay .	discussion
+D	1826.48	Yeah , it's different .	discussion
+C	1830.49	W we are aiming for younger people and they they chose So that's that's probably uh a But they Well they uh they all have to be programmed to fit your T_V_ and that that is bit of a tricky job .	discussion
+A	1830.61	Yeah .	discussion
+A	1832.92	Yeah , that's true , yeah .	discussion
+D	1833.0	Yeah , age b below forty .	discussion
+A	1835.46	Yeah , yeah yeah , yeah , that's a good point .	discussion
+A	1838.06	Yep .	discussion
+D	1838.58	And th those young people , yeah .	discussion
+D	1840.47	Y you saw it in my marketing report , they like the new fancy stuff , so A touch screen , like Microsoft al already developed something like that for uh uh multi-media applications .	discussion
+A	1840.77	Mm-hmm .	discussion
+A	1843.91	They like the fancy stuff , yeah .	discussion
+A	1845.84	That's true .	discussion
+A	1849.66	Mm-hmm .	discussion
+A	1857.21	Mm Yeah .	discussion
+D	1857.21	I th I think we can do that too .	discussion
+A	1861.51	Okay , as you can see uh the minutes from the second meeting , this one , are uh are done .	discussion
+D	1867.21	Done .	discussion
+A	1871.77	Uh I've uh added the this uh four things from the management board just to keep in mind .	discussion
+B	1876.97	Mm-hmm .	discussion
+A	1877.55	Um each time I uh I had a sort of uh summary on what you told and uh what you personal think .	discussion
+A	1886.56	Uh so that can be uh can be read out .	discussion
+A	1889.77	Uh a f a few things I uh I noticed uh were um Moment .	discussion
+A	1898.48	Ooh .	discussion
+A	1912.65	Uh th the the main points in uh this uh uh in this uh meeting is I think uh how uh it's going to look uh with uh we must keep it simple , but have the opportunity to uh have more options and have them uh hidden or something , so they don't uh you don't have a big uh thing full of uh buttons or uh um and uh the point that uh you uh wanna use one uh controller uh for uh uh hypothetically each television , so you must uh the the the the functions , know , like the menus or the the parental control must be all uh by the done by the remote control and not by the television .	discussion
+A	1960.01	I think that's the point what uh we discussed .	discussion
+B	1961.41	Mm-hmm .	discussion
+B	1962.63	Yes .	discussion
+D	1962.9	Yeah , yeah , some of them .	discussion
+D	1965.06	The menus uh are not identical for all th for all T_V_s , so you have to display it on one uh T_V_ .	discussion
+B	1970.65	Well you can use um when you uh how do you call it , s um synchronized , the um remote and the T_V_ , then there's always , there are always uh possibilities to change the colour and the brightness and the volume and um well maybe we can look out if there's options that the remote um in its memory can see what kinda T_V_ it is , from ah , it's a Philips , this and this and that , and then give the options that are capable the capable from the t Well there are universal d um um remotes and they all have a functionality for all the T_V_s , uh so this wouldn't be a extra feature to incorporate the men menus of these .	discussion
+D	1979.27	Yeah , but that's not possible .	discussion
+D	1985.4	Mm-hmm , mm yeah .	discussion
+A	2000.15	Yeah , but you have uh uh an yeah , but you have an international market range , so you have I think a big range of Yeah .	discussion
+D	2000.77	Add th that that's an opportunity .	discussion
+D	2014.42	Yeah .	discussion
+A	2014.63	Okay .	discussion
+D	2016.42	But No .	discussion
+A	2017.5	And it's not too complex to do it .	discussion
+A	2023.62	Yeah .	discussion
+B	2026.13	Yeah .	discussion
+C	2026.16	I actually use one of those when They are they are kinda kinda troublesome , but but the thing is whe when you uh start uh building something like this you have to build a receiver into the uh t into the remotes , because uh in order for the remote to process something from the T_V_ , like uh to synchronise and you have to send and receive , and that's well Yeah .	discussion
+B	2043.26	Yeah .	discussion
+B	2044.07	Well Yeah .	discussion
+B	2046.88	Mm-hmm .	discussion
+B	2047.83	Oh um mo no , you can just say uh the c Yeah .	discussion
+D	2048.63	No no no .	discussion
+A	2050.34	Just build it in .	discussion
+D	2050.36	He he he he me he means just just one other thing .	discussion
+D	2053.9	Uh , with the current remote controls , the universal ones , um you have to press yeah , you have to press a code for T_V_ .	discussion
+C	2058.5	Yes .	discussion
+B	2061.51	In codes , y you you get a b a book with codes .	discussion
+B	2064.56	You look up , I have a Philips H_ fifty five and it says press code four five five and you press code four five five on the uh in the remote and it displays all your uh menu options .	discussion
+C	2066.8	Yeah .	discussion
+D	2067.3	Yeah .	discussion
+C	2068.31	Oh , okay , yeah , sure , uh Yeah yeah yeah .	discussion
+C	2074.56	Oh , yeah yeah , sure , that would be possible , yeah .	discussion
+D	2076.23	Yeah .	discussion
+D	2077.5	Now we uh just connect uh the T_V_ type uh to a set of options , in just just in the memory , so that if you yeah , like profile , so that if you uh touch in like uh one four one zero kind of T_V_ uh the memory uh pops up the options .	discussion
+B	2083.91	Memory in the in the remote .	discussion
+A	2085.31	Yep .	discussion
+C	2086.69	Profiles .	discussion
+C	2094.1	Yeah .	discussion
+C	2103.02	Yeah .	discussion
+C	2103.49	Yeah , that would be possible .	discussion
+A	2103.59	Okay .	discussion
+C	2104.78	Yeah , sure .	discussion
+D	2105.7	I th don't think that's uh that takes a lot of storage space or some just varia variables .	discussion
+C	2109.87	No , that wouldn't be uh Yeah , a few variables .	discussion
+B	2112.46	Yeah , well um if you look at the um manuals from universal uh remotes , there are maybe um three four hundreds T_V_s at maximum .	discussion
+D	2119.18	Mm-hmm .	discussion
+D	2122.96	Yeah .	discussion
+C	2123.08	Yeah .	discussion
+B	2124.03	If you have all of them , all the old and new T_V_s summed up , so uh I think uh it is possible .	discussion
+C	2130.51	Ah it is .	discussion
+C	2131.11	It is definitely po Yeah , firmware upgrade .	discussion
+D	2131.16	But , on the other hand on the other hand , uh if you have a remote and buy a new T_V_ that isn't incorporated in the remote New remote ?	discussion
+A	2132.71	We have five minutes to go .	discussion
+B	2137.45	Yeah .	discussion
+B	2141.4	Well then you have to buy a new one , it's very good for marketing Maybe , or an update , software update .	discussion
+D	2147.13	A firmware upgrade or something , but from where ?	discussion
+B	2148.4	Firmware update , you say .	discussion
+D	2151.56	Ah .	discussion
+D	2152.99	Maybe w No m may no , maybe we can incorporate some kind of uh U_S_B_ or a firewire connection , so that you can uh connect it to the P_C_ and download the newest firmware from uh from the internet .	discussion
+C	2153.59	That's maybe the cup holder .	discussion
+B	2155.6	Yeah .	discussion
+C	2155.91	Yeah .	discussion
+C	2166.98	Well , not everybody has uh has uh a P_C_ at home .	discussion
+C	2170.04	Well the most most people have , but not not everybody and Yeah .	discussion
+B	2171.72	Well , at uh you can go back to the shop and uh they Yeah , ser o and they can download it for you .	discussion
+D	2174.5	Yeah , like a s kind of service centre .	discussion
+C	2177.19	Yeah , maybe something like service cen Or you could well you could s actually look at the place-holder you talked about earlier , and you could probably uh make a connection to uh an telephone line or a internet connection .	discussion
+D	2178.23	Yeah .	discussion
+B	2183.24	Mm-hmm .	discussion
+B	2187.73	Yeah .	discussion
+B	2188.25	Well already digital information is sent t to the the standards , T_V_ uh connections , you can see what's uh programme is on on the new uh channels , so maybe j they we can send that information along with standard T_V_ uh Receiving .	discussion
+C	2193.69	Yeah .	discussion
+C	2203.08	Well then then it's be uh back to the building a receiving uh well uh if it's actually worth it to build it in , we could actually look at into it , but I dunno , it it would be uh bringing more costs uh with with it and Yeah , that would be probably best , yeah .	discussion
+B	2207.51	Oh yeah .	discussion
+D	2208.07	Yeah .	discussion
+B	2212.29	Yeah .	discussion
+B	2215.32	Difficult .	discussion
+B	2218.2	Yeah .	discussion
+D	2218.65	I I think it's uh most cheap or cheapest to just do the updates uh at the service centre or at the shop .	discussion
+B	2226.8	Yeah yeah , uh s I think some I think it's good idea , yeah .	discussion
+A	2228.47	Yeah .	discussion
+C	2229.6	Like when you when you buy a T_V_ you just ask well I'll Yeah .	discussion
+D	2231.43	It's it's it's not a lot of work , just one uh docking station where you put it in , press start , bling bling , updated .	discussion
+C	2239.13	Yeah , that would be best , yeah .	discussion
+B	2240.0	Yeah .	discussion
+D	2240.13	Yeah .	discussion
+B	2240.64	Yeah .	discussion
+D	2240.87	You don't buy a T_V_ every week , new teev so .	discussion
+B	2242.21	Okay , let's uh save this in the meanwhile uh Um m for which one are we going ?	discussion
+C	2242.6	No no .	discussion
+C	2243.61	Exactly , so Yeah , my vote goes out to the right .	discussion
+B	2261.19	My mistake .	discussion
+D	2261.65	Let's vote .	discussion
+B	2263.36	That one or uh Your vote and your Okay .	discussion
+D	2268.18	My vote too .	discussion
+A	2269.41	Yeah .	discussion
+D	2271.14	And your vote ?	discussion
+B	2272.13	Well , I was uh doubting about which one to take , but uh you've convinced me that uh if you di display buttons about the same as they would look on a normal um remote all elderly people will know what to do .	discussion
+D	2279.81	Yeah .	discussion
+A	2282.76	Yeah .	discussion
+D	2286.67	And also like a clapping uh li like device that uh pops open .	discussion
+B	2292.76	Opens up is too difficult or uh Break it , I don't get Oh so Yeah .	discussion
+C	2293.16	Flips open .	discussion
+D	2295.08	Uh too difficult , um maybe uh it's easier to break it .	discussion
+A	2300.24	N yeah .	discussion
+D	2302.39	Yeah , th th th that i uh Yeah .	discussion
+A	2307.79	It's very sensitive .	discussion
+D	2310.56	Like my telephone , it's uh it's sensitive too .	discussion
+A	2313.12	Yeah .	discussion
+B	2313.51	Yeah .	discussion
+A	2315.36	Okay well uh it's almost at the end .	closing
+A	2317.4	So we have now a lunch break , finally , yeah .	closing
+D	2319.46	Ah .	closing
+A	2321.51	Uh after the lunch break uh it's back to uh individual work , once again uh thirty minutes .	closing
+A	2328.27	Uh I will put my minutes uh I have updated them so uh s they're updated in the shared folder too .	closing
+D	2333.86	Thirty minutes ?	closing
+A	2335.36	Thirty minutes , the Failure .	closing
+D	2336.61	How minutes ?	closing
+A	2341.16	Uh uh the specifi uh specific instructions for the next uh meeting you will all will receive uh at the uh the the email .	closing
+A	2350.98	I don't think I can uh say much about it , so uh uh wait for your email and uh hopefully you get it done uh in the in the thirty minutes , and I w will see you after the lunch break and the thirty minutes .	closing
+D	2363.27	One question , uh how late do we have to get back be back here ?	closing
+A	2363.97	Yeah ?	closing
+A	2369.4	Uh well uh thirty minutes .	closing
+B	2373.95	A quarter to one maybe ?	closing
+A	2374.7	Uh , yeah .	closing
+D	2375.76	Thirty minutes lunch break ?	closing
+A	2377.2	Thirty minutes lunch break , yeah .	closing
+B	2379.17	Okay .	closing
+D	2379.56	I thought forty five .	closing
+A	2379.63	Oh .	closing
+A	2381.03	Forty five ?	closing
+D	2381.6	Yeah .	closing
+A	2381.99	Uh then would it be uh one o'clock .	closing
+D	2383.83	Yeah .	closing
+A	2384.47	Or we we ask our personal coach .	closing
+D	2384.81	Okay .	closing
+D	2386.44	Yeah .	closing
+A	2386.88	Okay .	closing
+A	2388.18	Thank you .	closing
+A	2388.94	Thank you , uh that was a very uh good session I think , we uh we Uh ye well Yeah , because uh all uh things are uh stored in smart board dot uh X_D_K_ and that's in No .	closing
+B	2391.74	Yeah , is it possible to store this on the share documents or what 'Kay , save it as an image on the res No , and use an image if possible .	closing
+D	2393.37	Yeah , me too .	closing
+D	2396.12	Save as .	closing
+D	2402.36	Yeah , v But but you can open a from your pr from your laptop .	closing
+D	2407.84	Yeah , maybe .	closing
+D	2408.76	Save as .	closing
+C	2413.7	Export .	closing
+D	2413.8	No .	closing
+C	2414.63	Maybe not export function .	closing
+D	2415.64	Export .	closing
+A	2417.44	Well I can I can uh You all uh have the the questionnaire again about uh the after work .	closing
+D	2417.79	Export H_T_M_L_ .	closing
+D	2422.83	Huh , image ?	closing
+B	2423.94	J_ PEG .	closing
+C	2425.07	G_ yeah , J_ PEG .	closing
+B	2426.32	J_ PEG .	closing
+B	2427.34	Yeah , it's better Yeah .	closing
+D	2428.61	Paper size A_ four .	closing
+D	2430.94	Uh screen size .	closing
+D	2432.81	In this directory .	closing
+C	2437.79	N oh .	closing
+B	2438.73	Oh yeah , it's not connected to the to our P_C_s .	closing
+D	2443.2	No ?	closing
+D	2445.65	Yeah , it is connected .	closing
+B	2446.96	It's connected ?	closing
+D	2447.73	Yeah , I think so .	closing
+C	2450.02	To room .	closing
+A	2450.09	Deskt Huh .	closing
+A	2451.9	No .	closing
+C	2452.65	I'll just uh saved in my documents .	closing
+D	2455.81	Oh .	closing
+C	2456.66	Yeah in my own uh in my own messenger .	closing
+B	2461.68	Yeah .	closing
+A	2463.48	Project documents , yeah .	closing
+C	2464.53	Yeah .	closing
+B	2465.33	It gives the na Oh .	closing
+B	2469.6	Yes .	closing
+C	2470.07	Okay , nice .	closing
+A	2470.3	Okay , thank you .	closing
+B	2471.98	The questionnaire , fill in uh we fill out d after lunch or uh Okay .	closing
+A	2475.34	Uh well , it's it's simply filling oh no , it's uh it's also filling out no , I'd do it after lunch I think .	closing
+A	2482.73	I'm hungry , so do it after lunch .	closing
+C	2483.89	Aye , cheers .	closing
+B	2484.69	Yes .	closing
+A	2485.31	Thank you all .	closing
+D	2486.96	Thank you .	closing
+A	2488.23	You're welcome .	closing
+B	2488.87	We can leave the P_C_ on I think , yeah and return to the Yeah , bring to I gotta bring it home .	closing
+D	2491.28	Yeah , of course .	closing
+A	2491.81	Yeah .	closing
+A	2492.73	Well I bring it to my uh personal room .	closing
+D	2495.57	To my exave executive Aye .	closing
+A	2497.52	My executive uh big room with the with the panting .	closing
+B	2500.08	A big office .	closing
+B	2519.68	Yes .	closing
+D	2533.72	Yeah .	closing
+D	2539.16	Okay .	closing

@@ -1,0 +1,538 @@
+A	25.59	So I hope you're ready for this uh functional design meeting .	opening
+D	27.19	So Of course .	opening
+A	35.75	Um so I will take the minutes you mm you three are going to do presentation .	opening
+A	44.37	Um uh we want to know to at the end to know the new project's requirement so we need uh to know the the user uh needs that we want to fulfil to fulfil the from the technical part we want to know how it going to work and um third part uh I don't remember which is not very good .	opening
+A	80.74	Ah of course , how to to design this uh this yeah .	opening
+D	85.31	Nice stuff Who starts ?	opening
+A	88.85	So um let's go for the three presentations , so first um Marketing Expert .	opening
+D	95.96	Oh .	opening
+D	96.92	Ha .	opening
+D	97.93	okay .	marketing expert presentation
+A	99.19	So wait a minute .	opening
+D	100.56	So I dunno if I can do that like this ?	agenda/equipment issues
+A	100.68	Mm .	agenda/equipment issues
+D	102.85	Yeah ?	agenda/equipment issues
+D	105.8	So it's being modified .	agenda/equipment issues
+D	108.62	Do you want yeah , open .	agenda/equipment issues
+D	110.93	Read only .	agenda/equipment issues
+D	111.85	I hope I saved it .	agenda/equipment issues
+D	115.36	So , um yeah , this is my name .	agenda/equipment issues
+B	116.03	Sammy Benjo .	agenda/equipment issues
+B	117.89	I know this name uh .	agenda/equipment issues
+A	120.2	Sounds uh Mm uh .	agenda/equipment issues
+B	121.09	We met before .	agenda/equipment issues
+D	121.2	So as you know , you I think you already know me , Sammy Benjo .	marketing expert presentation
+D	124.83	I am the expert in marketing and I want to tell you about what people uh s want and uh like and dislike in remote controls , and I hope this is going to help you to to design it correctly .	marketing expert presentation
+D	138.33	So next please .	marketing expert presentation
+D	140.79	Uh-oh .	agenda/equipment issues
+C	142.53	Yeah , it is put F_ five .	agenda/equipment issues
+A	145.35	Hmm .	agenda/equipment issues
+D	146.02	Hmm .	agenda/equipment issues
+C	146.72	The full page presentation , yep .	agenda/equipment issues
+D	148.6	Yeah maybe in the full page because i I spent lots of time doing this presentation , so .	agenda/equipment issues
+B	149.95	F_ F_ five .	agenda/equipment issues
+A	150.19	Okay .	agenda/equipment issues
+C	150.62	Yeah .	agenda/equipment issues
+C	151.18	Yep .	agenda/equipment issues
+A	152.63	F_ five .	agenda/equipment issues
+C	154.02	Yeah .	agenda/equipment issues
+D	154.06	Uh-huh hmm okay .	agenda/equipment issues
+A	156.26	Mm-hmm .	agenda/equipment issues
+A	157.42	Mm .	agenda/equipment issues
+D	158.7	So basically uh what I suggest is that uh instead of deciding ourself what what could be and what should be a good uh remote control , let's ask people who are users of remote controls how they feel about w the current remote controls , what they like , what they don't like and um and what they do with them by the way because they are supposed to be useful .	marketing expert presentation
+D	181.61	Don't forget about that .	marketing expert presentation
+D	183.14	So we've we've conducted a a survey on on the use of uh remote controls and I'd like to show you some of the results we found on this survey .	marketing expert presentation
+D	196.46	And next please .	marketing expert presentation
+D	198.88	Yeah , so basically what we found was that uh there are several things that the user don't like in remote controls .	marketing expert presentation
+D	210.44	First of all , they find it very ugly .	look and usability
+D	213.8	Current remote controls as you know they're the same as this one uh they're not nice colour , not nice shape , I mean they're all the same , and they're not l good looking .	look and usability
+D	227.8	Um what is interesting is that in fact it seems that they were people are ready to pay for nice and look and fancy looking uh remote control , so I think we should probably spend lots of time in and effort in that um .	look and usability
+D	243.72	And the other thing is that uh the the current remote controls are not so easy to use and it it the the current uh facilities that they offer do not match what people really want to use their remote controls .	look and usability
+D	259.07	For instance uh we see that uh they zap very often so I think this is a very uh important uh functionality that it should be easy for them to to zap uh in one way or another .	look and usability
+D	273.04	And most of the buttons uh on uh current remote controls are not used , so I think we should design something where some of the buttons which are those that are used should be easier to see and use than others that only a couple of people are using .	look and usability
+D	289.88	Um next please .	marketing expert presentation
+D	293.6	Now people are very frustrated w with their remote controls and they for instance uh they don't even find it it's it's often lost somewhere in the in the in your home and nobody knows where it is .	how to find when misplaced
+C	310.16	Yeah .	how to find when misplaced
+D	310.46	Maybe if we have something where we could ask the remote control please , where are you ?	how to find when misplaced
+B	310.91	Agree .	how to find when misplaced
+C	311.97	Yeah .	how to find when misplaced
+D	316.08	Like uh something to to like t I think phones .	how to find when misplaced
+C	316.26	Yeah .	how to find when misplaced
+D	320.11	Some of the phones have some of this kind of s functionality .	how to find when misplaced
+D	324.48	Uh of course phone you can always phone your phone but you can't phone your your remote control .	how to find when misplaced
+C	328.55	You can you are .	how to find when misplaced
+A	329.8	Why not ?	how to find when misplaced
+D	330.51	But why not ?	how to find when misplaced
+D	331.19	Yeah .	how to find when misplaced
+D	333.24	And because of the fact that there are so many buttons in these remote controls that nobody use , in fact they don't even know how to use them , so most of the the people say they they don't know how to they to use properly their r remote controls .	look and usability
+C	338.1	Hmm .	look and usability
+D	347.58	And uh they are bad for R_S_I_ but uh I don't remember what is R_S_I_ .	look and usability
+D	354.52	So I think they are bad .	look and usability
+A	357.31	Okay uh tha that's look great .	look and usability
+B	359.47	R_S_I_ mm-hmm .	look and usability
+D	361.34	Mm-hmm .	look and usability
+D	363.44	Mm nobody has any idea about that ?	look and usability
+D	365.7	Well I'll check uh with my Oh , okay , I think it's a technical thing which our Okay .	look and usability
+C	366.88	Yeah , it's electromagnetic waves or something kind of maybe uh effect .	look and usability
+B	370.2	No , I don't think so .	look and usability
+C	372.85	Yeah , because infrared uses some electromagnetic technology , and those waves have high Uh .	look and usability
+A	375.69	Mm-hmm .	look and usability
+A	376.48	Okay .	look and usability
+B	377.13	Okay .	look and usability
+D	377.54	So , it seems that it's a lot of people for a concept that we don't know but we have to take this into account .	look and usability
+B	378.41	But twenty six percent , do you know Twenty five .	look and usability
+A	382.3	Or something we don't know .	look and usability
+C	384.44	Uh .	look and usability
+B	385.89	Every fourth , you know .	look and usability
+A	386.8	Mm-hmm .	look and usability
+C	387.16	Yeah it's People really Yeah .	look and usability
+B	388.38	Every four some of us knows .	look and usability
+A	391.8	Okay .	look and usability
+D	392.56	So anyway that's for what the biggest frustration uh of the user and um what else do I have ?	look and usability marketing expert presentation
+B	393.18	One of us Mm-hmm .	look and usability user requirements
+C	398.09	Yeah .	look and usability
+D	399.65	Next slide ?	marketing expert presentation
+D	401.95	Ah yeah .	user requirements
+D	403.25	So we've listed a couple of uh s uh functions that may be uh used by u the user in the current uh available uh remote controls and uh well the tables look very nice to read but what is important is to understand that the power button is not used often because in general you use it only once per session , but it is very relevant .	user requirements
+B	405.49	Functions .	user requirements
+D	431.96	People want to have a power button .	user requirements
+D	434.76	Channel selection is uh o often used very often used and indeed uh very relevant .	user requirements
+D	448.88	Ah now I remember what is R_S_I_ it's repetitivity stress injury .	marketing expert presentation
+D	459.83	We have to be careful with that word but uh anyway I continue my presentation so yeah , channel selection is um very important , very often used .	user requirements marketing expert presentation
+C	461.8	Uh .	marketing expert presentation
+D	470.94	Volume is not often used but people uh want to have control on volume and that makes sense of course .	user requirements
+D	478.5	And n then you have things which are very much less often used like the settings .	user requirements
+D	483.04	Audio settings , screen settings , even teletext and channel settings .	user requirements
+D	487.5	All of them .	user requirements
+D	488.51	they're not often used and they are s more or less relevant .	user requirements
+D	491.8	It seems that people find teletext teletext uh relevant , even if I personally never use it but seems that it's average relevant at least , so .	user requirements
+A	501.9	I have been told that we uh don't consider teletext , that it's out of date now because of internet .	user requirements
+D	510.47	I can tell you that uh in a l in a scale between one and ten relevant uh not relevant to relevant people scored a six on this , which is not as uh these these two one were had I think ten I think .	user requirements
+A	523.17	Mm-hmm .	user requirements
+D	523.88	But but if you compare with these ones , uh I think they scored a one or two .	user requirements
+D	528.73	Not very relevant , so if if there are good reason not to put teletext it's okay but just know that people find it somehow relevant .	user requirements
+C	529.03	Hmm .	user requirements
+A	538.23	Mm-hmm Mm-mm .	user requirements
+B	538.36	Mm-hmm .	user requirements
+D	540.36	That's for the main functions I think and uh then we can ask uh ourself uh what people don't have that may be useful .	user requirements
+D	547.68	For instance I think net next slide .	user requirements
+D	552.61	One of the thing the trend uh that uh you are probably aware of is the possibility the eventual possibility of having speech recognition in your remote control , so you wouldn't have to tap tap in your buttons but just tell your remote control or whatever you need you have what you want .	user requirements
+D	570.47	So we've conducted a survey about uh whether people would like or not to have uh this kind of uh functionality in their remote control and as we can see it really depends on the age .	user requirements
+D	582.05	Young people , probably because it's a buzz word , find it very relevant .	user requirements
+D	587.39	And uh as the age goes up the the relevance goes down .	user requirements
+C	593.67	Yeah .	user requirements
+D	594.66	So now it really depends on the kind of uh targeting uh wha who are we targeting with this remote control ?	user requirements
+D	601.35	I think if we are targeting young people then uh it's probably something we have to consider .	user requirements
+C	601.82	'Cause Thank you .	user requirements user target group
+D	605.53	If we are targeting you very old people this is something they really don't know why they this should be so now this is of course , depends on that .	user requirements
+A	613.07	Okay .	user requirements
+D	615.98	And um I don't have any conclusion , I didn't have time the meeting was very tight , so that's basically my findings .	marketing expert presentation
+D	623.52	And uh , if you have any question ?	marketing expert presentation
+A	626.29	Mm I think it's good , okay .	marketing expert presentation
+A	627.96	You done a good review .	marketing expert presentation
+B	629.28	I got one question , uh you are a Market Expert so should we aim at the young people or not ?	user target group
+D	629.31	I can go back .	user target group
+D	630.3	Yeah one question , yeah ?	user target group
+D	633.67	I am .	user target group
+D	636.71	I think we should aim at the young people .	user target group
+D	639.38	But uh I think they are they are those uh who might be more interested in a in a new device .	user target group
+C	646.4	Mm .	user target group
+D	646.51	In general the the early adopters of a new device are young people , less than more than Then teletext is useless for them I think , yeah .	user target group
+B	651.98	Okay , then teletext is used less .	user target group
+C	652.69	Mm .	user target group
+A	654.74	Mm-hmm .	user target group
+B	656.76	Okay .	user target group
+D	657.77	Because they they have other means of finding their information .	user target group
+B	659.96	Mm-hmm .	user target group
+A	660.32	Mm-hmm mm mm .	user target group
+B	660.56	Mm-hmm .	user target group
+D	661.14	Yeah .	user target group
+A	662.24	Okay .	user target group
+D	662.44	But yeah .	user target group
+A	662.83	That's good point .	user target group
+C	663.4	Mm , yep .	user target group
+B	664.05	Mm .	user target group
+B	664.22	Okay .	user target group
+D	664.25	Nope .	user target group
+D	665.44	'Kay ?	user target group
+A	665.54	Okay .	user target group
+C	666.39	Thank you .	marketing expert presentation
+A	671.15	So um now I think it's the turn of the the I'm not sure um Of the technical function , so uh what effect Okay .	agenda/equipment issues
+D	693.51	So I think it's you , huh ?	agenda/equipment issues
+C	694.64	Uh it's techni function of Yeah .	agenda/equipment issues
+D	696.12	No ?	agenda/equipment issues
+B	697.97	That's me .	agenda/equipment issues
+D	698.74	No , user requiremen Makes sense .	interface specialist presentation agenda/equipment issues
+A	704.34	Wait a second .	agenda/equipment issues
+C	705.44	I have to do working design so uh .	agenda/equipment issues
+A	705.78	Argh .	agenda/equipment issues
+A	708.88	So you're Okay .	interface specialist presentation agenda/equipment issues
+B	708.97	That's but this but number three , yes .	agenda/equipment issues
+B	717.0	Mm-hmm .	agenda/equipment issues
+B	722.1	So , my name is Mark Dwight , and um I am responsible for User Interface Design .	interface specialist presentation
+B	729.69	However , uh mm Project Manager asked me to give you some presentation about technical functions design .	interface specialist presentation
+B	738.79	Uh , as I'm a more an artist that's gonna be less technical functions but more User Interface and current intentions and everything which is linked with this .	interface specialist presentation
+B	749.79	So next slide please .	interface specialist presentation
+A	751.32	Let's go .	interface specialist presentation
+B	752.44	And uh a general method which is seems to be very useful for our task is not to forget about uh Occam razor .	interface specialist presentation
+C	755.25	Mm .	interface specialist presentation
+B	761.72	We should never complicate things too much .	interface specialist presentation
+B	764.28	We should only make a remote control , nothing more .	interface specialist presentation
+B	768.07	Nothing more than this , just a remote control .	interface specialist presentation
+B	771.3	'Cause current remote controls they are never easy enough to use .	interface specialist presentation
+B	778.45	So , make a click , please .	interface specialist presentation
+B	782.25	So here is this remote control .	existing products
+B	786.14	It's quite a standard one , but it's not from a T_V_ , it's from a much easier device like air conditioning or something .	existing products
+B	797.78	But you know , we can use it for a T_V_ easily .	existing products
+B	803.32	Only buttons we need is on off , volume , channels and maybe some options or something else , and please make a click , compared to this one which one would you prefer ?	existing products
+C	819.7	It's Yeah , yeah .	existing products
+B	822.23	I guess this .	existing products
+D	822.92	I would say the simplest one as long as there are the uh I find the buttons that I need every time I need a button .	existing products
+B	828.9	Sure , sure .	existing products
+C	829.24	Yeah .	existing products
+C	830.58	Maybe it can be yeah middle of like , between those two li S you should yeah .	existing products interface specialist presentation
+B	832.68	Yeah , and our method is going to be , provide simple simple desires into simple actions .	interface specialist presentation
+A	837.58	Oh sorry .	interface specialist presentation
+D	842.86	Nice .	interface specialist presentation
+D	843.8	Nice sentence .	interface specialist presentation
+B	847.73	Findings .	interface specialist presentation
+A	849.33	Okay .	interface specialist presentation
+A	850.02	Oh sorry .	interface specialist presentation
+B	850.93	Our question of the style , we should remember that our company puts fashion into electronics and we should never forget about it .	interface specialist presentation
+B	868.48	Concept .	interface specialist presentation
+B	870.86	Be simple .	interface specialist presentation
+B	872.79	Be simple and you'll lean on this market .	interface specialist presentation
+B	875.94	Market is a of remote controls you know it better , it's very well , it's it's not an easy field to to play , you know ?	interface specialist presentation
+D	878.78	Mm .	interface specialist presentation
+B	889.48	So be simple .	interface specialist presentation
+B	893.25	For personal preferences I think that to make a baby-proof remote control it got to be a titanium .	components, materials and energy sources
+B	902.72	It's a really good style , it going to be look like like this .	components, materials and energy sources
+B	909.01	It is unbreakable and it is very universal .	components, materials and energy sources
+B	916.01	W we'll have a screen with a back light which can change colours , and we can put all the options into this screen .	components, materials and energy sources
+D	920.72	Mm-hmm .	components, materials and energy sources
+B	924.96	We'll need only few buttons .	components, materials and energy sources
+B	926.92	All the other things can be controlled through the screen .	components, materials and energy sources
+B	933.44	And all these buttons should be easy to find and to click , 'cause when you watch a movie and you want to change something , you always try to find a good button and click it , but you should do it by touching it and finding it easily just by touch .	look and usability
+B	949.45	So Press I would propose this concept for design , just few buttons , a screen with a back light which can change colours , titanium I think , and uh what else ?	look and usability
+C	960.71	Mm .	look and usability
+B	970.59	I got just very few and good ideas .	look and usability
+B	974.38	We need power and volume .	look and usability
+B	977.49	And let us include two nice features into this device , first , power on and off can be made fully automatic .	look and usability
+B	986.58	When you go to the sofa , take your control and point it to the T_V_ , the T_V_ turns on .	look and usability
+A	991.61	It's off .	look and usability
+D	991.75	Hmm .	look and usability
+A	992.47	It's on .	look and usability
+D	995.31	And when does it turn off ?	look and usability
+B	997.56	When you don't touch the control but you go out of the For for enough time like uh you It's a question to our technical design , our two engineers .	look and usability
+D	1001.23	Oh so you have a sensing sensor machine that uh knows Tech Mm-hmm .	look and usability
+B	1012.38	And another nice feature that I would like to implement is uh volume control .	look and usability
+B	1016.87	Suppose you set u you set up some volume and then you move out or you move to the other corner of the room and take your control with you .	look and usability
+B	1028.4	Like , you want to to change the chair or you want to move to the armchair from the sofa or something , and then the volume changes .	look and usability
+A	1034.37	Or you want to go to the kitchen .	look and usability
+B	1038.61	It's easy to do , you just control the According to the distance .	look and usability
+D	1041.01	According to your distance to and the angle maybe , if you have a stereo system .	look and usability
+C	1041.92	Distance .	look and usability
+B	1045.2	Yeah yeah yeah .	look and usability
+D	1047.84	Uh I'm not sure about the screen , wha what is the use usefulness of the screen ?	components, materials and energy sources
+B	1048.22	So I think it can be just a menu which can be controlled with a left , right , up , down and enter .	components, materials and energy sources
+D	1052.39	Uh is it a touch screen by the way ?	components, materials and energy sources
+D	1060.21	So it gives instructions but uh it has to be with an back light somehow .	components, materials and energy sources
+C	1060.69	Yeah .	components, materials and energy sources
+B	1064.96	So , its main purpose in fact is a back light , which change colours , which makes it easier to find , and each can it can respond for your voice , like it can turn on the light for you just to f find it easily , yeah ?	components, materials and energy sources
+C	1069.86	Mm-hmm .	components, materials and energy sources
+D	1070.64	Okay .	components, materials and energy sources
+D	1089.23	Okay .	components, materials and energy sources
+A	1089.42	Mm .	components, materials and energy sources
+B	1090.53	So basically that's it .	components, materials and energy sources
+A	1092.69	Um I see that you target uh several s application not only T_V_ but i like we talk about um universal uh remote control .	look and usability
+B	1102.32	Can be easily done , 'cause you got simple designs , y we should put it to simple actions .	look and usability
+A	1103.2	Yeah .	look and usability
+A	1109.35	Hmm .	look and usability
+B	1109.45	Let it be universal , so you want to use it for your hi-fi system .	look and usability
+B	1114.82	You want to change tracks and you want to adjust volume .	look and usability
+A	1118.55	Mm-hmm .	look and usability
+B	1119.52	Just few actions , a few actions for everything .	look and usability
+C	1119.74	Mm .	look and usability
+A	1122.97	Hmm .	look and usability
+A	1124.04	S Mm .	look and usability
+B	1124.08	All the rest , we sh we'll put it into this menu on the screen .	look and usability
+A	1129.81	Since we were targeting a really soon uh uh date for the the the um i issuing of this uh remote control I think we will only concentrate on T_V_ for the moment and then maybe m make it more generalised yeah .	look and usability
+C	1141.75	Mm .	look and usability
+B	1141.97	Okay , okay .	look and usability
+C	1142.79	Yeah and it mm .	look and usability
+B	1144.18	Okay , but it's quite universal you know .	look and usability
+C	1145.56	Mm .	look and usability
+B	1146.98	We can just extend it to any device .	look and usability
+C	1148.22	Mm .	look and usability
+D	1148.3	So for instance if I want to go to directly to channel twenty five , how would I do can I do that with this ?	look and usability
+B	1154.56	Uh twenty five .	look and usability
+D	1155.68	Yeah mm let's say I am uh on channel eight now .	look and usability
+D	1157.79	You know these days we have hundreds of channels , that's not so easy to go just next next next when you have hundreds of channels .	look and usability
+B	1160.58	Mm-hmm .	look and usability
+B	1165.09	In fact I would propose another solution .	look and usability
+D	1165.25	Or is it ?	look and usability
+B	1167.42	Basically you use just four or five channels , right ?	look and usability
+D	1170.61	Most people yeah .	look and usability
+B	1171.62	Yeah .	look and usability
+B	1172.29	So uh set up your T_V_ set like channels that you use they're one , two , three and five , and you will never have to go to a twenty fives channel .	look and usability
+D	1184.74	In fact in in one uh remote control that I've seen , instead of doing that d you could just say these are the cha ch channel three , twenty eight , forty eight and uh sixty four are those that I want to by cycled with my next button .	look and usability
+A	1200.8	Yeah it's it's the same solution , I think .	look and usability
+D	1200.97	I uh B yeah .	look and usability
+C	1201.86	Yeah .	look and usability
+A	1202.85	Hmm .	look and usability
+C	1204.27	But even we can have some uh L_C_D_ display , like you can uh de you can just button the number and then it go t because Yeah .	look and usability
+D	1208.89	Go to channel twenty five .	look and usability
+D	1211.4	One thing is that as I said in my presentation people really do like to z zap .	look and usability
+D	1216.26	So even if they are only watching four or five channels , I think they want to zap out of the one hundred channels , just because this is one kind of thing they do , zapping .	look and usability
+B	1219.81	Mm-hmm .	look and usability
+C	1220.15	But still Yeah .	look and usability
+A	1226.0	Yeah uh on zap it's only next next next next next , yeah .	look and usability
+C	1226.9	Yeah .	look and usability
+D	1228.47	And it's only next .	look and usability
+C	1229.05	Yeah .	look and usability
+D	1229.4	Yeah so but you have to Okay .	look and usability
+B	1230.04	Mm .	look and usability
+A	1230.8	Mm-hmm .	look and usability
+B	1230.98	We got these buttons here .	look and usability
+B	1233.04	Next next .	look and usability
+C	1233.89	Yeah. .	look and usability
+B	1234.71	Or say this can be back .	look and usability
+C	1236.71	Yeah .	look and usability
+C	1238.36	But otherwise like we can put some display on numbers and then they can just press suppose two five they just press two and five and then Yeah .	look and usability
+D	1243.08	So it would be Okay .	look and usability
+A	1247.33	Maybe we can make uh different modes for each button and you can change mode zapping mode or uh current chan Yeah .	look and usability
+C	1251.84	Yeah .	look and usability
+C	1253.13	Yeah , yeah .	look and usability
+D	1254.33	Mm-hmm .	look and usability
+D	1254.85	Alright .	look and usability
+C	1255.9	Yeah , yeah .	look and usability
+C	1258.08	Yeah but since we are focusing only on T_V_ remote controls so we can have more functions for T_V_ uh if you want to go for a universal then we ought to limit for functions for each of our devices .	look and usability
+D	1258.13	Listening more .	look and usability
+D	1261.41	Mm-hmm .	look and usability
+A	1269.88	Mm-hmm .	look and usability
+D	1269.97	Okay .	look and usability
+B	1271.6	Could we carry out some research if we w really need this , like how many people really need to go to channel number twenty five and then to sixty four ?	look and usability
+D	1281.09	Well I could could uh have a look at that maybe .	look and usability
+C	1283.84	Yeah .	look and usability
+C	1284.22	Yeah .	look and usability
+B	1285.56	Okay .	look and usability
+D	1286.16	I'll check in my department if there's someone specialist in that .	look and usability
+B	1289.6	Okay .	look and usability
+D	1291.4	Although I don't know .	look and usability
+A	1292.65	Okay .	look and usability
+B	1292.65	Alright ?	interface specialist presentation
+B	1293.16	Thanks for your attention .	interface specialist presentation
+A	1294.05	Uh you're finish ?	interface specialist presentation
+A	1294.98	Okay .	interface specialist presentation
+A	1297.06	So now the technical aspects of this new device .	agenda/equipment issues
+A	1305.85	Mm .	agenda/equipment issues
+C	1313.4	Two .	agenda/equipment issues
+C	1319.55	Yeah , if Sorry .	agenda/equipment issues
+A	1325.6	You prefer it .	agenda/equipment issues
+C	1326.87	Yeah .	agenda/equipment issues
+C	1327.82	Uh as you know , I am mister Ramaro .	industrial designer presentation
+C	1330.95	I am an expert in uh industrial design of all electronic devices and I previously devised many uh like digital calculators and electronic calculators .	industrial designer presentation
+C	1343.94	So now I'll briefly describe the working design of our remote control .	industrial designer presentation
+C	1353.73	Well , as you know the basic function of remote control is sending some message to the the device , like T_V_ or V_C_R_ or D_V_D_ player etcetera .	industrial designer presentation
+C	1366.59	So we will have a p portable device which will send message to the the main device like T_V_ .	industrial designer presentation
+C	1374.81	So we need to have some energy source to do what to do the functions , what we want on this portable device .	industrial designer presentation
+C	1383.7	And usually this so to do these functions we need an interface , which basically some kind of pressing buttons or keys or like moving jack or something like that .	industrial designer presentation
+C	1396.43	And then these messages these key buttons can be transferred into some kind of message and then it will process by the chip and then it will generate some information to the main device .	industrial designer presentation
+C	1411.49	It's generally in the form of infrared or some kind of s sensor information .	industrial designer presentation
+C	1418.45	Then we will have the main control in the main device to do the particular action what we want .	industrial designer presentation
+C	1429.32	So , basically we need uh since we are focusing on our interface device remote control we need few components , mainly the energy source like the battery and then we have user interface like uh the keypad and you know buttons we want , and then we have some chip , it's mainly digital signal processing chip because since we are I am one doing mostly digital uh devices we ought to have some kind of processor which take care of all these functions and put it in some digital format .	components, materials and energy sources
+C	1466.75	And then we'll have the infrared L_E_D_ source which sends the information to the main device .	components, materials and energy sources
+C	1473.97	Then we'll have switch in our main uh um device to do particular operations , and we ought to do different codes for different T_V_s , so some T_V_s will have different encryption codes for doing s s uh channel changing and these things .	components, materials and energy sources
+A	1483.84	Mm-hmm .	components, materials and energy sources
+A	1490.19	Okay .	components, materials and energy sources
+A	1491.36	To make it quite uh an universal uh device uh .	components, materials and energy sources
+C	1494.24	Yeah yeah , because the people don't use one particular brand so or at least we have more more than five brands , which are really good .	components, materials and energy sources
+A	1498.33	Mm .	components, materials and energy sources
+A	1501.76	Okay .	components, materials and energy sources
+C	1503.12	So we need to check their specifications and do their uh encryption that's passing information to the T_V_ device .	components, materials and energy sources
+C	1511.48	So we need to have particular encryption codes .	components, materials and energy sources
+A	1514.32	Okay .	components, materials and energy sources
+C	1516.04	Then , components , so we have the main uh energy source and then we will have some buttons and then we will have infrared uh source and then we have some inside some chip in in the device .	components, materials and energy sources
+C	1533.25	Uh since I don't have much time so I'll input the connections to all this components .	components, materials and energy sources
+C	1540.03	And since I also want to know feedback from our Marketing Expert and User Interface , so if you want to add some more components we can incorporate them .	components, materials and energy sources
+A	1546.19	Mm-hmm .	components, materials and energy sources
+A	1549.82	Mm-hmm .	components, materials and energy sources
+A	1550.98	And from from the discussion we had do you can you make it on the whiteboard , or mm .	components, materials and energy sources
+C	1553.65	Yeah .	components, materials and energy sources
+C	1556.56	Yeah , I'm sure , because since our User Interface speech recognition and also Marketing Expert for the speech recognition is really handy , so we can have another , like uh s simple speech recogniser on our D_S_B_ chip .	components, materials and energy sources
+A	1566.67	Mm-hmm .	components, materials and energy sources
+D	1570.46	Mm-hmm .	components, materials and energy sources
+A	1570.47	Mm-hmm .	components, materials and energy sources
+A	1577.08	Mm .	components, materials and energy sources
+C	1577.95	Since we have some kind of uh energy this is our this normal battery , so this battery , once you s switch on it will take power and we can have some speech recognition and in our g generally small digital signal processing chip so that and we will put uh the small uh simple speech recogniser and we can also train the speech recogniser for particular user so you just yeah , so that we just use simple recog no but but Yeah .	components, materials and energy sources
+A	1601.79	On Uh train it , okay .	components, materials and energy sources
+D	1609.39	Mm-hmm .	components, materials and energy sources
+A	1609.42	Mm-hmm .	components, materials and energy sources
+B	1611.91	Too complex .	components, materials and energy sources
+D	1614.81	But uh very very good to sell .	components, materials and energy sources
+C	1618.07	No , even in you can find even simple mobile device like any mobile brand you can have these voice dialers or these things , yeah .	components, materials and energy sources
+D	1624.82	Think of a all these young people who would love to say that this remote control only works for them , and ha ha you cannot use my remote control , because it's targeted to me .	components, materials and energy sources
+B	1625.55	Okay .	components, materials and energy sources
+B	1630.92	Okay .	components, materials and energy sources
+C	1631.05	Yeah .	components, materials and energy sources
+A	1633.21	Mm .	components, materials and energy sources
+C	1633.71	Yeah .	components, materials and energy sources
+D	1635.42	Whatever .	components, materials and energy sources
+A	1635.86	And what about the price of this component ?	project budget
+C	1636.14	So Uh maybe we can make uh it in five Euros and even less than that , because we want to have uh millions and in bulk , so we can make really simp and we want to make really simple device because we have only very few words like like power , switch on or some like then we'll have something like this um we'll have volume and then we will have s particular channel , so users can listen .	project budget
+A	1640.88	It mm okay .	project budget
+D	1643.26	Hmm .	project budget
+D	1643.35	Cheap .	project budget
+D	1645.59	Millions .	project budget
+A	1646.76	Mm .	project budget
+A	1650.3	Okay .	project budget
+D	1650.42	Cheap .	project budget
+A	1657.54	Mm-hmm .	project budget
+D	1671.22	The user uh will just be able to say uh please can you uh pump up the vo pump up the volume or or it will be something like volume , up , down .	look and usability
+A	1671.76	Mm-hmm .	look and usability
+C	1677.67	Ye No , yeah , a user can use any kind of sender but they should have this prompt volume and then yeah volume and decrease or increase , so we try to only recognise those words and and because we can't really say user to say same wording then it become more mechanical and yeah .	look and usability
+D	1685.55	Okay .	look and usability
+A	1686.08	With a keywords and yeah .	look and usability
+D	1689.52	Okay .	look and usability
+D	1691.0	Couple of words .	look and usability
+A	1691.73	Mm-hmm mm .	look and usability
+A	1696.29	Mm-hmm .	look and usability
+D	1697.72	Okay .	look and usability
+A	1698.34	Okay .	look and usability
+B	1698.58	Um .	look and usability
+C	1698.7	And then we can have channel they can say , okay I want eight , because we don't know like users have different programmes , I mean they don't really follow same channels strict uh so we just want channel number , we don't want like B_B_C_ or C_N_N_ or something else because it will be complicated so we'll have only these three uh main basic uh anyway volume is not really speech recognition problem , it's it it will be take care of our main mm .	look and usability
+D	1713.9	Of course uh it has to be Okay .	look and usability
+A	1714.35	Okay .	look and usability
+B	1715.18	Okay .	look and usability
+B	1727.42	No you know it's a conceptual question , 'cause now I see th this the picture in front of my eyes like a user taking his remote control and shouting into it , volume up , volume up , and and he's coming you know , he's really annoyed with this , down , up , down .	look and usability
+D	1738.69	But then I think you you First of all I I think this is not uh functionality that it is going to be instead of using the buttons .	look and usability
+A	1750.03	No , in no not only speech , yeah .	look and usability
+D	1751.02	It's on top of using the button .	look and usability
+B	1753.49	Okay , for this budget like twelve Euros .	look and usability
+A	1753.97	I it's an option .	look and usability
+D	1756.61	Well , I dunno .	look and usability
+C	1757.82	Yeah actually we we can have one switch to like uh switch on , on and off , this processor and This really , suppose like here we have our main chip which controls power , volume and this part and this D_S_P_s .	components, materials and energy sources
+B	1770.8	Mm-hmm .	components, materials and energy sources
+C	1771.8	Again , this to have some interaction like suppose people use D_S_P_ then it particularly sends some information to the chip like in some form , like volume and like this key .	components, materials and energy sources
+C	1785.03	So it may not be like very expensive , because since we are only focusing on T_V_ remote control so and we have only few things here Yeah .	components, materials and energy sources
+B	1785.1	Okay. .	components, materials and energy sources
+D	1789.38	T_V_ .	components, materials and energy sources
+A	1790.84	Okay .	components, materials and energy sources
+B	1791.06	Mm-hmm , mm-hmm .	components, materials and energy sources
+A	1792.77	Sho to to train , okay .	components, materials and energy sources
+B	1796.3	Did you consider the r gest uh gesture recognition ?	look and usability
+B	1799.65	Like , if I want to put volume up I like do mm I take my remote control do like something like roll 'em up or roll 'em down .	look and usability
+C	1806.22	Um uh uh this point we didn't consider because it's it's very expensive because v our target is only like twelve point five Euros and Yeah , even automatic on off is also a bit problematic , because it different criteria for different people like so suppose people are really uh they just uh they don't touch the remote and mm y you don't know how much time you need to switch on or switch off and Yay yeah .	look and usability
+A	1808.14	Mm .	look and usability
+D	1810.55	Very expensive , no ?	look and usability
+A	1814.88	And well , what about the idea of automatic on off on the button , yeah .	look and usability
+B	1816.24	Mm why ?	look and usability
+B	1817.15	That's just We got a really good Market Expert .	look and usability
+D	1819.52	And volume control .	look and usability
+D	1832.57	So but uh Sh should we target a a user personalised uh uh remote control ?	look and usability
+D	1842.23	So in in a given room there might be more than one remote control .	look and usability
+D	1845.7	We would uh have each one and uh with our own personal uh settings .	look and usability
+C	1851.32	Yeah that can be possible , especially for power settings , so user can say okay , suppose they're watching a tennis match or something then they can say okay uh after one hour I They can make Yeah we can have Yeah .	look and usability
+D	1860.67	Hmm .	look and usability
+A	1862.44	Wouldn't that make uh arguments ?	look and usability
+D	1865.68	Yeah , of course .	look and usability
+A	1865.99	I want uh And we can increase this the strength y you can buy one with Mm-hmm .	look and usability
+D	1869.35	That's no problem , we will sell more .	look and usability
+D	1875.66	Yeah exactly .	look and usability
+B	1879.82	Let's send more , let's sell more .	look and usability
+B	1883.4	Okay .	look and usability
+A	1886.06	Okay .	industrial designer presentation
+A	1886.97	You have mm something else to say ?	industrial designer presentation
+C	1889.46	Uh , not very much , like yeah .	industrial designer presentation
+A	1889.49	Uh .	industrial designer presentation
+A	1890.73	No .	industrial designer presentation
+D	1891.47	Okay .	industrial designer presentation
+D	1892.36	Thanks .	industrial designer presentation
+A	1892.86	Okay , thanks .	industrial designer presentation
+C	1893.04	Thank you .	industrial designer presentation
+C	1894.82	Yep .	industrial designer presentation
+C	1896.59	Thank you .	industrial designer presentation
+A	1899.18	So mm mm I think , okay , we're just on time .	agenda/equipment issues
+C	1899.79	Can you just yeah .	agenda/equipment issues
+A	1909.46	Um mm mm .	agenda/equipment issues
+A	1914.07	So , we're now going to l have the lunch break .	closing
+D	1918.8	Mm great .	closing
+A	1920.89	Then we will work again for thirty minutes individual work , and um we will uh meet again for the next meeting , and uh in this one want to to be more focused on the individual actions the um on the components so uh you will focus on the component concept um uh of course the U_I_D_ Mark will be uh focused on the user interface concept and uh our m Market Expert Sammy Benjo uh on the trend watching .	closing
+C	1956.34	Yeah yeah .	closing
+C	1961.56	Mark will Uh it's in current price , yeah .	closing discussion
+A	1976.3	So um of course like before specific instruction will be sent to you by your personal personal coach .	closing
+A	1987.43	Well I think that's all .	closing
+A	1989.88	And we have um maybe we have to we say , only for T_V_ , not teletext ?	discussion
+A	1997.19	Uh I think automatic on off control uh it's not possible .	discussion
+D	2004.74	Difficult .	discussion
+A	2005.93	Yeah , maybe in the next uh step if we make it work um .	discussion
+C	2007.99	Yeah .	discussion
+C	2013.17	But speech recogniser can be possible .	discussion
+A	2014.77	Yeah , implemented .	discussion
+A	2015.96	O okay , we can think about that .	discussion
+D	2016.73	Mm-hmm .	discussion
+A	2018.95	And um do you see something else ?	discussion
+D	2024.46	No .	discussion
+B	2027.19	Uh , should it be equipped with the uh , with uh speakers ?	how to find when misplaced
+D	2037.53	Speakers in the remote cont Oh yeah .	how to find when misplaced
+B	2038.42	Like , you want to find it , you shout control , and it answers is I'm here ?	how to find when misplaced
+A	2041.96	Uh yeah that's Or maybe you want to phone him .	how to find when misplaced
+B	2045.38	Or Just beeps ?	how to find when misplaced
+D	2046.89	It just beeps .	how to find when misplaced
+D	2048.48	That would be enough .	how to find when misplaced
+D	2049.95	Something very cheap .	how to find when misplaced
+D	2052.29	But that's ex that's expensive .	how to find when misplaced
+C	2052.56	Yeah yeah yeah .	how to find when misplaced
+A	2052.61	Since now all yeah ?	how to find when misplaced
+D	2054.9	Uh .	how to find when misplaced
+C	2056.05	Yeah , especially the power , it really consumes because it should be all the time on and Yeah .	how to find when misplaced
+A	2056.25	Think Uh-huh .	how to find when misplaced
+D	2061.72	Well I I heard of devices where you just uh whistle them and and they because of the the frequency they they just answer to that .	how to find when misplaced
+A	2062.1	And uh And it's answered .	how to find when misplaced
+C	2068.03	Yeah .	how to find when misplaced
+B	2069.01	I can't whistle .	how to find when misplaced
+B	2070.26	No , no , I can't .	how to find when misplaced
+D	2070.63	You can't whistle .	how to find when misplaced
+D	2071.7	Uh-huh .	how to find when misplaced
+D	2072.93	Or a clap .	how to find when misplaced
+B	2074.53	Mm .	how to find when misplaced
+A	2074.66	Clap clap clap it's a good I I think it's universal .	how to find when misplaced
+D	2074.66	You can clap .	how to find when misplaced
+D	2075.37	Can you ?	how to find when misplaced
+C	2075.57	Yeah .	how to find when misplaced
+D	2076.27	Clap is good .	how to find when misplaced
+C	2077.16	Yeah .	how to find when misplaced
+D	2077.3	Tak Just a suggestion .	how to find when misplaced
+A	2083.57	What about people without hand ?	how to find when misplaced
+B	2084.07	Okay .	how to find when misplaced
+A	2086.18	Yeah .	how to find when misplaced
+D	2086.54	With only one hand ?	how to find when misplaced
+C	2088.52	Yeah I think it's good .	how to find when misplaced
+D	2089.17	These are not our target people .	how to find when misplaced
+A	2090.08	Mm uh okay .	how to find when misplaced
+C	2091.86	But it's a good feature I guess yeah we need to think about more how to incorporate it .	how to find when misplaced
+A	2094.17	Mm-hmm .	how to find when misplaced
+A	2094.96	Okay .	how to find when misplaced
+B	2097.76	Just don't interfere with other devices like 'cause like all these people do that their lights are turning on with clapping .	how to find when misplaced
+D	2101.84	Mm-hmm .	how to find when misplaced
+D	2107.53	Oh that's e that already exists okay okay .	how to find when misplaced
+C	2108.01	Oh .	how to find when misplaced
+B	2109.44	Yeah , I got it at my home , like .	how to find when misplaced
+A	2110.8	Mm-hmm .	how to find when misplaced
+D	2111.0	Oh yeah , you do have .	how to find when misplaced
+B	2111.78	Oops .	how to find when misplaced
+D	2112.37	Wow .	how to find when misplaced
+C	2112.81	Ah it's Yeah .	how to find when misplaced
+D	2113.1	You're trendy .	how to find when misplaced
+A	2113.81	Mm-hmm , so let's to think s so that yeah .	how to find when misplaced
+D	2117.46	Think about it .	how to find when misplaced
+D	2118.13	Yeah , okay .	how to find when misplaced
+A	2118.61	I think that could be in the component uh concept uh .	how to find when misplaced
+A	2123.63	It yes .	how to find when misplaced
+D	2125.47	Okay .	how to find when misplaced
+A	2126.44	Okay .	how to find when misplaced
+D	2130.41	Good we're done ?	agenda/equipment issues
+A	2132.18	So , yeah , let's go to lunch .	agenda/equipment issues
+C	2132.71	Yeah .	agenda/equipment issues
+D	2133.47	Right , thanks .	agenda/equipment issues
+C	2133.93	Thank you , thank you very much .	agenda/equipment issues

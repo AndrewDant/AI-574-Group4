@@ -1,0 +1,93 @@
+C	0.08	Uh , making a profit of fifty million Euros .	components, materials and energy sources
+A	0.75	Alright so twenty five .	components, materials and energy sources
+D	4.08	Mm 'kay .	components, materials and energy sources
+C	4.8	So , it's go gonna have to be be pretty damn trendy .	components, materials and energy sources
+A	5.43	So yeah , I've The only the only remote controls I've used usually come with the television , and they're fairly basic .	components, materials and energy sources
+C	10.96	Yeah .	components, materials and energy sources
+D	11.3	Mm-hmm .	components, materials and energy sources
+C	11.75	Yeah .	components, materials and energy sources
+A	13.19	So uh Mm .	components, materials and energy sources
+C	13.78	Yeah , I was thinking that as well , I think the the only ones that I've seen that you buy are the sort of one for all type things where they're , yeah .	components, materials and energy sources
+D	20.18	Yeah the universal ones .	components, materials and energy sources
+D	21.81	Yeah .	components, materials and energy sources
+C	22.49	So presumably that might be an idea to put into .	components, materials and energy sources
+A	25.54	But but to sell it for twenty five you need a lot of neat features .	components, materials and energy sources
+B	26.66	Slim .	components, materials and energy sources
+A	30.29	For sure .	components, materials and energy sources
+D	30.47	Yeah .	components, materials and energy sources
+C	30.77	Yeah , yeah .	components, materials and energy sources
+C	31.86	Uh 'cause I mean , what uh twenty five Euros , that's about I dunno , fifteen Pounds or so ?	components, materials and energy sources
+D	38.36	Mm-hmm , it's about that .	components, materials and energy sources
+C	38.66	And that's quite a lot for a remote control .	components, materials and energy sources
+A	40.6	Yeah , yeah .	components, materials and energy sources
+D	40.66	Mm .	components, materials and energy sources
+D	42.36	Um well my first thoughts would be most remote controls are grey or black .	components, materials and energy sources
+D	48.29	As you said they come with the T_V_ so it's normally just your basic grey black remote control functions , so maybe we could think about colour ?	components, materials and energy sources
+C	51.19	Uh-huh .	components, materials and energy sources
+C	56.08	Mm-hmm .	components, materials and energy sources
+D	56.23	Make that might make it a bit different from the rest at least .	components, materials and energy sources
+D	60.32	Um , and as you say , we need to have some kind of gimmick , so um I thought maybe something like if you lose it and you can whistle , you know those things ?	components, materials and energy sources
+C	65.83	Okay .	components, materials and energy sources
+C	71.75	The the keyrings , yeah yeah .	components, materials and energy sources
+D	72.31	Because we always lose our remote control .	components, materials and energy sources
+A	74.34	Right .	components, materials and energy sources
+C	74.58	Okay , that's cool .	components, materials and energy sources
+B	75.64	Uh yeah uh , being as a Marketing Exper Expert I will like to say like before deciding the cost of this remote control or any other things we must see the market potential for this product like what is the competition in the market ?	discussion
+B	91.91	What are the available prices of the other remote controls in the prices ?	discussion
+B	95.75	What speciality other remote controls are having and how complicated it is to use these remote controls as compared to other remote controls available in the market .	discussion
+C	99.12	Okay .	discussion
+B	106.74	So before deciding or before finalising this project , we must discuss all these things , like and apart from this , it should be having a good look also , because people really li uh like to play with it when they are watching movies or playing with or playing with their C_D_ player , M_P_ three player like any electronic devices .	discussion look and usability
+D	112.52	Okay .	discussion
+D	120.16	Mm .	look and usability
+D	125.73	Mm-hmm .	look and usability
+D	127.28	Mm-hmm .	look and usability
+B	127.61	They really want to have something good , having a good design in their hands , so , yes , all this .	look and usability
+D	130.2	Yeah .	look and usability
+C	130.88	Okay .	look and usability
+C	132.27	'Kay .	look and usability
+A	133.91	Uh , what do we think a What do we think a good size would be for this ?	look and usability
+C	134.13	So , we're looking for 'Kay .	look and usability
+C	140.14	We're Sorry , carry on .	look and usability
+A	144.4	'Cause I I know as you add more buttons to the remote it sometimes gets so big and clunky and there's just like a hundred buttons on it , or you could have a really small slim one but then you could lose it easily .	look and usability
+D	148.99	Yeah .	look and usability
+C	149.28	Mm-hmm .	look and usability
+C	151.02	Mm-hmm .	look and usability
+D	151.28	Yeah .	look and usability
+D	154.08	Then you lose it , yeah .	look and usability
+C	154.71	Okay .	look and usability
+D	155.89	Kind of um , maybe more like a P_D_A_ kind of , just hand held , like , 'cause Yeah .	look and usability
+C	162.73	For for uh remember we're trying to make it for twelve Euros fifty .	look and usability
+D	168.0	No , I wasn't , no sorry I wasn't thinking of the screen of like a P_D_A_ but Okay .	look and usability closing
+C	170.44	Okay well right we'll have to um I'll we're k having another meeting in half an hour so um we should all look into a bit uh , oh actually , no , we'll allocate .	closing
+C	182.88	So you do the looking around at other remote controls .	closing
+B	186.61	Yeah .	closing
+C	187.44	Um , if you could maybe come up with sort of shapes and suggested shades or whatever , and you could look into um basically how how it's made I_E_ like how you make it all in one , how what sort of materials are available to you whatever .	closing
+C	210.53	And obviously , other instructions will come from the personal coach .	closing
+A	214.88	Right .	closing
+C	215.63	Which will probably just usurp what I said so Shapes and colours and um basically how to make it attractive .	closing
+D	217.76	So you want me to look at shapes and everything you said ?	closing
+D	219.73	Yep .	closing
+D	220.45	Okay .	closing
+C	225.11	Uh .	closing
+D	225.21	Mm-hmm .	closing
+C	228.98	And you look at competition and design .	closing
+B	230.82	Yep .	closing
+C	234.55	Cool .	closing
+D	235.8	Okay .	closing
+A	236.63	Okay .	closing
+C	237.31	So we have uh Um .	closing
+A	239.96	Wait for emails ?	closing
+B	241.4	Uh .	closing
+A	255.4	Hmm .	closing
+C	279.54	Okay , groovy .	closing
+C	281.9	And no doubt we'll get um Sorry .	closing
+D	283.89	Oh no , .	closing
+D	285.04	Sorry it's okay .	closing
+C	286.02	We'll get um warnings for next meetings as well .	closing
+D	289.91	Okay , cool .	closing
+C	291.94	Okay .	closing
+C	292.69	I shall I can't imagine these are worth much .	closing
+C	298.86	Okay .	closing
+B	299.07	Hmm .	closing
+C	302.71	Fashion into electronic .	closing
+C	305.73	Okay .	closing

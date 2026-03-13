@@ -1,0 +1,1154 @@
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+A	100.08	Wouldn't wanna be Project Manager .	opening
+A	103.26	Uh , what we going to do .	opening
+A	104.5	Um , once again I'm uh gonna take minutes .	opening
+A	107.51	So , um no presentation for me .	opening
+A	110.37	Uh , first we have a prototype presentation by G_ and G_ .	opening
+B	115.84	Yo .	opening
+D	116.3	J_ and J_ .	opening
+A	116.33	Afterwards some uh eval eval evalu evaluation s sorry .	opening
+C	121.2	Evaluation .	opening
+D	121.81	Evaluation .	opening
+B	121.85	Evaluation criteria .	opening
+A	124.78	Uh evaluation crit criteria .	opening
+A	126.95	Uh , in combination with the finance I um uh I received uh a an uh an Excel uh file which we have to fill in later on .	opening
+D	137.22	Hmm .	opening
+A	140.79	Um , you see .	opening
+A	142.48	Uh , and then we must see uh if we uh stay under the twelve and a half Euro .	opening
+D	143.44	Hmm .	presentation of prototype(s)
+D	143.51	Interesting .	presentation of prototype(s)
+D	147.24	Ah , okay .	presentation of prototype(s)
+A	148.77	So , that's uh that's a big l so let's uh wait it uh um we have we have must uh , we must have uh some time for that uh because it will be uh yeah , quite a lot of mathematics .	opening
+B	149.56	Oops .	presentation of prototype(s)
+D	150.25	Cool .	presentation of prototype(s)
+C	150.34	Mm-hmm .	presentation of prototype(s)
+C	150.75	That's gonna be t problem .	presentation of prototype(s)
+B	153.95	Some creative uh Oh .	presentation of prototype(s)
+B	162.32	Yeah .	presentation of prototype(s)
+A	163.05	And after that , uh uh an evaluation of uh the process how we uh how we have done it here with the SMARTboard , with the with our laptops , with the all uh all this .	opening
+A	175.5	And uh afterwards , uh we closing .	opening
+A	177.27	Once again , forty minutes , so uh let's start .	opening
+B	179.21	Ok okay .	presentation of prototype(s)
+A	180.01	I would g give the word to um G_ and G_ for the prototype presentation .	opening
+B	183.54	Shall I give a short introduction and then uh Okay .	presentation of prototype(s)
+C	186.67	Yeah , well sure .	presentation of prototype(s)
+D	187.13	J_ and J_ .	presentation of prototype(s)
+A	187.84	J_ and J_ .	presentation of prototype(s)
+D	189.96	Jane and Jane .	presentation of prototype(s)
+B	190.75	J_ and J_ , okay .	presentation of prototype(s)
+D	193.92	'Kay guys , take it away .	presentation of prototype(s)
+C	195.09	Hi .	presentation of prototype(s)
+B	195.55	Take it away .	presentation of prototype(s)
+B	203.2	Um , this was our first concept .	presentation of prototype(s)
+B	204.87	We decided to use a single touch-screen .	presentation of prototype(s)
+B	208.54	So , we've worked out this concepts , how to how to hold it , where to put the buttons and and stuff .	presentation of prototype(s)
+B	214.78	And um , well , we began with uh with a form of shape , that is uh is easy to hold w in one hand , left or right handed .	presentation of prototype(s)
+B	222.35	So , we made i it a little bit less thick and uh it has some ar artistic meaning .	presentation of prototype(s)
+B	228.68	No ?	presentation of prototype(s)
+B	229.3	This uh isn't nothing .	presentation of prototype(s)
+B	232.15	Idea maybe uh is better .	presentation of prototype(s)
+B	237.21	Um well , during the meeting I showed you the concept of uh placing the buttons on top , usable with your thumb , and uh the menu structure , uh if necessary , with your other hand , so it's just gonna hold it easily .	presentation of prototype(s)
+B	250.06	And it has to be acce accessible with your uh other hand too , of course .	presentation of prototype(s)
+B	255.5	So we began uh working out a concept .	presentation of prototype(s)
+C	257.75	Yeah , uh well , and as you saw , we would just have the basic remote with the panel L_C_D_ uh screen .	presentation of prototype(s)
+C	264.97	Well , these would be the main buttons , h you could uh change them later on in your own profile if you want to .	presentation of prototype(s)
+C	269.77	But , well it's standard they will be delivered with this kind of uh set-up .	presentation of prototype(s)
+C	273.85	We have the more advanced menu uh setting right here .	presentation of prototype(s)
+C	278.05	We have the sub-menus and stu stuff .	presentation of prototype(s)
+C	280.59	We made a top oh , or a front view .	presentation of prototype(s)
+C	282.72	Just so like you wanna uh back view .	presentation of prototype(s)
+C	285.38	As you can see , this uh there , there are uh two uh weird bumps in it .	presentation of prototype(s)
+C	291.12	This is for uh the added uh effect of uh well uh y youth and dynamic .	presentation of prototype(s)
+C	297.54	And uh this is for the artistic effect .	presentation of prototype(s)
+C	299.85	Well , what we figured is uh we'll show you a picture later on you have more b a better idea after that .	presentation of prototype(s)
+C	305.75	But , idea is for to stay in balance with these two uh with these two .	presentation of prototype(s)
+D	309.92	Hmm .	presentation of prototype(s)
+C	310.91	And so when you put it on the table , it will just lay down .	presentation of prototype(s)
+C	313.58	It won't uh roll around or stuff .	presentation of prototype(s)
+C	316.15	But it will lie more in your hand like an old telephone maybe , or like these old uh phones .	presentation of prototype(s)
+A	320.8	Mm .	presentation of prototype(s)
+C	321.81	Y you you may get the idea .	presentation of prototype(s)
+C	324.0	So thi this is about uh how we figured it should be .	presentation of prototype(s)
+C	327.63	The s panel we g you would hide with some more uh rubber layers , like we discussed early on .	presentation of prototype(s)
+C	334.24	Uh , you would s you wouldn't see the uh straight panel , but more fluidly and round .	presentation of prototype(s)
+B	339.86	Yeah , the panel just uh of course goes like this .	presentation of prototype(s)
+C	342.97	Yeah .	presentation of prototype(s)
+B	344.35	But the overlaying layer is uh a little bit uh curved and stuff .	presentation of prototype(s)
+D	348.85	Okay .	presentation of prototype(s)
+A	349.06	No , okay .	presentation of prototype(s)
+C	350.26	And uh , in these bumps you could actually uh put some electronics uh that would you can make a more thinner uh design , and that would actually look very nice , yeah .	presentation of prototype(s)
+D	358.78	Yeah .	presentation of prototype(s)
+B	360.97	Yeah .	presentation of prototype(s)
+C	362.8	And uh , about the colour , what have Yeah , f uh , as colours , do you do you have the picture in uh Oh yeah .	presentation of prototype(s)
+B	364.37	Yeah .	presentation of prototype(s)
+B	364.53	Oh , we added that this um can be held with your hands for this maximum is om yeah , one and a half centimetres .	presentation of prototype(s)
+B	371.87	So , you have room here for your battery and maybe even other um electronic chips .	presentation of prototype(s)
+B	377.22	S and you can just be the the layer of the touchscreen and some have some wires underneath it to make it as uh thin as possible in the middle for good grip .	presentation of prototype(s)
+D	377.32	Okay .	presentation of prototype(s)
+D	384.22	Hmm .	presentation of prototype(s)
+B	391.81	Yeah .	presentation of prototype(s)
+C	393.53	Now , well this is the idea about uh the bumps .	presentation of prototype(s)
+C	395.83	Uh , you can see there's a v a very uh youthful uh dynamic uh exterior .	presentation of prototype(s)
+C	401.98	It uh you just want to hold it you uh you are young and uh dynamic like us .	presentation of prototype(s)
+D	405.34	'S l it's like an uh Easter egg .	presentation of prototype(s)
+C	407.3	Yeah , it's like an e but this is for children .	presentation of prototype(s)
+B	407.63	Yeah .	presentation of prototype(s)
+C	409.06	We we want a more adult version .	presentation of prototype(s)
+C	410.88	But , this is like a remote control for children .	presentation of prototype(s)
+A	413.18	It's called a weemote Weemote .	presentation of prototype(s)
+D	415.43	Weemote .	presentation of prototype(s)
+C	416.0	A weemote .	presentation of prototype(s)
+C	416.7	Yeah .	presentation of prototype(s)
+C	417.69	Hey , that's actually a brilliant uh marketing stand .	presentation of prototype(s)
+C	421.17	Uh , but So this actually basic the idea .	presentation of prototype(s)
+B	421.33	Yeah .	presentation of prototype(s)
+D	422.0	Wait what I w got in mind .	presentation of prototype(s)
+C	426.72	We we just want to build a more uh adult vers adult version of of this .	presentation of prototype(s)
+D	431.51	Mm-hmm .	presentation of prototype(s)
+A	431.56	Yeah , I can imagine that .	presentation of prototype(s)
+C	432.88	And and for colours , we we figured starting with basic colours like uh white or metallic grey .	presentation of prototype(s)
+C	439.7	Those are the technological colours actually , so it d Or blue or whatever .	presentation of prototype(s)
+B	442.59	Yeah .	presentation of prototype(s)
+B	443.08	It would be best to to appeal to a broad public and make the covers exchangeable , so the young people will buy an orange and a red and blue and a purple , but when the o older people uh go in the shop and they see uh an orange um remote control , it would be less appealing than a white one .	presentation of prototype(s)
+B	463.04	And young people , we think , are a little bit more flexible , they think , ah I'll buy for a couple of Euros some noi nice hip uh Well , um I think a cover is necessary , 'cause als otherwise you'll just have the L_C_D_ screen .	presentation of prototype(s)
+D	463.47	Hmm .	presentation of prototype(s)
+D	468.04	Hmm .	presentation of prototype(s)
+D	469.21	Maybe it's an idea to sell it without a cover , so that you can pick a cover in the in the shop .	presentation of prototype(s)
+D	477.24	Yeah , okay .	presentation of prototype(s)
+D	477.93	Yeah , okay .	presentation of prototype(s)
+B	479.27	So , there must be some cheap standard cover , um maybe white or something , that's could comes with it and you can buy , so we can make extra money .	presentation of prototype(s)
+D	481.89	Hmm .	presentation of prototype(s)
+D	482.51	Mm .	presentation of prototype(s)
+A	486.69	Yeah , but uh you d you mustn't forget that uh our target aim is younger people .	presentation of prototype(s)
+D	487.64	Oui okay .	presentation of prototype(s)
+A	494.18	Uh , we had decided to uh put uh some flashy fruity colours in it , uh and uh in the survey from uh Milan and Paris uh it uh it came out that uh uh the d the older people are uh more willing to uh to spend money on extra features .	presentation of prototype(s)
+B	517.6	Okay .	presentation of prototype(s)
+A	517.79	So I think uh it will be a better idea to have some uh flashy fruity colours as as a standard , and for the people who uh really want uh a more sophisticated , more traditional look , they're willing to pay uh that .	presentation of prototype(s)
+B	522.03	The other way around , you mean .	presentation of prototype(s)
+C	524.44	Oh yeah .	presentation of prototype(s)
+B	529.48	Uh-huh .	presentation of prototype(s)
+C	533.36	Yeah .	presentation of prototype(s)
+A	533.62	They want uh they want more luxury stuff , but they have the money to do it and they want to b to buy that .	presentation of prototype(s)
+B	537.77	Mm-hmm .	presentation of prototype(s)
+B	539.58	Okay .	presentation of prototype(s)
+A	539.63	So , maybe it's an idea to put that as an extra and not as a standard .	presentation of prototype(s)
+D	540.03	Yeah .	presentation of prototype(s)
+C	542.41	Yeah .	presentation of prototype(s)
+C	543.39	Yeah , maybe yeah , perhaps you're right .	presentation of prototype(s)
+C	545.32	Uh , I I would I would actually agree with this sounds logical .	presentation of prototype(s)
+B	548.9	Okay , yeah .	presentation of prototype(s)
+D	548.98	An another idea .	presentation of prototype(s)
+D	550.45	Uh , maybe we could uh develop a cover uh with wood style .	presentation of prototype(s)
+A	556.64	Yeah .	presentation of prototype(s)
+D	556.88	They'll please the elder users as well .	presentation of prototype(s)
+A	559.13	Yeah .	presentation of prototype(s)
+B	559.83	Well yeah , a colour of a wood style , a white c and uh a couple of h hip uh fruity colours .	presentation of prototype(s)
+A	565.45	Yeah .	presentation of prototype(s)
+D	565.53	Yes .	presentation of prototype(s)
+C	565.58	Nah .	presentation of prototype(s)
+B	565.87	And lea uh l delivered standard with a fruity colour , but not too not too much .	presentation of prototype(s)
+C	566.23	Yeah .	presentation of prototype(s)
+D	570.29	Not not too uh yeah .	presentation of prototype(s)
+B	571.69	This is banana and mango , not not purple or p orange and yellow .	presentation of prototype(s)
+D	575.85	Yeah , exactly .	presentation of prototype(s)
+A	576.46	Yeah .	presentation of prototype(s)
+A	577.42	But , the mai I think th uh the standard must be some kind of uh uh attractive flashy colours .	presentation of prototype(s)
+D	577.65	Yeah .	presentation of prototype(s)
+D	578.05	Or blue or .	presentation of prototype(s)
+A	585.41	Not too , but w a little , because that's our aim .	presentation of prototype(s)
+B	585.56	Ah .	presentation of prototype(s)
+B	586.3	Mm-hmm .	presentation of prototype(s)
+C	587.33	Yeah , li like like this like this .	presentation of prototype(s)
+B	587.87	Yeah .	presentation of prototype(s)
+C	589.07	This isn't this isn't too much , is it ?	presentation of prototype(s)
+A	589.24	Yeah .	presentation of prototype(s)
+B	590.82	Yeah , okay .	presentation of prototype(s)
+C	592.22	I f Yeah .	presentation of prototype(s)
+B	592.25	No .	presentation of prototype(s)
+B	592.52	Yeah .	presentation of prototype(s)
+A	592.84	Well , the buttons don't have to be uh all uh all of yeah .	presentation of prototype(s)
+D	594.58	Well I I I think so .	presentation of prototype(s)
+C	595.05	The buttons , I Yeah , uh something like this would be nice .	presentation of prototype(s)
+D	596.57	Yeah , except for the buttons it's it could be a standard model .	presentation of prototype(s)
+A	599.09	It Yeah .	presentation of prototype(s)
+B	600.16	Okay .	presentation of prototype(s)
+A	602.99	Okay .	presentation of prototype(s)
+B	603.57	Okay .	presentation of prototype(s)
+C	603.7	Okay , that's that's it from us .	presentation of prototype(s)
+A	605.09	Thank you .	presentation of prototype(s)
+D	606.4	'Kay , it's my time now .	evaluation of prototype(s)
+B	607.84	It's my turn .	evaluation of prototype(s)
+A	612.35	The Marketing Expert .	evaluation of prototype(s)
+C	613.92	Uh-oh .	evaluation of prototype(s)
+D	621.71	Okay .	evaluation of prototype(s)
+D	624.68	During the Oh .	evaluation of prototype(s)
+D	629.67	During the design uh design life-cycle we uh we made lot of requirements and trend analysis and stuff .	evaluation of prototype(s)
+A	632.47	Sorry .	evaluation of prototype(s)
+D	640.78	Um , now is the time to uh evaluate our prototype concept to uh to the past requirements .	evaluation of prototype(s)
+D	649.99	So we are going to evaluate the design according to the past user requirements and trends analysis .	evaluation of prototype(s)
+D	657.69	Um , we're going to do that with a seven point scale .	evaluation of prototype(s)
+D	662.72	Opening a Word document now .	evaluation of prototype(s)
+D	672.6	Okay .	evaluation of prototype(s)
+D	676.27	One oh , okay , uh I have to expla explain something .	evaluation of prototype(s)
+D	681.09	We have to uh be consensive about about things .	evaluation of prototype(s)
+D	690.08	So , it has to be a group uh group decision .	evaluation of prototype(s)
+D	693.47	Okay ?	evaluation of prototype(s)
+A	693.87	Okay , so we gon we gonna evaluate the Yeah , the the thing we saw .	evaluation of prototype(s)
+D	694.57	Uh We're going to vote .	evaluation of prototype(s)
+D	697.65	We yeah ?	evaluation of prototype(s)
+D	698.23	The prototype .	evaluation of prototype(s)
+D	699.61	Yeah .	evaluation of prototype(s)
+A	700.01	Okay , just saw .	evaluation of prototype(s)
+D	700.88	Okay , one .	user requirements
+D	702.03	The remote control is designed for people with age below forty .	user requirements
+A	706.94	Yeah .	user requirements
+A	707.74	Seven ?	user requirements
+D	709.32	Seven is false .	user requirements
+A	709.96	Uh , true .	user requirements
+D	711.65	Yeah , b one or Most true ?	user requirements
+A	711.71	Sorry .	user requirements
+A	714.21	Yeah , one I think .	user requirements
+C	716.13	Why ?	user requirements
+C	717.05	Yeah , it's not just uh designed for people under the age of forty .	user requirements
+B	717.82	Mm .	user requirements
+C	720.5	It's also designed for people above forty .	user requirements
+D	722.27	Yeah , so so a o one is appropriate ?	user requirements
+A	722.9	Yeah .	user requirements
+B	722.93	Yeah .	user requirements
+C	723.61	So I have I've Yeah , two or three , because it's not just uh the qu question is aimed at is it designed for people with age below forty .	user requirements
+D	725.32	Or , more like a four .	user requirements
+B	725.47	No no , a little more in the middle .	user requirements
+B	726.98	No , uh three or yeah .	user requirements
+D	727.53	Three .	user requirements
+A	732.68	Okay .	user requirements
+C	736.88	But it's also designed for people of age above forty .	user requirements
+D	738.5	Ah , exactly .	user requirements
+C	739.52	So , I'll say it's about three .	user requirements
+D	740.02	Exactly .	user requirements
+B	741.79	Yeah , it will be primary appealing to to m minus forty , but also appealing to Yeah .	user requirements look and usability
+A	742.49	Okay .	user requirements
+D	742.77	Three .	user requirements
+D	745.93	Yeah .	user requirements
+D	747.17	But also for yeah , okay .	user requirements
+D	748.99	Uh , second .	look and usability
+D	749.65	The remote control is beautiful .	look and usability
+B	752.13	It's Wow .	look and usability
+D	754.15	Yeah , acco according to us , it's one ?	look and usability
+D	756.25	Or Yeah , p s Of c of course you have to be uh very positive and uh enthusiastic about your own product .	look and usability
+C	756.78	Yeah , I I think Yeah .	look and usability
+B	757.29	Yeah , it's the marketing uh angle on television .	look and usability
+A	757.61	Yeah .	look and usability
+B	760.51	We have a wonderful Yeah .	look and usability
+B	768.1	Well , it's also fancy then .	look and usability
+D	768.97	Three .	look and usability
+D	769.65	Uh , the remote control looks fancy .	look and usability
+C	772.06	Yes .	look and usability
+A	772.22	Yeah .	look and usability
+B	772.77	Yeah .	look and usability
+D	773.46	One ?	look and usability
+B	774.04	Of course .	look and usability
+C	774.06	Yes .	look and usability
+A	774.18	Yep .	look and usability
+B	775.21	We have a perfect remote .	look and usability
+D	776.35	Good .	look and usability
+D	777.48	Four .	look and usability
+D	777.78	The remote control has big , clear channel switching buttons .	look and usability
+B	781.26	Yes .	look and usability
+B	783.65	Yeah yeah , oh they have to agree but I'm the User Interface uh Expert .	look and usability
+C	785.35	Yeah .	look and usability
+A	785.55	Yes .	look and usability
+C	786.06	Leads to user face , yeah .	look and usability
+D	787.09	Daniel .	look and usability
+D	788.96	Uh , teletext buttons and volume buttons ?	look and usability
+B	792.24	Um , uh no .	look and usability
+A	792.81	No teletext buttons .	look and usability
+A	794.08	Teletext is in the menu .	look and usability
+B	794.18	You you've different menu .	look and usability
+D	795.52	False ?	look and usability
+C	795.95	Yeah , false .	look and usability
+B	798.86	And volume is impo yeah .	look and usability
+D	799.07	And volume ?	look and usability
+A	800.03	Volume is true .	look and usability
+D	801.06	True .	look and usability
+C	802.18	Uh , hmm .	look and usability
+D	803.02	Big and clear ?	look and usability
+C	804.98	Yeah , the they are big and clear .	look and usability
+B	805.49	Yeah yeah , big and clear .	look and usability
+A	806.68	Yeah , big and clear .	look and usability
+B	807.39	But you could make a teletext button uh six .	look and usability
+D	808.62	Hey .	look and usability
+B	810.26	Otherwise , the people who read this uh are gonna think we have no teletext button .	look and usability
+D	810.72	Hey .	look and usability
+D	811.89	Hide .	look and usability
+C	814.45	Yeah , but but the teletext button .	look and usability
+C	815.9	Yeah , you can ch That's in a menu .	look and usability
+D	816.83	It's it's not yeah , it J Five ?	look and usability
+C	817.68	So , it's w yeah , it it it it isn't entirely unclear , but So , I wouldn't give it a seven .	look and usability
+C	822.86	I would give it a more a five or a six .	look and usability
+B	823.08	No .	look and usability
+B	824.56	Yeah .	look and usability
+D	825.46	Okay .	look and usability
+C	825.91	Uh , I don I don't know .	look and usability
+C	826.89	What do you think , uh Mister Project Manager ?	look and usability
+D	826.94	Yeah , it's it's yeah .	look and usability
+A	827.84	Oh , okay .	look and usability
+A	828.4	Well , I agree .	look and usability
+A	830.52	I was thinking very black and white .	look and usability
+C	830.9	Hmm .	look and usability
+C	833.34	Yeah .	look and usability
+B	833.83	Black and red .	look and usability
+A	837.19	Thank you J_ .	look and usability
+D	839.53	Red .	look and usability
+B	840.93	Okay , don't forget to save it .	look and usability
+D	840.96	Okay .	look and usability
+D	842.32	Volume .	look and usability
+B	842.39	Uh Uh well , when we put in fancy colours , yeah and Yeah .	look and usability how to find when misplaced
+D	844.82	The remote control is easy to be found .	how to find when misplaced
+C	851.08	Yeah , it has these all these fruity colours and it has a strange shape .	how to find when misplaced
+A	853.98	Fruity .	how to find when misplaced
+C	854.16	So , if you so if you have trouble finding it Well , then uh then I'll go for four .	how to find when misplaced
+B	856.15	But , um it it's not making any sound uh , have we deciding ?	how to find when misplaced
+D	859.88	Oh , okay , but 'kay , look .	how to find when misplaced
+B	860.82	So It'll make a difference .	how to find when misplaced
+D	862.77	If you put uh your normal uh remote control under your bed , or you throw this remote control under your bed , is it better findable ?	how to find when misplaced
+B	873.89	We have the better re I don't know .	how to find when misplaced
+B	876.47	Yeah , I think so .	how to find when misplaced
+B	877.26	My remote control's black .	how to find when misplaced
+D	878.71	A li little bit maybe ?	how to find when misplaced
+B	879.87	A little bit , but yeah .	how to find when misplaced
+A	880.37	Yeah .	how to find when misplaced
+A	881.51	Well , we p we can do it glow in the dark .	how to find when misplaced
+D	881.58	Four ?	how to find when misplaced
+B	882.37	Uh K yeah .	how to find when misplaced
+D	882.81	Fi I Ah , I I I think five .	how to find when misplaced
+A	884.13	So , if it's in the dark place , you still see it glowing .	how to find when misplaced
+B	885.06	Fo fo yeah fo five is .	how to find when misplaced
+D	888.32	It's it's it doesn't really make a lot of Four ?	how to find when misplaced
+C	894.78	Because uh four is between three and uh uh also between between true and false .	how to find when misplaced
+B	898.02	Yeah , okay , you're right .	how to find when misplaced
+C	898.75	Uh , so I'll I'll go for four .	how to find when misplaced
+A	899.98	I think Ah , you must see it as uh , w uh according to uh the the other uh remote controls , there may uh uh be there in your uh T_V_ room , this one will stand out , I think .	how to find when misplaced
+D	900.68	Yes , but five is between four and six .	how to find when misplaced
+C	903.64	Wha Yeah , that that's a better question actually .	how to find when misplaced
+B	908.96	Yeah .	how to find when misplaced
+D	909.89	B_ .	how to find when misplaced
+B	911.08	Yeah .	how to find when misplaced
+B	913.54	Yeah .	how to find when misplaced
+D	914.21	Yeah , it it's Yeah , yeah .	how to find when misplaced
+B	914.74	Yeah .	how to find when misplaced
+A	915.02	Exa I think that that's what it's about .	how to find when misplaced
+B	915.48	If your uh fifteen remotes in a drawer , uh you find it , yeah ?	how to find when misplaced
+A	918.46	If it if this lying on your couch , you're you're you think what's that for kinda orange uh thing .	how to find when misplaced
+D	923.84	But but the survey under users was that they uh really lost it .	how to find when misplaced
+A	923.92	So Yeah .	how to find when misplaced
+B	930.38	Yeah , that's stupid .	how to find when misplaced
+D	931.58	Like , no not uh not seeing it , but lost it in the house or something .	how to find when misplaced
+A	937.23	Okay .	how to find when misplaced
+B	937.25	Uh , but when you lost it you're just not Yeah , mostly when you lose your remote control , it it's under your Most of times when you lose it you're sitting on it .	look and usability how to find when misplaced
+D	937.64	But , okay .	how to find when misplaced
+C	938.17	Well , if i if you see a strange shape lying somewhere , uh then you'd uh recognise it as , whoa , that is strange .	how to find when misplaced
+A	944.9	That's our remote control .	how to find when misplaced
+D	945.97	Yeah , okay .	how to find when misplaced
+C	946.14	Yeah .	how to find when misplaced
+C	946.74	Yeah , what is that .	how to find when misplaced
+D	947.19	Yeah , I I agree , I agree .	how to find when misplaced
+C	947.75	Uh , so it's Yeah .	look and usability how to find when misplaced
+D	948.89	Okay .	look and usability
+D	949.8	Eight , the remote control has fresh , fruity colours .	look and usability
+B	951.11	Uh Um I would call uh choose two , 'cause we decided not to make two f uh fresh colours , as it would not .	look and usability
+A	952.65	True .	look and usability
+D	956.06	Yeah , yeah , not too flashy .	look and usability
+D	960.42	The remote control is made of soft material .	look and usability
+B	962.93	Um , kinda soft , but but not this .	look and usability
+C	963.06	Yeah , rubber , is kind of soft .	look and usability
+A	964.61	Yeah , but not too soft we have decided .	look and usability
+D	966.94	Three ?	look and usability
+B	967.1	Yeah .	look and usability
+A	968.01	Three , yeah .	look and usability
+B	968.77	Yeah .	look and usability
+B	970.53	Yeah yeah , easy to use , very afford .	look and usability
+A	971.45	Easy to use .	look and usability
+A	972.19	One .	look and usability
+D	972.91	Easy to use ?	look and usability
+A	973.57	Yeah , can it be zero ?	look and usability
+C	974.59	Well , I don yeah , it is kind of It No .	look and usability
+D	976.79	Top easy to use ?	look and usability
+D	978.18	It's it's not the most easy to use It can be easier .	look and usability
+B	979.71	No , you can do two , because um it can be easier .	look and usability
+C	979.97	Uh It could yeah .	look and usability
+D	984.0	Jus just with ten buttons , that's the easiest .	look and usability
+B	984.12	But then you're l yeah , but then you'll lose function f yeah , functionality and our fancy uh look , so .	look and usability
+C	987.82	Functional ability .	look and usability
+A	988.22	Yeah .	look and usability
+D	992.14	Yeah , but the most uh easy to use is just with one button on t Yeah , okay , but easy n not not the most easy to use , I think .	look and usability
+B	994.05	But It is r it is rather easy to use , because you have the primary buttons always visible .	look and usability
+C	1003.26	No , it's it I I'll go for two .	look and usability
+B	1003.56	No .	look and usability
+C	1005.0	My vote's on two .	look and usability
+D	1005.21	Two ?	look and usability
+B	1005.87	Yeah , m mine too .	look and usability
+A	1005.93	Okay , two .	look and usability
+A	1007.02	Yeah , two .	look and usability
+D	1008.46	We also have to compare it to the uh to the remote controls on the market nowadays .	look and usability
+D	1014.2	So Yeah yeah , I'm uh hurrying .	look and usability
+B	1014.38	Yeah , but waits just a minutes .	look and usability
+B	1016.79	Inspiration .	look and usability
+A	1020.19	What's the time ?	look and usability
+A	1020.81	We also have uh to do the evaluation , uh the production costs and uh stuff .	look and usability
+B	1022.58	These are the m regular remotes .	look and usability
+D	1026.75	Okay , eleven .	evaluation of prototype(s)
+D	1027.98	The remote control is innovative .	evaluation of prototype(s)
+A	1029.87	Yeah .	evaluation of prototype(s)
+B	1030.01	Yes , true , one .	evaluation of prototype(s)
+C	1030.37	Yes .	evaluation of prototype(s)
+D	1032.21	A very of course .	evaluation of prototype(s)
+A	1032.36	You're agree , Tim ?	evaluation of prototype(s)
+A	1034.77	You haven't seen a more innovative uh thing in uh Paris ?	evaluation of prototype(s)
+D	1037.1	The remote control has m remova removable from Multilux .	evaluation of prototype(s)
+B	1040.2	Yes , one .	evaluation of prototype(s)
+B	1042.87	Very multifunctional .	evaluation of prototype(s)
+B	1046.24	No .	evaluation of prototype(s)
+D	1047.4	The remote control , i it has speech recognition .	evaluation of prototype(s)
+D	1051.92	False .	evaluation of prototype(s)
+C	1052.07	Yes , it Yeah , they are built in .	evaluation of prototype(s)
+A	1052.08	False .	evaluation of prototype(s)
+B	1053.78	This is used with speech recognition , this .	evaluation of prototype(s)
+D	1055.9	The remote control has built-in games ?	evaluation of prototype(s)
+B	1057.67	Yes .	evaluation of prototype(s)
+B	1059.1	But uh , maybe make it two , because the games are in a sub-menu and not uh it's not an entire game .	evaluation of prototype(s)
+A	1063.76	Yeah , but they are built in , so it's one .	evaluation of prototype(s)
+D	1066.23	Yeah .	evaluation of prototype(s)
+B	1066.25	Yeah , okay .	evaluation of prototype(s)
+C	1067.74	Not down .	evaluation of prototype(s)
+A	1068.66	Okay .	evaluation of prototype(s)
+D	1068.68	And the last , paren parental advisory function .	evaluation of prototype(s)
+B	1073.33	Yes .	evaluation of prototype(s)
+C	1077.49	You really like the parental advisory .	evaluation of prototype(s)
+A	1078.64	Freak .	evaluation of prototype(s)
+D	1079.88	Yes , I do .	evaluation of prototype(s)
+B	1080.83	Th did you make this or the Yeah , It changes it maybe .	evaluation of prototype(s)
+C	1081.92	Bu Yeah , he made it .	evaluation of prototype(s)
+D	1082.75	Save as .	evaluation of prototype(s)
+D	1088.65	Okay , I will uh do the the math .	evaluation of prototype(s)
+B	1093.55	Oh yay .	evaluation of prototype(s)
+B	1095.47	Oh dear .	evaluation of prototype(s)
+D	1096.23	Now it's your turn .	evaluation of prototype(s)
+A	1097.21	Okay , thank you .	evaluation of prototype(s)
+A	1103.04	We'll see .	evaluation of prototype(s)
+B	1106.99	Hmm ?	evaluation of prototype(s)
+A	1113.18	Mm .	evaluation of prototype(s)
+A	1128.19	Okay , we have now to c uh to calculate the production cost .	costing
+A	1133.2	If it's under uh twelve and half Euro , then it's uh ok uh okay .	costing
+A	1140.54	But i is it if it is b Huh ?	costing
+A	1142.81	No , this isn't right .	costing
+A	1144.32	Okay so , .	costing
+A	1146.07	Redesign .	costing
+B	1146.78	If they're under twelve fifty .	costing
+A	1147.41	Oh yeah , if they under Yeah .	costing
+A	1150.6	No .	costing
+A	1152.57	Oh yeah .	costing
+B	1152.77	Yeah ?	costing
+B	1153.2	Cau 'cause so it's okay .	costing
+A	1153.78	Yeah , it's sorry .	costing
+A	1155.33	Yeah , if the costs are under twelve and a half Euro , uh then we uh can uh ra uh move on to the project evaluation , as we have uh experienced it .	costing
+A	1166.61	Otherwise , we have uh do uh have to do a little uh redesign uh thingy .	costing
+A	1170.87	So Uh , we have to fill in the numbers of the component uh components .	costing
+A	1177.88	We have to uh fil uh , want to uh do it in and uh see uh if we stay under the twelve and a half Euro .	costing
+A	1187.62	So , do we have uh a hand dynamo ?	costing
+C	1190.04	No .	costing
+A	1190.05	No .	costing
+A	1191.48	That's zero .	costing
+C	1191.69	Me , too .	costing
+B	1194.42	Battery , yes .	costing
+C	1194.74	Yes .	costing
+A	1195.21	Battery , one ?	costing
+B	1195.36	One .	costing
+C	1196.05	Yeah .	costing
+B	1196.22	One , yeah .	costing
+A	1196.77	Okay .	costing
+B	1198.52	Kinetic , one .	costing
+A	1199.01	Kinetic , one ?	costing
+C	1199.17	Yeah .	costing
+C	1199.87	Yeah .	costing
+B	1200.12	Yeah .	costing
+A	1200.43	Okay , solar cells , zero .	costing
+C	1202.14	Yeah .	costing
+A	1202.64	Okay , uh simple chip on print ?	costing
+C	1204.16	Uh , n no .	costing
+D	1205.55	No .	costing
+A	1206.17	No ?	costing
+D	1207.89	Advanced chip .	costing
+C	1208.02	No .	costing
+A	1208.04	No , advanced chip .	costing
+B	1208.45	No .	costing
+C	1209.46	Yes .	costing
+A	1210.16	Sample sensor sample speaker ?	costing
+B	1211.96	No , the advanced chip is uh Yeah .	costing
+C	1212.21	No .	costing
+D	1212.83	Advanced chip is three .	costing
+A	1215.81	Three ?	costing
+D	1215.97	Three Euros , yep .	costing
+C	1217.07	Uh , we have one .	costing
+A	1217.21	Yeah uh , but it it's one one thing , it's three Euro .	costing
+C	1218.0	We have one .	costing
+D	1219.02	Okay , one piece , yeah .	costing
+C	1221.71	No , sev zero .	costing
+A	1221.78	Uh , what's the sample sensor ?	costing
+D	1221.79	No .	costing
+C	1223.94	Well , that's um yeah , speech recognition and s A zero .	costing
+D	1225.04	Speech recognition , I think .	costing
+B	1225.93	Yeah , you give it a sample , uh one .	costing
+A	1226.73	Okay .	costing
+A	1228.9	Zero .	costing
+A	1230.06	Uh , uncurved flat .	costing
+B	1231.7	No .	costing
+D	1231.9	No .	costing
+A	1232.22	No .	costing
+A	1232.88	But is it s it's not made from a single uncurved thingy and then uh and then uh no ?	costing
+D	1234.33	No .	costing
+B	1234.37	You no .	costing
+C	1237.12	No .	costing
+C	1237.49	No .	costing
+D	1238.26	Thingy .	costing
+A	1240.49	Okay .	costing
+A	1242.23	So it's only uh once double-curved .	costing
+C	1245.2	Yeah .	costing
+D	1245.53	Yes , three .	costing
+B	1245.95	Yeah , 'cause um the layer around it fits around the bubbles on the o on the uh the back of the Uh , we don't have anything else .	costing
+D	1247.07	Eight .	costing
+A	1250.96	Okay .	costing
+A	1251.65	We're now in a problem , 'cause uh we have uh reached eleven Euro yet .	costing
+B	1258.61	So Could you step a little to the right ma Yeah .	costing
+D	1258.69	Okay , go on .	costing
+A	1259.63	Okay , but uh we have Okay .	costing
+D	1259.75	Just go on .	costing
+C	1260.42	Just go on .	costing
+C	1260.92	Then we'll see uh we'll we'll see uh wha how much we are over budget .	costing
+D	1266.22	Two .	costing
+B	1267.68	Oh , sorry .	costing
+D	1269.16	Two .	costing
+A	1269.78	Uh , rubber .	costing
+B	1270.87	Or And zero .	costing
+A	1272.4	You .	costing
+C	1272.5	Zero .	costing
+A	1273.23	Titanium , no ?	costing
+B	1274.9	Special uh is the special colour ?	costing
+A	1276.05	Special colour ?	costing
+B	1277.37	Mm .	costing
+C	1277.48	I don't think so .	costing
+C	1278.09	No , this is a standard colour .	costing
+D	1278.38	No .	costing
+B	1279.72	Yeah .	costing
+C	1282.34	Yes , this is a special colour .	costing
+D	1282.47	S Yeah , but but D but Daniel , tha that's that's another brand .	costing
+A	1283.12	Yeah , but we want to make uh the wood colours , uh that uh Yeah , one .	costing
+B	1286.1	Yeah , if if you're honest , we'll uh type one , special colour .	costing
+C	1289.68	That's an add-on .	costing
+D	1293.21	That's another article to sell .	costing
+B	1296.48	Yeah .	costing
+A	1297.94	Yeah , but we we going to yeah yeah , that's true .	costing
+A	1301.1	But yeah , it's it's it Okay , the push-button , no .	costing
+B	1301.83	Uh , j maybe we'll finish uh the the list first and then look back , aye ?	costing
+D	1301.84	That doesn't account for this .	costing
+D	1303.63	Producing this .	costing
+B	1307.51	No .	costing
+B	1308.17	Scroll wheel , no .	costing
+A	1308.89	Scroll-wheel , no .	costing
+B	1310.87	No .	costing
+A	1311.02	No .	costing
+A	1311.8	Oh , no .	costing
+A	1313.12	Yes , one .	costing
+B	1314.26	One , yeah .	costing
+A	1314.72	Uh , button , no .	costing
+C	1316.77	No .	costing
+B	1317.12	No .	costing
+A	1317.22	No , the the we don't have a s no .	costing
+B	1317.77	Mm , is it No .	costing
+C	1318.56	These three .	costing
+B	1319.77	No .	costing
+D	1320.06	No .	costing
+C	1320.09	Well , we're only four Euro over budget .	costing
+A	1321.03	Okay .	costing
+A	1322.33	Oh , okay .	costing
+B	1322.62	So No .	costing
+C	1322.95	But Well , other case , we can make it single-curved or uncurved .	costing
+A	1323.11	So , um what's the thing we can change ?	costing
+B	1327.24	No .	costing
+D	1330.3	Yeah .	costing
+A	1330.33	Uh , can I uh I say something ?	costing
+B	1330.43	Mm , single-curves .	costing
+D	1333.23	Yeah , of course .	costing
+A	1333.35	No , can I say something uh as Project Manager ?	costing
+B	1334.38	Yeah .	costing
+B	1337.08	Just cut off the kine yeah .	costing
+A	1337.51	The kinetic thing , can we just skip it , because uh you have to shake it , but that's not really innovative .	costing
+C	1339.94	Yeah .	costing
+B	1340.15	Or yeah .	costing
+C	1340.33	Okay , sure .	costing
+B	1343.29	Yeah , we just put a good battery it it .	costing
+D	1344.26	Yeah .	costing
+B	1345.29	Mobile phones nowadays .	costing
+D	1345.86	Daniel .	costing
+A	1346.06	Yeah .	costing
+D	1346.85	Daniel , what do you think about Here .	costing
+A	1347.55	Yo .	costing
+A	1348.33	Sorry , yeah , yes .	costing
+D	1349.82	What do you think about uh putting a battery in it , but also selling like uh the covers , a docking station just apart from the from the thing , so that you can uh put uh rechargeable batteries in it and just Yeah , yeah , okay .	costing
+A	1353.06	Yeah .	costing
+A	1361.93	Mm-hmm .	costing
+A	1367.89	Okay .	costing
+B	1368.38	But you can use rechargeable batteries anyway , just you s you have to recharge them manual .	costing
+A	1371.98	Yeah , and not really .	costing
+A	1373.75	But we if you forget about the kinetic , well if we do that , we shall .	costing
+D	1375.03	Just an idea .	costing
+B	1376.08	Yeah , that's a cost reduc Ah .	costing
+C	1376.14	Yeah , sure .	costing
+D	1376.16	Yeah .	costing
+C	1381.0	Okay , well you you can go from double-curved to single-curved .	costing
+A	1381.67	So um Uh , b but i but the single-curved is just oh Oh , okay , okay .	costing
+D	1384.81	Yeah , of course .	costing
+C	1386.02	And that would solve the budget problem .	costing
+B	1388.29	Yeah , so we have to bake the ba back flat , and then No , it's it's just one curve and not a back uh curved I think .	costing
+C	1390.98	Yeah .	costing
+C	1393.0	It's just yeah well , the single-curve that Yeah .	costing
+B	1398.5	Or Or are these two curves ?	costing
+C	1399.32	Exactly , yeah .	costing
+A	1399.99	So that's wh tha that's one option .	costing
+D	1400.32	Yeah .	costing
+B	1401.58	Uh Yeah , but what else uh do we have to cut out ?	costing
+A	1403.8	And then w yeah , and then we could have it , but uh it's its' well it's it's r it is the main point of the the the the look .	costing
+D	1406.02	Yeah , Yeah .	costing
+C	1413.57	We going to cut Yeah , we just make it flat .	costing
+B	1413.62	No advanced chip , uh that's a little bit of problem .	costing
+A	1415.86	No , tho uh that that can be done .	costing
+A	1418.26	So uh , okay , a little less uh conversation .	costing
+B	1418.7	Although , can we make it with a regular chip ?	costing
+B	1423.15	Curvy .	costing
+D	1423.56	Hey , those ar arcs , why are there for ?	costing
+A	1427.98	Sorry ?	costing
+D	1428.12	The blue blue uh Okay .	costing
+A	1430.67	Fill in Just a explanation .	costing
+B	1433.74	Explanation .	costing
+B	1434.61	Twelve fifty .	costing
+A	1435.42	I can delete it for you if you want .	costing
+B	1435.53	Well Yeah , but does it fit with our design ?	costing
+D	1436.8	No , no no .	costing
+A	1437.89	So , if we do this , uh we're on uh twelve and a half Euro .	costing
+A	1443.45	And we're done .	costing
+B	1447.63	Do we have to u adapt it ?	costing
+A	1448.48	Uh well , the only uh thing that don't Yeah , single-curved , but there's a curve in it .	costing
+B	1451.66	It's single-curves .	costing
+D	1453.07	Yeah .	costing
+B	1453.58	W Could we just make the bubbles uh cut off the back , and then we're uh has Okay .	costing
+A	1454.83	So Yeah , it's really a static value .	costing
+D	1460.54	But , wha 'Kay , look , what is the uh If you make it double-curved , it costs one Euro more .	costing
+C	1460.89	But , you do l Function .	costing
+B	1469.14	More .	costing
+B	1469.94	Yeah .	costing
+D	1470.58	But No , but does it have a lot of extra uh fun function more like Yeah .	costing
+B	1470.73	You make it optional .	costing
+B	1478.4	Functional .	costing
+C	1479.68	Worth , does it have added worth ?	costing
+B	1480.23	Uh , there's an a a athe aesthetic value , but not functionality .	costing
+C	1482.22	No , um Yeah , well let's assume it is .	costing
+D	1484.1	Yeah , uh aesthetic .	costing
+A	1485.32	Yeah .	costing
+D	1486.42	I mean , uh you make like eleven and a half Euros profit instead of twelve and a half .	costing
+D	1494.74	But I don't know if twelve and a half is uh a fixed uh fixed price .	costing
+A	1501.48	Yeah , it is .	costing
+D	1501.5	No , we can't go above that .	costing
+D	1502.99	Yeah ?	costing
+A	1503.06	Oh .	costing
+C	1503.11	We we should assume it i that it is .	costing
+A	1504.83	Yeah , okay .	costing
+B	1504.88	Yeah .	costing
+D	1505.12	Yeah , okay .	costing
+C	1505.49	But I I figured that the kinetic would be a marketing promotion .	costing
+D	1506.08	Then it's okay .	costing
+C	1509.46	R if you uh promote a kinetic um I kinetic remote control , I mean , that would b sell better than an a normal remote control .	costing
+D	1519.12	Yeah .	costing
+A	1519.15	Yeah .	costing
+A	1520.21	Do you think ?	costing
+D	1521.05	Yeah , I think so .	costing
+A	1521.46	Well , now you can shake your remote control .	costing
+C	1523.48	No , well , y I mean uh , y you can go into your neighbour and tell him , ha , my k uh remote control is kinetic .	costing
+A	1528.85	Kinetic .	costing
+C	1528.88	You have standard old battery control uh remote con True .	costing
+B	1528.98	Yeah .	costing
+D	1530.18	Yeah .	costing
+D	1531.88	What a what about all the m the environment freaks ?	costing
+B	1532.02	Yeah .	costing
+D	1535.72	Not freaks , the envi No .	costing
+B	1535.99	Yeah , but it doesn't fit in our co cost profile .	costing
+B	1538.42	So You ma can make an an especialised extra gold version .	costing
+D	1539.95	I I think it's it's It look like this one .	costing
+A	1545.36	Yeah ?	costing
+A	1547.69	Who because if you want to go to kinetic , you're uh you're on thirteen and a half and you must go to flat , and I think now it's it's more of uh a compromise thing .	costing
+B	1557.67	Yeah .	costing
+D	1558.42	Yeah .	costing
+A	1560.67	And if you make the single curve ha just a big curve , then it's uh then it's uh yeah , one big good curve .	costing
+B	1567.28	Yeah , just one big curve .	costing
+A	1572.53	I was going to uh say nasty words , but I don't .	costing
+A	1576.49	This is strange by the way .	costing
+A	1578.8	Wood is m is is is cheaper than rubber .	costing
+A	1581.88	We thought that wood would be more expensive .	costing
+D	1582.01	Yeah .	costing
+B	1583.62	Uh , this uh American figures .	costing
+B	1585.41	You just cut down some trees .	costing
+A	1587.0	Yeah , maybe .	costing
+A	1588.88	But uh that this is this is it ?	costing
+A	1591.81	Yeah .	costing
+D	1592.07	This is it .	costing
+A	1592.66	Okay , this is it .	costing
+B	1593.01	Whoever makes uh a remote control out of titanium .	costing
+A	1594.22	I'm gonna save it .	costing
+A	1596.9	Yeah .	costing
+B	1597.68	Yes .	costing
+C	1598.26	It is possible , but you can't use double uh curves for titanium .	costing
+B	1603.11	No .	costing
+C	1603.73	That's one of the functionability uh Well , I th I think you two , uh especially you and uh and uh Daniel , you d you you both had uh the less creative uh roles in the project .	evaluation of project process costing
+A	1605.66	Okay , well , considering we have Well , we were above , so we did a little redesign Okay , um now uh it's about time to uh talk about uh this project .	evaluation of project process costing
+D	1610.32	Ah no , we have to do all those hours again .	costing
+D	1615.38	Go back .	costing
+D	1616.67	One back ?	costing
+D	1618.72	Costs on uh No redesign .	costing
+D	1624.66	Yeah .	costing
+B	1625.41	We sue .	costing
+D	1626.05	Yeah , okay , yeah .	costing
+B	1626.17	We Yeah , we'll start her all o all over again .	costing
+A	1635.88	Uh , some uh things .	evaluation of project process
+A	1638.07	Were there uh room for uh was there room for creativity in our meetings or in your individual meetings ?	evaluation of project process
+B	1642.2	Um For us , there was a lot of creativity .	evaluation of project process
+D	1642.27	Hmm .	evaluation of project process
+D	1644.98	I I didn't think so .	evaluation of project process
+D	1647.66	That there was a lot of room for it .	evaluation of project process
+D	1650.97	But , that's mainly because uh of the information that was delivered to us .	evaluation of project process
+A	1655.49	Yeah .	evaluation of project process
+D	1656.37	It was just fixed information and get your stuff from there , and I couldn't go on on i on the internet and search my own stuff .	evaluation of project process
+A	1660.32	Yeah .	evaluation of project process
+A	1663.39	Yeah , yeah , yeah .	evaluation of project process
+D	1664.41	Bu Yeah .	evaluation of project process
+A	1665.84	That's true .	evaluation of project process
+A	1666.77	I agree with that .	evaluation of project process
+A	1677.23	Yeah .	evaluation of project process
+A	1678.2	That's true .	evaluation of project process
+C	1679.41	'Cause I think m I think Jeroen and I , we had a more design we could have more we had more room for creativity than than you two .	evaluation of project process
+B	1681.04	We could just sign up an uh remote if we liked .	evaluation of project process
+A	1683.92	Yeah .	evaluation of project process
+D	1684.32	Yeah .	evaluation of project process
+A	1685.01	Yeah , that's true .	evaluation of project process
+A	1692.92	Yeah .	evaluation of project process
+D	1693.83	Yeah .	evaluation of project process
+D	1694.72	Yeah , that's true .	evaluation of project process
+A	1695.65	Okay .	evaluation of project process
+A	1696.97	Uh how about the leadership ?	evaluation of project process
+B	1698.3	Uh Crappy .	evaluation of project process
+D	1699.9	Leadership was uh crappy .	evaluation of project process
+C	1700.09	Ha .	evaluation of project process
+C	1702.59	Nah , the leadership wasn't crappy , it was the leader that was crappy .	evaluation of project process
+B	1702.74	Cra Yeah .	evaluation of project process
+C	1705.81	Nah .	evaluation of project process
+D	1706.34	Okay .	evaluation of project process
+A	1707.67	Okay , thank you very much .	evaluation of project process
+C	1707.67	No , the leadership was okay .	evaluation of project process
+A	1710.02	Now we're done .	evaluation of project process
+B	1711.0	Yeah , example of crappy leadershi Okay , yeah .	evaluation of project process
+D	1713.82	No , leadership was uh Okay , I thought uh the first meeting was a little bit of unstructured meeting .	evaluation of project process
+C	1716.54	Yeah , it was good .	evaluation of project process
+A	1721.38	Yeah , that's true .	evaluation of project process
+D	1721.83	Uh , you could have but uh , it was your first , no uh no disrespect or something , but you could have uh structure it a l little bit more .	evaluation of project process
+D	1730.03	So like , I I was talking most of the time the first meeting meeting , and Yeah .	evaluation of project process
+A	1730.06	Yeah .	evaluation of project process
+B	1734.61	You could of said , shut up you fool .	evaluation of project process
+A	1735.8	Yeah .	evaluation of project process
+A	1737.09	Yeah .	evaluation of project process
+D	1737.64	But About me .	evaluation of project process
+A	1737.8	I notice it too .	evaluation of project process
+A	1738.49	I was a I was also very uh unhappy , uh very unsatisfied uh about the about the first meeting .	evaluation of project process
+A	1746.04	So , uh I hope uh uh the the the other meetings uh get better and uh I think the the last two meetings uh also we we reached uh some good decisions about uh talk yeah .	evaluation of project process
+D	1749.35	Yeah , you made up .	evaluation of project process
+C	1749.39	Try to learn from your mistake .	evaluation of project process
+C	1750.89	And we will never do it again .	evaluation of project process
+D	1754.54	No , it you did better .	evaluation of project process
+B	1759.37	Yeah , more more consensus .	evaluation of project process
+D	1760.9	Yeah .	evaluation of project process
+B	1760.91	Ev everybody w was agreeing every Yeah .	evaluation of project process
+D	1762.5	Much more constructive .	evaluation of project process
+A	1763.42	Okay , so uh that's cool .	evaluation of project process
+A	1765.85	Uh , teamwork ?	evaluation of project process
+A	1767.38	Well , maybe that's uh only Yeah well , it's for us , because uh Yeah .	evaluation of project process
+B	1770.3	Well , we work together on a project , but everybody has his own task .	evaluation of project process
+A	1774.22	Yeah and it's wo more like presentation and some points were discussed .	evaluation of project process
+B	1774.23	So , it is a little bit Yeah .	evaluation of project process
+A	1777.94	But , really teamwork were you two uh The Yeah ?	evaluation of project process
+B	1778.45	No Well , it went okay .	evaluation of project process
+D	1781.05	Two guys .	evaluation of project process
+C	1782.42	Yeah , that went w it went well .	evaluation of project process
+C	1783.81	It's it's just uh Nah .	evaluation of project process
+A	1785.58	No hard feelings .	evaluation of project process
+B	1785.61	Stupid stupid pen , but uh Yeah , but but draw something uh difficult .	evaluation of project process
+C	1788.1	Yeah , we we had some trouble with the pen , but Yeah , but us Yeah .	evaluation of project process
+A	1789.94	Yeah .	evaluation of project process
+A	1790.96	Now you you must push a little while .	evaluation of project process
+B	1796.28	D uh just write your name right now .	evaluation of project process
+B	1798.36	Try to write your name , in in writing letters , of course , yeah ?	evaluation of project process
+A	1799.35	Okay .	evaluation of project process
+B	1806.94	Yeah , normally , uh this uh the w Block letter sign it , yeah ?	evaluation of project process
+A	1811.82	O Just uh okay .	evaluation of project process
+B	1812.28	Just just write your name in in one line .	evaluation of project process
+B	1814.45	If it's a little bit too small bit quicker now .	evaluation of project process
+B	1817.8	It didn't Uh he he knows how it works , yeah .	evaluation of project process
+A	1817.88	You can be you can go quicker , 'cause then it it won't notice it .	evaluation of project process
+A	1824.95	I follow the Master class for the SMARTboard , so I think that's the that's the main issue .	evaluation of project process
+C	1824.99	Oh .	evaluation of project process
+D	1830.14	Okay .	evaluation of project process
+A	1830.94	Um , so uh about this one you were uh you're dealing with , um the the the the digital pen .	evaluation of project process
+D	1832.14	Means .	evaluation of project process
+B	1837.34	Y well , yeah .	evaluation of project process
+B	1838.56	Th the i The idea is great , but it doesn't work properly .	evaluation of project process
+A	1842.29	Okay .	evaluation of project process
+D	1843.57	Digital pen , I thought uh th the first time I did individual work , I used it .	evaluation of project process
+A	1843.6	Yeah .	evaluation of project process
+B	1843.74	Uh Yeah .	evaluation of project process
+A	1848.86	Yeah .	evaluation of project process
+D	1849.21	But , a and the first two meetings I brought it with me , but I didn't use it at all after the first the first meeting .	evaluation of project process
+A	1855.15	No .	evaluation of project process
+C	1856.26	No , I have it working .	evaluation of project process
+C	1857.19	But , uh yeah , well uh No , it doesn't have that much added value to the Yeah .	evaluation of project process
+D	1858.52	It's it's not real real use for me .	evaluation of project process
+A	1861.2	Huh .	evaluation of project process
+B	1862.48	Nee .	evaluation of project process
+A	1862.88	Well Yeah .	evaluation of project process
+B	1863.27	As uh as I said a m a c few moments ago , it I would like , myself , to write with a normal pen , because must um Yeah , it's almost the same concept , but you can just sim more simply put it on our scanner .	evaluation of project process
+B	1876.73	I it's the same concept as the pen , where you f have to download the software or s uh very uh slow .	evaluation of project process
+A	1877.68	M yeah .	evaluation of project process
+A	1882.18	Yeah .	evaluation of project process
+A	1883.94	And it is still your own handwriting uh popping up in uh Word .	evaluation of project process
+B	1885.76	Yes .	evaluation of project process
+B	1886.16	No , and it doesn't give any added value .	evaluation of project process
+A	1889.21	No , uh that's true .	evaluation of project process
+D	1889.61	Not really , no .	evaluation of project process
+A	1890.67	No .	evaluation of project process
+A	1892.09	And uh the SMARTboard is uh useful , but the the pen is I uh not user-friendly , I think .	evaluation of project process
+B	1898.34	Yeah , not user-friendly .	evaluation of project process
+A	1899.45	Be it it takes a lot of time to draw things and to write things , and that's the Yeah , but that's not th the the you when you at a foreign audience , you b don't gonna wr uh write uh small .	evaluation of project process
+B	1902.11	Yeah , and it's it's not very precise .	evaluation of project process
+B	1904.12	We're trying to m to Yeah , it may um Yeah , and tr try to wri write your name uh in a in a normal uh size , yeah .	evaluation of project process
+D	1904.23	Yeah , like when you do this .	evaluation of project process
+B	1914.31	Smaller .	evaluation of project process
+D	1915.73	Smaller ?	evaluation of project process
+B	1916.46	Yeah , smaller .	evaluation of project process
+B	1917.24	Just like when you're writing on a letter .	evaluation of project process
+B	1925.62	No , a as you saw on on this drawing , just open open this one or that one .	evaluation of project process
+B	1931.1	It's uh th it it Yeah , uh we had more problems even here when we trying to draw these buttons , it's almost impossible to get clear uh when you're uh And the eraser was another problem .	evaluation of project process
+A	1938.53	Yeah .	evaluation of project process
+D	1941.87	Oh .	evaluation of project process
+D	1942.6	Sorry .	evaluation of project process
+A	1942.66	But maybe there's some function with no , it isn't .	evaluation of project process
+A	1945.75	With uh Yeah .	evaluation of project process
+B	1947.76	It w t is is this large .	evaluation of project process
+B	1949.6	And when you try to erase this line , y I'm gonna erase my name there .	evaluation of project process
+A	1953.36	Well , I'm gonna erase my uh name .	evaluation of project process
+A	1958.61	Yeah , it's a big uh big eraser .	evaluation of project process
+D	1960.13	Okay .	evaluation of project process
+D	1961.08	New ideas ?	evaluation of project process
+B	1962.47	M Abo What kind of new ideas ?	evaluation of project process
+A	1963.29	Um Well , the the idea of the touch-screen is uh I'm just uh I don't know what what I mean .	evaluation of project process
+B	1970.42	Yeah , uh New ideas about uh the working of this software , about about the project , about the remote controls or Hello .	evaluation of project process
+D	1971.42	Do you ?	evaluation of project process
+D	1972.83	Go on .	evaluation of project process
+D	1978.15	Yeah .	evaluation of project process
+D	1979.06	Mm , yeah , I think so .	evaluation of project process
+D	1990.98	Did you heard what he said ?	evaluation of project process
+D	1992.77	I don't I don't know what I mean .	evaluation of project process
+A	1992.95	No .	evaluation of project process
+C	1993.89	Know what I mean .	evaluation of project process
+D	1998.26	Oh , I have some figure .	evaluation of prototype(s)
+D	2000.59	Here .	evaluation of prototype(s)
+D	2001.5	The eva the evaluation , the mm the mean uh number is uh one point eight one point eight six .	evaluation of prototype(s)
+A	2001.66	Oh .	evaluation of project process
+A	2004.13	Oh yeah .	evaluation of prototype(s)
+A	2010.53	That's interesting .	evaluation of prototype(s)
+D	2010.88	So that's fairly uh fairly good , I think .	evaluation of prototype(s)
+A	2012.98	Okay , because what does it mean ?	evaluation of prototype(s)
+B	2013.01	Yeah .	evaluation of prototype(s)
+B	2014.89	So true .	evaluation of prototype(s)
+D	2015.3	Uh , that uh all the requirements uh are true or very true , right .	evaluation of prototype(s)
+A	2018.06	All the mo yeah , are between one and two .	evaluation of prototype(s)
+A	2021.94	Yeah .	evaluation of prototype(s)
+A	2022.6	Oh , okay .	evaluation of prototype(s)
+D	2023.45	Yep .	evaluation of prototype(s)
+A	2023.94	Yeah , okay .	evaluation of prototype(s)
+A	2025.61	Thank you , expert .	evaluation of prototype(s)
+A	2029.72	But the new ideas found for uh wi with working with this uh software ?	evaluation of project process
+B	2034.97	Not really , just they have to improve it .	evaluation of project process
+A	2035.82	Not really , yeah ?	evaluation of project process
+B	2037.49	Uh , the concept is okay , but it has to be quicker .	evaluation of project process
+A	2038.37	Yeah , I think Yeah .	evaluation of project process
+B	2041.75	Uh , it is still opening my programme , n almo almost uh my entire computer is locked up during the process and it , yeah , just takes too many time .	evaluation of project process
+B	2051.07	People will still feel the need to to write it quickly on uh a page and not download it and save it , and More user-friendly .	evaluation of project process
+A	2054.68	Yeah .	evaluation of project process
+A	2058.17	You had expected it to to be uh more more uh Yeah .	evaluation of project process
+B	2065.41	'Cause when you use a pen , you can just draw like you d draw normally , and you do Yeah .	evaluation of project process
+A	2067.58	Yeah .	evaluation of project process
+D	2068.85	Yeah .	evaluation of project process
+D	2069.88	May maybe the idea you proposed is uh a screen here .	evaluation of project process
+D	2075.71	And draw it , and it's it's placed over there .	evaluation of project process
+A	2076.61	Yeah .	evaluation of project process
+B	2077.66	Yeah , that l Would be easier .	evaluation of project process
+A	2079.41	Yeah .	evaluation of project process
+B	2080.48	Or at least when you you don't have to adapt to the technology , just you can write in the way you normally write .	evaluation of project process
+D	2087.74	Hmm ?	evaluation of project process
+D	2087.98	No .	evaluation of project process
+B	2088.05	And now you have to um keep constantly in mind that you're drawing on this screen .	evaluation of project process
+B	2092.91	And that's a very bad concept .	evaluation of project process
+A	2093.42	Yep , yep .	evaluation of project process
+A	2095.52	Yeah , that's true .	evaluation of project process
+D	2095.8	Ah , very bad .	evaluation of project process
+B	2097.04	Nah , okay , I I it's my opinion that I Yeah , it's can be saved easier .	evaluation of project process
+D	2097.2	But I think this is better than regular flip-overs , but Yeah .	evaluation of project process
+B	2105.89	But if you're in normal flip-over you a lot of people write text .	evaluation of project process
+B	2110.22	There's no text option .	evaluation of project process
+D	2110.24	Yeah .	evaluation of project process
+B	2111.79	And writing text uh , yeah , you've gotta really do your best to write some Yeah .	evaluation of project process
+A	2116.34	Yeah , and and maybe some uh functions for uh uh uh circle or uh a square .	evaluation of project process
+A	2125.42	You have to draw it yourself now .	evaluation of project process
+B	2126.95	Or maybe even insert picture .	evaluation of project process
+D	2127.4	Yeah .	evaluation of project process
+B	2129.3	If you have uh some presentation , and you have some f Yeah .	evaluation of project process
+A	2130.94	Yeah .	evaluation of project process
+C	2131.36	Or text function .	evaluation of project process
+C	2132.43	Just t t type text , and that that would be uh excellent .	evaluation of project process
+C	2135.63	Mean Oh .	evaluation of project process
+A	2136.11	Yeah .	evaluation of project process
+D	2136.28	Yeah , but insert image isn't available ?	evaluation of project process
+B	2141.31	'Cause then you could Oh , okay .	evaluation of project process
+D	2141.82	Here .	evaluation of project process
+D	2142.3	Picture from scanner , clip-art .	evaluation of project process
+A	2143.58	Yeah , that that can be done already .	evaluation of project process
+A	2146.07	But not the the the the predefined uh squares I think uh Hmm ?	evaluation of project process
+B	2146.16	So you can With uh W_W_ dot Google dot com .	evaluation of project process
+D	2147.42	Hyperlink ?	evaluation of project process
+D	2151.33	Hey , what if you do like hyperlink ?	evaluation of project process
+D	2155.16	Type type it ?	evaluation of project process
+B	2160.87	Oh yeah .	evaluation of project process
+D	2160.97	Re Real Reaction dot N_L_ .	evaluation of project process
+B	2161.22	Maybe .	evaluation of project process
+D	2164.7	Yes , is now is okay .	evaluation of project process
+A	2164.87	Sorry ?	evaluation of project process
+D	2166.19	Okay ?	evaluation of project process
+B	2168.09	You'll just make a link in Yeah .	evaluation of project process
+D	2170.79	Huh .	evaluation of project process
+A	2172.82	Well , that's nice .	evaluation of project process
+B	2173.74	There's one way to uh Maybe if if you're not using the eraser Something else th Yeah , arrow .	evaluation of project process
+A	2175.49	Is it Here .	evaluation of project process
+D	2176.26	'Kay , double-click it .	evaluation of project process
+A	2180.9	oh .	evaluation of project process
+D	2182.26	You're erasing .	evaluation of project process
+A	2182.65	Oh , sorry .	evaluation of project process
+A	2185.17	Select .	evaluation of project process
+D	2187.04	Double-click it .	evaluation of project process
+A	2187.39	Yeah .	evaluation of project process
+A	2188.56	Here , that .	evaluation of project process
+B	2189.19	Okay .	evaluation of project process
+B	2190.4	Well , it's Yeah , okay .	evaluation of project process
+A	2190.46	So you have as you saw , you have a little uh Oh , you can Yeah , thank you .	evaluation of project process
+A	2199.22	You can go uh there .	evaluation of project process
+A	2204.05	So there the the the functionality is there , but it's not it's not ideal , and it's it's very it costs a lot of time to uh to use .	evaluation of project process
+B	2206.87	But .	evaluation of project process
+B	2211.81	To use , yeah .	evaluation of project process
+D	2213.47	Yeah .	evaluation of project process
+A	2213.66	And that's a pity , if you uh if you have uh thirty , forty minutes uh for this kind of things , and we are now with four people , but it well , imagine you are here you're with the ten people and everyone uh Yeah .	evaluation of project process
+B	2218.18	Yeah .	evaluation of project process
+B	2219.26	And that's m That's mostly the case , from the over here with the managements you get two minutes to make your case , and if you have to do all this kind You'll rather use PowerPoint and work it out in advance .	evaluation of project process
+A	2230.93	Two minutes of drawing , yeah .	evaluation of project process
+D	2232.5	Yep .	evaluation of project process
+A	2235.86	Yeah .	evaluation of project process
+B	2236.53	And th the one or two things you have to draw when you're there , just use a flip-board .	evaluation of project process
+A	2238.89	Yeah .	evaluation of project process
+D	2241.47	What I really miss also is uh is a d is a turtle is a decision uh decision system like um With the evaluation , you have to Polls like , what do you want , a one , a two , maybe a a l a little application like uh uh give your own number and click one two three four five six seven .	evaluation of project process
+A	2261.73	Yeah yeah .	evaluation of project process
+B	2262.82	Yeah .	evaluation of project process
+A	2272.7	Yeah , just like he said with the with the a screen which you can write , also uh a kind of voting uh mechanism .	evaluation of project process
+D	2277.5	Yeah , j ju ju yeah , v voting application .	evaluation of project process
+D	2280.46	Just a little group group decision application .	evaluation of project process
+A	2280.73	Yeah .	evaluation of project process
+A	2283.26	Yeah .	evaluation of project process
+C	2283.76	But uh , problem is , well you can't discuss anything well you you ca uh you can , but you will discuss a lot less than l like we did now .	evaluation of project process
+D	2292.66	Yeah .	evaluation of project process
+C	2293.12	We I mean uh w w w one one person s maybe said three .	evaluation of project process
+C	2297.26	But , well uh I we said uh , no I w th think two , because this and this , and then you can react uh on it .	evaluation of project process
+C	2303.62	But if you you put a three on it , uh just figure well , everybody knows what I'm knowing , so they'll all just put a two on .	evaluation of project process
+D	2303.62	Yeah , okay .	evaluation of project process
+D	2311.32	Yeah , of course .	evaluation of project process
+D	2311.95	But , uh you can still discuss about it , but but click it in an application , that's a lot easier to process .	evaluation of project process
+C	2316.13	Yeah , but it would yeah .	evaluation of project process
+C	2321.68	Yeah okay , the for processing part .	evaluation of project process
+D	2322.97	The digit .	evaluation of project process
+D	2323.55	Yeah .	evaluation of project process
+C	2324.37	But then uh , I think the idea of one person entering it and the rest uh discussing it , that uh isn't that bad idea , actually .	evaluation of project process
+D	2332.11	Yeah .	evaluation of project process
+C	2333.88	Not that your opinion isn't valued , but but still .	evaluation of project process
+D	2337.38	Yeah .	evaluation of project process
+A	2339.22	Yeah .	closing
+D	2339.94	Okay .	closing
+B	2340.16	Okay .	closing
+A	2340.3	Okay , so Uh well , just about , because uh Yeah , tomorrow ?	closing
+B	2341.12	Yo , manager .	closing
+D	2341.96	That's it ?	closing
+B	2342.84	When are w When are we going to produce it ?	closing
+D	2348.48	Celebration .	closing
+A	2348.94	Uh , the costs are within the budget .	closing
+A	2351.52	Uh , the project is evaluated .	closing
+D	2351.56	Yeah .	closing
+D	2353.46	Yeah .	closing
+A	2353.53	But , before we going to celebrate , uh I have uh a little question which you can't answer , because uh there must be some kind of end report .	closing
+A	2362.95	I am busy with the end report right now .	closing
+A	2365.16	You might thinking what the hell was he doing uh Uh about all the meetings , what we have decided , a r r a report of this day .	closing
+D	2367.01	What is an end report ?	closing
+D	2371.53	Yeah .	closing
+D	2372.85	Yeah , yeah .	closing
+A	2373.53	Uh , that must be made , but I don't know , here is uh standing uh whoa , we can celebrate now , but the end report is Okay well , that uh that can be done .	closing Filling in final report
+D	2379.51	Oh , you ha you have ten minutes left , I uh read .	closing
+B	2382.95	Oh .	closing
+D	2383.39	You have now ten minutes left to finish up the end report .	Filling in final report
+A	2387.77	Maybe we can do it uh together .	Filling in final report
+A	2389.29	You can see what I've uh yeah ?	Filling in final report
+D	2390.75	Yeah .	Filling in final report
+A	2391.31	So I I s I will uh put it on a story-board .	Filling in final report
+C	2391.53	Yeah , sure .	Filling in final report
+A	2396.37	You can see it .	Filling in final report
+D	2399.58	Um You you already made a beta version , or Pages .	Filling in final report
+A	2399.79	Because I think it will uh it must be uh Yeah , it's a three uh with seventy five uh Yeah , just about .	Filling in final report
+C	2411.45	Y yikes .	Filling in final report
+C	2412.83	Seventy five pages .	Filling in final report
+A	2414.92	Well , just a moment .	Filling in final report
+A	2416.2	End report .	Filling in final report
+D	2417.89	Okay , Daniel .	Filling in final report
+D	2423.78	Do you want a chair maybe ?	Filling in final report
+B	2426.14	A chairman .	Filling in final report
+D	2427.28	Hey ?	Filling in final report
+A	2427.55	No no no , I'm just uh you can s you can read it and uh here here it is .	Filling in final report
+D	2429.19	Oh , okay .	Filling in final report
+A	2432.85	End report .	Filling in final report
+C	2432.86	So you you finished it actually , and so we just have to read it and say yes or no ?	Filling in final report
+B	2437.52	Yes .	Filling in final report
+A	2437.68	Well , this not nit it read-only .	Filling in final report
+A	2440.4	But it's not uh fully finished yet .	Filling in final report
+D	2441.54	Five minutes for finishing .	Filling in final report
+A	2444.47	Um , this is about the functional design , the things yeah yeah .	Filling in final report
+D	2447.91	Management Expert , you have to change that .	Filling in final report
+A	2450.14	Oh yeah .	Filling in final report
+A	2450.87	I'm uh when I said it , I remember I had it here .	Filling in final report
+D	2451.9	Marketing .	Filling in final report
+B	2453.8	It's a read-only version .	Filling in final report
+D	2455.9	Yeah , but you can save it u the under another name .	Filling in final report
+B	2458.15	Oh , okay .	Filling in final report
+A	2459.22	Marketing Expert , okay .	Filling in final report
+A	2461.03	Um about the three functions where uh which are most used and uh which must uh immediately be visible on our uh remote control .	Filling in final report
+A	2472.12	Um , it must be uh simple to use , very clear what to do , and at the younger people .	Filling in final report
+A	2478.03	So , this is really about wh uh what kind things uh must be in it and uh yeah .	Filling in final report
+D	2483.26	Maybe um the The Yeah .	Filling in final report
+B	2490.97	Uh One two three .	Filling in final report
+A	2491.48	Yeah , I understand you , I can talk a little bit Dutch .	Filling in final report
+D	2494.06	You Yeah .	Filling in final report
+D	2494.91	No , you have to put uh , switch channels uh at the top , because that's the most used function and teletext at the second Oh nay , a volume changing , second .	Filling in final report
+A	2499.82	Oka okay , okay , I I really didn't knew that .	Filling in final report
+A	2507.7	So , this one's first .	Filling in final report
+D	2508.44	S switch , yes .	Filling in final report
+A	2511.49	You go there and you go there .	Filling in final report
+D	2514.5	Yeah .	Filling in final report
+A	2514.88	So , okay .	Filling in final report
+D	2515.24	Okay , go on .	Filling in final report
+A	2516.04	Well , maybe I can then do it one two three .	Filling in final report
+D	2520.86	Yes , very good .	Filling in final report
+A	2522.91	If the order is in uh is is uh important , that's the word for .	Filling in final report
+D	2524.5	Yeah .	Filling in final report
+D	2525.69	Yeah .	Filling in final report
+D	2526.96	The order .	Filling in final report
+A	2528.43	Uh , then the conceptual design .	Filling in final report
+A	2533.4	Uh , well all the things we have uh discussed , uh the energy , which uh turn out to be uh batteries , so that's Yeah , because yeah .	Filling in final report
+B	2541.28	Yeah .	Filling in final report
+B	2541.79	Well , okay , maybe you can add it later that we decided in the end because of the cost .	Filling in final report
+A	2546.54	Uh , he here it is still double-curve , the rubber , the flashy , the fruity , the removable .	Filling in final report
+D	2548.81	Single-curves .	Filling in final report
+A	2552.89	Uh , the buttons Hmm ?	Filling in final report
+C	2553.29	It's not double .	Filling in final report
+C	2554.39	Uh , it's not double anymore , eh ?	Filling in final report
+B	2554.58	A single-curved .	Filling in final report
+A	2555.94	Not double anymore .	Filling in final report
+D	2555.95	No , okay .	Filling in final report
+A	2556.9	Nay but that this is what um Yeah .	Filling in final report
+C	2558.98	Yeah , okay .	Filling in final report
+D	2559.21	Was initial , the plan .	Filling in final report
+C	2560.86	Yeah .	Filling in final report
+D	2561.1	The initial plan .	Filling in final report
+A	2561.59	And the the added functions like Tetris snake , it's under the parental control , the touch-screen .	Filling in final report
+C	2566.94	On thing uh One small thing uh , the added functions .	Filling in final report
+A	2567.05	So , it's uh just a summary of what uh we had discussed uh Uh , it's very cheap , you you maybe you you you you come at uh It's very necessary .	Filling in final report
+C	2572.06	Uh , was it included in the cost ?	Filling in final report
+C	2574.63	I don't think so , eh ?	Filling in final report
+B	2575.51	Ah , it's very cheap .	Filling in final report
+C	2576.82	It's very cheap .	Filling in final report
+D	2581.12	No , it's it's not very cheap , but that no , but it's a development inside corporation .	Filling in final report
+D	2590.16	Like , uh w we don't have to buy parental control .	Filling in final report
+D	2594.45	Our own people can make that , I think .	Filling in final report
+A	2596.11	Yeah , but it still has some yeah .	Filling in final report
+B	2597.49	Yeah .	Filling in final report
+D	2597.89	Yeah , it it has some cost , but Yeah .	Filling in final report
+A	2599.65	Okay , but so we can discuss that uh we can discuss that kind of things I think with the with the the board of uh What's it what's the company called ?	Filling in final report
+B	2599.96	He'll do it in his free time .	Filling in final report
+B	2601.42	So uh Of directur or directors .	Filling in final report
+A	2611.25	I just keep forgetting it .	Filling in final report
+D	2613.24	Real Reaction .	Filling in final report
+A	2613.84	Real Real Reaction .	Filling in final report
+B	2617.04	Yeah .	Filling in final report
+A	2619.22	Real Reaction , yeah .	Filling in final report
+B	2620.3	You can ask your personal Yeah , the end conclusion .	Filling in final report
+A	2620.83	Okay , so uh anybody uh misses something here about uh Yeah , okay , that's that's what I'm gonna write b between now .	Filling in final report
+B	2625.82	But uh Um , the decision to make um the buttons on the top , and the menu on the on the bottom .	Filling in final report
+D	2627.52	Okay .	Filling in final report
+D	2628.18	Still the end conclusion .	Filling in final report
+D	2629.38	That's all , I think .	Filling in final report
+A	2629.56	But , i in here nothing uh Mm-hmm .	Filling in final report
+B	2638.95	And clearly Yeah , touch-screen you've mentioned .	Filling in final report
+A	2639.51	Yes .	Filling in final report
+A	2643.06	Yeah , touch-screen I've mentioned .	Filling in final report
+D	2643.82	Yeah , but but the the decisions are put in the uh conclusion , I think .	Filling in final report
+B	2649.04	Okay .	Filling in final report
+D	2649.47	Why we decided to use a flat uh L_C_D_ .	Filling in final report
+B	2650.9	Okay , this n yeah .	Filling in final report
+A	2653.36	Yeah , okay , well I gonna redesign uh something now .	Filling in final report
+D	2658.54	Yeah .	Filling in final report
+A	2658.55	No .	Filling in final report
+D	2659.17	Um Save it .	Filling in final report
+B	2661.28	Party party .	Filling in final report
+A	2662.04	Because I think it will Oh , five minutes from to finish meeting .	Filling in final report
+B	2664.23	Oh , before you change anything maybe you um save it first .	Filling in final report
+D	2678.45	Hmm .	Filling in final report
+B	2678.72	You can't you can select file and export and then those J_ PEG files .	Filling in final report
+D	2683.41	Yeah , but then you had the same thing .	Filling in final report
+B	2685.62	Well , eight .	Filling in final report
+B	2686.42	And we have uh , another blank one .	Filling in final report
+D	2689.12	Example of children remote .	Filling in final report
+B	2689.69	Did we change anything ?	Filling in final report
+D	2691.3	Oh wait .	Filling in final report
+D	2692.32	Wait .	Filling in final report
+B	2705.57	Wow .	Filling in final report
+B	2708.99	Yeah .	Filling in final report
+B	2710.88	It's a new uh commercial logo .	Filling in final report
+D	2718.7	Hmm .	Filling in final report
+D	2721.48	That's a pity .	Filling in final report
+B	2722.91	Don't save it , aye ?	Filling in final report
+A	2725.88	Oh , that's cool , Tim .	Filling in final report
+B	2740.94	Uh , why are only the first five SMARTboard files saved ?	closing
+A	2741.06	Finish meeting now .	closing
+A	2742.23	Well , I'm I'm I'm going to finish my end report .	closing
+C	2747.63	Okay , um hereby is the meeting is finished .	closing
+D	2753.22	You declare .	closing
+A	2753.82	I am the one who can say that .	closing
+A	2755.68	Yeah ?	closing
+A	2756.71	Hereby the meeting is finished .	closing
+A	2758.36	Yeah .	closing

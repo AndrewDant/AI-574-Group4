@@ -1,0 +1,889 @@
+B	0	.	NO_TOPIC
+B	35.85	Mm-hmm .	chitchat
+B	38.11	So , ready ?	chitchat
+D	39.45	No not really .	chitchat
+C	39.88	'Kay .	chitchat
+D	41.34	Just Crap .	chitchat
+B	45.04	Sorry , I I um I'm afraid Uh thi this remote control will stay a prototype .	chitchat
+D	45.79	Okay .	chitchat
+C	49.56	It's perfect .	chitchat
+A	53.09	Your judgement it's is biased .	chitchat
+D	57.65	'Kay , so whe where is the remote control ?	chitchat
+A	59.95	So , we are So let's go for our detailed design meeting .	opening chitchat
+C	60.17	Where ?	chitchat
+C	62.0	It's here .	chitchat
+B	67.97	Okay .	chitchat
+D	72.25	Yep .	opening
+A	72.92	So I will still play the role of the secretary , and we'll have um first the project presentation by our User Interface Designer , David Jordan , and our Industrial Designer , Baba .	opening
+C	84.45	Okay .	opening
+C	87.62	Yeah .	opening
+B	87.82	Yeah .	opening
+B	91.97	Yeah .	opening
+C	93.56	'Kay .	opening
+A	94.27	So we'll have to evaluate the uh your proposed remote control , and um have an idea of the price that uh this thing will cost .	opening
+A	108.87	And in case if we're we all agree on the fabrica of um building of this remote control , we'll evaluate the um production .	opening
+A	120.75	So maybe I will let the our two designers talk about so their You have s oh , sorry .	opening
+C	126.42	I have slides .	presentation of RC prototype
+B	127.62	Okay .	presentation of RC prototype
+A	129.27	Oops .	opening
+C	131.0	Ah , that is three .	presentation of RC prototype
+B	132.2	Effectively one slide and maybe we can discuss everything .	presentation of RC prototype
+C	134.37	Product prod Yep .	presentation of RC prototype
+D	135.28	What slides ?	presentation of RC prototype
+C	137.52	Okay .	presentation of RC prototype
+C	140.82	Okay .	presentation of RC prototype
+C	142.92	So , this is our product or prototype .	presentation of RC prototype
+C	148.44	This is made by clay .	presentation of RC prototype
+A	150.62	Looks strange .	presentation of RC prototype
+C	151.59	Yeah .	presentation of RC prototype
+C	153.92	Uh the basic colour is uh yellow and red .	presentation of RC prototype
+C	158.36	Yellow is uh our company colour , uh red it's uh is more attractive .	presentation of RC prototype
+A	161.65	Okay .	presentation of RC prototype
+C	166.23	So we used two basic colour , yellow and red .	presentation of RC prototype
+C	169.77	And the shape , there's two basic shape .	presentation of RC prototype
+C	171.67	The first is a circle and the second is a triangle s piece .	presentation of RC prototype
+C	177.61	It's we call it a mushroom design .	presentation of RC prototype
+B	177.62	Okay .	presentation of RC prototype
+C	179.93	It's looks like some mushroom , so we call it mushroom design .	presentation of RC prototype
+B	180.96	Yeah .	presentation of RC prototype
+B	183.16	Uh Yeah , yeah I'm sure .	presentation of RC prototype
+C	183.81	So this is a introduction of our product .	presentation of RC prototype
+C	186.41	Next a mo Okay , yeah , so next slide .	presentation of RC prototype
+A	186.51	Genetically modified mushroom I will say , but keep on speaking .	presentation of RC prototype
+D	189.04	Yeah .	presentation of RC prototype
+C	192.79	So there are several key features of our pr prototype .	presentation of RC prototype
+C	196.34	The first is that it is fuzzy .	presentation of RC prototype
+C	198.78	I'm sure this would be the unique design the market .	presentation of RC prototype
+A	201.86	Oh .	presentation of RC prototype
+A	202.92	Maybe , I hope so .	presentation of RC prototype
+C	204.11	Yeah , so it's a fuzzy design , and a unique design .	presentation of RC prototype
+B	207.46	Yeah , that's true .	presentation of RC prototype
+C	208.08	Um , and uh the second key feature is that uh s circle channel um selection .	presentation of RC prototype
+C	217.18	In the traditional key uh traditional controller use button to to select the channel but now we have a s circle , so we can turn this ball to t to select channel .	presentation of RC prototype
+C	229.21	So it's quite convenient for user to use it .	presentation of RC prototype
+A	229.61	Chan Yeah , okay , but don't touch don't destroy your prototype .	presentation of RC prototype
+C	232.79	Yeah , s okay .	presentation of RC prototype
+C	236.5	Uh the third feature is a stable triangle base .	presentation of RC prototype
+C	240.55	Uh this sta uh this triangle base is very stable , so uh so it's it's um it's unlikely you cannot found it .	presentation of RC prototype
+C	250.92	So it's v Um , you can put it in the table so you can turn the the ball to cha to select the channel and there's some cute button .	presentation of RC prototype
+C	261.35	You c can can you can see the the shape of the buttons n is a mushroom , so Yeah , everything's mushroom .	mushroom and trendwatch
+A	267.36	Everything's mushroom .	mushroom and trendwatch
+B	268.63	Yeah .	mushroom and trendwatch
+A	268.99	So we can call our remote control the mushroom .	mushroom and trendwatch
+C	270.52	Mush Mushroom design , yeah .	mushroom and trendwatch
+B	272.07	Yeah but it's not like really mushroom because you have uh you know uh like lemon shape , you know , centre is yellow and t d To integrate , you know yeah .	mushroom and trendwatch
+C	277.96	Yeah .	mushroom and trendwatch
+A	278.73	Okay .	mushroom and trendwatch
+C	279.72	Yeah , th that's why if you put it in the table , be careful , somebody will eat it .	mushroom and trendwatch
+B	285.36	I don't think I hope nobody will eat it .	mushroom and trendwatch
+B	288.18	You know , to integrate the fruit aspect , you know the the in Really ?	mushroom and trendwatch
+C	290.64	Yeah .	mushroom and trendwatch
+A	290.95	Oh .	mushroom and trendwatch
+D	291.12	Yeah , because mushroom was not in the trends .	mushroom and trendwatch
+D	294.07	I mean there was fruits yeah .	mushroom and trendwatch
+A	294.97	Fruits and vegetables .	mushroom and trendwatch
+B	294.99	But Fruit and vegetable , so mushroom was a kind of you know uh Mushroom ?	mushroom and trendwatch
+A	297.42	Vegetables .	mushroom and trendwatch
+D	297.53	Yeah .	mushroom and trendwatch
+A	298.14	Mushroom is a vegetable .	mushroom and trendwatch
+D	299.51	I don't think it is .	mushroom and trendwatch
+C	300.59	Yeah .	mushroom and trendwatch
+A	301.49	It's vegetable .	mushroom and trendwatch
+C	302.7	Yeah .	mushroom and trendwatch
+D	303.0	Mm-hmm .	mushroom and trendwatch
+B	303.58	Oh , uh I'm not sure .	mushroom and trendwatch
+A	304.4	So th it's something eatable .	mushroom and trendwatch
+B	305.89	We can it's a veg a kind of vegetable , but you know we we integrated them with different colour .	mushroom and trendwatch
+D	306.32	Yeah .	mushroom and trendwatch
+C	308.32	Yeah .	mushroom and trendwatch
+D	309.94	But anyway this is not a mushroom anyway , so it's fine .	mushroom and trendwatch
+C	312.53	Yeah .	mushroom and trendwatch
+B	313.15	I I think we take into account what you said about fruit and vegetable you know .	mushroom and trendwatch
+B	318.55	This , you know , very enlighted colours , you know .	mushroom and trendwatch
+D	319.57	No , I mean , yeah yeah .	mushroom and trendwatch
+D	321.54	Inspira inspiration is True .	mushroom and trendwatch
+B	322.27	And inspired colour and and very sophisticated material , so .	mushroom and trendwatch
+C	328.98	Yeah .	mushroom and trendwatch
+B	329.0	And so So what we w what I can add is that , you know he talk about what is outside , so what is inside is what we dis what we talked before about , you know , the chip , it is a low level chip , and You know , we don't need to k .	presentation of RC prototype mushroom and trendwatch
+A	332.43	Next slide .	presentation of RC prototype
+C	333.82	Uh , no this our only two slides .	presentation of RC prototype
+C	341.39	Yeah .	presentation of RC prototype
+C	347.48	So we cut it to see .	presentation of RC prototype
+A	349.86	Mm-hmm .	presentation of RC prototype
+B	350.56	You know wi the low level chips inside and you know the L_C_D_ button and the i The battery it is under .	presentation of RC prototype
+C	356.85	Okay .	presentation of RC prototype
+C	357.84	So where's the battery battery ?	presentation of RC prototype
+B	360.7	It is in th in in the base , yeah .	presentation of RC prototype
+A	360.97	In the base .	presentation of RC prototype
+C	361.97	Base .	presentation of RC prototype
+A	362.27	In the basement .	presentation of RC prototype
+C	362.73	Here ?	presentation of RC prototype
+A	363.09	In the basement .	presentation of RC prototype
+A	364.09	And where is the solar solar cell ?	presentation of RC prototype
+D	364.58	But we say uh we sa we said solar .	presentation of RC prototype
+A	367.4	Where is the solar cell ?	presentation of RC prototype
+B	367.49	In fact this this this this is a kind of you know revolutionary solar receptor that we can put outside and I don't think so , but it it's might be okay , so .	presentation of RC prototype
+A	373.9	Oh .	presentation of RC prototype
+A	374.48	Do you think it won't be It won't cris increase the price ?	presentation of RC prototype
+C	374.62	Okay .	presentation of RC prototype
+A	380.17	Okay , we'll see after .	evaluation of prototype
+A	381.4	We will have first to so , mister money , what's your opinion according to this remote control ?	evaluation of prototype
+B	382.73	I it might be okay .	presentation of RC prototype
+C	384.26	Okay .	evaluation of prototype
+B	384.31	So Yeah .	look and feel presentation of RC prototype
+D	387.74	Yeah .	evaluation of prototype
+D	391.02	I mean , we gonna try to measure how good it is instead of just talking about uh we had three keys key points to uh for this remote control design , and first one was uh fancy look and feel .	look and feel evaluation of prototype
+A	410.3	Mm-hmm .	look and feel
+C	416.48	Yeah .	look and feel
+D	417.75	So w we'll try to judge this feature uh with a one to seven scale , one being uh no , I think .	look and feel
+D	426.7	Uh just let me check .	look and feel
+B	429.4	So , four point three point five , it means it's acceptable .	look and feel
+D	432.6	One one being true , and seven being false .	look and feel
+D	435.8	Okay .	look and feel
+B	436.85	Oops .	look and feel
+D	437.46	Ouch .	look and feel
+D	439.71	So Do we have a fancy look and feel , according to you ?	look and feel
+C	441.97	Okay .	look and feel
+C	444.4	Yeah , I think so .	look and feel
+B	445.35	I think you have nice colours .	look and feel
+B	447.34	I don't The sha the bowl shape people like .	look and feel
+D	447.46	But is it Uh I'll agree it's unique , but is it really Yeah I mean , fancy was was defined by s fruit and vegetable look .	look and feel
+C	449.33	Yeah , the shape is unique , and the colour So it depend on how d do you define fancy .	look and feel
+B	455.17	Is it really fancy ?	look and feel
+B	463.39	But it's you have the lemon aspect of this th this this thing .	look and feel
+D	469.98	Yeah .	look and feel
+A	471.63	Maybe if you change if you take the buttons out , and maybe do things like that It would be bet more like a lemon ?	look and feel
+B	474.62	Do Don't do that , please .	look and feel
+D	476.97	I dunno where the lemon is , but I mean it's not obvious .	look and feel
+B	479.69	I it's it's i this shape is a lemon like , so Yeah .	look and feel
+D	485.52	If I dunno , maybe improving the texture of like having it less smooth or Yeah .	look and feel
+B	488.64	Because i Less button .	look and feel
+A	491.06	Yeah .	look and feel
+C	494.79	Uh so , my mush .	look and feel
+A	498.69	Looks like more fruit .	look and feel
+B	500.47	Yeah , but you don't have any button now .	look and feel
+C	500.56	Mm .	look and feel
+A	500.68	Maybe a pineapple ?	look and feel
+D	503.57	I dunno .	look and feel
+A	504.82	And you know , you have the finger here , with the buttons ?	look and feel
+C	508.82	Yeah .	look and feel
+C	510.36	Hmm .	look and feel
+B	510.54	That's uh yeah , is that that's a good idea .	look and feel
+D	511.83	Yeah , it's getting Okay .	look and feel
+B	512.84	So that's great .	look and feel
+A	513.22	It looks more like a pineapple .	look and feel
+B	515.33	That's great .	look and feel
+A	515.73	Sorry .	look and feel
+A	516.64	What's the use for that ?	look and feel
+C	517.8	Uh , for turn turn the ball .	look and feel
+B	518.09	I have no idea , so .	look and feel
+C	519.16	If you want to turn the ball , it's very it's very convenient for you to to to turn the ball to change the channel .	look and feel
+B	520.65	I have no idea what If it is fancy or not .	look and feel
+A	527.93	And where is the voice recognition ?	look and feel
+C	528.12	Uh .	look and feel
+C	530.56	Ah , it's embedded , your microphone .	look and feel
+D	532.96	Yeah , that's Wait th that's the second point .	look and feel
+A	533.19	Okay .	look and feel
+C	533.44	Th this th th there's two two functions .	look and feel
+C	535.94	This is microphone array Okay .	look and feel
+D	536.36	First one is we have to judge the fancy look and feel .	look and feel
+A	540.08	Okay .	look and feel
+A	540.87	Is it better like that ?	look and feel
+D	541.97	I mean No , the colour is okay , that's fine .	look and feel
+B	542.42	So we can we can say t The colour , is the colour acceptable ?	look and feel
+A	542.75	Looks okay , let's say it's a pineapple now .	look and feel
+B	548.45	So the shape now .	look and feel
+D	548.75	I mean it's but I would say there is more too much red .	look and feel
+A	549.94	It looks like a now you took it .	look and feel
+B	552.87	It's too much red ?	look and feel
+D	553.81	Um if Right .	look and feel
+B	554.44	In the basement ?	look and feel
+A	555.71	It looks like a pineapple with cherry on top .	look and feel
+D	562.84	So , from one to seven ?	look and feel
+A	566.09	Mm uh Seven is the ma the maximum ?	look and feel
+B	566.34	I will give I will I'll gi I'll give two or three .	look and feel
+D	569.39	No , seven is false and one is true .	look and feel
+B	575.65	Three , it's okay .	look and feel
+A	576.08	Three , I will say three .	look and feel
+B	577.24	Three , three .	look and feel
+D	577.67	Three ?	look and feel
+B	577.89	Three is fine for me .	look and feel
+D	579.02	Okay .	look and feel
+C	579.29	'Kay .	look and feel
+D	582.58	Three .	look and feel
+A	582.97	Isn't it bitter like that ?	look and feel
+C	584.15	Yeah yeah yeah .	look and feel
+D	584.68	Then uh let me The other criterion is is it technologically uh technologically in innovative .	look and feel technological innovativeness
+B	587.11	What other Is it easy to use ?	look and feel technological innovativeness
+A	594.08	Feasible ?	technological innovativeness
+B	596.56	Ye uh Embedded .	technological innovativeness
+A	597.17	You said previously that you there's um microphone inside an Oh .	technological innovativeness
+C	601.19	Yeah , this is microphone array , in fact .	technological innovativeness
+B	603.23	It's a micro array , okay .	technological innovativeness
+C	603.52	There four microphone .	technological innovativeness
+A	604.79	Okay , and you have the there's the technology inside that recognise simple vocal comments ?	technological innovativeness
+C	604.86	So they they they they there's a microphone array .	technological innovativeness
+C	610.8	Yeah , yeah .	technological innovativeness
+C	612.59	So you can capture voice yeah , you c Yeah , so you can capture s voice from different directions .	technological innovativeness
+A	612.76	And you can turn it so maybe it's techno technologically innov innovative ?	technological innovativeness
+B	613.93	Oh yeah , yeah .	technological innovativeness
+B	616.28	And I think you you've never seen a rou a round remote control , so it is I W Yeah , but I see , you have microphone array embedded .	technological innovativeness
+D	619.97	Yeah bu but when you say technologically it's more uh I dunno , in the core , or single .	technological innovativeness
+C	620.02	Yeah .	technological innovativeness
+A	626.09	We have tactile buttons .	technological innovativeness
+D	629.21	Mm-hmm .	technological innovativeness
+B	631.55	You have That's good .	technological innovativeness
+D	631.88	No , that's good .	technological innovativeness
+D	632.37	Yeah .	technological innovativeness
+B	633.23	And you have , you know this ki this solar receptor that , you know Yes .	technological innovativeness
+A	635.76	Oh , yeah .	technological innovativeness
+D	636.83	Yeah , th that's another really good point .	technological innovativeness
+B	638.85	Yeah .	technological innovativeness
+D	638.97	Maybe okay .	technological innovativeness
+B	640.37	I think technically it's acceptable , so Yeah .	technological innovativeness
+A	643.07	Maybe two ?	technological innovativeness
+D	644.18	So using the same scale , two ?	technological innovativeness
+A	645.54	Two ?	technological innovativeness
+B	645.84	Two , yeah , two .	technological innovativeness
+A	645.88	I would say two .	technological innovativeness
+B	646.36	It's it's fine , so .	technological innovativeness
+A	647.96	You agree ?	technological innovativeness
+D	648.48	Okay .	ease of use
+C	648.56	Yeah , I agree .	ease of use
+A	649.51	It's better like that , isn't it ?	ease of use
+D	649.8	Now maybe the most critical one .	ease of use
+A	652.14	Okay .	ease of use
+B	652.22	Most Eh , for th the vocal command yes , it's might be easy .	ease of use
+D	653.37	L last one w I would like to judge is is it easy to use ?	ease of use
+B	664.68	But it's just speaking .	ease of use
+C	664.98	Yeah , it's very easy .	ease of use
+B	666.13	You just need the command .	ease of use
+D	666.48	Yeah but this this turning can you can you just re explain me the Please .	ease of use
+C	666.97	You can use this in this way .	ease of use
+B	670.49	As a principle .	ease of use
+C	671.48	Yeah .	ease of use
+C	673.27	Th this is the base .	ease of use
+D	674.71	Yeah .	ease of use
+C	674.79	So you can turn to change the channel .	ease of use
+D	678.4	Yeah but how how intuitive is it to turn things to change channels ?	ease of use
+C	681.27	You just tu turn d d Yeah .	ease of use
+B	682.71	I think maybe if you he If you hear some click Yeah , it would Oh yeah , that's difficult .	ease of use
+D	683.54	Like if you want to go from Yeah but imagine you y Yeah I'm I'm no I'm not definitely convinced it's it's the best way to if you wanna jump from , I dunno , one to twenty ?	ease of use
+A	683.99	Oh , ok I understand .	ease of use
+A	685.81	You take take the remote , so and you can turn like that to change the channel ?	ease of use
+C	691.7	Yeah .	ease of use
+A	692.75	I think it's quite easy to so s zapping , but maybe it will be too fast .	ease of use
+C	705.23	Yeah .	ease of use
+D	705.96	How can you go directly to twenty , for example ?	ease of use
+B	706.47	That's dif that's difficult .	ease of use
+C	709.59	No , no , no .	ease of use
+C	710.65	I if y uh if it depend on the the angle you turn the I if if this is a channel one .	ease of use
+D	711.01	Yeah .	ease of use
+D	714.96	Yeah .	ease of use
+B	715.59	Yeah but y how you need to know I I think something that Yeah .	ease of use
+D	715.69	I agree .	ease of use
+D	716.15	I agree .	ease of use
+D	716.57	But I mean if you're fro from two ?	ease of use
+C	719.67	So it c it could be channel two , channel three , channel four , channel five .	ease of use
+A	723.48	Yeah , you have a , like that , and so on .	ease of use
+C	723.8	So change .	ease of use
+C	724.98	Yeah .	ease of use
+B	725.5	And you you can I think you can if you have a scale , so Yeah , it's a bit difficult .	ease of use
+D	725.68	Yeah ju just imagine you have fifty fifty channels uh We're not talking Yeah .	ease of use
+A	727.98	Oh yeah .	ease of use
+C	729.52	Y uh fifth channel divided by the num by the by three hundred thirteen degree .	ease of use
+C	735.42	So you got how many degree you you it No no , you don't have to y no it's uh when you when you stop t uh when you stop , the the turn , then the angle you stop is the angle you is the channel you It's it's very easy , because you kn you know how many channel are there in the Yeah , yeah , yeah .	ease of use
+A	737.73	Yeah but y but you have to go through all the channels if you want to go Mm-hmm .	ease of use
+D	753.01	Yeah .	ease of use
+D	753.78	How d how do you know this angle is th is the correct one ?	ease of use
+D	761.75	So you you count one degree , two degrees , no .	ease of use
+C	765.85	You can do it .	ease of use
+D	767.44	I don't think so .	ease of use
+C	768.39	I think so I think so you can do it .	ease of use
+C	772.71	I think so , you can just change .	ease of use
+B	774.0	I think b but the the vocal command is easy too .	ease of use
+B	776.48	You can say fifty and fifty it's okay , so Uh , yeah , and y that's yeah .	ease of use
+D	777.02	Yeah voc vocal command is okay .	ease of use
+D	779.13	But w we've said previously that maybe it's not going to be th l the main And this would be more for browsing , ah .	ease of use
+C	782.06	There's uh also a number , you know .	ease of use
+A	782.74	Yeah , but when you're zapping you're changing from one channel to the other , so you're passing through all the channels .	ease of use
+A	788.45	So , when you say I want to go to the channel number twenty that's you've decided to go to channel twenty , so you can say channel twenty , or channel four , because you really want to go on this channel .	ease of use
+A	797.67	But if you really want to to do zapping you you don't really know what you want to do , you can turn it .	ease of use
+D	800.52	Yeah .	ease of use
+B	802.98	Yeah .	ease of use
+A	803.06	Just go through all the channels and maybe stop if there is something interesting ?	ease of use
+B	804.36	To see uh yeah uh Yeah .	ease of use
+C	804.67	Mm-hmm .	ease of use
+C	805.52	Yeah .	ease of use
+C	806.25	Yeah .	ease of use
+D	807.33	Mm-hmm .	ease of use
+A	808.63	Seems to be good .	ease of use
+C	810.35	Yeah .	ease of use
+A	811.84	Good choice , mister David Jordan .	ease of use
+C	813.27	Yeah .	ease of use
+D	815.48	Yeah , I mean you're famous .	ease of use
+B	816.32	And but I'd It is a turn off t turn off button , maybe .	ease of use
+C	816.64	And also you can , if you i You ca you can turn this .	ease of use
+D	817.55	You .	ease of use
+A	818.68	yeah , what's what's this cherry ?	ease of use
+C	820.45	Or you ca you can you can also turn this .	ease of use
+C	823.01	For this you can tune it's for tune .	ease of use
+C	825.0	You you if you want to skip from channel one to channel two , you you skip this .	ease of use
+C	829.11	If you want to from uh skip from channel one to channel ten you tune this .	ease of use
+D	833.71	Mm .	ease of use
+C	833.75	It's like fine , from coarse to fine .	ease of use
+C	835.78	This is coarse , this is fine .	ease of use
+B	837.23	Yeah , yeah yeah .	ease of use
+B	837.81	That's that's very technologic , so .	ease of use
+A	837.99	Okay .	ease of use
+C	838.28	So it's coarse to fine design .	ease of use
+B	840.78	Yeah .	ease of use
+C	840.8	Yeah .	ease of use
+D	840.95	Okay the uh th this looks better .	ease of use
+D	842.34	Yeah .	ease of use
+C	842.5	Yeah is is this is , from one channel to maybe to ten channel .	ease of use
+B	844.49	S But I di I didn't see where the t f the turn off t turn on turn off button so much activates maybe one of the Uh it's k on off , yeah .	ease of use
+C	846.68	This is from one channel to Yeah .	ease of use
+A	850.58	Yeah , th you have the vocal commands .	ease of use
+C	850.94	Yeah .	ease of use
+C	853.15	Yeah .	ease of use
+A	853.77	On off .	ease of use
+D	855.66	Yeah , but it has to be on to recognise fas Ah , that's not the ecological part , yeah .	ease of use
+A	858.25	Most of the time you have the yeah it's a sleeping remote control .	ease of use
+B	862.21	Yeah , sleeping .	ease of use
+A	865.31	That's true .	ease of use
+A	865.74	W that why we have the solar ti yeah .	ease of use
+D	867.46	Solar .	ease of use
+B	868.03	To compensate .	ease of use
+B	870.36	Yeah .	ease of use
+C	870.55	Okay .	ease of use
+A	871.5	So three .	ease of use
+D	871.51	So , which number ?	ease of use
+B	874.04	Easy to use , it's very relative but three it's fine , I think , it's reasonable three .	ease of use
+C	878.42	Mm-hmm .	ease of use
+A	878.67	Do you agree ?	ease of use
+C	879.38	Yeah , agree , agree .	ease of use
+A	879.44	Three ?	ease of use
+D	880.26	So reasonably , is four , is one ?	ease of use
+B	882.5	Three f three for me , it's o it's okay .	ease of use
+D	886.47	So , three .	ease of use
+B	888.08	Four or three .	ease of use
+B	889.25	Maybe you can vote to see how many everybody gives and no and just take the mean .	ease of use
+A	892.82	And what's your opinion ?	ease of use
+D	894.92	Uh we wouldn't say , I mean , those are sort of agreed but this one would be more five to me .	ease of use
+B	895.06	Will you give four ?	ease of use
+B	899.84	Five ?	ease of use
+D	900.36	I'd like I mean this is the just a prototype .	ease of use
+D	903.41	I'm not really convinced it's so easy to use , but I don't know .	ease of use
+B	906.15	Yeah , so maybe if Yeah but y you know You just push two button , zero and and one .	ease of use
+C	907.49	Uh w w what do y what uh you compare with traditional uh um tr traditional controller ?	ease of use
+D	911.82	Yeah .	ease of use
+C	914.91	I think it's easier than traditional controller .	ease of use
+C	916.78	If you use traditional controller you have to put a button , but now you don't have to put button , you have you just turn the turn the ball .	ease of use
+C	923.53	There's two kind of balls , the smaller the the the so you can c you can c you can control the scale .	ease of use
+D	923.64	So you have yeah .	ease of use
+C	928.58	But in the traditional controller , how do how can you control the scale ?	ease of use
+D	932.41	Uh by pushing zero after after the first one .	ease of use
+C	935.61	Yeah , yeah , yeah , y you you can do it , but you can also do it in the b if you you do not wa if you do not want to browsing all the channel you can just p there's also a button here .	ease of use
+B	936.23	And that's Are there some buttons ?	ease of use
+D	938.05	Yeah .	ease of use
+B	947.33	Okay .	ease of use
+C	947.52	Yeah , this function is just for your browsing , from one channel to th the next one , the next s sn s , the th the third one .	ease of use
+D	953.64	Mm-hmm .	ease of use
+A	953.65	It's not what you said previously .	ease of use
+A	955.18	Previously you said that turning this was the fine Fine to coarse .	ease of use
+D	955.4	Yeah , if you're changing your mind .	ease of use
+D	959.61	Fine to coarse .	ease of use
+C	961.08	Yeah , yeah .	ease of use
+A	961.59	And from ten to ten channels here .	ease of use
+C	963.92	Y one to ten , ten to twelve , uh ten to t uh twenty .	ease of use
+C	968.16	Ten to twenty and this one , t one two three four five six , like this .	ease of use
+A	972.02	Okay .	ease of use
+C	972.95	Uh there's different scale , so you can you can choose how much do you want to sc Mm-hmm .	ease of use
+D	975.91	Okay .	ease of use
+D	977.44	But this this has to stay on the table , right ?	ease of use
+D	980.89	This has to stay on the table .	ease of use
+C	984.56	I i this is just a base .	ease of use
+B	985.42	In fact on a flat place You can Oh ye yes , that's right .	ease of use
+C	987.16	You can just Yeah .	ease of use
+D	989.62	Yeah but then uh when you turn turn it Just It's Yeah .	ease of use
+A	990.8	Oh Yeah , no no , no .	ease of use
+A	994.12	You can't put it out .	ease of use
+A	995.6	It's just your turning from the base .	ease of use
+A	997.42	You need to have everything in hand .	ease of use
+A	999.02	If you want to turn , you can't use it and turn .	ease of use
+A	1002.08	It's impossible .	ease of use
+A	1003.22	You need to put it on and turn .	ease of use
+D	1004.42	You know tha that's the weak point , because with a traditional one you just have one hand .	ease of use
+B	1005.45	Oh my God .	ease of use
+C	1006.51	You use your y So th this is a d next generation controller .	ease of use
+A	1007.85	Yeah , but nobody would be able to take it in the pocket and bring it in the kitchen and say I've lost the remote control .	ease of use
+A	1015.0	Nobody would take it .	ease of use
+D	1016.3	Sure .	ease of use
+D	1017.45	Yeah , you would never you would never lose this one , yeah .	ease of use
+A	1018.17	So nobody w will lost lose it .	ease of use
+B	1023.69	yeah maybe , maybe may it's the next prototype , maybe we cou Four .	ease of use
+D	1023.93	Yeah .	ease of use
+C	1024.59	Yeah .	ease of use
+C	1028.37	Okay okay , okay .	ease of use
+A	1029.59	S maybe we can change from th Four ?	ease of use
+B	1031.04	Maybe four , it's okay .	ease of use
+C	1031.33	Four .	ease of use
+C	1031.8	Okay .	ease of use
+B	1032.52	I'll put four .	ease of use
+A	1032.9	Easy to use , four .	ease of use
+A	1034.14	Gonna say four .	ease of use
+D	1034.14	Four .	ease of use
+B	1034.64	Yeah , four it's more reasonable .	ease of use
+D	1035.33	Uh it's even easier to maybe .	ease of use
+B	1038.46	You can you can erase with this er yeah .	ease of use
+D	1040.46	Ok Mm .	ease of use
+C	1042.79	Okay .	ease of use
+B	1048.12	Yeah , four it's more reasonable , so .	ease of use
+B	1050.71	So it's nine , nine over three .	evaluation of prototype
+D	1050.76	So , average ?	evaluation of prototype
+D	1053.88	Three ?	evaluation of prototype
+C	1053.97	Three ?	evaluation of prototype
+A	1054.96	Trois .	evaluation of prototype
+A	1055.71	Three .	evaluation of prototype
+B	1055.71	Oh yeah , it's .	evaluation of prototype
+C	1056.36	Trois .	evaluation of prototype
+D	1058.56	Okay , so Yeah , especially on the easy to use target .	evaluation of prototype
+B	1060.18	It need maybe some wo further work , but it's Yeah , uh s yeah .	evaluation of prototype
+C	1065.03	Yeah .	evaluation of prototype
+B	1066.47	Might it might be fine .	evaluation of prototype
+A	1067.27	So , th the project is accepted ?	evaluation of prototype
+D	1067.71	Okay .	evaluation of prototype
+C	1070.39	Yeah .	evaluation of prototype
+B	1071.28	Yeah , b I think Yeah , yeah .	evaluation of prototype
+A	1072.3	But I d m I think that it will be good to do some more work to transform this into a pineapple .	evaluation of prototype
+C	1080.58	Yeah .	evaluation of prototype
+C	1082.16	Yeah .	evaluation of prototype
+A	1082.53	If you re we really want to have a fruitful remote control .	evaluation of prototype
+C	1088.91	Okay .	evaluation of prototype
+A	1094.81	So uh mm mm .	evaluation of prototype
+B	1096.34	That's the finance .	evaluation of prototype
+A	1096.64	Mm .	evaluation of prototype
+A	1098.08	Okay and we we had a project prototype presentation with the evaluation .	evaluation of prototype
+A	1104.19	So as we all agree to accept , under certain conditions , the prototype , we'll have look to the final sh financial view .	financial evaluation
+B	1109.6	Yeah .	financial evaluation
+C	1109.71	Mm .	financial evaluation
+C	1111.32	Okay .	financial evaluation
+A	1121.12	So we need to calculate the production cost .	financial evaluation
+D	1126.55	Mm-hmm .	financial evaluation
+A	1127.02	As I said in the first meeting we need to have so a remote control that would cost not more than twelve and point fifty Euros .	financial evaluation
+C	1133.96	Mm-hmm .	financial evaluation
+C	1136.28	Mm-hmm .	financial evaluation
+A	1136.42	And if not if it's not the case y you would have to redesign it .	financial evaluation
+B	1139.95	Oh yeah .	financial evaluation
+C	1140.61	Yeah .	financial evaluation
+A	1141.17	So , just have a look at the okay here is the Excel sheet , so so it has the energy source .	financial evaluation
+A	1158.32	We have hand dynamo .	financial evaluation
+A	1160.15	No , we don't use that .	financial evaluation
+D	1160.73	No .	financial evaluation
+A	1162.93	We have battery , right ?	financial evaluation
+B	1164.16	Yeah , we have battery .	financial evaluation
+A	1165.71	Kinetic , we don't have it , I suppose , but we have solar cells .	financial evaluation
+B	1166.96	No , um solar cells , yeah .	financial evaluation
+A	1169.62	Um , how many do y do you need , solar cells ?	financial evaluation
+A	1172.06	Do you think one would be enough , or such as as number of branches ?	financial evaluation
+B	1176.63	Uh I think in each ball you have three three uh yeah , three , yeah .	financial evaluation
+A	1178.49	Three ?	financial evaluation
+B	1180.0	Three three solar cells .	financial evaluation
+A	1181.35	So , electronic .	financial evaluation
+A	1185.12	Single simple chip on print ?	financial evaluation
+A	1186.92	Just one would be necessary ?	financial evaluation
+B	1186.98	S s simple , simple , yeah .	financial evaluation
+A	1188.69	One ?	financial evaluation
+B	1189.07	Yeah .	financial evaluation
+A	1190.29	Zero for the others .	financial evaluation
+A	1194.07	And sample sensor , sample speaker .	financial evaluation
+A	1198.76	One ?	financial evaluation
+B	1198.78	Mm .	financial evaluation
+B	1199.67	One maybe , yeah .	financial evaluation
+A	1200.58	As we have voice recognition , I think .	financial evaluation
+B	1201.83	Yeah yeah yeah .	financial evaluation
+A	1204.2	So the case .	financial evaluation
+B	1204.22	Is it Is sh it Wooden .	financial evaluation
+D	1208.44	So we are all already nineteen .	financial evaluation
+A	1213.04	Okay , just keep on going , just to have an idea .	financial evaluation
+C	1214.31	The solar cell is too expensive .	financial evaluation
+D	1215.84	Yeah .	financial evaluation
+B	1218.79	Is Yes a wooden pl I and that's There's no wood , so plastic just only , I think .	financial evaluation
+A	1220.91	Well uh yeah , but what what about case ?	financial evaluation
+A	1223.83	Uncurved , flat , single curved , double curved .	financial evaluation
+A	1226.85	I think it's more like double curved .	financial evaluation
+D	1227.54	That's gonna be double curved , yeah .	financial evaluation
+B	1228.14	Double curve , yeah , double curve .	financial evaluation
+A	1229.69	One ?	financial evaluation
+B	1231.11	One , you have .	financial evaluation
+A	1237.87	Uh wood ?	financial evaluation
+B	1239.95	But it's yeah , a a rubber uh Yeah , yeah .	financial evaluation
+D	1240.53	Rather four buttons .	financial evaluation
+D	1241.91	Oh no , interface .	financial evaluation
+A	1241.95	Uh do we need special colour ?	financial evaluation
+A	1244.99	Y maybe , two ?	financial evaluation
+D	1246.09	Yeah , yeah that's special colours , sure .	financial evaluation
+A	1246.13	We have two special colours .	financial evaluation
+B	1246.66	Y y yeah , yeah .	financial evaluation
+A	1249.22	Push button .	financial evaluation
+C	1251.08	Mm .	financial evaluation
+C	1251.61	Yeah , we have four .	financial evaluation
+B	1254.18	Five ?	financial evaluation
+C	1255.09	Five .	financial evaluation
+A	1256.01	Okay .	financial evaluation
+A	1260.84	Scroll wheel .	financial evaluation
+C	1261.72	No .	financial evaluation
+A	1261.73	We don no .	financial evaluation
+A	1264.08	It it's more like integrated scor .	financial evaluation
+B	1265.82	I think that this will be like a scroll wheel , actually .	financial evaluation
+C	1266.48	No no .	financial evaluation
+D	1267.17	Yeah tha that's wheel .	financial evaluation
+B	1268.08	Y you tu you turn you turn it , so Yeah , true .	financial evaluation
+C	1268.37	No no no , it Okay .	financial evaluation
+A	1271.56	Yeah , maybe two scroll wheel , as we have the coarse coarse to fine scroll wheel .	financial evaluation
+D	1272.3	Yeah .	financial evaluation
+B	1274.21	Yeah , yeah .	financial evaluation
+B	1274.67	Yeah .	financial evaluation
+B	1276.47	Okay , yeah , yeah .	financial evaluation
+B	1277.26	Scr L_C_ display , maybe .	financial evaluation adapting design to budget constraints
+A	1280.23	So , no button supplements ?	financial evaluation
+D	1280.41	I think the price is okay .	financial evaluation
+C	1282.58	No .	financial evaluation
+A	1283.56	Okay .	financial evaluation
+D	1283.56	Um , no .	financial evaluation
+A	1287.99	Okay we I think we have problem .	adapting design to budget constraints
+B	1291.41	Interface .	adapting design to budget constraints
+A	1292.92	I think we s if we keep on adding things so we have to Maybe if w t if suppose if we change and we g put just one ?	adapting design to budget constraints
+B	1295.95	It's okay .	adapting design to budget constraints
+B	1297.14	fine .	adapting design to budget constraints
+D	1299.28	Yeah w one of the m key point is solar cells .	adapting design to budget constraints
+D	1309.89	Yeah .	adapting design to budget constraints
+A	1311.13	Has it changed .	adapting design to budget constraints
+B	1313.05	Yeah , it was stage one , so .	adapting design to budget constraints
+D	1313.7	No y i it did change , but just imagine we have Yeah .	adapting design to budget constraints
+A	1315.35	Okay .	adapting design to budget constraints
+C	1315.91	We have change the electronics to from from the the the sample sensor to regular chip .	adapting design to budget constraints
+B	1320.91	So I think you can transform the wood into plastic , maybe .	adapting design to budget constraints
+C	1323.91	Oh .	adapting design to budget constraints
+C	1326.02	We have to delete the the sample sensor , I think .	adapting design to budget constraints
+A	1328.45	Yeah , but we have you the the voice recognition , no ?	adapting design to budget constraints
+D	1333.3	Yeah but this one one of the feature we were not really Yeah .	adapting design to budget constraints
+C	1335.54	Yeah it's the one it's m maybe we ha we have two versions , the first version , the basic version .	adapting design to budget constraints
+A	1337.09	Okay .	adapting design to budget constraints
+C	1340.3	Advanced version we have speak .	adapting design to budget constraints
+B	1342.47	Because uh it seems that this can be yeah , wood into plastic and it it should be fine .	adapting design to budget constraints
+D	1342.85	Yeah , if Yeah .	adapting design to budget constraints
+A	1343.75	Or it would be better .	adapting design to budget constraints
+C	1351.62	Plastic is free .	adapting design to budget constraints
+A	1356.02	So , do we need special colour ?	adapting design to budget constraints
+D	1358.13	Yeah , that's one of the requirement .	adapting design to budget constraints
+A	1359.07	Because we have red .	adapting design to budget constraints
+B	1360.67	Yeah , red and yellow .	adapting design to budget constraints
+C	1361.17	Wait .	adapting design to budget constraints
+A	1361.43	Red and yellow .	adapting design to budget constraints
+D	1362.48	We could turn we could turn everything in either yellow or black .	adapting design to budget constraints
+B	1362.52	Fancy .	adapting design to budget constraints
+C	1362.66	We we can we can we c yellow .	adapting design to budget constraints
+D	1366.76	Black then is a regular colour , so .	adapting design to budget constraints
+A	1369.03	I think so we need if we try to have a kind of pineapple bee .	adapting design to budget constraints
+D	1372.37	Yeah , one .	adapting design to budget constraints
+D	1374.36	Yeah .	adapting design to budget constraints
+D	1376.39	So push button then it's it's the next expensive one .	adapting design to budget constraints
+A	1379.55	Yeah .	adapting design to budget constraints
+A	1380.18	An but we have integrated scroll wheel with push dut button .	adapting design to budget constraints
+A	1382.84	And I think this is one .	adapting design to budget constraints
+D	1384.34	Yeah , thi this might be .	adapting design to budget constraints
+A	1384.55	Integrated scroll wheel push button .	adapting design to budget constraints
+A	1386.73	So we'll we have only one ?	adapting design to budget constraints
+A	1390.46	And push button .	adapting design to budget constraints
+D	1393.57	Close to .	adapting design to budget constraints
+A	1395.05	So if we have all integrated i in the scroll wheel and push button , it's uh Something flat .	adapting design to budget constraints
+B	1396.61	One .	adapting design to budget constraints
+B	1400.98	I can remove maybe f you have five with push buttons , so we can just , I dunno , try to modify some of them to have yeah .	adapting design to budget constraints
+D	1412.28	Okay , so what's the bottleneck ?	adapting design to budget constraints
+C	1416.84	How about we change the sale ?	adapting design to budget constraints
+D	1417.57	Double curved .	adapting design to budget constraints
+B	1418.18	Double curve .	adapting design to budget constraints
+B	1418.82	We can transform the double curve into single c yeah .	adapting design to budget constraints
+B	1422.07	F some Single curve .	adapting design to budget constraints
+D	1422.98	Yeah , but flat Case , what's the ca And then one Euro left .	adapting design to budget constraints
+A	1424.76	S uncurved .	adapting design to budget constraints
+A	1426.85	Yeah , maybe not .	adapting design to budget constraints
+A	1429.19	Yeah .	adapting design to budget constraints
+B	1429.6	Single curve should be fine , so .	adapting design to budget constraints
+B	1434.79	Oh , what It's it's a bad idea , so .	adapting design to budget constraints
+A	1437.87	Mm .	adapting design to budget constraints
+C	1438.24	Ah we have one Okay .	adapting design to budget constraints
+A	1438.87	Nearly .	adapting design to budget constraints
+D	1442.73	Um .	adapting design to budget constraints
+A	1446.48	Maybe don't bat no battery , only solar cells .	adapting design to budget constraints
+D	1454.3	Um So we have one button , one wheel .	adapting design to budget constraints
+A	1454.98	I think there's a problem with the push push button .	adapting design to budget constraints
+A	1457.49	We only need maybe just one .	adapting design to budget constraints
+B	1458.55	Two ?	adapting design to budget constraints
+B	1459.68	One .	adapting design to budget constraints
+A	1460.06	Just one .	adapting design to budget constraints
+A	1463.23	Yeah .	adapting design to budget constraints
+B	1464.31	That's fine .	adapting design to budget constraints
+C	1465.37	Okay .	adapting design to budget constraints
+B	1465.88	That's fine .	adapting design to budget constraints
+C	1466.38	Agree .	adapting design to budget constraints
+A	1468.45	So yeah , you will have So one button , and s scroll wheel with push button on it .	adapting design to budget constraints
+B	1468.84	One s one scroll wheel , so And the vocal chord , it's fine .	adapting design to budget constraints
+B	1479.44	It I th it's fine .	adapting design to budget constraints
+A	1481.56	So So , yeah .	financial evaluation adapting design to budget constraints
+D	1482.53	It's good they're not charging anything for that .	adapting design to budget constraints
+A	1487.3	It think we we've done good job , as the cost is twelve fifty e Yeah , but it's under or equal .	financial evaluation
+C	1490.44	Cou could we have look Could we have look at the p the the prod the p the cost ?	financial evaluation
+D	1493.54	Yeah y actually it's wrong .	financial evaluation
+D	1494.65	We're not under twelve Euros and a half .	financial evaluation
+A	1499.1	It's not written .	financial evaluation
+B	1499.62	It's fine .	financial evaluation
+A	1499.8	Sometimes it's under or equal .	financial evaluation
+B	1501.38	It's under or equal .	financial evaluation
+D	1501.94	Okay .	financial evaluation
+B	1502.23	It's fine , so It's fine , twelve fifty uh The solar cells , r is i is it ?	financial evaluation
+D	1503.18	Okay .	financial evaluation
+C	1504.07	Okay .	financial evaluation
+C	1505.12	So let's say Wha what yeah .	financial evaluation
+A	1507.0	Twelve fifty .	financial evaluation
+C	1509.84	Which part is the most expensive part ?	financial evaluation
+D	1512.68	Solar cells .	financial evaluation
+A	1513.84	Yeah , I think .	financial evaluation
+C	1514.66	Yeah , I think it's not t t Cheaper .	financial evaluation
+A	1517.96	I think , yeah .	financial evaluation
+A	1519.21	But it would i be interesting for our marketing team , to make a lot of advertisement concerning these solar cells to be Yeah but it will be technologically innova innovative , so .	financial evaluation
+B	1522.63	Yeah , to be able to si to sell it .	financial evaluation
+D	1526.71	Yeah .	financial evaluation
+D	1528.12	That's nice argument , but if it's it's still four our of twelve .	financial evaluation
+B	1529.08	Yeah , with mi It's it is really really uh really very very expensive , though .	financial evaluation
+D	1534.9	Yeah .	financial evaluation
+B	1536.15	Maybe if uh okay .	financial evaluation
+C	1537.83	Okay .	financial evaluation
+B	1540.35	Yeah , yeah .	financial evaluation
+D	1541.54	Yeah but we just have one button .	financial evaluation
+A	1544.84	So it's easy to use and powerful , as the remote control a has only one button .	financial evaluation
+D	1552.98	Easy .	financial evaluation
+D	1553.49	I don't know about powerful .	financial evaluation
+D	1555.4	Yeah .	financial evaluation
+B	1556.18	It's easy to use .	financial evaluation
+A	1556.47	Easy , powerful .	financial evaluation
+B	1556.91	It's very easy to use .	financial evaluation
+D	1560.78	Mm .	financial evaluation
+A	1562.0	So I don't think we need to redesign the p the product .	financial evaluation
+B	1567.65	No .	financial evaluation
+D	1567.79	Uh that's what we've just done .	financial evaluation
+B	1570.51	We've done it with it is under the if it was low , high or so .	financial evaluation
+A	1571.02	Yeah .	financial evaluation
+D	1571.43	Yeah .	financial evaluation
+D	1577.24	Um okay .	financial evaluation
+A	1577.72	So Now So So did you enjoy your clay modelling ?	financial evaluation evaluation of project
+B	1581.38	So So what are we going to do with this project evaluation ?	evaluation of project
+D	1587.6	Well I think we have just have to discuss if I dunno .	evaluation of project
+B	1589.53	Okay , okay , it's fine .	evaluation of project
+C	1596.53	Yes .	evaluation of project
+C	1597.31	Of course .	evaluation of project
+C	1598.23	This is my job .	evaluation of project
+A	1598.46	Yeah ?	evaluation of project
+A	1601.31	Was it a nice way to create your remote control ?	evaluation of project
+C	1604.28	Yeah , it's uh it's good , to to create a control instead of a computer .	evaluation of project
+B	1617.05	Yeah , I think I find it really funny and amazing and interesting to go through all the process to from the beginning to the end .	evaluation of project
+B	1625.22	And designing , looking at the chips , the solar cells and uh and it was very informative for .	evaluation of project
+C	1628.21	Yeah .	evaluation of project
+A	1632.92	And for the marketing guy ?	evaluation of project
+D	1636.03	Uh tha that was good but we should have more brainstorming like meetings , maybe .	evaluation of project
+B	1641.37	Yep .	evaluation of project
+D	1641.65	'Cause we just presenting one is presenting his stuff next one his stuff and then we try to combine afterwards , so it um .	evaluation of project
+C	1645.57	Okay .	evaluation of project
+B	1648.5	Okay , okay .	evaluation of project
+A	1650.31	And new ideas about new products , maybe , wi which would be fashion and uh and yellow .	new idea for TV
+B	1662.99	Yellow .	new idea for TV
+B	1663.47	I think you can think about a yellow T_V_ now after a fruit T_V_ or I dunno .	new idea for TV
+B	1669.21	It can be an interesting I don't know Yeah , just a lemon T_V_ it'd be yellow lemon .	new idea for TV
+A	1670.97	Yes , just lemon .	new idea for TV
+C	1674.33	Yeah , but y you know the traditional T_V_ it's um Yeah yeah it's flat , yeah the shape is very boring .	new idea for TV
+B	1677.38	It's flat , uh Yeah , that's right .	new idea for TV
+A	1679.03	Squared ?	new idea for TV
+C	1681.91	Could we come up with new T_V_ with such as this kind of T_V_ ?	new idea for TV
+B	1682.27	It's really boring , yeah .	new idea for TV
+B	1684.56	Yeah .	new idea for TV
+C	1687.85	So you can you have base , triangle base so you the T_V_ you can Yeah .	new idea for TV
+A	1691.68	Ah , the lemon T_V_ with the pineapple remote control .	new idea for TV
+B	1694.97	Yeah , that's that would be really interesting , actually .	new idea for TV
+C	1697.16	Yeah .	new idea for TV
+C	1697.52	Because the T_V_ you also Yeah .	new idea for TV
+A	1698.81	Oh , that's interesting .	new idea for TV
+A	1699.88	You could f we could do a kind of fruit collection of electronics things .	new idea for TV
+B	1704.59	Device devi The fruit ?	new idea for TV
+A	1706.07	Electronic device .	new idea for TV
+D	1706.43	Yeah , but just don't trust too much the trends .	new idea for TV
+C	1707.46	Yeah .	new idea for TV
+B	1710.66	Yeah .	new idea for TV
+D	1711.12	'Cause fruit and vegetables it won't last for ten years uh .	new idea for TV
+A	1711.27	Maybe Yeah , maybe la next year it will be insects .	new idea for TV
+B	1714.71	Yeah , it's But I think it's good to follow the f flow and you know make it now and after , you know , if the people change their mind you change also the product .	new idea for TV
+D	1715.13	Maybe two years it's dead .	new idea for TV
+D	1717.13	Yeah .	new idea for TV
+D	1719.88	Yeah .	new idea for TV
+C	1722.49	Mm .	new idea for TV
+D	1724.91	Yeah , but this is good because it's not a long long life product .	new idea for TV
+B	1728.74	Yeah .	new idea for TV
+D	1729.38	T_V_ is more like fifteen years , maybe , so .	new idea for TV
+B	1732.5	Yeah , yeah .	new idea for TV
+D	1732.57	If you have a lemon lemon T_V_ for fifteen years Yeah , yeah .	new idea for TV
+B	1732.91	That's a yeah , yeah .	new idea for TV
+B	1735.72	We can think about T_V_ with you know where you can change you know the aspects o like for the cell phones , you know .	new idea for TV
+A	1741.32	Customable T_V_ .	new idea for TV
+B	1742.24	Yeah , you customise it every ti so every ti if people change , you just change the appearance , and y y you can keep Yeah , you can keep the global appearan The mood of persons , the fashions uh We int Yeah , T_V_ , yeah .	new idea for TV
+A	1746.82	Ah such yeah .	new idea for TV
+A	1747.81	You've already said mobile phones .	new idea for TV
+D	1748.02	Tha that would that would make it .	new idea for TV
+C	1748.46	Okay .	new idea for TV
+D	1749.36	Yeah .	new idea for TV
+A	1751.11	Yeah , and following Mm .	new idea for TV
+C	1755.61	Yeah .	new idea for TV
+A	1757.2	It's interesting , maybe we can create a a line of uh T_V_ with uh a a tr So I think the costs are within the budget .	new idea for TV evaluation of prototype
+C	1764.24	Yeah .	new idea for TV
+B	1764.55	A T_V_ for autumn and a T_V_ for winter , you know , so it's So what i and do w is it Okay .	new idea for TV evaluation of prototype
+C	1767.26	Yeah .	new idea for TV
+A	1781.5	We're just at twelve fifty Euros .	evaluation of prototype
+B	1782.4	Yeah , the pr at Yeah but I think f it's really a celebrating object .	evaluation of prototype
+C	1782.89	Yep .	evaluation of prototype
+D	1783.38	Yeah .	evaluation of prototype
+A	1787.85	So do you think you can celebrate your creation ?	evaluation of prototype
+C	1794.87	And you can celebrate your leadership .	evaluation of prototype
+A	1797.03	Oh , thanks a lot .	evaluation of prototype
+A	1799.4	Thank you , mister David Jordan .	evaluation of prototype
+B	1804.58	So it's yellow and very a very ha it's very happy , so .	evaluation of prototype
+C	1806.5	Yeah .	evaluation of prototype
+D	1806.51	Hmm .	evaluation of prototype
+D	1808.1	Yeah .	evaluation of prototype
+D	1808.53	It's party party remote control .	evaluation of prototype
+B	1808.55	Uh it's it's a pr it's like yeah .	evaluation of prototype
+A	1811.87	The thing now is to to sell it .	evaluation of prototype
+C	1814.96	Yeah , it's your job .	evaluation of prototype
+B	1816.59	Yeah , right , go and sell it .	evaluation of prototype
+C	1817.33	Sell it .	evaluation of prototype
+B	1820.76	Goo and good luck , so It should be fine .	evaluation of prototype
+D	1821.12	Yeah .	evaluation of prototype
+C	1821.99	Yeah .	evaluation of prototype
+C	1823.8	Okay and the twelve fifty twelve uh twelve Twenty five Euros , yeah .	evaluation of prototype
+D	1827.76	Uh-huh .	evaluation of prototype
+D	1828.42	Twenty five Euros .	evaluation of prototype
+D	1830.19	Yeah , I think it's It's cheap , yeah .	evaluation of prototype
+C	1831.97	Twenty five Euros .	evaluation of prototype
+A	1832.4	It's maybe a little bit expensive .	evaluation of prototype
+D	1836.55	No , I I'm not so happy about the fruit shape , you know .	evaluation of prototype
+C	1837.13	No , it's not so expensive .	evaluation of prototype
+B	1840.72	Wh really ?	evaluation of prototype
+B	1842.2	It should be it should be fine , you know , actually .	evaluation of prototype
+C	1848.16	Okay .	evaluation of prototype
+B	1848.34	S I I think I like the the colour a the colour are very good , so actually so It's perfect , and I p is th y the the yellow ball thing that Uh f like y we can we can put some uh double R_ Okay yeah , yeah .	evaluation of prototype
+A	1850.47	Maybe what you can do a test .	evaluation of prototype
+D	1851.08	Yeah .	evaluation of prototype
+A	1852.55	Put it outside , and if bees come , it's really fruit .	evaluation of prototype
+C	1861.15	Okay .	evaluation of prototype
+A	1863.05	But don't put sugar in it , it's not working .	evaluation of prototype
+D	1866.6	No , the colours are uh it's perfect , yeah .	evaluation of prototype
+D	1869.49	True .	evaluation of prototype
+D	1869.85	Uh yeah , another thing is the logo is missing still .	evaluation of prototype
+A	1873.56	Yeah , but the colour , I think the colour is more is most important , because I I don't think you have ever seen something like that before for a remote control .	evaluation of prototype
+D	1876.16	Uh Still that was one of the requirements we had .	evaluation of prototype
+D	1884.71	It's yeah but it I don't think it's such a problem just putting the logo somewhere .	evaluation of prototype
+A	1889.51	Yeah , but we decided to have something yellow and red , for the costs .	evaluation of prototype
+D	1893.46	Yeah .	evaluation of prototype
+A	1894.23	So maybe we can just integrate it on th on one side , the double R_ .	evaluation of prototype
+D	1897.86	Mm .	evaluation of prototype
+D	1899.75	Yeah .	evaluation of prototype
+B	1900.24	That's actually good idea , so It's not a mushroom .	evaluation of prototype
+C	1900.83	Mm .	evaluation of prototype
+A	1902.64	So we have the logo , we have the colour , and we have the fashion in electronics , so we have the slogan too .	evaluation of prototype
+C	1906.9	So we have to give a So we have give him give it a cute name .	evaluation of prototype
+D	1913.21	Cute na You cannot say mushroom because it's not the trend .	evaluation of prototype
+A	1913.29	Yeah th no , it's the it's the pineapple control remote control .	evaluation of prototype
+C	1913.38	Mush mushroom controller .	evaluation of prototype
+A	1918.21	It's a pineapple now , it has changed .	evaluation of prototype
+D	1919.15	It's not the trend .	evaluation of prototype
+B	1919.49	It's a pineapple remote controls .	evaluation of prototype
+A	1920.53	It's a pineapple .	evaluation of prototype
+C	1921.64	Pa Pine apple .	evaluation of prototype
+A	1922.04	Pineapple .	evaluation of prototype
+B	1924.34	Yeah , pineapple remote remote control .	evaluation of prototype
+D	1925.48	Yeah , but just flying saucer , or I would say flying saucer .	evaluation of prototype
+A	1926.45	With cherry on top .	evaluation of prototype
+C	1928.06	Okay .	evaluation of prototype
+B	1929.39	Oh , that Oh unid uh unidentified remote control , so That's that's pineapple remote control .	evaluation of prototype
+D	1931.65	It's more appropriate , somehow .	evaluation of prototype
+C	1933.97	Okay .	evaluation of prototype
+C	1936.48	Okay .	evaluation of prototype
+B	1938.47	I think it's fine .	evaluation of prototype
+D	1939.6	Mm .	evaluation of prototype
+C	1939.72	Okay .	evaluation of prototype
+A	1940.06	Will you buy one ?	evaluation of prototype
+B	1940.16	Yeah .	evaluation of prototype
+B	1941.53	Yeah I will try I'll try .	evaluation of prototype
+A	1943.09	Try to .	evaluation of prototype
+C	1944.0	Twenty five Euro .	evaluation of prototype
+A	1944.15	Okay uh One thing I like is the shape , because you know it's not like the uh the remote controls you can put in your pocket , on uh in your jacket .	evaluation of prototype
+B	1946.54	I can hel I will try versions so to see how easy easy to manage Yeah I always lose my Yeah , so so i if it is a universal one I can use it with my T_V_ , so it would be I think I would choose this one because of the colour .	evaluation of prototype
+C	1948.71	Okay .	evaluation of prototype
+C	1949.65	Yeah you told me you h you d you d you lost your control your T_V_ so so you need to buy one .	evaluation of prototype
+C	1958.08	Okay .	evaluation of prototype
+D	1958.42	Mm .	evaluation of prototype
+C	1962.86	Traditional one ?	evaluation of prototype
+C	1964.16	Yeah .	evaluation of prototype
+C	1965.69	So this one and this one .	evaluation of prototype
+C	1967.14	What do you choose ?	evaluation of prototype
+A	1969.71	I prefer the laser remote control .	evaluation of prototype
+C	1974.75	What do you choose ?	evaluation of prototype
+A	1977.16	No .	evaluation of prototype
+B	1977.77	It's it's will enlight your house , your home and your T_V_ , so .	evaluation of prototype
+C	1978.2	Okay .	evaluation of prototype
+C	1982.6	Okay .	evaluation of prototype
+B	1983.28	Yeah .	evaluation of prototype
+A	1983.52	Oh .	evaluation of prototype
+A	1983.99	Maybe next if we decide to do something we'd can put light inside .	evaluation of prototype
+B	1988.16	Yeah , yeah that would be uh an idea .	evaluation of prototype
+D	1989.19	Yeah but that's going to be expensive , you know .	evaluation of prototype
+A	1990.71	Yeah .	evaluation of prototype
+D	1991.16	We had some problems going to twelve Euros and uh I dunno .	evaluation of prototype
+A	1992.91	I think it it would be interesting to just to see if we can if people will buy this one , and maybe add some features to it after yeah .	evaluation of prototype
+D	2000.87	Yeah , afterwards , if if it's a new trend .	evaluation of prototype
+C	2002.29	Yeah .	evaluation of prototype
+C	2002.52	Yeah .	evaluation of prototype
+D	2007.76	Okay .	evaluation of prototype
+A	2008.63	So Champagne , mister Baba .	closing evaluation of prototype
+B	2008.69	Yeah that's that fine .	evaluation of prototype
+B	2010.14	So we can celebrate now .	closing
+B	2011.76	That's our new product .	closing
+D	2013.82	We should celebrate .	closing
+B	2015.74	Yes .	closing
+B	2017.44	It's it's fine .	closing
+B	2018.26	It's I like it .	closing
+C	2023.2	So buy one .	closing
+B	2025.09	Next time .	closing
+B	2026.79	Well , I'll buy one here .	closing
+C	2028.16	Yeah .	closing
+A	2030.8	So Okay , I will close this .	closing
+D	2037.8	Mm .	closing
+A	2042.1	Mm .	closing
+B	2042.54	Yeah .	closing
+B	2043.24	No ?	closing
+A	2046.14	So I think we have finished the designing and the evaluation of our remote control and we have a nearly final product .	closing
+B	2049.27	Okay .	closing
+B	2053.65	Okay .	closing
+D	2054.17	Yeah .	closing
+D	2060.38	Our final prototype which yeah .	closing
+B	2061.54	Final prototype , yeah , ye yeah .	closing
+A	2062.07	Final prototype , right .	closing
+C	2063.56	Prototype , yeah .	closing
+A	2065.45	So , thank you very much .	closing
+C	2066.74	Okay .	closing
+B	2067.71	Okay .	closing
+C	2069.2	Okay .	closing
+B	2069.42	Okay .	closing
+A	2070.23	Very productive .	closing
+C	2071.31	Okay .	closing
+C	2071.75	Thanks .	closing
+B	2083.26	S so who is going to take the remote control ?	closing

@@ -1,0 +1,332 @@
+B	50.42	Okay .	introduction of participants and their roles
+B	53.56	Right .	introduction of participants and their roles
+B	55.98	Um well this is the kick-off meeting for our our project .	introduction of participants and their roles
+B	60.35	Um and um this is just what we're gonna be doing over the next twenty five minutes .	introduction of participants and their roles
+D	67.21	Mm-hmm .	introduction of participants and their roles
+B	67.55	Um so first of all , just to kind of make sure that we all know each other , I'm Laura and I'm the project manager .	introduction of participants and their roles
+B	74.42	Do you want to introduce yourself again ?	introduction of participants and their roles
+D	74.89	Great .	introduction of participants and their roles
+A	77.44	Hi , I'm David and I'm supposed to be an industrial designer .	introduction of participants and their roles
+B	80.81	Okay .	introduction of participants and their roles
+D	82.08	And I'm Andrew and I'm uh our marketing expert .	introduction of participants and their roles
+C	85.99	Um I'm Craig and I'm User Interface .	introduction of participants and their roles
+B	89.3	Great .	project goals and design process
+B	90.01	Okay .	project goals and design process
+B	92.48	Um so we're designing a new remote control and um Oh I have to record who's here actually .	project goals and design process
+B	98.57	So that's David , Andrew and Craig , isn't it ?	project goals and design process
+B	104.89	And you all arrived on time .	project goals and design process
+B	108.96	Um yeah so des uh design a new remote control .	project goals and design process
+B	111.72	Um , as you can see it's supposed to be original , trendy and user friendly .	project goals and design process
+B	116.66	Um so that's kind of our our brief , as it were .	project goals and design process
+B	120.98	Um and so there are three different stages to the design .	project goals and design process
+B	126.12	Um I'm not really sure what what you guys have already received um in your emails .	project goals and design process
+B	131.36	What did you get ?	project goals and design process
+A	132.57	Um , I just got the project announcement about what the project is .	project goals and design process
+B	135.08	Mm-hmm .	project goals and design process
+A	136.68	Designing a remote control .	project goals and design process
+D	137.12	Mm-hmm .	project goals and design process
+A	138.2	That's about it , didn't get anything else .	project goals and design process
+D	138.96	Mm-hmm .	project goals and design process
+D	139.51	Yeah , that's that's it .	project goals and design process
+B	140.1	Is that what everybody got ?	project goals and design process
+C	140.47	Yeah .	project goals and design process
+A	140.77	Did you get the same thing ?	project goals and design process
+B	141.53	Okay .	project goals and design process
+D	141.8	Yeah .	project goals and design process
+B	142.66	Um .	project goals and design process
+B	144.43	So we're gonna have like individual work and then a meeting about it .	project goals and design process
+B	147.92	And repeat that process three times .	project goals and design process
+B	151.79	Um and at this point we get try out the whiteboard over there .	drawing animals on the whiteboard
+B	158.41	Um .	drawing animals on the whiteboard
+B	159.59	So uh you get to draw your favourite animal and sum up your favourite characteristics of it .	drawing animals on the whiteboard
+B	165.91	So who would like to go first ?	drawing animals on the whiteboard
+D	166.67	I will go .	drawing animals on the whiteboard
+D	167.36	That's fine .	drawing animals on the whiteboard
+B	167.84	Very good .	drawing animals on the whiteboard
+D	174.2	Alright .	drawing animals on the whiteboard
+D	176.12	So This one here , right ?	drawing animals on the whiteboard
+B	183.26	Mm-hmm .	drawing animals on the whiteboard
+D	183.93	Okay .	drawing animals on the whiteboard
+D	185.34	Very nice .	drawing animals on the whiteboard
+D	186.46	Alright .	drawing animals on the whiteboard
+D	187.46	My favourite animal is like A beagle .	drawing animals on the whiteboard
+D	211.97	Um charac favourite characteristics of it ?	drawing animals on the whiteboard
+D	214.88	Is that right ?	drawing animals on the whiteboard
+B	215.95	Yeah .	drawing animals on the whiteboard
+D	216.46	Uh , right , well basically um high priority for any animal for me is that they be willing to take a lot of physical affection from their family .	drawing animals on the whiteboard
+B	216.6	Yeah .	drawing animals on the whiteboard
+D	229.16	And , yeah that they have lots of personality and uh be fit and in robust good health .	drawing animals on the whiteboard
+D	237.96	So this is blue .	drawing animals on the whiteboard
+D	239.85	Blue beagle .	drawing animals on the whiteboard
+D	241.42	My family's beagle .	drawing animals on the whiteboard
+B	243.4	Right .	drawing animals on the whiteboard
+B	244.71	Lovely .	drawing animals on the whiteboard
+C	255.07	Well , my favourite animal would be a monkey .	drawing animals on the whiteboard
+C	268.0	Then they're small cute and furry , and uh when planet of the apes becomes real , I'm gonna be up there with them .	drawing animals on the whiteboard
+B	275.67	Right .	drawing animals on the whiteboard
+A	275.83	Cool .	drawing animals on the whiteboard
+A	280.75	There's too much gear .	drawing animals on the whiteboard
+B	285.96	You can take as long over this as you like , because we haven't got an awful lot to discuss .	drawing animals on the whiteboard
+B	290.31	Ok oh we do we do .	drawing animals on the whiteboard
+B	291.76	Don't feel like you're in a rush , anyway .	drawing animals on the whiteboard
+A	293.26	Okay .	drawing animals on the whiteboard
+D	296.02	I coulda told you a whole lot more about beagles .	drawing animals on the whiteboard
+B	297.94	Ach why not We might have to get you up again then .	drawing animals on the whiteboard
+D	298.03	Boy , let me tell you .	drawing animals on the whiteboard
+B	301.14	I don't know what mine is .	drawing animals on the whiteboard
+B	302.11	I'm gonna have to think on the spot now .	drawing animals on the whiteboard
+D	307.06	Impressionist .	drawing animals on the whiteboard
+A	309.38	Can't draw .	drawing animals on the whiteboard
+B	312.05	Is that a whale ?	drawing animals on the whiteboard
+A	312.06	Um .	drawing animals on the whiteboard
+A	313.09	Yeah .	drawing animals on the whiteboard
+A	318.58	Um , well anyway , I don't know , it's just the first animal I can think off the top of my head .	drawing animals on the whiteboard
+A	324.11	Um .	drawing animals on the whiteboard
+A	325.0	Yes .	drawing animals on the whiteboard
+A	325.43	Big reason is 'cause I'm allergic to most animals .	drawing animals on the whiteboard
+A	327.86	Allergic to animal fur , so um fish was a natural choice .	drawing animals on the whiteboard
+B	327.91	Ah .	drawing animals on the whiteboard
+A	332.03	Um , yeah , and I kind of like whales .	drawing animals on the whiteboard
+A	334.32	They come in and go eat everything in sight .	drawing animals on the whiteboard
+A	338.22	And they're quite harmless and mild and interesting .	drawing animals on the whiteboard
+D	338.48	Alright .	drawing animals on the whiteboard
+D	341.85	Mm .	drawing animals on the whiteboard
+B	342.42	Okay .	drawing animals on the whiteboard
+B	343.63	God , I still don't know what I'm gonna write about .	drawing animals on the whiteboard
+B	346.39	Um .	drawing animals on the whiteboard
+D	349.66	Superb sketch , by the way .	drawing animals on the whiteboard
+A	353.86	Tail's a bit big , I think .	drawing animals on the whiteboard
+B	354.91	I was gonna choose a dog as well .	drawing animals on the whiteboard
+B	357.54	But I'll just draw a different kind of dog .	drawing animals on the whiteboard
+D	359.62	Yep .	drawing animals on the whiteboard
+B	360.21	M my favourite animal is my own dog at home .	drawing animals on the whiteboard
+B	364.23	Um That doesn't really look like him , actually .	drawing animals on the whiteboard
+B	373.3	He looks more like a pig , actually .	drawing animals on the whiteboard
+B	375.84	Ah well .	drawing animals on the whiteboard
+D	378.46	I see a dog in there .	drawing animals on the whiteboard
+B	379.52	Do you ?	drawing animals on the whiteboard
+D	379.99	Yep .	drawing animals on the whiteboard
+B	380.06	Oh that's very good of you .	drawing animals on the whiteboard
+D	382.82	Now I see a rooster .	drawing animals on the whiteboard
+B	388.27	Uh .	drawing animals on the whiteboard
+D	393.42	What kind is it ?	drawing animals on the whiteboard
+B	394.87	Um he's a mixture of uh various things .	drawing animals on the whiteboard
+B	398.71	Um and what do I like about him , um That's just to suggest that his tail wags .	drawing animals on the whiteboard
+B	405.71	Um he's very friendly and cheery and always pleased to see you , and very kind of affectionate and um uh and he's quite quite wee as well so you know he can doesn't take up too much space .	drawing animals on the whiteboard
+B	421.48	Um and uh And he does a funny thing where he chases his tail as well , which is quite amusing , so It is .	drawing animals on the whiteboard
+D	431.27	Is he aware that th it's his own cha tail he's chasing ?	drawing animals on the whiteboard
+B	434.2	I think it is .	drawing animals on the whiteboard
+B	434.67	He only does it after he's had his dinner and um he'll just all of a sudden just get up and start chasing his tail 'round the living room .	drawing animals on the whiteboard
+D	440.33	Hmm .	drawing animals on the whiteboard
+A	442.02	It's an after dinner dog then .	drawing animals on the whiteboard
+B	443.59	Yeah , so uh Yeah , maybe .	drawing animals on the whiteboard
+D	444.05	Probably when he was little he got lots of attention for doing it and has forever been conditioned .	drawing animals on the whiteboard
+B	449.0	Maybe .	drawing animals on the whiteboard
+B	450.7	Right , um where did you find this ?	drawing animals on the whiteboard
+B	452.3	Just down here ?	drawing animals on the whiteboard
+B	453.39	Yeah .	drawing animals on the whiteboard
+B	455.51	Okay .	project budget
+B	458.92	Um what are we doing next ?	project budget
+B	462.47	Uh um .	project budget
+B	465.51	Okay , uh we now need to discuss the project finance .	project budget
+B	470.01	Um so according to the brief um we're gonna be selling this remote control for twenty five Euro , um and we're aiming to make fifty million Euro .	project budget
+B	482.77	Um so we're gonna be selling this on an international scale .	project budget
+B	487.21	And uh we don't want it to cost any more than uh twelve fifty Euros , so fifty percent of the selling price .	project budget
+D	488.56	'Kay .	project budget
+D	496.02	Um , can we just go over that again ?	project budget
+B	497.99	Sure .	project budget
+D	499.16	Uh , so bas at twel Alright , yeah .	project budget
+D	503.79	Okay .	project budget
+D	505.28	So cost like production cost is twelve fifty , but selling price is is that wholesale or retail ?	project budget
+B	508.17	All together .	project budget
+D	513.06	Like on the shelf .	project budget
+B	515.16	Um I dunno .	project budget
+B	516.78	I imagine That's a good question .	project budget
+D	518.31	Our sale our sale anyway .	project budget
+B	519.67	I imagine it probably is our sale actually because it's probably up to the the um the retailer to uh sell it for whatever price they want .	project budget
+D	520.65	Yeah , okay okay .	project budget
+D	526.79	Okay .	project budget
+D	528.9	Mm-hmm .	project budget
+B	529.56	Um .	project budget
+D	531.58	Alright .	project budget
+B	531.83	But I I don't know , I mean do you think the fact that it's going to be sold internationally will have a bearing on how we design it at all ?	possible issues with project goals
+D	538.77	Yes .	possible issues with project goals
+B	539.31	Think it will ?	possible issues with project goals
+D	540.69	Mm-hmm .	possible issues with project goals
+B	541.17	Um .	possible issues with project goals
+D	543.86	Mm-hmm .	possible issues with project goals
+B	545.43	Hmm .	possible issues with project goals
+D	548.28	Well right away I'm wondering if there's um th th uh , like with D_V_D_ players , if there are zones .	possible issues with project goals
+B	553.78	Oh yeah , regions and stuff , yeah .	possible issues with project goals
+D	554.28	Um f frequencies or something um as well as uh characters , um different uh keypad styles and s symbols .	possible issues with project goals
+B	556.62	Yeah .	possible issues with project goals
+B	557.56	Okay .	possible issues with project goals
+A	565.05	Hmm .	possible issues with project goals
+B	565.13	Yeah .	possible issues with project goals
+B	565.93	Well for a remote control , do you think that will be I suppose it's depends on how complicated our remote control is .	possible issues with project goals
+D	566.17	Um .	possible issues with project goals
+D	568.46	I don't know .	possible issues with project goals
+D	571.22	Yeah .	possible issues with project goals
+A	571.74	It does make sense from maybe the design point of view 'cause you have more complicated characters like European languages , then you need more buttons .	possible issues with project goals
+B	580.42	Yeah , yeah .	possible issues with project goals
+D	580.66	Yeah .	possible issues with project goals
+A	581.3	So , possibly .	possible issues with project goals
+D	582.33	Yeah .	possible issues with project goals
+B	583.04	Okay .	possible issues with project goals
+D	583.5	And then a and then al the other thing international is on top of the price .	possible issues with project goals
+D	587.78	I'm thinking the price might might appeal to a certain market in one region , whereas in another it'll be different , so Just a chara just a characteristic of the Just Or just like , basic product podi positioning , the twenty five Euro remote control might be a big hit in London , might not be such a big hit in Greece , who knows , something like that , yeah .	possible issues with project goals
+B	597.79	What , just like in terms of like the wealth of the country ?	possible issues with project goals
+B	600.43	Like how much money people have to spend on things like ?	possible issues with project goals
+B	615.74	Aye , I see what you mean , yeah .	possible issues with project goals
+B	619.01	Marketing .	possible issues with project goals
+B	620.06	Good marketing thoughts .	possible issues with project goals
+D	620.48	Yep .	possible issues with project goals
+B	621.09	Oh gosh , I should be writing all this down .	possible issues with project goals
+B	623.26	Um .	possible issues with project goals
+D	655.45	Right away I'm making some kind of assumptions about what what information we're given here , thinking , 'kay trendy probably means something other than just basic , something other than just standard .	possible issues with project goals
+B	660.7	Mm .	possible issues with project goals
+B	665.36	Yeah .	possible issues with project goals
+D	668.59	Um so I'm wondering right away , is selling twenty five Euros , is that sort of the thi is this gonna to be like the premium product kinda thing or Uh-huh .	possible issues with project goals
+B	677.15	Yeah , yeah .	possible issues with project goals
+B	677.66	Like how much does , you know , a remote control cost .	possible issues with project goals
+B	681.66	Well twenty five Euro , I mean that's um that's about like eighteen pounds or something , isn't it ?	possible issues with project goals
+D	687.72	Mm-hmm .	possible issues with project goals
+B	687.81	Or no , is it as much as that ?	possible issues with project goals
+B	689.7	Sixteen seventeen eighteen pounds .	possible issues with project goals
+D	689.77	Yep .	possible issues with project goals
+D	691.16	Yeah , I'd say so , yeah .	possible issues with project goals
+B	692.42	Um , I dunno , I've never bought a remote control , so I don't know how how good a remote control that would get you .	possible issues with project goals
+D	696.23	No .	possible issues with project goals
+D	697.98	Yeah , yeah .	possible issues with project goals
+B	699.52	Um .	possible issues with project goals
+B	702.02	But yeah , I suppose it has to look kind of cool and gimmicky .	possible issues with project goals
+D	704.03	Mm-hmm .	possible issues with project goals
+B	707.1	Um right , okay .	possible issues with project goals
+B	711.43	Let me just scoot on ahead here .	possible issues with project goals
+B	713.81	Okay .	possible issues with project goals
+B	714.96	Um well d Does anybody have anything to add to uh to the finance issue at all ?	possible issues with project goals
+D	722.77	Do we have any other background information on like how that compares to other other Yeah .	possible issues with project goals
+B	722.81	Thin No , actually .	possible issues with project goals
+B	728.32	That would be useful , though , wouldn't it , if you knew like what your money would get you now .	possible issues with project goals
+A	732.32	Hmm .	possible issues with project goals
+D	734.73	Mm-hmm .	possible issues with project goals
+B	735.11	Mm-hmm .	possible issues with project goals
+D	753.67	Yeah , interesting thing about discussing um production of a remote control for me is that l as you point out , I just don't think of remote controls as somethin something people consciously assess in their purchasing habits .	initial ideas about RC design
+B	767.69	Yeah , yeah .	initial ideas about RC design
+D	767.74	It's just like getting shoelaces with shoes or something .	initial ideas about RC design
+B	772.01	Oh .	initial ideas about RC design
+D	772.49	It just comes along .	initial ideas about RC design
+B	772.8	Five minutes to end of meeting .	initial ideas about RC design
+B	774.17	Oh , okay .	initial ideas about RC design
+B	775.33	We're a bit behind .	initial ideas about RC design
+D	776.12	Do you know what I mean ?	initial ideas about RC design
+C	777.32	Yeah .	initial ideas about RC design
+D	777.67	Like so sort of like how do you I I mean one one way of looking at it would be , well the people producing television sets , maybe they have to buy remote controls .	initial ideas about RC design
+A	777.7	Yeah .	initial ideas about RC design
+D	786.49	Or another way is maybe people who have T_V_ sets are really fed up with their remote control and they really want a better one or something .	initial ideas about RC design
+C	792.52	I know um My parents went out and bought um remote controls because um they got fed up of having four or five different remote controls for each things the house .	initial ideas about RC design
+D	794.53	But Right .	initial ideas about RC design
+D	800.71	Right .	initial ideas about RC design
+C	801.38	So um for them it was just how many devices control .	initial ideas about RC design
+D	801.75	Okay so Right , so in function one of the priorities might be to combine as many uses I think so .	initial ideas about RC design
+B	806.46	Yeah .	initial ideas about RC design
+B	811.51	Right , so do you think that should be like a main design aim of our remote control d you know , do your your satellite and your regular telly and your V_C_R_ and everything ?	initial ideas about RC design
+D	815.81	Yeah , yeah .	initial ideas about RC design
+D	818.45	Yeah .	initial ideas about RC design
+D	819.79	Well like um , maybe what we could use is a sort of like a example of a successful other piece technology is palm palm pilots .	initial ideas about RC design
+D	828.28	They're gone from being just like little sort of scribble boards to cameras , M_P_ three players , telephones , everything , agenda .	initial ideas about RC design
+B	832.76	Mm-hmm .	initial ideas about RC design
+D	836.31	So , like , I wonder if we might add something new to the to the remote control market , such as the lighting in your house , or um Yeah , yeah .	initial ideas about RC design
+B	840.25	Yeah .	initial ideas about RC design
+B	843.99	Or even like , you know , notes about um what you wanna watch .	initial ideas about RC design
+B	847.62	Like you might put in there oh I want to watch such and such and look a Oh that's a good idea .	initial ideas about RC design
+D	851.06	An Yeah .	initial ideas about RC design
+B	851.55	So extra functionalities .	initial ideas about RC design
+D	853.54	Like , p personally for me , at home I've I've combined the um the audio video of my television set and my D_V_D_ player and my C_D_ player .	initial ideas about RC design
+D	862.9	So they w all work actually function together but I have different remote controls for each of them .	initial ideas about RC design
+B	866.59	Mm-hmm .	initial ideas about RC design
+D	866.91	So it's sort of ironic that that then they're in there um you know , the sound and everything it's just one system .	initial ideas about RC design
+D	876.45	But each one's got its own little part .	initial ideas about RC design
+B	876.88	Hmm .	initial ideas about RC design
+B	883.05	Um okay , uh I'd wel we're gonna have to wrap up pretty quickly in the next couple of minutes .	initial ideas about RC design
+B	889.88	Um I'll just check we've nothing else .	initial ideas about RC design
+B	891.96	Okay .	initial ideas about RC design
+B	892.58	Um so anything else anybody wants to add about what they don't like about remote controls they've used , what they would really like to be part of this new one at all ?	initial ideas about RC design
+A	903.08	And you keep losing them .	initial ideas about RC design
+B	904.6	You keep losing them .	initial ideas about RC design
+D	904.75	Mm .	initial ideas about RC design
+B	905.58	Okay .	initial ideas about RC design
+A	906.45	Finding them is really a pain , you know .	initial ideas about RC design
+D	907.47	Mm .	initial ideas about RC design
+A	908.59	I mean it's usually quite small , or when you want it right , it slipped behind the couch or it's kicked under the table .	initial ideas about RC design
+D	908.84	Mm .	initial ideas about RC design
+D	911.1	Mm-hmm .	initial ideas about RC design
+D	911.79	Mm-hmm .	initial ideas about RC design
+B	913.17	Yeah .	initial ideas about RC design
+D	913.22	Yeah .	initial ideas about RC design
+B	914.71	W You get those ones where you can , if you like , whistle or make a really high pitched noise they beep .	initial ideas about RC design
+D	914.77	Yeah .	initial ideas about RC design
+A	915.45	You know .	initial ideas about RC design
+D	916.12	That's just really good id Yep .	initial ideas about RC design
+B	920.04	There I mean is that something we'd want to include , do you think ?	initial ideas about RC design
+D	924.35	Uh , sure .	initial ideas about RC design
+B	925.37	Dunno .	initial ideas about RC design
+B	926.64	Okay maybe .	initial ideas about RC design
+D	927.64	I remember when the first remote control my my family had was on a cable .	initial ideas about RC design
+D	932.01	Actually had a cable between it and the T_V_ and big like buttons that sort of like , like on a blender or something .	initial ideas about RC design
+B	937.0	My goodness .	initial ideas about RC design
+D	937.36	And um , you know , when I think about what they are now , it's better , but actually it's still kind of , I dunno , like a massive junky thing on the table .	initial ideas about RC design
+B	946.26	Still feels quite primitive .	initial ideas about RC design
+D	946.4	Maybe we could think about how , could be more , you know , streamlined .	initial ideas about RC design
+B	951.41	Maybe like a touch screen or something ?	initial ideas about RC design
+D	951.49	S Something like that , yeah .	initial ideas about RC design
+B	954.09	Okay .	initial ideas about RC design
+D	954.2	Or whatever would be technologically reasonable .	initial ideas about RC design
+B	956.36	Uh-huh , okay .	initial ideas about RC design
+B	957.42	Well I guess that's up to our industrial designer .	initial ideas about RC design
+D	957.54	'Cause it could b it could it could be that f it could be that functionally that doesn't make it any better , but that just the appeal of of not having You know , these days there's a r pe things in people's homes are becoming more and more like chic , you know .	initial ideas about RC design
+B	962.22	It looks better .	initial ideas about RC design
+B	969.0	Yeah .	initial ideas about RC design
+D	969.56	Um , nicer materials and might be be worth exploring anyway .	initial ideas about RC design
+B	971.85	Okay .	initial ideas about RC design
+B	975.24	Okay .	initial ideas about RC design
+C	976.66	Uh .	initial ideas about RC design
+B	977.17	Right , well um so just to wrap up , the next meeting's gonna be in thirty minutes .	closing
+B	981.67	So that's about um about ten to twelve by my watch .	closing
+B	985.49	Um so inbetween now and then , um as the industrial designer , you're gonna be working on you know the actual working design of it so y you know what you're doing there .	closing
+A	993.88	Yep .	closing
+B	996.69	Um for user interface , technical functions , I guess that's you know like what we've been talking about , what it'll actually do .	closing
+B	1004.08	Um and uh marketing executive , you'll be just thinking about what it actually what , you know , what requirements it has to has to fulfil and you'll all get instructions emailed to you , I guess .	closing
+D	1019.67	Okay .	closing
+B	1021.55	Um .	closing
+B	1028.05	Yeah , so it's th the functional design stage is next , I guess .	closing
+B	1034.47	And uh and that's the end of the meeting .	closing
+B	1039.12	So I got that little message a lot sooner than I thought I would , so Mm-hmm .	closing
+D	1039.8	Um .	closing
+D	1047.17	Before we wrap up , just to make sure we're all on the same page here , um , do we We were given sort of an example of a coffee machine or something , right ?	closing
+B	1056.3	Uh-huh , yeah .	closing
+A	1056.93	Mm-hmm .	closing
+D	1057.14	Well , um are we at ma right now on the assumption that our television remote control may have features which go beyond the television ?	closing
+D	1067.54	Or are we keeping sort of like a a design commitment to television features ?	closing
+B	1068.76	Th Okay , well just very quickly 'cause this we're supposed to finish now .	closing
+D	1073.79	I I don't know .	closing
+D	1076.56	Yep .	closing
+B	1076.64	Um I guess that's up to us , I mean you probably want some kind of unique selling point of it , so um , you know Yeah .	closing
+D	1077.45	Yeah , sure .	closing
+D	1081.99	Okay .	closing
+A	1084.36	I think one factor would be production cost .	closing
+D	1086.96	Okay , yeah .	closing
+A	1087.57	Because there's a cap there , so um depends on how much you can cram into that price .	closing
+D	1089.89	Okay .	closing
+B	1093.82	Mm-hmm .	closing
+D	1093.83	Okay .	closing
+A	1094.65	Um .	closing
+B	1095.78	Yeah .	closing
+A	1096.03	I think that that's the main factor .	closing
+B	1098.51	Okay .	closing
+D	1098.52	Okay .	closing
+B	1099.43	Right , okay , we'll that's that's the end of the meeting , then .	closing
+D	1102.4	Alright .	closing
+B	1102.48	Um .	closing
+B	1104.58	So , uh thank you all for coming .	closing
+A	1109.23	Cool .	closing

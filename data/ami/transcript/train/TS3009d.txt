@@ -1,0 +1,986 @@
+B	0	?	NO_TOPIC
+A	33.6	Uh fourth meeting .	opening
+B	38.21	We have to do what ?	opening
+A	39.43	Some extra deciding .	opening
+C	39.98	W what ?	opening
+C	41.92	Alri alright .	opening
+B	42.29	Oh .	opening
+A	42.88	Well I'll show you the notes again .	opening
+C	43.63	We'll see .	opening
+A	48.33	Very interesting .	opening
+A	49.81	Well you'll you two will uh present us your prototype .	opening
+C	53.38	Yeah .	opening
+A	54.16	Then um I guess that's your bit ?	opening
+D	57.28	Yeah .	opening
+A	57.66	I I didn't s see anything about it , so I already uh thought you uh you were to do that .	opening
+A	62.59	So the you're uh .	opening
+A	64.06	I'll show you how we're going to do with financing this uh design .	opening
+B	70.04	Mm .	opening
+C	71.76	Yeah , that's important too .	opening
+C	72.73	Yeah .	opening
+A	72.77	And then we'll evaluate , after after we have redesigned it .	opening
+B	73.2	Bit late .	opening
+A	77.04	Because uh well we'll see about the costs .	opening
+A	80.14	Um we'll uh evaluate our p our uh production and then uh we can close .	opening
+C	87.3	Alright .	opening
+A	88.06	Well the finance uh we'll do later , so um firstly uh I'll show you the notes .	opening
+A	94.38	I don't think it's very interesting .	opening
+B	99.26	I think it is .	opening
+A	100.36	Oh nei .	opening
+A	101.56	Uh no .	opening
+A	106.15	Alright .	opening
+A	112.85	This is copy paste .	opening
+A	114.19	So Of course .	opening
+C	114.63	From me of course , yeah .	opening
+A	116.37	You had some very strange layout .	opening
+C	116.5	Well from us all , yeah , from all of us .	opening
+C	118.58	Yeah .	opening
+C	119.92	It's a nice chorus , yeah .	opening
+A	122.66	Well um We ge we went through the agenda , and well we had some uh some presentations from you three .	opening
+A	130.54	And uh I summarised what you said to us .	opening
+A	134.46	So uh I don't think it's very interesting and go through it again .	opening
+C	138.1	Repeat it yeah .	opening
+A	138.75	So uh This is what we decided .	opening
+C	139.19	Alright .	opening
+A	142.2	It's also copy paste from what we made together .	opening
+A	144.64	So we still know that .	opening
+D	145.28	Okay .	opening
+A	147.17	And then uh we can we can uh use the time better .	opening
+A	150.26	Well uh next you two will uh present uh the pot prototype for us .	opening
+C	154.85	Alright , we both uh will ?	opening
+A	156.39	Yeah .	opening
+C	156.6	Or one of us will ?	opening
+B	157.6	Alright .	presentation of prototype(s)
+C	158.61	Uh Alright .	opening presentation of prototype(s)
+B	160.22	No you go and I'll uh supplement you .	presentation of prototype(s)
+C	162.26	If I make mistakes uh you'll uh Right .	presentation of prototype(s)
+B	164.84	Yeah .	presentation of prototype(s)
+A	166.2	Correct .	presentation of prototype(s)
+C	166.65	Uh well this is our design .	presentation of prototype(s)
+C	168.44	Uh it's pretty uh much uh like uh Mike draw uh drew uh the in the during the last meeting .	presentation of prototype(s)
+C	176.44	With uh the different uh perspectives of it .	presentation of prototype(s)
+C	178.73	Uh we'll begin uh with the front .	presentation of prototype(s)
+C	181.34	We have of course uh the the round shape uh the round uh basic shape .	presentation of prototype(s)
+C	186.3	Um with uh the upper part being the front .	presentation of prototype(s)
+C	189.52	Th So there's this part um which is made of hard plastic , the front .	presentation of prototype(s)
+C	194.58	And uh we're we're using different colours .	presentation of prototype(s)
+C	196.93	Of course for the launch we use the basic ugly colours , and later we'll put out uh more interesting covers with different patterns and pictures and everything .	presentation of prototype(s)
+A	200.1	Yeah .	presentation of prototype(s)
+A	203.15	Mm-hmm .	presentation of prototype(s)
+C	205.09	But basically , different colours , bright colours not black , too dark .	presentation of prototype(s)
+C	209.39	Fancy colours .	presentation of prototype(s)
+C	211.19	Um then we have uh the lower part of the of the device .	presentation of prototype(s)
+C	217.58	Uh which is of course um part of the back actually , because it's also titanium .	presentation of prototype(s)
+C	222.51	You can see it also on the on the on the side view , that only this part is the front , and the rest of it , the under uh the under side uh of it , yeah , the back side and the lower part of the front is of course titanium made of titanium , and has the titanium colour of course , the look .	presentation of prototype(s)
+C	241.37	Um then we have uh on back on the front uh the logo in the upper corner , uh which is uh made uh which is also part of the back , part of the titanium uh titanium part .	presentation of prototype(s)
+A	241.87	Mm .	presentation of prototype(s)
+B	252.83	Yeah , it's a double R_ , but It's a double R_ .	presentation of prototype(s)
+C	254.91	Yeah ?	presentation of prototype(s)
+C	257.42	It's a double R_ .	presentation of prototype(s)
+C	258.01	Yeah the logo Uh uh it's difficult to draw so small , but it's our double R_ uh logo is in there .	presentation of prototype(s)
+B	258.19	But it's very difficult to to draw that in Yeah .	presentation of prototype(s)
+A	258.92	Yeah , alright .	presentation of prototype(s)
+A	262.67	Okay .	presentation of prototype(s)
+A	264.12	Yeah .	presentation of prototype(s)
+C	264.58	Um so that's the logo in the upper lef uh right corner .	presentation of prototype(s)
+C	268.56	Then we have the buttons .	presentation of prototype(s)
+C	269.48	Uh it's difficult to draw again the little oval or round I think oval will be better for the for the d for the different uh channel buttons .	presentation of prototype(s)
+B	275.39	Oval yeah .	presentation of prototype(s)
+A	278.13	Alright .	presentation of prototype(s)
+C	281.4	So uh oval , n those are here .	presentation of prototype(s)
+C	283.4	And then we have the m The m Yeah the the con the the the , yeah , the t volume and the channel controls uh in the middle here .	presentation of prototype(s)
+B	286.89	Channel up and volume ?	presentation of prototype(s)
+C	293.89	Um um with kind of arrow shapes , which makes it also a bit more exciting than basic round or um uh uh square buttons .	presentation of prototype(s)
+C	307.27	And also here are the two uh buttons we agreed on .	presentation of prototype(s)
+C	310.25	We have the Okay button .	presentation of prototype(s)
+C	311.35	Oh nei we uh the Okay button's here in the middle of the of the operators , of the channel and uh volume um changers .	presentation of prototype(s)
+B	313.3	Yeah .	presentation of prototype(s)
+A	313.55	Mm-hmm .	presentation of prototype(s)
+C	319.19	And then we've here the Menu button and the And the video button .	presentation of prototype(s)
+A	321.54	Alright .	presentation of prototype(s)
+B	322.01	Menu for the L_C_D_ screen .	presentation of prototype(s)
+C	323.81	The Yeah .	presentation of prototype(s)
+D	324.06	Mm right .	presentation of prototype(s)
+A	324.48	So 'Kay .	presentation of prototype(s)
+C	326.04	And of course this low part , this is the L_C_D_ screen .	presentation of prototype(s)
+C	330.02	Uh this is what we made of it .	presentation of prototype(s)
+C	331.31	You can make uh suggestions uh if you want .	presentation of prototype(s)
+A	332.7	Well if I look at it , the side the side view Oh yeah alright .	presentation of prototype(s)
+B	333.3	Well , at the back Yeah .	presentation of prototype(s)
+C	335.56	Maybe we maybe we should finish first uh our talk and then you can add suggestions .	presentation of prototype(s)
+C	338.71	Maybe I I don't want to I don't want to suppress you but n I'll uh finish this uh quick .	presentation of prototype(s)
+A	339.59	Yeah .	presentation of prototype(s)
+C	344.93	Um okay I've had everything I guess on the front ?	presentation of prototype(s)
+B	347.96	No the back .	presentation of prototype(s)
+B	348.7	With the logo and our uh l uh No I don't think And the And about the side view um This the front won't be as thick , but again th the the drawing technique makes it very difficult to to really uh Well , it won't be visible .	discussion presentation of prototype(s)
+C	348.94	Yeah the back .	presentation of prototype(s)
+C	349.35	Yeah .	presentation of prototype(s)
+C	351.45	We thought about Yeah , uh the back is of course totally titanium .	presentation of prototype(s)
+C	355.35	And we thought about the logo big in the middle .	presentation of prototype(s)
+A	358.59	Mm-hmm .	presentation of prototype(s)
+C	358.64	Just so again the double R_ .	presentation of prototype(s)
+C	360.08	We have then the logo on front and on the back .	presentation of prototype(s)
+D	360.22	Mm-hmm .	presentation of prototype(s)
+C	362.57	Maybe that's too much but you have to say uh say that if you think that way .	presentation of prototype(s)
+A	363.39	Okay .	presentation of prototype(s)
+C	367.51	And the company slogan , we thought in a kind of arc shape uh above the logo .	presentation of prototype(s)
+A	371.78	Yeah .	presentation of prototype(s)
+D	372.52	Yeah .	presentation of prototype(s)
+C	374.96	That's basically what we were thinking about , and Oh and uh before I forget .	presentation of prototype(s)
+A	378.02	Okay .	presentation of prototype(s)
+A	379.2	W Well I see , but Well .	presentation of prototype(s)
+C	391.04	Yeah the the voice , of course , the voice recorder is uh at the bottom .	presentation of prototype(s)
+A	391.98	Yeah I see it .	presentation of prototype(s)
+A	395.2	Yes .	presentation of prototype(s)
+C	395.32	And you can record it uh using , yeah , the the the back of the f w device .	presentation of prototype(s)
+A	398.04	When I look at uh when I look at this side view , I think w when I have that in my hand , it's terrible .	discussion
+B	401.19	Mm ?	discussion
+A	405.93	If if you look if if this this is thick , and this is thin , th th then it that it lies over your hands .	discussion
+C	406.04	Why ?	discussion
+C	409.67	Well it fits uh it it it it fits the hand , mean uh the the the the In the middle in the That's the question .	discussion
+A	411.54	But Well what what what I what I agree is that when uh when um you have such of uh an arc in the middle , so that the the a the ends and the fronts is a bit thicker , so th then it falls over your hands .	discussion
+B	413.16	Yeah .	discussion
+D	414.19	Yeah , I agree .	discussion
+B	426.96	If y If you handle a remote , you you usually don't have your hand straight like this .	discussion
+B	433.11	You you have it a bit uh Yeah .	discussion
+D	434.05	It depends on the size .	discussion
+D	436.1	If it's kinda small , this is is great .	discussion
+D	438.77	But if it's it's larger , then you want to grab it .	discussion
+A	441.78	And how large is it ?	discussion
+B	442.0	Yeah .	discussion
+D	442.98	Yeah , that's the question .	discussion
+C	446.24	Uh well Yeah .	discussion
+C	448.39	H What do you suggest I mean we do ?	discussion
+C	450.0	This was Mike's prototype , and y you seemed to agreed on it .	discussion
+A	450.99	Well uh Well the sides I haven't seen yet , uh ?	discussion
+C	453.83	But now you have a totally different .	discussion
+B	456.89	Well , they lay there all the time .	discussion
+C	457.68	The size ?	discussion
+C	458.09	Yeah well the size doesn't really matter w I mean Side ?	discussion
+A	458.64	They the the the the the side view , we didn't uh Yeah .	discussion
+C	461.19	Uh oh the side ?	discussion
+C	462.35	W we we he drew the s the side , but you d you weren't paying attention as usual .	discussion
+B	463.51	Yeah yeah .	discussion
+C	467.14	Well any case , we'll discuss it now .	discussion
+C	469.4	Uh I think uh this is a pretty good uh good idea .	discussion
+D	472.25	Yeah , I agree with the L_C_D_ screen .	discussion
+D	474.5	You have it in your palm like this , and you can watch uh watch the screen .	discussion
+D	480.22	And if you have it li in the middle , your hand might be over it .	discussion
+C	484.73	But you you hold it like this .	discussion
+B	486.4	Yeah you you don't you don't grab it , you you Yeah .	discussion
+C	486.86	You're not holding it like this or something .	discussion
+C	489.76	You , yeah , y How do you call it ?	discussion
+C	490.89	Yeah .	discussion
+C	491.81	Well y y y you don't have it like this .	discussion
+C	494.92	You have it more like this .	discussion
+A	495.23	No no no .	discussion
+C	497.09	You you you're using buttons this way , or if you're right-handed , this way .	discussion
+D	499.43	Like you're holding your telephone .	discussion
+A	500.37	Yep .	discussion
+C	501.91	So you Yeah .	discussion
+D	502.46	Because if you have a screen on it , you wanna look at your screen .	discussion
+C	502.68	So Yeah well And maybe you can you can grab it a bit higher , so Well Well the the Well that's a reason to to to put the L_C_D_ screen uh of course on the upper side , but If necessary .	discussion
+B	505.77	Hmm .	discussion
+B	506.85	That way , it it falls into your hand .	discussion
+B	508.42	I think .	discussion
+A	509.84	Okay .	discussion
+D	510.77	Yeah , I agree on this .	discussion
+D	514.04	No , I don't think so .	discussion
+D	515.47	That's not uh the point And you might be uh You might be target customer .	discussion
+B	516.17	No but but Well f for as far as I can see , three of us agree and only Nils But you're the Project Manager , you can make the hard decisions .	discussion
+A	527.27	Yeah well uh I think uh if you t if you three uh agree then then that's it .	discussion
+A	534.25	Yes .	discussion
+A	534.82	So uh I c I c Well , we'll we we'll do it like this .	discussion
+C	535.57	But uh are d Can you live with it ?	discussion
+C	537.27	Uh Y Yeah , y y y y you said it was totally uh unusable .	discussion
+B	538.04	Yeah ?	discussion
+A	538.41	Alright , if you think that that's the way it should No No , when I I my personal taste is that I want it to fall over my hands with a thick But In the market uh No not totally .	discussion
+C	543.27	But do you But d you don't think this is completely unusable I guess .	discussion
+C	553.12	I think .	discussion
+C	555.05	Not totally , well Yeah but of course y you are also human .	discussion
+A	555.64	For me , I I wouldn't buy it .	discussion
+A	557.57	Let's say it like that .	discussion
+C	559.65	We have to take uh every everyone into account .	discussion
+A	560.33	No Yes but Yeah , we don't know , but that's uh that's that's that's more market research .	discussion
+C	565.12	So Yeah .	discussion
+C	567.38	Well uh who who else thinks like you ?	discussion
+B	567.96	Mm .	discussion
+C	569.06	We don't know .	discussion
+C	569.48	Maybe a thousand people , or a million people .	discussion
+A	573.13	So let it be like this at uh at this moment .	discussion
+C	575.19	Let it be .	discussion
+C	576.26	Alright .	discussion
+A	576.74	Okay ?	discussion
+C	577.41	So that's that .	discussion
+C	578.07	Uh any other suggestions ?	discussion
+A	580.33	No , I think it's great .	discussion
+D	581.59	Yeah .	discussion
+B	582.34	But what about the redesigning ?	discussion
+A	585.57	Comes to that later .	discussion
+B	586.42	Okay .	discussion
+A	587.01	Um you .	evaluation of prototype(s)
+A	588.07	Uh c You can uh Walter .	evaluation of prototype(s)
+C	590.93	You're very personal again .	evaluation of prototype(s)
+A	591.7	You can do the evaluation uh criteria on this ?	evaluation of prototype(s)
+D	594.18	Alright .	evaluation of prototype(s)
+D	594.61	Great .	evaluation of prototype(s)
+A	596.49	That's more useful than just speaking .	evaluation of prototype(s)
+D	607.69	Well , this is just a short intro .	evaluation of prototype(s)
+D	609.79	I'm going to do uh the ev evaluation .	evaluation of prototype(s)
+A	609.8	Yes .	evaluation of prototype(s)
+D	613.14	That's gonna be done at the end of seven point skill criteria .	evaluation of prototype(s)
+D	619.03	So I made a I made a few questions on the hand of uh uh the impor most important requirements and trends .	evaluation of prototype(s)
+A	625.02	Mm-hmm .	evaluation of prototype(s)
+D	626.15	And we have to look if our uh if our device uh is working correctly .	evaluation of prototype(s)
+D	632.6	Well , I put some questions in a Word file .	evaluation of prototype(s)
+D	636.15	See if I can find them .	evaluation of prototype(s)
+D	638.8	Uh uh uh uh mm .	evaluation of prototype(s)
+A	644.52	'Kay .	evaluation of prototype(s)
+D	644.52	Well I uh think you have all seen uh this kind of evaluation , so uh I don't have to explain it .	evaluation of prototype(s)
+B	645.12	Hmm .	evaluation of prototype(s)
+D	651.06	Uh the first question is , uh is the device good-looking ?	evaluation of prototype(s)
+D	655.11	Because normal p uh most people thought that um earlier devices were ugly ugly .	evaluation of prototype(s)
+D	662.45	Seventy five percent of them .	evaluation of prototype(s)
+D	663.88	So what do we think ?	evaluation of prototype(s)
+C	667.1	Well d we designed it , so of course we are very Yeah .	evaluation of prototype(s)
+B	669.39	Mm .	evaluation of prototype(s)
+A	670.07	Yeah , we're we're not quite uh objective about this .	evaluation of prototype(s)
+D	670.13	Yeah No , I know , but I have to uh evaluate it .	evaluation of prototype(s)
+B	672.24	Well we designed it to be good-looking .	evaluation of prototype(s)
+D	675.92	So I have to take this questionnaire .	evaluation of prototype(s)
+C	680.04	So and we ha we have answer now ?	evaluation of prototype(s)
+A	680.34	To the customers ?	evaluation of prototype(s)
+A	681.88	To potential customers who have to take this questionnaire ?	evaluation of prototype(s)
+D	681.91	Yeah Yeah , but I can't can s Yeah , but uh , you know We dis we di we designed it to be perfect .	evaluation of prototype(s)
+C	682.39	Yeah .	evaluation of prototype(s)
+A	685.04	Nei .	evaluation of prototype(s)
+A	685.35	Oh no .	evaluation of prototype(s)
+B	685.63	Hmm .	evaluation of prototype(s)
+A	685.83	I know , I know , I know .	evaluation of prototype(s)
+A	687.19	But um Well we can go , uh because of the time , uh pretty quick through this .	evaluation of prototype(s)
+A	692.09	Uh do we find it good-looking ?	evaluation of prototype(s)
+A	693.82	Well we think so .	evaluation of prototype(s)
+C	695.19	I Yeah , I think it Well l well let's start with the beginning , just one by one .	evaluation of prototype(s)
+A	695.23	Uh Yeah .	evaluation of prototype(s)
+B	695.25	Yeah .	evaluation of prototype(s)
+B	695.77	We designed it to be good-looking , so Hmm .	evaluation of prototype(s)
+D	700.92	So But we have to be critic critical about it .	evaluation of prototype(s)
+D	705.29	And I have to uh take all these points and get a average at the end .	evaluation of prototype(s)
+D	708.65	So we we know where we stand .	evaluation of prototype(s)
+A	709.67	Well , one .	evaluation of prototype(s)
+D	711.62	'Cause th there are some things we might have uh bi might have forgotten .	evaluation of prototype(s)
+A	715.41	Well so it's point four .	evaluation of prototype(s)
+D	717.44	Right , so Right .	evaluation of prototype(s)
+A	717.92	Easy to find t Two .	evaluation of prototype(s)
+D	720.75	Uh is it good-looking ?	evaluation of prototype(s)
+C	722.2	Well , I guess uh I think uh it's uh it's it's um pointed towards the youth of course , uh if you look at the design and and the colours and everything .	evaluation of prototype(s)
+C	732.82	That was our target audience of course .	evaluation of prototype(s)
+C	734.26	But it's also not completely um uh u unacceptable for older people I guess .	evaluation of prototype(s)
+C	740.19	Uh it's it's not f a device that Yeah , that's that's uh for older people , it's it's more that classical look .	evaluation of prototype(s)
+D	742.73	The titanium might be uh f for older people .	evaluation of prototype(s)
+D	748.37	It you put uh put a black front on it or something .	evaluation of prototype(s)
+C	749.02	So Uh no .	evaluation of prototype(s)
+C	751.82	I think Yeah they like black of course , but I think they'll uh they they think uh the the titanium look of it is also Uh I think it's also good for them , so I think we both uh have uh consider considered uh the youth and also a bit older people .	evaluation of prototype(s)
+C	767.34	So I think it's very good-looking and not only for youth uh young people .	evaluation of prototype(s)
+D	768.03	Right .	evaluation of prototype(s)
+B	771.87	I think we shouldn't discuss any points points that long , because I don't know how how many points there are but uh Yeah .	evaluation of prototype(s)
+D	775.91	Right .	evaluation of prototype(s)
+A	776.26	No .	evaluation of prototype(s)
+A	777.21	I totally agree .	evaluation of prototype(s)
+C	777.68	Yeah , the fourteen yeah .	evaluation of prototype(s)
+A	778.32	We we have to get get on , go through this .	evaluation of prototype(s)
+D	778.53	Right , a number please .	evaluation of prototype(s)
+B	781.66	Yeah .	evaluation of prototype(s)
+C	782.09	Is it easy to t change channels ?	evaluation of prototype(s)
+C	783.78	Yeah well I think so .	evaluation of prototype(s)
+D	785.29	So the last one is seven .	evaluation of prototype(s)
+D	787.89	Easy to change channels ?	evaluation of prototype(s)
+B	788.12	Um , no it's uh With two huge buttons .	evaluation of prototype(s)
+A	788.72	No , not false .	evaluation of prototype(s)
+A	790.98	It's one .	evaluation of prototype(s)
+D	791.75	Oh , sorry .	evaluation of prototype(s)
+D	792.68	Yeah , right .	evaluation of prototype(s)
+A	795.32	Well uh two ?	evaluation of prototype(s)
+D	796.69	Change channels ?	evaluation of prototype(s)
+A	797.17	Y Well we have to go through it .	evaluation of prototype(s)
+C	799.13	I think it's uh as easy as uh can be made .	evaluation of prototype(s)
+C	801.26	Uh So I Yeah .	evaluation of prototype(s)
+D	802.07	Right .	evaluation of prototype(s)
+C	804.75	You How can you make it any easier ?	evaluation of prototype(s)
+D	807.14	The power , channel and volume buttons are easy accessible ?	evaluation of prototype(s)
+C	809.79	Yeah , huge is a Yeah .	evaluation of prototype(s)
+A	809.98	Yep .	evaluation of prototype(s)
+A	812.01	Two .	evaluation of prototype(s)
+D	812.87	Two ?	evaluation of prototype(s)
+D	815.85	Alright .	evaluation of prototype(s)
+D	816.38	The uh device is easy to find if you lose it ?	evaluation of prototype(s)
+A	818.78	Well , no .	evaluation of prototype(s)
+C	819.41	D we d we don't we don't have uh that s Yeah .	evaluation of prototype(s)
+A	819.56	We didn't implement anything about that .	evaluation of prototype(s)
+B	822.1	Well it's easier to find than a a normal black one or something , because of the colour .	evaluation of prototype(s)
+B	826.94	But We have so few functions , so Yeah .	evaluation of prototype(s)
+A	827.13	Well six then .	evaluation of prototype(s)
+D	827.69	Yeah .	evaluation of prototype(s)
+D	828.76	Six ?	evaluation of prototype(s)
+D	829.74	Right .	evaluation of prototype(s)
+C	829.75	Well we don't have the device that beeps uh when you lost it or so , but um um Yeah .	evaluation of prototype(s)
+A	831.94	Are the functions easy to learn ?	evaluation of prototype(s)
+A	833.98	Well w I we do want we have a l f f less of an And the device R_S_I_ sensitive ?	evaluation of prototype(s)
+D	838.63	Yeah , I agree .	evaluation of prototype(s)
+B	842.68	Well , I should I think two , because the voice recorder is n not self learning .	evaluation of prototype(s)
+A	844.04	Yeah .	evaluation of prototype(s)
+A	846.97	Ah .	evaluation of prototype(s)
+D	848.75	Yeah .	evaluation of prototype(s)
+C	851.4	Yeah .	evaluation of prototype(s)
+D	852.74	Alright .	evaluation of prototype(s)
+C	853.34	Mm ?	evaluation of prototype(s)
+D	853.5	Two ?	evaluation of prototype(s)
+A	855.0	Yeah , but just do some We we I th I th I think this is too time consuming .	evaluation of prototype(s)
+D	857.54	Yeah Yeah , I agree .	evaluation of prototype(s)
+C	860.03	Are we take too much time ?	evaluation of prototype(s)
+A	862.94	Uh not not towards you , but towards this all .	evaluation of prototype(s)
+D	864.49	No .	evaluation of prototype(s)
+A	865.52	Th this is We you have to put it to the customers .	evaluation of prototype(s)
+D	865.54	Yeah .	evaluation of prototype(s)
+D	867.03	Right , R_ R_S_I_ sensitive ?	evaluation of prototype(s)
+D	869.88	R_S_I_ sensitive ?	evaluation of prototype(s)
+A	871.18	Uh well well a bit , so four .	evaluation of prototype(s)
+D	873.71	Four .	evaluation of prototype(s)
+D	874.72	Um Yeah .	evaluation of prototype(s)
+A	875.67	Yes .	evaluation of prototype(s)
+C	876.31	Yeah , very much .	evaluation of prototype(s)
+C	876.95	One .	evaluation of prototype(s)
+A	877.7	One .	evaluation of prototype(s)
+A	878.0	And features included also one .	evaluation of prototype(s)
+A	881.01	And One .	evaluation of prototype(s)
+A	884.06	Uh those uh nine uh is the fancy-looking .	evaluation of prototype(s)
+A	886.9	Uh we still think so .	evaluation of prototype(s)
+C	888.0	Yeah .	evaluation of prototype(s)
+A	889.35	Device fancy feeling .	evaluation of prototype(s)
+C	889.92	And I think fancy-feeling too , because of the titanium back .	evaluation of prototype(s)
+A	890.56	Yeah , cool man .	evaluation of prototype(s)
+B	891.64	Yeah .	evaluation of prototype(s)
+C	892.49	Yeah .	evaluation of prototype(s)
+D	892.68	Right .	evaluation of prototype(s)
+A	893.51	Are there enough technology ?	evaluation of prototype(s)
+A	894.91	Yeah well also we have two .	evaluation of prototype(s)
+B	894.98	Yeah .	evaluation of prototype(s)
+D	897.04	Yeah , that's great .	evaluation of prototype(s)
+A	898.83	Is the device easy to use ?	evaluation of prototype(s)
+B	898.96	The Two two .	evaluation of prototype(s)
+A	900.18	Yes we have not many buttons .	evaluation of prototype(s)
+C	902.43	So well maybe two because of the voice recorder .	evaluation of prototype(s)
+D	903.52	Well , with the uh Three .	evaluation of prototype(s)
+A	903.8	Two , three .	evaluation of prototype(s)
+B	906.04	T Yeah .	evaluation of prototype(s)
+A	906.48	Are the trends about fruit and vegetables implemented ?	evaluation of prototype(s)
+C	906.61	F Yeah .	evaluation of prototype(s)
+A	909.0	Well in our covers , in our fronts .	evaluation of prototype(s)
+A	910.88	So yes , one .	evaluation of prototype(s)
+C	912.28	One or two .	evaluation of prototype(s)
+A	912.79	Is the material attractive ?	evaluation of prototype(s)
+B	912.79	One or two , another two .	evaluation of prototype(s)
+C	912.89	Yeah .	evaluation of prototype(s)
+D	913.43	Nah f four I think .	evaluation of prototype(s)
+C	915.45	Four ?	evaluation of prototype(s)
+D	915.56	If you look at this No .	evaluation of prototype(s)
+C	917.41	Well , it doesn't really resemble any fruit , uh that's true .	evaluation of prototype(s)
+C	919.93	But but we have the the the the the sparkly fruity colours of course .	evaluation of prototype(s)
+A	921.88	Oh okay .	evaluation of prototype(s)
+B	922.51	Well three .	evaluation of prototype(s)
+D	923.42	Three , alright .	evaluation of prototype(s)
+A	923.44	Okay .	evaluation of prototype(s)
+C	923.97	And you can also have front with uh with fruit on it .	evaluation of prototype(s)
+D	926.51	Yeah , that's true .	evaluation of prototype(s)
+A	927.25	Is the material attractive ?	evaluation of prototype(s)
+D	927.68	But Right .	evaluation of prototype(s)
+B	928.23	Mm .	evaluation of prototype(s)
+A	929.33	Well the titanium is strong , and uh the rest f uh the buttons feel soft .	evaluation of prototype(s)
+B	929.35	Yeah .	evaluation of prototype(s)
+A	933.92	So I would say at least two .	evaluation of prototype(s)
+A	936.81	Okay .	evaluation of prototype(s)
+A	940.47	Well Yeah .	costing
+B	941.35	This is the last meeting ?	costing
+A	942.82	Yes , but we we have to design much more , because there was some irritating account manager coming to me .	costing
+D	943.55	The average will uh come later .	costing
+B	943.57	Yeah .	costing
+C	952.87	I knew things uh were going uh too smoothly .	costing
+A	952.93	Um Oh .	costing
+C	957.39	There had to be some kind of trouble along the way .	costing
+A	957.52	Uh Yes .	costing
+B	958.69	Yeah .	costing
+A	959.91	Well , look at the costs at this point .	costing
+C	965.71	My god .	costing
+A	966.63	I had to fit it in .	costing
+D	967.82	It has to go to twelve , right ?	costing
+A	969.58	I twelve and a half .	costing
+D	970.44	Twelve and a half .	costing
+A	971.81	So Well what costs a lot ?	costing
+A	975.53	The sample spea costs four .	costing
+C	977.89	The what ?	costing
+C	978.4	The Yeah w tha that's uh that's a bit an optional option .	costing
+A	978.52	The sample speaker , the s sensor .	costing
+D	979.42	Out .	costing
+D	980.57	That's easy .	costing
+D	981.3	Kick it out .	costing
+A	981.96	Kick it out .	costing
+B	982.42	The what ?	costing
+D	982.56	Yeah .	costing
+A	982.96	We have to go to twelve and a half .	costing
+D	984.08	The speaker .	costing
+A	984.68	The speaker costs far , by far the most .	costing
+B	985.55	Oh .	costing
+D	988.59	That's some wrong info , man .	costing
+A	990.89	It it isn't worth it .	costing
+C	993.04	No .	costing
+D	993.43	No .	costing
+C	993.67	No , d th No .	costing
+A	993.98	We could make two different versions , one with and one without .	costing
+D	995.02	It's uh It's just extra .	costing
+A	996.84	But for this So , zero .	costing
+D	999.0	Kick it out .	costing
+C	1003.39	Yeah .	costing
+A	1003.85	Then we go to fourteen point six .	costing
+D	1006.3	What more ?	costing
+A	1006.78	Well the titanium I don't want to lose actually .	costing
+C	1009.18	No .	costing
+D	1009.19	Batteries are uh quite Uh no , no no no .	costing
+A	1010.07	L_C_ three ?	costing
+A	1012.16	Yeah hand dynamo ?	costing
+A	1013.2	Y t come on , w a remote control has a battery .	costing
+B	1013.8	Um Well well why why why should we use a advanced chip ?	costing components, materials and energy sources
+C	1014.79	N Uh well we have a bit of a problem I think .	costing
+C	1018.42	Because uh the L_C_D_ screen .	costing components, materials and energy sources
+A	1022.52	Well be for the L_C_D_ uh you had said .	components, materials and energy sources
+C	1024.77	Yeah .	components, materials and energy sources
+B	1025.27	Yeah ?	components, materials and energy sources
+D	1025.27	Hmm .	components, materials and energy sources
+B	1025.97	Can't we do that with a regular chip ?	components, materials and energy sources
+C	1027.99	No .	components, materials and energy sources
+B	1028.86	Why not ?	components, materials and energy sources
+C	1029.64	Because uh that uh y because my information says it .	components, materials and energy sources
+A	1032.49	Well what what's the difference between simple and regular ?	components, materials and energy sources
+C	1035.73	Huh ?	components, materials and energy sources
+A	1036.16	What's the difference between a simple and a regular chip ?	components, materials and energy sources
+B	1037.11	Yeah .	components, materials and energy sources
+B	1037.44	Regular is normal .	components, materials and energy sources
+D	1039.15	Yeah .	components, materials and energy sources
+A	1040.01	And simple ?	components, materials and energy sources
+C	1040.49	Uh well yeah I I read something about it , but Yeah , I I read something about it , but it wasn't very clear .	components, materials and energy sources
+B	1041.08	Simple .	components, materials and energy sources
+A	1042.03	Nothing .	components, materials and energy sources
+B	1044.15	Elementary .	components, materials and energy sources
+A	1046.69	Well ?	components, materials and energy sources
+A	1048.72	Your part .	components, materials and energy sources
+C	1050.93	I d I didn't in include it in my report .	components, materials and energy sources
+A	1053.74	What happens if we do How much do we win ?	components, materials and energy sources
+C	1055.05	Single Well you have to use a chip .	components, materials and energy sources
+C	1059.73	So Well you have to use the advanced chip , if you have the L_C_D_ screen .	components, materials and energy sources
+B	1063.07	We we we Why ?	components, materials and energy sources
+A	1063.56	One .	components, materials and energy sources
+B	1065.19	We have very little options furthermore , for the Uh well we have to put that in .	components, materials and energy sources
+C	1068.35	But if you have a regular chip , you can't have the L_C_D_ screen .	components, materials and energy sources
+A	1068.47	Yeah .	components, materials and energy sources
+D	1072.18	Yeah , we need to have the the L_C_D_ screen .	components, materials and energy sources
+C	1073.43	That that's a fact .	components, materials and energy sources
+A	1074.14	Well , we could say , well this special colour , that isn't that that isn't there , because the the fronts they will buy it .	components, materials and energy sources
+C	1074.3	Uh Yeah , but it's only one half .	components, materials and energy sources
+D	1077.13	No Yeah , but No , that's n It's not relevant .	components, materials and energy sources
+A	1081.42	The special colour .	components, materials and energy sources
+B	1083.37	Nah .	components, materials and energy sources
+C	1084.04	Uh it d it doesn't But we d Then we have to lose the L_C_D_ screen .	components, materials and energy sources
+A	1085.64	Yeah , then you s then you only have one half left .	components, materials and energy sources
+B	1085.84	Yeah , you must change the chip uh back .	components, materials and energy sources
+B	1088.56	You must change the chip back , Nils .	components, materials and energy sources
+D	1088.58	Yeah .	components, materials and energy sources
+A	1090.94	Uh yeah .	components, materials and energy sources
+D	1094.93	No , Then the whole concept is uh You You can make you can make it cheaper .	components, materials and energy sources
+C	1098.44	Yeah , I know but that's what my information says .	components, materials and energy sources
+C	1101.8	I di I didn't uh put uh the advanced chip in there for fun .	components, materials and energy sources
+B	1103.6	Hmm .	components, materials and energy sources
+B	1104.83	No we oh You you we have an advanced chip-on-print , and we have an L_C_ display .	components, materials and energy sources
+C	1106.21	You have to use it .	components, materials and energy sources
+D	1107.6	But if you don't sell No no no no .	components, materials and energy sources
+A	1110.5	Yeah .	components, materials and energy sources
+B	1114.55	I think that's a bit double .	components, materials and energy sources
+A	1115.07	Yeah ?	components, materials and energy sources
+B	1116.24	Y we don't need both .	components, materials and energy sources
+A	1116.34	No , the advanced chip is needed to have an L_C_D_ display .	components, materials and energy sources
+C	1119.31	For the L_C_D_ screen .	components, materials and energy sources
+C	1120.36	Yeah .	components, materials and energy sources
+C	1121.13	Yeah .	components, materials and energy sources
+B	1121.54	Says .	components, materials and energy sources
+A	1122.59	Says , his Uh that was in the second meeting , I think .	components, materials and energy sources
+C	1125.09	Well uh and what do they mean with curves uh again ?	components, materials and energy sources
+C	1127.92	Because we you have uncurved Yeah .	components, materials and energy sources
+A	1128.85	Well I I did single curve to Well you said s double curved , uh he , because uh I thought it's a b a bit cheaper already .	components, materials and energy sources
+B	1132.14	I ?	components, materials and energy sources
+A	1136.96	We can also make it flat .	components, materials and energy sources
+C	1137.36	Well But what what did what do n Sorry , but What do they mean with the curves ?	components, materials and energy sources
+A	1139.17	But Curved ?	components, materials and energy sources
+C	1142.11	Is th Is this a curve ?	components, materials and energy sources
+A	1142.85	Yes , that's curved .	components, materials and energy sources
+C	1143.67	One curve ?	components, materials and energy sources
+C	1144.73	Yeah , this is actually two curves , yeah .	components, materials and energy sources
+A	1145.03	Yes .	components, materials and energy sources
+C	1146.21	It's how you It's how you look at it .	components, materials and energy sources
+A	1146.44	No , it's one curve .	components, materials and energy sources
+B	1147.74	One curve .	components, materials and energy sources
+A	1148.46	One curve , simple .	components, materials and energy sources
+C	1150.05	Well then we have a huge problem I think .	components, materials and energy sources
+C	1151.49	W t we can never get uh below the twelve and a half .	components, materials and energy sources
+A	1153.58	We have a big financial problem .	components, materials and energy sources
+B	1155.78	Well we make it more expensive to buy .	components, materials and energy sources
+A	1158.6	Well , then we have two dollars less profit .	components, materials and energy sources
+A	1161.94	Come on , if we if we if we make this fifty million , they won't hesitate to uh congratulate us , so uh By the way , we also have this one .	components, materials and energy sources
+D	1169.05	If if you make people brand-aware , they are willing to pay more .	components, materials and energy sources
+D	1173.11	But Because we we use a brand at the front and uh I dun at the back .	components, materials and energy sources
+C	1174.18	But uh I Hey but uh I think you'll agree that uh that we that now we have this uh screen , it's it's very uh not practical to ha to consider this after we have designed the entire thing .	components, materials and energy sources
+D	1179.39	If you have uh lots of uh marketing people might buy .	components, materials and energy sources
+B	1185.53	Yeah or we could replace it Why why don't we replace the titanium with uh plastic coloured titanium , uh titanium-coloured plastic ?	components, materials and energy sources
+D	1186.7	If you if you make it cool to have Oh , that's just great .	components, materials and energy sources
+A	1194.73	Oh , costs nothing .	components, materials and energy sources
+D	1196.17	Oh , alright .	components, materials and energy sources
+A	1196.49	That's nice .	components, materials and energy sources
+A	1199.22	Plastic is Yes , but I just got it .	components, materials and energy sources
+C	1212.6	Well that's pretty uh l N not very practical .	components, materials and energy sources
+D	1214.93	That is pretty stupid .	components, materials and energy sources
+C	1218.23	Well But I'm n I don't agree .	components, materials and energy sources
+A	1221.82	Who ?	components, materials and energy sources
+A	1226.47	You want to dump the titanium ?	components, materials and energy sources
+B	1229.38	Yeah well if we uh we we have to get cheaper .	components, materials and energy sources
+A	1232.91	And make all plastic , then we ha then we're there .	components, materials and energy sources
+B	1239.31	But then we we've got to uh run through the eval evaluation process again .	components, materials and energy sources
+C	1239.35	I think I think the titanium just uh provided the the tough look and the and the And also the the older people will like it because of that .	components, materials and energy sources
+A	1240.76	Th then you have a ugly , stupid , l ugly looking , dumb remote that that no-one would buy .	components, materials and energy sources
+B	1247.46	Ah no no .	components, materials and energy sources
+B	1249.37	It's not ugly looking .	components, materials and energy sources
+B	1250.37	The looks remain the same .	components, materials and energy sources
+A	1251.65	No , I don't think so .	components, materials and energy sources
+D	1252.68	Y Yeah , I agree .	components, materials and energy sources
+B	1252.76	Well , I do think so .	components, materials and energy sources
+A	1256.32	Yes .	components, materials and energy sources
+A	1257.18	And the feel , and th that it is strong , and We still we had to focus to get more people from the younger group , but not lose the one Why can't I I'll put in the report we that we think that fourteen point one is the l m lowest price you can make a remote for that's trendy d these days .	components, materials and energy sources
+B	1257.75	feel .	components, materials and energy sources
+C	1262.06	And because i Alright it's not our target audience , but it's it's useful if it's uh important for old people .	components, materials and energy sources
+C	1268.89	Yeah .	components, materials and energy sources
+C	1271.97	I think the titanium is very important .	components, materials and energy sources
+B	1273.88	Yeah alright but then we we won't get there .	components, materials and energy sources
+C	1275.25	Yeah we have a problem , yeah .	components, materials and energy sources
+C	1276.41	W But you can better , yeah , dump the L_C_D_ screen then .	components, materials and energy sources
+B	1279.8	We can dump the special colour .	components, materials and energy sources
+B	1281.13	We l we use plastic .	components, materials and energy sources
+B	1283.81	And plastic is already in colour I think .	components, materials and energy sources
+D	1285.56	I don't think you should dump the L_C_D_ screen .	components, materials and energy sources
+C	1288.19	Well what else ?	components, materials and energy sources
+C	1288.93	W I mean uh Yeah .	components, materials and energy sources
+B	1289.24	No , nothing .	components, materials and energy sources
+D	1290.42	Or you shou It's Or change the titanium or dump the L_C_D_ screen .	components, materials and energy sources
+B	1291.58	Amen .	components, materials and energy sources
+D	1294.68	But I think you could better change uh titanium to hard a hard kind of plastic looking like titanium than lose the L_C_D_ screen .	components, materials and energy sources
+B	1301.19	Yeah .	components, materials and energy sources
+D	1303.98	Because you have lots of functions in it too .	components, materials and energy sources
+C	1306.94	Yeah , well yeah .	components, materials and energy sources
+B	1307.16	Yeah .	components, materials and energy sources
+C	1308.32	Alright .	components, materials and energy sources
+C	1309.22	I agree with that .	components, materials and energy sources
+B	1309.65	But No no no no .	components, materials and energy sources
+C	1310.38	So we u we use uh Unfortunately .	components, materials and energy sources
+C	1315.07	Um .	components, materials and energy sources
+C	1317.29	Titanium-coloured plastic .	components, materials and energy sources
+D	1323.62	Yeah , I agree .	components, materials and energy sources
+C	1325.09	So titanium-coloured plastic for the back .	components, materials and energy sources
+A	1328.2	I I'll talk to the managers .	components, materials and energy sources
+B	1330.64	W Titanium stays there .	components, materials and energy sources
+A	1332.95	Titanium , I thi I think this this is this is e really good re remote .	components, materials and energy sources
+C	1336.79	Yeah this is good , but it it's not good enough .	components, materials and energy sources
+D	1336.87	Osl If you don't have the money , you can't make it .	components, materials and energy sources
+A	1338.12	But Ah those those account managers , what do th d what do they know ?	components, materials and energy sources
+C	1339.8	So we have to use the ditch the titanium , I'm afraid .	components, materials and energy sources
+B	1344.09	Well No because we did not know anything about it .	components, materials and energy sources
+A	1346.95	Come on .	components, materials and energy sources
+C	1348.62	What do we Well what do we know ?	components, materials and energy sources
+A	1348.69	Riot .	components, materials and energy sources
+C	1350.41	All we want is a is a fancy design but we don't really consider the costs .	components, materials and energy sources
+A	1353.28	Yes , yes .	components, materials and energy sources
+C	1354.15	So Yeah al alright , yeah .	components, materials and energy sources
+A	1356.61	One and a half Euros .	components, materials and energy sources
+C	1357.79	But we have to deal with it now .	components, materials and energy sources
+A	1358.42	Hmm ?	components, materials and energy sources
+D	1358.59	So s If you don't have the money , you can't make it .	components, materials and energy sources
+C	1359.62	So So Titanium gone and add plastic .	components, materials and energy sources
+D	1361.58	So this is too expensive .	components, materials and energy sources
+A	1365.52	So ?	components, materials and energy sources
+D	1366.23	So we have to make it cheaper .	components, materials and energy sources
+D	1370.53	Right .	components, materials and energy sources
+B	1370.84	Yeah , but then we've got money left .	components, materials and energy sources
+C	1372.48	And on plastic times two and then we uh are there ?	components, materials and energy sources
+A	1375.03	Well , no it's just uh all plastic .	components, materials and energy sources
+C	1377.13	No No yeah well Oh six .	components, materials and energy sources
+A	1378.03	Well alright .	components, materials and energy sources
+A	1379.11	Huh .	components, materials and energy sources
+C	1383.44	A lot of plastic , yeah .	components, materials and energy sources
+D	1384.42	It's just free , man .	components, materials and energy sources
+A	1385.2	Four .	components, materials and energy sources
+A	1385.75	So But then we can add the special colour ?	costing components, materials and energy sources
+C	1386.38	No two for the to make it clear .	components, materials and energy sources
+B	1391.06	Yeah .	costing
+A	1391.5	As we have money over uh left .	costing
+B	1394.68	Yeah .	costing
+A	1394.84	And we still have money left .	costing
+B	1395.35	W Well I think uh the case is double curved then .	costing
+A	1396.44	What do we want , guys ?	costing
+C	1397.86	I want gold plating .	costing
+C	1399.01	No no um We have we have to uh fill W we ha No no no , but th that's not f um Well you can you can double curve , if you don't have titanium .	costing
+D	1399.45	Yeah right .	costing
+D	1400.06	I want chrome .	costing
+A	1403.76	Yes .	costing
+B	1406.49	Because you y have that curve and you have that curve .	costing
+A	1408.33	Y Oh no .	costing
+B	1409.92	Yeah well uh Well y we have curves in all directions .	costing
+D	1410.27	Well , th that that is the problem .	costing
+A	1411.3	Alright .	costing
+A	1413.44	Safe .	costing
+C	1419.89	And that we dropped , so it it can be done .	costing
+A	1421.3	So alright .	costing
+C	1423.1	But it's pretty funny .	costing
+C	1423.86	We we do want to reach twelve point five .	costing
+C	1426.97	But it isn't bad to to to stay at eleven .	costing
+A	1427.49	Finance ?	costing
+B	1427.52	I mean , this this ain't titanium , but it looks like it .	costing
+C	1432.05	We get more salary , if we make if cheaper than twelve uh twelve and a half .	costing
+A	1432.23	Well , guys ?	evaluation of project process
+D	1433.4	Yeah .	evaluation of project process
+A	1433.88	Guys ?	evaluation of project process
+A	1434.98	We have to dump our titanium , and we'll hate the managers for that , but now we're going to evaluate our project , of uh project , project .	evaluation of project process
+D	1435.33	Shoot .	evaluation of project process
+C	1440.13	Objection .	evaluation of project process
+B	1442.54	Pro project .	evaluation of project process
+A	1444.69	Well , satisfaction on for example , are we satisfactory about our creativity ?	evaluation of project process
+C	1452.27	Well I can't get no satisfaction , but uh I think it's uh Well in in if we consider the costs then this is the best , yeah .	evaluation of project process
+D	1461.18	Yeah .	evaluation of project process
+A	1461.2	I think it's terrible that we got uh those costs at the last moment .	evaluation of project process
+B	1462.03	Yeah .	evaluation of project process
+B	1464.43	Yeah .	evaluation of project process
+D	1464.46	Yeah , me too .	evaluation of project process
+A	1465.13	That's really bad .	evaluation of project process
+C	1466.15	Its it's uh ridiculous actually , but Which isn't very practical , but that's the way .	evaluation of project process
+A	1466.38	But that that that's that , yeah that's a reason , but also for our creativity .	evaluation of project process
+B	1467.33	And uh unrealistic .	evaluation of project process
+A	1471.27	We had um nice design , and then you get the cost , and you had to dump all your creativity .	evaluation of project process
+B	1475.76	Well we we we used our creativity , but we just had to adapt it to the costs .	evaluation of project process
+D	1475.98	Right .	evaluation of project process
+A	1481.65	Yeah .	evaluation of project process
+B	1482.02	Nei .	evaluation of project process
+B	1482.7	Uh no .	evaluation of project process
+A	1483.28	Well , alright .	evaluation of project process
+C	1483.54	Uh-huh .	evaluation of project process
+A	1485.31	Uh leadership next .	evaluation of project process
+B	1486.87	Terrible .	evaluation of project process
+A	1487.49	Uh teamwork ?	evaluation of project process
+D	1489.68	Leadership .	evaluation of project process
+B	1490.79	Leadership ?	evaluation of project process
+D	1491.47	Well it's It was very democratic .	evaluation of project process
+B	1491.72	Well Yeah .	evaluation of project process
+A	1493.61	Uh yeah well I think so also .	evaluation of project process
+B	1494.52	Yeah .	evaluation of project process
+A	1495.47	I al I I've uh filled that in in a the questionnaires uh each time , so Well the managers were terrible .	evaluation of project process
+D	1499.63	Yeah yeah .	evaluation of project process
+A	1503.7	So , with their all their useless requirements .	evaluation of project process
+A	1508.23	But o alright , the teamwork ?	evaluation of project process
+C	1508.85	Well uh they they didn't think of the requirements .	evaluation of project process
+C	1511.55	It's the requirements of the user , uh I guess .	evaluation of project process
+A	1513.99	No they said , oh we won't d uh we won't uh use teletext , uh we won't use the D_V_D_ .	evaluation of project process
+C	1517.05	Yeah .	evaluation of project process
+C	1519.1	Yeah but they base that on on the user specifications .	evaluation of project process
+A	1523.23	Alright , teamwork ?	evaluation of project process
+D	1524.68	Well Yeah , think so too .	evaluation of project process
+A	1525.16	Well great I think .	evaluation of project process
+B	1525.96	Right yeah .	evaluation of project process
+A	1527.55	Uh well what do you , what did you think about the SMARTboard ?	evaluation of project process
+C	1530.63	It was a complete disaster .	evaluation of project process
+C	1532.16	No Uh it it it uh it is uh No it's other way around .	evaluation of project process
+D	1532.31	Yeah , I don't like it .	evaluation of project process
+A	1532.66	Well It's also a It's both the SMARTboards .	evaluation of project process
+B	1533.04	No , that's a SMARTboard , and that's a digital pen .	evaluation of project process
+D	1534.06	Yeah ?	evaluation of project process
+B	1535.95	Or not ?	evaluation of project process
+C	1537.85	That's the SMARTboard .	evaluation of project process
+C	1538.64	That's the digital panel .	evaluation of project process
+A	1538.65	I liked this SMARTboard , but I hated that one .	evaluation of project process
+D	1539.87	This this this isn't a SMARTboard , right ?	evaluation of project process
+A	1542.03	Well it's both a SMARTboard .	evaluation of project process
+C	1542.82	That's that's the smart A televi Yeah .	evaluation of project process
+D	1543.78	Yeah right .	evaluation of project process
+D	1544.19	B but you This is just a large t large television .	evaluation of project process
+B	1545.7	Oh they're both SMARTboards .	evaluation of project process
+A	1547.08	No .	evaluation of project process
+D	1547.65	You u you use the Yeah , but you ca This is just a beamer function .	evaluation of project process
+A	1549.1	It's both a SMARTboard , but this one is used for a desktop , and that one is used to to draw .	evaluation of project process
+D	1556.67	And here , on this one , you can uh draw the pictures and things like that .	evaluation of project process
+A	1559.73	Well , wi w which one did you like ?	evaluation of project process
+D	1560.36	But That one .	evaluation of project process
+C	1561.44	Yeah .	evaluation of project process
+C	1562.04	Left or right ?	evaluation of project process
+B	1563.23	Yeah .	evaluation of project process
+A	1563.77	That one .	evaluation of project process
+D	1564.26	That one isn't accurate .	evaluation of project process
+D	1565.44	It just doesn't work .	evaluation of project process
+A	1566.02	Yeah .	evaluation of project process
+D	1566.83	You can Yeah , but I think there's a big distinction between the these th I don't need a SMARTboard .	evaluation of project process
+B	1566.97	But I I think this is meant by the digital pen .	evaluation of project process
+A	1569.92	Yes .	evaluation of project process
+A	1571.1	Th that is so .	evaluation of project process
+C	1572.34	Well I didn't use uh Nei It it's much m But uh you can uh I I sent it about three times now .	evaluation of project process
+B	1572.9	Yeah .	evaluation of project process
+A	1572.99	We're now talking about the SMARTboards .	evaluation of project process
+B	1578.32	Well we we used that one , and we needed it .	evaluation of project process
+D	1581.44	Yeah , but give me a beamer .	evaluation of project process
+B	1582.44	I think .	evaluation of project process
+D	1583.05	That's uh that's much uh much cheaper .	evaluation of project process
+B	1583.8	Yeah alright , but Yeah I like that one , but that one is terrible .	evaluation of project process
+A	1584.96	Or install a laptop to a beamer , or have this one standing here in an I I like it .	evaluation of project process
+D	1590.26	Right .	evaluation of project process
+A	1591.3	Okay , alright .	evaluation of project process
+C	1595.63	Uh a green uh board with uh chalk is much more useful than that thing .	evaluation of project process
+A	1599.5	Yeah .	evaluation of project process
+D	1600.36	Yeah .	evaluation of project process
+A	1600.57	Yeah , it is .	evaluation of project process
+C	1601.73	The simple uh sch school board .	evaluation of project process
+A	1602.3	So And uh the digi the digital pen ?	evaluation of project process
+D	1602.43	I agree .	evaluation of project process
+A	1605.42	Did uh did you like that one ?	evaluation of project process
+D	1606.98	No .	evaluation of project process
+C	1607.18	I I didn't use it .	evaluation of project process
+C	1608.26	I wrote things down but I didn't import it into my laptop .	evaluation of project process
+A	1610.12	I used it uh just to check it out , but uh You you can't send that to anyone , because you you've scrabbled something on a page for yourself , and then you're going to send it , yeah .	evaluation of project process
+D	1612.82	Yeah .	evaluation of project process
+C	1613.93	That's the W But also y you write things down .	evaluation of project process
+D	1615.11	Yeah .	evaluation of project process
+D	1615.7	It isn't practical .	evaluation of project process
+D	1617.43	Right .	evaluation of project process
+A	1619.25	Well , no .	evaluation of project process
+C	1622.17	And i you can also bring your your your note block .	evaluation of project process
+D	1624.43	Your notepad .	evaluation of project process
+C	1625.34	So what's the what's the th what's the point of importing it into Yeah alright .	evaluation of project process
+D	1625.62	Yeah .	evaluation of project process
+A	1626.63	It's , no , it it's useless .	evaluation of project process
+B	1628.35	Well I I drew this .	evaluation of project process
+B	1631.64	Mm .	evaluation of project process
+B	1632.16	And I made a mistake .	evaluation of project process
+B	1633.01	But it it would have been uh useful , if I I could show this on the screen .	evaluation of project process
+A	1635.28	Yes .	evaluation of project process
+A	1637.48	For drawings , yes .	evaluation of project process
+C	1637.5	For drawings , but not for personal notes .	evaluation of project process
+B	1638.42	Yeah for drawings .	evaluation of project process
+C	1639.69	I think that's not very Uh I mean you can bring your paperwork along and p Well of course if you have a lot of paper If you've If you've Yeah I understand .	evaluation of project process
+B	1640.74	N notes mm .	evaluation of project process
+A	1647.04	But But for notes , it i you you have to put that in a strict Uh you have to put a name , standard date , and all those things .	evaluation of project process
+D	1647.11	Yeah , it might be useful for drawings .	evaluation of project process
+D	1648.9	I I agree on that .	evaluation of project process
+B	1649.31	Mm .	evaluation of project process
+A	1657.31	And notes uh for a meeting are very strict .	evaluation of project process
+A	1660.38	So if you uh were to write them down for yourself , and then put that in your computer , you still have to type it over to Word .	evaluation of project process
+D	1667.3	Yeah , right .	evaluation of project process
+A	1667.41	So it doesn't d doesn't have any Yep .	evaluation of project process
+D	1669.71	That Stefan use .	evaluation of project process
+C	1670.82	But I think uh d this option is only useful if you've got a lot of paperwork .	evaluation of project process
+C	1675.46	You can't It's not very uh ni Yeah well a lot of documents are Yeah .	evaluation of project process
+D	1677.55	No , I don't think so .	evaluation of project process
+D	1679.07	It's it's only useful if you have to draw something .	evaluation of project process
+B	1681.26	Yeah .	evaluation of project process
+B	1682.72	But then uh it's really useful , I think .	evaluation of project process
+D	1685.15	Yeah .	evaluation of project process
+A	1686.49	Alright .	evaluation of project process
+C	1687.3	Mu Yeah right .	evaluation of project process
+A	1687.35	Um etcetera ?	evaluation of project process
+A	1688.83	Well uh the laptops ?	evaluation of project process
+D	1690.7	Yeah , great .	evaluation of project process
+A	1691.11	Of course great .	evaluation of project process
+B	1691.34	Yeah .	evaluation of project process
+D	1692.03	Yeah .	evaluation of project process
+B	1692.04	Hmm .	evaluation of project process
+C	1692.11	Can we keep them ?	evaluation of project process
+A	1693.24	Yeah .	evaluation of project process
+C	1693.79	Uh .	evaluation of project process
+A	1693.83	You can .	evaluation of project process
+A	1694.79	B by my Yeah .	evaluation of project process
+D	1695.11	Wireless uh wireless things .	evaluation of project process
+B	1696.02	Thanks Project Manager .	evaluation of project process
+A	1698.24	Other uh things we used here ?	evaluation of project process
+A	1700.28	I hated the cameras , I hated the microphones .	evaluation of project process
+D	1702.95	Well these chairs , man .	evaluation of project process
+A	1703.1	But No No .	evaluation of project process
+C	1703.52	Well did you really uh Did you really take uh take those in account ?	evaluation of project process
+D	1705.16	Really great .	evaluation of project process
+C	1708.45	I half of time I didn't notice they were there .	evaluation of project process
+A	1710.24	No .	evaluation of project process
+A	1711.23	I haven't looked w one time directly at the camera .	evaluation of project process
+C	1711.29	So But we shouldn't talk about that .	evaluation of project process
+A	1713.92	I don't care about it .	evaluation of project process
+B	1714.96	Well I did .	evaluation of project process
+C	1716.87	Because this is a realistic environment .	evaluation of project process
+A	1718.02	Well w why not ?	evaluation of project process
+A	1718.9	Uh etcetera We N new ideas found ?	evaluation of project process
+C	1722.09	Right .	evaluation of project process
+C	1722.6	Okay .	evaluation of project process
+A	1724.0	What kind of ideas for n a future schedule What ?	evaluation of project process
+A	1729.15	For future um meetings you have got ?	evaluation of project process
+B	1730.63	Well I missed uh the option to uh to email , yeah .	evaluation of project process
+D	1733.98	Communicate in between .	evaluation of project process
+B	1735.76	Email or chat or something .	evaluation of project process
+D	1735.78	Yeah , right .	evaluation of project process
+A	1736.1	Chatting and emailing .	evaluation of project process
+C	1736.42	But yeah .	evaluation of project process
+C	1736.89	W well th that's just the the environment they set us up f with .	evaluation of project process
+D	1737.08	Yeah .	evaluation of project process
+C	1739.96	So Well , for drawing for drawings .	evaluation of project process
+B	1740.23	Yeah alright , but that's one n new idea .	evaluation of project process
+D	1743.39	Yeah , I agree .	evaluation of project process
+A	1744.11	Well , new ideas found by this .	evaluation of project process
+A	1751.69	Not .	evaluation of project process
+A	1752.69	Nothing .	evaluation of project process
+D	1753.17	Well , more more information in the beginning .	evaluation of project process
+A	1754.03	We don't want this .	evaluation of project process
+A	1755.8	We hate this .	evaluation of project process
+B	1756.28	Yeah .	evaluation of project process
+D	1757.11	That's For people who uh sketch th the whole day , I can imagine that it's useful .	evaluation of project process
+A	1758.05	Digital pen is useless .	evaluation of project process
+B	1759.77	No it isn't .	evaluation of project process
+A	1759.99	So Yeah , for drawings .	evaluation of project process
+B	1762.36	Yeah .	evaluation of project process
+C	1762.38	Yeah .	evaluation of project process
+B	1764.1	So it isn't useless .	evaluation of project process
+A	1764.96	But uh two t But uh th then you have to have a lot of drawings , because if I had a company and I'm going to uh buy those expensive huge expensive uh things , I and I have to w pay those uh papers uh that are expensive , I'm not going to uh Well th then still they they they should have a a nice graphics programme on the laptop .	evaluation of project process
+C	1768.24	Well No But it's still an expensive uh expensive But if w Yeah .	evaluation of project process
+B	1783.6	Yeah .	evaluation of project process
+A	1790.92	Because this is huge uh this v very very uh expensive paper .	evaluation of project process
+D	1792.68	Well Yeah , I agree .	evaluation of project process
+B	1793.79	Well you you can't you can't draw on a laptop like you like you paint of or draw with your hand .	evaluation of project process
+B	1800.6	With the mouse it is No .	evaluation of project process
+A	1803.13	Yeah .	evaluation of project process
+C	1804.07	Well and if And but what if uh maybe this this board uh SMARTboard is malfunctioning or someone .	evaluation of project process
+D	1804.36	Mouse is ju just isn't working if you're sketching .	evaluation of project process
+B	1806.75	Uh indeed .	evaluation of project process
+C	1813.86	But suppose it was working correctly , what uh would it be useful then , if it wasn't off all the time ?	evaluation of project process
+A	1819.59	Well no .	evaluation of project process
+A	1820.19	I hated to draw like that .	evaluation of project process
+C	1820.29	A Really ?	evaluation of project process
+A	1821.74	You you can't draw anything uh neat .	evaluation of project process
+D	1824.45	Yeah , but he's saying if it is correct , and you can draw very , yeah , very precise Yeah , mu It saves time .	evaluation of project process
+C	1828.8	Anything you want .	evaluation of project process
+C	1829.48	Any b b Yeah .	evaluation of project process
+A	1830.84	I if it if it would be perfect following .	evaluation of project process
+C	1830.87	L li li Yeah .	evaluation of project process
+A	1835.16	Well th th then still it's it's it's very expensive uh towards a a just a green uh school board .	evaluation of project process
+C	1835.52	Well it isn't , but maybe that thing is uh is Yeah , board , a school board , yeah .	evaluation of project process
+B	1843.58	Yeah , but but then you can uh save it in instantly , and and and re-use it , and uh Hmm .	evaluation of project process closing
+C	1847.01	Yeah .	evaluation of project process
+A	1847.86	Yep .	evaluation of project process
+C	1847.94	I it has It is useful .	evaluation of project process
+C	1849.64	Yeah .	evaluation of project process
+A	1849.78	Yeah yeah .	evaluation of project process
+C	1851.03	This uh if it works correct , maybe this thing this thing is just malfunctioning .	evaluation of project process
+C	1854.59	So uh if we get in uh if we get another one and you make sure it does work , I think then it's pretty useful .	evaluation of project process
+A	1858.66	Yep .	evaluation of project process
+A	1861.61	Yeah .	evaluation of project process
+C	1862.88	Because uh yeah you can draw t things quickly and uh clearly for anyone uh in the discussion room .	evaluation of project process
+C	1870.19	And then you can save it immediately .	evaluation of project process
+A	1872.2	Well , they are now .	evaluation of project process
+D	1875.27	Celebration .	closing
+A	1877.12	It is .	closing
+A	1878.59	So , congratulations crew .	closing
+C	1879.51	Did you type that ?	closing
+B	1880.09	Hmm .	closing
+B	1881.82	Celebration .	closing
+A	1883.55	Se Finally my beer .	closing
+D	1884.47	Well Yeah .	closing agenda/equipment issues
+B	1884.86	Yeah , we can go to the bar and uh with our newly earned money .	closing
+A	1891.07	Well , that's it I think .	closing
+B	1892.18	Yeah .	closing
+A	1892.47	Um I don't know how long we still have .	closing
+A	1894.12	I dunno how long uh we had for this last meeting .	agenda/equipment issues
+A	1897.35	But uh Well yeah , it is a bit uh Well we still have to make the end report and uh all those things .	agenda/equipment issues
+C	1897.85	Maybe till four o'clock or something ?	agenda/equipment issues
+C	1899.45	Well dunno .	agenda/equipment issues
+C	1900.12	Yeah .	agenda/equipment issues
+A	1905.44	I have to do that .	agenda/equipment issues
+D	1907.41	You better get started .	agenda/equipment issues
+A	1907.56	I Di did you um save this one in the folder ?	agenda/equipment issues
+B	1909.99	Oh .	agenda/equipment issues
+B	1912.73	No .	agenda/equipment issues
+A	1913.07	Can you do that ?	agenda/equipment issues
+B	1913.28	No no no no .	agenda/equipment issues
+C	1914.11	No we must save this thing , yeah .	agenda/equipment issues
+C	1915.96	In the shared map map .	agenda/equipment issues
+B	1918.26	But Nils you've got some work left .	agenda/equipment issues
+A	1922.17	I don't know what you have to do .	agenda/equipment issues
+C	1922.72	Map , is it a good word ?	agenda/equipment issues
+C	1923.7	The folder , yeah .	agenda/equipment issues
+D	1923.79	Huh .	agenda/equipment issues
+B	1927.3	I have to go to a physiotherapy .	agenda/equipment issues
+A	1929.03	Yeah .	agenda/equipment issues
+A	1931.79	Oh it worked .	agenda/equipment issues
+A	1932.82	Two times quick .	agenda/equipment issues
+B	1932.98	Wow .	agenda/equipment issues
+D	1933.43	Oh , alright .	agenda/equipment issues
+A	1934.0	Cool .	agenda/equipment issues
+C	1935.3	So it is useful , yeah .	agenda/equipment issues
+B	1936.05	Yeah .	agenda/equipment issues
+B	1936.7	It is handy .	agenda/equipment issues
+D	1936.84	Oh great , man .	agenda/equipment issues
+C	1936.95	No but uh Radical .	agenda/equipment issues
+D	1938.84	I'm gonna buy one buy one for my bedroom .	agenda/equipment issues
+A	1939.14	This is nice .	agenda/equipment issues
+A	1942.23	Uh D design .	agenda/equipment issues
+C	1942.55	Yeah .	agenda/equipment issues
+C	1948.38	Do you believe it yourself ?	agenda/equipment issues
+A	1949.25	S Oh .	agenda/equipment issues
+A	1950.3	He saved them all ten .	agenda/equipment issues
+A	1951.78	Well alright .	agenda/equipment issues
+A	1953.28	Um Yeah .	agenda/equipment issues
+B	1953.76	Well they they wanted everything we produced , so My big bird .	agenda/equipment issues
+C	1956.18	They also want to see my cat and his rabbit , and uh Your big beautiful bird .	agenda/equipment issues
+A	1959.0	Well Where is this ?	agenda/equipment issues
+C	1973.07	Maybe the pen is just uh uh broken and the board isn't .	agenda/equipment issues
+C	1977.8	Of or the other way around uh Yeah I think so too .	agenda/equipment issues
+D	1980.3	Maybe you are broken .	agenda/equipment issues
+D	1984.22	You know .	agenda/equipment issues
+B	1984.3	I think you have we have to make clear to her that we are ready .	closing
+D	1987.76	I think she's listening .	closing
+A	1989.88	I also think so .	closing
+A	1991.99	She already knows .	closing
+C	1992.12	Who is she you're talking about ?	closing
+C	1994.04	Oh you mean our uh coach , our f personal coach .	closing
+A	1994.14	She ?	closing
+A	1995.27	Big brother .	closing
+A	1999.17	Our manager .	closing
+C	2002.39	Is she also our accountant ?	closing
+C	2005.02	Is she responsible for sending that information so late ?	closing
+A	2006.11	Yeah .	closing
+A	2007.49	I don't think so .	closing
+C	2008.53	Oh .	closing
+B	2009.89	Close your laptop .	closing
+C	2010.1	Because then we have to confront her with our Yeah .	closing
+B	2012.23	So she can see we're ready .	closing
+D	2013.69	I feel watched .	closing
+A	2016.85	Alright .	closing
+B	2020.1	Yeah .	closing
+A	2020.52	We put the fashion in electronics , but we couldn't because of the costs .	closing
+B	2021.56	Let's take this remote into uh production .	closing
+A	2025.24	That that's the title of our uh end document .	closing
+C	2026.0	That that's our new slogan .	closing
+D	2027.11	Yeah .	closing
+C	2028.19	Yeah , I like that .	closing
+A	2028.98	We couldn't put the fashion into the electronics .	closing
+C	2032.01	Blame our accountants .	closing
+D	2034.17	Do that .	closing
+A	2035.04	Yeah , that's a nice title .	closing
+D	2036.84	Yeah .	closing
+C	2037.88	But we couldn't , yeah .	closing
+D	2040.47	Very catching .	closing
+A	2044.12	Oh .	closing
+C	2044.2	Well I th Yeah .	closing
+D	2044.71	I'm sure management would like that .	closing
+B	2047.67	She's on the move .	closing
+D	2052.99	Oh , that's just great .	closing

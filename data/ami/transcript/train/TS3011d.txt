@@ -1,0 +1,643 @@
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+B	235.684	That's the same as uh on the top of it uh with the the round uh button .	presentation of prototype(s)
+C	240.644	Like this one .	presentation of prototype(s)
+B	242.054	But uh we don't uh we don't uh we do think it's um well what if with ease of use , w which prefers the which the the customer of the user prefers .	presentation of prototype(s)
+C	246.644	It's important .	presentation of prototype(s)
+C	251.704	Uh I think th this is device which which has a learning curve .	presentation of prototype(s)
+C	255.594	Um novice users u use this device as uh normal users use uh a c a remote control .	presentation of prototype(s)
+C	262.594	And after a while they start to develop uh some skills in the the voice recognition functions , and then they will not use this dial as often .	presentation of prototype(s)
+C	273.114	But other users who are new to this device need something like that .	presentation of prototype(s)
+A	273.934	Okay .	presentation of prototype(s)
+C	276.794	They n they need to understand what uh how to change channels and uh change the volume , so it's easier for them Yeah , maybe so .	presentation of prototype(s)
+A	285.484	Could could I see the scroll bar as uh as as a sort of shortcut ?	presentation of prototype(s)
+A	290.284	A a and the voice recognition as well , th maybe you could uh could uh Yeah .	presentation of prototype(s)
+C	290.904	Yes , it's Well , it's it's it's another approach , it's more that our um .	presentation of prototype(s)
+C	298.064	There are there are many ways of doing uh things uh on such a device .	presentation of prototype(s)
+C	304.854	It's it's quite easy .	presentation of prototype(s)
+A	305.644	Okay .	presentation of prototype(s)
+A	306.864	Okay , good .	presentation of prototype(s)
+A	307.624	And and the case is is rubber ?	presentation of prototype(s)
+C	309.434	Yes , rubber ?	presentation of prototype(s)
+A	310.464	And the buttons ?	presentation of prototype(s)
+B	311.984	Plastic or rubber .	presentation of prototype(s)
+C	312.014	There are plastic or rubber .	presentation of prototype(s)
+B	313.414	Well , yeah .	presentation of prototype(s)
+A	314.114	Okay , and uh the colouring ?	presentation of prototype(s)
+C	316.434	Uh yellow with uh grey or black or something like that .	presentation of prototype(s)
+A	318.604	with with grey or black .	presentation of prototype(s)
+C	322.054	Whatever cost uh cost uh the least .	presentation of prototype(s)
+A	326.774	Okay , we'll we'll come to that later .	presentation of prototype(s)
+A	329.124	Um okay .	presentation of prototype(s)
+A	332.954	Anything else to add or Yeah .	presentation of prototype(s)
+C	334.754	No .	presentation of prototype(s)
+C	335.814	Uh maybe we should uh think about these buttons .	presentation of prototype(s)
+D	339.824	Well , you could use two of them to programme the um channels on the two channel button , 'cause you have to assign two channel new channels .	presentation of prototype(s)
+C	339.974	But Yes , but it but these are tasks that are only executed once , I think .	presentation of prototype(s)
+A	350.834	M uh yeah .	presentation of prototype(s)
+C	351.384	Or not ?	presentation of prototype(s)
+A	352.094	M m but maybe you do want a programme button to uh for example activate the voice recognition , or train the voice voice recognition .	presentation of prototype(s)
+D	353.084	You Yes .	evaluation of prototype(s) presentation of prototype(s)
+C	358.064	Well okay .	presentation of prototype(s)
+C	359.054	Okay , yeah , that's right .	presentation of prototype(s)
+C	360.794	Or something li like that .	presentation of prototype(s)
+B	361.184	And a button for disabling the voice recognition .	presentation of prototype(s)
+A	364.474	Yeah al although by pressing the button for I n don't know two , three seconds , you could also say it you'd disable it with a little beep and and but o okay , that that's not really really important .	presentation of prototype(s)
+C	372.374	Yes .	presentation of prototype(s)
+B	373.734	Yeah .	presentation of prototype(s)
+B	377.034	That's the basic idea , yeah .	presentation of prototype(s)
+A	378.244	The basic okay .	presentation of prototype(s)
+B	379.524	Of our prototype .	presentation of prototype(s)
+A	380.724	Okay .	presentation of prototype(s)
+A	381.554	Um you thought of some evaluation crit criteria ?	evaluation of prototype(s)
+A	387.754	Okay .	evaluation of prototype(s)
+D	403.254	Uh my name is not name but Uh well , I used the the uh documents .	evaluation of prototype(s)
+A	406.704	You are nameless .	evaluation of prototype(s)
+D	414.834	And these uh were the most important criteria .	evaluation of prototype(s)
+D	420.314	It should be .	evaluation of prototype(s)
+D	420.754	yeah , that's uh how the fashion guys uh state it .	evaluation of prototype(s)
+C	420.994	Is it spongy ?	evaluation of prototype(s)
+D	428.354	Fancy look and feel .	evaluation of prototype(s)
+D	429.724	So Uh well appar Yeah , but apparently uh we shouldn't evaluate yet .	evaluation of prototype(s)
+B	430.954	So just walk through it step by step .	evaluation of prototype(s)
+B	434.224	I mean , is it fancy , everything I believe uh I believe it's fancy .	evaluation of prototype(s)
+C	440.384	I believe it's fancy too .	evaluation of prototype(s)
+A	444.594	No .	evaluation of prototype(s)
+B	444.954	Oh , sorry .	evaluation of prototype(s)
+D	445.294	So Yeah , I think these are the most important criteria .	evaluation of prototype(s)
+C	446.844	Okay .	evaluation of prototype(s)
+A	446.994	Okay , so this these are the cr uh the criteria .	evaluation of prototype(s)
+A	451.784	Okay , well the then we'll switch to my presentation .	evaluation of prototype(s) costing
+D	453.554	So uh that's about it .	evaluation of prototype(s)
+A	457.084	Um The production costs .	costing
+A	471.694	The costs are not under Can I Um this is the Yeah , it's it's w way above um uh above the the the twelve Euro fifty .	costing
+B	489.944	Twenty two .	costing
+B	492.294	Yikes .	costing
+A	497.564	And what makes it very expensive is uh for example the solar cell .	costing
+C	501.314	Well it's very expensive .	costing
+A	501.504	So I guess we should skip that , because it's not that important .	costing
+C	506.724	Okay .	costing
+B	507.274	Why does the price and and the s oh , one uh exa yeah .	costing
+A	510.844	Yeah , the the price , the the number of items and the the sum .	costing
+B	512.874	The number of uh yeah .	costing
+C	515.034	Okay .	costing
+A	515.534	Um well , this is what I would call our luxury model .	costing
+A	520.024	Um if you would if you look at the uh w w w what we could do to make it more um to make it just between the twelve Euro fifty , um then I did the following changes .	costing
+B	522.144	And and does it But that's that's only for the buttons .	costing
+A	538.144	Twelve Euro forty cents I came up with by leaving out the solar cells , um by not using the voice recognition feature , because it's uh it's a four Euro uh addition to the price .	costing
+C	544.304	Mm-hmm .	costing
+C	548.804	Mm-hmm .	costing
+A	555.444	Um Yeah , I believe Uh , push-button , well It makes it the thirteen yeah .	costing
+A	569.074	Push-buttons are buttons are are not the most expensive , but do add extra cost .	costing
+C	574.894	Hmm .	costing
+A	575.454	So um yeah , th this design is not um within our price model .	costing
+C	582.784	Okay .	costing
+A	584.024	Um Yeah .	costing
+C	585.264	But I'm afraid it's not complete .	costing
+C	588.474	Because we use spec uh specic uh special materials , the last item .	costing
+C	593.294	And you have not added one item there .	costing
+C	599.874	So it's c way too expensive .	costing
+A	601.974	It's still too expensive , yeah .	costing
+A	604.654	Um I I guess if we leave the if we leave this one out , um oh .	costing
+B	606.494	So the button we can use plastic .	costing
+A	613.884	And uh maybe not use the special form .	costing
+B	615.274	And the pla uh And a plastic b just plastic buttons , a plas uh instead of rubber .	costing
+C	619.004	But it Yes .	costing
+A	621.654	It becomes a very dull remote control , I know .	costing
+A	625.144	But it's the board decision .	costing
+A	627.524	Um And um yeah .	costing
+C	634.804	Well , b basically it when when this is our only option , we should even consider changing the casing , because I think there's very little added value in uh an enhanced case with these dull functions .	costing
+A	646.024	Yeah .	costing
+A	649.414	Yeah , I know .	costing
+C	650.124	So Type of m maybe another market segment .	costing
+A	650.284	Maybe we should look at an uh focus on another uh Yeah , m uh maybe not not all that fancy , but just way way more easy uh uh um basic and uh m maximise the profits and um Yeah .	costing
+C	661.234	Yeah .	costing
+C	662.624	Yes .	costing
+C	667.244	That's maybe that's better .	costing
+C	669.684	Maybe we could uh we should go for straight and simple , but that's not what uh has been asked .	costing
+A	672.944	Yeah .	costing
+A	676.444	I know , I know .	costing
+C	677.504	So we should kick the board's uh Well Hmm .	costing
+A	682.244	Yeah .	costing
+A	683.054	Although I think we yeah , but we could still make uh a remote control that ap uh um applies um more to young people uh by giving it another colour already .	costing
+A	697.144	Um so it is possible to make uh uh a device that attracts a little bit more to young people .	costing
+C	703.734	Yes .	costing
+A	704.464	Um but uh I agree it's it's not a fancy high-tech uh device .	costing
+A	709.694	Definitely not , no .	costing
+A	713.594	It's not that innovative .	costing
+A	717.314	Or however you s pronounce that .	costing
+A	719.874	Um so , okay .	costing
+B	719.874	Yeah , too bad .	costing
+A	723.454	Um Oh , this is the wrong one .	costing
+A	735.374	So uh that means redesign .	costing
+A	739.534	We do not have the time o uh now to to redesign the product .	agenda/equipment issues
+B	742.914	Mm-hmm .	agenda/equipment issues
+A	743.684	Um but we can evaluate the process and um uh uh the satisfaction on how things went .	agenda/equipment issues
+A	756.064	Um I'm not sure if we need to evaluate uh the device first .	agenda/equipment issues
+A	762.404	I guess Yeah .	agenda/equipment issues
+D	763.444	Um well , since we're not gonna manufacture it anyway Uh Yay .	look and usability agenda/equipment issues
+A	768.584	Yeah , that's true .	agenda/equipment issues
+C	769.684	Well , maybe it's good to do it anyway , because if we evaluate it , we we can also determine if our objectives are good .	agenda/equipment issues
+A	773.794	We l we can learn .	agenda/equipment issues
+A	777.034	Yeah .	agenda/equipment issues
+A	778.864	Yeah .	agenda/equipment issues
+C	779.384	So Is it fancy ?	look and usability agenda/equipment issues
+A	780.464	I agree .	agenda/equipment issues
+A	782.334	Well I d it is it is Yeah , I think so .	look and usability agenda/equipment issues
+D	798.644	Is it ?	look and usability
+D	800.834	Is it fancy ?	look and usability
+B	802.654	Um the yellow rubber , I think so .	look and usability
+C	803.294	I think so .	look and usability
+A	805.484	You like the rubber , uh Roo .	look and usability
+B	807.864	I'm into it .	look and usability
+D	810.744	So uh one ?	look and usability
+C	812.964	But it's not that fancy .	look and usability
+A	812.984	Yeah .	look and usability
+A	814.784	No , I'll I'll I'll give it a two .	look and usability
+C	814.974	I mean I think uh I think it would have been more fancy if we used the titanium housing the casing .	look and usability
+C	823.134	It would be even more oh , you really like titanium .	look and usability
+A	824.084	You like tita That's a flavour as well .	look and usability
+C	826.984	I'm I'm into it .	look and usability
+C	832.154	It has flavour .	look and usability
+C	833.014	Yes , that's right .	look and usability
+C	834.674	You should taste it .	look and usability
+A	835.464	Right .	look and usability
+A	836.134	Um Yeah , I know , but but it but that's fancy in the way um I mean fancy has has a lot of Yeah .	look and usability
+D	838.914	Is it uh And w yeah , w what they want wanted was uh colours and soft materials .	look and usability
+C	849.084	It has to do with fashion , I guess .	look and usability
+C	851.544	So do Okay .	look and usability
+B	852.004	It's trendy trendy , fun yeah .	look and usability
+D	858.224	So in that way It it's fancy .	look and usability
+A	858.244	Yeah .	look and usability
+A	860.274	It applies .	look and usability
+A	861.124	It yeah .	look and usability
+B	862.144	Well , just give it a two .	look and usability
+A	864.494	Yeah .	look and usability
+C	865.364	Yes .	look and usability
+C	866.054	I think I th I think it would have been I would have think uh it could have been more fancy by using the double-curved case .	look and usability
+B	866.194	It's not the ultimate uh fancy two , but Yeah , but that's sti that's uh Looking at the user uh needs , we only uh don't we don't have the double-curved case .	look and usability
+C	873.014	It would have been even more fancy , but we decided not to , because if we use a double-curved case , we could not use solar .	look and usability
+C	880.984	So Yes .	look and usability
+B	890.874	We w we do have uh the rubber , we do have the colours .	look and usability
+B	894.974	That's two out of three .	look and usability
+B	897.144	So I believe uh we are close uh to two .	look and usability
+A	899.014	Yeah , I I agree .	look and usability
+C	900.674	Yes , I agree too .	look and usability
+C	901.824	It's okay .	look and usability
+C	902.694	We did yes , we did good .	look and usability
+D	904.614	Okay , and uh was it innovative ?	components, materials and energy sources
+A	909.844	Well , with the voice recognition feature and uh No , we are evaluating this this uh design now .	components, materials and energy sources
+B	912.644	But that's not in it .	components, materials and energy sources
+D	914.464	Yep .	components, materials and energy sources
+B	914.504	Ov or can we Okay .	components, materials and energy sources
+C	916.194	Well , let's let's this product .	components, materials and energy sources
+C	920.534	So I I I think it is .	components, materials and energy sources
+A	920.674	This prototype .	components, materials and energy sources
+C	922.154	I think it's innovative .	components, materials and energy sources
+A	923.594	Yeah .	components, materials and energy sources
+B	923.904	And the scroll uh wheel .	components, materials and energy sources
+B	925.414	The solar not many remotes have the solar , I think .	components, materials and energy sources
+C	930.134	No .	components, materials and energy sources
+C	930.584	It could have been a little bit more innovative u by using the kinetic uh energy source , but it's it's way too yes , but I think uh it's a two .	components, materials and energy sources
+D	936.204	Yeah , and uh So uh also a uh two ?	components, materials and energy sources
+A	937.284	That would have been a thrill .	components, materials and energy sources
+A	943.094	Yep .	components, materials and energy sources
+D	948.104	Is it easy to use ?	look and usability
+A	951.114	I'm not sure .	look and usability
+B	951.174	Yeah .	look and usability
+A	954.854	I'm not sure .	look and usability
+B	956.654	Well yeah , the voice recognition of course is hard to learn , I think .	look and usability
+B	963.544	Well , hard it's not for the for the e for the elderly .	look and usability
+C	968.004	Well , but there are two parts in this remote control .	look and usability
+B	968.084	They won't use it .	look and usability
+C	971.464	What you see here is is the basic part .	look and usability
+C	973.924	Everybody can use it , so that's easy to use .	look and usability
+A	976.474	Yeah .	look and usability
+C	977.044	That's for a novice user .	look and usability
+C	978.964	When you have a more advanced , elaborate user , well , such a user really would like to explore all these additional functions .	look and usability
+C	988.724	So in that in that way it is advanced , and I think it's easy to use for for both uh types of users .	look and usability
+A	992.044	Yeah .	look and usability
+C	1000.874	So uh It's maybe it's not very uh easy for Okay .	look and usability
+B	1000.884	I think I think a three .	look and usability
+B	1006.374	Wouldn't give it more .	look and usability
+A	1009.154	Uh I'm doubting doubting as well .	look and usability
+A	1011.584	Um Yeah .	look and usability
+D	1012.484	Well the p the most important function is easy to use .	look and usability
+D	1017.544	The the zapping , channel switching , volume .	look and usability
+D	1021.584	But the more advanced functions are probably a bit harder .	look and usability
+A	1028.394	Okay .	look and usability
+A	1029.074	Uh two or three ?	look and usability
+A	1030.524	Three ?	look and usability
+A	1031.024	Wha wh what would be your guess ?	look and usability
+A	1033.564	I mean ease of use um does not only apply to the most basic functions .	look and usability
+A	1038.794	It's the uh it's it's overall .	look and usability
+A	1040.414	Is the device easy to use ?	look and usability
+C	1041.924	Yeah , that's right .	look and usability
+C	1043.134	You're right in that , but I I guess uh an advanced user will will find the voice recognition function easy to use , because he is already he or she is already an advanced user .	look and usability
+A	1050.544	Yeah .	look and usability
+A	1054.254	Yeah .	evaluation of prototype(s)
+C	1055.114	So After all , I think personally I would give a two .	evaluation of prototype(s)
+A	1056.694	Um Okay .	evaluation of prototype(s)
+C	1060.034	But So , it's two , two and three .	evaluation of prototype(s)
+A	1061.144	Uh Roo , a three ?	evaluation of prototype(s)
+B	1062.284	Yep .	evaluation of prototype(s)
+A	1062.784	Ruud ?	evaluation of prototype(s)
+D	1067.284	Good question .	evaluation of prototype(s)
+D	1069.764	Uh I'll go uh for the two .	evaluation of prototype(s)
+A	1073.224	Okay .	evaluation of prototype(s)
+C	1077.384	Two threes .	evaluation of prototype(s)
+C	1077.974	So that's ten .	evaluation of prototype(s)
+A	1078.734	So I could make it e easy ?	evaluation of prototype(s)
+B	1079.884	If you make it a four it will be three in general .	evaluation of prototype(s)
+C	1081.224	So that's w No , two and a half .	evaluation of prototype(s)
+B	1085.714	If he makes it a four .	evaluation of prototype(s)
+C	1088.934	Six and four .	evaluation of prototype(s)
+B	1088.984	Not a three .	evaluation of prototype(s)
+C	1089.854	Six and four is ten .	evaluation of prototype(s)
+C	1091.744	Divided by four is two and a half .	evaluation of prototype(s)
+C	1094.434	So Yes .	evaluation of prototype(s)
+B	1095.954	Darn .	evaluation of prototype(s)
+B	1096.694	Nee .	evaluation of prototype(s)
+D	1097.174	Hmm ?	evaluation of prototype(s)
+A	1098.224	Roo .	evaluation of prototype(s)
+D	1098.404	Huh ?	evaluation of prototype(s)
+B	1098.434	A seven , a three No .	evaluation of prototype(s)
+D	1100.944	Yeah .	evaluation of prototype(s)
+B	1101.584	A four and a three together .	evaluation of prototype(s)
+D	1101.714	I yeah .	evaluation of prototype(s)
+C	1103.654	Four ?	evaluation of prototype(s)
+B	1104.354	Yeah , you have a two , he has a two .	evaluation of prototype(s)
+D	1104.664	Yeah , two , two , three No .	evaluation of prototype(s)
+C	1105.694	Two ?	evaluation of prototype(s)
+B	1107.024	Three ?	evaluation of prototype(s)
+B	1107.704	And a three ?	evaluation of prototype(s)
+A	1107.764	No , I haven't said anything yet .	evaluation of prototype(s)
+B	1109.544	Nee .	evaluation of prototype(s)
+B	1110.544	I know .	evaluation of prototype(s)
+A	1110.704	Okay , but if I would say a three , then it's six , and four is ten .	evaluation of prototype(s)
+C	1115.814	Divided by four .	evaluation of prototype(s)
+A	1116.294	Divided by four is two point five .	evaluation of prototype(s)
+B	1118.224	Yes .	evaluation of prototype(s)
+B	1118.934	So if you want to have the conclusion as a three three .	evaluation of prototype(s)
+B	1123.234	Then you would make a four .	evaluation of prototype(s)
+B	1125.544	If you fill out a four Yeah , we haven't re uh re uh really worked it out , but you c you can you can just say find and he repeats find .	evaluation of prototype(s) how to find when misplaced
+C	1127.604	That's not even But that's not possible to fill in , so we have to round it .	evaluation of prototype(s)
+A	1127.644	But I'm filling in a three .	evaluation of prototype(s)
+A	1128.774	Does it will so it will be a two point five .	evaluation of prototype(s)
+A	1132.494	Yes , it is .	evaluation of prototype(s)
+A	1134.524	I have a veto .	evaluation of prototype(s)
+A	1137.894	Exactly .	evaluation of prototype(s)
+A	1140.234	It's not about the content , it's about okay , um is it easy to f Yeah , definitely .	evaluation of prototype(s) how to find when misplaced
+D	1144.594	Is it easy to find ?	how to find when misplaced
+C	1148.054	Yes .	how to find when misplaced
+C	1152.344	It it most definitely is it's very easy .	how to find when misplaced
+A	1156.504	Yeah , or beeps or yeah .	how to find when misplaced
+B	1158.284	Yeah , but that's the that's the the basic idea of the the speaker uh But even without it Yeah .	how to find when misplaced
+C	1158.484	Yes .	how to find when misplaced
+C	1159.994	Maybe Uh I I think I think something like that .	how to find when misplaced
+A	1162.194	I'm here , I'm here .	how to find when misplaced
+C	1163.964	Maybe you have to uh programme it once , so to that l respond to uh a certain word or a certain sentence , something like where are you , and then it will sing I'm here .	how to find when misplaced
+A	1166.544	Yeah .	how to find when misplaced
+A	1169.844	Yeah .	how to find when misplaced
+A	1175.064	Yeah .	how to find when misplaced
+C	1175.214	So something like that .	how to find when misplaced
+C	1176.604	So , I th Yeah , me too .	how to find when misplaced
+A	1176.614	Well , I uh we should not uh stay too long on this subject uh because of the time , but I personally give it a one .	how to find when misplaced
+A	1183.764	Um Sebastian ?	how to find when misplaced
+B	1186.174	Me too .	how to find when misplaced
+D	1186.814	Yeah , I agree .	how to find when misplaced
+A	1187.314	Right , well .	look and usability
+A	1189.904	The feel of the remote control is spongy .	look and usability
+A	1192.674	Well , uh it can't be more spongy .	look and usability
+A	1194.444	So No okay , but but for the options given , it's the most spongy one .	look and usability
+C	1195.884	Well , it can be .	look and usability
+C	1197.244	There are cases um in which the outside casing is um can be uh how d how do you prono is is moldable .	look and usability
+B	1205.784	Was it one of our options ?	look and usability
+C	1207.234	No , it's not one of our option , but when you look in the market , when you look Uh yes , but that's not that's not uh what they are talking about , I think .	look and usability
+D	1207.614	No .	look and usability
+D	1208.614	Uh this this was a most spongy option .	look and usability
+B	1209.084	So , in the in Yeah .	look and usability
+C	1216.674	Because we compare all these uh characteristics characteristics with uh market uh with with the real market .	look and usability
+A	1222.704	Yeah .	look and usability
+C	1223.684	So there are uh remote controls out there which are a lot more spongy .	look and usability
+A	1223.934	Yeah .	look and usability
+C	1229.054	They're out there .	look and usability
+A	1229.244	They're out there .	look and usability
+B	1229.684	But I think in this case in this case we've done the best we could .	look and usability
+C	1233.274	Yes , but it's not good enough , so it's a two .	look and usability
+A	1233.294	Yeah .	look and usability
+A	1236.134	I'll give it a one .	look and usability
+B	1237.004	I wan I'll take one .	look and usability
+C	1239.364	You take one ?	look and usability
+C	1240.634	What do you give it ?	look and usability
+D	1243.724	Well yeah , it depends , 'cause it's the most spongy we could but yeah .	look and usability
+A	1246.464	Yeah , I know , but you have to name a fig uh a number .	look and usability
+A	1250.484	Because we need to go on in for the time .	look and usability
+D	1255.344	Well , if I give it a one there'll be one hell of a calculation .	look and usability
+B	1258.534	It will be a one .	look and usability
+D	1260.494	So I'll just give it a two and make this a one point five .	look and usability
+C	1263.434	No no no .	look and usability
+C	1264.274	Uh I'll I'll change it , I'll make it m my my mark will be a four .	look and usability
+A	1269.144	You are okay .	look and usability
+A	1272.444	The remote control offers enough features .	look and usability
+A	1277.854	Well , Ruud , what what do you think about it ?	look and usability
+D	1281.724	Well , the basic layout doesn't offem offer much , but the voice recognition could add a lot .	look and usability
+D	1286.984	So Yeah , depends .	look and usability
+C	1289.344	Basically it's it's completely programmable .	look and usability
+A	1291.794	Yeah .	look and usability
+C	1292.064	You can add very m much functionality by uh using the voice recognition mode .	look and usability
+A	1297.874	Yeah , I know .	look and usability
+C	1298.714	So it's quite advanced .	look and usability
+A	1300.154	What what we didn't talk about is um uh I think it has .	look and usability
+B	1301.074	Yeah , but it ha doesn't has the digits .	look and usability
+B	1304.314	I believe it's If you uh ask yourself it offers enough features , I don't I don't think it is it has all the features um a normal remote has .	look and usability
+D	1318.664	Uh depends on what you uh implement in the speech feat Signal .	look and usability
+A	1319.864	Yeah .	look and usability
+A	1320.854	Bec because you can um we didn't talk about it , but you do have uh remote controls that are able to adapt another signal .	look and usability
+C	1328.564	Yes .	look and usability
+A	1328.904	So , you place a a regular uh remote control in front of the other one , hit the one or the two or the three , whatever , and it r records the uh the um the the signals .	look and usability
+C	1342.264	Has uh the signals sent to it .	look and usability
+B	1343.874	Yeah .	look and usability
+A	1344.624	So you could uh uh uh enter any comment you like , as long it's able to as long as our device is able to reproduce the infrared signal .	look and usability
+A	1357.374	So I think th this uh this is uh a a remote control with a very high level of features .	look and usability
+C	1362.784	Absolutely .	look and usability
+A	1363.394	Although there are i a few buttons , but the inside is is quite uh advanced .	look and usability
+C	1365.624	Yes .	look and usability
+C	1367.534	But that that's its power , I guess , because uh a regular programmable uh remote control contains , well , uh really a lot of buttons .	look and usability
+A	1374.594	Yeah .	look and usability
+C	1374.694	At at least uh forty buttons .	look and usability
+A	1376.784	Yeah .	look and usability
+C	1377.234	So it's it's quite s complicated to get uh to get used to .	look and usability
+C	1382.094	And this is quite s simple .	look and usability
+C	1384.004	You can use your voice to to programme it .	look and usability
+A	1384.444	Yep .	look and usability
+C	1387.304	It's Yeah , I'll give it a one .	look and usability
+A	1388.194	Yeah .	look and usability
+A	1388.864	Okay , um let's give it a number .	look and usability
+A	1390.974	I'll give it uh a one .	look and usability
+A	1393.324	For for the for this t uh type of market , I think it's a one .	look and usability
+B	1397.664	I'll give a two .	look and usability
+D	1402.334	Um I think think a one , 'cause v with a voice recognition you could add anything you want , so that's like um Maybe even because it doesn't look advanced .	look and usability evaluation of prototype(s)
+C	1411.564	Yes .	evaluation of prototype(s)
+C	1411.944	I I've I think we've uh succe succeed in in developing a product that's actually quite good , but not for this kind of market , and not for this kind of price .	evaluation of prototype(s)
+C	1422.524	So Hmm .	evaluation of prototype(s)
+A	1422.754	Yeah .	evaluation of prototype(s)
+A	1423.144	So high quality , low acceptance .	evaluation of prototype(s)
+A	1428.054	The product is is is uh b high qua uh has a high quality and and is uh advanced .	evaluation of prototype(s)
+C	1435.124	Yes .	evaluation of prototype(s)
+A	1435.474	But whether or not our clients are are um willing to pay twenty five Euros for this kind of device is doub is well , is not sure .	evaluation of prototype(s)
+C	1443.144	Mm-hmm .	evaluation of prototype(s)
+C	1449.054	Mm-hmm .	evaluation of prototype(s)
+A	1449.784	D do you agree ?	evaluation of prototype(s)
+C	1450.784	Yes , I agree .	evaluation of prototype(s)
+C	1451.974	I Yeah , okay .	evaluation of prototype(s)
+A	1456.924	Yeah .	evaluation of prototype(s)
+A	1458.094	Maybe we should have a radar uh function .	evaluation of prototype(s)
+C	1458.454	But Yes .	evaluation of prototype(s)
+B	1462.074	But we could couldn't uh what what's the selling price ?	evaluation of prototype(s)
+B	1464.724	Fifty ?	evaluation of prototype(s)
+A	1465.404	Twenty five Euros .	evaluation of prototype(s)
+B	1465.494	Uh twenty five .	evaluation of prototype(s)
+B	1467.924	And costs were twelve fifty .	evaluation of prototype(s)
+A	1469.764	Yeah .	evaluation of prototype(s)
+B	1469.904	But even now , if only our production costs w uh were exceeded the double , Think .	evaluation of prototype(s)
+B	1478.474	Production cost was were t uh was twenty two ?	evaluation of prototype(s)
+A	1480.714	Mm-hmm .	evaluation of prototype(s)
+B	1481.664	So uh selling price uh would be uh yeah .	evaluation of prototype(s)
+C	1484.134	M about fifty Euros .	evaluation of prototype(s)
+C	1486.914	That's quite ex well , it's not it's not very expensive for a remote control that that has this functionality .	evaluation of prototype(s)
+B	1487.414	That's price , but w w No .	evaluation of prototype(s)
+B	1492.004	An original remote control of any T_V_ kind , uh a Phillips remote control , y you pay uh Yeah , I kn I know uh from a few years ago , it it it costed hundred Gilders .	evaluation of prototype(s)
+C	1495.634	Yes , it's more than fifty Euros .	evaluation of prototype(s)
+C	1498.514	It's quite expensive , yes .	evaluation of prototype(s)
+A	1501.804	Bu but well yeah , I know , but you're paying for th for the brand , because there are uh remote controls which control your stereo , television , D_V_D_ , C_D_ player , for under twenty five Euros .	evaluation of prototype(s)
+C	1511.804	Yes .	evaluation of prototype(s)
+C	1512.714	Yes , but you can you c Yes , but you can learn this thing , all these functions .	evaluation of prototype(s)
+C	1518.484	And it's easier to use because those uh remote controls don't offer voice recognition and this one does .	evaluation of prototype(s)
+A	1518.804	Yeah .	evaluation of prototype(s)
+A	1524.804	Yeah .	evaluation of prototype(s)
+C	1524.914	So I think it's worth its price .	evaluation of prototype(s)
+A	1527.234	Okay .	evaluation of prototype(s)
+A	1528.384	Um you had an overall rating .	evaluation of prototype(s)
+A	1531.514	Um That's counting .	evaluation of prototype(s)
+D	1532.794	Yeah , but uh with these ratings uh should be about one point s seven , yeah .	evaluation of prototype(s)
+C	1536.764	Well , it's it's about one point five .	evaluation of prototype(s)
+B	1538.544	Four six seven eight .	evaluation of prototype(s)
+C	1540.624	Something like that .	evaluation of prototype(s)
+A	1541.844	Okay .	evaluation of prototype(s)
+B	1542.184	Nine divided by six .	evaluation of prototype(s)
+A	1543.944	Okay .	evaluation of project process
+A	1545.264	Um we'll go further on with the the rest of the evaluation .	evaluation of project process
+A	1556.454	About the project itself , not about the product .	evaluation of project process
+A	1561.344	Um What did you think about uh the process , the project process ?	evaluation of project process
+A	1575.644	Ruud ?	evaluation of project process
+A	1585.914	Try to translate that .	evaluation of project process
+C	1585.914	Well Well , I think Mm .	evaluation of project process
+B	1590.454	Hmm .	evaluation of project process
+A	1592.664	Any any other Uh , Roo ?	evaluation of project process
+B	1593.924	Yeah , I think uh The process was good .	evaluation of project process
+D	1594.744	Ye The prices .	evaluation of project process
+A	1596.294	Roo .	evaluation of project process
+B	1599.464	But w um we weren't aware of the prices of the costs .	evaluation of project process
+A	1602.894	Yeah .	evaluation of project process
+B	1603.224	And and that was the the big deal .	evaluation of project process
+B	1605.664	I if we knew that before , we c we could have made the the choice between what yeah .	evaluation of project process
+C	1607.674	Actually , we had Yes .	evaluation of project process
+A	1609.444	Better decision .	evaluation of project process
+C	1610.564	We had we had too little information actually .	evaluation of project process
+A	1612.354	Yeah .	evaluation of project process
+C	1612.564	So And uh um the the the well , looking at room for creativity , there was w way too the the choice of components was way too narrow .	evaluation of project process
+A	1622.504	Less .	evaluation of project process
+C	1624.804	So there was not really a process of uh Well Yes .	evaluation of project process
+A	1625.014	Yeah .	evaluation of project process
+A	1628.354	So we could we we could be we could've been creative .	evaluation of project process
+A	1631.324	But um it was tempered by the choice of components and the the price .	evaluation of project process
+C	1638.564	Well , in the first meeting we we already were very creative .	evaluation of project process
+C	1641.554	We we thought of possibilities who are not possible uh with the the current uh offer of uh manufacturing components .	evaluation of project process
+A	1641.894	Yeah .	evaluation of project process
+C	1651.164	So We're tempered by that , yes .	evaluation of project process
+A	1652.454	Yeah .	evaluation of project process
+A	1655.304	Okay , Roo ?	evaluation of project process
+A	1657.094	Any other thoughts on that ?	evaluation of project process
+B	1658.884	No , no .	evaluation of project process
+A	1660.354	Ruud ?	evaluation of project process
+D	1661.734	I agree .	evaluation of project process
+A	1662.694	You agree , okay .	evaluation of project process
+A	1664.044	Uh leadership .	evaluation of project process
+B	1665.884	Fantastic .	evaluation of project process
+A	1668.114	Okay , Roo's on for his promotion .	evaluation of project process
+C	1675.634	Yeah , okay .	evaluation of project process
+A	1677.494	Okay .	evaluation of project process
+C	1679.834	I think we're a good team .	evaluation of project process
+A	1682.194	I think so too , it's it's it's uh of course a laboratory environment .	evaluation of project process
+A	1687.284	I missed it um to be able to contact you in between and uh say uh , hey Roo uh .	evaluation of project process
+C	1691.304	Yes .	evaluation of project process
+B	1691.554	Yeah .	evaluation of project process
+A	1697.134	Um Yeah .	evaluation of project process
+C	1697.814	Well , I tried once , but that was not allowed .	evaluation of project process
+A	1701.284	So um Yeah , but but si uh w w w when taken in account the the situation , uh I think we performed pretty well .	evaluation of project process
+C	1710.644	I think so too .	evaluation of project process
+B	1711.464	Yeah .	evaluation of project process
+A	1711.494	Yeah .	evaluation of project process
+A	1712.744	Um the means , the SMARTboard , the digital pen .	evaluation of project process
+A	1715.674	Did you like 'em ?	evaluation of project process
+C	1716.004	Uh .	evaluation of project process
+C	1716.944	The digital pen was okay , but SMARTboard was really bad .	evaluation of project process
+B	1719.804	Yeah .	evaluation of project process
+C	1720.384	It it's The response is very slow and the possibilities are very limited .	evaluation of project process
+A	1720.484	Because of the response or Okay .	evaluation of project process
+B	1721.954	Response and Uh it it has yeah .	evaluation of project process
+C	1726.054	It's not accurate .	evaluation of project process
+A	1728.714	Uh Okay , so it it had to be um better aligned , or what's the word ?	evaluation of project process
+B	1730.064	Yeah , it's not accurate .	evaluation of project process
+B	1731.234	The p the pointing of the pen is not um the place where it it writes its um uh where it uh Yeah , where it draws .	evaluation of project process
+D	1740.734	Draws .	evaluation of project process
+B	1742.844	It's uh the drawing on on the b on the board is r right from the pen .	evaluation of project process
+B	1748.494	So uh You to take in account that your you m yeah uh It's too slow Hmm .	evaluation of project process
+A	1753.184	Uh yeah .	evaluation of project process
+C	1754.294	Maybe it's it needs to be calibrateds .	evaluation of project process
+A	1756.024	It it was calibrated just before this meeting .	evaluation of project process
+A	1758.474	Uh the one before , the third meeting .	evaluation of project process
+C	1758.594	It is ?	evaluation of project process
+C	1759.974	Okay .	evaluation of project process
+A	1760.394	So uh it's not the calibration , it's the thing itself , I think .	evaluation of project process
+C	1763.484	Okay .	evaluation of project process
+A	1764.934	Uh Ruud , w uh did you use the pen a lot ?	evaluation of project process
+A	1768.224	Or not at all ?	evaluation of project process
+D	1768.234	No .	evaluation of project process
+A	1769.064	Not at all .	evaluation of project process
+D	1769.074	Not really .	evaluation of project process
+A	1770.614	Okay .	evaluation of project process
+A	1771.734	I thought it was quite a handy uh thing , although I would like to see um O_C_R_ .	evaluation of project process
+C	1773.394	I I think so too .	evaluation of project process
+C	1778.724	Yes .	evaluation of project process
+B	1778.904	Yep .	evaluation of project process
+C	1780.404	Yes .	evaluation of project process
+B	1780.724	If it has O_C_R_ , uh I think uh I would use , but uh I I just uh took notes for myself and and and that's it .	evaluation of project process
+A	1786.824	Yeah .	evaluation of project process
+B	1789.234	It w it w yeah .	evaluation of project process
+B	1790.844	It was necessary for me to uh Yeah , because if I want something on the computer , I just type it .	evaluation of project process
+A	1793.144	To digitise them .	evaluation of project process
+A	1797.814	Yeah .	evaluation of project process
+C	1798.054	Mm-hmm .	evaluation of project process
+B	1798.324	I type faster than I write .	evaluation of project process
+B	1799.834	So Economic .	evaluation of project process
+A	1800.074	Yeah .	evaluation of project process
+C	1800.694	But I think it's a great solution for uh for uh a known problem , uh writing down some notes , some some inf uh information , and then um forgetting your notebook somewhere and losing all that information .	evaluation of project process
+A	1812.144	Yeah .	evaluation of project process
+C	1814.734	Because you have everything in one place and it's quite easy quite easy it's it's possible to make this information digital and share it with others in a quite easy way .	evaluation of project process
+A	1824.544	Yeah .	evaluation of project process
+C	1825.884	I think it's a good product .	evaluation of project process
+C	1827.674	I only think it's th the the shape of the pen is too big .	evaluation of project process
+A	1832.184	Yeah .	evaluation of project process
+C	1832.694	It's not quite uh ergonomic .	evaluation of project process
+C	1836.254	Eco ergonomic .	evaluation of project process
+A	1837.094	I know .	evaluation of project process
+A	1839.254	Yeah .	evaluation of project process
+A	1839.954	Okay .	evaluation of project process
+A	1841.204	Um What w Uh Ruud , what did you think about the SMARTboards ?	evaluation of project process
+D	1848.744	Oh , I only use it to draw a rabbit , so can't say much about it .	evaluation of project process
+A	1851.264	Yeah .	evaluation of project process
+A	1851.854	Okay , you can't really decide .	evaluation of project process
+A	1854.664	No .	evaluation of project process
+A	1855.134	I missed a feature to easily select uh a slide and uh distribute it to the laptops .	evaluation of project process
+A	1863.104	I think that would be very easy if you could say okay , I want to use this for my own work or my own presentation further on or Or the other way around , that you could show but m I know .	evaluation of project process
+C	1870.194	Yes .	evaluation of project process
+D	1870.214	No , or the other way around .	evaluation of project process
+B	1870.644	Yeah .	evaluation of project process
+C	1872.924	Yes , yes .	evaluation of project process
+C	1875.104	That's quite what PowerPoint does .	evaluation of project process
+B	1875.164	But y you can if you save this image , you can open it in your shared work folder .	evaluation of project process
+D	1875.834	Yeah .	evaluation of project process
+A	1881.514	I know , but I know , but we couldn't use that feature , so I missed it .	evaluation of project process
+B	1882.104	So it's almost yeah .	evaluation of project process
+B	1886.674	Yep .	evaluation of project process
+A	1887.574	We weren't able to do that .	evaluation of project process
+A	1890.164	At least the um I wasn't explained how to do such a th Okay .	evaluation of project process
+B	1893.644	Mm-hmm .	evaluation of project process
+B	1894.834	A and the function of of filling an an uh an oval or an an object .	evaluation of project process
+C	1897.954	An object , yes .	evaluation of project process
+C	1900.254	Yes .	evaluation of project process
+C	1901.174	The drawing cap capabilities are very limited .	evaluation of project process
+B	1901.524	I it's not possible yeah .	evaluation of project process
+C	1904.734	And and uh w you were when you're using uh Windows , you're used to a certain interface and certain buttons , uh which you can use for drawing .	evaluation of project process
+A	1915.334	Yeah .	evaluation of project process
+C	1915.684	And a lot of these buttons don't appear here .	evaluation of project process
+C	1917.864	So it's Not not uh n not way .	evaluation of project process
+B	1918.694	Oh it looks like paint actually .	evaluation of project process
+A	1919.304	Okay , so y it it's not even as advanced as paint .	evaluation of project process
+A	1924.564	Yeah .	evaluation of project process
+C	1925.634	It's quite uh limited .	evaluation of project process
+A	1927.984	Okay .	evaluation of project process
+A	1934.124	Uh no .	evaluation of project process
+A	1936.594	Yeah , the project is evaluated .	evaluation of project process
+A	1939.044	Um but , well , we need to redesign uh the product .	evaluation of project process
+C	1942.174	Okay .	closing
+C	1943.484	Oh , very good , celebration .	closing
+A	1945.334	Celebrate .	closing
+C	1945.624	Pop uh pop up the champagne .	closing
+B	1945.734	Great .	closing
+B	1947.814	It was a privilege working with you .	closing
+A	1947.854	Okay .	closing
+A	1951.644	Um you're dismissed .	closing
+A	1955.214	No , I think we are uh ready .	closing
+C	1958.464	Okay .	closing
+B	1960.884	To private rooms ?	closing
+C	1963.264	I see some action over there .	closing
+A	1965.124	Private room , Roo .	closing
+A	1967.464	That sounds quite scary .	closing
+C	1972.394	Okay .	closing
+A	1973.284	No , let's find uh the way to .	closing
+C	1981.564	uh we're done , we're finished , I believe .	closing
+C	1985.164	So , are there any more cycles in this process ?	closing
+C	1989.474	I think not .	closing
+A	1990.134	I don't believe so .	closing
+A	1991.424	Well , maybe we'd get an email .	closing
+A	1995.864	Thank you for your Forty minutes .	closing
+C	1997.694	But um how much time did we get for this meeting ?	closing
+C	2002.044	And how much time is left ?	closing
+A	2004.384	A minute or or ten maybe .	closing
+A	2006.594	M Yeah , ten or five .	closing
+C	2006.634	Ten minutes .	closing
+C	2009.244	Okay .	closing
+C	2012.274	Okay .	closing
+A	2012.884	So , we can uh redesign our uh Uh I would like to Oh .	closing
+C	2021.764	Well , I think we we we all know what the redesign should be .	closing
+C	2028.124	A simple , dull , uh one-coloured box .	closing
+D	2034.244	And no added value .	closing
+C	2036.254	No , it's it's just the same product that is already on the market .	closing
+D	2036.584	At all .	closing
+D	2037.354	So In interesting design .	closing
+B	2047.454	But you see the problem , y you can't continue your uh your line .	closing
+A	2048.264	Yeah .	closing
+B	2058.854	Well , it's fluffy alright .	closing
+B	2061.584	Spongy .	closing
+C	2063.794	What is that ?	closing
+B	2064.104	A giraffe ?	closing
+A	2065.254	Yeah .	closing
+C	2065.504	It's a giraffe eating a eating leaves from a tree .	closing
+A	2071.764	It's blue tongue .	closing
+A	2073.824	Yeah .	closing
+A	2074.974	This is a new model .	closing
+A	2076.234	But Blue tongue .	closing
+C	2077.334	So you're actually promoting Bluetooth .	closing
+C	2080.204	Or blue tongue .	closing
+D	2082.704	Oh uh it it does uh have a natural uh feeling .	closing
+D	2087.944	So Yeah .	closing
+A	2089.134	It's spongy .	closing
+A	2105.114	That is uh it's a new feature next to Bluetooth to um disable all Bluetooth devices .	closing
+C	2105.284	Blue tongue .	closing
+C	2112.764	Okay .	closing
+A	2114.794	Um Yeah , we're done here .	closing
+B	2115.554	Right .	closing
+C	2118.924	Let's wrap it up .	closing
+A	2130.304	Gentlemen , thank you for your cooperation .	closing
+C	2133.114	Thank you Mister manager .	closing
+C	2138.124	Now , let's have uh a bottle of champagne .	closing
+B	2145.414	Leave it here .	closing
+A	2148.584	Yes .	closing
+B	2152.234	That's alright .	closing

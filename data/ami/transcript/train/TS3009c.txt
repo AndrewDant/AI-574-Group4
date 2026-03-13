@@ -1,0 +1,1055 @@
+A	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	37.38	Okay .	opening
+A	38.18	Uh door is closed .	opening
+A	41.71	Well , let's begin .	opening
+A	43.5	Because if we have as much time as the last uh meeting , we'll have to hurry up .	opening
+D	43.59	I'm listening .	opening
+D	46.59	Right .	opening
+A	49.25	Um well I'll start with the presentation again , the agenda .	opening
+D	51.57	Great .	opening
+A	57.51	Yo .	opening
+A	62.15	So .	opening
+A	64.97	Uh This one I think .	opening
+A	69.19	Uh yeah .	opening
+A	71.83	Well alright .	opening
+A	73.82	Um well , I'll show you the notes .	opening
+A	76.07	It's not as uh interesting as it should be because we just uh had the meeting , but I'll show them .	opening
+A	81.98	We'll get your presentations again on the conceptual design .	opening
+A	86.06	Um Then we'll have to dec decide about the control , the remote control concepts .	opening
+C	91.93	Mm-hmm .	opening
+A	91.97	I've put a f uh a file in the project management folder , which says exactly uh what kind of decisions we should take .	opening
+A	99.88	So this time we exactly know what to decide about .	opening
+D	103.84	Alright , great .	opening
+A	104.55	And then we'll close again .	opening
+C	106.3	Alright .	opening
+A	107.19	Uh Well these are some examples , but we'll talk about them later .	opening
+A	112.36	We'll first look at your uh presentations .	opening
+C	113.79	Mm-hmm .	opening
+A	114.52	Alright ?	opening
+A	116.71	Walter will uh start again this time ?	marketing expert presentation
+D	118.23	Yeah , great .	marketing expert presentation
+A	120.4	Yo .	marketing expert presentation
+D	120.97	Alright , Trendwatch .	trendwatching
+A	123.53	'Kay .	trendwatching
+D	138.1	Right .	trendwatching
+D	141.51	I will speak about uh latest trends trends , latest fashion updates , and uh things we must not do .	trendwatching
+A	148.72	'Kay .	trendwatching
+D	148.93	Uh the trends .	trendwatching
+D	150.81	It's very important that uh the control is fancy looking and good uh feeling .	trendwatching
+D	157.49	Uh this because of our last model was very functional , but it uh people didn't like that , so our new mo model must be very good-looking .	trendwatching
+D	167.46	That's uh something you uh have to take a look at .	trendwatching
+C	170.58	Mm-hmm .	trendwatching
+C	171.46	Alright .	trendwatching
+D	171.7	And uh the feeling has to be very great .	trendwatching
+D	173.89	Also the menus and things like that they have to they have to feel great .	trendwatching
+C	178.26	Alright .	trendwatching
+D	178.52	Um there's a minus uh two times here , because this is the most important point .	trendwatching
+D	183.85	This is uh two times as less important , and uh same for this one .	trendwatching
+A	185.65	Less .	trendwatching
+D	188.8	Um , technological technological innovations , that's uh regarded very highly too .	trendwatching
+D	197.45	Uh such as an uh L_C_D_ screen , uh speech uh acknowledgement , as we uh talked about earlier .	trendwatching
+A	203.16	Well , yeah .	trendwatching
+D	204.87	So we have to have uh something like that , like we uh Right .	trendwatching
+A	207.78	L_C_D_ and our uh our fronts .	trendwatching
+D	212.47	Uh the last point is easy to use .	trendwatching
+D	214.42	Well I think that uh speaks for s for itself .	trendwatching
+D	217.84	I don't know who's uh who's going to look at that .	trendwatching
+C	220.88	Easy to use ?	marketing expert presentation
+A	221.54	Well , easy to use uh s is a bit uh contradictionary with the first uh Functional is not an issue , and then easy to use .	marketing expert presentation
+D	221.67	Yeah ?	marketing expert presentation
+C	222.2	I think that's your ta Mm .	marketing expert presentation
+D	228.56	Yeah , I know .	marketing expert presentation
+A	230.13	Well we have to choose one of them .	marketing expert presentation
+D	232.37	I think we have to go for the first one .	marketing expert presentation
+A	233.7	Yeah .	marketing expert presentation
+D	233.85	It's the most important one .	marketing expert presentation
+D	235.31	So we have to uh take that one .	marketing expert presentation
+A	238.4	Okay .	marketing expert presentation
+D	239.35	So it it it isn't very important that that it works easy .	marketing expert presentation
+B	245.03	Well something fancy looking can be can be easy to use .	marketing expert presentation
+D	245.11	But it has to look great .	marketing expert presentation
+A	248.61	Yeah .	marketing expert presentation
+A	249.62	We'll we'll look at uh .	marketing expert presentation
+D	251.46	We'll see .	marketing expert presentation
+C	251.63	You Yeah .	marketing expert presentation
+C	252.73	Yeah , yeah , you can make a very complicated uh uh remote anyway , so ease of use It's not a very comp complicated device .	marketing expert presentation
+D	257.56	Yeah , right .	marketing expert presentation
+D	260.04	But the most important thing is that it looks great and people say wow , that's real great uh great concept .	marketing expert presentation
+C	266.24	Alright .	marketing expert presentation
+A	266.48	'Kay .	marketing expert presentation
+D	267.02	Alright .	trendwatching
+D	267.71	Uh these are the new colours of this year .	trendwatching
+D	270.69	So it must be very bright , very colourful .	trendwatching
+D	273.51	People like this .	trendwatching
+D	275.67	So we we have to think uh in this direction .	trendwatching
+D	278.83	So i set your mind to it .	trendwatching
+A	278.99	So Well Yeah , well Yeah .	trendwatching
+D	282.19	Findings ?	trendwatching
+D	283.44	Fashion update ?	trendwatching
+D	285.38	Fruit and vegetables are cool .	trendwatching
+D	287.67	I am told .	trendwatching
+C	290.17	Uh you think ?	trendwatching
+D	290.43	The group we are targeting is uh very pleased with fruit and vegetables .	trendwatching
+D	294.36	So we we we might cons consider in front of uh in in that sort of uh way .	trendwatching
+B	302.49	Bananas .	trendwatching
+D	302.66	Uh furthermore uh material , that's your part , should be very strong .	trendwatching
+D	307.07	I was thinking of something like uh well uh iron plate over it , maybe in a colour or something , that looks so f really flashy but it it is also strong .	trendwatching
+C	312.41	Mm .	trendwatching
+D	317.42	And that's uh also for the younger public .	trendwatching
+A	317.54	B Well the the handy thing about our fronts is that we can follow these trends e ev every year .	trendwatching
+A	324.59	Th this year it's fruits but next year it's it's something totally different .	trendwatching
+D	327.16	Yeah , that's great .	trendwatching
+B	328.46	Yeah .	trendwatching
+D	328.71	But I think we can all make the the fronts of titanium or something uh really thin .	trendwatching
+A	332.86	Yes .	trendwatching
+D	334.17	So it looks very heavy but you can still uh use it very easily .	trendwatching
+C	338.45	Mm .	trendwatching
+A	338.51	Yep , alright .	trendwatching
+D	339.93	Well , the don'ts .	trendwatching
+D	341.58	Older people like dark colours and simple shapes .	trendwatching
+D	344.41	Well we don't want uh older people , we want young people .	trendwatching
+D	347.83	So uh we're gonna turn that around .	trendwatching
+D	350.76	We're gonna have real uh cool shapes and lots of colours .	trendwatching
+C	350.8	Alright .	trendwatching
+D	355.39	Right ?	trendwatching
+A	356.1	Wood is popular .	trendwatching
+D	356.37	Okay .	trendwatching
+A	357.55	Aha .	trendwatching
+D	357.92	We don't want wood .	trendwatching
+C	359.14	Yeah , among the old people , yeah .	trendwatching
+A	359.31	Yeah yeah yeah .	trendwatching
+D	360.81	Old people .	marketing expert presentation
+D	362.0	So , that's it for me .	marketing expert presentation
+A	363.52	Alright .	marketing expert presentation
+A	364.69	Nice , uh well show us .	industrial designer presentation marketing expert presentation
+C	377.96	Right , I am going to tell you something about the components design .	components, materials and energy sources
+C	384.37	Uh again I have uh put up the specification properties .	components, materials and energy sources
+C	387.75	This uh so um uh the different uh components of the of of the device .	components, materials and energy sources
+C	394.62	And the materials ?	components, materials and energy sources
+C	395.35	Um I have heard several things , so I uh I'll have to change that on the way .	components, materials and energy sources
+C	400.44	But uh the case ?	components, materials and energy sources
+C	401.26	Uh I suggested uh in the previous meeting hard plastic .	components, materials and energy sources
+C	405.11	But uh as you indicated uh it should be strong .	components, materials and energy sources
+D	405.92	Yeah , we should change that .	components, materials and energy sources
+C	407.6	It should feel strong .	components, materials and energy sources
+C	408.43	So maybe plastic is not uh sufficient .	components, materials and energy sources
+C	411.2	We should move to uh something Well yeah .	components, materials and energy sources
+A	411.66	Well maybe it it it is , but it doesn't look strong .	components, materials and energy sources
+A	415.12	So maybe But we still have to look at our price of course .	components, materials and energy sources
+C	416.1	Y Hard plastic i is of course uh pretty pretty tough , but it doesn't have a really really tough look .	components, materials and energy sources
+D	421.61	No no no .	components, materials and energy sources
+C	422.68	So Yeah .	components, materials and energy sources
+A	424.27	Because uh if we want an L_C_D_ uh window etcetera uh Yeah ?	industrial designer presentation components, materials and energy sources
+C	424.73	Also Yeah .	components, materials and energy sources
+C	427.18	Mm-hmm .	components, materials and energy sources
+C	427.5	But we'll return to that .	components, materials and energy sources
+C	428.84	Uh the buttons of course rubber , I think everyone agrees .	components, materials and energy sources
+C	430.95	And electrical cables , copper is all pretty basic stuff .	components, materials and energy sources
+C	434.86	The chips made of silicon , I guess .	components, materials and energy sources
+C	436.91	I think that's the best uh way to do it .	components, materials and energy sources
+C	438.7	And infra infrared l LED is uh just a simple bulb .	components, materials and energy sources
+C	444.63	Then I've uh had a few findings , made a few findings .	user requirements
+C	448.54	Uh the target audience product style .	user requirements
+C	451.4	Um it's uh um generally the case that uh senior and wealthy people above uh forty five years old uh like , as you said , uh particularly the traditional materials as such as wood and materials such as that .	user requirements
+C	465.96	They also like straightforward shapes and luxurious style .	user requirements
+C	469.37	But of course that's not our uh things this .	user requirements
+C	471.73	So this is things we must not do .	user requirements
+A	473.52	Yes .	user requirements
+C	474.06	And then we have uh young uh and dynamic uh people , which is of course our uh group , the people we aim at .	user requirements
+C	480.78	Um under forty five years old .	user requirements
+C	483.41	Uh they like soft materials uh with primary colours .	user requirements
+C	488.57	Soft materials is of course uh agai again a bit a contradiction with uh our uh material choice of what you said , that uh it should be hard an and and and and strong looking .	user requirements
+D	498.69	Mm .	user requirements
+D	499.05	Yeah .	user requirements
+C	499.26	But they like soft materials , uh so we might uh we have to consider that .	user requirements
+B	499.68	Yeah .	user requirements
+C	503.84	And also they like curved round shapes .	user requirements
+C	506.11	So not uh too formal like like uh the older people want .	user requirements
+C	510.52	And if uh also a finding but not very ap applicable here , that sports and gaming devices such as uh discmans for jogging and that those kind of devices , gaming devices , should define the characteristics of the device .	user requirements
+C	524.27	But uh since we don't have a really a sports or gaming device , so we don't really have to consider that .	user requirements
+A	529.05	Sports uh , they're uh that uh are accessible on on your L_C_D_ uh window uh Huh ?	industrial designer presentation
+B	532.4	Soccer fronts .	industrial designer presentation
+B	534.73	Mm .	industrial designer presentation
+C	535.85	Mm .	industrial designer presentation
+A	537.59	That's nice .	industrial designer presentation
+B	538.47	Hmm .	industrial designer presentation
+C	539.81	Well I also have um several examples of uh styles , so you can get a clear picture of uh what I mean .	industrial designer presentation
+A	539.92	All the results ?	industrial designer presentation
+D	541.15	We keep coming back to the fronts .	industrial designer presentation
+B	543.0	Yeah .	industrial designer presentation
+A	548.91	Yeah .	industrial designer presentation
+C	551.01	Uh these are the basic uh older older peoples' stuff .	industrial designer presentation
+A	556.94	Yeah .	industrial designer presentation
+D	557.09	Yeah .	industrial designer presentation
+C	557.9	It was not very uh interesting uh , very classical looking , but that's n that's not what we want .	existing products
+A	561.37	Mm-hmm .	existing products
+C	562.5	We have these kind of things .	existing products
+B	562.72	Hmm .	existing products
+C	564.08	I don't know what exactly they are .	existing products
+C	565.31	It looks like Well you know uh you recognise the shapes , it's very primary colours , uh bright colours and uh round shapes .	existing products
+A	565.39	Nai .	existing products
+A	565.53	Uh no .	existing products
+C	573.07	You also uh see uh this device , it's not very round and Fruity of course .	existing products
+D	577.48	Fruity .	existing products
+D	579.22	Fruity .	existing products
+C	579.37	Yeah , it uh That's true .	existing products
+A	580.35	It's t terrible .	existing products
+A	581.99	Alright .	existing products
+C	582.65	And uh well round shapes , primary colours .	existing products
+C	584.81	You can see it all here .	existing products
+C	586.05	And of course uh this famous device .	existing products
+A	586.8	Hmm ?	industrial designer presentation
+C	588.4	I think as you know something uh some devices like this .	existing products
+A	590.68	Yeah , alright .	industrial designer presentation
+C	592.55	So to give you an idea of uh This has a strong look .	existing products components, materials and energy sources
+D	592.63	Well it's got a strong look , this .	components, materials and energy sources
+C	596.02	Although it's plastic , it's it's grey to to to give it iron look .	components, materials and energy sources
+D	596.09	Yeah .	components, materials and energy sources
+D	597.67	Yeah , it still has a strong look .	components, materials and energy sources
+A	599.52	Yeah .	components, materials and energy sources
+A	600.64	And it's round .	components, materials and energy sources
+C	601.11	That's uh Yeah .	components, materials and energy sources
+D	601.6	But then you are losing your fruity colours .	components, materials and energy sources
+C	604.11	Well we have to make a Well we can't really make a round uh a round remote control .	components, materials and energy sources
+A	604.94	Well you can make th th th that middle ring can you you can make another colour .	components, materials and energy sources
+D	609.25	That's true .	components, materials and energy sources
+A	609.52	So uh those kind of things you can you can combine .	components, materials and energy sources
+C	613.98	I don't think that's very practical , but But uh it's important to to uh to think about the colour .	components, materials and energy sources
+A	615.25	No , it isn't .	components, materials and energy sources
+A	619.56	Okay .	components, materials and energy sources
+C	620.28	Because if we make it grey or or silvery looking , it it does make it a lot more uh does make it looking a lot more stronger .	components, materials and energy sources
+D	627.59	Yeah but the But it doesn't have to look strong .	components, materials and energy sources
+A	627.69	Yes .	components, materials and energy sources
+C	627.75	'Cause if you look at this , it it doesn't look very very strong , becau But this is plastic , and and this too , but The feel ?	components, materials and energy sources
+D	633.81	The the results are , the feel of the material is expected to be strongy .	components, materials and energy sources
+D	639.59	The feel .	components, materials and energy sources
+C	639.64	Uh alright .	components, materials and energy sources
+C	641.68	Well Mm-hmm .	components, materials and energy sources
+A	641.78	So , if you ti Well You you Maybe you should have uh some some coloured titanium or something .	components, materials and energy sources
+B	642.4	And it it doesn't have to be strong , also .	components, materials and energy sources
+D	644.89	Nah yeah the feel Right .	components, materials and energy sources
+B	646.5	Only the feel .	components, materials and energy sources
+A	650.31	So it it looks pretty but it feels strong .	components, materials and energy sources
+B	653.9	Oh .	components, materials and energy sources
+D	655.0	I agree .	components, materials and energy sources
+C	655.1	And I Then I have some more findings .	components, materials and energy sources
+C	656.86	Um uh about the energy energy source of the of the device , uh I uh suggest uh the basic battery .	components, materials and energy sources
+C	664.46	I uh got some other um uh uh energy sources of course .	components, materials and energy sources
+C	668.13	But solar energy is not very practical inside a house , because you don't have a have a lot of uh sun .	components, materials and energy sources
+C	672.96	And uh kinetic and and and dynamos are are not very practical , I think , for uh for a simple remote , that's a bit , oh , that's a bit uh That's a bit uh much .	look and usability components, materials and energy sources
+A	681.44	No titanium .	components, materials and energy sources
+C	686.13	And I also suggest uh as a shape uh a double curved case .	look and usability
+C	691.01	Uh the disadvantage of that that you can use no titanium .	look and usability
+C	695.15	That that's the information I received .	look and usability
+C	697.12	If you use the curved case , uh a curved case , double curved then you can't use titanium .	look and usability
+A	701.82	What do you exactly mean with double curved ?	look and usability
+C	703.57	Now uh this uh to give it a more modern look .	look and usability
+C	706.89	And uh now the the shape , yeah , a curved case .	look and usability
+C	711.07	Um yeah I think uh sort of triangle-shaped bottom or something .	look and usability
+C	716.29	Uh a more modern look not plain , long box style , but I'll draw it , but maybe later .	look and usability
+A	721.33	Double curved ?	look and usability
+D	722.4	I dunno .	look and usability
+B	723.05	Yeah .	look and usability
+A	723.16	It it mean Yeah , well okay .	look and usability
+B	724.84	Yeah .	look and usability
+C	726.84	And it makes uh it gives it a more u user friendly shape , than if you have uh .	look and usability
+C	731.73	Um anyway Um f as uh for the buttons , simple push buttons .	look and usability components, materials and energy sources
+C	736.13	No uh otherwi uh no um difficult scroll things or some uh things like that , because it makes more complex and expensive .	components, materials and energy sources
+C	744.36	And , uh as we agreed , we don't use a speaker or a sensor or um uh speak uh speech uh controlled device .	components, materials and energy sources
+D	751.32	Yeah right .	components, materials and energy sources
+C	754.44	Because it makes it also more complex and expensive .	components, materials and energy sources
+C	756.16	But we do use an L_C_D_ screen , so we uh we do have to consider uh of we have to use a more advanced chip , which is more complex and expensive .	components, materials and energy sources
+C	764.11	But It's worth the trouble I think , because Uh rubber is a soft material , I guess .	components, materials and energy sources
+A	765.17	Well This soft material thing from uh Yeah .	components, materials and energy sources
+B	766.65	The buttons can be made of an uh a soft material .	components, materials and energy sources
+B	770.73	Because people like that .	components, materials and energy sources
+D	774.56	Yeah .	industrial designer presentation
+C	774.77	Uh soft enough .	components, materials and energy sources
+B	774.9	Yeah .	industrial designer presentation
+D	775.28	Right .	industrial designer presentation
+B	775.54	Right .	industrial designer presentation
+B	775.89	Yeah .	industrial designer presentation
+C	776.63	So that's uh basically what I want to talk about .	industrial designer presentation
+A	777.59	Alright .	industrial designer presentation
+A	779.1	Okay .	industrial designer presentation
+A	780.08	We will take that .	industrial designer presentation
+A	780.84	And then uh Mike ?	interface specialist presentation
+A	794.33	Okay .	interface specialist presentation
+B	800.45	Yeah .	interface specialist presentation
+B	804.63	Well um nah the method um we will um include the buttons as we discussed uh earlier .	interface specialist presentation
+B	812.35	Um an L_C_D_ s screen will be implemented .	look and usability
+B	815.72	Um we must decide where , this meeting .	look and usability
+B	819.11	Um there are new developments in speech recognition um systems , um and they are already being uh used on uh coffee machines .	look and usability
+B	830.14	And um well they're cheap , so we could use them now .	look and usability
+A	834.24	Oh That's interesting .	look and usability
+B	835.82	Um it's not really speech recognition , it's more um like you can um talk to the chip , uh record the message and record an answer , and then once you uh talk to the remote , then um he will a answer with the the prerecorded message that you left .	look and usability
+B	856.41	So if I say hi Mike , and you have recorded uh hi Mike back , then you will get that .	look and usability
+C	856.72	Oh , yeah , I understand .	look and usability
+D	856.77	Oh okay .	look and usability
+C	857.87	Yeah .	look and usability
+A	862.52	Okay .	look and usability
+D	863.38	Right .	look and usability
+A	863.66	But you can also say that , when you say something , it does some function .	look and usability
+B	867.4	No it doesn't does not do anything .	look and usability
+D	868.13	No .	look and usability
+A	868.88	Oh .	look and usability
+B	870.07	But i it's just a Yeah it's it's cheap .	look and usability
+A	870.21	That's a bit uh Yes .	look and usability
+D	870.25	But that that makes it cheap .	look and usability
+D	872.0	It's it's just a an extra function , and it's cheap .	look and usability
+C	872.33	Yeah .	look and usability
+A	873.36	I understand .	look and usability
+A	874.5	But it has no functionality for our remote at all .	look and usability
+D	876.05	No but Yeah , right .	look and usability
+B	876.43	No but that's the gadget they want , or the gimmicks .	look and usability
+C	878.97	But it it's n nice for young people .	look and usability
+D	879.53	Young people love them .	look and usability
+B	880.68	Yes , we we should really uh include that one , I think .	look and usability
+C	880.96	They like gadgets .	look and usability
+D	881.23	Yeah , ple Right .	look and usability
+C	881.61	Yeah .	look and usability
+C	884.23	If it's cheap .	look and usability
+A	884.32	Hmm .	look and usability
+B	884.44	Um Well , as I said uh earlier I think the uh L_C_D_ screen should be uh positioned at the lower end of the remote .	look and usability
+C	884.78	Yeah .	look and usability
+B	892.72	Um the buttons for screen width and general settings and uh and that kind of stuff um we can also do let that kind of functions um be shown in the L_C_D_ screen , uh instead of uh extra buttons .	look and usability
+A	907.96	So you put a menu in the L_C_D_ ?	look and usability
+B	911.07	I think young people and yeah w well every user would like that .	look and usability
+B	918.47	Um the buttons um should be positioned uh positioned the same way as they are on a , well , conventional remote , I think .	look and usability
+B	928.79	For the learnability and uh well to keep it recognisable .	look and usability
+B	934.03	A voice recognition can be uh implemented .	look and usability
+B	937.92	And uh I drew an example , but it did not work quite the well uh the way I wanted it to do .	look and usability
+D	942.26	Alright .	look and usability
+C	943.14	Can you draw it now of uh Can you draw it now ?	look and usability
+D	943.51	How How How do you uh uh give input to the menu on the L_C_D_ screen ?	look and usability
+B	944.5	Hmm ?	look and usability
+A	944.82	Ah .	look and usability
+B	945.08	Well I have the I can draw it again , and I know what I did wrong .	look and usability
+B	948.1	I didn't tick the note bo box in the .	look and usability
+C	950.68	Mm .	look and usability
+C	951.12	Alright .	look and usability
+B	952.05	Um Um with the uh the up and down and and well buttons and the Well I will draw what I had drawn on the screen .	look and usability
+D	961.52	Alright .	look and usability
+D	962.29	So you have a menu button , and then you can go up and down .	look and usability
+A	964.8	But then we should also have an uh an Okay button .	look and usability
+D	968.71	Yeah right .	look and usability
+B	968.98	Yes .	look and usability
+B	969.79	Um I shall draw this .	interface specialist presentation
+C	971.12	button , yeah .	interface specialist presentation
+B	972.78	If it uh works .	interface specialist presentation
+A	976.59	Just uh There is already a blank .	interface specialist presentation
+A	978.43	Yes ?	interface specialist presentation
+A	978.96	So Yeah .	interface specialist presentation
+D	979.12	Yeah .	interface specialist presentation
+B	981.0	Mm so have I .	interface specialist presentation
+B	985.9	Nah .	interface specialist presentation
+D	991.54	You have to push hard .	interface specialist presentation
+C	1005.65	I suggest a banana shape .	interface specialist presentation
+C	1008.65	Because of the fruity uh fashion .	interface specialist presentation
+D	1008.67	Yeah .	interface specialist presentation
+D	1010.22	Yeah .	interface specialist presentation
+A	1011.64	No m Next year that's out .	interface specialist presentation
+C	1012.64	Yellow and Yeah alright , yeah .	interface specialist presentation
+C	1016.79	Just a hunch .	interface specialist presentation
+B	1020.7	Well these little buttons are a bit difficult to uh draw uh correct .	look and usability
+A	1024.14	Yeah .	look and usability
+C	1026.5	Those are the the cha the channel buttons of course ?	look and usability
+B	1028.27	Yeah just uh the numbers .	look and usability
+C	1033.27	And then below is the L_C_D_ screen ?	look and usability
+B	1039.34	These these will be bigger in the the real design .	look and usability
+C	1042.08	Alright , yeah .	look and usability
+B	1044.23	This must be the Okay button used to uh interact with the L_C_D_ screen .	look and usability
+C	1048.91	Mm-hmm .	look and usability
+B	1049.47	And with this you can uh , yes , go to through the menus and that can Um the video button should be uh an apart button , because you want it to uh t , yeah , to use it fast within one uh click .	look and usability
+A	1050.81	Yeah .	look and usability
+D	1055.37	You've Right .	look and usability
+A	1058.44	Yes .	look and usability
+A	1065.08	And what's the menu button ?	look and usability
+D	1065.12	And you you need a you need a speaker .	look and usability
+B	1065.26	Um it's Hmm ?	look and usability
+D	1068.48	For the Yeah .	look and usability
+B	1070.2	This button can also be the Menu button , we use in the menus Well we we can add another button here , but Yeah .	look and usability
+A	1073.64	But how did How do you get out of the menu then ?	look and usability
+A	1076.26	Yeah .	look and usability
+A	1077.83	Maybe I you could j just do an an exit with Okay .	look and usability
+C	1078.61	Uh by pe pressing the menu button again .	look and usability
+C	1081.05	By pressing the menu button again , you go uh out .	look and usability
+A	1081.4	Uh Yes , well but bec because when you push Menu you get in , and then you have to push Okay when you get to a choice .	look and usability
+D	1083.09	Yeah .	look and usability
+C	1083.45	It's usual the the the d kind of the way it works .	look and usability
+C	1088.14	Yeah ?	look and usability
+C	1088.94	Yeah ?	look and usability
+B	1091.17	Ah right .	look and usability
+C	1091.74	Yeah .	look and usability
+B	1092.15	Well you you No no , we we we should uh add uh a extra Menu button and this the Okay button .	look and usability
+A	1092.26	And Well that's also the Okay button .	look and usability
+C	1092.34	But you can men you can press menu again to get out .	look and usability
+A	1096.98	That's you you should have uh Or you can put in the L_C_D_'s uh window an option Get Out .	look and usability
+C	1097.76	No .	look and usability
+D	1106.84	Exit .	look and usability
+A	1107.78	Exit .	look and usability
+B	1108.27	Ah once you have an extra Menu button , you don't need that that extra option .	look and usability
+A	1112.28	Well , it's just a choice .	look and usability
+B	1112.99	You have uh redundancy .	look and usability
+D	1113.18	But we need a we need a a recording recording button for the speech uh part .	components, materials and energy sources
+D	1118.97	Or don't Right , and spea speaker at the back , or something .	components, materials and energy sources
+B	1119.22	Yeah , if we decide to uh to implement that , maybe we should .	components, materials and energy sources
+C	1121.62	Why would you put it uh then , and where is the recording uh the microphone ?	components, materials and energy sources
+C	1126.82	Where would you put it ?	components, materials and energy sources
+B	1127.01	Well they that could be anywhere .	components, materials and energy sources
+B	1128.34	That's very small .	components, materials and energy sources
+B	1129.1	It could be uh down here .	components, materials and energy sources
+C	1133.04	Uh-huh .	components, materials and energy sources
+B	1133.98	Um .	components, materials and energy sources
+B	1134.73	Well , not here .	components, materials and energy sources
+B	1135.4	I yeah I suggest here .	components, materials and energy sources
+B	1137.23	But that's just a little gap .	components, materials and energy sources
+C	1139.56	Microphone , yeah .	components, materials and energy sources
+B	1140.34	Yeah .	components, materials and energy sources
+B	1141.84	Well the speaker and the microphone , I think , are the same uh little hole thingy .	components, materials and energy sources
+C	1148.45	Yeah I understand .	components, materials and energy sources
+B	1149.35	Yeah .	components, materials and energy sources
+C	1149.66	Uh but uh we could uh d do , but it's perhaps more expensive , uh the speaker on the back or something .	components, materials and energy sources
+D	1149.7	Alright .	components, materials and energy sources
+B	1154.16	Well i Um there are a all already being implemented in in coffee machines , so they won't be uh very expensive .	components, materials and energy sources
+B	1163.49	But This is my suggested design .	look and usability components, materials and energy sources
+A	1164.33	Huh ?	components, materials and energy sources
+C	1165.13	Alright .	components, materials and energy sources
+D	1165.58	Alright .	components, materials and energy sources
+A	1166.33	Yeah ?	components, materials and energy sources
+A	1166.95	Okay .	components, materials and energy sources
+A	1168.53	Well , okay , alright .	look and usability
+B	1169.89	Um Yes .	look and usability
+A	1170.07	Um then let's have a look at the decisions we are going to have to make .	look and usability
+B	1175.63	And oh I think as you can see so , the L_C_D_ screen does look better uh at the lower end , or at the bottom .	look and usability
+A	1182.68	I'd I agree .	look and usability
+D	1184.2	Yeah , fine .	look and usability
+B	1184.37	But Oh , um I had some uh examples .	look and usability existing products
+A	1185.82	Fine .	look and usability
+D	1187.15	Move on .	look and usability
+C	1187.64	Well yeah yeah yeah .	look and usability
+A	1190.0	Yeah .	look and usability
+C	1192.73	I can live with it .	existing products
+B	1193.25	You can uh But I did not like it very much , but Well these are quite obvious , very ugly remote .	existing products
+A	1193.58	Yes ?	existing products
+A	1203.51	Too big .	existing products
+D	1206.97	Yeah .	existing products
+C	1208.07	They do they don't look fruity enough .	existing products
+B	1208.23	Um No , well th Yeah .	existing products
+D	1209.85	Nei They're n they're not trendy .	existing products
+A	1210.72	They're all black .	existing products
+B	1213.67	Well not all .	existing products
+A	1216.66	Hey , that one I like .	existing products
+B	1218.8	Uh this is for children but th No .	existing products
+C	1218.87	Tho Yeah those But it doesn't uh the Yeah , ok Yeah .	existing products
+D	1220.16	It doesn't look strong .	existing products
+A	1221.53	No .	existing products
+B	1223.42	W but with the colours i it's a bit the way we're going to .	existing products
+A	1224.95	The remote .	existing products
+D	1226.42	Yeah right .	existing products
+B	1227.62	Well this is a terrible Um this looks Yeah .	existing products
+A	1228.96	Terrible .	existing products
+D	1229.41	This is just crazy .	existing products
+A	1231.96	It's it's all too much buttons .	existing products
+C	1232.78	But it it must not look too childish of course huh ?	existing products
+A	1233.47	Too many buttons .	existing products
+A	1234.22	That's Well , that's too expensive I think .	existing products
+B	1235.13	This uh these are the L_C_D_ screens .	existing products
+B	1237.14	I think we should , if it's um possible , uh one with colours , but I don't know uh Too expensive ?	existing products
+D	1242.77	Nah th It's too expensive .	existing products
+D	1245.45	Yeah .	existing products
+B	1245.73	Alright .	existing products
+B	1247.72	Well Nah .	existing products
+C	1247.97	But it Yeah .	existing products
+A	1248.07	Alright .	existing products
+A	1249.42	Yeah .	existing products
+A	1250.78	Okay .	existing products
+B	1252.54	Ha , even more .	existing products
+A	1252.58	Huh .	interface specialist presentation
+B	1253.86	N Well Yeah , this is what we've just done .	look and usability existing products discussion
+A	1254.43	Mm no .	interface specialist presentation
+D	1257.73	But are we going for a strange uh form ?	look and usability
+A	1257.78	'Kay .	look and usability
+A	1261.3	No , not very strange .	look and usability
+D	1261.56	'Cause people like that .	look and usability
+C	1262.63	Not not too strange .	look and usability
+D	1263.82	Not too strange .	look and usability
+C	1264.3	No .	look and usability
+D	1264.37	You can make the the underside , you can make it more round , where the L_C_D_ is .	look and usability
+A	1264.38	It still has t Yes .	look and usability
+A	1268.08	Th a a kind of bridge .	look and usability
+A	1270.21	So it f falls over the hand .	look and usability
+D	1270.41	I dunno if you know the No Nokia telephone , with uh the round uh thing at at the bottoms , s something like that .	look and usability
+A	1274.87	Yeah ?	look and usability
+A	1275.59	Yeah ?	look and usability
+A	1278.76	Yeah .	look and usability
+D	1278.86	You know ?	look and usability
+A	1280.06	Well I have at home a remote with a bridge .	look and usability
+A	1282.84	It's just a half round half half circle at And then it falls exactly over the hand , and that's very nice .	look and usability
+A	1289.67	That's It feels comfortable .	look and usability
+D	1291.87	Yeah , but people like something uh new you know .	look and usability
+C	1294.42	Exotic yeah .	look and usability
+D	1295.33	Yeah , different .	look and usability
+C	1295.97	We have t Yeah , yeah .	look and usability
+A	1296.93	Yeah .	look and usability
+C	1297.27	I will design it , we design it later .	look and usability
+D	1297.54	Y yis Alright .	look and usability
+C	1299.12	So we'll get to that later I guess .	look and usability
+D	1300.69	Great .	look and usability
+A	1300.87	Yeah , alright .	look and usability
+A	1301.66	Um where did I put it ?	discussion
+C	1303.92	The specific shape .	discussion
+A	1304.03	Um conceptual phase , I think this is it .	discussion
+C	1304.99	The Our sources .	discussion
+A	1309.93	I got this from our friends .	discussion
+A	1313.68	So Uh yeah the conceptual design .	discussion
+A	1319.31	These are a few examples which we have to decide about .	discussion
+A	1322.39	All the the materials from the case , uh the electric cable that's all your uh your side of the story .	discussion
+A	1331.08	Um Yeah .	discussion
+D	1331.47	Your bag .	discussion
+A	1334.51	Um now from the user interface , your uh package ?	discussion
+A	1339.63	Um where No well , that's more like the buttons where they have to come .	discussion
+A	1343.71	And um B a bit of , yeah well , a bit of uh design .	discussion
+C	1352.85	But uh we should decide now .	discussion
+A	1352.96	Yes , but we have to decide about these now .	discussion
+B	1353.17	Right ?	discussion
+B	1354.52	Ah right .	discussion
+D	1354.96	Yeah .	discussion
+D	1355.9	Materials are the most , most impor Yeah .	discussion
+A	1356.01	And uh the trend-watching .	discussion
+A	1357.89	So as you said , fruity is in , well sells good .	discussion
+A	1361.47	Wow .	discussion
+A	1362.29	Uh these things .	discussion
+C	1363.49	So we have to uh put it in one uh document .	discussion
+A	1366.59	Uh yes .	discussion
+A	1367.46	Um so if we uh go through them Yeah well uh Why should I uh Yeah .	discussion
+C	1369.59	Copy paste uh this story into a into a Word document , and then uh put the answers after the subjects .	discussion
+C	1376.98	Yeah .	discussion
+B	1380.14	Not everything .	discussion
+C	1382.38	Well we have to decide all these things ?	discussion
+B	1384.08	Yeah but all these examples are uh of a coffee machine .	discussion
+C	1389.92	W we can uh override them ?	discussion
+A	1394.93	So What what kind of properties should it have ?	discussion components, materials and energy sources
+C	1395.7	Well a case ?	components, materials and energy sources
+C	1396.55	Uh that's me .	components, materials and energy sources
+C	1397.44	Uh I suggest Well what do I suggest actually ?	components, materials and energy sources
+A	1402.73	Well we just listened .	components, materials and energy sources
+B	1404.01	I think we Why don't we um use uh titanium or or a hard , yeah , some kind of metal for the uh the the whole remote except the front .	components, materials and energy sources
+C	1404.1	Uh s solid , yeah .	components, materials and energy sources
+C	1405.9	Yeah .	components, materials and energy sources
+D	1413.43	Do you know the new uh No no The front is the most important .	components, materials and energy sources
+B	1415.81	That Just like um most cell phones are .	components, materials and energy sources
+C	1418.64	Yeah , I understand .	components, materials and energy sources
+C	1420.91	Yeah .	components, materials and energy sources
+C	1421.98	So we have titanium .	components, materials and energy sources
+C	1425.15	Yeah but the non-removable elements of the of the remote , so not the front , could be titanium , to give that uh strong look .	components, materials and energy sources
+B	1432.23	Yeah .	components, materials and energy sources
+A	1433.55	You know what ?	components, materials and energy sources
+C	1433.89	And then the front is made of plastic .	components, materials and energy sources
+C	1435.55	And you can put that on and off , and switch it .	components, materials and energy sources
+B	1441.08	Yeah .	components, materials and energy sources
+D	1441.37	But the feel of plastic isn't strong .	components, materials and energy sources
+C	1443.29	No but you have titanium of course .	components, materials and energy sources
+B	1443.8	No but you you have this Yeah .	components, materials and energy sources
+C	1445.36	Uh you have the best of both worlds .	components, materials and energy sources
+D	1446.44	Yeah alright , alright .	components, materials and energy sources
+D	1448.24	'Kay .	components, materials and energy sources
+B	1448.58	Yeah , you have the re remote in your hand like this .	components, materials and energy sources
+B	1450.56	So you feel titanium .	components, materials and energy sources
+C	1453.66	And of course , yeah , you have the the the plastic front end .	components, materials and energy sources
+C	1456.12	But you also have the titanium .	components, materials and energy sources
+D	1456.47	Yeah .	components, materials and energy sources
+D	1457.63	Fronts are are cheaper than when they're from plas Yeah , but it it's expensive .	components, materials and energy sources
+B	1459.63	Yeah .	components, materials and energy sources
+C	1459.96	Yeah of course , but yeah you have to make a decision .	components, materials and energy sources
+B	1463.36	And I don't know if you can make steel just any way you want it to .	components, materials and energy sources
+C	1469.17	I guess so .	components, materials and energy sources
+C	1469.73	Uh titanium I sh I think uh Huh ?	components, materials and energy sources
+B	1469.9	Yeah .	components, materials and energy sources
+D	1471.6	Bendable .	components, materials and energy sources
+D	1473.06	Bendable .	components, materials and energy sources
+C	1473.21	Well , well the According to my sources , uh it's it's totally possible to make an entire uh uh uh Titanium is available , and uh we can uh make uh an entire remote out of it , if we want .	components, materials and energy sources
+B	1474.24	Well any colour Yeah , then you you paint it in the colour you want it .	components, materials and energy sources
+D	1488.83	Yeah .	components, materials and energy sources
+C	1488.92	Mm .	components, materials and energy sources
+B	1489.08	The plastic is is the colour you want it .	components, materials and energy sources
+D	1490.25	Paint spray .	components, materials and energy sources
+C	1491.52	Mm .	components, materials and energy sources
+D	1492.33	Yeah alright .	components, materials and energy sources
+B	1494.28	So Yeah .	components, materials and energy sources
+D	1495.46	So , we're going for a titanium back and a plastic front ?	components, materials and energy sources
+A	1495.88	Alright .	components, materials and energy sources
+A	1497.98	I've uh Titanium back , plastic front .	components, materials and energy sources
+C	1498.78	Yeah , I think that's a nice trade-off .	components, materials and energy sources
+B	1499.19	Mm .	components, materials and energy sources
+A	1501.82	Okay .	components, materials and energy sources
+A	1503.08	Um well I am going to put it in here , uh because we can uh look .	components, materials and energy sources
+D	1505.91	Yeah , great .	components, materials and energy sources
+B	1506.61	Yeah .	components, materials and energy sources
+A	1506.72	I Um solid feel and trendy look .	components, materials and energy sources
+C	1507.4	Alright .	components, materials and energy sources
+A	1513.91	So material , um hard plastic for the front ?	components, materials and energy sources
+C	1518.45	Yeah , for the front and then titanium for the back .	components, materials and energy sources
+D	1519.49	Yeah .	components, materials and energy sources
+C	1522.52	For the non-removable uh part .	components, materials and energy sources
+D	1524.37	But then you have the problem , when you have a titanium back , you can't switch it .	components, materials and energy sources
+D	1529.17	When you want an other colour on the front , it doesn't match .	components, materials and energy sources
+C	1533.82	Well but The titan titanium isn't isn't v very Yeah , i it doesn't uh curves .	components, materials and energy sources
+D	1533.84	You know ?	components, materials and energy sources
+B	1534.24	Well titanium is neutral .	components, materials and energy sources
+C	1541.97	No uh I nei .	components, materials and energy sources
+D	1543.18	I understand .	components, materials and energy sources
+C	1543.82	Titanium is very No no no , but you know b Titanium is very basic colour , and it doesn't really matter if we have a purple front on it or a orange front .	components, materials and energy sources
+D	1545.48	Yeah , yeah , yeah .	components, materials and energy sources
+B	1547.79	Hmm .	components, materials and energy sources
+D	1547.79	Yeah .	components, materials and energy sources
+B	1549.65	Yeah .	components, materials and energy sources
+D	1550.49	Alright .	components, materials and energy sources
+C	1550.72	I dunno if if you disagree , but I think it's doesn't matter very much .	components, materials and energy sources
+B	1551.96	Well Our customers will use those uh funky uh trendy colours , and they don't use uh wood .	components, materials and energy sources
+D	1552.82	Yeah .	components, materials and energy sources
+D	1553.08	Alright .	components, materials and energy sources
+C	1557.21	And even if it does uh doesn't match , it will uh People like mm colours that don't match .	components, materials and energy sources
+D	1559.98	Funky customers .	components, materials and energy sources
+B	1560.4	Mm .	components, materials and energy sources
+B	1561.2	Yeah .	components, materials and energy sources
+D	1561.42	Alright .	components, materials and energy sources
+A	1561.54	Okay .	discussion
+A	1561.94	And well the the electrical cable is just normal uh .	discussion
+C	1566.69	Cop copper uh material .	discussion
+B	1571.61	Yeah .	discussion
+C	1571.79	Excuse me ?	discussion
+B	1574.16	The electrical cable uh does No we don't use an electrical cable .	discussion
+A	1575.09	It's uh from uh our coffee uh Of course .	discussion
+C	1576.18	Yeah copper i just a ba basic uh Yeah in Yeah well inside the remote control we use a couple of uh Oh external ?	discussion
+B	1579.46	Yeah inside , but this is for the coffee uh machine .	discussion
+B	1584.52	Yeah , but that's not what's meant here , I think .	discussion
+D	1587.59	Nei .	discussion
+D	1589.59	So external .	discussion
+D	1592.66	Yeah .	discussion
+B	1593.0	Yeah .	discussion
+C	1594.12	Well A coffee grind doesn't have Na ja .	discussion
+C	1597.58	Never mind the coffee grind .	discussion
+A	1598.26	Well uh all the all the inside work of our remote is uh standard work .	discussion
+A	1605.6	So The chip is normal silicon .	discussion
+C	1607.84	Right ?	discussion
+A	1610.57	Uh the buttons are normal , etcetera .	discussion
+A	1612.97	Okay ?	discussion
+C	1613.7	Alright .	discussion
+A	1613.72	So that's just easy .	discussion
+C	1614.85	Mm-hmm .	discussion
+A	1614.92	Uh we decide about that just by looking at our competitors and our earlier uh remotes .	discussion
+A	1621.54	The conceptual specification of the user interface ?	discussion
+A	1625.41	Um well we have our beautiful drawing .	discussion
+B	1629.42	Well I got a better one here and I will um The shared folder .	discussion
+D	1631.51	Alright .	discussion
+A	1631.99	Well you can put that in uh into the shared folder , and then I'll put it in our end report .	discussion
+B	1636.89	I will work this out uh for the uh next meeting .	discussion
+A	1638.36	Yes , you can Mm yeah .	discussion
+A	1641.0	You can uh put some uh which button is what .	discussion
+B	1643.74	Yeah yeah yeah .	discussion
+A	1644.14	Okay .	look and usability
+A	1645.11	Um the trend-watching included these days .	look and usability
+A	1650.88	And what do we ?	look and usability
+A	1651.84	We thing that fruit and bright colours are Yes .	look and usability
+C	1656.11	Yeah the the the front w Mm-hmm .	look and usability
+D	1656.94	I think we can launch a couple of packages .	look and usability
+D	1660.44	You can buy a different kind of of of machine , but it's the same thing , but with another front .	look and usability
+B	1661.23	Yeah .	look and usability
+D	1668.36	So And you can you can Yeah right .	look and usability
+A	1668.52	We can also uh implement um we can also implement fronts from um movies that are very hot .	look and usability
+B	1669.22	Yeah that's the whole idea of the front .	look and usability
+C	1670.33	Yeah .	look and usability
+C	1671.3	Yeah .	look and usability
+A	1675.27	Uh those kind of things .	look and usability
+B	1675.27	Yes .	look and usability
+B	1675.98	But that's for later on .	look and usability
+B	1676.96	The fronts y you can do anything with them .	look and usability
+A	1678.78	Yeah .	look and usability
+D	1679.58	Yeah but if you if you launch uh five different packages like iPod mini Yeah .	look and usability
+B	1683.04	Yeah , right For the uh initiative uh launch .	look and usability
+C	1687.55	For the for the launch , yeah .	look and usability
+D	1688.62	It's good marketing .	look and usability
+B	1688.64	Mm .	look and usability
+A	1691.89	Launch different lines at once .	look and usability
+C	1691.93	So e th then a c couple of basic colours .	look and usability
+C	1694.22	Not not very uh sim Not Yeah .	look and usability
+D	1695.78	Yeah , n not too heavy .	look and usability
+D	1697.82	You can always take another pick .	look and usability
+A	1700.92	We should not give them the m the most lovely front when they buy it for the first time .	look and usability
+D	1704.9	They have to buy it later on .	look and usability
+B	1706.24	Oh yeah .	look and usability
+A	1706.77	Yeah .	look and usability
+D	1706.82	Yeah right .	look and usability
+B	1707.61	Yeah .	look and usability
+C	1708.11	Yeah .	look and usability
+A	1708.13	Come on .	look and usability
+D	1708.73	More basic .	look and usability
+A	1709.61	We still have to make those fifty million , yeah ?	look and usability
+B	1710.6	Yeah .	look and usability
+D	1711.27	Yeah .	look and usability
+C	1711.33	Very boring , yeah .	look and usability
+B	1712.59	Well you can you can give them uh s s three or so , so that they can uh experiment with it and that they want more .	look and usability
+C	1712.62	The most boring fronts possible .	look and usability
+A	1714.94	The most ugly .	look and usability
+D	1718.57	Yeah , right .	look and usability
+A	1719.65	Two .	look and usability
+C	1720.35	Yeah but you you can have some basic colours , and then we come with the special patterns on them , and and uh And uh Uh we still have to make We have still have to make the es the the real basic design .	look and usability
+B	1722.02	Yeah .	look and usability
+B	1723.8	Red red , blue and green you give them or something , and then you can give them uh other ones .	look and usability
+A	1724.0	Yeah .	look and usability
+D	1724.73	Yeah .	look and usability
+A	1727.4	Yeah .	look and usability
+A	1727.81	Alright .	look and usability
+A	1729.54	Um well the buttons etcetera , we get from Mike .	look and usability
+A	1735.85	Uh this fruit and bright colours , yeah well I think we'll have to in the next uh half an hour , we'll have to uh s s specify the different uh types we want to launch , when we uh well introduce our remote .	look and usability
+C	1756.19	Because yeah we have the sketch but Alright , yeah .	look and usability project specs and roles of participants
+D	1756.58	Yeah .	look and usability
+D	1757.39	But we we must remember that fancy look-and-feel is the most important thing .	look and usability
+A	1761.94	Yes .	look and usability
+D	1762.21	Else it w won't sell .	look and usability
+D	1763.65	So Lost my mouse .	look and usability project specs and roles of participants
+A	1765.48	Yes .	project specs and roles of participants
+A	1766.47	Well I'll have to , before I get another warning for five minutes , I'm going to get Where is my mouse ?	project specs and roles of participants
+A	1773.82	Uh where is my mouse ?	project specs and roles of participants
+A	1778.72	Oh yeah .	project specs and roles of participants
+A	1780.48	Um this is it .	project specs and roles of participants
+D	1785.87	Unbelievable .	project specs and roles of participants
+A	1792.26	Well , um this we have .	project specs and roles of participants
+D	1795.05	Yeah .	project specs and roles of participants
+A	1795.81	Uh basic stuff .	project specs and roles of participants
+A	1798.27	Interface we have .	project specs and roles of participants
+A	1799.6	Supplements , L_C_D_ .	project specs and roles of participants
+A	1801.74	Maybe a a cheap voice recording .	project specs and roles of participants
+A	1805.66	Well Yes .	project specs and roles of participants
+B	1805.68	Yeah we should do that .	project specs and roles of participants
+C	1805.95	The price ?	project specs and roles of participants
+A	1807.39	Alright .	project specs and roles of participants
+A	1808.15	Individual actions .	project specs and roles of participants
+C	1809.35	We all agree on that .	project specs and roles of participants
+C	1810.3	Yeah .	project specs and roles of participants
+B	1810.47	Mm .	project specs and roles of participants
+A	1811.48	Industry designer , .	project specs and roles of participants
+A	1813.76	User Interface , Mike .	project specs and roles of participants
+A	1815.05	You're going to work together on a prototype drawing on the SMARTboard .	project specs and roles of participants
+B	1820.81	Yeah , we can do that .	project specs and roles of participants
+C	1822.13	Together or uh Yeah together .	project specs and roles of participants
+D	1823.79	Yeah togeth You can take the SMARTboard .	project specs and roles of participants
+C	1824.84	How Yeah yeah , but how do I Some Some non functional tasks .	project specs and roles of participants
+A	1826.02	That's what I got uh to hear .	project specs and roles of participants
+B	1826.15	But bu we stay we stay here or something ?	project specs and roles of participants
+A	1828.6	Yes well we'll get it to hear that I think .	project specs and roles of participants
+A	1831.51	But I think so .	project specs and roles of participants
+A	1832.24	Th they're saying SMARTboard and that's it This is the SMARTboard , so Um so you can uh you you are going to make a prototype , and y Well that's includes uh specifying the buttons etcetera .	project specs and roles of participants
+B	1834.85	Ah right .	project specs and roles of participants
+B	1836.59	And take it to our rooms and uh Ah , specific instructions will be sent to you by your personal coach .	project specs and roles of participants
+A	1847.33	Yeah .	project specs and roles of participants
+A	1848.09	So you'll get it on your em on your laptop .	project specs and roles of participants
+A	1850.85	Um well you will go and do something else uh on the project yeah project evaluation .	project specs and roles of participants
+D	1855.5	Have fun .	project specs and roles of participants
+A	1859.93	So um , what are you going to do ?	project specs and roles of participants
+D	1861.77	'Kay .	project specs and roles of participants
+A	1864.65	Uh I don't know what product evaluation exactly means , but uh you'll get uh the specifications .	project specs and roles of participants
+D	1869.21	We don't have produ product yet , so kind of difficult .	project specs and roles of participants
+A	1871.15	Yeah .	project specs and roles of participants
+A	1871.39	That's why I uh But uh How long do we still have ?	project specs and roles of participants
+C	1874.17	You're fired .	project specs and roles of participants
+C	1875.64	No but Well , can we talk about something else ?	discussion project specs and roles of participants
+C	1880.33	Uh Uh no I don't know anything , but maybe uh anyone else uh Yeah ?	discussion
+A	1880.93	Yeah .	discussion
+B	1884.58	Yeah .	discussion
+D	1885.07	Ajax .	discussion
+B	1885.12	Um Will we use uh round buttons or square ones for the for the numbers ?	discussion
+D	1886.68	Nah .	discussion
+D	1890.08	Um round .	discussion
+C	1890.51	Round I think .	discussion
+D	1891.69	Yeah .	discussion
+B	1892.01	Yeah I I I also uh thought Yeah .	discussion
+D	1892.26	Round .	discussion
+C	1892.85	To make it as uh as round as possible .	discussion
+B	1895.17	And these uh these s these buttons uh are more uh triangle-ish shaped with a square one in the middle .	discussion
+A	1899.99	Why does Ah f fuck you .	discussion
+D	1902.11	Curvy .	discussion
+D	1902.96	Yeah .	discussion
+D	1903.61	So you can see you have to up or down .	discussion
+B	1905.43	Yeah .	discussion
+B	1906.11	Yeah .	discussion
+C	1907.59	But now I see the Well th th th th th that depends uh .	discussion
+D	1908.25	And this must be uh volume I think , and this programme .	discussion
+A	1910.65	Heh ?	discussion
+B	1914.32	Mm .	discussion
+B	1917.36	Well most of the time uh up and down is programme and left and right are volume , I think .	discussion
+A	1917.37	We can't get Ts It doesn't work any more .	discussion
+D	1924.4	Yeah .	discussion
+B	1924.94	Yeah , it depends , but If you turn up the volume , you always see this thingy go up .	discussion
+C	1928.61	Well we uh We we j we'll just give them an uh We'll design it , and then they can give comments on it .	discussion
+D	1932.55	Yeah , that's right .	discussion
+B	1934.36	Yeah .	discussion
+B	1935.55	Yeah alright .	discussion
+D	1935.66	Yeah .	discussion
+D	1936.2	Okay .	discussion
+A	1938.71	We can't save them .	discussion
+A	1939.48	So we'll just have them uh standing there .	discussion
+D	1941.26	Yeah , I noticed .	discussion
+D	1943.03	You can't uh click the corners .	discussion
+A	1944.68	No .	discussion
+A	1946.61	It's a bit uh bit a pity .	discussion
+D	1947.9	It's a real real great thing .	discussion
+A	1949.96	Well we still have uh more than five minutes .	discussion
+A	1953.05	Um So what are we going to do ?	discussion
+A	1959.22	I as Project Manager ha don't have a clue .	discussion
+D	1962.46	Let's start the design .	discussion
+A	1963.8	Oh we can uh decide how we implement the feeling from our company into the remote .	discussion
+C	1970.58	Well yeah .	look and usability
+B	1970.81	Mm .	look and usability
+C	1971.4	Um I think um a logo , our company logo , and the slogan should be or could be Yeah , why not ?	look and usability
+A	1975.96	Also the slogan ?	look and usability
+A	1977.01	On the We put the fashion in electronics .	look and usability
+C	1978.76	If there's enough space , you can put uh We'll we'll Well , our slogan is not very long .	look and usability
+B	1980.66	Uh I I'd say only the logo .	look and usability
+D	1981.01	O Yeah .	look and usability
+D	1983.35	Me too .	look and usability
+B	1984.0	Too much text and it gets too too busy .	look and usability
+C	1987.41	It's just a simple What is it ?	look and usability
+B	1988.34	Well it's quite a long phrase .	look and usability
+A	1991.88	We put the fashion in electronics .	look and usability
+D	1992.22	But we kree we keep adjusting to the fashion with our fronts .	look and usability
+C	1993.79	You c But you can put it on the back , on the titanium part .	look and usability
+D	1997.69	So Yeah , right .	look and usability
+C	2001.64	The logo and the and the Yeah they do .	look and usability
+B	2003.36	Ah the logo should be on the top I think .	look and usability
+D	2004.85	The logo Yeah .	look and usability
+A	2006.74	On the top .	look and usability
+A	2007.49	Yeah .	look and usability
+A	2008.32	Well in in in the right top corner ?	look and usability
+C	2008.85	Well yeah .	look and usability
+B	2010.16	Right corner , yes .	look and usability
+A	2011.24	And well you c On the back , you can put uh h At the bottom , you can put the logo with the Yeah .	look and usability
+C	2011.75	Right corner , or maybe here in the middle ?	look and usability
+B	2019.05	uh the text ?	look and usability
+B	2020.33	Yeah .	look and usability
+D	2020.91	But the logo the logo shouldn't be exchangeable , when you get off the front .	look and usability
+A	2020.92	Just just small .	look and usability
+B	2021.07	Uh yeah , at the back ?	look and usability
+C	2024.38	Yeah it it should be hard on the on the on the board , and you can remove the front .	look and usability
+B	2024.73	Well you c Well uh Yes .	look and usability
+A	2025.34	Yeah well Carved into the material .	look and usability
+D	2026.41	Yeah .	look and usability
+B	2027.26	You can The logo can be on on every uh front .	look and usability
+D	2027.27	Yeah .	look and usability
+D	2030.17	Yeah , but you can scratch it off or something .	look and usability
+D	2032.17	It's better if you have it uh Yeah .	look and usability
+B	2034.56	Yeah , but then you must uh really uh yeah push it in or something .	look and usability
+A	2039.63	No , you you can carve it into the titanium at the back .	look and usability
+C	2042.34	I l I like the idea of the of the slogan on the on the on the thing .	look and usability
+C	2046.36	But am I the only one , or uh No not on the front , but on the backside .	look and usability
+B	2046.87	Yeah , on the backside .	look and usability
+A	2048.24	Well , management would like it .	look and usability
+B	2048.7	Well n n not not on the front side , I think .	look and usability
+A	2051.5	The front side , no no l no slogan .	look and usability
+B	2053.18	On the back Yes , you you can , yeah , push that in , so that it is always be there .	look and usability
+C	2053.5	Uh I think it's a nice idea , to make it more recognisable , that the next to the logo you have the slogan .	look and usability
+A	2055.94	Sorry .	look and usability
+B	2060.71	Yeah .	look and usability
+D	2064.61	I agree .	look and usability
+C	2065.33	To make more uh of an impression .	look and usability
+D	2066.13	But not too big .	look and usability
+D	2067.91	Just uh Yeah .	look and usability
+C	2068.14	Not too big .	look and usability
+C	2068.53	No , very small .	look and usability
+C	2069.36	Not on the entire back , but uh just very small .	look and usability
+C	2073.36	But readable enough of course .	look and usability
+D	2075.75	Okay .	look and usability
+A	2076.94	Yes , slogan from company on the back with logo and logo also on the front but not exchange uh Uh ?	look and usability
+C	2077.27	But we'll uh we'll take that uh with us into the design .	look and usability
+B	2080.15	Yeah I think over here the logo .	look and usability
+C	2082.86	Lo Uh yeah .	look and usability
+C	2083.78	Or maybe here in the middle , but we'll decide later .	look and usability
+A	2109.96	Hmm ?	look and usability
+A	2110.19	Uh when changing fronts .	look and usability
+A	2117.83	Alright , that's decided .	look and usability
+C	2118.0	Do you do you see a bit of the of the um of the uh titanium ?	look and usability
+A	2120.75	Five minutes left .	look and usability
+C	2124.2	O on the front ?	look and usability
+C	2124.98	Uh maybe if we make this this this lower part titanium , the front is the the upper part , and the the bit with the with the L_C_D_ screen .	look and usability
+B	2126.0	Yes we could No , they have two fronts , that .	look and usability
+C	2133.95	So Yeah .	look and usability
+A	2134.36	So a bit of titanium between ?	look and usability
+D	2136.51	Yeah .	look and usability
+C	2136.71	No no betwe of between we can do but But then you have two parts of front , two fronts that This enti entire bottom ?	look and usability
+A	2137.69	That's a bit Oh that that's that's pretty cool .	look and usability
+D	2140.9	No no no no .	look and usability
+D	2141.85	You have to make this titanium too .	look and usability
+B	2142.4	You you can Yeah .	look and usability
+A	2142.52	No ?	look and usability
+B	2143.72	Yeah .	look and usability
+D	2144.55	Else you you get problems with the L_C_D_ .	look and usability
+B	2145.58	Yeah .	look and usability
+B	2147.13	Yeah .	look and usability
+A	2147.22	Yes .	look and usability
+D	2147.54	Like dust in it and so things like that .	look and usability
+B	2149.16	Yeah .	look and usability
+D	2149.55	When you exchange all the fronts and it's open .	look and usability
+A	2152.22	I already have uh all kinds of uh filth between the mobile .	look and usability
+B	2152.54	No , you can you can just And then not a straight line but uh some sort of wave or something .	look and usability
+C	2159.01	And then the lower part is titanium ?	look and usability
+B	2160.41	This is titanium .	look and usability
+C	2161.89	I think that's nice , yeah .	look and usability
+D	2162.09	Yeah .	look and usability
+B	2162.1	And this is uh F front .	look and usability
+D	2162.98	Some some kind of wei weight in it .	look and usability
+A	2164.28	Yeah .	look and usability
+D	2164.87	Yeah .	look and usability
+A	2165.17	Round forms .	look and usability
+C	2167.56	Yeah .	look and usability
+C	2169.07	I like that bit of uh titanium also on the uh A bit like uh a bit like your mobile phone .	look and usability
+B	2171.07	Yeah .	look and usability
+D	2171.46	Yeah .	look and usability
+B	2171.75	With the with the curved edge .	look and usability
+A	2172.26	Yep .	look and usability
+C	2174.96	Maybe you can show it .	look and usability
+B	2175.41	Yeah .	look and usability
+C	2175.69	It also has the those two distinct uh Mm bit like this .	look and usability
+B	2177.81	Yeah .	look and usability
+B	2180.27	Tada .	look and usability
+B	2182.16	Yeah .	look and usability
+A	2182.57	Yeah .	look and usability
+D	2182.61	Yeah , you can make it go round this corner too where the logo is .	look and usability
+C	2183.01	Uh it's uh Yeah yeah .	look and usability
+D	2189.05	Because it has to be uh there all the time you know .	look and usability
+A	2189.7	What ?	look and usability
+B	2192.55	Ah .	look and usability
+C	2192.78	That uh Yeah .	look and usability
+A	2193.54	So round where ?	look and usability
+D	2193.56	So uh a little corner of titanium .	look and usability
+C	2193.82	Maybe a nice touch , yeah .	look and usability
+B	2195.38	Yeah , that's nice finishing touch you need .	look and usability
+A	2196.33	Oh , yeah .	look and usability
+A	2199.07	Yes , that also sounds uh pretty uh neat .	look and usability
+D	2201.8	So this this is the exchangeable part .	look and usability
+C	2202.31	I think I'm going to buy it .	discussion
+A	2204.22	We want it .	discussion
+B	2204.46	Yeah , this is the front .	discussion
+A	2205.92	And it's only f twenty five Euros .	discussion
+A	2208.75	Come on .	discussion
+B	2208.76	This is the My design .	discussion
+C	2208.91	That's a bit too much , but No , no no no , but I think uh this looks uh pretty nice actually .	discussion
+A	2210.19	No that's nothing .	discussion
+A	2212.07	The Phillips remote uh costs more .	discussion
+C	2215.71	Of course , because it's my design but No our d our design , alright .	discussion
+D	2215.83	Right .	discussion
+D	2220.21	Taking all the credit .	discussion
+A	2220.36	Well uh you two are going to work together .	discussion
+A	2222.09	You'll get your uh specifications on your uh laptop , and then uh you uh Well I think we can , I just It's Yeah , o Oh Oh , we have a one .	discussion agenda/equipment issues
+B	2224.77	Yeah .	agenda/equipment issues
+B	2225.3	We'll stay here I guess ?	agenda/equipment issues
+D	2226.4	But there's a problem .	agenda/equipment issues
+D	2227.25	We can't uh take a blank one .	agenda/equipment issues
+D	2229.62	Or can we ?	agenda/equipment issues
+B	2232.58	Well we can uh erase an animal I guess .	agenda/equipment issues
+D	2235.63	Yeah .	agenda/equipment issues
+B	2235.84	Uh the fourth one .	agenda/equipment issues
+D	2236.23	Nah that's alright , that's alright .	agenda/equipment issues
+C	2236.84	But don't erase my cat .	agenda/equipment issues
+B	2239.58	Uh the fourth one is empty , isn't it ?	agenda/equipment issues
+B	2241.62	Yeah .	agenda/equipment issues
+C	2242.34	I want to preserve it .	agenda/equipment issues
+D	2246.19	This one is empty .	agenda/equipment issues
+B	2247.71	Yeah .	agenda/equipment issues
+D	2249.86	You have to empty one huh ?	agenda/equipment issues
+C	2253.55	What are you doing chief ?	agenda/equipment issues
+A	2255.73	So , you can uh draw a Yeah .	agenda/equipment issues
+D	2256.58	Alright .	agenda/equipment issues
+B	2258.15	Yeah I think we have to wait ?	agenda/equipment issues
+A	2260.45	Well I'll get a I'll get the message .	agenda/equipment issues
+C	2260.45	Yeah until the until the beep goes .	agenda/equipment issues
+D	2260.51	No Yeah .	agenda/equipment issues
+C	2263.1	But I don't uh Do we have to stay here , or I think we have to return first .	agenda/equipment issues
+A	2266.07	No , I think uh Well you'll Maybe you can uh keep your uh laptop here .	agenda/equipment issues
+B	2271.5	Maybe .	agenda/equipment issues
+A	2272.29	Or get your mouse .	agenda/equipment issues
+A	2273.37	Because it's little bit uh hard to work with these uh plates .	agenda/equipment issues
+C	2274.13	The high powers from above will have to tell us , yeah .	agenda/equipment issues
+D	2277.34	Yeah .	agenda/equipment issues
+D	2279.14	It's not relaxing .	agenda/equipment issues
+A	2280.75	I always have a mouse next to my laptop .	agenda/equipment issues
+A	2283.43	I hate these Ugh .	agenda/equipment issues
+D	2283.64	I I don't have a laptop .	agenda/equipment issues
+C	2284.66	Yeah , touch-pads , yeah .	agenda/equipment issues
+C	2286.99	We can uh do a touch-pad on our remote .	agenda/equipment issues
+D	2289.54	Yeah right .	agenda/equipment issues
+C	2290.31	No just kidding .	agenda/equipment issues
+B	2290.47	Yeah .	agenda/equipment issues
+D	2291.98	Dream on .	agenda/equipment issues
+C	2292.62	Well we have uh b you have to have a bit of humour in the in the discussions too , because it becomes too too too too stressy .	agenda/equipment issues
+A	2298.08	And in your remote control .	agenda/equipment issues
+A	2299.14	So we put a touch pad on it , and say ha ha .	agenda/equipment issues
+B	2302.29	Aha .	agenda/equipment issues
+B	2303.06	This has no function .	agenda/equipment issues
+D	2304.66	Half No .	agenda/equipment issues
+A	2304.67	Yeah .	agenda/equipment issues
+A	2306.26	We know you'll you'll you'll hate it but But they do want some gadgets .	agenda/equipment issues
+C	2308.56	But uh th youth doesn't care about functio functionality , so Yeah .	agenda/equipment issues
+D	2314.36	It's all about cool things .	agenda/equipment issues
+A	2314.39	So that's wha what we're doing .	agenda/equipment issues
+D	2317.89	And it will sell .	agenda/equipment issues
+D	2321.29	We will be rich .	agenda/equipment issues
+C	2322.4	Bless you .	agenda/equipment issues
+A	2323.42	Well we won't .	agenda/equipment issues
+A	2325.0	Our bosses will be rich .	agenda/equipment issues
+C	2326.95	Mm .	agenda/equipment issues
+B	2327.51	We've done too much in the previous meetings .	agenda/equipment issues
+C	2330.51	Too much ?	agenda/equipment issues
+B	2331.2	Yes , we've got nothing to do now .	agenda/equipment issues
+C	2333.7	Well they uh I think that's good .	agenda/equipment issues
+A	2334.0	Well , that's not bad , is it ?	agenda/equipment issues
+D	2335.82	No .	agenda/equipment issues
+C	2337.91	We all had uh our talk and we agree I guess on uh several thing , on most uh on things .	agenda/equipment issues
+A	2347.59	Mm .	agenda/equipment issues
+B	2350.37	Its the best remote ever .	agenda/equipment issues
+A	2353.17	So Oh .	agenda/equipment issues
+B	2358.99	Pinball .	agenda/equipment issues
+A	2360.96	Oh he's totally off again .	agenda/equipment issues
+A	2367.02	Well But when I start here , it's here .	agenda/equipment issues
+D	2368.01	No man .	agenda/equipment issues
+D	2369.42	You just have to push harder .	agenda/equipment issues
+C	2372.17	Yeah you have to push harder .	agenda/equipment issues
+C	2376.51	Mm .	agenda/equipment issues
+A	2378.23	So is it Nope .	agenda/equipment issues
+D	2378.23	Yeah .	agenda/equipment issues
+B	2378.4	Yes , but you you get really close to the screen with your hand , and I don't think that's Hmm .	agenda/equipment issues
+D	2384.64	Mm .	agenda/equipment issues
+D	2388.37	Recalibrate it .	agenda/equipment issues
+C	2396.45	Where's the good old chalk board with the the green board with the , how do you call it , chalk , yeah .	agenda/equipment issues
+D	2398.87	Yeah .	agenda/equipment issues
+B	2409.56	We can better uh draw a design on this .	agenda/equipment issues
+C	2413.15	Yeah , maybe .	agenda/equipment issues
+B	2414.13	Yeah , but we can't .	agenda/equipment issues
+C	2415.74	Maybe if i if that thing is recalibrated , we can draw a thing quick , and then before it uh goes off again .	agenda/equipment issues
+A	2420.98	Yeah .	agenda/equipment issues
+A	2423.73	Let's go .	closing
+B	2425.56	Well We'll stay here ?	closing
+D	2426.22	Finish meeting now .	closing
+A	2427.24	Finish the meeting now .	closing
+A	2428.74	Alright now we know what to do , so Um Message ?	closing
+D	2434.97	Yeah .	closing
+D	2436.34	Oh .	closing
+B	2437.66	Or we'll get the email .	closing
+C	2438.28	Maybe w maybe we maybe w m Can we get email here ?	closing
+A	2438.78	No , get away .	closing
+C	2441.83	Huh ?	closing
+C	2442.2	Yeah .	closing
+B	2442.27	Yeah .	closing
+C	2442.74	Guess so .	closing
+A	2445.31	Um I I'm not sure .	closing
+A	2447.57	Maybe you Yeah .	closing
+A	2448.32	Well you'll have to work on this one .	closing
+B	2448.73	Well we'll wait a few seconds and then we'll get an email .	closing
+A	2450.01	Yeah .	closing
+A	2451.77	That's a good idea .	closing
+D	2452.37	Alright .	closing
+D	2453.03	Have fun lads .	closing
+A	2453.78	Well Good luck .	closing
+B	2454.36	Yeah .	closing
+C	2455.03	A happy hol happy holidays .	closing

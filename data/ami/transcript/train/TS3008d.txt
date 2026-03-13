@@ -1,0 +1,970 @@
+B	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	75.56	Okay , welcome to the detailed design meeting .	opening
+A	83.69	Again , I'm gonna take minutes .	opening
+A	86.92	Oh , we're gonna have a prototype presentation first .	opening
+A	90.76	Uh , who's gonna give the prototype presentation ?	opening
+A	93.96	You two guys ?	opening
+C	94.74	Yes .	opening
+A	94.77	Okay .	opening
+A	95.96	Go ahead .	opening
+B	102.64	coffee .	opening
+C	125.08	'Kay , we've made a prototype .	presentation of prototype(s)
+C	127.48	Um , we've got uh uh our aspects from the last meeting .	presentation of prototype(s)
+C	134.88	Uh , especially we looked at the form , material and the colour .	presentation of prototype(s)
+C	138.99	Um , we've uh drawn here the p prototype .	presentation of prototype(s)
+C	142.88	The logo is uh is uh is pretty uh obvious to see on the on the remote control , but it is necessary when you want to build your uh company f to a level higher .	presentation of prototype(s)
+C	162.71	Um , our interface elements , there are shown in the in the drawing .	presentation of prototype(s)
+C	169.33	Maybe you can uh point them uh The functions .	presentation of prototype(s)
+B	172.1	Uh , well the uh all the functions are discussed uh I think the most of the functions are uh uh obvious .	presentation of prototype(s)
+B	181.01	Uh , it's a little bit .	presentation of prototype(s)
+B	182.24	Uh , power button .	presentation of prototype(s)
+B	184.89	Uh then the the the nine uh channels .	presentation of prototype(s)
+B	189.57	Uh the volume uh uh at the side , and the other side is the programmes .	presentation of prototype(s)
+B	197.44	And then we had uh just uh two buttons , we place them in the middle , uh the menu , and for the teletext I thought that was th Oh , the mute button .	presentation of prototype(s)
+A	205.52	Oh no , the the the mute button misses now .	presentation of prototype(s)
+D	206.1	Alright , I Yeah .	presentation of prototype(s)
+A	208.01	Do y do you did we want to have a m mute button ?	presentation of prototype(s)
+C	208.72	But uh that It's uh here then , in the middle .	presentation of prototype(s)
+B	210.11	Yeah .	presentation of prototype(s)
+D	211.75	Alright , and uh you gotta point out which is the volume um uh button and which is the programme button .	presentation of prototype(s)
+A	211.88	Huh .	presentation of prototype(s)
+C	215.68	Yes , um we've disc Most of the users Yes , y there there will be a p a little a little P_ on that and a little uh yeah .	presentation of prototype(s)
+B	218.04	Well , yeah mo uh mo Yeah , well most of them are right-handed .	presentation of prototype(s)
+D	222.52	Yeah , but you you gotta make it clear on the on Yeah , and a and a triangle on that .	presentation of prototype(s)
+B	225.74	Yeah well , I don't have time in uh anymore on the Oh yeah , just progr programme above , I think .	presentation of prototype(s)
+D	232.28	Yes .	presentation of prototype(s)
+D	232.84	Next to that I kinda miss a zero actually .	presentation of prototype(s)
+A	238.87	Wait , there's was one thing I wanted to ask .	discussion
+A	242.88	Uh , there are different ways for remote controls to uh do uh like uh d I call it teens and twenties .	discussion
+A	251.25	Uh , y th th th the two numbers .	discussion
+C	252.3	Yes .	discussion
+D	253.42	All n no , that's um kinda dependent on the television .	discussion
+B	254.98	Yeah , true , yeah .	discussion
+C	255.23	It's a television .	discussion
+C	256.93	Yes .	discussion
+A	258.27	Yeah , but do we have do we need extra buttons , for example some uh some have to Yeah , but you don't you don't actually need them , becau b l a lot of remote controls work that y when y that you when you fir you push the one first , then you have a couple of seconds No , I don't think so .	discussion
+B	258.31	Uh Uh I think so .	discussion
+D	261.33	I think Yeah , I think you should add A cross , or whatever .	discussion
+C	262.19	Yes , yes , you have you have a lot of standard buttons that has to be uh on it , uh th with the one and a double uh uh yes .	discussion
+B	268.54	Zero ?	discussion
+B	270.63	May maybe here ?	discussion
+D	270.98	Yeah , line .	discussion
+B	276.62	Yeah .	discussion
+B	277.86	And then a second .	discussion
+D	278.51	No , that's dependent on the television .	discussion
+C	281.21	Yes , you have televisions , then you have to , you know , you have to uh press Yes , but but a lot uh Yes , but some televisions don't accept uh that that No , no , but s Yes , but some some old televisions uh you have to uh click on uh a special button , uh then you go to a a next level , you can push two buttons .	discussion
+D	281.74	I do know so .	discussion
+B	283.35	Is it depending on television ?	discussion
+A	284.45	Nah , I don't think so really , because you have a I know some remote controls that don't have these buttons , but you still can , know , obviously you can still select the twenty uh a number in the twenty or in the ten .	discussion
+D	284.71	Yeah .	discussion
+D	295.04	Yes , but uh uh no uh remote control nowadays are um they come with the television .	discussion
+D	301.22	Or actually , the other way around .	discussion
+D	302.8	But Yeah .	discussion
+A	302.86	No , I think uh I really think it's n because you can when when you put a button on it with like one and uh then a dash , it's the same thing as when you just push the one , because it i it first gives you the functionality of that that uh separate button you also had to uh apply .	discussion
+D	319.11	Yeah , well but su If No no no .	discussion
+A	322.17	Yeah , because that's i it's for television .	discussion
+A	324.32	It's exact the same thing .	discussion
+D	326.65	So some television respond differently .	discussion
+D	328.81	Look , if uh i i Yes .	discussion
+A	329.76	No , listen listen .	discussion
+A	330.77	When you push the button , the remote control gives a signal .	discussion
+A	333.64	I in th in the first place it gives a signal which it would also send when you put a separate button on it .	discussion
+D	339.43	Yes , that's true .	discussion
+A	340.14	The one with dash , that signal gi and when y whe when you don't push another button on the remote control within five seconds , then the remote control gives a signal for channel one .	discussion
+B	346.7	Yeah .	discussion
+B	348.81	True .	discussion
+D	349.29	No No , it it it works uh if you haven't got uh a special button for it , uh if you push a one , then on your television there will appear a one and a a line , which is an empty space .	discussion
+A	350.51	I think it works that way , really .	discussion
+A	361.34	Yeah , but it's exact the same that w would appear when you put a separate button push a separate button .	discussion
+A	373.61	Yeah , but you don't underst uh you don't understand my point .	discussion
+D	373.96	Yep .	discussion
+D	374.88	True .	discussion
+A	376.22	I think it's exact the same thing when y No , but then they would a would also support that button , because it's the same thing .	discussion
+C	376.38	You want Yes , but some television don't support it .	discussion
+B	380.33	But the ex Yeah .	discussion
+A	385.05	Listen , with that that's that special but button you're talking about , eh ?	discussion
+A	388.46	That's just a signal to recei ju they send a t signal to the v tv T_V_ that they have to put a one in on your screen and a dash , which you can pu so you can uh still put another number on it .	discussion
+A	399.35	When you don't have that separate button , and you push y one , it's exactly the same thing .	discussion
+A	403.46	Do y you the remote control gives that same signal as it would give when you only had Yeah .	discussion
+D	405.99	No , s some some televisions need the input first uh and and you c No , that's not true .	discussion
+C	406.46	No , a remote can Yes , so they need no , they need No , but uh Yeah , it And the button for the SCART uh audio video uh external input .	discussion
+A	411.19	But you give the input .	discussion
+A	412.66	You push the one .	discussion
+A	413.55	That's the same thing as the button with the one and it yes it it is .	discussion
+D	416.4	It's simply not true .	discussion
+A	417.39	Think about it .	discussion
+D	418.38	It's simply not true .	discussion
+B	419.39	You uh you can wai when you push the one you can show on the telly a one and just a dash , and then wait uh two uh seconds or something We'll discuss them in the usability lab .	discussion
+D	419.47	Uh No , remote control doesn't give signal after five seconds .	discussion
+A	424.08	And it's the same thing what happens and a g remote control gives another signal after five seconds that is just one .	discussion
+D	432.88	Remote control is a stupid thing .	discussion
+D	434.88	If you push a button , it sends it immediately to to the television .	discussion
+A	436.09	Yeah , that's true .	discussion
+A	437.57	Yeah , but I m uh but it's I I know for sure that some televisions that w th th the remote control supplied , only ha has the c these buttons with a one and a dash and a two and a dash , but when you use a bu a n remote control that doesn't sport these buttons , it still works .	discussion
+A	450.77	But okay , we we'll impl No , we'll apply them then for now .	discussion
+D	450.96	No , definitely not .	discussion
+D	452.33	Definitely not .	discussion
+B	455.43	Uh eva evaluation .	discussion
+B	456.86	I don't know uh I don't know if if it's it's necessary .	discussion
+A	458.45	Yeah , app just apply them next to the zero , the one and the two .	discussion
+B	461.49	Yeah ?	discussion
+A	462.0	Yeah , I think so .	discussion
+A	463.6	Yeah , for now , if we don't know for sure whether Yeah but okay .	discussion
+B	465.25	Okay .	discussion
+D	469.09	Yes .	discussion
+B	471.72	Ach .	discussion
+D	474.63	Uh , you can access that uh via zero , and then minus , I guess .	discussion
+A	476.81	What I said about uh the remote control sending another signal , that that might not be true , but I still think i it it all T_V_s in some ways support it , I don't know .	discussion
+D	478.57	Yeah .	discussion
+B	479.97	Yeah .	discussion
+C	485.54	No , no .	discussion
+A	485.87	I think it's more c is m maybe we don't uh we both don't really understand how it i how it really works , but I think there's more to in than wha than what you just said .	discussion
+C	494.44	Uh , remote control sends one signal at one button uh press .	discussion
+A	498.16	I do think that uh m T_V_s support mur multiple kind of remote controls .	discussion
+C	500.07	Uh , some N some televisions when when you want to go further than uh ten No , you have to you have to uh give the television uh two or more signals .	discussion
+A	502.82	M Th won't work wi with uh to have that special button .	discussion
+C	512.39	When you uh press one button , you give one signal .	discussion
+C	516.24	And the older televisions need more signals to go a level higher .	discussion
+C	521.69	But When you make the technology that that it will uh give more signals , it could work , but Just a basic idea of of of the most uh most y most common uh and simple uh operations on the remote .	discussion
+D	522.42	Yep .	discussion
+A	522.86	Okay , well we'll see .	discussion
+D	543.68	Okay .	discussion
+D	544.71	I kinda miss the docking station .	discussion
+B	546.94	Yeah .	discussion
+C	547.91	Yes .	discussion
+C	549.14	It's here on the We came uh Yes .	discussion
+B	555.73	Well it yeah , uh there's nothing I think it's pretty basic , the the there's no fu there's one there's one button , that's wha there's there's there's one function and that's n the one button when you want to find it .	discussion
+D	561.83	No nothing really trendy about it .	discussion
+C	566.53	But maybe we can maybe we can make the docking station uh uh a bit standard for for uh the other products we sell , because Real Real Reaction sells more products than only remote controls .	discussion
+D	567.11	The button .	discussion
+D	583.09	Yep .	discussion
+C	583.1	So maybe we can uh use the docking station , for example , uh M_P_ three players or or uh uh hearing devices .	discussion
+D	591.21	I think that's very difficult , because of different shapes of uh uh devices .	discussion
+C	595.34	Yes , but when you put that same volt voltages on it , you can put uh when the when the when uh o the the the lowest part of it , when it's o the same as the other products , you can put it all on the same uh Yes , but we can make No , we can make uh make the most lowest part all the same .	discussion
+D	599.96	Yeah , of course .	discussion
+D	605.26	Mm-hmm .	discussion
+D	610.73	Well it it got it it has got to fit into the shape , of course .	discussion
+D	615.35	The technology and the voltage can be the same .	discussion
+D	617.41	That's uh that's true .	discussion
+D	618.76	But uh i if you all make the m having a bottom like this , then they all fit .	discussion
+D	628.07	Yeah , that's true , but uh Yes , but uh I I g Shouldn't it fall then ?	discussion
+C	630.57	When when the the recharger has a has a bit what points out , we can place all on top of it .	discussion
+C	640.87	Just have to be big enough for the biggest No , when you make it large enough no it it will not .	discussion
+D	643.7	It isn't going to fall down ?	discussion
+D	646.29	That's a bit uh yeah , I think No , but if if like this , I'll I'll point it out , if you got uh a a a base a base like this , I won't draw it really .	discussion
+C	651.21	But then it's a little bit But it's just an idea .	discussion
+D	658.53	If you got a base which is uh as big as this Yeah sure , but if you got if you got a tiny player , it can Yeah .	discussion
+C	660.4	But it's flat it's flat as as this , so we can p make all the products as flat as this .	discussion
+B	664.46	You can .	discussion
+B	666.09	But i i i it's backwards .	discussion
+C	670.13	Yes , but when you make uh uh a bit of big Yes , little holer littler Uh , little products go deeper in it .	discussion
+B	671.4	But it's it's backwards .	discussion
+B	672.63	It's leaning .	discussion
+B	673.77	It's leaning backwards , I think , in the in the docking station .	discussion
+D	676.23	Uh , wha what you could do if you uh from the bottom oh , right , help .	discussion
+B	680.02	That's text .	discussion
+A	681.19	But Well let's ha let's talk about the docking station later , because uh maybe we have we have to uh consider the docking station anyway , because we have some uh cost issues still to come .	discussion
+D	681.76	Uh , you could make like a hole in it , you know , of uh in in the Yeah .	discussion
+D	688.06	That i that is possible , yep .	discussion
+D	692.16	Yeah , sure , you're right .	presentation of prototype(s)
+C	695.94	Yes .	presentation of prototype(s)
+C	696.87	And uh uh the f the look and feel would be great on this uh remote control , because uh you always uh will uh pick up the remote control in the in the smallest uh area .	presentation of prototype(s)
+D	698.34	Oh .	presentation of prototype(s)
+A	699.09	But we have to look n I don't know .	discussion
+D	702.61	I don't like the colours .	presentation of prototype(s)
+D	709.02	Mm-hmm .	presentation of prototype(s)
+A	711.1	Yeah .	presentation of prototype(s)
+C	711.57	Then your uh left thumb of uh your right thumb is uh near the programme uh button , which is the most common used uh function , and all the other buttons are available for your uh thumb .	presentation of prototype(s)
+C	725.96	So it's it's it's really good design .	presentation of prototype(s)
+A	726.31	Okay .	presentation of prototype(s)
+D	728.86	Yeah .	presentation of prototype(s)
+A	729.41	Yes .	presentation of prototype(s)
+D	730.02	Alright .	presentation of prototype(s)
+A	730.49	That's it ?	presentation of prototype(s)
+C	731.85	Yes , uh on the side uh there will be a strip of rubber , and in the middle uh there is uh a hard uh a hard material , a bit hard plastic with a light uh behind it .	presentation of prototype(s)
+D	738.76	The light .	presentation of prototype(s)
+D	744.35	Okay .	presentation of prototype(s)
+D	745.45	And other lights ?	presentation of prototype(s)
+A	746.07	I think added lights are gonna be a problem too .	presentation of prototype(s)
+C	747.1	Yes , we can make also n neon lights on it , or or the buttons that can make uh light on it .	presentation of prototype(s)
+D	750.47	No , o on the on the front .	presentation of prototype(s)
+D	752.87	Yeah , okay .	presentation of prototype(s)
+D	754.03	Maybe the uh the logo .	presentation of prototype(s)
+C	756.33	Yes .	presentation of prototype(s)
+B	757.86	lights ?	presentation of prototype(s)
+C	757.9	But , it will also uh uh use batteries , and do we want to The all the aspects of the interface buttons were uh Yes .	presentation of prototype(s)
+D	758.8	Yeah , why not ?	presentation of prototype(s)
+D	762.56	Of course .	presentation of prototype(s)
+A	763.16	Okay .	presentation of prototype(s)
+B	763.48	Mm .	presentation of prototype(s)
+A	764.53	For now , uh this is uh is good enough .	presentation of prototype(s)
+D	767.73	Okay .	presentation of prototype(s)
+A	768.11	Yeah , what was uh on the Okay , but in the oh yeah , the colour , because we're gonna use uh one colour for the the plastic enclosure and one colour for the rubber , isn't it ?	presentation of prototype(s)
+A	782.58	Then we're gonna do the buttons in the i are we're gonna have rubber buttons .	presentation of prototype(s)
+A	786.71	And they're be a they'll be in the same colour as the rubber on the side .	presentation of prototype(s)
+C	786.81	Yes .	presentation of prototype(s)
+B	787.07	Yeah .	presentation of prototype(s)
+D	787.33	Uh , in the same colour as the side .	presentation of prototype(s)
+B	789.98	Yeah .	presentation of prototype(s)
+D	790.07	Yeah , I think I think that'll be good .	presentation of prototype(s)
+A	790.62	Okay .	presentation of prototype(s)
+B	790.81	Yeah .	presentation of prototype(s)
+A	791.08	And I think we should use a a darker colour for the um plastic , and maybe some more m brighter and flashy stuff Yeah , we'll talk about the lights later .	presentation of prototype(s)
+B	791.94	Yeah .	presentation of prototype(s)
+C	797.88	Yes , maybe we can use on the on the lights on the side we can use uh uh multiple uh lights , so it will uh Yes .	presentation of prototype(s)
+D	799.02	Yes .	presentation of prototype(s)
+A	807.84	'Cause I also don yeah , it's depends on the costs and such .	presentation of prototype(s)
+D	807.98	Yep .	presentation of prototype(s)
+D	811.53	Yeah .	presentation of prototype(s)
+A	811.78	But uh , and we have to agree uh upon the exact colours , but may I dunno if that's important , but we'll talk about that later .	presentation of prototype(s)
+A	818.26	Okay , for now this is this is okay .	presentation of prototype(s)
+D	818.89	We will .	presentation of prototype(s)
+A	820.51	Um , the next p y you gonna give a presentation too ?	presentation of prototype(s)
+A	824.57	Uh , I have to see the agenda .	presentation of prototype(s)
+D	826.2	Well , uh yeah , I I'm gonna do something right there , yeah .	evaluation of prototype(s)
+C	826.22	No .	evaluation of prototype(s)
+A	830.23	Detail design .	evaluation of prototype(s)
+D	831.62	We gotta do that on the right the most right-most screen , because the leftmost Yep , that's me .	evaluation of prototype(s)
+A	836.53	Evaluation criteria .	evaluation of prototype(s)
+A	841.66	Okay .	evaluation of prototype(s)
+B	842.94	Okay .	evaluation of prototype(s)
+D	843.61	Alright .	evaluation of prototype(s)
+D	845.27	I will be needing that image , so leave it please .	evaluation of prototype(s)
+D	848.88	Um Go away .	evaluation of prototype(s)
+D	858.68	Right , we're gonna evaluate that design according to a few points .	evaluation of prototype(s)
+D	866.28	Um , we g the four of us are going to do that um together .	evaluation of prototype(s)
+D	871.83	I wanna have a colour over here , come on .	evaluation of prototype(s)
+D	875.24	Right , the remote is not ugly , a bit weird sentence , but the positive things has to be on the left , so I said not ugly instead of ugly .	evaluation of prototype(s)
+D	885.87	Uh , what would you say , we we gotta give points to uh to all of these to evaluate uh that design , and please forget the drawing skills of these guys .	evaluation of prototype(s)
+A	898.21	Okay .	evaluation of prototype(s)
+D	898.38	The remote control is not ugly .	evaluation of prototype(s)
+D	901.47	How do you feel ?	evaluation of prototype(s)
+A	903.24	Yeah , I think four maybe would be appropriate , because it's Yeah , maybe it really depends on taste .	evaluation of prototype(s)
+A	909.4	Uh , I mean it's kind of , our design .	evaluation of prototype(s)
+A	912.23	It's so if maybe a lot of people find it really ugly , you know , o other people find it really cool .	evaluation of prototype(s)
+D	912.6	Yes .	evaluation of prototype(s)
+C	913.46	Yeah .	evaluation of prototype(s)
+D	917.56	Background colour .	evaluation of prototype(s)
+A	918.24	I don't know or uh I don't know how you Casting .	evaluation of prototype(s)
+D	920.38	How do you guys feel ?	evaluation of prototype(s)
+C	920.43	I think I think the the fronts will give it a more uh uh uh less uglier uh side , because you can uh make it in your own yes , you can make it in your own uh more to your own personality or or house style .	evaluation of prototype(s)
+A	921.25	Yeah .	evaluation of prototype(s)
+D	930.56	The different designs .	evaluation of prototype(s)
+D	932.52	Yes .	evaluation of prototype(s)
+B	933.94	Yeah .	evaluation of prototype(s)
+D	934.78	Okay .	evaluation of prototype(s)
+A	937.71	Yeah , but we d we didn't we're we're not planning to use fronts , I believe .	evaluation of prototype(s)
+D	941.73	No , not not fronts , but different designs .	evaluation of prototype(s)
+A	942.74	With a colour a co a colours .	evaluation of prototype(s)
+B	942.84	No , not fronts .	evaluation of prototype(s)
+B	943.72	Different designs .	evaluation of prototype(s)
+C	943.96	Yes .	evaluation of prototype(s)
+A	944.34	Oh , okay .	evaluation of prototype(s)
+D	944.65	And that's still uh uh , yeah , is is uh is a little personal touch , I guess .	evaluation of prototype(s)
+B	944.67	Different colours maybe , yeah .	evaluation of prototype(s)
+A	948.09	Okay , but Oh , maybe we should do three or something that w you know , our Yeah .	evaluation of prototype(s)
+D	950.09	What ?	evaluation of prototype(s)
+D	952.86	Yeah , wha wha what would you uh guys uh think ?	evaluation of prototype(s)
+C	954.18	Or forty .	evaluation of prototype(s)
+D	955.17	Personally .	evaluation of prototype(s)
+D	957.32	Personally .	evaluation of prototype(s)
+B	957.64	We can make it a one .	evaluation of prototype(s)
+D	959.43	Yes , but what is it ?	evaluation of prototype(s)
+C	962.59	I think two or three .	evaluation of prototype(s)
+B	964.79	Mm yeah .	evaluation of prototype(s)
+D	965.66	Guido ?	evaluation of prototype(s)
+B	966.83	I agree .	evaluation of prototype(s)
+D	967.96	Two or three .	evaluation of prototype(s)
+B	968.78	Um , I uh I go for the positive .	evaluation of prototype(s)
+D	969.91	I was I was thinking about three , so I guess three is uh a bit uh oh , what am I doing ?	evaluation of prototype(s)
+B	972.22	So I go for two .	evaluation of prototype(s)
+A	975.71	Uh , I was thinking about four , so I think three is uh Yeah well , let that let's make that a one .	evaluation of prototype(s)
+B	978.0	Okay , three .	evaluation of prototype(s)
+D	983.62	I'll mark it .	evaluation of prototype(s)
+D	985.12	The remote control's uh uh that n makes uh zapping easy .	evaluation of prototype(s)
+B	989.16	Yeah .	evaluation of prototype(s)
+C	990.34	Yes .	evaluation of prototype(s)
+B	990.92	Two .	evaluation of prototype(s)
+D	992.15	Yeah ?	evaluation of prototype(s)
+B	992.31	One .	evaluation of prototype(s)
+B	992.9	One .	evaluation of prototype(s)
+D	993.08	Antek , you agree ?	evaluation of prototype(s)
+C	993.14	Yes .	evaluation of prototype(s)
+B	993.91	Okay yeah , I'll I'll agree .	evaluation of prototype(s)
+C	994.6	Yes .	evaluation of prototype(s)
+D	995.55	Yeah .	evaluation of prototype(s)
+A	995.64	That's one thing for sure .	evaluation of prototype(s)
+D	996.26	You're not Antek .	evaluation of prototype(s)
+B	996.3	I'm the I'm the usability , so Yeah .	evaluation of prototype(s)
+D	997.89	I totally agree .	evaluation of prototype(s)
+D	999.2	The remote control the remote control's relevant buttons are prominently visible .	evaluation of prototype(s)
+C	1004.53	Yes .	evaluation of prototype(s)
+A	1006.14	Yeah , two or a one , I guess .	evaluation of prototype(s)
+B	1006.68	The Well Yeah , well menu Yeah , maybe .	evaluation of prototype(s)
+A	1007.53	It's something we really put work into .	evaluation of prototype(s)
+D	1009.97	Yeah , I yeah .	evaluation of prototype(s)
+D	1011.61	I would say a one because uh every button is uh uh relevant .	evaluation of prototype(s)
+C	1011.65	It's all about the buttons .	evaluation of prototype(s)
+D	1016.84	And our oh yeah , it's a b yeah .	evaluation of prototype(s)
+D	1019.29	Yeah ?	evaluation of prototype(s)
+D	1019.84	Alright .	evaluation of prototype(s)
+D	1021.5	That's a one ?	evaluation of prototype(s)
+D	1022.09	You agree ?	evaluation of prototype(s)
+A	1022.72	Yeah .	evaluation of prototype(s)
+D	1024.19	The remote control hasn't got too much redundant or unneeded buttons .	evaluation of prototype(s)
+D	1027.67	I think we totally succeeded there .	evaluation of prototype(s)
+A	1028.84	But Well maybe a two , because of the menu button or something .	evaluation of prototype(s)
+D	1030.23	Oh Yeah , that's true .	evaluation of prototype(s)
+A	1033.37	And telete Yeah , we don't know if the uh they're necessary .	evaluation of prototype(s)
+D	1033.47	That's true .	evaluation of prototype(s)
+C	1033.49	Also , the the the buttons of the one , the two , the the digits , o they're used uh uh Can yes , three , two .	evaluation of prototype(s)
+D	1038.55	the the yeah , m well , you d you've got a point .	evaluation of prototype(s)
+A	1041.13	I think a two .	evaluation of prototype(s)
+B	1042.67	Yeah , true .	evaluation of prototype(s)
+B	1043.48	Yeah , I agree .	evaluation of prototype(s)
+A	1044.22	Came a long way , but not we didn't not uh No , w w it can also always be more simplistic , but two is yeah .	evaluation of prototype(s)
+D	1044.8	Two or three ?	evaluation of prototype(s)
+B	1046.91	Mm two .	evaluation of prototype(s)
+D	1048.25	Two ?	evaluation of prototype(s)
+C	1048.46	But you can't make a remote control without them , because Yes .	evaluation of prototype(s)
+D	1048.49	Antek .	evaluation of prototype(s)
+B	1051.1	Because we got Well .	evaluation of prototype(s)
+D	1051.48	Nay that that that's true , that's true .	evaluation of prototype(s)
+D	1052.92	They're definitely needed .	evaluation of prototype(s)
+D	1053.97	So we put it on a two ?	evaluation of prototype(s)
+D	1058.42	The remote control has got a really trendy look .	evaluation of prototype(s)
+C	1061.45	Yes .	evaluation of prototype(s)
+C	1062.66	A one .	evaluation of prototype(s)
+D	1064.79	Maarten .	evaluation of prototype(s)
+A	1064.94	Yeah , uh a t I think a two .	evaluation of prototype(s)
+A	1067.53	Yeah yeah , y i it's hard to say from this picture .	evaluation of prototype(s)
+D	1070.01	Yeah .	evaluation of prototype(s)
+C	1070.99	We we've tried to make it uh the the best trendy look uh ever .	evaluation of prototype(s)
+B	1073.71	Yeah .	evaluation of prototype(s)
+D	1075.51	Ever , yeah .	evaluation of prototype(s)
+D	1076.35	Guido .	evaluation of prototype(s)
+A	1078.01	But I do think it's more But I do think that it's more trendy than beautiful .	evaluation of prototype(s)
+B	1078.1	Uh , I will I will make it a three , because uh yeah .	evaluation of prototype(s)
+B	1081.18	I I th Yeah .	evaluation of prototype(s)
+D	1084.65	Yeah , uh I agree .	evaluation of prototype(s)
+C	1084.99	Yes .	evaluation of prototype(s)
+D	1085.6	I agree .	evaluation of prototype(s)
+A	1085.83	So so I think maybe it has to score higher uh on this than on the A th a three .	evaluation of prototype(s)
+B	1087.19	True , yeah .	evaluation of prototype(s)
+D	1088.29	I was planning to give it a two , uh where I give the not ugly uh oh , yeah , that's true .	evaluation of prototype(s)
+D	1095.48	You agree on the two ?	evaluation of prototype(s)
+B	1096.23	Yeah .	evaluation of prototype(s)
+C	1096.68	Yes .	evaluation of prototype(s)
+A	1096.86	I i uh when you compare to the Uh uh what's the difference with Okay .	evaluation of prototype(s)
+D	1099.42	Great .	evaluation of prototype(s)
+D	1100.54	Remote control hasn't got too much redundant or unneeded buttons .	evaluation of prototype(s)
+D	1105.35	Uh , I copied that one .	evaluation of prototype(s)
+D	1107.71	Well , uh forget that .	evaluation of prototype(s)
+D	1110.0	Um Go away .	evaluation of prototype(s)
+D	1114.64	Remote control has got innovative technology implanted .	evaluation of prototype(s)
+B	1118.13	No .	evaluation of prototype(s)
+C	1118.49	No .	evaluation of prototype(s)
+A	1118.68	No .	evaluation of prototype(s)
+B	1119.32	We're not well , maybe the the the on the side .	evaluation of prototype(s)
+C	1120.26	No , not L_C_D_ , so .	evaluation of prototype(s)
+A	1123.08	Yeah , but we uh you mean the rubber stuff ?	evaluation of prototype(s)
+D	1125.91	Yeah , and the light .	evaluation of prototype(s)
+A	1126.91	Yeah , but we have t we have to talk about the lights uh .	evaluation of prototype(s)
+B	1126.94	And the light maybe .	evaluation of prototype(s)
+C	1127.72	But that that's not innovative .	evaluation of prototype(s)
+B	1129.02	But Well , six .	evaluation of prototype(s)
+A	1130.03	And I don't u also it's also really not innovative , it's more No , six .	evaluation of prototype(s)
+D	1130.12	Well , I g It's not seven ?	evaluation of prototype(s)
+C	1130.29	Lights lights are Six .	evaluation of prototype(s)
+A	1135.69	Or seven maybe , yeah .	evaluation of prototype(s)
+B	1136.85	No , six .	evaluation of prototype(s)
+A	1137.96	Or six .	evaluation of prototype(s)
+D	1138.07	Why uh why not a seven ?	evaluation of prototype(s)
+B	1138.84	Six .	evaluation of prototype(s)
+A	1139.47	Yeah , mine is seven .	evaluation of prototype(s)
+C	1140.68	Because we've tried to make it a little bit innovative , but it but it With the lights it it's it's kind of future But still you can retrieve it when it's when it's gone , with the with Yes .	evaluation of prototype(s)
+B	1143.37	Yeah .	evaluation of prototype(s)
+D	1144.86	How ?	evaluation of prototype(s)
+A	1145.25	Uh it's uh depends on the on the maybe No , I think I think actually it's a seven maybe , but there's nothing innovative about it .	evaluation of prototype(s)
+D	1149.77	Yeah , you think the lights are innovative ?	evaluation of prototype(s)
+D	1153.8	Well , it's n true .	evaluation of prototype(s)
+D	1155.02	Uh , I agree , m but I'll Yeah , you you didn't draw the docking station .	evaluation of prototype(s)
+B	1159.45	Innovative in generally or just f original for A docking station is innova Okay .	evaluation of prototype(s)
+A	1164.58	N no no , t .	evaluation of prototype(s)
+D	1165.01	Yeah , it it's I think I think with its I think more m Uh that that's n No uh , well , the agenda says evaluate now , so I think we It's it's a six .	evaluation of prototype(s)
+C	1165.27	The docking station is a is a little bit innovative .	evaluation of prototype(s)
+A	1166.81	Yeah , I mean the dock station , but but uh , I think the the docking station , it's gonna be a kind of a problem .	evaluation of prototype(s)
+C	1168.9	It's a part of the remote .	evaluation of prototype(s)
+C	1173.63	And with the speaker on the there's also a speaker .	evaluation of prototype(s)
+A	1174.21	But Well , let's leave it open for uh for us later to see what , because we have to reevaluate anyway .	evaluation of prototype(s)
+A	1180.43	Well I i yeah .	evaluation of prototype(s)
+C	1180.88	Okay .	evaluation of prototype(s)
+A	1181.53	No ?	evaluation of prototype(s)
+A	1185.0	Okay , for now it's a six or a seven uh , sev six maybe , because Yeah , but I don't I don't know if it's very inno yeah .	evaluation of prototype(s)
+B	1187.64	Six .	evaluation of prototype(s)
+C	1188.28	But the retrieval or the Yes , how would you innovate a remote control more ?	evaluation of prototype(s)
+D	1188.61	That m f Yeah , for the retrieval function .	evaluation of prototype(s)
+D	1192.38	Yeah .	evaluation of prototype(s)
+D	1192.71	I think that's very innovative for a remote control .	evaluation of prototype(s)
+A	1194.39	Yeah , v Yeah , more through uh like function T_V_ functionalities and no no , you know what I mean .	evaluation of prototype(s)
+C	1202.0	To put it on your head .	evaluation of prototype(s)
+A	1205.27	You have must be innovative technology for remote controls , but more in how you control stuff , not in how you find your yeah .	evaluation of prototype(s)
+D	1208.91	Yeah sure , but But I d I definitely don't think it's a five , but Remote control is easy to use .	evaluation of prototype(s)
+A	1212.48	Yeah , it's that's that's think about it la later on and uh Yeah , as a a one or a two ma uh at least .	evaluation of prototype(s)
+C	1219.8	Yes .	evaluation of prototype(s)
+B	1220.77	Yeah , a two .	evaluation of prototype(s)
+C	1221.6	Yes .	evaluation of prototype(s)
+D	1222.28	I think a two .	evaluation of prototype(s)
+D	1222.94	Yeah ?	evaluation of prototype(s)
+A	1223.29	Yeah , it's good .	evaluation of prototype(s)
+B	1225.99	More two .	evaluation of prototype(s)
+D	1226.06	Come on .	evaluation of prototype(s)
+D	1226.78	The remote control hasn't got uh .	evaluation of prototype(s)
+A	1229.29	No , I would have seen that one before .	evaluation of prototype(s)
+A	1231.59	Oh , you skipped one uh Uh , here .	evaluation of prototype(s)
+D	1232.87	I've just filled uh Go away .	evaluation of prototype(s)
+C	1236.51	You like the buttons .	evaluation of prototype(s)
+D	1238.03	I found twelve questions so much , but it still is ten .	evaluation of prototype(s)
+A	1241.34	Remote control will be bought by Yeah .	evaluation of prototype(s)
+D	1243.15	It will be bought by people under the age of forty .	evaluation of prototype(s)
+C	1245.92	Yes .	evaluation of prototype(s)
+B	1246.22	Yes .	evaluation of prototype(s)
+A	1246.52	Definitely .	evaluation of prototype(s)
+C	1248.17	In in and comparing with uh people of th of the age above ?	evaluation of prototype(s)
+A	1248.22	Well Uh , just in general .	evaluation of prototype(s)
+D	1251.24	No no no .	evaluation of prototype(s)
+D	1252.04	No , just if they if they buy it .	evaluation of prototype(s)
+A	1253.94	Yeah , a two .	evaluation of prototype(s)
+C	1254.39	We don't know .	evaluation of prototype(s)
+A	1255.83	Yeah , but I think I think two .	evaluation of prototype(s)
+C	1255.83	But Yes , two , but only in c when you compare it with with elderly .	evaluation of prototype(s)
+D	1255.99	Yeah , what do you think ?	evaluation of prototype(s)
+B	1256.9	Yeah , I think two , yeah .	evaluation of prototype(s)
+B	1258.93	I agree .	evaluation of prototype(s)
+D	1259.33	Antek ?	evaluation of prototype(s)
+B	1259.6	Two .	evaluation of prototype(s)
+A	1264.35	Uh , that is not the question .	evaluation of prototype(s)
+D	1264.61	No , that's no comparison .	evaluation of prototype(s)
+A	1266.28	It's just w it will be bought by people under forty .	evaluation of prototype(s)
+A	1270.16	Yeah , you can yeah , you can be very picky about it .	evaluation of prototype(s)
+D	1272.23	And I don't mean two people .	evaluation of prototype(s)
+C	1272.85	This is just guessing .	evaluation of prototype(s)
+A	1274.12	Ah yeah , just make it we'll make it a two .	evaluation of prototype(s)
+C	1275.23	Make it a two .	evaluation of prototype(s)
+D	1275.43	W w Right , the rem The remote control has recognisable corporate image , colour , logo or slogan .	evaluation of prototype(s)
+C	1277.55	When it succeeds , uh it can get a two , mu A logo .	evaluation of prototype(s)
+A	1284.42	Oh no .	evaluation of prototype(s)
+A	1286.92	Yeah .	evaluation of prototype(s)
+A	1288.02	Yeah , you have make an slogan is quite obvious .	evaluation of prototype(s)
+B	1288.37	We don't have the slogan though .	evaluation of prototype(s)
+D	1292.1	Oh , the slogan .	evaluation of prototype(s)
+A	1293.2	Oh the oh sorry , no , not not the slogan .	evaluation of prototype(s)
+D	1293.65	Can we see the slogan ?	evaluation of prototype(s)
+B	1294.87	The logo .	evaluation of prototype(s)
+A	1295.05	Yeah , you can put that on the side if if we would like to .	evaluation of prototype(s)
+B	1297.61	Underneath it or something .	evaluation of prototype(s)
+C	1297.77	Yes , uh encrypted uh with Yes .	evaluation of prototype(s)
+A	1301.04	Yeah , and I will I th still think it's gonna be a two or a three .	evaluation of prototype(s)
+D	1301.85	Are we gonna do that ?	evaluation of prototype(s)
+B	1304.52	A three .	evaluation of prototype(s)
+A	1305.34	Maybe a three this time .	evaluation of prototype(s)
+B	1305.39	Three .	evaluation of prototype(s)
+B	1306.69	Yeah , a three .	evaluation of prototype(s)
+D	1307.61	Three ?	evaluation of prototype(s)
+D	1308.49	I agree .	evaluation of prototype(s)
+D	1310.46	Because of the slogan Remote control's got a basic design intended uh for novice users .	evaluation of prototype(s)
+A	1311.84	And uh Uh , it's a one or a two .	evaluation of prototype(s)
+B	1316.01	Yeah , two .	evaluation of prototype(s)
+C	1317.58	Yes .	evaluation of prototype(s)
+D	1318.3	Two ?	evaluation of prototype(s)
+A	1318.65	Yeah , make it a two .	evaluation of prototype(s)
+B	1318.79	Two .	evaluation of prototype(s)
+D	1319.45	Two .	evaluation of prototype(s)
+D	1320.2	Alright .	evaluation of prototype(s)
+D	1322.58	We gotta add up the scores now to see our total average .	evaluation of prototype(s)
+D	1327.11	Four , five , seven , nine .	evaluation of prototype(s)
+D	1330.49	Forget that .	evaluation of prototype(s)
+D	1331.35	Fifteen , seventeen , twenty one , twenty four , twenty six .	evaluation of prototype(s)
+D	1337.31	Twenty six .	evaluation of prototype(s)
+D	1341.82	It's a two point six .	evaluation of prototype(s)
+A	1345.68	It's not that bad .	evaluation of prototype(s)
+D	1346.29	Alright , we yeah .	evaluation of prototype(s)
+A	1347.14	Yeah , and that's mostly the inno when we uh score higher on innovative technology , we would score two , which is uh quite a great score .	evaluation of prototype(s)
+D	1354.19	Yeah .	evaluation of prototype(s)
+D	1355.17	True .	evaluation of prototype(s)
+A	1356.61	Okay .	evaluation of prototype(s)
+A	1357.65	Uh , this is was uh the evaluation ?	evaluation of prototype(s)
+D	1360.21	This was my evaluation .	evaluation of prototype(s)
+A	1361.15	Because I I still think that the most important part of this meeting still has Yeah .	evaluation of prototype(s)
+D	1361.52	So We did a pretty nice job until now .	evaluation of prototype(s)
+D	1368.33	Um , is this your Whatever .	evaluation of prototype(s) agenda/equipment issues
+C	1370.91	Is there something after this uh meeting ?	agenda/equipment issues
+D	1374.12	Well , I think we gotta fill out another questionnaire .	agenda/equipment issues
+C	1374.31	Or Okay .	agenda/equipment issues
+B	1375.21	No .	agenda/equipment issues
+B	1377.23	Okay , yeah .	agenda/equipment issues
+A	1385.51	Still opened or uh Yeah .	agenda/equipment issues
+D	1388.09	Yeah .	agenda/equipment issues
+A	1391.53	Okay , finance .	costing
+A	1392.4	Because um I received uh a spreadsheet .	costing
+B	1395.44	Shoot .	costing
+D	1395.97	A five .	costing
+D	1396.7	A five .	costing
+A	1399.21	Yeah , but I uh actually don't need this presentation , I guess .	costing
+A	1402.76	Oh .	costing
+D	1404.21	Doesn't matter .	costing
+A	1406.06	I'm gonna open the spreadsheet and we're gonna work this out together , because I didn't really fin uh I have a .	costing
+A	1415.27	Didn't really finish it .	costing
+A	1417.8	Well , we uh We'll see .	costing
+A	1418.84	We'll stumble upon some problems .	costing
+D	1423.02	We probably will .	costing
+A	1424.0	I probably have already opened it here .	costing
+A	1432.06	try it again .	costing
+A	1434.67	First of all , the mm all the docking station and costs and such are not included in this list .	costing
+A	1444.47	But let's let's st start with beginning .	costing
+A	1446.12	We include one battery .	costing
+A	1447.99	I i uh I'll explain its Uh , the the components are listed over here .	costing
+A	1452.15	Uh , price is given .	costing
+A	1453.67	We um yeah , we we uh indicate the amount of components of the specif specific component , how much we need of them .	costing
+D	1454.28	The amount , yeah .	costing
+A	1461.31	And then uh , we'll uh calcula Don't watch the number yet .	costing
+A	1464.32	I don't know if it's filled in properly .	costing
+A	1467.25	Okay , we need one battery .	costing
+A	1468.43	One battery .	costing
+A	1468.98	I think one battery is enough .	costing
+C	1469.74	Yes .	costing
+A	1471.52	We don't need kinetic , solar cells , hand dynamo .	costing
+A	1474.54	A s okay , this this is a p first problem .	costing
+A	1476.9	Uh , I think we should know how many simple chips , regular chips Okay .	costing
+C	1483.28	Uh it's it's one one chip , but but you have to choose one from it .	costing
+A	1489.71	But Where did we find this information ?	costing
+C	1490.14	The simple chip is e enough I I think , but with the lights with the lights and the retrieval , it can be uh No , uh I Yes , my my my uh The the email I got said uh simple chip , but when we put in the speaker and the retriever uh device , it will uh cost a a bit more , like I think the advanced chip maybe .	costing
+D	1493.18	I don't know I haven't got an idea on on which we need to use , really .	costing
+A	1497.31	Was it I think it was uh your job in the first uh meet Uh , f your first presentation to make this clear , but then you had some t time problems .	costing
+B	1500.85	No .	costing
+D	1508.45	Yeah .	costing
+A	1510.44	But do you th you do you know what chip we need ?	costing
+D	1521.99	Yeah .	costing
+D	1530.88	And how do you know ?	costing
+D	1531.62	I mean , you got that email .	costing
+C	1533.01	Bec No , the they didn't know about a retriever or a speaker uh in it .	costing
+D	1533.77	Did it point out what to use them for ?	costing
+A	1534.39	Maybe you can uh look it up right now .	costing
+A	1538.61	Okay , but okay .	costing
+A	1539.7	When we don't when we leave the uh retriever and such aside , what then it would be a simple chip .	costing
+C	1543.87	Then it's a simple chip .	costing
+A	1545.92	And with the retriever , it would be an advanced chip .	costing
+C	1549.48	Yes , I I I s I That will be enough for future uh recommendations .	costing
+D	1549.61	Alright , well , point out the advanced chip for now , I guess .	costing
+A	1553.1	Okay .	costing
+A	1554.44	Yeah , but it will it will it will be cause a lot of problems .	costing
+A	1559.28	The sample sensor sample speaker .	costing
+A	1561.47	What is it m is that the speaker we were t I don't know what it is .	costing
+C	1564.94	I don't know it uh either .	costing
+D	1566.03	I don't know .	costing
+A	1571.48	Okay , we went for the double-curved case made out of plastic and rubber .	costing
+C	1575.15	Yes .	costing
+A	1580.27	And with a special colour .	costing
+A	1582.31	I guess that's what we were Yeah , I don't know about the special colour , but I think w uh Yeah , I think we uh we have special colours .	costing
+B	1583.65	Well , special colour .	costing
+C	1586.45	Otherwise , you get uh a standard uh plastic colour .	costing
+D	1586.85	I don't know if it's very special .	costing
+B	1586.97	I don't Mm okay .	costing
+C	1590.89	Standard rubber .	costing
+D	1591.88	Alright , that's okay .	costing
+A	1593.16	Okay , then the push-button , I was just counting them .	costing
+C	1593.26	St Yes .	costing
+A	1595.76	Uh , I think you have to indicate the amount of push-buttons we want to use , isn't it ?	costing
+B	1601.04	Whoa , it's a little That's huge .	costing
+A	1602.38	Well that's bit of a problem , because I re but I really don't understand that , because I can imagine a remote control with far more push-buttons , and it wouldn't be possible according to this uh sheet .	costing
+B	1613.05	No .	costing
+B	1614.03	We have the simplest buttons .	costing
+D	1615.35	No .	costing
+C	1617.49	No , it's only uh when you use push-buttons , it will cost that much .	costing
+A	1617.97	Yeah .	costing
+D	1622.17	I don't think so , because it says amount .	costing
+C	1622.74	If you use a scroll-wheel Maybe it's the kind of push-buttons .	costing
+A	1623.32	Ah .	costing
+A	1624.7	Yeah , it wouldn't Fill in the number of components you plan to use in the and the total cost I don't know .	costing
+D	1625.17	The the the yellow row is the amount of To n that's total of four buttons .	costing
+A	1630.97	I And I count them like this .	costing
+C	1632.6	You can have f four kind of push-buttons .	costing
+C	1635.85	Rubber .	costing
+B	1635.87	Uh , one til nine .	costing
+C	1636.48	You can have uh Different , yes .	costing
+B	1636.92	Is that one or is that nine buttons ?	costing
+A	1642.36	One two three uh four five six seven eight nine ten eleven twelve and thirteen .	costing
+B	1645.89	Yeah .	costing
+A	1648.05	Because Oh , this is oh , this is one , okay .	costing
+A	1650.34	Twelve , okay , then it would be eighteen , because uh , I uh rated them as uh um as uh uh uh separate buttons .	costing
+A	1659.41	Yes .	costing
+A	1660.69	And plus these two , f uh plus the mute button , and it's will be uh eighteen .	costing
+D	1660.92	I think that Eighteen .	costing
+D	1666.69	One two three four five , si Fifty cents for one single stupid button .	costing
+C	1668.51	Why is that so uh expensive .	costing
+A	1670.99	Yeah , I don't understand .	costing
+A	1672.02	Y I do I don't get the point , because it's would be s relatively so expensive , just these m small buttons .	costing
+B	1680.19	Is it cents , the the the fifty cents a button ?	costing
+C	1685.51	So , whe when you so then it It's eighty percent of the price of the of the amount of When you have the same amount of button , you have to put in wi in your carton .	costing
+B	1685.9	No way .	costing
+A	1687.39	Well , okay , well well let's make it just one .	costing
+A	1691.13	Here , now it's now it's already s shall we just give our own interpretation to , because else we would really have a problem .	costing
+D	1692.99	Yeah , exactly .	costing
+D	1694.05	Yeah .	costing
+A	1700.88	It would be impossible to make it And and less buttons than this isn't possible .	costing
+D	1702.23	I can't I I I couldn't understand it if it was fifty cents per uh uh per button .	costing
+B	1702.82	It's way No , no no .	costing
+D	1708.05	Really .	costing
+C	1710.93	Board .	costing
+D	1711.94	Yeah , yeah , No , really .	costing
+C	1711.95	And then throw it But whe I've seen one uh one remote control with only the pu yeah , only with uh page up , page down and volume , but but Uh , it's it's still for little children .	costing
+A	1714.13	This is the most simple yeah , it is possible , but I've never seen one before .	costing
+A	1720.78	Yeah , without the numbers .	costing
+A	1722.81	That's possible .	costing
+B	1725.0	Yeah , uh That's still four .	costing
+A	1725.17	Yeah , we could skip the numbers .	costing
+D	1726.57	Yeah , but I d I wouldn't want to own that .	costing
+D	1728.99	Really .	costing
+C	1731.53	They can handle that remote control , but but it isn't fo Yes , it's for it's li uh it's just for a little Otherwise , it Otherwise it would be the Special form also , it says .	costing
+D	1732.92	Yeah .	costing
+A	1733.53	Then uh , teletext would also be im impossible .	costing
+B	1737.71	Yeah , that's no option , that's no option .	costing
+A	1738.58	Okay , we'll we'll just okay .	costing
+A	1740.73	But then still , when we there's no room for a docking station or something .	costing
+A	1745.58	Tha w Le let's see th we have uh oh yeah , button supplements .	costing
+A	1748.27	We'll give the buttons special colour .	costing
+A	1750.22	We'll give them a special form .	costing
+A	1751.4	Uh , I think we should mark the special form thing , because it this will be some special forms incorporated in these big buttons , I guess .	costing
+B	1759.18	A special colour , why a special colour ?	costing
+A	1761.32	Because the buttons will be uh d will be matching colour between the buttons and the rubber surroundings .	costing
+B	1763.94	But wha what s what special ?	costing
+A	1766.68	I think that's the what they mean by a special colour .	costing
+B	1767.01	Okay , yeah .	costing
+D	1768.82	I don't think the special form is really true .	costing
+B	1768.89	Uh , yeah .	costing
+A	1769.44	I think all the special colour things have to be marked over here , because that's what we were planning to do , making it Yeah , special material r also , because i has rubber .	costing
+D	1777.95	Is it ?	costing
+A	1780.7	And the buttons have to be rubber .	costing
+C	1783.23	What is the normal material ?	costing
+D	1785.97	Yeah , I dunno .	costing
+B	1786.24	Plastic .	costing
+C	1787.88	Sh yeah .	costing
+B	1787.96	Plastic , I think .	costing
+C	1789.38	Classic ?	costing
+B	1790.11	Plastic .	costing
+D	1790.28	Plastic .	costing
+C	1790.66	Oh , plastic .	costing
+A	1791.67	'Kay , but the problem now is that the There's no such thing as a docking station in this list , but we can all imagine that it would be impossible to make a docking station for thirty cents .	costing
+B	1801.43	Yeah .	costing
+C	1805.74	But we can uh sell the remote control and uh sell the docking station yes .	costing
+A	1811.24	Separately .	costing
+B	1811.95	Se no no no .	costing
+C	1812.77	And and but we don't have to tell it , but what we can say of can um almost make it impossible to buy a remote control without the docking station .	costing
+A	1824.42	Yeah , yeah .	costing
+A	1825.72	Yeah , but I do like the idea , but we yeah .	costing
+A	1828.1	It uh but it then the docking station isn't relevant for this project anymore , but we can but then you still have to use we have to find out what chip we u need .	costing
+D	1831.71	No .	costing
+C	1832.38	No , but you otherwise you can't retrieve it .	costing
+D	1838.31	Yeah , I really don't get it .	costing
+D	1839.34	I mean if it's a simple chip , then we suddenly got two Euros and thirty cents .	costing
+A	1841.23	I think we can agree on this .	costing
+A	1842.4	I I think the special colour thing has to be uh marked .	costing
+A	1846.94	'Cause I think we uh Yeah , I think that's what what what they uh mean But can we find out uh about uh this chips ?	costing
+D	1847.67	Yeah , yep .	costing
+C	1850.52	But for two Euros and thirty cents , we uh we don't get a docking station .	costing
+D	1851.37	I think so , too .	costing
+D	1854.73	Oh , I don't know .	costing
+A	1858.4	Because when we don't need a d a docking station , then probably we also have only we also need a simple chip .	costing
+B	1865.15	And then we can get a docking station .	costing
+A	1866.75	And maybe then we can do something extra .	costing
+C	1869.5	For For two Euros .	costing
+A	1869.65	Oh , n uh oh , still oh , it's gonna get more expensive with .	costing
+A	1872.9	Two .	costing
+A	1873.81	Then we have some money left .	costing
+A	1875.13	We can put then We can put a scroll-wheel on it or something .	costing
+A	1880.99	Yeah , well who knows .	costing
+D	1882.01	Uh why ?	costing
+D	1882.8	I mean i i if you if it would cost two Euros , that had a total a total thing , it would be nice too , I mean uh we're not gonna add uh a trip to Hawaii to it .	costing
+A	1882.82	Or a little bit of tin titanium .	costing
+B	1890.5	But what what can we do But uh what can we do with the simple chip and what's difference with a regular chip and a advanced chip ?	costing
+A	1891.7	Yeah , or we can ki do the kinetic cells .	costing
+A	1893.75	That's also maybe an idea .	costing
+A	1897.92	Yeah that's what then what he has to find out .	costing
+A	1899.75	Maybe you can uh find it in your email right now , then we know then we exactly know what it will cost us .	costing
+B	1903.45	If if i Regular chip and because we don't have uh special functions to use uh in advanced chip , for example .	costing
+A	1906.55	Maybe is that that's nice to know .	costing
+A	1914.34	Yeah , bu bu but when we yeah , but when we skip when we um when we don't use the do we're not gonna make the docking station , then we still yeah , we need something else maybe to make it kind of special , because that was our our special feature .	costing
+D	1916.66	I like the hand dynamo part .	costing
+D	1931.34	We can make a plain docking station for two Euros .	costing
+B	1932.22	Yeah .	costing
+B	1933.76	We'll go back uh tomorrow .	costing
+D	1933.89	I mean Wi wi without recharge Yeah , but but we can make a docking station for two Euros uh if you don't put the recharge function in it .	costing
+A	1934.71	Yeah , okay , you can also do that , but maybe It still is a special remote control cons uh you know , wi its form is special and material .	costing
+D	1948.96	I mean , it has a shape .	costing
+A	1952.43	Yeah , but for two Euros , then we have still maybe we have to use the advanced chip , then two Euros isn't even possible .	costing
+D	1952.78	Of course it has a shape , but i i Why should that not be possible ?	costing
+A	1963.19	Yeah , then because then we'd thirty cents left .	costing
+D	1967.11	No , for for the uh for the docking station if you do if you choose the simple chip .	costing
+A	1971.97	Yeah , but yeah , I don't know , because maybe d uh yeah , we have to find out with the simple chip .	costing
+B	1976.27	That's the question .	costing
+B	1977.2	If we do i do we need an advanced chip , or is it okay f No .	costing
+D	1980.49	Yes .	costing
+A	1980.59	Yeah , and w and and we uh need f and what is this ?	costing
+C	1981.49	It isn't in my information , so I don't know it uh either .	costing
+A	1983.13	Sample sensor sample speaker .	costing
+C	1985.82	It isn't in my information , I uh I I've got a schematic view of the remote control , but nothing about uh advanced chips or Uh I've got here in uh I will put a I will put a page on it .	costing
+A	1999.83	You can look at it for s presentation .	costing
+A	2005.29	S technical functions ?	costing
+B	2008.46	No no , they were uh mine , yeah .	costing
+A	2010.15	Oh .	costing
+C	2014.04	When my mouse works again .	costing
+A	2021.7	Oh , oh oh .	costing
+A	2026.94	Hey .	costing
+A	2028.83	Oh .	costing
+C	2030.59	My mouse is uh Yes .	costing
+D	2032.19	Dead .	costing
+D	2034.14	Reanimate it .	costing
+C	2034.85	Oh .	costing
+B	2035.1	Died .	costing
+C	2038.36	Ah , I've got it .	costing
+C	2039.94	I will put uh my email on the the network .	costing
+D	2054.99	What the hell are these ?	costing
+C	2055.91	It's on it .	costing
+D	2059.03	Oh , whatever .	costing
+B	2061.51	Yeah , it's open .	costing
+A	2080.19	Mm .	costing
+A	2083.17	I don't think here it's in here already .	costing
+B	2083.8	It's circuit board .	costing
+B	2104.86	It's only just basics for for At the end circuit there is an infrared LED .	costing
+A	2106.22	It's nothing about s yeah .	costing
+C	2109.9	Yes .	costing
+D	2110.88	This isn't helpful .	costing
+A	2112.29	No .	costing
+A	2115.5	But i in the presentation of yours , there was also something about different components .	costing
+A	2120.41	Which one was it ?	costing
+B	2121.5	Components design .	costing
+A	2122.19	Functional requirements ?	costing
+C	2124.32	Um Yes , that was mine .	costing
+D	2125.39	No , that was my presentation .	costing
+B	2126.14	Components design maybe .	costing
+B	2128.66	N on top .	costing
+A	2129.93	Ah .	costing
+A	2131.5	Ah yes , it was the second one .	costing
+C	2133.53	But that was my second Mm But this is the same uh This is o only the possibilities .	costing
+A	2135.29	Yeah , it was your second your first presentation .	costing
+D	2135.31	It's already open .	costing
+D	2138.15	It's at the bottom .	costing
+B	2140.04	Working design .	costing
+A	2140.43	Sorry ?	costing
+D	2141.29	It's uh at your task bar .	costing
+B	2143.63	Yeah , but it's the the other one .	costing
+D	2146.26	Oh .	costing
+A	2147.64	Uh , this is n this is not this n that's not the right one .	costing
+B	2147.64	Was it working design or components design ?	costing
+D	2148.35	Sorry .	costing
+A	2151.61	I don't oh .	costing
+D	2152.64	Okay , sorry .	costing
+A	2156.99	No , this is the other one .	costing
+A	2158.87	Or maybe something is uh maybe there's something abo in in these Here .	costing
+B	2165.27	Chip set .	costing
+C	2175.07	Yeah .	costing
+C	2176.49	We can use a simple , a regular , or advanced chip .	costing
+D	2180.08	Yeah , nice .	costing
+B	2182.11	The display requires an advanced chip .	costing
+D	2182.17	I it doesn't say anything .	costing
+A	2183.19	You know that a push-button requires a simple chip , but a scroll-wheel , it it me requires Okay , so we only need a simple chip .	costing
+C	2187.22	Ah , okay .	costing
+B	2190.79	Requires .	costing
+C	2193.05	With the light .	costing
+B	2195.2	Little lights .	costing
+B	2196.45	Yeah , but that that's just the same as the the LED .	costing
+A	2199.12	No no , that's just a simple chip .	costing
+D	2201.81	That's not needed .	costing
+A	2202.27	A scroll-wheel it s uh only states that a scroll-wheel requires a regular chip , and that a display requires an advanced chip .	costing
+A	2209.28	So , we don't need any of them .	costing
+D	2209.94	A display uh is , of course , uh for showing letters .	costing
+C	2212.27	L_C_D_ .	costing
+D	2213.57	For showing text .	costing
+B	2214.49	Yeah .	costing
+D	2214.86	I don't think that uh just a l a little light Yeah , I agree .	costing
+B	2216.12	No .	costing
+B	2220.01	I think uh the uh normal uh simple chip will be okay .	costing
+A	2223.82	And what's the sample sensor slash sample speaker ?	costing
+C	2230.35	Maybe you can say against the remote uh page uh f uh page up , page down .	costing
+B	2234.12	Yeah .	costing
+D	2236.04	Yeah , I guess so too .	costing
+B	2237.6	Yeah , true .	costing
+D	2239.51	Next channel .	costing
+B	2239.54	Well , that's not too what we want .	costing
+D	2241.59	No .	costing
+D	2242.65	Well , we might want it , but Yeah .	costing
+A	2245.67	Okay .	costing
+C	2246.89	All in twelve Euros .	costing
+A	2247.83	Back to the costs .	costing
+C	2250.55	Twelve Euros and fifty cents .	costing
+A	2252.79	So we're gonna use the simple chip .	costing
+B	2253.04	So , simple chip is okay .	costing
+D	2255.17	Great .	costing
+D	2256.2	Delete .	costing
+D	2256.95	Yeah .	costing
+C	2257.27	And the lights .	costing
+C	2258.04	Where uh are the lights ?	costing
+B	2259.31	Yeah , lights , yeah , there's no category .	costing
+D	2262.02	Well , there're three , I guess .	costing
+A	2267.53	Nah , there is some money left to be spent .	costing
+B	2270.46	Can we do it wi within two two Euro ?	costing
+D	2271.5	I think we can make a docking station .	costing
+A	2273.18	Okay , but what we have to think about now is that is is it still a special remote control ?	costing
+D	2274.09	Yeah .	costing
+A	2279.25	But I mean it isn't it hasn't got any innovative technology , we aren't gonna apply any uh innovated innovative te technology anyway , I think .	costing
+B	2289.11	Mm-hmm .	costing
+A	2289.35	I don't I don't see any possibility to do so , because it would wouldn't fit our defi design philosophy .	costing
+B	2294.08	But it's original .	costing
+A	2296.27	But what w is there some extra maybe I think maybe the kinetic thing is something .	costing
+D	2296.34	No , that's true .	costing
+A	2303.01	Instead of the rechargeable the rechargeable thing was something to um know , so y so people wouldn't have to worry about their batteries anymore .	costing
+D	2310.24	M bu Or the hand dynamo dynamo Yeah .	costing
+A	2312.75	Maybe we if we put the kinetic thing in it Yeah , you leave the p yeah , I know , but still I they will think about that .	costing
+C	2313.93	But but sometimes you put a Kinetics aren't uh nowadays only used in watches and that's because you're always walking .	costing
+A	2320.14	I mean if you u The uh it's made for s people well , the they don't if it was uh uh r useless technology , they wouldn't put it uh as a possibility .	costing
+C	2331.21	Uh solar cells are useless .	costing
+A	2331.83	And i it it th th the the target the target uh group are people who zap regularly and throw with their remote control as a matter of speaking .	costing
+A	2343.35	Because I think it when when there w was a remote control where it was useful to have a kinetic uh uh power source , then it would be this one .	costing
+A	2353.14	Because it's one it gets thrown around thrown around a lot and it gets used a lot Hey that maybe that's cool that's a cool thing about it , you know .	costing
+D	2362.3	Yeah , but but if we ca I don't know if Five minutes .	costing
+A	2364.22	You don't use batteries .	costing
+A	2365.16	I've never seen it before in a remote control .	costing
+B	2369.58	But then we could make a docking station .	costing
+A	2374.0	No , we we we can't make a docking station anyway .	costing
+D	2377.07	That's not true .	costing
+A	2378.26	Yeah , we can als or uh also m we we can make one we can still make Yeah , but be serious , then uh the docking station will be a fifth of the price of the remote control .	costing
+D	2380.28	We can make a docking station for two thirty .	costing
+B	2380.58	Wow , w why no li Look at now , we got two two thirty left .	costing
+D	2384.79	Two thirty .	costing
+C	2384.8	Fo for a docking station .	costing
+D	2386.57	We can make a docking station .	costing
+B	2386.82	Ca can't we make a docking station of that ?	costing
+D	2388.21	Sure .	costing
+C	2388.65	With a cable , with uh buttons on it , with retrieval uh device in it .	costing
+D	2391.23	Sure .	costing
+B	2393.3	I don't know .	costing
+D	2393.93	The power device is is i i is very cheap .	costing
+D	2396.35	That's just a regular uh power cable and whatever .	costing
+C	2399.95	Wi with a button to wi with a button to retrieve it , so it will beep .	costing
+B	2401.04	Well , we we uh Yeah , then we don't have any innovation things .	costing
+D	2403.8	So .	costing
+C	2407.28	Uh , so it's uh wireless technology .	costing
+D	2407.96	Yeah .	costing
+A	2409.37	Yeah , but we uh we don't inc we haven't looked at the these costs of the speaker and other stuff .	costing
+A	2417.75	I don't think it's realistic for you to do so .	costing
+D	2420.33	Well then it's a useless project .	costing
+C	2422.91	Look at the case , the case the case of of uh of uh No , then we have to sell it for thirty Euros .	costing
+A	2423.44	Oh , because we We well look at all the special stuff we have .	costing
+A	2429.83	Colour a the colours are special , the form is special .	costing
+A	2432.66	It th this is whole concept .	costing
+A	2434.88	Uh maybe it with the kinetic thing , I think we could do uh do a compromise uh with the kim kinetic thing .	costing
+D	2434.92	Can't we uh Can't we say fifteen Euros ?	costing
+D	2442.06	No , sta yeah I mean No .	costing
+A	2442.66	Uh , no .	costing
+B	2448.19	No , we only make less profit of it .	costing
+C	2448.45	It's the Maybe we can uh can do it both .	costing
+D	2451.31	You can sell for twenty seven and a half .	costing
+D	2454.35	Then you make as much profit as you would with twelve and a half production costs .	costing
+B	2456.11	No .	costing
+A	2459.31	Yeah , I don my suggestion is to just forget about the whole docking station thing and make it uh like a Uh uh I I I I still fee I also feel this concept of making it kinetic , because of the you know , it g it gives something dynamic to the remote control .	costing
+D	2472.96	I don't think No .	costing
+C	2475.5	Maybe we can do it both uh in the in the in the remote .	costing
+C	2478.97	Battery and kinetic .	costing
+A	2481.77	No , that wouldn't n no .	costing
+D	2483.87	Thirteen twenty .	costing
+A	2488.01	Yeah , and it is also not a good it's not you have to really do it only kinetic , you don't want it to think about batteries anymore .	costing
+D	2489.73	And I think only Yeah , but only kinetic , then you gotta You you gotta throw uh throw it through the room like twenty times an hour , really .	costing
+C	2492.96	Yes , but when it's then when it then you have to shake it uh and all when it's when it's empty .	costing
+A	2494.88	No no .	costing
+A	2498.51	Yeah , it's great .	costing
+A	2502.43	No no no .	costing
+A	2503.52	No no , this is very sophisticated technology technology .	costing
+A	2506.48	When you use it your remote like once a day , or maybe even less i i it It We can make it yeah no .	costing
+C	2506.65	You asked for three d No , that's n that's not true .	costing
+C	2512.17	Uh , a watch is uh kinetic because you walk all the time .	costing
+D	2512.4	No .	costing
+A	2516.23	Becau be but a remote control gets why do they state that this technology can be used if it Yeah , m but a w uh uh n uh a calculator also works on r on solar cells .	costing
+C	2520.36	Yes , solar cells are also stated .	costing
+C	2527.05	Why don't we use solar cells then ?	costing
+A	2529.99	Because I think the d whole dynamic part , do you know , appeals to me qui uh thinking of our design philosophy , you know , with the rubber parts and uh sturdiness of the thing , and y when you move it around a lot , then people find the idea funny that when I move my remote control around and Yeah , but you don't have to .	costing
+C	2545.71	That's true .	costing
+D	2546.75	Yeah , it's funny for a week .	costing
+D	2547.78	I guess something like that , where you have to move it around very frequently , is demotivating .	costing
+A	2555.84	Trust me .	costing
+A	2556.28	The idea of this technology is that you don't think about it , it just happens .	costing
+D	2560.43	No , I I don't move my uh my remote control very much , seriously .	costing
+A	2562.67	Okay , then we d Okay , well y we don't have to do it , but what that would just have a lack of key features , you know .	costing
+C	2562.71	Oui .	costing
+A	2568.25	You m have to put something on your box .	costing
+A	2570.72	You have to make people buy it and uh We can really can do the docking thing , uh it's not yeah , uh we can do it , but it's would be a easy way out .	costing
+C	2578.87	You can do it for fifty cents .	costing
+D	2582.68	Well , we've got more than fifty Cents .	costing
+C	2584.59	The c The case the case alone is is is uh the case alone for uh remote control is at least one Euro .	costing
+A	2585.08	Okay , but we have to grou to agree upon something , because uh we only have a minute left or so .	costing
+C	2594.04	Then we have one Euro thirty for the whole docking station .	costing
+A	2596.35	No no , it's not possible .	costing
+A	2598.75	Okay , w b we can s we can leave it on be well then then th it's this is then then our concept is ready .	costing
+B	2606.17	Cheap remote control .	costing
+A	2609.87	Yeah , we make some extra profit of it .	costing
+D	2612.74	Yeah .	costing
+D	2613.51	No , we won't , but that's um something else .	costing
+C	2614.75	But now Great .	costing
+D	2616.71	No , this not gonna sell .	costing
+B	2617.45	It w it won't tell , but No , uh , n no Yeah , we just have to go all what we did today again .	costing
+A	2618.92	Huh , any ideas ?	costing
+D	2619.07	No .	costing
+D	2620.62	Of course not .	costing
+C	2626.05	It's great .	costing
+C	2627.85	Our remote control .	costing
+B	2631.82	You have to do it over .	costing
+D	2633.4	We come back tomorrow , okay ?	costing
+B	2634.67	Yeah .	costing
+A	2635.12	No no uh there's still there's still someth concept and something special left .	costing
+C	2635.22	Yes .	costing
+B	2635.85	the No , but no .	costing
+C	2636.51	Seventy Euros .	costing
+A	2639.66	I mean we're gonna it's gonna excel in in on in the the range in the field of design and and uh looks and feel .	costing
+A	2648.36	That's what it's makes it special .	costing
+A	2652.68	Yeah , and I would li I would have liked a kinetic part as well , to give it some just to give it some extra special feature , and uh I know it will work , but uh it's it's an They're they're not putting technologies on this , but if it if it was impossible to to make it happen .	costing
+C	2669.87	Why not a hand dynamo then ?	costing
+A	2675.03	Okay , well we leave it like this .	costing
+A	2677.04	Then it's c then we're yeah .	costing
+B	2677.76	Yeah , yeah .	costing
+D	2678.68	We can't do anything else .	closing
+D	2680.12	Warning , finish meeting now .	closing
+C	2682.76	We're done .	closing
+A	2687.85	Okay , project e uh well , we were gonna what look take a look at the last sheet .	closing
+C	2688.38	Is this it ?	closing
+D	2689.98	Yeah , sure .	closing
+C	2691.88	Okay .	closing
+D	2693.72	No , we can't .	closing
+A	2695.28	Yeah , we have to Yeah , it's Uh , I don't know .	closing
+B	2700.02	No .	closing
+D	2703.63	Yes , yes .	closing
+C	2704.06	Yes .	closing
+D	2704.5	Celebration .	closing
+D	2705.59	I don't see why , but I think we gotta fill out another questionnaire , to be honest .	closing
+C	2706.56	Where's the champagne ?	closing
+B	2711.08	Yeah ?	closing
+C	2711.54	I don't uh hear a bell .	closing
+D	2713.37	No , not yet .	closing
+D	2719.18	Alright , I'll see you guys in a minute .	closing
+B	2719.64	We can do it here then .	closing
+C	2721.96	Bye .	closing
+D	2723.27	I don't think so .	closing
+B	2723.32	Can we can't we do it here ?	closing
+D	2725.04	I don't know .	closing
+D	2726.43	I don't I don't think so .	closing
+C	2736.69	Uh-huh .	closing
+C	2738.17	Just fill that one in .	closing
+B	2753.19	Yeah , we're doing now .	closing
+B	2754.76	But it's .	closing
+B	2759.29	Oh , okay .	closing
+B	2766.23	Nice .	closing

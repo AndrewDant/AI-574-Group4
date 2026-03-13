@@ -1,0 +1,178 @@
+D	22.78	Is this okay ?	agenda/equipment issues
+A	27.56	Uh yeah .	agenda/equipment issues
+A	30.28	Fine now .	agenda/equipment issues
+A	47.43	Oh , it's not liking us , it went that-a-way .	agenda/equipment issues
+A	54.1	Computer adjusting .	agenda/equipment issues
+A	56.32	Oh .	agenda/equipment issues
+A	61.99	Uh .	agenda/equipment issues
+A	79.35	Okay .	agenda/equipment issues
+A	80.98	So .	agenda/equipment issues
+A	88.5	Right .	agenda/equipment issues
+A	99.0	You ready back there ?	agenda/equipment issues
+A	104.45	Uh okay .	agenda/equipment issues
+A	107.09	Welcome everyone .	opening
+A	108.64	Um this is the kick-off meeting for the day .	opening
+A	111.88	Um we're the new group uh to create a new remote control for Real Reaction .	opening
+A	120.98	As you can see our agenda is to open up the meeting , um become acquainted with each other , um have a little training on tools , uh create a plan , discuss things and and we only have twenty minut twenty five minutes total .	opening
+A	139.05	Okay .	project specs and roles of participants
+A	140.01	The new remote control is to be original , trendy and user-friendly .	project specs and roles of participants
+A	145.93	That , Steph , is your part , is the user-friendliness .	project specs and roles of participants
+A	149.37	The originality um is gonna take all of us .	project specs and roles of participants
+A	153.36	Um the trendiness we'll probably go look at for some marketing research information from you , Sarah .	project specs and roles of participants
+A	160.53	Um and we'll get on with it .	project specs and roles of participants
+A	163.65	Okay , so we'll have a functional design individual work um with meeting and then conceptual design t and then detailed design .	project specs and roles of participants
+A	176.55	Okay ?	project specs and roles of participants
+A	178.92	Right .	agenda/equipment issues
+A	180.79	Everybody's supposed to try out the whiteboard .	agenda/equipment issues
+A	183.96	Kate , why don't you try it first , if you can either bring your things with you , I guess And while you're doing that we'll try and figure out how to hook these things on as well , 'cause we're all gonna have to be able to walk around .	agenda/equipment issues
+B	188.01	Uh yeah , if I can pick up with all these bits and pieces , hang on .	agenda/equipment issues
+B	208.55	Uh right , so you want an animal and the characteristics of that animal .	drawing exercise
+B	215.79	Do you have to be able to recognise what animal it is ?	drawing exercise
+A	217.81	Uh I do not think so , I think it's just to try out the whiteboard .	drawing exercise
+B	222.3	Um Only animal I could thin I could draw .	drawing exercise
+C	231.22	Are we all gonna draw a cat ?	drawing exercise
+D	232.66	I know .	drawing exercise
+A	237.27	Ah .	drawing exercise
+B	242.26	Its a sort of bunny rabbit cat .	drawing exercise
+B	245.44	You can tell it's not a bunny rabbit by the ears .	drawing exercise
+A	247.91	Uh-huh .	drawing exercise
+B	248.16	Um I suppose it should have a mouth as well , sort of Right , yeah .	drawing exercise
+A	252.04	Okay .	drawing exercise
+A	254.6	Great .	drawing exercise
+A	255.47	And the characteristics ?	drawing exercise
+B	255.75	Um the favourite characteristics of the cat um the whiskers I think , um because they're the easiest to draw .	drawing exercise
+A	263.62	Uh-huh .	drawing exercise
+B	264.09	In fact , I'll give it some more Oh , and the tail Yes .	drawing exercise
+A	268.53	Okay .	drawing exercise
+A	272.72	Fantastic .	drawing exercise
+A	274.54	Since you're handy as well , why don't you do yours next , Steph .	drawing exercise
+A	285.46	I think it's to get us used to using the pen .	drawing exercise
+B	289.61	Um sure it's not to test our artistic It's a mouse .	drawing exercise
+A	292.81	Uh no .	drawing exercise
+A	299.74	A mouse-y ?	drawing exercise
+C	300.84	That's not a mouse-y , no .	drawing exercise
+B	302.16	No it's not a mouse .	drawing exercise
+B	306.73	It's a wombat .	drawing exercise
+A	307.46	Oh .	drawing exercise
+C	315.59	It's a ratty .	drawing exercise
+A	317.16	Argh .	drawing exercise
+B	317.84	A what ?	drawing exercise
+C	318.4	A ratty .	drawing exercise
+A	318.46	Rat .	drawing exercise
+A	320.23	Not a mouse , a rat .	drawing exercise
+B	320.63	A webbed foot .	drawing exercise
+B	321.92	Webbed f Oh right .	drawing exercise
+C	322.57	It's clothes .	drawing exercise
+C	323.55	That's it's clothes .	drawing exercise
+C	326.21	It's a ratty with a with a with a very long tail .	drawing exercise
+A	330.7	And your favourite characteristics of that animal .	drawing exercise
+C	331.6	I love whiskers .	drawing exercise
+C	334.18	Uh they're intelligent and they're cheeky and uh fantastic pets and very friendly .	drawing exercise
+A	341.97	Oh .	drawing exercise
+A	342.92	Okay .	drawing exercise
+C	344.07	And they sit on your shoulder and whisper the answers to your homework in your ear when you're doing your homework .	drawing exercise
+A	344.1	Kate ?	drawing exercise
+D	353.16	Thanks .	drawing exercise
+A	379.44	Oh , a fish .	drawing exercise
+C	381.89	A shark ?	drawing exercise
+B	382.23	Gosh , why didn't I think of fish ?	drawing exercise
+B	383.45	That's even easier to draw than cat .	drawing exercise
+D	387.48	Mm this is very representational fish .	drawing exercise
+A	390.34	Oh , okay .	drawing exercise
+A	391.2	Fine .	drawing exercise
+D	391.52	Um I like them because they're sleek and they have a lot of freedom but they also do n uh swim in groups , so .	drawing exercise
+A	392.85	Favourite characteristics ?	drawing exercise
+A	401.76	'Kay .	drawing exercise
+A	403.09	So they have team elements .	drawing exercise
+D	403.17	Do you have a favourite one ?	drawing exercise
+A	411.27	I'm afraid I'm with Steph .	drawing exercise
+A	414.72	And I think your pen's running out of whatever .	drawing exercise
+A	419.5	But I'm afraid I take the coward's way out , and the cat's looking the other way .	drawing exercise
+A	429.04	He's hiding .	drawing exercise
+A	431.28	Um cats are sometimes very independent .	drawing exercise
+A	435.23	My parents had cats .	drawing exercise
+A	437.58	Uh and they can mm decide for themselves what is best .	drawing exercise
+A	451.09	Okay .	drawing exercise
+A	454.08	Now um we have to get down to the nitty-gritty of how to make this and this remote control has to be sold um we're to sell it for twenty five Euros , with a profit aim ultimately of fifty million Euros .	project budget
+A	475.53	That tells you something about how many um we have to sell on an international scale .	project budget
+A	483.71	Um would be an awful lot of these , would be like what , a hundred million of them um to make twenty five Euros on each one and to make a total profit of fifty million .	project budget
+A	495.48	Um the production is to only cost twelve and a half Euros per item .	project budget
+A	503.48	Now if they cost twelve and a half , you're selling it for twenty five , you're making twelve and a half Euros each .	project budget
+A	511.62	Um and we're to make a profit of fifty million , that's t uh can you do the maths and how many are we selling ?	project budget
+D	519.31	Uh yeah .	discussion
+D	521.11	I was just wondering if that's the um If fifty percent is normal B yeah .	discussion
+A	527.76	Mark-up ?	discussion
+D	528.91	Um I would think would be more like sixty percent .	discussion
+D	531.82	But um let me I have two thoughts .	discussion
+A	532.95	Okay .	discussion
+D	534.78	One hundred , fifty percent .	discussion
+D	538.24	And and your question is how many do we have to sell ?	discussion
+A	541.06	Yes , 'cause our market um is international and your problem is has to do with marketing of you know , you gotta know how many we're going to be selling to know how big a market you have to target and who is that .	discussion
+D	551.08	At twenty five .	discussion
+D	554.67	Mm-hmm .	discussion
+D	556.78	Yeah , that's um So that's four million of them ?	discussion
+A	560.0	To give you a pretty good idea of where you're looking .	discussion
+A	563.77	Something like that ?	discussion
+A	566.89	Okay .	discussion
+D	567.76	Yeah .	discussion
+A	569.8	That's fifty million Euros .	discussion
+A	572.42	In order to make fifty million Euros , and you're only getting twelve and a half each That's a lot of selling .	discussion
+D	572.48	And if we make Mm-hmm .	discussion
+D	584.12	Yeah .	discussion
+A	584.4	Two four To be fifty , be four million .	discussion
+D	586.79	Four million .	discussion
+A	590.44	You'd have to sell four million .	discussion
+D	592.1	Hmm .	discussion
+A	593.71	Okay ?	project budget
+A	596.41	Right .	project budget
+A	603.0	Experience with a remote control .	discussion
+A	605.07	Any of you use of remote control for a television or D_V_D_ or something ?	look and usability
+B	610.71	That that that's the sorta product we're talking about , one that will work for a in a home environment , for a T_V_s and I think one that works would be good .	look and usability
+A	610.73	You're both nodding , all three .	look and usability
+D	610.73	Yeah .	look and usability
+A	616.04	Well I've seen some remote controls that are for more than one device at a time , but I also have heard about them not working well or not well co-ordinated and you wind up working with this one for thi this three and then this one over here for another .	look and usability
+C	631.14	It is true that you always sit around you know , you're sitting on your sofa and you wanna change something , there's five different remotes , and one for the D_V_D_ and one for the video and one for cable and one for whatever else .	look and usability
+D	639.93	Mm-hmm .	look and usability
+D	642.64	Y yeah .	look and usability
+A	643.16	And they don't always talk to each other .	look and usability
+C	643.63	But I presume this is t I presume this is just for television .	look and usability
+A	647.76	Don't know .	look and usability
+A	649.92	Okay .	look and usability
+A	650.51	Are there any um ideas for the remote ?	look and usability
+A	654.52	What would it be for and what group would be be for ?	look and usability
+A	660.61	We have to think about that one .	look and usability
+D	663.13	We could make a Hello Kitty themed remote .	look and usability
+C	668.63	I think one in b bright colours would be good .	look and usability
+D	670.68	Yeah .	look and usability
+D	671.69	We could totally go for the Japan-a-mation .	look and usability
+D	674.98	Well I mean there's also the cachet that um uh the Japanese make great products .	look and usability
+D	682.05	Electrical their industrial design is very good .	look and usability
+C	685.64	I think one that doesn't have lots of superfluous functions .	look and usability
+C	690.12	Like I've got one at home that has well , apart from the obvious , channels , channel up , channel down , volume , you know , subtitles , mute , there's a lotta buttons that I've got no idea what they do , like .	look and usability
+D	700.31	Yeah .	look and usability
+D	706.45	Well , that's a really good point , because I think one of the things that being somewhat computer literate , we tend to um go to menus and then make choices , you know , so if it's like an uh volume button , you know , you can go in and say mute or or volume .	look and usability
+A	708.92	Okay .	look and usability
+D	722.4	We don't need to have like the l the numbers if we also have uh uh channel up channel down .	look and usability
+C	727.16	Mm .	look and usability
+A	729.36	Mm .	look and usability
+D	731.14	Mm .	look and usability
+A	731.49	Okay .	look and usability
+D	731.86	We can make it smart like an iPod , you know , make everything menus .	look and usability
+C	743.47	Ooh , closing the meeting .	closing
+A	745.77	Yeah .	closing
+A	746.76	Um I know this sounds like it was very quick , but the I think that's the industrial design is the first one , that's Kate , for the working design .	closing
+C	747.19	That was quick .	closing
+B	756.77	Mm .	closing
+B	758.95	Mm-hmm .	closing
+A	761.48	And user , that's you S Steph , for the technical functions design , and for marketing the user requirements specification .	closing
+A	772.14	I think there's going to be a lot of we have to help each other and work through this as a group , and I think we all , you know , we like our kitty-cat and our rat and our fish , but I think we all have to like each other um to get this done .	closing
+A	788.88	Uh as it says , we're gonna get individual instructions , but uh I don't think they allowed a lot of extra time , so I think a little bit of less of this and more at do will set us in good stead .	closing
+A	802.71	Do you all agree ?	closing
+C	803.93	Mm-hmm .	closing
+B	804.27	Mm-hmm .	closing
+A	805.44	Alright .	closing
+A	806.88	Um then I don't see any reason to prolong it and f we should finish this meeting at ni right now and go into other things .	closing
+A	816.35	Alright , so this is the end of the first meeting .	closing
+D	819.14	Okay .	closing
+B	819.77	'Kay .	closing
+A	821.15	Thank you all .	closing

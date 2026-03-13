@@ -1,0 +1,302 @@
+A	0	.	NO_TOPIC
+A	34.27	Here we go .	participant names
+A	37.14	Welcome everybody .	participant names
+A	39.15	Um , I'm Abigail Claflin .	participant names
+A	43.32	You can call me Abbie .	participant names
+A	46.43	'S see .	participant names
+A	47.63	PowerPoint , that's not it .	participant names
+A	50.2	There we go .	participant names
+A	51.33	So this is our kick off meeting .	participant names
+A	55.53	Um and I guess we should all get acquainted .	participant names
+A	62.17	Let's shall we all introduce ourselves ?	participant names
+D	65.0	Hi I'm Chiara , I'm the um Marketing Expert .	participant names
+D	70.04	Um , would you like me to talk about my aims at the moment , or would you like me to just say my name and then we can talk about business later ?	participant names
+A	77.04	I think we'll get around to that , yeah .	participant names
+D	78.93	We'll get round to that later .	participant names
+A	78.99	So this is just introductions yeah .	participant names
+D	80.51	My name is Chiara and I'm the Marketing Expert .	participant names
+A	82.98	Okay .	participant names
+A	83.64	I forgot to s say I'm the Project Manager but I figured you all knew that already , um so .	participant names
+C	89.02	I'm Stephanie and I am the User Interface Designer .	participant names
+B	93.94	I'm Krista and I'm the Industrial Designer .	participant names
+A	96.02	Okay .	participant names
+A	98.26	Um so f here's our agenda for today .	opening
+A	102.23	Um we're gonna do some tool training , project plan and discuss then close .	opening
+A	111.99	Um so .	opening
+A	116.57	So our aim is to produce a remote control that is original , trendy and user friendly .	project specs and roles of participants
+A	124.27	And to do this , we have to um there's certain things we have to consider about functional aspects and conceptual design of the thing .	project specs and roles of participants
+A	135.79	So .	project specs and roles of participants
+A	137.29	We'll get to that .	project specs and roles of participants
+A	139.55	Oh there it is .	project specs and roles of participants
+A	140.41	Right .	project specs and roles of participants
+A	141.19	Functional design , conceptual design and detailed design .	project specs and roles of participants
+A	144.35	So throughout our next couple of meetings we'll we'll be covering these things .	project specs and roles of participants
+A	150.87	Um so we're gonna try out our white board .	drawing exercise
+A	157.03	If we'll all draw our favourite animal , to sum up the characteristics of that animal .	drawing exercise
+C	166.81	So you want us to draw it and then talk about it ?	drawing exercise
+A	166.85	Okay .	drawing exercise
+C	168.51	Or just draw it ?	drawing exercise
+D	172.05	I think both .	drawing exercise
+A	173.16	Yeah .	drawing exercise
+C	173.16	Okay .	drawing exercise
+C	173.91	Why don't we do both .	drawing exercise
+A	174.02	Both .	drawing exercise
+A	174.84	Yeah .	drawing exercise
+D	175.8	Who starts ?	drawing exercise
+C	175.93	Right .	drawing exercise
+D	176.81	We ought to decide who starts and all that .	drawing exercise
+D	180.01	No ?	drawing exercise
+A	180.64	Any volunteers ?	drawing exercise
+D	180.79	Uh-huh .	drawing exercise
+A	182.69	Does anyone know what they wanna draw ?	drawing exercise
+C	184.17	Mm , I gotta think about it for a second like .	drawing exercise
+C	186.7	Uh Does it have to be functional , trendy and user friendly ?	drawing exercise
+A	194.51	I don't think so .	drawing exercise
+C	196.53	Um .	drawing exercise
+C	200.05	Okay , I'll draw .	drawing exercise
+C	200.66	I'll draw one .	drawing exercise
+C	203.5	Make sure my things here .	drawing exercise
+C	220.69	Uh-oh .	drawing exercise
+C	229.48	Right .	drawing exercise
+C	239.31	Okay , my favourite animal is see .	drawing exercise
+C	261.76	Oops .	drawing exercise
+A	265.48	A dolphin .	drawing exercise
+C	266.6	Yeah , it's Yeah , I guess it has a fin on top too , yeah .	drawing exercise
+A	269.33	'S like playing Pictionary .	drawing exercise
+C	279.83	It's my dolphin .	drawing exercise
+A	280.98	So what characteristics do you like about your animal ?	drawing exercise
+C	284.36	I like its tail .	drawing exercise
+C	286.18	Um , no , I think dolphins are really uh I dunno , they're smart and they they're cute and they like swimming and that's cool , like they're graceful yeah , and they're so Yeah they're sleek and they look intelligent and I don't know , they're I guess it's the whole like binocular vision thing .	drawing exercise
+A	298.53	They're graceful .	drawing exercise
+A	302.85	Sleek .	drawing exercise
+A	309.22	I don't know how intelligent that one looks .	drawing exercise
+C	311.39	Yeah he he doesn't look that smart .	drawing exercise
+C	314.42	He's a I dunno um they're I think it's cool the the um the interaction that or the th things that the reasons people seem to like you know you get ex you know people are sitting on the beach and p they're like oh look there's dolphins and it's kinda like but they're you know they jump around in the water and they're happy and they're mammals , but they swim .	drawing exercise
+A	338.96	Yes .	drawing exercise
+A	339.12	Does anybody else wanna draw their animal ?	drawing exercise
+B	346.66	Suppose I can draw an animal , yeah .	drawing exercise
+A	376.08	Uh-oh there goes the ten .	drawing exercise
+A	379.03	It's a cat .	drawing exercise
+B	379.95	Yeah .	drawing exercise
+B	386.04	I don't know .	drawing exercise
+B	386.53	They sleep all day , they're easy to draw .	drawing exercise
+A	394.66	Do you wanna anything ?	drawing exercise
+D	395.22	Uh yeah .	drawing exercise
+A	396.16	I dunno if the the ah .	drawing exercise
+D	396.26	Well I had the cat as well , but uh I've got a spare one .	drawing exercise
+B	396.66	I think the pen is running out of Two million .	drawing exercise project specs and roles of participants
+D	401.49	So I'll use the spare one .	drawing exercise
+D	405.32	Um but it's harder to draw um .	drawing exercise
+C	408.26	And the pen's dying .	drawing exercise
+D	409.82	Um .	drawing exercise
+A	414.06	A horse .	drawing exercise
+D	414.09	Uh .	drawing exercise
+C	414.39	Horse .	drawing exercise
+D	419.01	Um I don't really know how the legs go , but anyway I will do that .	drawing exercise
+A	421.19	That's very good .	drawing exercise
+D	425.91	Um , and the main reason is they're pretty .	drawing exercise
+D	429.69	I think they're very pretty and they go well with the environment , and I like the way they run and I used to do horse riding and they're just very sort of sturdy and nice animals .	drawing exercise
+D	439.71	And I like the way um they feel , sort of under under the hand , I think that's pretty much it .	drawing exercise
+D	448.85	Um How many should we sell then ?	drawing exercise project specs and roles of participants
+A	450.4	Yeah .	drawing exercise
+A	458.82	This cord's Uh .	drawing exercise
+A	469.2	Right .	drawing exercise
+A	470.69	Actually I haven't thought of anything yet .	drawing exercise
+A	474.12	Uh It's a pig .	drawing exercise
+A	491.62	So I'm thinking we should design a remote control that's water resistant , strong and furry .	drawing exercise
+A	498.73	What do you think , yeah ?	drawing exercise
+C	502.1	And furry .	drawing exercise
+A	502.34	This is yeah , well like a cat , you know , soft yeah .	drawing exercise
+C	505.36	Textile tactile , tactile remote control .	drawing exercise
+A	508.46	Although uh I'll just put there .	drawing exercise
+A	511.04	Right .	drawing exercise
+C	515.09	You're dragging a you have a tail .	drawing exercise
+A	517.2	Oh my gosh , this is disastrous .	drawing exercise
+A	521.83	Sorry about that .	drawing exercise
+A	525.5	Okay .	project specs and roles of participants
+A	527.26	So moving on .	project specs and roles of participants
+A	530.49	Our selling price goal is twenty five Euro and profit aim is fifty million Euro .	project specs and roles of participants
+A	539.18	So I'm guessing that we're not actually in Scotland , we're in some European country .	project specs and roles of participants
+A	546.58	Um , and we will hope to sell this internationally .	project specs and roles of participants
+C	551.61	Sorry can you just say that what's the what are our price goals again ?	project specs and roles of participants
+A	555.49	Um selling price is twenty five Euro .	project specs and roles of participants
+C	557.6	Okay .	project specs and roles of participants
+A	558.88	Profit aim fifty million Euro .	project specs and roles of participants
+D	570.62	Um , a lot , two two two million , two mi no , more f four million .	project specs and roles of participants
+A	571.73	Anyone a mathematician ?	project specs and roles of participants
+D	578.64	Four million .	project specs and roles of participants
+D	580.19	And it well it's the profit so if a profit for each is twelve fifty , that'll do four million .	project specs and roles of participants
+B	584.77	Oh , yeah .	project specs and roles of participants
+D	597.77	It is a lot .	project specs and roles of participants
+D	599.21	Uh .	project specs and roles of participants
+A	614.41	So f that's a fifty percent um uh .	project specs and roles of participants
+A	619.56	Um , I don't know what these mean because I didn't actually make the slide-show .	discussion
+A	625.91	Experience with remote control .	discussion
+A	628.35	So I guess we have to reflect on our experiences with remote controls to decide what um we would like to see in a convenient , practical , nice remote control .	discussion
+A	643.51	Um so do we have any initial ideas for uh how this remote control should be designed or formatted or the the buttons it should have .	discussion
+D	654.15	Um , I think one thing is that it should be easy to find bec yeah bec Yeah , yeah yeah yeah yeah .	look and usability
+C	658.36	I was thinking that too .	look and usability
+A	659.66	Yeah .	look and usability
+C	659.66	I think we should design something that has like a so you can like somehow like you I mean you always know where your T_V_ is , so just have a call button , I've always wanted that , so like you can push a button on your T_V_ Yeah , yeah yeah yeah , so you should have a call button on your television to be able to find your remote control .	look and usability
+A	668.26	Yeah .	look and usability
+A	669.45	I mean you have it for the portable phone , so why not yeah .	look and usability
+D	674.61	Yeah .	look and usability
+D	676.52	And even I think a little light .	look and usability
+D	678.82	Um or even a maybe a vib a vibrating thing .	look and usability
+D	683.24	I dunno but someth because it's usually under the sofa .	look and usability
+C	687.41	Yeah .	look and usability
+D	687.55	In which case you're going to be l but if it has a sort of signal which isn't any sound I don't know if it's expensive maybe to Maybe call is enough .	look and usability
+C	688.06	Yeah .	look and usability
+C	692.38	Yeah .	look and usability
+C	693.94	I don't yeah I mean it but like I mean just I mean like your phone even just has so like it can vibrate , it can light up and make noise and I dunno .	look and usability
+D	696.45	But yeah .	look and usability
+D	701.17	Yeah yeah yeah .	look and usability
+D	704.23	Yeah .	look and usability
+A	712.88	What if it had something like um just like a magnet on the back of it and you could I mean j just to have some place to put it besides like a base .	look and usability
+C	724.86	Yeah .	look and usability
+A	725.17	You know like a portable phone has a base , like just to have a home for it .	look and usability
+C	725.85	Yeah , or if it had a yeah .	look and usability
+D	730.69	Yeah yeah yeah yeah .	look and usability
+C	731.8	Yeah , I mean Yeah .	look and usability
+A	732.56	'Cause people just stick it on top of their T_V_ , but the point of having a remote is not to have to walk over to the T_V_ , so Yeah .	look and usability
+B	738.32	Well that's why it's always in the couch .	look and usability
+C	739.79	Yeah , in in the couch .	look and usability
+C	742.47	I dunno , it seems like though that that would be hard , 'cause you not you're not gonna be lazy anyway and Yeah so we the project is now couches and remote controls .	look and usability
+A	745.76	Yeah .	look and usability
+A	747.22	Maybe we should design couches that have the remote control in the side arm .	look and usability
+D	751.96	But even just a thing to attach it to the w you know if you had a thing , a pretty object attached to the wall .	look and usability
+D	757.78	But that would really make it more expensive .	look and usability
+C	758.47	Yeah .	look and usability
+D	760.21	But it's only a plastic thing , r really , the thing on the wall .	look and usability
+C	763.74	Yeah .	look and usability
+A	764.06	Yeah .	look and usability
+D	765.42	Something like that .	look and usability
+D	766.52	And the other thing is Not well it needs to be sort of Yeah .	look and usability
+A	766.76	Do you think it needs to be bigger to not lose , or does that not factor in ?	look and usability
+C	771.01	Bigger .	look and usability
+A	772.44	Like Hand hand held size , yeah .	look and usability
+C	774.43	Hand-sized .	look and usability
+D	776.03	I don't think you need a But definitely not well I don't know .	look and usability
+A	777.62	Not not huge , but Huh .	look and usability
+C	781.67	It can't be that hard to put some kind of a noise on it .	look and usability
+D	784.93	No , it can't be , uh-uh .	look and usability
+B	785.67	No it really wouldn't be .	look and usability
+C	786.02	Or like or like a light thing .	look and usability
+C	789.06	You know .	look and usability
+C	790.07	I dunno .	look and usability
+D	790.56	Like spaceship .	look and usability
+C	791.61	Yeah .	look and usability
+D	792.11	Right .	look and usability
+D	792.88	Um Oh dear .	look and usability
+C	793.03	Or make it mobile so it runs around and comes come find you yeah .	look and usability
+C	798.65	That would be really I'm sure we could do that for twenty five Euros a pop .	look and usability
+A	800.95	Little homing device .	look and usability
+C	802.76	Yeah .	look and usability
+C	804.01	Uh .	look and usability
+A	804.07	Um .	look and usability
+A	805.9	Okay .	look and usability
+A	807.07	So what do we think this remote control should Five minutes .	look and usability
+A	814.08	Till the meeting oh right .	look and usability
+A	815.91	This is what we have left .	look and usability
+C	818.79	I also think though that it shouldn't have too many buttons , 'cause I hate that when they have too many buttons and I mean I know it has to have enough functions but like , I don't know you , just have like eight thousand buttons and you're like , no , you never use half of them .	look and usability
+A	819.02	Um , oh we just Yeah .	look and usability
+B	822.2	Yeah , I agree .	look and usability
+B	823.76	B_ button and the F_ button , they don't do anything .	look and usability
+D	823.78	Yeah , yeah yeah .	look and usability
+A	832.09	You what if um may be a little fancy but what if it had like a little screen , so it has less buttons but it still has all the functions .	look and usability
+C	832.24	So .	look and usability
+C	841.87	That would be cool .	look and usability
+A	842.32	Like the way a mobile phone does .	look and usability
+D	842.58	Yeah .	look and usability
+C	844.08	Yeah .	look and usability
+C	845.57	I mean it just seems like yeah .	look and usability
+A	846.74	So you could like um like if you have I dunno if you have satellite if you have a hundred channels , you can the way you do it on your radio is that you uh what do you call it s y yeah but you can programme , so you can programme like your favourite channels , so like if you had a s That's something we could decide .	look and usability
+D	855.47	Select .	look and usability
+D	856.9	Uh .	look and usability
+D	862.76	But , would you have the screen on the thing , or would you have it on the telly transmitting the screen .	look and usability
+C	868.88	I guess they would go together somehow ?	look and usability
+D	868.88	Because Because , I don't know if it's I think it's e expensive , if you have if you use the telly screen , 'cause the telly's already a screen , then you can pro sort of have a programming function , really easy sort of arrow up and down , on the remote , and then use the telly as a screen .	look and usability
+A	869.12	Mm .	look and usability
+C	870.71	I dunno .	look and usability
+A	877.82	Yeah .	look and usability
+A	885.6	Yeah .	look and usability
+A	889.78	Right .	look and usability
+D	889.91	But um But yeah for sure .	look and usability
+C	892.85	I'm thinking kind of Or like you h you see those you know people I'm thinking of like celebrity cribs kind of things when like they have all those these things that at their house you know their their entire house is so electronic , and they have like this one master control that and it's like a hand held like turns on everything sort of control and it has like a screen and like so I think it should be possible to have some kind of a screen , I don't know if it must be it would probably must be ex too expensive though t like I dunno .	look and usability
+D	894.09	Something like not it's not on the button but it's telling you what to do , is that what you mean ?	look and usability
+A	897.83	Yeah .	look and usability
+A	898.82	Yeah .	look and usability
+D	900.39	Right .	look and usability
+D	900.84	Mm .	look and usability
+D	923.13	Yeah .	look and usability
+D	927.84	But like mobile phones have screens and they're cheap .	look and usability
+A	928.14	Mm .	look and usability
+C	929.5	Yeah , yeah .	look and usability
+C	930.77	Yeah that's true .	look and usability
+A	930.78	Yeah .	look and usability
+A	931.96	I mean , we have to remember our budget is twelve point twelve fifty for to actually make the device .	look and usability
+D	935.17	Yeah .	look and usability
+C	938.29	Mm .	look and usability
+A	940.66	Um but it's something to think about , yeah .	look and usability
+C	940.7	Well , I guess we have to get to that later , yeah .	look and usability
+A	942.98	I mean we'll have to see how much that would be .	look and usability
+D	945.27	Or some it i we can find out probably on the internet how much it's Um .	look and usability components, materials and energy sources
+A	948.6	Yeah .	look and usability
+D	953.93	Yeah , and the other thing you said that thing about robust and water um What was the word ?	components, materials and energy sources
+C	960.98	Furry .	components, materials and energy sources
+D	961.28	Water resistant .	components, materials and energy sources
+A	962.2	Oh I was just Yeah .	components, materials and energy sources
+D	963.79	No but it's I thought , ah , spot on .	components, materials and energy sources
+D	967.04	Good feel , tact tactile , good tactile feel , maybe something didn doesn't make your hands sweat lot .	components, materials and energy sources
+C	974.61	Yeah .	components, materials and energy sources
+C	975.68	Mm , mm .	components, materials and energy sources
+D	975.78	That's quite annoying .	components, materials and energy sources
+A	980.74	Maybe um just like a simple thing to have a clip on it , like so you can clip it to your like that's another Um .	closing components, materials and energy sources
+C	986.93	Yeah .	components, materials and energy sources
+D	989.2	Yeah , clip .	components, materials and energy sources
+D	991.69	Ooh .	components, materials and energy sources
+D	993.67	Um .	components, materials and energy sources
+A	999.35	We should probably start wrapping up , um we've got some initial ideas that we can all look into .	closing
+A	1005.45	Um , and come up with some new ones for the next meeting , which will be in another thirty minutes .	closing
+A	1012.52	Um .	closing
+A	1014.97	So .	closing
+A	1017.38	Yeah .	closing
+A	1018.25	The Industrial Designer , what does that stand for , I_D_ , yeah um is going to be looking more into the working design .	closing
+B	1021.85	Yeah I think so .	closing
+A	1026.76	So I guess you'd be looking at lots of the things we discussed about screen and um that sort of thing .	closing
+A	1035.32	The something , what is the U_I_ ?	closing
+B	1038.69	User .	closing
+C	1039.55	That's me .	closing
+A	1039.99	Yeah , what does it stand for again ?	closing
+C	1041.22	Uh , User Interface design .	closing
+A	1042.22	User Interface Designer .	closing
+A	1044.16	So that's gonna be more technical .	closing
+A	1048.85	I guess that maybe the working design has also to do with like the physical feat like just the way it looks and the way it w Yeah , yeah .	closing
+C	1055.07	So technical function .	closing
+B	1056.53	The working design is the structure .	closing
+C	1060.88	What is technical functions exactl I I don't really know what It does but it I just don't really Yeah .	closing
+A	1063.89	Um , I guess you'd have to find out .	closing
+D	1067.15	It says on that email but it It said um It said Yeah like Be a medium between you and the telly I think , that's uh Marketing .	closing
+B	1067.42	Um .	closing
+B	1068.68	It was in the email .	closing
+B	1070.18	I wrote down what mine were .	closing
+C	1075.1	What effect should the thing ha should it have , okay .	closing
+C	1078.71	Alright .	closing
+C	1079.64	And working design .	closing
+C	1080.64	Okay .	closing
+C	1083.04	Yeah , yeah .	closing
+A	1083.6	Mm .	closing
+C	1084.35	Alright .	closing
+C	1085.53	And how it works , okay .	closing
+C	1086.74	Right .	closing
+C	1087.02	I'm I'm on task .	closing
+A	1088.3	And the M_E_ , what does that stand for ?	closing
+A	1091.38	M Marketing , right .	closing
+B	1092.1	Marketing .	closing
+D	1093.56	Oh it's written here , but um .	closing
+A	1093.99	Um .	closing
+A	1096.93	So we'll be working on the user requirements , um Yeah .	closing
+D	1102.95	Okay .	closing
+A	1103.77	So I guess that wraps it up .	closing
+A	1106.88	I'll see you all in thirty minutes .	closing
+A	1113.05	I just did .	closing

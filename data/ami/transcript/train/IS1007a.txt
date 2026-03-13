@@ -1,0 +1,269 @@
+A	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+B	42.37	Hmm .	opening
+A	72.45	Good morning everybody .	opening
+C	74.58	Good morning .	opening
+D	75.16	Good morning .	opening
+B	76.38	Good morning .	opening
+A	77.65	So , we are asked to to make uh uh a new remote control for television .	opening
+A	92.25	And the characteristics of this new remote control should be original and trendy and of course user user friendly .	opening
+A	109.94	So people can can use it without any any problem .	opening
+A	134.64	I don't know .	opening
+C	138.3	Well , I think we should set the the points to to drive the project and uh Yeah , from the account manager .	agenda/equipment issues
+B	142.78	Mm .	agenda/equipment issues
+B	144.05	B did you send us an email about this ?	agenda/equipment issues
+A	146.86	Uh , not yet , but if you want Do you want do you want me to send you a mail ?	agenda/equipment issues
+B	149.75	Yeah , we we received an email about this uh d designs .	agenda/equipment issues
+B	158.74	Ah it's Okay .	agenda/equipment issues
+A	158.96	Or Uh .	agenda/equipment issues
+D	161.79	Or you can put it in the shared folder .	agenda/equipment issues
+B	164.1	Yeah , you see the email ?	agenda/equipment issues
+B	165.49	You email .	agenda/equipment issues
+B	166.26	The v very no , no the first one .	agenda/equipment issues
+D	167.98	No , I didn't get it .	agenda/equipment issues
+B	170.21	It's inside .	agenda/equipment issues
+D	172.64	This one .	agenda/equipment issues
+B	173.32	No , no .	agenda/equipment issues
+D	173.57	No .	agenda/equipment issues
+B	174.8	The third one .	agenda/equipment issues
+B	177.52	Oh , you didn't get anything .	agenda/equipment issues
+D	179.43	No , .	agenda/equipment issues
+B	180.46	It's strange .	agenda/equipment issues
+B	185.12	Mm .	agenda/equipment issues
+B	186.41	I got an email about the dis about the discussion .	agenda/equipment issues
+B	190.05	Yeah .	agenda/equipment issues
+A	191.27	You get email , .	agenda/equipment issues
+B	192.79	I dunno from who .	agenda/equipment issues
+B	195.37	From the account manager .	agenda/equipment issues
+B	196.24	You have received the same email , right ?	agenda/equipment issues
+C	197.53	Yeah .	agenda/equipment issues
+B	198.31	Yeah .	agenda/equipment issues
+D	199.22	I think it's for your guys to how to design it all the aspects so you need that information .	agenda/equipment issues
+B	204.31	Yeah .	agenda/equipment issues
+C	205.5	Yeah , I think so .	agenda/equipment issues
+B	206.79	Yeah , so each of us has a role to do .	project specs and roles of participants
+D	208.76	Yeah I think assign your uh roles .	project specs and roles of participants
+A	209.44	S For each for each one .	project specs and roles of participants
+B	210.23	In each We already have our role .	project specs and roles of participants
+D	213.29	For each person , yeah .	project specs and roles of participants
+B	215.3	'Kay , we can So there are three kinds of designs , that's all .	project specs and roles of participants
+A	216.28	So there are so we have three f yeah .	project specs and roles of participants
+A	219.02	We have functional design , conceptual design , and detail design .	project specs and roles of participants
+B	221.92	Okay , alright .	project specs and roles of participants
+A	224.21	So , who will be the the responsible for the functional design ?	project specs and roles of participants
+A	228.94	Any any volunteer ?	project specs and roles of participants
+C	231.37	I think our uh responsibilities will be assigned when we in our mail we received from the account manager .	project specs and roles of participants
+B	236.62	Yeah , yeah .	project specs and roles of participants
+C	239.36	Uh No , I'm doing the interface .	project specs and roles of participants
+B	239.88	I'm doing the interface .	project specs and roles of participants
+A	241.58	You are doing th .	project specs and roles of participants
+B	246.26	Are you using the you are doing the in Ah Okay .	project specs and roles of participants
+C	247.05	Yeah I I'm I'm Well , maybe we have okay so I industrial design .	project specs and roles of participants
+C	257.34	It was a little confusion about my uh but it's alright .	project specs and roles of participants
+A	262.44	Okay , I'll for industrial design .	project specs and roles of participants
+C	264.72	Yeah .	project specs and roles of participants
+A	267.02	Okay .	project specs and roles of participants
+A	269.92	And and you Norman ?	project specs and roles of participants
+B	274.3	Mm ?	project specs and roles of participants
+B	275.51	Um working on i .	project specs and roles of participants
+C	279.12	User .	project specs and roles of participants
+B	279.68	User interface .	project specs and roles of participants
+A	286.61	And And doing the marketing .	project specs and roles of participants
+D	297.95	Uh , I'm into marketing .	project specs and roles of participants
+D	301.92	yeah nothing much in the project .	project specs and roles of participants
+A	305.59	Nothing related here to the Next .	project specs and roles of participants
+D	307.27	Marketing in this design .	project specs and roles of participants
+D	309.43	A design is basically for industrial design and the user interface .	project specs and roles of participants
+B	309.61	Yes .	project specs and roles of participants
+B	318.29	You see the second mail ?	project specs and roles of participants
+B	322.05	Yeah , it's inside .	project specs and roles of participants
+B	323.44	Go down .	project specs and roles of participants
+B	326.77	Appendix .	project specs and roles of participants
+D	328.09	Yeah , this is .	project specs and roles of participants
+B	328.67	See there's a role for everybody .	project specs and roles of participants
+D	330.3	Yeah , that's right , first .	project specs and roles of participants
+B	331.41	Even for the marketing .	project specs and roles of participants
+D	334.4	us user define .	project specs and roles of participants
+B	335.58	But look at your role , your marketing role .	project specs and roles of participants
+D	342.97	There's a trend watching .	project specs and roles of participants
+A	343.86	I don't know .	project specs and roles of participants
+B	344.16	Yeah , that's your role .	project specs and roles of participants
+A	346.27	I .	project specs and roles of participants
+C	346.29	Well , I think we can have a little discussion about what has to be done and what are your ideas about the Well , w we want to have a new re remote control for for T_V_ distribution I guess .	discussion
+A	355.51	About the design or Maybe we'll discuss this later , no ?	discussion
+A	371.27	Mm-hmm .	discussion
+C	371.93	So we have to plan how how it would be developed and uh how we can make it work .	discussion
+D	376.45	Yeah .	discussion
+B	376.7	Mm .	discussion
+B	381.65	Yes .	discussion
+D	382.32	I mean working remotes we already have .	discussion
+D	384.19	This will be something different from the other remotes remote controls .	discussion
+C	390.66	Yeah , I dunno I Yeah .	discussion
+A	390.8	What we we have to keep in mind the these characteristics .	discussion
+A	397.85	And of course it should not be very costly .	discussion
+D	401.24	Yeah , that's right .	discussion
+A	401.92	So About the about what ?	discussion
+B	405.96	Mm-hmm .	discussion
+C	408.43	Well I I think that Norman and I would think about um the technical points and um we should discuss it in the next meeting , or Yeah .	discussion
+B	421.12	Need to collect information .	discussion
+B	427.46	Um .	discussion
+B	431.53	I I'm part of design , perhaps .	discussion
+B	434.95	Uh , what is most important in a in a remote control ?	look and usability
+B	440.92	What is the most important function aspect ?	look and usability
+B	445.85	Uh .	look and usability
+A	446.77	You mean the external or Yeah of g of course .	look and usability
+C	451.94	Well , you have to make it work .	look and usability
+C	454.61	That's the that's the big thing .	look and usability
+B	455.56	That's alright .	look and usability
+B	457.35	Yeah , it should be easy to work with .	look and usability
+C	459.77	Yeah .	look and usability
+A	459.81	Yeah .	look and usability
+B	460.95	Yeah .	look and usability
+C	461.76	We can think about an interface with uh well Yeah , yeah .	look and usability
+B	464.97	Uh .	look and usability
+B	465.44	We maybe you can have a speech uh recognition interface .	look and usability
+B	469.47	You just tell the television I want which channel .	look and usability
+B	474.53	Or or you can say for example , um I want uh to list all the programme tonight .	look and usability
+A	474.71	You won't I I think if we include a lot of technology on the remote control it will be very costly .	look and usability
+B	482.66	Y you know , instead of uh remote control it's doing the some searching for you , so you don't have to look for the channel you want .	look and usability
+B	491.7	Just say maybe I just want to press I wanna have a button for all the movies tonight .	look and usability
+B	497.52	Or a button for all the magazines , all the information documentary tonight .	look and usability
+B	501.86	And then you list a few , and I will choose from the list .	look and usability
+B	504.7	So instead of pressing the channel number , I am choosing the programmes directly .	look and usability
+B	508.34	Yeah , that's one way of uh making it useful .	look and usability
+B	515.99	No , because no , it's not very a lot .	look and usability
+A	519.04	S Like s uh you you you say we can use speech .	look and usability
+B	519.53	Th this information exists .	look and usability
+B	521.53	For example you can get um You can use uh well for example anything .	look and usability
+B	531.17	The the idea of using speech to reduce the button , but uh and it's more natural .	look and usability
+C	535.88	I I think if you want t to choose uh from a list of programme or or something like that you you may have to to use uh w uh I dunno Yeah .	look and usability
+B	537.6	Yeah .	look and usability
+D	539.3	I'm a okay .	look and usability
+B	540.53	Yeah .	look and usability
+B	541.78	Yeah .	look and usability
+D	545.89	I mean the main uh function of remote control is to have something in the hand and we should be very careful about the size of the remote control .	look and usability
+A	550.02	In the hand .	look and usability
+A	553.07	Yeah .	look and usability
+B	553.09	Yeah .	look and usability
+D	553.16	If we are going to add a speech interface , I'm not sure with trendy slim size of the remote control it would be able to put a speech recog if you want to put a speech recognition system f interface for that I think the T_V_ itself could have it .	look and usability
+B	555.06	Yeah .	look and usability
+B	559.57	Yes , possible .	look and usability
+B	567.21	Yeah .	look and usability
+C	567.57	Yeah .	look and usability
+B	568.28	But Yeah .	look and usability
+D	568.28	And I could talk to the T_V_ television itself .	look and usability
+A	569.9	Except if if you are far from the T_V_ .	look and usability
+D	570.12	I need not have an I mean we have some or something , different technology but Mm-hmm , yeah .	look and usability
+A	573.58	This is it's Mm-hmm .	look and usability
+B	574.87	Yeah , yeah .	look and usability
+B	576.12	But th the main idea I wanted to s I wanted to say is that um there should be a function , instead of choosing the ch T_V_ channel , there's a option you can choose , either T_V_ channels or or pr or the or the contain or the contents of the programme .	look and usability
+C	588.32	On the content .	look and usability
+C	592.04	Yeah , yeah it's it's a good idea it's a good idea but I I think that technically it would be um a little bit uh uh more tricky to to achieve this than just to Yeah yeah .	look and usability
+B	592.35	So it's more powerful .	look and usability
+B	594.29	Yeah .	look and usability
+B	599.71	No .	look and usability
+B	603.04	No , because you see now all the T_V_ programmes are available on the webs .	look and usability
+B	607.59	They they are they are they are available in X_M_L_ format or whatever the format .	look and usability
+B	611.53	We don't care .	look and usability
+B	612.22	We just say that this are some content .	look and usability
+B	614.43	We just want to retrieve the content and then classi sort them by the types of programmes .	look and usability
+B	620.13	Some of the websites they already provide this service , so we can just use the service available .	look and usability
+B	625.18	Download it uh to the to this remote control .	look and usability
+B	629.6	And then there's there are only six buttons for six categories , or sev seven .	look and usability
+A	630.0	Mm .	look and usability
+B	634.0	The most there are only seven buttons .	look and usability
+B	636.05	So I just choose the category one and you reuse the same button , for example to to choose among the the sorted list the programme you want , so you don't have to choose among hundred channels , if you have hundred channels , you just have six buttons , seven buttons .	look and usability
+A	652.21	Yeah we should also optimise the the number of buttons .	look and usability
+C	655.28	Well I I I I think that j just by using navigation buttons and the user interface on the screen we are able to uh navigate uh through the Well channel programme or contents or in an easy way , so Yeah in the dis display on the T_V_ screen and just uh with the with your remote control would just navigate through the f Yeah , yeah .	look and usability
+B	655.38	Yeah , yeah .	look and usability
+A	656.85	This is good idea .	look and usability
+B	661.99	Yeah .	look and usability
+B	666.6	Ah , yes .	look and usability
+B	667.29	So .	look and usability
+B	669.91	Yeah .	look and usability
+B	671.8	Yeah , so you don't have to display here , just display on the T_V_ screen , right ?	look and usability
+B	675.44	Good idea .	look and usability
+B	677.57	Okay .	look and usability
+B	682.08	I think I think that will be revol revolutionary .	look and usability
+B	685.65	Because all the T_V_ uh the the remote control have all numbers , lots of buttons and then you dunno what to choose in the end .	look and usability
+B	694.86	Yeah .	look and usability
+C	695.14	So I think for for the technical points we have to to to check how to gather the data from programme or contents and all this stuff Oh right so Please , Norman , draw uh Okay .	look and usability
+B	696.0	Alright .	look and usability
+B	710.28	Okay .	look and usability
+A	711.13	So we have five minutes to Ah you can y you can you can use it if you so , can we S You it .	look and usability
+B	712.92	Ah w w we have sometimes to use the white-board .	look and usability
+B	717.29	Five minutes .	look and usability
+D	718.8	And another interesting idea for this would be to have an light adaptation system depending upon the picture of So , I mean , if you're watching a movie and suddenly there is a dark uh some dark scene , the lights adapt themself .	look and usability
+B	723.55	Okay .	look and usability
+B	725.78	Okay .	look and usability
+B	730.6	Yeah .	look and usability
+B	732.8	Yeah .	look and usability
+D	734.36	The lighting in the room changes .	look and usability
+B	736.15	Yeah , but we are designing just remote control .	look and usability
+D	738.63	I mean , we have a option in the remote control .	look and usability
+D	740.54	If we want to have that option , you press that button in the remote .	look and usability
+B	742.55	Okay .	look and usability
+B	744.28	Okay , do you want to have a conceptual remote control there , or you just want to put the function in ?	look and usability
+A	748.72	Yeah .	look and usability
+A	749.43	If if you you you can if you want you can use th the .	look and usability
+B	754.41	Go on , draw something .	look and usability
+D	761.34	Oh , I'm afraid you forgot to put your lapel .	look and usability
+B	761.51	Mm .	look and usability
+B	764.15	Where is it ?	look and usability
+D	764.95	The lapel .	look and usability
+A	765.68	Or before the before the the design that says .	look and usability
+B	766.0	Ah , okay .	look and usability
+B	769.28	Where where is it ?	look and usability
+B	770.23	Here .	look and usability
+D	770.64	Yeah , that one .	look and usability
+D	774.37	Just plug it .	look and usability
+A	774.66	Norman .	look and usability
+D	775.35	Yeah , that's right .	look and usability
+B	775.71	Mm .	look and usability
+A	776.28	Be before before writing you can uh sit and that says what we what we said then after that you can you can use the .	look and usability
+B	779.43	Mm .	look and usability
+B	784.72	Okay , alright .	look and usability
+B	785.82	So so the most functional des mm the most important function is to ch choo buttons to choose the content .	look and usability
+A	786.46	Yeah .	look and usability
+B	794.14	Right ?	look and usability
+B	794.56	We agree on that , right ?	look and usability
+B	796.37	Uh , uh first one is to uh buttons i or it could be anything with buttons .	look and usability
+A	796.4	Okay .	look and usability
+A	807.16	Yeah .	look and usability
+B	808.68	Uh to choose uh content s or channels .	look and usability
+B	820.28	So we have both .	look and usability
+B	821.37	The user can choose w which one they want , right ?	look and usability
+C	824.16	Yeah , by content or by channel , it's a good idea .	look and usability
+B	826.18	By content or by channel .	look and usability
+B	829.31	Choose by contents or by channels .	look and usability
+B	833.28	So And then what did we say just now ?	look and usability
+B	838.74	Other than this .	look and usability
+C	840.1	And uh we we have to find a way how to gather information about the contents .	look and usability
+A	840.36	Mm .	look and usability
+B	843.83	Okay , so technically how the problems that how to do it is to how to get the content .	look and usability
+C	853.22	Yeah .	look and usability
+B	855.1	Challenge .	look and usability
+C	855.13	I think i it's not very difficult to to browse by channel but it's a little bit tricky to browse by contents so I think that's the the things to do and uh to uh reflect about it and uh discuss it in the next meeting .	look and usability closing
+B	861.48	Okay .	look and usability
+B	864.32	Content .	look and usability
+B	867.76	Okay , so these we have to work it out .	look and usability
+B	870.15	So this one of the problem .	look and usability
+B	872.51	And uh The main thing .	closing
+B	877.73	Okay .	closing
+B	878.94	Alright .	closing
+B	880.63	Alright , okay .	closing
+B	881.25	So we are we'll discuss it we will get some information in the next meeting , so for now we get uh the funct this is the functional designer ?	closing
+B	891.21	That's the first aspect .	closing
+B	893.75	Right .	closing
+B	895.88	We will get information and then we'll come back in .	closing
+C	900.02	Okay .	closing
+C	901.65	Thank you everybody .	closing
+A	903.97	Okay .	closing
+B	904.15	Yeah , we'll come .	closing
+A	905.73	So maybe we'll meet in maybe five minutes ?	closing
+A	911.03	And we'll discuss the other other aspects .	closing
+B	911.12	Alright .	closing
+B	912.87	Alright , okay .	closing
+C	915.7	Okay .	closing
+A	916.77	Okay .	closing
+A	917.95	Well thank you all .	closing

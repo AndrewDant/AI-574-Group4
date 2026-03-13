@@ -1,0 +1,795 @@
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0	.	NO_TOPIC
+A	0.02	So is Why not save that .	agenda/equipment issues
+D	3.39	No , you'll ha have to open it up from elsewhere .	agenda/equipment issues
+A	10.41	Do you want to replace existing file , no .	agenda/equipment issues
+A	18.73	I actually tried to transfer it to My Documents , but spreadsheet .	agenda/equipment issues
+D	21.83	Yeah , you have to you have to close that window .	agenda/equipment issues
+D	23.69	'Cause that's the save one isn't it , so And then find it .	agenda/equipment issues
+A	47.71	Yeah , but I've ta uh right , I'll just re-do it .	agenda/equipment issues
+A	50.2	That's the easiest way .	agenda/equipment issues
+A	71.49	Right .	agenda/equipment issues
+C	76.6	Well we've made our prototype anyway .	presentation of prototype(s)
+C	79.54	We can have a good look at that .	presentation of prototype(s)
+D	81.46	You pass it round to have a look .	presentation of prototype(s)
+C	82.8	Mm-hmm .	presentation of prototype(s)
+C	83.36	Y no , it's a slightly curved around the sides .	presentation of prototype(s)
+D	85.53	Mm very nice .	presentation of prototype(s)
+C	86.68	Um , it's almost curved like up to the main display as well .	presentation of prototype(s)
+D	91.79	Mm-hmm .	presentation of prototype(s)
+C	92.26	And the little line at the bottom indicates the bit the panel that you pull down .	presentation of prototype(s)
+C	96.63	And the extra function buttons are below that panel on the little line .	presentation of prototype(s)
+D	99.9	Mm-hmm .	presentation of prototype(s)
+C	101.09	And we've got the stick on the button with the company logo on .	presentation of prototype(s)
+D	103.93	Mm-hmm .	presentation of prototype(s)
+B	104.64	We also have a apple slash cherry design at the top .	presentation of prototype(s)
+D	108.85	So it is , yeah .	presentation of prototype(s)
+D	109.69	Cherry would be alright actually .	presentation of prototype(s)
+D	110.96	Yeah .	presentation of prototype(s)
+C	111.4	Yeah , it's a bit more fun , isn't it ?	presentation of prototype(s)
+C	112.91	And it's kinda not really at a kind of you think apple , you think computers , like Apple Mac .	presentation of prototype(s)
+B	117.11	Yeah , yeah , we might get a For the M_ .	presentation of prototype(s)
+D	118.31	Mm-hmm .	presentation of prototype(s)
+D	119.29	Copyright , yeah .	presentation of prototype(s)
+D	120.07	What's this this one ?	presentation of prototype(s)
+C	120.68	Yeah , and cherries are fun , summery .	presentation of prototype(s)
+D	121.87	What's that one there ?	presentation of prototype(s)
+C	122.93	Ah , that's the mute .	presentation of prototype(s)
+D	124.38	Oh , okay .	presentation of prototype(s)
+D	125.09	Right .	presentation of prototype(s)
+C	126.71	It it'd probably have to be labelled mute .	presentation of prototype(s)
+D	129.29	Uh-huh .	presentation of prototype(s)
+C	129.49	But um , we didn't have anything small enough to write .	presentation of prototype(s)
+B	129.54	They're thinking For the first time , well it was hard to get the h um the actual labelling on the individual buttons .	presentation of prototype(s)
+D	131.81	Okay .	presentation of prototype(s)
+D	137.14	Mm-hmm .	presentation of prototype(s)
+C	137.75	Yeah .	presentation of prototype(s)
+C	139.24	Uh , we just chose simple shapes for all them .	presentation of prototype(s)
+C	141.56	Um , the important ones are the volume ones .	presentation of prototype(s)
+C	143.86	So we made them a bit bigger .	presentation of prototype(s)
+D	145.55	Mm-hmm .	presentation of prototype(s)
+C	145.84	The mute could possibly be a bit smaller .	presentation of prototype(s)
+B	147.9	Hum , you separate off in colour the volume related buttons from the channel related buttons , so you've got the volume in orange on design there , and the the channel is in blue .	presentation of prototype(s)
+D	155.6	Yeah .	presentation of prototype(s)
+C	158.82	Mm-hmm .	presentation of prototype(s)
+A	159.46	R right .	presentation of prototype(s)
+C	159.82	Yeah , and we chose a V_ plus and V_ minus .	presentation of prototype(s)
+A	160.45	Um , all these things have cost implications .	presentation of prototype(s)
+A	164.38	And so when I done my thing on cost a I had assumed that the only uh button that would be a different colour would be the uh the red apple button .	presentation of prototype(s)
+A	179.09	So However , I've now .	presentation of prototype(s)
+A	181.93	But um , yeah so uh but there would be a cost implication on that , and uh as I suppose that so whether wanted to put in all these colours , would be uh open to debate , I suppose .	presentation of prototype(s)
+D	185.62	I'll see if I can find them .	presentation of prototype(s)
+B	195.13	Yeah , sis Yes , we'll have the slide-away .	presentation of prototype(s)
+C	197.6	Well the colours wouldn't like that's they wouldn't be too important , but we didn't have any white Play-Doh .	presentation of prototype(s)
+D	197.69	Have Mm-hmm .	opening presentation of prototype(s)
+C	202.68	So that's where the colour buttons came from .	presentation of prototype(s)
+A	203.77	An important consideration .	presentation of prototype(s)
+A	207.48	Right , okay so um And the second one underneath would be the idea for the Right , okay .	opening presentation of prototype(s)
+B	218.23	Bottom .	opening
+A	218.27	So we've got um detail design meeting .	opening
+A	224.32	Right .	opening
+A	227.86	So So , we've got prototype presentation , which we've just done , evaluation criteria , um and finance , so I guess w we have to evaluate if that meets the various uh aspects that we're looking for uh from um our previous meeting .	opening
+A	252.84	So other than the fact that it doesn't have the second layer , but um obviously obviously it would .	opening
+D	252.96	Mm-hmm .	opening
+B	255.91	Mm-hmm .	opening
+A	261.83	But other than that , we got the red apple .	opening
+A	263.36	We got the buttons and the only thing that has really changed is the is the colouration of the buttons , and the bit after the evaluation criteria is uh is the finance .	opening
+B	270.64	Yes , yes .	opening
+D	279.42	Right .	opening
+B	279.48	Okay .	opening
+A	279.61	And the and the cost implication .	opening
+A	282.21	The only snag about this is that uh the cost is probably kind of important .	opening
+A	289.21	So um , and then the production evaluation , as to how easy that would be to uh to manufacture .	opening
+B	297.49	Mm-hmm .	opening
+A	298.47	Um , and whether it would uh Right , so uh as far as the the finance of it would be concern would be to make sure that the cost aye the production cost 'cause you may remember that was one of the first uh considerations was to be in d under um uh twelve fifty or two and a half uh twelve and a half Euros .	opening costing
+D	304.57	So if you had to do a presentation or will you just work it on the prototype ?	opening
+C	308.76	Uh , that's it .	opening
+B	308.77	This this is a yes , this is our presentation of the prototype .	opening
+D	310.11	That's the pr Okay .	opening
+B	327.83	Mm-hmm .	costing
+A	333.06	So , there's no redesign .	costing
+A	336.08	So that should uh Right , so , seems to me that the thing that I have to do is is quickly find that uh Right .	costing
+B	358.06	Could we get this on the board just so we can see or do you mean do you have the figures there ?	costing
+D	363.41	we should plug it in .	costing
+D	364.33	Do you wanna plu do you wanna plug it in into the the back of that one .	costing
+A	366.68	Okay .	costing
+B	367.62	'Kay , Alice .	costing
+B	369.68	So , sh 'Kay this should be then .	costing
+D	370.08	We could do it as we d go along , the production costs , looking at the prototype .	costing
+A	374.18	Right .	costing
+A	380.74	Okay , so , by the fact that we've got uh the simple chip and the uh kinetic energy source , we've got a single curved case .	costing
+A	396.44	We've got a rubber uh case materials supplements .	costing
+A	404.69	So , we had decided that we're having rubber buttons and Okay .	costing
+B	405.11	Mm-hmm .	costing
+B	411.8	Have a push button interface .	costing
+A	419.68	W the button supplements .	costing
+B	420.24	Um Um Yeah .	costing
+A	421.64	Well , originally , I thought there would just be uh one in there because it was the one red apple .	costing
+A	429.97	But So the so the real w the real question then would come in .	costing
+A	437.29	Do you make all the buttons O Well , so we've got one special button form , which was the apple .	costing
+D	439.91	Well do we'll do it on the prototype , so do two , see how much it is .	costing
+A	447.87	Everything else is gonna be a standard .	costing
+D	448.13	Yeah .	costing
+B	450.31	And then we'd have So that's nine point one there so we've got some 'Kay .	costing
+A	450.6	We've got special material , rubber , wood , titanium , et cetera and that , so , I was originally , I was thinking rubber wasn't special , but according to this , maybe it is .	costing
+D	454.28	Mm-hmm .	costing
+D	460.48	Mm-hmm .	costing
+A	461.51	So And the r I mean effectively we've got sixteen buttons that we're gonna have on there .	costing
+D	469.29	Yeah .	costing
+D	469.77	I think you just do one , don't you , for the I think I think it's just it's just a one .	costing
+A	472.72	W I don't know is is is the sort of answer , is that meant to be all sixteen buttons , and therefore I mean , what's the op The option was maybe not to have rubber buttons , but just to have the one that was soft and spongy , and therefore Whereas it would be the special colour would be for the So you would only have the one special button that was rubber , whereas the rest would be hard plastic .	costing
+D	492.68	Else I thi I think I think the button supplement i is just a supplement for all the buttons made in a different material , rather than per button .	costing
+A	511.59	Mm .	costing
+D	513.63	I don't know though .	costing
+A	515.39	I would Every design change is uh I dunno , um Okay , um , if we just had all the buttons as standard , except for the one red apple , then that would take care of that , I guess .	costing
+D	521.2	Hmm .	costing
+A	536.91	We'd have one special colour and one special button form .	costing
+D	540.72	Mm-hmm .	costing
+A	542.12	And when I plugged that in last time remember it has to be under twelve and a half .	costing
+A	550.81	As far as I know , that um that took care of the uh of the various supplements .	costing
+D	559.67	Mm-hmm .	costing
+A	561.08	And if What happened ?	costing
+D	566.69	You've just gone off the window into another one .	costing
+D	568.89	It's on the bottom row .	costing
+C	577.84	Maybe if you just minimise that one in the top right-hand corner of the little box .	costing
+C	581.72	Yeah .	costing
+A	583.76	Now , right .	costing
+A	586.66	Okay , so , but the point would be that if we uh if we just did special Sorry , you were saying that it would be that one , that you would put in one there .	costing
+D	597.81	Yeah .	costing
+D	599.02	Yeah .	costing
+A	600.95	Okay .	costing
+A	606.05	So it Well , is it s is no , it's nine point seven I've got .	costing
+D	609.43	Mm-hmm .	costing
+A	610.31	Okay .	costing
+B	610.77	Just give us a bit of I switching around those th um on the electronics we got the sample sensor .	costing
+A	612.11	So , that would that would work out fine if uh uh as assuming your correction are are assuming that that one change covers all the buttons , then that would be fine .	costing
+D	618.7	Mm-hmm .	costing
+D	628.49	Mm-hmm .	costing
+A	629.28	And there's nothing else as far as I can see that we we had uh planned to put on .	costing
+C	629.71	S Um , .	costing components, materials and energy sources
+B	638.09	At the moment we've just got the simple chip , which costs one .	components, materials and energy sources
+B	641.63	Um , I guess the sample sens sample speaker would be the voice recognition thing , which puts up to four ?	components, materials and energy sources
+A	642.04	Uh-huh .	components, materials and energy sources
+D	646.29	Yeah .	components, materials and energy sources
+B	648.12	We should be slightly over our budget but if we gather something else down to slightly lower standard , and maybe go with the one the special form buttons , then we could have the speech So uh maybe if we got rid of like the maybe one of the special colours , kept them all the same colour , then we could have the voice recognition without Yeah , yeah .	components, materials and energy sources
+D	652.43	Yeah .	components, materials and energy sources
+A	655.4	Well , hold on .	components, materials and energy sources
+A	656.73	Um , if we Okay , that gives us twelve point seven But remember that the idea was to keep it the colour of the Oh , I see , so just take out the special colour for the apple and And go for battery instead .	components, materials and energy sources
+C	680.99	D wouldn't you have to keep the simple chip there as well ?	components, materials and energy sources
+B	681.02	Um Oh possibly , yeah , yeah maybe .	components, materials and energy sources
+C	684.57	You know how you turn that one to a zero , wouldn't the chip and the sample speaker be separate things , so you need both of them ?	components, materials and energy sources
+D	688.05	Yeah , we have to have it Yeah .	components, materials and energy sources
+B	692.36	Maybe um we'd be giving up on the kinetic .	components, materials and energy sources
+B	695.97	Um We should Yeah , that would save us one , though we'd still be slightly ov Yeah , yeah .	components, materials and energy sources
+D	697.46	Yeah .	components, materials and energy sources
+A	698.66	That would give you one less .	components, materials and energy sources
+A	701.91	But you reckon that i I mean the thing is that you wanted to a appeal to people and not have to replace batteries .	components, materials and energy sources
+B	710.49	Well , since it's the through the whole technology type thing , um , you were saying in the market research that people like kind of interesting gadgets in them .	components, materials and energy sources
+D	719.22	Mm-hmm .	components, materials and energy sources
+B	719.36	Um , whether they would figure the the s uh sample senor and the sample speaker , voice recognition be sort of a worthwhile thing to have .	components, materials and energy sources
+B	728.29	And then still have the batteries , or whatever they would prefer not uh You know what I mean ?	components, materials and energy sources
+D	728.63	Mm-hmm .	components, materials and energy sources
+B	731.52	The the problem was the battery's running out and losing the um losing the remote .	components, materials and energy sources
+A	732.53	Mm-hmm .	components, materials and energy sources
+D	735.35	Yeah .	components, materials and energy sources
+B	737.35	So you gotta decide which of those is more important to them .	components, materials and energy sources
+A	739.88	But which do you think or which do we think is the more important of the options ?	components, materials and energy sources
+C	745.16	I think the voice recognition .	components, materials and energy sources
+A	745.42	In a sense , at the moment , we've got a total which we need to reduce down by one point two .	components, materials and energy sources
+A	750.75	At least .	components, materials and energy sources
+A	751.49	Remember that was a minimum requirement .	components, materials and energy sources
+A	753.57	The other option if we're planning on just going for something cheap and cheerful , would be to um make it originally , we're gonna make it a simple product .	components, materials and energy sources
+D	763.08	Shall we shall we evaluate the prototype as we've got it now first , and then sort of make decisions about what needs to be changed after ?	components, materials and energy sources
+B	763.17	Yeah .	components, materials and energy sources
+A	772.17	Mm-hmm .	components, materials and energy sources
+A	773.24	Makes sense .	components, materials and energy sources
+D	773.31	Okay .	components, materials and energy sources
+B	773.59	Okay .	components, materials and energy sources
+D	774.89	Right um , I have a little thing .	components, materials and energy sources
+D	778.12	So , we've all got a note of it's thirteen point seven , isn't it , with everything we want on .	components, materials and energy sources
+A	790.41	Sorry , do you want that back up ?	components, materials and energy sources
+D	791.77	Yeah , I just had a presentation to do .	components, materials and energy sources
+A	794.83	Right .	components, materials and energy sources
+C	798.99	But I do think uh the v uh voice recognition thing would be more impressive than the fact that it's got no battery .	components, materials and energy sources
+A	806.88	Okay , but remember the main the only reason we were planning on having the voice recognition was so that they could find the remote if it got lost .	components, materials and energy sources
+D	814.53	Mm-hmm .	evaluation of prototype(s)
+D	815.55	Mm .	evaluation of prototype(s)
+D	816.91	Right okay um , This is about the evaluation criteria that we use for the the prototype we've got here .	evaluation of prototype(s)
+D	823.8	And so the method is that the design team makes a prototype , and we evaluate the prototype against some criteria that we've formulated .	evaluation of prototype(s)
+D	831.98	And those ones are gonna be in response to sort of market research , and also finance , I guess .	evaluation of prototype(s)
+D	839.75	And do that on a scale from say true being one and false being seven , so if it's neither true nor false , then that's four .	evaluation of prototype(s)
+D	855.5	So , I got a set of criteria just based on the marketing that we need to add in a financial one as well , at the end .	evaluation of prototype(s)
+D	863.95	Um so , We have to say whether it's true or false that the product looks and feels fancy .	evaluation of prototype(s)
+D	870.68	Um The whether the product demonstrates technical innovation .	evaluation of prototype(s)
+D	875.8	Whether it's easy to use .	evaluation of prototype(s)
+D	878.44	Whether it's incorporating sort of the fashion element to attract the buyer .	evaluation of prototype(s)
+D	882.65	And whether it's a sort of recognisable Real Reaction product .	evaluation of prototype(s)
+D	886.59	And I have to go up onto the whiteboard and do this apparently , so I'll go over here .	evaluation of prototype(s)
+B	889.35	Okay .	evaluation of prototype(s)
+D	902.56	Right .	evaluation of prototype(s)
+D	903.2	So the first one is um , does the product look and feel fancy .	evaluation of prototype(s)
+D	909.71	So if we do a sort of a one So Yeah .	evaluation of prototype(s)
+B	918.31	Okay , well we have a single curve , which was maybe like the feel of the product's quite good .	evaluation of prototype(s)
+B	925.43	So uh Um , then we have the rubber kinda spongy feel , which was in at the time .	evaluation of prototype(s)
+D	925.58	Okay .	evaluation of prototype(s)
+D	930.93	Yeah .	evaluation of prototype(s)
+D	932.68	Yeah .	evaluation of prototype(s)
+B	933.4	Um , sorry that'd be considered fancy .	evaluation of prototype(s)
+D	933.45	Yeah .	evaluation of prototype(s)
+C	937.04	Yeah , I'd maybe give it a a two .	evaluation of prototype(s)
+D	941.91	Of but I think What Is one false , or is t one true ?	evaluation of prototype(s)
+D	944.58	I forgot .	evaluation of prototype(s)
+C	944.75	One's true .	evaluation of prototype(s)
+D	945.97	One's true , and okay .	evaluation of prototype(s)
+D	947.41	Seven's fal Four is neutral , okay .	evaluation of prototype(s)
+C	947.68	And a four is neutral .	evaluation of prototype(s)
+D	951.02	So Right .	evaluation of prototype(s)
+B	951.64	So maybe maybe a two .	evaluation of prototype(s)
+C	953.55	Yeah , 'cause we haven't got the double curve , so we can't like say it's completely true .	evaluation of prototype(s)
+A	956.46	Go for one .	evaluation of prototype(s)
+C	959.11	But it's pretty close .	evaluation of prototype(s)
+A	959.18	Yep .	evaluation of prototype(s)
+C	960.07	We've got almost everything we can .	evaluation of prototype(s)
+D	962.27	Okay .	evaluation of prototype(s)
+A	963.03	Okay .	evaluation of prototype(s)
+D	963.11	Right .	evaluation of prototype(s)
+D	963.68	I gonna put underneath so I've got some more space .	evaluation of prototype(s)
+D	969.08	So , false is seven , true is one , and So uh say about a two for fancy , you think ?	evaluation of prototype(s)
+B	979.08	Yeah .	evaluation of prototype(s)
+C	979.61	Yeah .	evaluation of prototype(s)
+D	979.92	Okay .	evaluation of prototype(s)
+A	980.26	Yeah , why not not , m m maybe nearer three .	evaluation of prototype(s)
+D	984.12	Okay , well d you do an average at the end , I don't know .	evaluation of prototype(s)
+A	985.23	Two three .	evaluation of prototype(s)
+D	986.82	Um Uh-huh .	evaluation of prototype(s)
+A	987.16	Well , it's just that uh saying something remember that when you look down , we've got solar power , we've got uh various other things you could have , and we're not going for these options .	evaluation of prototype(s)
+D	996.52	This this is just this is just for like the look .	evaluation of prototype(s)
+D	998.54	Does it sort of look fancy rather than functional .	evaluation of prototype(s)
+A	999.12	Mm-hmm .	evaluation of prototype(s)
+D	1000.84	So Yeah , so that so sh should we go for a a two on that ?	evaluation of prototype(s)
+C	1003.99	Yeah , I suppose that might be in the technical innovation bit .	evaluation of prototype(s)
+A	1011.09	Okay .	evaluation of prototype(s)
+D	1011.69	'Kay .	evaluation of prototype(s)
+D	1012.43	And I mean , how much does the product demonstrate technical innovation do you reckon ?	evaluation of prototype(s)
+B	1017.8	Um , deciding between the kinetic power or um the speech recognition , and if we had either of those for our budget , they both show a reasonable amount of speech recognition .	evaluation of prototype(s)
+D	1027.91	D yeah .	evaluation of prototype(s)
+D	1030.21	Okay .	evaluation of prototype(s)
+D	1031.5	So , what about the pr The prototype as it is , we've got we've got the speech recognition on it , haven't we .	evaluation of prototype(s)
+B	1034.28	Um But not the kinetic .	evaluation of prototype(s)
+D	1039.46	But not the kinetic .	evaluation of prototype(s)
+B	1040.31	Like the power .	evaluation of prototype(s)
+A	1041.2	No .	evaluation of prototype(s)
+A	1041.6	'Cause you can't afford that w we took that out too .	evaluation of prototype(s)
+B	1043.03	No , we c ca yeah , we can't afford both .	evaluation of prototype(s)
+D	1046.93	Alright , so So it doesn't It's pretty The prototype as it is isn't sort of um fulfilling the Okay .	evaluation of prototype(s)
+A	1047.55	Didn't you ?	evaluation of prototype(s)
+A	1048.3	Or Well , wait a minute .	evaluation of prototype(s) costing
+B	1056.6	No may is maybe about neutral plus it it it's got something , but it hasn't got Right .	evaluation of prototype(s) costing
+C	1057.62	Maybe a three .	evaluation of prototype(s)
+D	1061.33	Yeah .	evaluation of prototype(s)
+A	1062.41	In thirteen point seven we do have kinetic .	costing
+C	1062.63	I would give it more than a four .	costing
+A	1064.8	The problem is we have to reduce down from there to get it down to twelve point five .	costing
+B	1070.09	Okay .	costing
+A	1070.31	And one way of doing that would be to take out the kinetic .	costing
+A	1073.17	So , it's very much dependant on what you do with your options .	costing
+D	1080.41	Right , okay .	costing
+A	1080.58	And if you're definitely going for the sample sensor and sample speaker , then because that the other functions we've got in are are more at the The special material , the rubber , wood , titanium , et cetera , if you go for that , th that's at the high end 'cause that's point six , whereas down at uh just special colours uh is point two .	costing
+B	1080.8	'Kay .	costing
+A	1105.74	Now you're trying to lose one point two , so it seems to me that if you're going for the sample sensors speaker , you're basically then having to go for the cheaper options on everything else .	costing
+D	1118.12	Mm-hmm .	costing
+B	1118.84	Okay .	costing
+A	1120.0	And and the simple way to do it would be to have a battery , to have your uh sample sensor speaker , and then you're looking to uh take out uh point two , which would be come from the button supplements category .	costing
+B	1120.3	Um Mm-hmm .	costing
+D	1130.11	S I'm just gonna check my email .	costing
+D	1137.16	I'm just gonna check exactly what it said in the email for um the product .	costing
+C	1144.55	How much of a difference would it make if we made the case in plastic ?	costing
+C	1151.6	Because we did say that we don't wanna follow the fashion too much .	costing
+C	1154.77	If the buttons are rubber that might be spongy enough .	costing
+C	1157.26	And then it stand the test of time better .	costing
+A	1157.52	Um , interface type um , well plastic rather than rubber .	costing
+D	1163.85	Okay .	costing
+D	1164.41	But I Okay .	costing
+A	1164.56	That that that would make the significant difference .	costing
+A	1166.94	You could either you could have it If you have a in plastic rather than rubber , then that would uh enable you to get you could keep kinetic then , you could keep your sample sensor , and you'd be looking to take out point two .	costing
+A	1182.74	So you could uh fiddle that down your special form at the bottom , or your special colour at the bottom .	costing
+C	1188.16	Mm-hmm .	costing
+A	1188.59	And that would enable you to to do it .	costing
+B	1191.63	So it says if we make a slightly more fancy , then we lose points innovation , and if we make it more innovative innovative , then we lose points on it being fancy , so Yeah , yeah .	evaluation of prototype(s)
+A	1197.5	Yeah .	evaluation of prototype(s)
+D	1198.53	Yeah .	evaluation of prototype(s)
+A	1199.08	Ye Well , okay , but It's rubber as it is , yes .	evaluation of prototype(s)
+D	1199.709	, I just read the email again and it sort of says it's evaluate the design sort of as it is , I think , so I think we need to think about finance after we've sort of evaluated that design .	evaluation of prototype(s)
+D	1212.64	I don't know whether we're doing it in the wrong order or something or .	evaluation of prototype(s)
+C	1218.05	Well , I suppose it's rubber as it is , isn't it .	evaluation of prototype(s)
+D	1221.61	So , I mean does this need to go up a bit or something , 'cause we've got both the both the um the speech Yeah .	evaluation of prototype(s)
+A	1231.66	We got we've we've got thirteen point seven and we've got it in at the moment and if and basically , we're going to reduce down from that .	evaluation of prototype(s)
+C	1231.96	Yeah .	evaluation of prototype(s)
+A	1238.1	But the current one , you'd say would be fancy , would be too Mm-hmm .	evaluation of prototype(s)
+D	1242.84	Yeah .	evaluation of prototype(s)
+D	1243.26	Um , for for innovation , so we've got the speech the speech thing , and Do you reckon a two ?	evaluation of prototype(s)
+A	1250.16	I would've said about a two as well .	evaluation of prototype(s)
+C	1253.01	Yeah , two or three .	evaluation of prototype(s)
+C	1254.95	I'd be happy with a two .	evaluation of prototype(s)
+D	1256.28	Okay .	evaluation of prototype(s)
+A	1256.49	Oh .	evaluation of prototype(s)
+D	1257.02	Two .	evaluation of prototype(s)
+D	1257.91	And the next one is I'll have to get it back up now .	evaluation of prototype(s)
+A	1262.52	The next on Well , I can just sing about .	evaluation of prototype(s)
+A	1264.92	Easy to use .	evaluation of prototype(s)
+A	1265.8	I would've said yes .	evaluation of prototype(s)
+A	1266.66	I would go for a one on that at this point in time .	evaluation of prototype(s)
+C	1270.36	Yeah .	evaluation of prototype(s)
+D	1272.15	Okay .	evaluation of prototype(s)
+C	1272.52	Yeah , I would say so as well .	evaluation of prototype(s)
+A	1276.8	Um , incorporates elements of fashion to attract buyer .	evaluation of prototype(s)
+A	1281.09	Well , yeah it certainly has some .	evaluation of prototype(s)
+B	1282.22	Um It does , yeah .	evaluation of prototype(s)
+C	1284.27	Yeah , it's got the cherry and the sponginess .	evaluation of prototype(s)
+D	1286.19	Um Say about a three maybe ?	evaluation of prototype(s)
+A	1287.38	Yep .	evaluation of prototype(s)
+A	1290.8	I don't know .	evaluation of prototype(s)
+B	1291.58	Yeah , m um Yeah , it was just doing it quite well .	evaluation of prototype(s)
+C	1291.8	Maybe two ?	evaluation of prototype(s)
+B	1294.49	Um , I think we're gonna have to lose some of these , but the moment , as it stands , it's um Uh the sensor using all of its all of its products , all of its buttons , and it's got a fairly big label on the bottom saying where it comes from .	evaluation of prototype(s)
+A	1294.66	Yep .	evaluation of prototype(s)
+A	1297.62	Yeah , I woulda said two would seem reasonable .	evaluation of prototype(s)
+D	1298.02	It's a two .	evaluation of prototype(s)
+A	1302.24	The product is a recognisable real r uh reaction product ?	evaluation of prototype(s)
+D	1307.89	Yeah , this is This Yeah .	evaluation of prototype(s)
+C	1316.29	Yeah , that's a bit rough at the minute .	evaluation of prototype(s)
+D	1318.34	So this is about sort of the corporate image of like new sort of sleek technology and all that sort of thing , as well as having the logo on and all that .	evaluation of prototype(s)
+A	1319.92	Oh .	evaluation of prototype(s)
+B	1325.07	Okay .	evaluation of prototype(s)
+D	1326.8	So sort of Is it sort of a recognisable product .	evaluation of prototype(s)
+D	1332.86	Does it fit in with our other other products , which uh are sort of coffee makers and spacecraft .	evaluation of prototype(s)
+C	1341.13	Uh , well it's got the same um speech feature as the coffee machine .	evaluation of prototype(s)
+D	1341.16	What do y Yeah .	evaluation of prototype(s)
+A	1341.23	S Okay .	evaluation of prototype(s)
+B	1345.82	Also it's kind of spongy rubberiness is maybe bit more kinda comfortable than kinda sleek and new age .	evaluation of prototype(s)
+B	1352.69	Um , it depends which way you look at it .	evaluation of prototype(s)
+D	1353.82	Uh-huh .	evaluation of prototype(s)
+A	1356.57	So we're going for a two , three ?	evaluation of prototype(s)
+D	1356.59	So Two or three ?	evaluation of prototype(s)
+B	1359.0	Maybe a kind of three ?	evaluation of prototype(s)
+B	1360.68	Uh d Yeah , so it's So should we get So are definite Was it thirteen point seven was the definite price rule if has .	evaluation of prototype(s) costing
+C	1361.7	Yeah , two or three .	evaluation of prototype(s)
+C	1362.96	Well , the logo would be more um recognisable on the actual thing .	evaluation of prototype(s)
+C	1367.99	It's just that the pen wouldn't really write on that paper .	evaluation of prototype(s)
+A	1369.73	Sure .	evaluation of prototype(s)
+C	1370.59	But um , I think the logo would definitely be recognisable .	evaluation of prototype(s)
+D	1371.32	Yeah .	evaluation of prototype(s)
+C	1375.08	And it does have attributes that other products do .	evaluation of prototype(s)
+C	1378.86	Two ?	evaluation of prototype(s)
+C	1379.41	Aye .	evaluation of prototype(s)
+C	1380.05	Go for it .	evaluation of prototype(s)
+A	1380.9	Right , okay .	evaluation of prototype(s)
+D	1381.27	Two or three .	evaluation of prototype(s)
+A	1385.07	Two .	evaluation of prototype(s)
+D	1385.09	How Two .	evaluation of prototype(s)
+A	1385.5	Right , come on .	evaluation of prototype(s)
+A	1386.43	That's that decided .	evaluation of prototype(s)
+D	1386.44	Okay .	evaluation of prototype(s)
+A	1388.01	Right .	evaluation of prototype(s)
+A	1388.9	So So we're now on to changing it to get it to fit in with the budget requirements , and then About a two .	evaluation of prototype(s)
+D	1390.08	Right .	evaluation of prototype(s)
+D	1397.48	Yeah .	evaluation of prototype(s)
+C	1398.37	What does what do all them numbers mean then ?	evaluation of prototype(s)
+C	1400.16	Do we add them up and rate or anything ?	evaluation of prototype(s)
+D	1402.16	Yeah we s yeah , I think we sort of add them up so sort of at an average is gonna be I'm just gonna do this in my head .	evaluation of prototype(s)
+A	1409.75	Two .	evaluation of prototype(s)
+D	1410.64	One point eight isn't it or something .	evaluation of prototype(s)
+D	1412.94	I think , anyway .	evaluation of prototype(s)
+D	1415.2	So yeah , pretty close to a two .	evaluation of prototype(s)
+D	1417.45	So So it's I mean it's pretty good at the moment , but it's gonna get worse , isn't it .	evaluation of prototype(s)
+D	1422.25	But we've gotta try and make sure it doesn't get too bad .	evaluation of prototype(s)
+A	1422.61	Yep .	evaluation of prototype(s)
+A	1424.86	Two b two b two , yeah .	costing
+A	1431.22	Yes .	costing
+D	1431.64	Yeah .	costing
+B	1431.81	Okay , so we need to So I guess this Is this the last stage once we sort out the finances part of it ?	costing agenda/equipment issues
+A	1434.94	Well , you can lose one point two and still meet the requirements .	costing
+D	1439.38	Do you wanna plug it into yours so we can get up the the finances I'm not sure .	agenda/equipment issues
+A	1443.09	Okay , well I put it back on .	agenda/equipment issues
+C	1451.33	we'll probably have to re-rate it .	agenda/equipment issues
+A	1453.27	Yes , I would've thought so .	agenda/equipment issues
+B	1454.69	Yeah , yeah we'll make the adjustments and then see how are rates are going .	agenda/equipment issues
+D	1454.85	Yeah .	agenda/equipment issues
+A	1459.02	Okay , so what was it , control uh F_ eight , wasn't it ?	agenda/equipment issues
+C	1463.47	Ah it's on .	agenda/equipment issues
+D	1464.09	it's come on already .	agenda/equipment issues
+A	1464.72	Oh .	agenda/equipment issues
+A	1465.32	Oh .	agenda/equipment issues
+A	1465.56	How kind .	agenda/equipment issues
+A	1468.2	Right , okay .	costing
+A	1469.17	So , you can see there that the If you want to keep kinetic , right , you've got a choice there of going down to battery , which would save you one .	costing
+A	1478.85	You've got the sample sensor and and sample speaker , which is your big item .	costing
+B	1487.91	Oh actually we just have a plastic case , then we lose two points , which gets us um In right within the budget range .	costing
+A	1490.8	That's right .	costing
+D	1495.18	Mm .	costing
+A	1495.65	Which gets you Yes .	costing
+C	1499.44	Yeah , I think that'd be fine .	costing
+C	1500.3	Because that was just a trend , and we do have rubber buttons anyway .	costing
+B	1502.72	So that's eleven point seven , and then we could make sure we definitely had all the button supplements .	costing
+D	1503.54	Yeah .	costing
+D	1507.24	Different different colours , yeah .	costing
+A	1507.26	Alright .	costing
+D	1508.99	Yeah , I was I was thinking that because maybe maybe the sort of rubber case is a bit less in sort of the corporate identity than the sort of you know sleeker plastic case .	costing
+B	1517.7	Possibly , yeah .	costing
+B	1519.88	Um And that would allow us to have all the technical innovations .	costing
+C	1520.07	Yeah .	costing
+A	1522.1	Okay , so So we're going for plastic , yes ?	costing
+B	1524.43	So we'd lose a little bit on the maybe kind of Oh yeah , and that would now be Yeah , that's that's within the budget .	costing
+D	1529.07	Lose a little bit on the fashion , yeah , but And then Yeah .	costing
+A	1530.82	Yep .	costing
+B	1535.97	Um Do we actually have Do we just have one special uh special forms down here ?	costing
+A	1543.06	Well , uh w uh there was debate as to how you would count them .	costing
+B	1547.49	Um And we we've we've got we've got enough for another we've got nought point eight left , so we've got enough for another Yeah , um But the but but but the I think maybe the special colour , we've got three now just because the volume buttons are different , I guess we'd have the ones which are blue at the moment would would just be the standard colour .	costing
+A	1547.65	You got special colour .	costing
+A	1548.8	Well originally I was assuming we had the red apple , and therefore , that was the special colour .	costing
+C	1553.41	Yeah , I think we should just imagine white buttons .	costing
+A	1559.86	Well , we've got special form .	costing
+A	1561.46	Now that would be one button , and the question was was that all buttons or is that just one button .	costing
+A	1566.63	'Cause our plan really was to have one button only with a special So so no matter how you look at that , that would be the same .	costing
+A	1574.35	The other thing would then be special material , rubber , wood , titanium .	costing
+D	1580.89	Yeah .	costing
+A	1584.2	Alright .	costing
+A	1584.97	So , special colour , you want three in there .	costing
+B	1586.98	Yeah , which I think we should Yeah , they'll still be fine for the for the price .	costing
+A	1589.85	Okay .	costing
+D	1590.02	Well I thin I think you you you just need two for the special colour 'cause it's just two supplements , you know .	costing
+D	1594.35	One original colour and then sort of two supplements , I think maybe .	costing
+A	1599.06	That makes sense .	costing
+B	1599.95	Okay , uh that's probably it .	costing
+D	1600.29	Okay .	costing
+C	1600.48	Yeah .	costing
+D	1601.23	So we only ne we only need two for that .	costing
+A	1603.02	Okay .	costing
+D	1603.5	'Cause I mean these these are moulded .	costing
+D	1605.7	The one colour's gonna be moulded out of a piece of plas uh of rubber , isn't it .	costing
+A	1609.07	Okay .	costing
+A	1609.66	Yeah , I would agree with that , I think .	costing
+A	1611.54	So special colours , two .	costing
+D	1614.43	Right .	costing
+A	1614.56	And we've got special form is the one apple .	costing
+A	1618.94	The rest are all standard , although you could argue that should maybe be You were making these buttons down the bottom , I was presuming , bigger than the other ones , or were you ?	costing
+B	1628.32	Ne uh Maybe that'll be a second supplement .	costing
+A	1628.39	Was that the idea ?	costing
+C	1629.54	Yeah , the volume ones should stand out a bit .	costing
+D	1633.02	Yeah , that Yeah .	costing
+B	1633.11	Then there's a spe a second special form .	costing
+A	1635.98	Uh-huh .	costing
+A	1636.67	I would have thought that's probably about r well .	costing
+B	1636.76	Um Well you got you got twelve .	costing
+D	1646.17	Okay , so tha So shall we do a Well , um Yeah .	evaluation of prototype(s) costing
+B	1648.12	So I think that should still be okay .	costing
+B	1649.17	Yeah , that's twelve point three , so we're still within budget on that .	costing
+A	1649.89	Right .	costing
+A	1654.4	Yep , that makes sense .	costing
+B	1655.45	Um So decide we've lost a little bit on the fashion and lost a bit on the fancy kinda side of it , but generally speaking , we've kept the other attributes to the That's without Yeah .	evaluation of prototype(s) costing
+A	1662.95	Yep .	evaluation of prototype(s)
+A	1666.68	I woulda said so .	evaluation of prototype(s)
+A	1667.76	Yeah .	evaluation of prototype(s)
+A	1667.98	So you'd maybe put fash fan uh fashion at three rather than two .	evaluation of prototype(s)
+B	1676.31	And specially it definitely could fits the the real product What was the what's the company name ?	evaluation of prototype(s)
+C	1684.45	Real Reactions ?	evaluation of prototype(s)
+A	1684.92	Real Reaction produ I'm not quite sure , what does that mean ?	evaluation of prototype(s)
+B	1685.42	R yeah .	evaluation of prototype(s)
+B	1686.63	Yeah , yeah .	evaluation of prototype(s)
+B	1688.67	I mean it still seems definitely fit that p so that's like if that's the new age kind of um inno innovative c type company , then um having the kinetic feature and the voice recognition is p quite high up on Um Mm-hmm .	evaluation of prototype(s) look and usability
+D	1695.86	Yeah , so Uh So it's w if we've if we've put in for another special form on a button , then maybe they could be a different shape .	evaluation of prototype(s) look and usability
+A	1701.62	Yep I would s You mean of Well you could argue you might do it once a year , you would change , because at the moment you're making a red apple .	evaluation of prototype(s) look and usability
+D	1710.92	Like we got a cherry one .	look and usability
+D	1712.71	Maybe other ones could be something else shaped .	look and usability
+D	1716.7	I don't know .	look and usability
+D	1717.43	That would be poss seeing as seeing as it's cheaper to make them a different seeing as we've got , you know , we've made it a a special form , so And that would sort of maybe keep us close on the sort of the fashion type one .	look and usability
+D	1732.59	And it would sort of , you know , keep it quite fancy as well , I don't know .	look and usability
+B	1742.11	Yeah so it's a Whatever fruit was in fashion next year .	look and usability
+D	1742.16	Well you could Yeah .	look and usability
+A	1742.57	So next year you could make next year's model the same , but have it as a a yeah whate whatever , a lemon .	look and usability
+A	1750.7	Yeah , l a lemon lemon or something .	look and usability
+D	1752.92	Yeah , I mean the volume buttons could be lemons or something , maybe .	look and usability
+A	1752.99	And that amount Yeah , we've the main thing we've changed really is the casing isn't it ?	look and usability evaluation of prototype(s)
+D	1757.32	Okay .	evaluation of prototype(s)
+D	1759.33	So , we've what have we what have we rid of .	evaluation of prototype(s)
+D	1761.92	We got rid of the plastic .	evaluation of prototype(s)
+D	1765.92	Is it The rubber .	evaluation of prototype(s)
+B	1766.46	That yeah , that was uh that was just about all .	evaluation of prototype(s)
+A	1768.57	We've Well , ease has certainly stayed .	evaluation of prototype(s)
+D	1768.71	Yeah .	evaluation of prototype(s)
+B	1769.42	I think we've saved quite a bit because we've just got the push-button interface , which is by far the cheapest .	evaluation of prototype(s)
+D	1774.17	Yeah .	evaluation of prototype(s)
+B	1774.79	Um So maybe in a sense not having that , maybe we've lost some maybe lost something on the innovation side ?	evaluation of prototype(s)
+D	1777.11	But uh So I mean , we've got we got rid of the rubber case , but we've now s we now sort of got an extra form , and an extra colour for the buttons .	evaluation of prototype(s)
+B	1783.83	I dunno .	evaluation of prototype(s)
+B	1785.08	And that is like the most standard type of button .	evaluation of prototype(s)
+D	1798.17	So maybe in terms of sort of fanciness and fashionability , we're pretty much the same , maybe .	evaluation of prototype(s)
+B	1803.8	Yeah .	evaluation of prototype(s)
+D	1804.66	So , I mean we could maybe put two again on them .	evaluation of prototype(s)
+B	1809.75	And everything else has stayed pretty much the same , so Yeah , plus if anything that is special forms makes it slightly easier to to use .	evaluation of prototype(s)
+D	1814.11	Yeah .	evaluation of prototype(s)
+A	1816.99	Yeah .	evaluation of prototype(s)
+D	1817.59	Yeah .	evaluation of prototype(s)
+D	1818.57	And what about the sort of innovation ?	evaluation of prototype(s)
+B	1820.68	Um , well we've still got the kinetic energy .	evaluation of prototype(s)
+D	1820.7	Do you think Okay .	evaluation of prototype(s)
+B	1822.65	Um Yeah , the speech feature .	evaluation of prototype(s)
+A	1823.78	And the speech feature .	evaluation of prototype(s)
+D	1826.84	And then , the corporate identity .	look and usability
+B	1829.65	I think we've cut just about the same .	look and usability
+B	1830.84	We've maybe lost Hasn't it It's hard to tell how the rubber the rubber casing would really affect Um But I think more the the features of the actual control will be more important than maybe than the the actual aesthetics , but But either way , I think we've made it fairly close to what just the the company logo .	look and usability
+A	1835.5	How it would play out , yeah .	look and usability
+D	1837.39	Yeah .	look and usability
+A	1837.54	Oh .	look and usability
+D	1837.89	Whether whether that's considered to be sort of part of the corporate identity , I don't know .	look and usability
+D	1845.26	I mean , it's maybe not .	look and usability
+D	1846.15	I mean Yeah .	look and usability
+D	1853.92	Yeah .	look and usability
+D	1858.68	Yeah .	look and usability
+D	1859.08	Okay , well I mean We cou Mm-hmm .	look and usability
+C	1859.45	Yeah , I don't see how we could make it any more .	look and usability
+C	1862.6	Um , apart from maybe doing the whole thing in the kinda light shade of blue , like the casing .	look and usability
+C	1870.96	But then what colour would you make the R_s ?	look and usability
+B	1876.23	So maybe there's like a set design which we get printed off .	look and usability
+A	1878.96	Well , but you've got the company logo on there , which would effectively be a stick-on badge .	look and usability
+D	1878.96	Yeah .	look and usability
+B	1883.75	Okay .	look and usability
+A	1883.81	So you're in a sense , you're comparing the product without the company logo .	look and usability
+D	1887.45	Yeah .	look and usability
+A	1887.52	And then y but you've got the space for it to stick it on .	look and usability
+B	1889.82	Yeah , yeah .	look and usability
+D	1891.02	Hey , what what what's the company colour ?	look and usability
+D	1892.54	Did you get told what the company colour is or Oh right .	look and usability
+B	1894.38	I'm still not quite sure we've established that .	look and usability
+C	1897.14	No , I just We got the logo off the web browser .	look and usability
+A	1897.67	Don't think so .	look and usability
+A	1898.25	But but i but in the sense that , as you saw with um the Windows logo badge , it doesn't really matter .	look and usability
+A	1905.33	There's virtually n The way that you frame , you know , the Windows badge on there , it really doesn't matter what colour it is , so long as our company's logo is framed w in the same way as that with a like a black outline .	look and usability
+D	1913.2	Hmm .	look and usability
+D	1919.74	Mm-hmm .	look and usability
+A	1921.2	Fact , they've got black and white or black and silver .	look and usability
+A	1925.15	So basically , even if you had a silver the same colour of silver on your display , because you've got effectively a double edging on the uh on the logo , it means that it splits off what your logo is from the from the product .	look and usability
+D	1925.2	Mm .	look and usability
+A	1939.98	And that's actually quite a sneaky way of doing it .	look and usability
+D	1941.17	Okay .	look and usability
+D	1943.57	Uh-huh .	look and usability
+D	1944.43	'Cause you've got sort of we've got point two to play with if you really wanted to .	look and usability
+A	1948.72	You could put in another Well , in this one , you've actually got three colours of buttons .	look and usability
+D	1949.84	Another colour .	look and usability
+D	1950.76	Or would that be t Yeah .	look and usability
+A	1954.3	Well , we decided that the blue ones were the um the standard colour .	look and usability
+D	1958.95	Okay .	look and usability
+A	1959.52	So you were talking about uh um We're assuming that all the buttons on the second panel , the hidden away panel , would all be standard .	look and usability
+B	1971.57	Yeah .	look and usability
+D	1971.81	Yeah .	look and usability
+C	1973.07	Mm-hmm .	look and usability
+A	1973.14	Which m may or may not be the case .	look and usability
+D	1977.53	Yeah .	look and usability
+D	1978.11	Shall we save the point two for profitability then ?	look and usability
+B	1978.15	Um Yeah , maybe we've m Maybe for the the one they're gonna see all the time , we make it look good , and um , fit the kind of idea of what they want .	look and usability
+A	1980.74	Well , yeah .	look and usability
+A	1981.4	Bu but but uh was the was there not a button that you were thinking of on the um on the other opt you know , on the second page , as it were , that uh you were thinking of maybe having as a different colour ?	look and usability
+C	1996.08	Um , I don't think they would really need to be .	look and usability
+C	1998.29	I think if they were just all small round blue buttons , it'd be fine .	look and usability
+C	2002.07	Needs to be an enter button , but could just be the same as well .	look and usability
+D	2008.72	Hmm .	look and usability
+B	2011.47	And then for the more functional buttons , we don't worry too much about that and just have that as like a plus it's hidden away anyway , you're not gonna see it at the start .	look and usability
+D	2017.13	Yeah .	look and usability
+D	2017.66	I mean it's the sort of thing that , I mean , you wanna pick up the controller and just hit a button quickly to change the channel or volume .	look and usability
+A	2021.96	Yeah , well Alright .	look and usability
+D	2023.88	So , if it's dead obvious , then that's fine .	look and usability
+D	2026.12	But if you're opening the panel and you're looking and you're tuning , then you're paying a bit more attention .	look and usability
+D	2030.17	So it may be sort of different colour buttons isn't so important .	look and usability
+A	2034.01	Okay .	look and usability
+D	2034.05	'Cause you Yeah .	look and usability
+B	2035.83	Yeah .	look and usability
+A	2036.52	So we just add that to profitability in effect .	look and usability
+D	2036.52	So Yeah , I mean so we've dropped the cost , but Same sort of function ?	look and usability evaluation of prototype(s)
+C	2040.26	Mm-hmm .	evaluation of prototype(s)
+A	2042.6	Right , so we're meant to finish up in five minutes .	evaluation of prototype(s)
+D	2046.51	The criteria ?	evaluation of prototype(s)
+D	2049.01	It's alright .	evaluation of prototype(s)
+B	2049.82	'Kay .	evaluation of prototype(s)
+D	2049.93	Just made a load of money .	evaluation of prototype(s)
+C	2062.26	Shouldn't we maybe lose a point on fashion , go to a three ?	evaluation of prototype(s)
+C	2065.37	'Cause we've lost the overall spongy feel .	evaluation of prototype(s)
+C	2068.32	'Cause it doesn't seem right that it just hasn't changed at all .	look and usability
+D	2071.96	Well , but I think we said that w Because you got rid of the rubber , we put an extra an extra sort of fruit um shape on one of the buttons .	look and usability
+C	2081.36	Alright .	look and usability
+D	2081.37	le lemon sh I think well , we could have lemon shaped ones with the volume ones or something .	look and usability
+C	2082.05	Did we decide what that was , which button it was ?	look and usability
+C	2084.45	On the volume ones ?	look and usability
+C	2087.99	Right .	look and usability
+B	2090.6	Uh , .	look and usability
+D	2090.63	Or something like that .	look and usability
+B	2091.08	That's good .	look and usability
+D	2092.07	Yeah .	look and usability
+B	2095.24	Definitely lemon shaped .	look and usability
+D	2105.49	Did did you have to have a rubber case , though , for rubber buttons ?	look and usability
+D	2108.89	Or was it the other way around ?	look and usability
+B	2110.67	You had to have rubber buttons if you had the rubber case .	look and usability
+D	2112.73	Right , okay .	look and usability
+A	2113.01	Mm-hmm .	look and usability
+B	2113.22	So I think we can we're okay .	look and usability
+A	2114.1	So we're okay this way around .	look and usability
+D	2115.53	Yeah .	look and usability
+D	2118.46	So that so we've saved Saved two Euros on that .	look and usability
+A	2119.48	Until the design team comes in and says , get off .	look and usability
+A	2121.9	But you are the design team .	look and usability
+B	2124.12	Then we say it's fine , so it's all good .	look and usability
+A	2152.65	So what bit are we on to ?	look and usability
+C	2159.46	Um , can I just check if that's a cherry or an apple ?	look and usability
+C	2162.9	Did we decide against the apple because of Apple Mac ?	look and usability
+C	2165.16	And did we make it a cherry officially ?	look and usability
+A	2165.81	Yeah .	look and usability
+A	2166.81	I th I th Oh .	look and usability
+D	2167.07	Mm-hmm .	look and usability
+C	2167.54	Right .	look and usability
+A	2169.08	Right , okay .	look and usability
+B	2170.54	Just in case we need that point two for lawsuits and such like .	look and usability
+A	2180.38	Oh drats , I've botched that , haven't I .	evaluation of prototype(s)
+C	2209.92	So were we aiming for a certain target on that scale ?	evaluation of prototype(s)
+D	2213.81	Well , we're aiming for um one for all of them .	evaluation of prototype(s)
+D	2217.46	M but it really has to fit into the budget , so I guess we just have to adjust things to get it i in the Which is fair enough .	evaluation of prototype(s)
+C	2217.7	Right .	evaluation of prototype(s)
+B	2227.68	And we seem to have least something in each criteria .	evaluation of prototype(s)
+D	2231.48	Yeah .	evaluation of prototype(s)
+B	2231.82	We haven't completely left anything out , so As an overall product which has to be quite cheap , we've just about achieved everything .	evaluation of prototype(s)
+D	2234.02	Yeah , I think most Yeah .	evaluation of prototype(s)
+D	2241.17	Yep .	evaluation of prototype(s)
+C	2251.28	So do we have anything else to discuss ?	agenda/equipment issues
+D	2254.5	I don't know .	agenda/equipment issues
+D	2255.48	What's on the agenda ?	agenda/equipment issues
+A	2264.23	Right , okay um What's happened here ?	agenda/equipment issues
+A	2284.22	Right , okay um Mm .	agenda/equipment issues
+A	2303.3	Right , okay um , Right .	agenda/equipment issues
+A	2308.11	So we got So we've done the the finance bit and the Excel project and the We've done the redesign .	agenda/equipment issues
+B	2311.13	We've got the closing .	agenda/equipment issues
+A	2317.85	So we're now on to project process .	agenda/equipment issues
+A	2321.36	Now satisfaction with , for example , room for creativity , leadership , teamwork , means , et cetera , whiteboard , digital pens , et cetera .	agenda/equipment issues
+A	2328.94	So , we're actually now uh , in a sense , on to the evaluation of the course rather than the evaluation of the project is m my understanding of it .	agenda/equipment issues
+D	2336.55	Uh-huh .	agenda/equipment issues
+A	2339.27	So what did you and remembering that nobody's just over the curtain .	agenda/equipment issues
+A	2346.94	So , um So I suppose the easiest way of doing it is to put some notes down , which I will do .	agenda/equipment issues
+D	2350.47	Finish your meeting now .	agenda/equipment issues
+B	2353.76	We should just go through this quickly and then Um , yeah .	evaluation of project process agenda/equipment issues
+C	2354.27	Huh .	agenda/equipment issues
+D	2355.52	Yeah .	agenda/equipment issues
+D	2366.39	Okay .	agenda/equipment issues
+A	2367.59	So , uh I think I have to finish that page .	agenda/equipment issues
+D	2372.51	Oh .	agenda/equipment issues
+A	2372.77	Right , okay , so Project evaluation .	evaluation of project process
+A	2383.68	So , um Creativity .	evaluation of project process
+A	2392.12	Did you feel you got a chance to express yourselves well enough ?	evaluation of project process
+C	2396.5	Yeah .	evaluation of project process
+A	2396.52	Well um Individual meetings .	evaluation of project process
+B	2396.63	Yeah .	evaluation of project process
+D	2397.81	I thought some of the divisions though between sort of the individual meetings were a bit arbitrary .	evaluation of project process
+A	2405.84	How do you mean ?	evaluation of project process
+D	2406.2	Yeah .	evaluation of project process
+D	2407.05	Well , we were finding out various things in in be in-between the meetings , and they didn't the one meeting didn't always follow on for the other one , you know , sort of we had things thrown in at the second meeting where , you know , you'd looked at the remote controls and seen the curviness , but in the first one you'd also looked at some remote controls and looked at the buttons , and I don't understand why it would be in separate meetings that you'd do that .	evaluation of project process
+A	2411.08	In you on your own .	evaluation of project process
+A	2422.09	Um Mm , The only thing you find is in a manufacturing process , you would normally , you go to a meeting , you decide , right , you do this , you do that , you do that .	evaluation of project process
+D	2434.29	You know , you'd sort of you'd probably present it at one or something like that .	evaluation of project process
+D	2446.13	Yeah .	evaluation of project process
+A	2446.67	Then you go away .	evaluation of project process
+A	2448.37	You find out information .	evaluation of project process
+A	2449.79	You then come back .	evaluation of project process
+A	2450.59	You then discuss it .	evaluation of project process
+A	2451.57	You then go and change things around , and then go back .	evaluation of project process
+D	2451.93	Uh-huh .	evaluation of project process
+D	2454.84	Yeah .	evaluation of project process
+A	2454.85	So Whereas , this time , you're really getting it from a database source , so it's not uh well uh Anyway , so , what do you want to put down ?	evaluation of project process
+B	2454.95	Yeah , I suppose and then be going out and finding more information each time and then diff things will be relevant .	evaluation of project process
+D	2458.64	Yeah .	evaluation of project process
+D	2461.56	Yeah .	evaluation of project process
+A	2466.59	I've put , seemed okay .	evaluation of project process
+A	2467.57	Creativity , seemed okay .	evaluation of project process
+A	2469.07	Um um flow of information on on any given subject given subject um sometimes disjointed .	evaluation of project process
+D	2488.63	Yeah .	evaluation of project process
+C	2490.99	I think it maybe could have been a slightly more creative project .	evaluation of project process
+C	2494.81	I mean a remote control isn't the most um kind of fancy thing that you could imagine designing .	evaluation of project process
+D	2499.8	Yeah , the thing itself .	evaluation of project process
+A	2501.07	Um Have could have used a different example pel to increase create Creativity .	evaluation of project process
+C	2503.35	I can't think of a better example at the minute .	evaluation of project process
+D	2503.39	Yeah .	evaluation of project process
+D	2517.09	Yeah .	evaluation of project process
+B	2517.74	Is this go It kinda kis fits the purpose that it was something everyone knows about and then something we can at least look at and think how we can improve on .	evaluation of project process
+D	2524.41	Mm-hmm .	evaluation of project process
+A	2524.66	You have to do it within a set time frame is the other thing , so I th I uh d But the other thing is that uh they're I'm guessing that they're trying to use this um software to to demonstrate how you could uh do a project .	evaluation of project process chitchat
+D	2527.27	Yeah .	evaluation of project process
+D	2528.46	But think like it was a bit restrictive just to say that you have to design a television remote control , in a way .	evaluation of project process
+D	2534.62	I mean it depends what sort of business you're in , I guess .	evaluation of project process
+D	2536.53	I mean this one seems .	evaluation of project process
+D	2537.97	From the website it looks it's quite innovative , but we're coming up with some bucket shop product aren't we that's , you know , fifteen quid .	evaluation of project process
+B	2545.66	one of those things .	evaluation of project process
+B	2546.54	Like uh , companies can have like a range of products and I don't know how it works but I guess that something got sent out and have like a brief to kind of Yeah .	evaluation of project process chitchat
+A	2569.97	I mean , m my wife at the moment , for instance , is uh acting as a computer um for um you normally , you got a problem , so you go to your tutor and find out information to see how to get it fixed .	chitchat
+D	2569.99	Yeah .	chitchat
+D	2584.0	Mm-hmm .	chitchat
+A	2585.25	So what she's doing is she's having to spend a day at the computer terminal at one end so that any student that comes along can uh ask whatever question .	chitchat
+A	2597.95	And then you or the idea is that the whichever uh person's at the other end can point them in the right direction , show them where to either give them directly give them help , or secondly , point them in the right direction , either at the library , or uh or or come back , or go and see Joe Bloggs , or whatever .	chitchat
+A	2619.35	So uh , and that was a project I suspect similar to this , because they they were actually trying to debug the uh computer software to enable um to enable it to work .	chitchat
+A	2633.6	And of course , you had the machine crashing and various things going wrong .	chitchat
+D	2633.64	Hmm .	evaluation of project process
+B	2638.86	Well , sh we look at the last slide , see if it's got anything else .	evaluation of project process
+D	2638.88	Mm-hmm .	evaluation of project process
+A	2639.92	So Alright , so we've got uh New ideas found , did we find any , no .	evaluation of project process chitchat
+B	2641.46	I think there's one one more to go .	evaluation of project process
+D	2643.38	Yeah .	evaluation of project process
+D	2645.19	I mean if you look at their products on their website here , Real Reaction , I mean it's all pretty high-tech and cutting edge .	evaluation of project process
+D	2652.6	And Yeah .	evaluation of project process
+B	2655.08	It was quite good with this um the white board , having that and the digital pens .	evaluation of project process
+B	2658.5	Like , that's something that made it a little easier .	evaluation of project process
+A	2658.92	Alright .	evaluation of project process
+D	2660.34	Yeah .	evaluation of project process
+A	2660.35	Leadership , teamwork .	evaluation of project process
+D	2662.66	we did find a new idea , I mean sort of a kinetic remote control .	evaluation of project process
+D	2667.0	I've never seen one of them before .	evaluation of project process
+D	2668.69	batteries , I think .	evaluation of project process
+D	2669.57	So Mm yeah .	evaluation of project process
+A	2669.81	Does You've got voice recognition computers , that's not remote controls .	evaluation of project process
+B	2670.06	voice recognition , especially not could Yeah .	evaluation of project process
+D	2677.38	Yeah .	evaluation of project process
+C	2678.02	Well it's a different application of it .	evaluation of project process
+A	2680.17	Mm-hmm .	evaluation of project process
+B	2682.35	Yeah , so it's just like the same products , but just put together in a different way .	evaluation of project process
+A	2682.41	Okay , so how do you reckon teamwork went ?	evaluation of project process
+D	2685.12	Mm .	evaluation of project process
+B	2688.61	Um Yeah , I guess we all had separate ideas and then discussed them .	evaluation of project process
+D	2689.01	That went okay , yeah .	evaluation of project process
+D	2693.92	Mm-hmm , yeah .	evaluation of project process
+C	2694.31	Yeah .	evaluation of project process
+A	2698.25	To uh go uh reasonably well .	evaluation of project process
+A	2705.65	Okay .	evaluation of project process
+D	2707.2	I don't think sort of the budget um allowed us to do anything Well , I mean I don't think it I just don't think it fitted in with the rest of their products .	evaluation of project process
+A	2711.9	Bit bit arbitrary .	evaluation of project process
+D	2717.8	I mean , they've got all these sort of , you know , high definition D_V_D_ and portable seven inch d um lightweight computer screens , and uh I'm thinking , do you know , one cheap remote control doesn't really fit in .	evaluation of project process
+A	2720.5	Mm-hmm .	evaluation of project process
+D	2735.33	Surely they they should produ Yeah .	evaluation of project process
+A	2735.53	So , we're m we're meant to comment on leadership and the means , E_ G_ whiteboard , digital pens , et cetera .	evaluation of project process
+C	2744.65	Well leadership's a bit of a funny one , isn't it .	evaluation of project process
+A	2745.03	And and new i new ideas found was the the other thing .	evaluation of project process
+C	2751.01	But we can't really all fairly comment on leadership because you are the Project Manager .	evaluation of project process
+C	2756.78	You were the leader .	evaluation of project process
+C	2758.03	So our experience of leadership wasn't really as much as yours .	evaluation of project process
+D	2762.34	Yeah .	evaluation of project process
+D	2764.29	Yeah .	evaluation of project process
+A	2765.43	Now , I'd much rather be in marketing but I certainly didn't get this uh computer to work as well as I would have liked .	evaluation of project process
+A	2777.16	However , um Alright uh means , so whiteboard um so really , it's uh equipment .	evaluation of project process
+A	2784.82	Oh .	evaluation of project process
+D	2785.38	Yeah .	evaluation of project process
+D	2786.75	It worked .	evaluation of project process
+C	2788.74	Yeah , very nice .	evaluation of project process
+D	2789.01	Comput computers could be a bit difficult at times but I think there's a little there's a little um chi There's a little there's a little chip , I think you must plug it into something and it produces a I don't know .	evaluation of project process
+C	2796.79	But I mean , I d I don't I'm not sure I see the value in these .	evaluation of project process
+C	2799.76	I mean , they record what you're writing , and then what do you do with it ?	evaluation of project process
+C	2803.92	Where do you get the recording ?	evaluation of project process
+C	2805.76	Do you plug the computer or something ?	evaluation of project process
+B	2809.76	So it's not just for us , it's for the experiment as a whole , so Should we quickly look at the last slide ?	evaluation of project process
+B	2816.2	Sh .	evaluation of project process
+C	2816.26	Right .	evaluation of project process
+C	2817.12	I think you watch a video of it kind of .	evaluation of project process
+D	2819.94	Whether it just produces a big image of sort of everything you've written or something , and Page after page .	evaluation of project process
+A	2823.7	Right .	evaluation of project process
+A	2824.47	New ideas found , so one or two .	evaluation of project process
+D	2827.16	Yeah .	evaluation of project process
+D	2828.76	Kinetic powered remote control .	evaluation of project process
+D	2831.29	Um , what was the other one ?	evaluation of project process
+C	2834.82	Voice um recognition thing .	evaluation of project process
+D	2836.11	Vo yeah .	evaluation of project process
+A	2841.74	um and uh voice uh , was it voice activated um recognition .	evaluation of project process
+D	2854.73	Voice recognition , yeah .	evaluation of project process
+D	2856.02	S Almost .	evaluation of project process
+D	2864.25	To fill in these fill in these questionnaires Oh no .	evaluation of project process
+C	2864.67	Pretty much .	evaluation of project process
+A	2866.73	Right , so , uh are the costs within budget , yes .	evaluation of project process
+A	2873.49	Is the project evaluated , yes .	evaluation of project process
+A	2876.54	Uh , don't forget to complete final questionnaire and meeting summary .	agenda/equipment issues
+A	2879.43	Then celebration .	agenda/equipment issues
+B	2883.04	Is that everything ?	agenda/equipment issues
+D	2884.77	Hmm ?	agenda/equipment issues
+D	2885.91	I think that we've got two questionnaires and a report on the last meeting .	agenda/equipment issues
+A	2888.32	Yeah .	agenda/equipment issues
+A	2893.21	Uh , so we don't re So really I tried to save this the last time at twelve point three , and it didn't seem to have saved anywhere .	agenda/equipment issues

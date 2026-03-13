@@ -1,0 +1,1002 @@
+B	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	31.66	Mm .	opening
+D	32.71	So , Hi Christa .	opening
+A	33.63	So , uh now it's the Hi Sammy .	opening
+A	41.4	It's the detail design meeting , so we're going last meeting .	opening
+A	48.21	So um , first uh Mark and Rama are going to present uh the prototype .	opening
+A	56.43	Uh then uh Sammy will propose some uh crite cr criteria to evaluate this prototype .	opening
+A	64.62	Then , w we And then we going to do some finance to see if uh it is uh feasible and uh at the end we will we will um evaluate ourself as a team .	opening
+D	67.39	Yes .	opening
+B	68.67	Yes .	opening
+B	71.88	And chocolate ?	opening
+A	84.02	And that's all .	opening
+D	85.99	Mm .	opening
+A	86.0	Okay .	opening
+A	86.24	So first , let's uh see the prototype .	opening
+C	91.33	Yeah .	presentation of prototype(s)
+C	92.48	Uh , here we have our prototype model .	presentation of prototype(s)
+A	95.28	Okay .	presentation of prototype(s)
+B	95.61	Mm-hmm .	presentation of prototype(s)
+A	95.67	And you have some slides then ?	presentation of prototype(s)
+C	95.99	Yeah .	presentation of prototype(s)
+C	96.86	Yeah , we have also some slides .	presentation of prototype(s)
+B	97.06	Yes , and place some slides .	presentation of prototype(s)
+A	97.11	Yeah .	presentation of prototype(s)
+A	97.63	Mm .	presentation of prototype(s)
+A	98.5	Okay .	presentation of prototype(s)
+A	98.86	Uh so in which uh Mm okay .	presentation of prototype(s)
+C	100.83	In Yeah .	presentation of prototype(s)
+B	101.01	Uh , participant three .	presentation of prototype(s)
+B	103.53	Prototype .	presentation of prototype(s)
+A	107.84	Mm .	presentation of prototype(s)
+C	108.84	Five .	presentation of prototype(s)
+B	111.51	Uh , so this is our remote control .	presentation of prototype(s)
+C	112.92	Him .	presentation of prototype(s)
+B	117.8	It's a r working prototype .	presentation of prototype(s)
+B	119.42	You can use it now by switching all these buttons .	presentation of prototype(s)
+B	123.29	So first , I present as we came to this perfect model , and then we'll give some technical specifications .	presentation of prototype(s)
+D	127.86	Yeah .	presentation of prototype(s)
+A	130.69	Mm-hmm .	presentation of prototype(s)
+B	131.45	That's well , so that's that .	presentation of prototype(s)
+B	134.81	Please , next slide .	presentation of prototype(s)
+B	136.52	We analysed all the fruits and contacted NASA , and uh made some real good Yeah .	presentation of prototype(s)
+A	143.53	MASA ?	presentation of prototype(s)
+B	145.78	If you can see this , and the stars are showing that .	presentation of prototype(s)
+B	151.0	And um , s society will accept that .	presentation of prototype(s)
+D	152.34	Mm-hmm .	presentation of prototype(s)
+B	156.07	For sure .	presentation of prototype(s)
+B	160.33	And making some analysis of different fruits , we choose the ultimate form , ultimate colours , and uh ultimate smell of it .	presentation of prototype(s)
+B	170.24	S please , next slide .	presentation of prototype(s)
+B	172.95	But we still didn't want to go far from our titanium idea , 'cause it's the most of the moder the m the modern material we can p select .	presentation of prototype(s)
+B	186.94	And it's practical .	presentation of prototype(s)
+B	189.94	And it's still say it's for our needs , so please press something .	presentation of prototype(s)
+B	194.58	And as I said , it's perfect .	presentation of prototype(s)
+A	196.54	Okay .	presentation of prototype(s)
+B	200.7	Please press it .	presentation of prototype(s)
+C	200.84	Experience .	presentation of prototype(s)
+C	201.88	Explanat See this .	presentation of prototype(s)
+B	202.72	Everyone is f really uh really glad to obtain an s such a r such a device .	presentation of prototype(s)
+D	208.69	Such a nice thing .	presentation of prototype(s)
+B	212.57	So you can touch it with your hands .	presentation of prototype(s)
+D	214.38	Can I ?	presentation of prototype(s)
+D	215.03	Ho-ho .	presentation of prototype(s)
+B	215.15	Sure .	presentation of prototype(s)
+C	215.52	You can Spongy .	presentation of prototype(s)
+B	216.27	Yes .	presentation of prototype(s)
+A	218.23	What do you say ?	presentation of prototype(s)
+B	219.93	N You must say it .	presentation of prototype(s)
+D	219.96	It says I will uh I'll buy it .	presentation of prototype(s)
+B	225.4	Yeah .	presentation of prototype(s)
+A	227.24	One day .	presentation of prototype(s)
+D	227.68	If I if I need so .	presentation of prototype(s)
+A	228.65	He Hmm .	look and usability presentation of prototype(s)
+D	230.96	Hopefully my daughter will like it .	presentation of prototype(s)
+B	233.52	Okay .	presentation of prototype(s)
+B	234.76	Y and we got the answer .	presentation of prototype(s)
+B	236.8	Uh , it is , yes , of course .	presentation of prototype(s)
+D	237.11	Yes , of course .	presentation of prototype(s)
+D	238.07	Of c course .	presentation of prototype(s)
+B	240.16	, please next slide .	presentation of prototype(s)
+B	242.14	Um , this is a prototype .	presentation of prototype(s)
+B	243.35	You can have a look at it , and That's all I wanted to say .	presentation of prototype(s)
+D	245.25	Ah .	presentation of prototype(s)
+B	248.47	Now it's technical specification by our colleague .	look and usability
+C	248.49	Hmm .	look and usability
+C	256.68	So Yeah .	look and usability
+D	257.68	Oh , there is a button missing .	look and usability
+D	260.54	Okay .	look and usability
+C	261.26	This this is really flexible .	look and usability
+C	262.59	You can add your buttons .	look and usability
+D	263.92	It's in option .	look and usability
+C	265.38	Yeah .	look and usability
+C	266.64	So function , mm So , as we discussed , we have to switch on switch off whenever we want .	look and usability
+A	268.25	Mm-hmm .	look and usability
+C	274.55	And so , we have buttons and using L_C_D_ , or like you can use this jog wheel and select which ever option on the L_C_D_ , and then do on and off .	look and usability
+C	286.98	Then you ha you'll have volume control .	look and usability
+C	289.48	So , you you can press these buttons to increase or decrease the volume .	look and usability
+C	296.69	And we have some L_C_D_ controls .	look and usability
+C	298.83	Like , m switching the L_C_D_ display if you want to use L_C_D_ , or you don't want you can just use normal button .	look and usability
+A	304.9	Mm-hmm .	look and usability
+C	306.3	And we have speech recognition .	look and usability
+C	309.03	Here you have microphone , and then it date records your voice , and then it try to recognise .	look and usability
+D	311.0	Hmm .	look and usability
+C	314.94	And it can also do the action .	look and usability
+C	318.24	And location finder .	look and usability
+C	320.14	And we want to do the location basically using speech recogniser .	look and usability
+D	323.89	Mm-hmm .	look and usability
+C	324.12	You can just say , where is my remote control .	look and usability
+C	326.83	Or uh , you can just give some nickname to your remote control , like Bobby .	look and usability
+D	329.5	Hey , babe .	look and usability
+A	331.71	Bobby .	look and usability
+C	332.16	And then , it will say hi .	look and usability
+D	332.71	Bob .	look and usability
+D	334.84	Hey Bob .	look and usability
+C	336.87	Yeah , hi , and then you can use it .	look and usability
+D	337.04	Okay , that's good .	look and usability
+A	338.0	Mm-hmm .	look and usability
+A	339.19	Hmm .	look and usability
+A	340.24	'Kay .	look and usability
+C	342.26	So , um our team is now fruits .	look and usability
+C	345.89	Mainly strawberry .	look and usability
+C	347.16	So , you can have And then you can see the look L_C_D_ and all the switches .	look and usability
+D	349.3	Oh , these are strawberries .	look and usability
+A	356.58	Are colourful .	look and usability
+A	357.79	Yeah .	look and usability
+C	358.84	Material , we want to stick to titanium .	look and usability
+C	363.04	We will send , we want to Yeah , or s So , we want to have simple and perfect shapes , like I shown in these phones .	look and usability
+D	364.13	Fruit smelling spongy titanium .	look and usability
+D	367.89	I didn't know it exist , but that's great .	look and usability
+C	382.05	You can have your own designs and and you can feel simple designs .	look and usability
+C	390.22	And you can choose colours on your day for each day , or even many colours .	look and usability
+D	391.73	Ha .	look and usability
+A	394.7	Ho-ho .	look and usability
+D	396.9	You mean we can change the colour uh of th Yeah .	look and usability
+A	397.17	That's for the L_C_D_ or for the titanium ?	look and usability
+C	400.92	For the L_C_D_ .	look and usability
+D	401.72	Yeah okay , for the L_C_D_ .	look and usability
+C	402.93	With titanium it's it is silver .	look and usability
+D	404.14	Tit titanium is Uh , okay .	look and usability
+B	405.09	We are still working on titanium .	look and usability
+A	405.64	Mm-mm .	look and usability
+C	406.04	Yeah .	look and usability
+B	406.84	So , r we'll start with L_C_D_ .	look and usability
+C	407.47	Mm , yeah .	look and usability
+B	409.09	You can ask Bob .	chitchat
+B	410.66	It's Tuesday .	chitchat
+C	410.66	Yeah .	chitchat
+D	412.06	Yeah , Bob , please .	chitchat
+A	413.0	Hey , you know you're theme today .	chitchat
+D	414.77	Tuesday colour .	chitchat
+C	416.24	Yeah .	chitchat
+C	416.54	Even you can configure your colours for its the depending on your mood , or s And you can have many colours on weekends .	chitchat
+D	416.85	Okay .	chitchat
+A	420.05	Hmm .	chitchat
+D	421.03	Mm-hmm .	chitchat
+D	423.41	Black for Sunday .	chitchat
+C	427.4	Or Huh ?	chitchat
+A	427.46	And w wait , wh what are the strawberries for ?	chitchat
+D	431.09	On the L_C_D_ ?	chitchat
+A	431.98	Wh wh Mm-hmm .	chitchat
+D	432.14	Oh .	chitchat
+C	432.44	Ah , these are like sensors .	chitchat
+D	436.22	Of course .	chitchat
+D	437.23	What do you think ?	chitchat
+B	437.72	That's location sensors .	chitchat
+D	438.46	Strawberry sensors .	chitchat
+D	443.29	Very useful .	chitchat
+A	444.03	Okay .	chitchat
+A	445.56	Strawberries .	chitchat
+C	446.72	So , after this meeting we'll propose a party for our success for So , if you are vegetarian or you have any options , please let us know .	chitchat
+A	452.1	Ah .	chitchat
+D	452.76	Lounge meeting .	chitchat
+B	460.29	Yeah , and we can just some strawberry first .	chitchat
+C	462.42	Yeah .	chitchat
+B	462.95	Um Oops .	chitchat
+D	463.14	Alright .	chitchat
+D	463.69	Good .	chitchat
+A	463.78	Okay .	chitchat
+C	465.81	S So , any specific questions for Yeah .	chitchat
+A	467.32	Mm-hmm .	chitchat
+D	467.37	So , huh .	chitchat
+D	468.16	Interesting .	chitchat
+D	469.14	In interesting .	chitchat
+D	470.32	Mm mm .	chitchat
+A	471.03	Uh we'll see in the financial part if uh all gets into W Who is the five uh fifty millions we first make a party in ?	chitchat
+D	475.97	It makes sense .	chitchat
+B	479.38	Let's make a party first maybe .	chitchat
+C	482.54	Yeah .	chitchat
+C	483.12	Then we can discuss We can Yeah , then we can have how much for how money is left .	chitchat
+D	488.38	So uh , this is What a design .	chitchat
+A	493.51	Mm-hmm .	chitchat
+A	494.85	Okay .	chitchat
+A	495.89	Uh , so Let's uh , yeah , let's see if uh th it's meet the evaluation criterium .	evaluation of prototype(s) chitchat
+D	498.48	It's my turn .	evaluation of prototype(s)
+D	500.09	Mm-hmm .	evaluation of prototype(s)
+D	501.07	Let's see if this Yeah , if you meet the evaluation criterion .	evaluation of prototype(s)
+C	502.49	Yeah .	evaluation of prototype(s)
+A	507.66	Oops .	evaluation of prototype(s)
+C	512.24	Fudge .	evaluation of prototype(s)
+D	514.94	Yeah .	evaluation of prototype(s)
+D	515.35	So , evaluation please .	evaluation of prototype(s)
+D	518.84	So .	evaluation of prototype(s)
+D	519.6	You made a very nice prototype , and um , I think , we now need altogether to try to evaluate it to see if it makes sense to do it , if it fulfils our what we want to do , and things like that .	evaluation of prototype(s)
+D	534.98	So mm Uh , next slide , please .	evaluation of prototype(s)
+D	540.2	As you know , before going and uh creating and producing these strawberry uh remote control , it's very important to first verify if it makes sense , if we have a chance to sell it .	evaluation of prototype(s)
+C	548.46	Yeah .	evaluation of prototype(s)
+D	555.28	Uh , so we need to evaluate it um , try to do it in a constative way , and as much as we can .	evaluation of prototype(s)
+D	562.66	To so what I propose is that we are going to to have this scale from one to seven .	evaluation of prototype(s)
+D	568.1	One meaning that , ye yes uh it fulfils uh the the criterion , whatever it is .	evaluation of prototype(s)
+D	575.03	And seven meaning , no it doesn't fulfil at all .	evaluation of prototype(s)
+D	578.03	And we're all l going to list all the criterion .	evaluation of prototype(s)
+D	579.97	I'm going to go to that next slide , and together try to evaluate this according to this criterion and from one to seven .	evaluation of prototype(s)
+A	582.1	Okay .	evaluation of prototype(s)
+D	587.92	And then we are just going to have an average , which will give us the value of our uh remote control .	evaluation of prototype(s)
+D	596.89	So , maybe we can have a look at the criteria ?	evaluation of prototype(s)
+C	602.19	Fancy .	evaluation of prototype(s)
+D	602.26	So these are the criterion uh I'm I thought were important .	evaluation of prototype(s)
+D	606.65	Of course , this can be discussed , but let's let's see , so let's vote .	evaluation of prototype(s)
+D	613.38	So we have fancy here and we have the scale from one to seven with four in the middle .	evaluation of prototype(s)
+A	620.47	Mm-hmm .	evaluation of prototype(s)
+D	628.82	So , what do you think , is it fancy ?	evaluation of prototype(s)
+C	628.86	Huh .	evaluation of prototype(s)
+C	630.6	Yeah , what's is really Uh , it's really Yeah .	evaluation of prototype(s)
+A	633.81	Uh , I think that fancy , we can say it is fancy .	evaluation of prototype(s)
+D	637.13	It is very very fancy .	evaluation of prototype(s)
+D	638.76	Or have you ever seen something like that ?	evaluation of prototype(s)
+A	641.87	Oh .	evaluation of prototype(s)
+A	642.31	I am not the d the only one choosing , yeah .	evaluation of prototype(s)
+D	644.28	Yeah , of course .	evaluation of prototype(s)
+D	645.34	What do you think ?	evaluation of prototype(s)
+A	645.41	Uh what do you think ?	evaluation of prototype(s)
+B	647.14	Feel the weight .	evaluation of prototype(s)
+D	647.25	Is it The weight is later .	evaluation of prototype(s)
+C	650.74	Oh .	evaluation of prototype(s)
+B	650.76	Really .	evaluation of prototype(s)
+A	651.45	Uh-huh .	evaluation of prototype(s)
+D	651.65	Now we're We're on the fanciness now .	evaluation of prototype(s)
+B	653.31	Okay .	evaluation of prototype(s)
+D	655.42	I think it's quite fancy .	evaluation of prototype(s)
+C	656.5	Yeah , yeah .	evaluation of prototype(s)
+D	656.7	It's uh Yeah , so No it's it's one .	evaluation of prototype(s)
+C	656.92	We can give at least five or six , seven .	evaluation of prototype(s)
+A	657.09	Yeah .	evaluation of prototype(s)
+A	657.55	Yeah .	evaluation of prototype(s)
+A	659.6	It's in the other .	evaluation of prototype(s)
+A	660.33	Yeah .	evaluation of prototype(s)
+D	660.48	Yeah , o one means it's , yes , a very fancy and seven mean no at all .	evaluation of prototype(s)
+C	660.74	Oh , Oh .	evaluation of prototype(s)
+C	660.97	So Oh , okay .	evaluation of prototype(s)
+A	662.86	Mm .	evaluation of prototype(s)
+C	663.3	Yeah , okay .	evaluation of prototype(s)
+C	664.26	Oh , okay .	evaluation of prototype(s)
+C	664.67	So M maybe two .	evaluation of prototype(s)
+D	665.08	So it's one or two .	evaluation of prototype(s)
+D	666.74	What do you think ?	evaluation of prototype(s)
+A	666.76	Two .	evaluation of prototype(s)
+A	667.15	Let's say two , yeah .	evaluation of prototype(s)
+D	667.38	Two ?	evaluation of prototype(s)
+D	668.01	Okay .	evaluation of prototype(s)
+B	668.12	Two .	evaluation of prototype(s)
+B	668.58	Two .	evaluation of prototype(s)
+D	668.73	So here , two .	evaluation of prototype(s)
+D	670.16	Up .	evaluation of prototype(s)
+D	671.48	Then we have uh technology .	evaluation of prototype(s)
+C	671.73	Technology .	evaluation of prototype(s)
+C	675.89	Yeah .	evaluation of prototype(s)
+C	676.03	Um And we have L_C_D_ .	evaluation of prototype(s)
+D	676.29	So , what about technology ?	evaluation of prototype(s)
+D	677.48	We have uh we have speech recognition , we have location based , we have L_C_D_ .	evaluation of prototype(s)
+C	684.71	So you change colours .	evaluation of prototype(s)
+A	684.8	Change colour of t Yeah , I think it's a Yeah .	evaluation of prototype(s)
+D	685.83	Change colour , I mean that's very Quite d I think it's a one for that , at least .	evaluation of prototype(s)
+C	688.44	Useful .	evaluation of prototype(s)
+B	690.13	Yeah , yeah , yeah .	evaluation of prototype(s)
+C	691.52	Yeah , yeah .	evaluation of prototype(s)
+B	691.54	Yeah .	evaluation of prototype(s)
+A	691.55	Yeah .	evaluation of prototype(s)
+B	691.76	Uh No .	evaluation of prototype(s)
+C	691.96	It's silly .	evaluation of prototype(s)
+D	692.08	At least a one , yeah .	evaluation of prototype(s)
+A	693.03	Mm-mm .	evaluation of prototype(s)
+D	695.01	Robustness , uh-huh .	evaluation of prototype(s)
+C	696.24	Uh , still we need to cha Yeah , it Maybe strawberry .	evaluation of prototype(s)
+D	699.22	So let's suppose my daughter take it and um and through it away .	evaluation of prototype(s)
+A	702.54	Um The strawberries Oh .	evaluation of prototype(s)
+D	704.02	Do you think it makes sense that it's going to live again ?	evaluation of prototype(s)
+D	706.86	Uh , maybe not the prototype .	evaluation of prototype(s)
+D	710.39	Let's try .	evaluation of prototype(s)
+D	713.37	Oh my god .	evaluation of prototype(s)
+D	715.95	Okay , we just lost one strawberry .	evaluation of prototype(s)
+D	718.05	So Not at all ?	evaluation of prototype(s)
+C	718.21	Oh .	evaluation of prototype(s)
+B	719.18	No .	evaluation of prototype(s)
+B	720.12	How can I say this .	evaluation of prototype(s)
+C	721.12	Yeah , we can easily plug it .	evaluation of prototype(s)
+B	721.71	It's still it's still working , and your daughter got a bonus .	evaluation of prototype(s)
+D	723.72	It is Yeah .	evaluation of prototype(s)
+B	725.87	A strawberry .	evaluation of prototype(s)
+D	726.9	Yeah .	evaluation of prototype(s)
+D	727.79	So it's not so bad .	evaluation of prototype(s)
+A	728.88	Mm-mm .	evaluation of prototype(s)
+D	729.08	I um uh I would say three .	evaluation of prototype(s)
+C	729.14	Yeah , yeah .	evaluation of prototype(s)
+A	730.84	Yeah .	evaluation of prototype(s)
+A	731.24	But it's too .	evaluation of prototype(s)
+C	731.66	Yeah .	evaluation of prototype(s)
+D	731.79	Yeah , that does make sense , yeah ?	evaluation of prototype(s)
+A	732.28	It's um robust , yeah .	evaluation of prototype(s)
+C	735.67	Useful ?	evaluation of prototype(s)
+D	736.28	Useful .	evaluation of prototype(s)
+D	738.21	Well , so the question is does it have uh the minimum requirement of re remote control ?	evaluation of prototype(s)
+C	743.58	Yeah , Yeah .	evaluation of prototype(s) look and usability
+D	743.73	So I don't know .	evaluation of prototype(s)
+D	744.74	These buttons are uh It not clear .	look and usability
+A	745.59	Oh , yeah , lets me try .	look and usability
+D	746.7	But you have at least uh next produce .	look and usability
+A	747.82	Yeah .	look and usability
+A	749.78	What is uh next , please ?	look and usability
+C	750.98	Yeah , channel .	look and usability
+C	751.65	I this is volume control and channel changes .	look and usability
+D	754.08	Uh , it depends on the Okay .	look and usability
+C	754.33	These are the main You Yeah .	look and usability
+A	755.59	And you can uh do di two sites ?	look and usability
+A	758.46	Yeah .	look and usability
+C	759.25	Yeah , and you can do on L_C_D_ using these going to scrolling all the option .	look and usability
+A	762.32	Okay , also .	look and usability
+D	764.45	So but , for instance , because the L_C_D_ is not uh touch control , touch screen , you cannot go to channel twenty five directly .	look and usability
+C	764.55	So if you don't want Yeah , um yeah .	look and usability
+A	770.55	You can , by using the You c push here the the yeah .	look and usability
+C	770.84	Yeah .	look and usability
+B	770.89	You can .	look and usability
+D	772.15	Directly .	look and usability
+B	772.8	You go you So , the basic mode Yeah .	look and usability
+B	776.74	So that's simple .	look and usability
+B	777.47	The basic mode is uh you got just two buttons and a jog dial .	look and usability
+D	780.02	Yeah .	look and usability
+B	781.93	With two buttons , you do this like uh volume up , volume down .	look and usability
+D	782.06	Oh , it's a jog dial , okay .	look and usability
+D	786.02	Uh-huh .	look and usability
+C	786.26	And channel .	look and usability
+B	786.46	Or if you go to the site , it's channel up channel down .	look and usability
+D	789.82	Okay .	look and usability
+B	790.54	And if you want to make to s twenty-five , you push on this .	look and usability
+D	794.63	Yeah .	look and usability
+C	795.07	You can select .	look and usability
+B	795.56	You select twenty , you select five .	look and usability
+D	799.5	Okay .	look and usability
+B	799.62	That's it .	look and usability
+C	800.18	Yeah mm .	look and usability
+D	801.21	It's much longer than that that being two two five , no ?	look and usability
+B	802.82	No .	look and usability
+D	804.85	Don't you think so ?	look and usability
+D	806.02	May not okay , we can go .	look and usability
+D	807.21	That's uh You're right .	look and usability
+C	807.84	Yeah , yeah , yeah .	look and usability
+C	808.25	Y you need to like press two and five and Yeah .	look and usability
+D	808.84	That's it's less uh Yeah .	look and usability
+D	811.9	But it's it's nice , because people anyway don't go there .	look and usability
+D	815.01	But So what do you think for it , usefulness ?	look and usability
+C	815.09	Yeah , yeah .	look and usability
+C	815.64	Yeah mm .	look and usability
+C	820.53	So , d Yeah , we need to address we want we only address two main functions here and the other functions will be on L_C_D_ .	look and usability
+D	820.58	Seems to be useful .	look and usability
+C	827.69	So so Yeah .	look and usability
+A	829.01	Let me understand well , because I'm not sure that's for that this one are b d uh two dir directional button .	look and usability
+D	832.32	Both .	look and usability
+D	834.71	Yeah .	look and usability
+A	835.16	Yeah , two Yeah .	look and usability
+B	835.27	Yeah .	look and usability
+D	835.58	Yeah .	look and usability
+B	836.15	Yeah .	look and usability
+D	836.5	Up down or left right .	look and usability
+C	836.68	Yeah .	look and usability
+C	837.26	Up .	look and usability
+A	837.38	Yeah .	look and usability
+D	837.62	Yeah .	look and usability
+A	838.01	And which what is that ?	look and usability
+D	840.69	That Cool .	look and usability
+B	840.85	It's a jog dial for controlling the cursor on the L_C_D_ screen .	look and usability
+C	840.99	This is jog wheel .	look and usability
+A	843.49	Okay , okay .	look and usability
+C	844.09	Yeah .	look and usability
+A	844.21	It's a kind Oh , okay okay .	look and usability
+B	844.47	Like , selecting the menus .	look and usability
+C	845.21	Um , see in L_C_D_ , like you will have blocks and you select which one .	look and usability
+A	848.7	Oh oh okay , great .	look and usability
+D	850.28	I would say then uh Two or three ?	look and usability evaluation of prototype(s)
+A	851.46	Now it's looks us useful .	look and usability
+C	853.71	Yeah .	evaluation of prototype(s)
+A	854.22	Yeah .	look and usability
+D	854.81	Two or three ?	evaluation of prototype(s)
+C	855.07	Yeah .	evaluation of prototype(s)
+C	855.75	Two , maybe .	evaluation of prototype(s)
+D	856.16	Two .	evaluation of prototype(s)
+D	857.11	Okay , two .	evaluation of prototype(s)
+A	857.39	Yeah .	evaluation of prototype(s)
+D	860.28	So size and weight .	evaluation of prototype(s)
+C	863.82	Yeah , yeah .	evaluation of prototype(s)
+D	865.01	Is it the the the effective size and weight that the Is it uh real size , real weight ?	evaluation of prototype(s)
+D	870.54	Or Because it Size is going to be that , yeah ?	evaluation of prototype(s)
+C	871.56	Yeah , it's size al almost Yeah , because it is The weight will be bit lighter .	evaluation of prototype(s)
+D	876.23	Uh , and and It's going to be lighter , because this seems to be very heavy f I mean , for my daughter , for instance .	evaluation of prototype(s)
+C	879.16	We will s We use titanium .	evaluation of prototype(s)
+B	879.86	Sure , without titanium alloy , it's going to be light .	evaluation of prototype(s)
+A	880.48	Mm-mm .	evaluation of prototype(s)
+C	881.4	Yeah .	evaluation of prototype(s)
+C	883.2	Yeah .	evaluation of prototype(s)
+C	884.48	Yeah .	evaluation of prototype(s)
+B	884.54	Of course .	evaluation of prototype(s)
+C	886.05	Heavy .	evaluation of prototype(s)
+C	886.59	Yeah .	evaluation of prototype(s)
+A	887.82	Mm-hmm .	evaluation of prototype(s)
+C	888.29	Yeah .	evaluation of prototype(s)
+D	889.69	Not sure if uh she can use it .	evaluation of prototype(s)
+C	892.71	But sides uh , the sides should be okay .	evaluation of prototype(s)
+D	893.64	So , should be okay .	evaluation of prototype(s)
+C	894.74	Yeah mm .	evaluation of prototype(s)
+D	896.9	Up to three for that , because I'm haven't seen the weight so I must not uh Colour and shape .	evaluation of prototype(s)
+A	898.36	Mm-mm .	evaluation of prototype(s)
+B	900.26	Okay .	evaluation of prototype(s)
+C	900.64	Oh .	evaluation of prototype(s)
+B	901.49	Okay .	evaluation of prototype(s)
+A	905.88	Uh-oh .	evaluation of prototype(s)
+D	910.22	Well , so colour , it seems that we have the several colours for the L_C_D_ .	evaluation of prototype(s)
+C	914.77	Yeah .	evaluation of prototype(s)
+A	915.32	Yeah .	evaluation of prototype(s)
+D	915.43	But um , it's not very clear what is the colour of the sh the sh the case .	evaluation of prototype(s)
+A	920.56	Yeah .	evaluation of prototype(s)
+C	920.69	The case is silver titanium , no ?	evaluation of prototype(s)
+D	921.29	It's a it's going to be titanium .	evaluation of prototype(s)
+A	922.04	Yeah , it's .	evaluation of prototype(s)
+C	923.79	Yeah .	evaluation of prototype(s)
+D	923.84	Okay , okay .	evaluation of prototype(s)
+D	924.48	That's nice .	evaluation of prototype(s)
+A	925.38	Let's imagine .	evaluation of prototype(s)
+D	926.31	I think it's good .	evaluation of prototype(s)
+D	927.15	Okay .	evaluation of prototype(s)
+A	927.64	And what about the strawberries on the top ?	look and usability
+A	930.34	I'm not convince .	look and usability
+D	931.96	Yahoo .	look and usability
+A	931.98	But maybe I'm not trendy .	look and usability
+A	933.44	But , uh Yeah , but uh uh they're not useful .	look and usability
+D	935.18	Well y you know , it's this uh fruit and vegetable year .	look and usability
+C	935.24	Oh .	look and usability
+C	938.63	Yeah , yeah .	look and usability
+D	939.13	So Uh , I think usefulness is m as as I rem um just have to remind you that usefulness is much less important than fanciness .	look and usability
+C	939.15	Yeah .	look and usability
+A	942.09	I I mean it that's uh Mm-hmm .	look and usability
+C	942.18	So maybe , I think Yeah .	look and usability
+A	950.3	Yep .	look and usability
+C	950.52	Yeah , well Yeah .	look and usability
+D	951.0	Whether it's fancy or not now , it we have to decide .	look and usability
+C	952.92	Um Yeah , well then it's bit difficult to use .	look and usability
+A	953.11	Hmm .	look and usability
+D	954.2	But this If it's Uh-huh .	look and usability
+A	955.73	I would have m uh i found more fancy that the fruits are useful .	look and usability
+D	961.74	So , that they will that maybe the fruit may be here instead .	look and usability
+A	964.93	Yeah .	look and usability
+C	967.98	Not like this d We're just giving the fruit for more fanciness and more attraction , too .	look and usability
+A	971.33	Mm-hmm .	look and usability
+A	972.39	But the n Yeah .	look and usability
+C	973.95	So , maybe think we can have rubber or some sponges , stuff for strawberries and different colours .	look and usability
+A	980.72	Mm .	look and usability
+C	981.14	So it's Even These buttons But it looks really not really good .	look and usability
+D	981.83	So , it seems we are not so clear on the shape uh I suggested three .	look and usability evaluation of prototype(s)
+A	985.51	No , I'm not sure uh why uh if it was like this I It's n no , it's not fancy any more .	look and usability
+C	992.63	I mean , the f Yeah .	look and usability
+C	995.03	So these are kind of rubber things .	look and usability
+C	996.61	Even if you lose one you can just put whatever .	look and usability
+A	997.87	Okay .	look and usability
+B	999.92	And Moreover , moreover it covers it covers all the end goals .	look and usability evaluation of prototype(s)
+C	1000.12	Even we can provide many different colours or different fruits , and Yeah .	look and usability evaluation of prototype(s)
+A	1001.93	Uh-huh .	look and usability
+A	1002.4	And different routes .	look and usability
+A	1003.64	Okay , I see what Okay , so you you you feel like it's something uh a protection for the remote control .	look and usability evaluation of prototype(s)
+B	1006.44	Even if it is , you know , it's very rounded , but still you got some rubber fruit here , and it's completely uh completely secure to leave it uh with children and that .	evaluation of prototype(s)
+C	1011.09	Yeah .	evaluation of prototype(s)
+C	1016.3	Yeah .	evaluation of prototype(s)
+C	1019.09	Yeah .	evaluation of prototype(s)
+C	1020.38	Yeah .	evaluation of prototype(s)
+C	1021.39	Yeah , we've yeah we have sensors here and so here and here , so we just Yeah , so even if you don't put , it works .	evaluation of prototype(s)
+A	1025.21	Also .	evaluation of prototype(s)
+C	1028.3	But this is really fancy .	evaluation of prototype(s)
+A	1029.37	Okay .	evaluation of prototype(s)
+A	1031.86	Okay .	evaluation of prototype(s)
+D	1032.12	Because uh , everybody s doesn't seem to be convince , although it's quite You have good arguments .	evaluation of prototype(s)
+B	1035.59	Okay .	evaluation of prototype(s)
+B	1036.6	Okay .	evaluation of prototype(s)
+C	1036.78	Yeah .	evaluation of prototype(s)
+C	1038.08	Yeah .	evaluation of prototype(s)
+D	1038.53	But And uh the last one is adaptive .	evaluation of prototype(s)
+A	1039.77	Okay .	evaluation of prototype(s)
+D	1044.16	This is not r maybe not as important as the other one , but uh can we adapt it to each each personal use ?	evaluation of prototype(s)
+C	1047.36	Yeah .	evaluation of prototype(s)
+B	1052.26	Sure , sure , just look at it .	evaluation of prototype(s)
+D	1055.82	Great .	evaluation of prototype(s)
+B	1055.88	It's full adaptable .	evaluation of prototype(s)
+D	1057.73	Fully adaptable .	evaluation of prototype(s)
+A	1058.19	Wow , that's a Yea Yeah , it's fudge titanium .	evaluation of prototype(s)
+B	1058.64	Yeah , you can fit it into your palm , you know .	evaluation of prototype(s)
+D	1058.76	That's Yeah .	evaluation of prototype(s)
+D	1059.98	So you can fit into your palm , okay .	evaluation of prototype(s)
+D	1061.96	That What else can we need ?	evaluation of prototype(s)
+C	1061.97	Yeah .	evaluation of prototype(s)
+C	1062.81	You can Yeah .	evaluation of prototype(s)
+D	1063.73	You Do you think you are gonna be able to do that with ti titanium as well ?	evaluation of prototype(s)
+D	1068.55	It's fudge , yeah , yeah .	evaluation of prototype(s)
+A	1068.64	You know .	evaluation of prototype(s)
+A	1069.34	Right , yeah .	evaluation of prototype(s)
+B	1069.57	Mm , It's two point one seven .	evaluation of prototype(s)
+D	1069.83	Yeah , fruit titanium , yeah .	evaluation of prototype(s)
+A	1070.19	And uh Okay .	evaluation of prototype(s)
+D	1071.82	Well , I if if this is if you are ready to do that , then I think it deserves a one .	evaluation of prototype(s)
+C	1075.45	Yeah .	evaluation of prototype(s)
+A	1077.96	Let's go for one .	evaluation of prototype(s)
+D	1079.92	Okay .	evaluation of prototype(s)
+C	1080.76	Yeah .	evaluation of prototype(s)
+D	1082.18	Now we have to do the average .	evaluation of prototype(s)
+C	1085.28	Three , three , six , eight , eleven .	evaluation of prototype(s)
+D	1088.0	Who is good in math ?	evaluation of prototype(s)
+D	1091.81	Okay .	evaluation of prototype(s)
+D	1093.26	Two point one seven .	evaluation of prototype(s)
+D	1095.15	That's nice .	evaluation of prototype(s)
+D	1095.89	Two point one seven out of seven .	evaluation of prototype(s)
+C	1098.5	Hmm .	evaluation of prototype(s)
+D	1099.52	I think we have a good good thing .	evaluation of prototype(s)
+A	1102.45	Yeah .	evaluation of prototype(s)
+D	1104.36	Well , that's all I had to say about the evaluation .	evaluation of prototype(s)
+D	1107.96	So It seems to be good , yeah .	evaluation of prototype(s)
+A	1108.0	So it's a good evaluation .	evaluation of prototype(s)
+A	1110.28	Yeah .	evaluation of prototype(s)
+C	1110.32	Yeah mm .	evaluation of prototype(s)
+A	1110.51	Mm .	evaluation of prototype(s)
+D	1110.66	We have uh Yeah .	evaluation of prototype(s)
+C	1111.32	Yeah , two one one seven , we have .	evaluation of prototype(s)
+C	1112.84	So Financi Energy .	evaluation of prototype(s) costing
+A	1113.15	Mm-mm .	evaluation of prototype(s)
+D	1113.25	Yeah .	evaluation of prototype(s)
+D	1113.99	Okay .	evaluation of prototype(s)
+D	1115.07	Thanks .	evaluation of prototype(s)
+A	1116.95	Okay .	costing
+A	1117.86	So now , it has to fulfil the financial criterium ?	costing
+D	1123.49	Ah-ha .	costing
+A	1124.99	So , I have an Here .	costing
+A	1128.41	Um .	costing
+D	1134.58	So so how many batteries do we need ?	costing
+C	1135.28	Uh , we use bat One battery .	costing
+D	1138.04	One battery ?	costing
+C	1138.91	Yep .	costing
+A	1139.09	Okay , so two .	costing
+D	1139.99	Good .	costing
+D	1141.41	Why two ?	costing
+C	1143.94	Oh , we just need one , I guess .	costing
+D	1145.47	Say no .	costing
+D	1146.49	No , ne never install .	costing
+A	1148.3	Uh-huh .	costing
+D	1149.36	Two batteries or one ?	costing
+A	1151.27	Oh .	costing
+C	1152.18	No , number is one .	costing
+C	1152.99	We need only one battery .	costing
+D	1153.67	Only one .	costing
+A	1153.89	Yeah yeah , but the price is two .	costing
+D	1155.67	No , no .	costing
+A	1155.94	Oh , number .	costing
+D	1156.16	But no , no .	costing
+B	1156.25	No , uh you just Number .	costing
+A	1156.56	Sorry sorry sorry .	costing
+C	1156.71	Number , number .	costing
+D	1156.8	No , no way .	costing
+A	1157.55	I'm sorry .	costing
+D	1157.8	Yeah .	costing
+A	1158.12	Yeah .	costing
+B	1158.44	Yeah .	costing
+A	1158.97	Yeah .	costing
+D	1159.01	You never use uh Excel ?	costing
+A	1160.01	Oh .	costing
+A	1160.49	No , never .	costing
+D	1161.33	Good .	costing
+B	1161.44	How What what's the limit ?	costing
+A	1165.9	H Okay .	costing
+B	1165.91	Uh , it's it's okay that I don't know , 'cause uh it's not my field .	costing
+D	1166.09	It's twelve bucks .	costing
+B	1169.31	Twelve bucks .	costing
+D	1170.0	Twelve bucks .	costing
+B	1170.48	Okay , now Mm-hmm .	costing
+D	1170.8	Twelve and a half , I think .	costing
+C	1172.78	So we We have sample chip .	costing
+B	1173.01	Check that number also .	costing
+D	1173.23	Okay .	costing
+D	1178.02	Okay , electronics .	costing
+D	1179.59	So It's a simple chip ?	costing
+C	1180.94	Uh , like simple chip , yeah .	costing
+D	1182.31	Simple chip , okay .	costing
+C	1182.39	So , yeah .	costing
+D	1183.58	One .	costing
+C	1184.17	Yeah .	costing
+C	1184.64	Four buttons at least .	costing
+D	1185.96	Okay .	costing
+C	1186.92	And then we have the t sample speaker sensor for speech recognition .	costing
+A	1188.13	And for the One also .	costing
+D	1193.7	One or two ?	costing
+C	1193.73	Yeah , one to one .	costing
+D	1194.13	One ?	costing
+C	1194.94	Yeah , one .	costing
+D	1195.31	Okay .	costing
+D	1196.84	So the case , which one uh is it in the end ?	costing
+C	1200.81	Yeah , I think we will go for a single curve , no ?	costing
+D	1203.95	Let's do a single curve .	costing
+C	1204.74	Oh , is Oh .	costing
+B	1205.28	It's it's flat .	costing
+D	1206.4	It's flat , and curved .	costing
+C	1207.99	Oh , okay .	costing
+A	1208.66	I thought you can curve somebody .	costing
+B	1208.73	It's flat .	costing
+B	1211.3	But it is flat , you Look .	costing
+D	1211.51	It's curvable .	costing
+B	1213.15	It's curvable , but it's not curved .	costing
+D	1216.35	Maybe there is a supplement for that , no ?	costing
+A	1218.99	Mm-hmm .	costing
+D	1219.03	It's only curve ?	costing
+D	1220.14	Okay , let's go .	costing
+A	1220.33	Oh see , I I think that the the price is this one .	costing
+C	1221.55	Yeah .	costing
+D	1223.72	This Okay , you d We tried , we tried .	costing
+A	1224.41	Yeah , yeah .	costing
+A	1224.98	Don't chip on me .	costing
+C	1231.2	Oh .	costing
+B	1231.69	Oh , okay .	costing
+D	1232.46	So , what is it ?	costing
+C	1232.85	Titanium .	costing
+D	1233.45	T titanium ?	costing
+A	1234.72	Mm-hmm .	costing
+B	1234.95	Mm .	costing
+D	1235.23	Mm , that's expensive .	costing
+D	1236.28	Mm-hmm .	costing
+A	1236.66	Mm-mm .	costing
+B	1237.01	Mm .	costing
+A	1238.59	Yeah .	costing
+A	1239.2	But she wanted u the fudge titanium .	costing
+D	1239.33	Okay .	costing
+C	1240.79	Yeah , well No , only one , no ?	costing
+A	1241.9	I think it's five , but you don't say .	costing
+D	1244.15	Let's stick to s titan .	costing
+D	1245.9	Special colour ?	costing
+D	1246.74	No because uh Yeah .	costing
+B	1246.88	Well , n Why three ?	costing
+A	1247.8	Mm .	costing
+B	1247.92	Why three ?	costing
+A	1248.8	Oh , sorry .	costing
+A	1249.5	Again , I'm See it .	costing
+C	1250.27	Um Interface .	costing
+A	1252.45	Special colour , or it's only on the Yeah , but there is no colour here .	costing
+D	1254.16	Oh .	costing
+C	1255.94	Yes , in L_C_D_ display .	costing
+C	1257.41	Ok Yeah , an Yeah .	costing
+A	1260.85	So I put it here .	costing
+C	1264.4	Push-button .	costing
+D	1265.8	So the L_C_D_ Two .	costing
+A	1267.17	How many push-button ?	costing
+C	1267.25	Scro Uh , two .	costing
+A	1268.54	Three or two ?	costing
+A	1271.94	Is there The scroll-wheel , okay .	costing
+C	1273.56	Yeah .	costing
+D	1273.56	Yeah .	costing
+D	1276.66	It's going to be expensive .	costing
+C	1277.06	One scroll wheel .	costing
+C	1279.45	One L_C_D_ displayed .	costing
+A	1283.22	Okay .	costing
+A	1287.85	Um That's that's not We choose this one , and not this one .	costing
+D	1291.67	That's all ?	costing
+D	1292.28	No .	costing
+C	1292.54	Yeah .	costing
+D	1294.72	Oh , I think , no it's Uh , is it a scroll wheel and pe push button , th this centre one ?	costing
+C	1296.15	Yeah , it's cheaper .	costing
+A	1298.84	Or only a scroll-wheel .	costing
+C	1298.99	Yeah .	costing
+D	1300.03	Or only only scroll wheel , okay .	costing
+C	1300.28	Only scroll wheel .	costing
+C	1301.59	Yeah mm .	costing
+C	1303.73	So It's already Ah .	costing
+D	1304.88	You are trying to make make up make us up .	costing
+A	1305.95	You try to s No , no , no .	costing
+A	1308.31	Because how do you do to y select ?	costing
+D	1313.67	No , but you select with the two d the other two buttons , no ?	costing
+C	1315.87	Y ye Yeah .	costing
+A	1315.91	Yeah , I mean you you go on the location with your scroll wheel and then you Stay longer .	costing
+D	1316.77	That's true .	costing
+D	1319.04	Yeah .	costing
+C	1319.96	Then it automatically we can just do like you feel , it goes .	costing
+D	1320.66	Yeah .	costing
+C	1323.5	And it will activate Um , plus , yeah , it's price is really Special colours , yeah .	costing
+D	1323.72	It should stay .	costing
+A	1324.2	Okay .	costing
+D	1324.43	Yeah .	costing
+A	1325.47	Oops .	costing
+A	1328.07	Okay , okay .	costing
+A	1329.65	Um Mm-hmm .	costing
+B	1332.07	For buttons .	costing
+C	1332.15	Okay .	costing
+C	1333.62	Yeah , buttons and strawberries .	costing
+B	1333.63	No , buttons just normal .	costing
+C	1335.98	Yeah .	costing
+C	1339.2	Special form .	costing
+A	1340.45	You you have all of these , no ?	costing
+D	1344.4	She's very hard on this .	costing
+D	1347.79	Special colour ?	costing
+A	1347.9	Mm maybe n not this one but Yeah , so Not special colours an interest in ?	costing
+D	1350.07	Yeah .	costing
+D	1350.76	No .	costing
+D	1351.15	Special material ?	costing
+C	1353.19	Uh , we have titan Yeah .	costing
+B	1353.64	That's for buttons .	costing
+B	1354.54	But buttons are standard .	costing
+D	1355.2	Yeah , buttons are the standard buttons .	costing
+D	1357.09	Yeah .	costing
+D	1357.33	It's only buttons , these .	costing
+D	1359.8	Nothing special .	costing
+D	1361.08	Okay .	costing
+D	1361.63	So we are at seventeen dot eight .	costing
+D	1366.23	No , the colour is in the L_C_D_ .	costing
+A	1368.67	And buttons are not colourised ?	costing
+A	1372.13	They are m Boo-hoo .	costing
+D	1372.14	I no .	costing
+C	1372.23	Mm , hmm , I think uh because you can just go for a good colours .	costing
+D	1375.38	We can just use this red .	costing
+C	1376.79	Yeah , and uh Yeah .	costing
+D	1377.5	It's So what is Are we supposed to cut things out now ?	costing
+A	1380.38	It's already too expensive .	costing
+A	1382.55	Apparently .	costing
+A	1386.02	Yeah .	costing
+A	1386.36	Mm .	costing
+D	1387.31	Uh , until we get twelve fifty .	costing
+A	1388.8	Mm-hmm .	costing
+A	1389.4	Mm .	costing
+C	1389.98	Oh .	costing
+A	1394.93	So think of what we can cut uh here .	costing
+D	1399.98	Well , if I look at what is the most expensive things , uh it's the L_C_D_ and the speaker .	costing
+C	1406.43	Sample speaker .	costing
+C	1408.43	Yeah .	costing
+A	1410.21	Apparently , we have to choose one or the other .	costing
+D	1413.23	Yeah .	costing
+C	1413.36	Yeah .	costing
+D	1414.63	Yeah .	costing
+B	1416.41	Well , as you may know there's some research done in the field of producing energy from mechanical eng , I mean , producing electricity from mechanical energy .	costing
+B	1425.84	So , the point is that when you take device and push the button , you produce enough energy to make electricity .	costing
+A	1432.52	But you don't need a battery ?	costing
+B	1434.06	Yeah , that you don't need a battery .	costing
+A	1434.37	Mm .	costing
+D	1435.62	Mm-hmm .	costing
+B	1435.93	So , it's something like hand dynamo robot .	costing
+B	1439.39	A real high-tech version of it .	costing
+D	1442.22	So that would So , but if we select the hand dynamo it's okay , we only We we win one .	costing
+A	1442.31	But um it's like the hand dynamo , no ?	costing
+C	1446.55	Maybe the jog wheel can be like kind of hand is Yeah .	costing
+B	1452.99	Okay , but l Why not .	costing
+D	1453.33	That's already that .	costing
+A	1453.94	Uh it's a it's a beginning .	costing
+D	1454.34	Okay , let's do that .	costing
+C	1455.0	Yeah .	costing
+A	1455.43	Okay .	costing
+B	1455.59	Let's do that .	costing
+A	1457.06	So One here and here .	costing
+C	1459.27	Yeah , just remo S Yeah .	costing
+A	1462.44	'Kay .	costing
+B	1463.52	And I propose to So uh , about chips .	costing
+B	1468.14	Advanced chip on print , right ?	costing
+A	1470.39	Mm-hmm .	costing
+B	1470.94	So , put minus one there , please .	costing
+D	1474.7	I'm not sure if this is legal .	costing
+A	1474.77	Mm .	costing
+B	1476.85	Why not ?	costing
+A	1477.31	That's right .	costing
+C	1481.31	Uh , no .	costing
+B	1482.26	And ?	costing
+D	1482.59	And ?	costing
+A	1483.83	M maybe minus uh three , no ?	costing
+D	1486.78	No .	costing
+C	1486.87	Yeah .	costing
+D	1488.2	Okay , let's see .	costing
+B	1488.32	So , was there result ?	costing
+C	1488.36	No , no .	costing
+C	1488.6	It's not It's not changing , no ?	costing
+B	1489.58	Let's have a look .	costing
+A	1490.76	Mm-hmm .	costing
+C	1491.34	It you don't So now on , we can increase our Still you have two more .	costing
+D	1491.35	Yeah , yeah , yeah , if Click somewhere , you'll see features .	costing
+B	1491.52	Why ?	costing
+A	1491.98	Mm .	costing
+B	1494.39	Oops .	costing
+D	1494.63	Yes , it does .	costing
+D	1496.81	Maybe put minus two , so it looks uh more reasonable .	costing
+A	1500.42	So Oh , sorry .	costing
+B	1502.61	Yeah .	costing
+B	1503.29	Why not .	costing
+D	1504.18	Yeah , anyway No , minus two .	costing
+B	1505.76	Minus .	costing
+A	1506.29	Mm-hmm .	costing
+D	1507.77	Nobody will know .	costing
+A	1508.8	Mm .	costing
+D	1509.92	It's not recorded , is it ?	costing
+B	1512.2	Good .	costing
+D	1513.17	Okay , we're on time .	costing
+D	1514.32	Good .	costing
+A	1514.77	Okay .	costing
+A	1519.24	Oh , we can put uh a hand dynamo and a battery if you want .	costing
+C	1519.3	Maybe we can use it for our party .	costing
+B	1522.03	And a battery and a battery , yeah .	costing
+A	1522.46	Oh .	costing
+C	1522.63	Yeah .	costing
+C	1524.06	Yeah , yeah .	costing
+A	1524.37	Both its it's cool .	costing
+D	1526.78	No , now we are exp exceeding I think .	costing
+B	1528.13	Now it's fancy , let's add one instead of two .	costing
+C	1529.59	Yeah , that No , but point five point three .	costing
+D	1529.66	It Is it ?	costing
+A	1529.69	Mm .	costing
+A	1532.76	Yeah , yeah y Yeah .	costing
+D	1533.16	I think we're exceeding now .	costing
+D	1534.19	We have to remove the Uh , it's better .	costing
+C	1536.71	Okay .	costing
+D	1537.75	I think they are counting uh We would prefer , yeah .	costing
+C	1539.7	Is really strict ?	costing
+A	1539.71	Mm .	costing
+A	1539.93	It's maximum and don't have to Yeah , yeah .	costing
+D	1541.27	Maximum is maximum .	costing
+C	1541.4	Oh .	costing
+D	1542.47	So , remove one of them .	costing
+A	1542.64	Uh Uh , mm-mm .	costing
+C	1542.73	Oh yeah .	costing
+D	1543.99	Yeah .	costing
+D	1545.19	Okay .	costing
+D	1546.27	Okay , we're uh on target .	costing
+A	1548.1	Yeah .	costing
+A	1548.39	Mm .	costing
+A	1548.86	Okay .	costing
+A	1549.31	Mm .	costing
+A	1549.95	So target reached .	costing
+D	1552.16	I'm just curious to see this uh my address chip on print .	costing
+C	1555.14	Ho Oh .	chitchat
+A	1558.01	It's um English uh Yeah .	chitchat
+D	1560.88	Trick .	chitchat
+D	1562.54	Uh , I would say it's the Russian trick , but Anyway No , they may have some their origins , strange origins No , no , no .	chitchat
+A	1565.12	Yeah , but uh is uh English .	chitchat
+A	1567.18	So Mm .	chitchat
+B	1568.11	Well , I don't know .	chitchat
+C	1568.62	Uh And we can discuss all these things in our party .	chitchat
+B	1569.4	I don't know .	chitchat
+B	1571.3	I am not sure who was programming this calculator , you know .	chitchat
+B	1576.82	'Cause uh I wonder if we put A_ or B_ somewhere instead of a number .	chitchat
+A	1582.71	Mm , let's try .	chitchat
+D	1584.76	Let's finish this meeting instead .	chitchat
+A	1585.7	Okay .	chitchat
+A	1588.48	I save it uh Okay , so next mm No , that's yours .	costing chitchat
+D	1591.59	What else ?	costing
+D	1601.92	No .	costing
+D	1602.55	This is right .	costing
+A	1603.44	Sorry .	costing
+D	1607.81	Okay , so finance , that's done .	costing
+A	1609.11	'Kay .	costing
+D	1611.11	Are the cost under twelve ?	costing
+C	1612.52	Mm yeah , very much .	costing
+D	1612.69	Yes .	costing
+D	1613.44	Project evaluation , good .	costing
+A	1615.27	Okay .	evaluation of project process
+A	1615.82	So now We have to make um Yeah .	evaluation of project process
+B	1615.88	Next slide .	evaluation of project process
+D	1617.09	Project process .	evaluation of project process
+D	1622.55	Safe uh asse uh safe assessment .	evaluation of project process
+A	1625.15	Yeah .	evaluation of project process
+A	1625.38	Mm .	evaluation of project process
+A	1625.85	See mm how Are we a good team ?	evaluation of project process
+A	1629.58	Mm .	evaluation of project process
+D	1630.77	Yeah , I think we've listened to everybody .	evaluation of project process
+B	1630.83	Okay .	evaluation of project process
+A	1633.25	Mm-hmm .	evaluation of project process
+D	1633.64	Everybody could say what they thought .	evaluation of project process
+A	1637.52	Mm .	evaluation of project process
+D	1637.86	And uh Yeah .	evaluation of project process
+A	1639.56	Is there enough room for creativity ?	evaluation of project process
+B	1642.03	Yeah , yeah .	evaluation of project process
+C	1642.96	Yeah , yeah .	evaluation of project process
+A	1643.71	Mm .	evaluation of project process
+A	1643.96	And you .	evaluation of project process
+B	1644.63	Yeah .	evaluation of project process
+D	1644.75	When we see the results , there is no doubt there Maybe a lack of leadership ?	evaluation of project process
+C	1646.04	Yeah , it's really Yeah .	evaluation of project process
+A	1647.09	Mm .	evaluation of project process
+A	1647.59	Oh .	evaluation of project process
+A	1649.14	Okay .	evaluation of project process
+A	1649.8	Well , project evaluation .	evaluation of project process
+B	1656.34	M maybe not , huh ?	evaluation of project process
+D	1657.2	Team-work , very strong , I would say .	evaluation of project process
+C	1658.51	Yeah , our team-work is really strong .	evaluation of project process
+D	1659.18	Team-work , no problem .	evaluation of project process
+D	1661.86	Means .	evaluation of project process
+D	1663.76	Whiteboard , digital pens .	evaluation of project process
+C	1665.86	Oh , we still , I guess .	evaluation of project process
+B	1666.92	What was the Oh yeah , what was good ?	evaluation of project process
+B	1669.59	Everything .	evaluation of project process
+D	1670.49	Yeah , I think white-board is useful .	evaluation of project process
+B	1670.64	What was bad ?	evaluation of project process
+D	1672.59	Digital pens , useful .	evaluation of project process
+C	1674.98	Hmm .	evaluation of project process
+D	1679.17	New ideas found ?	evaluation of project process
+A	1680.75	So , you say , is there sheep ?	evaluation of project process
+D	1680.79	Yeah .	evaluation of project process
+A	1687.3	Luck .	evaluation of project process
+A	1688.79	Okay .	evaluation of project process
+A	1689.41	So luck , but good .	evaluation of project process
+A	1692.11	Which imply good uh team performance .	evaluation of project process
+D	1692.11	But uh Yeah , but uh then I I mus That's true .	evaluation of project process
+B	1695.0	Yeah .	evaluation of project process
+B	1695.4	A good leader , you know , a good leader is somewhere in the shade and Of course .	evaluation of project process
+D	1700.12	And there's uh one very important point .	evaluation of project process
+C	1700.92	Don't really .	evaluation of project process
+D	1702.6	We're on time .	evaluation of project process
+C	1703.72	Yeah .	evaluation of project process
+A	1703.77	Mm-hmm .	evaluation of project process
+D	1705.16	Meetings finish when they have to or even before .	evaluation of project process
+C	1705.2	And we also Mm .	evaluation of project process
+C	1709.88	We made Mm .	evaluation of project process
+D	1710.2	The for meeting it's uh one of the most important thing .	evaluation of project process
+B	1713.81	Uh Not to waste time , that's important .	evaluation of project process
+A	1715.68	Okay .	evaluation of project process
+A	1716.09	Mm .	evaluation of project process
+D	1717.93	Yeah .	evaluation of project process
+D	1718.56	Yeah , we have other uh remote controls to create .	evaluation of project process
+C	1720.13	Hmm .	evaluation of project process
+B	1720.23	We need time f New materials .	evaluation of project process closing
+A	1726.93	Okay .	evaluation of project process
+C	1727.64	Ah , we got new idea , speech recognition , location finding .	closing
+A	1731.04	A lot of uh Yeah , uh new ways of doing financial Mm .	closing
+D	1732.72	Mm .	closing
+C	1732.76	New materials , new s uh this fancy strawberry design .	closing
+D	1736.38	Mm , yeah .	closing
+D	1738.1	Hey , just wondering if my uh what about the the pink the pinkness of that uh .	closing
+C	1740.92	And new tricks .	closing
+A	1747.2	Mm .	closing
+A	1747.48	They're working on um pink titanium .	closing
+D	1747.81	They are working on a Okay , good .	closing
+C	1752.41	Ah , very .	closing
+D	1753.77	I think we are great .	closing
+B	1753.92	Budget .	closing
+D	1754.87	There's no no other words for that .	closing
+C	1754.89	Yeah .	closing
+D	1759.31	We are probably the best .	closing
+B	1759.48	Alright .	closing
+A	1760.76	Mm yeah .	closing
+D	1760.81	Real Reaction is uh Yeah .	closing
+A	1761.64	Yeah , we're really nice .	closing
+D	1763.36	Yeah .	closing
+A	1763.52	Yeah .	closing
+A	1763.88	Mm .	closing
+A	1764.61	Okay .	closing
+D	1765.78	Finished ?	closing
+A	1766.23	I think it's Yeah .	closing
+D	1767.55	Ah , celebration .	closing
+D	1768.39	Are the costs within the budget ?	closing
+D	1769.76	Of course they are .	closing
+C	1770.3	Yeah .	closing
+D	1770.68	Yeah .	closing
+A	1771.1	Uh How Yeah .	closing
+B	1771.51	Okay .	closing
+D	1771.81	Is the project evaluated ?	closing
+D	1773.01	Yes , it is .	closing
+C	1773.09	Yeah , yeah , it's We got two Good score .	closing
+B	1773.1	Yeah , it is .	closing
+A	1774.13	Mm .	closing
+B	1775.2	So , we see , we can even forecast .	closing
+B	1779.85	they propose us like celebration , everything , we could forecast it , right ?	closing
+D	1784.29	To whom ?	closing
+D	1785.27	To the whole our company ?	closing
+A	1787.27	I'm the one , proposing the celebration .	closing
+A	1789.57	Of course , you know I'm the program manager .	closing
+B	1789.78	You ?	closing
+B	1791.08	It was you .	closing
+B	1792.79	Okay .	closing
+C	1793.8	Oh , okay .	closing
+D	1794.55	So , let's celebrate .	closing
+D	1795.43	Uh I think the meeting The meeting is over at least .	closing
+A	1795.72	Mm-hmm .	closing
+C	1796.83	So where we will go now ?	closing
+A	1797.64	Ah um , I think it's finish .	closing
+C	1798.66	Uh , ye Will go to Italian restaurant , or Ah , okay .	closing
+A	1802.23	Yeah .	closing
+A	1802.47	Mm .	closing
+D	1802.61	So , we have to go out .	closing
+C	1803.39	We can decide .	closing
+A	1804.13	Mm-mm .	closing
+C	1805.01	Yeah .	closing
+B	1805.26	Okay .	closing
+A	1805.6	And we go to the party .	closing
+C	1807.28	Yeah .	closing
+D	1807.4	Yeah , yeah , yeah .	closing
+C	1807.97	Thank you .	closing
+A	1808.89	thank you to you .	closing
+A	1809.96	Mm .	closing

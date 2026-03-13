@@ -1,0 +1,212 @@
+A	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+A	41.01	So welcome .	opening
+A	42.5	The first kick-off meeting .	opening
+A	45.36	What shall we do ?	opening
+A	46.07	First the opening , then the rest .	opening
+A	52.06	What are we going to do .	project specs and roles of participants
+A	53.01	We m have to make a new remote control .	project specs and roles of participants
+A	55.84	It has to be original , trendy and user-friendly .	project specs and roles of participants
+A	60.42	So we will get back th on that .	opening
+A	64.58	First we have to make a functional design .	opening
+A	68.16	After that we have to make a conceptual design , and then after that a detailed design .	opening
+A	74.13	So we'll discuss that later .	opening
+A	77.41	First we have a look at .	drawing exercise
+A	79.54	So first to we have to make a small painting .	drawing exercise
+A	86.23	What have do we have to do .	drawing exercise
+A	89.61	First you can save the documents .	drawing exercise
+A	93.43	We have to do that every time we make something .	drawing exercise
+A	96.8	You can print it .	drawing exercise
+A	98.73	No .	drawing exercise
+A	100.32	And we have to use the pen and the eraser .	drawing exercise
+A	105.04	So Now .	drawing exercise
+A	107.73	We all have to use this one .	drawing exercise
+A	110.09	You have to make your own favourite animal .	drawing exercise
+A	113.45	So I'll make an example .	drawing exercise
+D	117.21	Yep .	drawing exercise
+A	118.89	First don't touch that things .	drawing exercise
+A	125.23	You can use the pen .	drawing exercise
+A	129.72	And then you can make um something .	drawing exercise
+C	138.3	Nice .	drawing exercise
+A	139.58	Um you can change some things .	drawing exercise
+A	143.89	Um format , line , and change it .	drawing exercise
+A	159.55	And you can change the colour .	drawing exercise
+C	168.14	An elephant .	drawing exercise
+A	170.34	So that's it .	drawing exercise
+A	176.48	So So and after it you have to save it .	drawing exercise
+D	187.54	Okay .	drawing exercise
+A	187.66	Now we can make a new one .	drawing exercise
+A	191.88	You have to paint now .	drawing exercise
+D	193.34	Oh .	drawing exercise
+A	193.56	So you're next .	drawing exercise
+C	195.43	'Kay .	drawing exercise
+D	195.49	Well we will try .	drawing exercise
+D	200.97	Where it going ?	drawing exercise
+B	211.95	Hmm .	drawing exercise
+B	215.02	That's uh strange .	drawing exercise
+A	217.73	What is going on ?	drawing exercise
+C	221.19	pop-ups .	drawing exercise
+A	222.89	What are you What ?	drawing exercise
+D	223.06	Hmm .	drawing exercise
+C	233.06	What is this , Pictionary .	drawing exercise
+D	238.65	Uh Mm .	drawing exercise
+A	239.99	Um Is a It is a It is a A duck .	drawing exercise
+C	241.8	Uh a bird .	drawing exercise
+C	244.39	Bird .	drawing exercise
+D	255.57	So Now save ?	drawing exercise
+C	259.02	Yeah .	drawing exercise
+A	259.46	Yes .	drawing exercise
+A	263.35	Hmm .	drawing exercise
+D	265.26	Now uh blank ?	drawing exercise
+A	266.66	Blank , yes .	drawing exercise
+B	267.31	Yeah .	drawing exercise
+D	270.98	Yeah .	drawing exercise
+A	273.06	Okay next one .	drawing exercise
+B	275.43	Okay .	drawing exercise
+B	276.47	Let's try this .	drawing exercise
+C	276.77	Whoo .	drawing exercise
+B	279.12	Uh Um .	drawing exercise
+D	284.75	Yeah , yeah .	drawing exercise
+B	295.27	Mm-hmm .	drawing exercise
+B	298.15	Mm .	drawing exercise
+C	307.03	Oh not .	drawing exercise
+C	308.16	Oh .	drawing exercise
+A	308.26	Oh .	drawing exercise
+C	312.69	Okay .	drawing exercise
+C	315.32	Okay .	drawing exercise
+C	315.86	Yeah .	drawing exercise
+C	317.2	No problem .	drawing exercise
+C	321.66	Shit happens .	drawing exercise
+D	324.95	I'm not getting anything uh on my screen now .	drawing exercise
+D	334.13	Okay .	drawing exercise
+C	341.22	A parrot .	drawing exercise
+D	343.06	Wow .	drawing exercise
+C	343.18	Ish .	drawing exercise
+D	350.7	Oh .	drawing exercise
+C	357.37	He did it before .	drawing exercise
+B	367.13	Uh No , no .	drawing exercise
+B	397.87	Yeah .	drawing exercise
+B	399.0	Okay .	drawing exercise
+D	401.4	Nice .	drawing exercise
+C	402.23	Oh .	drawing exercise
+A	402.55	Very good .	drawing exercise
+B	403.58	Uh blank .	drawing exercise
+C	408.14	Thank you .	drawing exercise
+A	546.4	Okay .	drawing exercise
+A	547.39	Very good .	drawing exercise
+A	548.87	So um you can always go back .	drawing exercise
+A	554.29	So That's it .	drawing exercise
+A	559.55	So that was two .	drawing exercise
+A	561.48	Now next .	project budget
+A	563.22	The budget .	project budget
+A	564.25	The b Uh we will sell the t at twenty five Euros .	project budget
+A	570.42	And we have only twenty of twelve and a half Euro to make it .	project budget
+A	576.27	So now we have to think about what we will make .	existing products
+A	582.4	First I wanna hear from you .	existing products
+A	585.91	Uh what are your experiences with remote controls .	existing products
+A	592.57	So F first .	existing products
+C	593.28	Uh I will start .	existing products
+C	594.14	Uh Big one , they are uh not easy to use .	existing products
+C	599.62	Um I have one set and uh a remote control , when I dropped it , uh it broke .	existing products
+C	605.16	So that won't be uh our goal , I think .	existing products
+B	608.75	No .	existing products
+C	609.74	And uh g big buttons , m uh that's easier to use than uh I think .	existing products
+C	617.69	Not all the small buttons , you don't know Big buttons , positive .	existing products
+A	618.76	Is this positive or negative , that uh big buttons ?	existing products
+A	623.55	Positive .	existing products
+C	624.06	All all small buttons like when you have uh like a hundred buttons on your remote control , you won't know what they're working for .	existing products
+A	631.01	Okay .	existing products
+A	632.37	What are your experiences ?	existing products
+B	634.48	Uh well I think the the the goal of a remote control is that it's it it has an influence on the T_V_ set .	existing products
+B	641.18	And that it controls the channels and the the volume .	existing products
+A	641.32	Mm .	existing products
+B	644.87	And uh I I I think it's positive if there's a a LED uh uh a LED on the corner of the of the remote .	existing products
+B	654.79	So that you know it s it still has batteries on it in it .	existing products
+B	658.72	And that if you push the button the LED uh gives a light , and uh and you see that it's working .	existing products
+B	665.64	And uh yeah .	existing products
+B	666.68	Uh Yeah , but No no no .	existing products
+A	669.35	So and do they always have that ?	existing products
+B	673.35	But I my my experience is that it it it's convenient to have that .	existing products
+A	676.55	It's easy to you .	existing products
+B	677.77	Yeah .	existing products
+A	678.29	Okay .	existing products
+B	678.69	Yeah .	existing products
+A	680.32	'Kay .	existing products
+D	682.28	Uh at home we have a T_V_ , a video uh recorder , a D_V_D_ player , and a satellite receiver .	existing products
+D	688.72	We have uh four distinctive remote controls for that .	existing products
+C	691.44	Thank you .	existing products
+D	692.37	That's not really ea easy .	existing products
+C	694.61	Help also .	existing products
+D	695.06	So it would be nice if we have one for all .	existing products
+C	697.2	Thank you .	existing products
+D	697.68	And we also had a remote control for our radio set .	existing products
+D	701.27	But um i it it had a lot of buttons on it , and you didn't know which one was what .	existing products
+D	708.11	And it was uh uh v not easy to use .	existing products
+D	710.95	So we n barely used it .	existing products
+A	712.9	Okay so they have too much .	existing products
+A	715.21	So next .	initial ideas
+B	715.61	Hmm .	initial ideas
+A	716.44	For our own remote control we have to think how do we make it .	initial ideas
+A	721.51	So what ideas do you have for it , for the new remote control ?	initial ideas
+A	728.92	What what does it have to have ?	initial ideas
+C	733.5	The weight .	components, materials and energy sources
+C	733.97	Not not too heavy .	components, materials and energy sources
+A	735.52	Not too heavy .	components, materials and energy sources
+C	742.34	Not much buttons .	components, materials and energy sources
+A	742.38	Yes .	components, materials and energy sources
+A	754.76	Yeah .	components, materials and energy sources
+C	755.16	Bust-free .	components, materials and energy sources
+C	756.0	That when you drop it , it won't break .	components, materials and energy sources
+C	758.17	Like uh some kind of rubber on it .	components, materials and energy sources
+C	760.15	Or hard uh hard plastic .	components, materials and energy sources
+C	764.56	Uh buttons not too small .	components, materials and energy sources
+C	775.25	Uh something like when you uh lose your uh remote control , sometimes it happen .	how to find when misplaced
+A	780.5	Yes .	how to find when misplaced
+C	780.88	Uh it between the couch and you can't find it .	how to find when misplaced
+C	782.85	When you push a but a button on the T_V_ , then you hear some uh some sort of bleep .	how to find when misplaced
+A	788.37	Like a phone .	how to find when misplaced
+C	788.58	And then you uh , hey there there's remote control .	how to find when misplaced
+D	791.47	Yeah .	how to find when misplaced
+A	791.53	Okay .	how to find when misplaced
+B	795.1	Yeah .	how to find when misplaced
+A	804.17	So , that's .	how to find when misplaced
+C	805.28	Next .	how to find when misplaced
+B	807.68	Yeah well that's that are good ideas .	how to find when misplaced
+B	809.43	Uh Yeah well the LED on the corner , that that indicates that it's working .	components, materials and energy sources how to find when misplaced
+B	814.56	If you push a button .	components, materials and energy sources
+B	816.6	Um Yeah .	components, materials and energy sources
+B	829.97	And looking on the budget , not too expensive uh material .	components, materials and energy sources
+B	832.93	So probably plastic or something .	components, materials and energy sources
+B	835.39	Uh Mm no .	initial ideas components, materials and energy sources
+A	835.64	Okay .	components, materials and energy sources
+D	844.74	Yeah I think it uh from a marketing point of view , it also has to look nice .	components, materials and energy sources
+D	848.99	Or you won't sell it .	components, materials and energy sources
+A	851.77	Yes .	components, materials and energy sources
+D	852.74	And um yeah uh on our website we can see what products we already have .	components, materials and energy sources
+D	860.63	And it should work with as many uh as possible of them .	components, materials and energy sources
+A	864.71	Okay .	components, materials and energy sources
+A	866.13	This is It has to be compatible with other things .	components, materials and energy sources
+D	870.0	Yes .	components, materials and energy sources
+A	870.78	Okay .	components, materials and energy sources
+C	875.24	I have one more idea .	components, materials and energy sources
+C	877.18	Just popped up .	components, materials and energy sources
+A	879.6	Yes ?	components, materials and energy sources
+C	880.34	Uh it it won't take a lot of batteries .	components, materials and energy sources
+C	883.12	So you don't won't have to change the batteries uh once a week or uh once every two weeks .	components, materials and energy sources
+A	888.28	No battery use .	components, materials and energy sources
+A	894.31	So more ideas ?	initial ideas
+A	899.45	No okay .	initial ideas
+A	900.0	It's only the first ideas .	initial ideas
+A	902.06	So uh what are we going to do now is Next meeting is in half an h hour .	closing
+A	913.25	Uh Okay .	closing
+A	920.52	Next meeting , half an hour .	closing
+A	922.57	Um , what you have to do .	closing
+A	926.6	Well look on your .	closing
+A	929.86	And Next instructions you'll get in your email .	closing
+A	936.05	So This is the first meeting .	closing
+A	940.27	See you later in half an hour .	closing
+B	943.72	Yes .	closing
+C	943.83	Okay .	closing
+D	944.05	Okay .	closing
+C	944.52	Thank you .	closing

@@ -1,0 +1,567 @@
+C	0	.	NO_TOPIC
+C	202.26	Okay .	opening
+B	202.93	So I see all everybody's here , 'kay .	opening
+A	205.67	Mm-hmm .	opening
+D	205.68	Yep .	opening
+B	206.35	And we can start meeting .	opening
+C	209.43	Okay .	opening
+A	210.4	What's the agenda for this meeting ?	opening
+B	211.98	The I will uh present here agenda with with with with slides to you .	opening
+A	217.35	Okay .	opening
+B	219.37	Um as you can see here .	opening
+D	223.89	Perfect .	opening
+B	225.35	So first uh just to mention I will take notes uh of this meeting and uh I will try to work them out and give them to you .	opening
+A	233.42	Mm-hmm .	opening
+B	237.22	I've also made notes of the previous meeting and um I was about to send them you but then uh I had to go to this uh meeting so you will get them too uh Um .	opening
+A	249.32	Mm-hmm .	opening
+C	249.45	Next .	opening
+D	252.71	So y you are the secretary also .	opening
+B	255.3	Yes .	opening
+D	255.47	Right ?	opening
+D	255.82	Okay .	opening
+B	256.44	Indeed .	opening
+B	258.82	Um .	opening
+B	261.6	Then I hope you all have uh worked out some some uh some some presentations about uh about well you the the task given to you in the previous meeting .	opening
+D	266.02	Perfectly yeah yeah of course uh-huh .	opening
+B	276.66	Um .	opening
+B	278.15	W We will uh in a minute we will uh start with them .	opening
+B	285.53	Um , we will see in which order we will handle them of .	opening
+B	290.29	Um then I will uh bring in some some some new requirements I I got uh from the uh account manager , I try to work them out , they were quite abstract , and we can have maybe have com some discussion about it .	opening
+A	302.26	Mm-hmm .	opening
+B	304.47	Uh Um about the functions and Well in this meeting we should really try to reach a decision about the target group and the functionality of the Yes I mean well yes w who are we going to uh to well to sell this , the customers , indeed yes .	opening
+A	316.26	Mm .	opening
+D	319.03	You mean the social target group who we wants to target ?	opening
+A	325.32	Mm .	opening
+D	325.54	Oh the customers , okay .	opening
+A	326.93	Yeah .	opening
+B	329.64	Think that's that's important matter .	opening
+A	330.8	That's the big question yeah .	opening
+B	333.09	Uh .	opening
+B	335.77	So And then uh we will close this meeting uh and after this meeting we'll uh we'll have a lunch .	opening
+B	344.03	Good .	opening
+B	346.53	Um .	opening
+B	349.06	Maybe um why uh Anna can you c do you have a presentations ?	opening marketing expert presentation
+A	355.66	No , I don't .	marketing expert presentation
+B	356.47	You don't have presentation ?	marketing expert presentation
+A	357.11	I wasn't .	marketing expert presentation
+A	358.84	No .	marketing expert presentation
+B	359.49	Uh you want a table to to uh Yes yes maybe maybe you can uh can just talk about it or maybe you can use the whiteboard if necessary um .	marketing expert presentation
+A	361.35	I c I can talk about it but I have no slides or anything .	marketing expert presentation
+A	367.92	Mm-hmm .	marketing expert presentation
+A	369.05	Well I've just been um presented with some research we've done in a small focus group so , a hundred people , just asked them about their remote control usage habits and what they want in a remote control .	marketing expert presentation
+A	379.9	Um .	marketing expert presentation
+A	381.73	It's probably can't email this to you , I've just got a web page with some data on it .	marketing expert presentation
+A	387.43	Um basically it's saying that users generally dislike the look and feel of their remote controls .	marketing expert presentation
+A	394.82	Um seventy five u seventy five percent of users find most remote controls ugly .	marketing expert presentation
+B	400.84	Mm-hmm .	marketing expert presentation
+A	401.11	Um .	marketing expert presentation
+A	403.0	Eighty percent of users would spend more money when a remote control would look fancy .	marketing expert presentation
+A	407.58	Um .	marketing expert presentation
+A	409.07	Current remote controls do not match well the operating behaviour of the user .	marketing expert presentation
+A	413.52	Uh seventy five percent of users said they zap a lot , so they use their remote control quite frequently while they're watching television .	marketing expert presentation
+A	420.72	Uh .	marketing expert presentation
+A	420.96	Fifty percent of users say that they only use ten percent of the buttons , so they've got a remote control with a lot of functionality but really most of the time they only use a small part of that .	marketing expert presentation
+B	430.0	Mm .	marketing expert presentation
+A	431.9	Um .	marketing expert presentation
+B	433.83	Do you Do you have this uh information on the web page you said ?	marketing expert presentation
+A	436.0	I have an a web page yes .	marketing expert presentation
+B	437.43	Yes , mayb maybe you can can send an email to me later uh .	marketing expert presentation
+A	440.79	Yep .	marketing expert presentation
+A	441.44	Yep , sure .	marketing expert presentation
+B	442.07	Uh about this .	marketing expert presentation
+A	443.8	Mm-hmm .	marketing expert presentation
+A	444.82	So basically um there's a breakdown of how much they use the different functions on a rem remote control .	marketing expert presentation
+A	450.35	Um , power and volume selection are only used a few times within this uh per hour .	marketing expert presentation
+A	457.84	Um , channel selection is used a hundred and sixty eight times um and then there's things like channel settings , audio settings , which are only used very infrequently .	marketing expert presentation
+B	467.73	Mm .	marketing expert presentation
+A	468.27	Um .	marketing expert presentation
+A	469.43	Teletext is used um fourteen times in the hour , so it is used but not nearly as much as the channel selection is used .	marketing expert presentation
+B	475.16	Mm .	marketing expert presentation
+A	478.62	Um .	marketing expert presentation
+A	480.79	An interesting thing that this report has brought up is that um fifty fifty percent of users report that the remote control gets lost a lot of the time in the room , so some way of some way of locating the remote control would be very useful to a lot of users .	marketing expert presentation
+B	490.21	Yes yes , I have that too .	marketing expert presentation
+A	496.31	Um .	marketing expert presentation
+A	497.51	Thirty four percent said it takes too long to learn to use a remote control , they want something that's easier to use straight away , more intuitive perhaps .	marketing expert presentation
+B	505.75	Mm .	marketing expert presentation
+A	506.39	Um .	marketing expert presentation
+D	506.66	It's it's easy to learn or how do you say it's Okay too much time to learn .	marketing expert presentation
+A	509.25	Thirty four percent said it took too much time to learn to use a new one .	marketing expert presentation
+A	513.14	Yep .	marketing expert presentation
+D	513.43	Okay .	marketing expert presentation
+A	514.28	Um .	marketing expert presentation
+D	515.06	Not enough Maybe y y you cannot put this webpage online on the Ah it's it okay it's a webpage on the C_ it's a file okay .	marketing expert presentation
+A	515.54	And thirty twenty six percent said remote controls are bad for R_S_I_ .	marketing expert presentation
+A	520.32	I don't know how we'd go about combating that .	marketing expert presentation
+C	522.74	What do you mean there ?	marketing expert presentation
+A	523.56	For R_S_I_ ?	marketing expert presentation
+A	524.34	Respet Repetitive strain injury .	marketing expert presentation
+C	526.05	Okay .	marketing expert presentation
+B	526.94	Mm .	marketing expert presentation
+A	527.43	So .	marketing expert presentation
+A	529.03	But Mm .	marketing expert presentation
+B	529.16	They think that or do their doctor the doctor says ?	marketing expert presentation
+B	532.71	But it's it's the opinion of the uh of the users huh ?	marketing expert presentation
+A	534.84	Yeah .	marketing expert presentation
+A	535.9	That's what the report says yeah .	marketing expert presentation
+B	536.89	So mm .	marketing expert presentation
+A	538.01	Um and then it's got a demographic breakdown on Uh I should be able to actually , if I email it to you now .	marketing expert presentation
+C	546.98	You can disconnect it there no ?	marketing expert presentation
+B	548.27	You can maybe just just Hmm .	marketing expert presentation
+A	549.6	Oh no , yeah .	marketing expert presentation
+A	552.37	Yeah .	marketing expert presentation
+D	553.95	O otherwise you yeah .	marketing expert presentation
+A	554.16	Um , s hang on .	marketing expert presentation
+C	555.95	Then you can connect this one or this one yeah .	marketing expert presentation
+D	556.98	You can connect this one .	marketing expert presentation
+C	560.07	All to your computer .	marketing expert presentation
+D	565.66	Yeah .	marketing expert presentation
+A	567.52	Well .	marketing expert presentation
+D	569.56	So these are important numbers that Matthew and I need to take into account for our functional um Yeah Yeah these numbers have have to be have to be taken into account for the uh both yeah user interface and functional design .	marketing expert presentation
+C	573.84	Oh yeah .	marketing expert presentation
+A	575.36	Oh I need to muck around with this .	marketing expert presentation
+A	576.89	It's probably easier if you put it on yours and then I'll just email it to you .	marketing expert presentation
+A	579.92	It's just a web link .	marketing expert presentation
+C	590.53	Okay .	marketing expert presentation
+C	595.13	Hmm .	marketing expert presentation
+C	599.14	Yeah .	marketing expert presentation
+A	600.97	One thing it goes on to talk about , which is interesting , is the hang on a minute .	marketing expert presentation
+D	606.22	Because if there are many numbers and we need to select to to constraint uh our design based on what is more important .	marketing expert presentation
+A	613.17	Mm-hmm .	marketing expert presentation
+B	614.76	Mm-hmm .	marketing expert presentation
+A	615.03	Yep .	marketing expert presentation
+A	616.09	Um , one thing is interesting is talking about um speech recognition in a remote control .	marketing expert presentation
+D	625.52	Speech recognition in Ah okay .	marketing expert presentation
+A	626.82	And who would pay more for that and whether people would find it useful .	marketing expert presentation
+B	629.92	D do you have numbers o o on that ?	marketing expert presentation
+A	631.65	Yes , I'll just get this up .	marketing expert presentation
+D	635.73	So that we don't Do we not need any button on the remote control it would be all based on speech .	marketing expert presentation
+A	639.06	Well potentially yeah , um I think even for interesti yeah I think that would not work so well .	marketing expert presentation
+D	642.31	Okay .	marketing expert presentation
+D	643.75	Interesting idea .	marketing expert presentation
+A	647.06	You wanna have both options .	marketing expert presentation
+D	648.69	Okay .	marketing expert presentation
+B	656.92	Well it would it would be a solution for uh when your remote control is lost , I mean when it has speech recognition then uh i then it doesn't matter where it is , my well it's we should be in range , or maybe it can respond and produce sound , so say where it is .	marketing expert presentation
+A	664.61	Mm-hmm .	marketing expert presentation
+D	667.59	Yeah .	marketing expert presentation
+A	671.74	Mm .	marketing expert presentation
+D	677.05	Yeah .	marketing expert presentation
+B	677.28	But the these are all quite fancy features I'm not sure whether we will we can make this for for twelve Euro fi and fifty cents .	marketing expert presentation
+C	682.07	Well it would be f No you can't .	marketing expert presentation
+D	685.66	Yeah .	marketing expert presentation
+A	686.08	Yeah .	marketing expert presentation
+D	687.88	And we don't know where the state of the art of speech recognition is , maybe you know ?	marketing expert presentation
+C	692.71	Oh .	marketing expert presentation
+C	694.53	Well , it depends you know like there is uh it's a very small vocabulary that you want to do the operations like you want to say on , off , one , two , twenty three , yeah .	marketing expert presentation
+B	705.78	Mm .	marketing expert presentation
+D	707.14	But it's quite noisy if there is the T_V_ uh shouting .	marketing expert presentation
+A	708.72	Mm .	marketing expert presentation
+A	710.32	Yeah .	marketing expert presentation
+C	710.38	It's it's going to be li it's not going to be s so easy but u usually it's going to be more of an isolated case but it's but I don't know with twenty fi Okay it's uh decline .	marketing expert presentation
+B	710.84	Yes , that that that that's mm .	marketing expert presentation
+B	719.12	Do you have some more important facts or can we go to the next presentation ?	marketing expert presentation
+D	720.74	Okay .	marketing expert presentation
+A	721.0	Um Well This is now talking about um who would pay for speech recognition in a remote control , who would pay more for it , um .	marketing expert presentation
+D	722.54	So you had to to to summarise maybe the Mm .	marketing expert presentation
+A	732.87	Ninety percent of the fifteen to twenty five year old market said that they would pay more , it goes down from there , seventy six percent for twenty five to thirty five , thirty five percent for thirty five to forty five , um twenty two percent for forty five to fifty five and then eight percent for fifty five to sixty five .	marketing expert presentation
+B	747.03	Mm .	marketing expert presentation
+C	749.73	Okay .	marketing expert presentation
+A	749.96	Yeah .	marketing expert presentation
+B	750.21	Mm-hmm .	marketing expert presentation
+A	750.48	But we sh Yeah , it really depends where we're gonna be targeting this product , um , which we'll be talking about later I think .	marketing expert presentation
+B	750.48	Decline with age , mm .	marketing expert presentation
+B	755.73	Mm .	marketing expert presentation
+B	757.78	Yes .	marketing expert presentation
+B	758.17	We will talk about it later .	marketing expert presentation
+A	760.38	Did you get the email ?	marketing expert presentation
+B	760.41	Okay .	marketing expert presentation
+A	767.67	Yep , that one .	marketing expert presentation
+D	767.82	Mm-hmm .	marketing expert presentation
+A	770.45	Just follow that link .	marketing expert presentation
+D	775.77	I thi You us yeah yeah .	marketing expert presentation
+A	776.92	It'll be in a different window , yep .	marketing expert presentation
+A	779.28	That's left that one .	marketing expert presentation
+A	782.85	Yep .	marketing expert presentation
+D	783.36	Okay perfect .	marketing expert presentation
+D	784.581	.. .	marketing expert presentation
+A	788.02	Mm .	marketing expert presentation
+A	788.19	So that's the figure that I was just talking about there , with the different demographics .	marketing expert presentation
+C	790.31	Okay .	marketing expert presentation
+A	792.14	Another thing it's talking about there is the L_C_D_ screen but there's no figures apparently on that .	marketing expert presentation
+B	798.06	Mm .	marketing expert presentation
+D	798.07	Mm 'kay .	marketing expert presentation
+B	799.06	Okay .	marketing expert presentation
+B	800.17	um Uh maybe uh Mael c c can you give uh uh your presentation uh ?	industrial designer presentation marketing expert presentation
+D	807.35	Yeah .	industrial designer presentation
+D	813.27	Mm I okay I stay I can move as far as Maybe I take your chair ?	industrial designer presentation
+B	815.64	Oh , this is Mm-hmm , y y you can move , uh .	industrial designer presentation
+C	819.03	Now you can move I think yeah .	industrial designer presentation
+D	829.95	I okay .	industrial designer presentation
+B	830.08	Yes .	industrial designer presentation
+B	830.5	You can you can sa take my chair .	industrial designer presentation
+C	832.88	It's a channel selection , a module , this and this function , go to the .	industrial designer presentation
+A	835.65	Sorry ?	industrial designer presentation
+A	837.0	Oh .	industrial designer presentation
+C	838.79	Yeah .	industrial designer presentation
+D	839.86	So I think as everybody knows uh I'm the uh Industrial Designer .	industrial designer presentation
+D	849.08	And uh in this presentation uh this group presentation um is gonna focus on the working design of the the remote control .	industrial designer presentation
+D	859.28	Um I'd like first to give a quick a very simple introduction , how does it work , so that everybody knows even if you don't have a very uh technical background uh what is it because I think in the product it is important .	industrial designer presentation
+A	870.17	Mm .	industrial designer presentation
+D	873.46	So basically um the basic function of a remote control is to send uh messages to another system that is fixed .	industrial designer presentation
+A	881.91	Mm-hmm .	industrial designer presentation
+D	882.82	And so an energy source feeds an integrated circuit , the chip , that can compose messages , usually uh through a um infrared bit and uh the user interface controls the chip and accordingly the the messages , alright .	industrial designer presentation
+A	893.47	Mm-hmm .	industrial designer presentation
+D	901.71	So my method for um designing the yeah the work design uh yeah first the the main point is that I would wish to to make a really functional product .	industrial designer presentation
+D	917.39	I would prefer to have very functional um capabilities rather than fancy stuff that in fact is not used and doesn't work .	industrial designer presentation
+B	925.29	Mm .	industrial designer presentation
+A	925.35	Mm-hmm .	industrial designer presentation
+D	926.22	So for that yeah as it's important to take into account the user requirements from the Marketing uh Expert uh Anna and um w to to we should agree on what are the technical functions uh for this remote control and I show you the the working design .	industrial designer presentation
+A	934.53	Mm-hmm .	industrial designer presentation
+D	948.58	So um basically uh here is a really large view of what we want .	industrial designer presentation
+D	957.34	Uh we want an on off button , it can be uh it's simple but it's it's important , and also uh the to both channels as well as other buttons that come after , right .	industrial designer presentation
+A	963.02	Mm .	industrial designer presentation
+D	972.37	So the components I quickly draw here , is that in this part you have the remote control the the sender and on the other part the receiver so that's my method is um will be to well my aim would be to uh design the and choose the chips and the infrared um components to build the remote control right .	industrial designer presentation
+A	998.52	Mm-hmm .	industrial designer presentation
+B	999.14	Mm-hmm .	industrial designer presentation
+D	999.71	So of course we need energy sources and uh uh the receiver a a receiver .	industrial designer presentation
+D	1007.72	This is very quick uh design , uh you stop me or interrupt me if uh you don't agree on it on that .	industrial designer presentation
+B	1014.48	Mm-hmm .	industrial designer presentation
+D	1015.96	And um so what I have found and after a lot of work actually I I draw this I draw for you this uh schema that can be maybe too technical for you but is very important for me you know .	industrial designer presentation
+A	1022.56	Well .	industrial designer presentation
+B	1027.41	Uh-huh .	industrial designer presentation
+A	1032.61	You drew it a long time ago ?	industrial designer presentation
+B	1033.91	Is huh overwhelming .	industrial designer presentation
+D	1034.25	And uh that's it so I won't go into details about that but uh these are my preferences to use uh that kind of components .	industrial designer presentation
+A	1034.64	Ninety one .	industrial designer presentation
+B	1043.19	No .	industrial designer presentation
+B	1048.33	And and why do you want these kind of component ?	industrial designer presentation
+D	1049.12	So .	industrial designer presentation
+B	1050.64	I mean , are they cheap , or are they uh reliable ?	industrial designer presentation
+B	1053.68	What were your Mm .	industrial designer presentation
+D	1056.24	So the the main components you see here are the cheapest I have found and yeah th you have always a compromise with uh reliability and uh i if it's expensive , but uh this one was not this one also really uh reliable um so yeah that's it for the working design , uh I hope you get clearer view on uh what what a remote control is uh in terms of uh technical components but maybe yeah No no no no we we will uh This is a preference but we can always change uh Yeah .	industrial designer presentation
+B	1089.86	Yes .	industrial designer presentation
+B	1094.66	It it it's more clear now I think .	industrial designer presentation
+B	1098.6	So Mm-hmm .	industrial designer presentation
+C	1099.52	But is it uh can you just buy it on the market and f plug it in or you want to ma Well it to du it's just you had to change the frequencies .	industrial designer presentation
+B	1110.44	What I w what I was thinking about uh the the the schema uh about uh the sender and the receiver , I mean can you can you get back to it ?	industrial designer presentation
+B	1121.56	Yeah uh , the receiver is of course already in the television and we are not uh able to change it .	industrial designer presentation
+D	1129.4	Of course yeah .	industrial designer presentation
+B	1129.48	So we we must adapt to the to the receiver .	industrial designer presentation
+B	1132.53	I I suppose there is a standard uh way of communicating to televisions uh .	industrial designer presentation
+D	1138.04	Yeah .	industrial designer presentation
+D	1138.29	We will use uh infrared protocol uh using yeah infrared and uh and of course we need to adapt to that protocol that already exists and but we what we can do is uh uh adapting the the chips inside uh to the best uh chips and uh infrared bubbles .	industrial designer presentation
+B	1150.17	Mm-hmm .	industrial designer presentation
+B	1160.0	Mm .	industrial designer presentation
+B	1160.33	Mm .	industrial designer presentation
+B	1160.56	Mm .	industrial designer presentation
+B	1160.71	Mm .	industrial designer presentation
+B	1163.27	Yes .	industrial designer presentation
+B	1163.89	Okay .	industrial designer presentation
+D	1164.66	Um .	industrial designer presentation
+D	1169.29	Okay .	industrial designer presentation
+B	1170.02	Thank you .	industrial designer presentation
+D	1174.56	The frequencies ?	industrial designer presentation
+D	1175.22	Yeah yeah .	industrial designer presentation
+C	1175.31	Yeah .	industrial designer presentation
+D	1176.34	Of course yeah in the chip you have it yeah .	industrial designer presentation
+C	1178.82	But you should be careful , people are sometime becoming problem , like a guy has recently designed a remote uh uh uh which could switch off any other T_V_s , so basically through all the things .	industrial designer presentation
+D	1187.51	That can control o other things .	industrial designer presentation
+D	1190.65	Yeah .	industrial designer presentation
+B	1192.56	Mm .	industrial designer presentation
+A	1192.6	Ah .	industrial designer presentation
+C	1194.25	So maybe we should think of yeah .	industrial designer presentation
+D	1197.01	Of course yeah we should take that into account in the uh Yes .	industrial designer presentation
+B	1198.34	Yeah yes I I I I I feel I I I think M Mael will will consider this uh th these things .	industrial designer presentation
+A	1198.49	That's handy .	industrial designer presentation
+A	1199.52	So if the b T_V_ in the next apartment's really loud , you can just turn it off .	industrial designer presentation
+C	1201.23	Yeah so you can just go on the street and then switch off everyone's T_V_ and you can just walk away You don't have to be near the T_V_ at all .	industrial designer presentation
+A	1208.73	Yeah .	industrial designer presentation
+A	1210.08	I like that idea .	industrial designer presentation
+B	1215.26	Maybe Maybe we can go to to your presentation uh Matthew .	industrial designer presentation
+C	1218.28	Yeah so .	industrial designer presentation
+B	1219.05	I I I assume you were finished here .	industrial designer presentation
+B	1221.25	Uh okay .	industrial designer presentation
+C	1221.52	Okay .	interface specialist presentation
+C	1224.92	So I can take I think mine now there .	interface specialist presentation
+D	1227.83	Okay .	interface specialist presentation
+C	1229.32	Okay so voila .	interface specialist presentation
+C	1232.41	Hmm I can take mine it's okay , voila , mm so mm .	interface specialist presentation
+C	1248.2	Okay .	interface specialist presentation
+B	1250.08	Oh .	interface specialist presentation
+B	1250.69	I Uh , sorry ?	interface specialist presentation
+B	1253.5	I know where it is .	interface specialist presentation
+C	1254.71	It's on the desktop .	interface specialist presentation
+B	1255.78	It's uh Yes .	interface specialist presentation
+C	1256.85	Technical function .	interface specialist presentation
+C	1259.1	Okay .	interface specialist presentation
+B	1260.1	It's uh Mm-hmm .	interface specialist presentation
+C	1261.48	Like so .	interface specialist presentation
+C	1262.71	Well .	interface specialist presentation
+C	1263.46	So um I'm going to talk a little bit about the technical function so wha what actually it's about what is the user going to do , I think my last presented what is going inside , so what's the user is going to see from the outside and how he is going to use it .	interface specialist presentation
+A	1273.33	Mm-hmm .	interface specialist presentation
+A	1275.08	Yep .	interface specialist presentation
+C	1280.62	So well the approach is that uh basically the idea is to send a message to the T_V_ set , as Mael has pointed , and it will be decoded by the T_V_ and usually we it is easier to have uh keys or buttons with which people can uh press and then um changing a button will basically uh change the message which is being sent to the T_V_ and uh um a and basically it sends an internal signal and decoded by the receiver .	interface specialist presentation
+D	1308.33	Mm-hmm .	interface specialist presentation
+C	1314.83	So p as um Anna has said that this ki people are interested in things which are you don't need to k press the keys , people are can have a speech recognition but this is uh s a question which will we have to see later .	interface specialist presentation
+C	1331.34	But in the present scenario is that you have certain keys and you press it like your mobile phone , and it sends a message to the T_V_ .	interface specialist presentation
+B	1341.62	Mm .	interface specialist presentation
+D	1342.37	Yep .	interface specialist presentation
+C	1343.3	And um so generally mm I don't have some figures sorry but um so there are two kinds of uh remote if you popularly in the household , actually so you have a standard T_V_ remote where you have just a on , off button and play , uh volume change and uh keys for the number and more than one digit option .	interface specialist presentation
+C	1365.84	And if you see for example righ right now uh uh even the one uh on more than one digit option is for two digit channel which is like ninety nine , but tomorrow you might have one fifty channels you know to browse or two hundred channels to browse who knows , but uh uh .	interface specialist presentation
+C	1384.5	Then there is uh this is the standard one with without any fancy thing you know like i it doesn't have teletext option , it can without any , it's a very simple thing , um which which you can vouch .	interface specialist presentation
+C	1398.13	And then you have uh what's the v video remote file which is like usually it has almost all the keys over there and , but it then it has other options like stop uh and then you play the movie or uh or fo fast forward the movie or something like that so i it has those so these are the standard uh commonly found remote controls in the uh market .	interface specialist presentation
+A	1416.0	Mm-hmm .	interface specialist presentation
+C	1427.42	And then whi which is generally used by the people .	interface specialist presentation
+C	1430.62	And then well personal preferences I would uh basically think of having a kind of aim for the next generation thing where the we could have both the uh the f a T_V_ and the remote video remote control because uh some of the keys in the video's remote control and the T_V_ they could be integrated together so that uh we could um aim for the like in the f coming future um that type of uh applications with Yeah .	interface specialist presentation
+A	1463.09	Okay .	interface specialist presentation
+A	1463.78	How would that work ?	interface specialist presentation
+A	1464.48	So you've got say maybe a V_C_R_ and a T_V_ which are separate , so you on my one at home I've got a V_C_R_ remote which then changes the channel on the V_C_R_ and doesn't do anything on the T_V_ , so is it gonna be like a switch on the remote that says t use the T_V_ or use the V_C_R_ ?	interface specialist presentation
+C	1474.64	Yeah .	interface specialist presentation
+A	1479.34	or does it know which one you want to use ?	interface specialist presentation
+C	1481.66	Um actually um you could you could think of um having s a y you can have a key which could tell y it could go to the video thing but um uh yo you you you still can't um in that case when it you use that the function should be able to take up the V_C_R_ option and you could play it or You can also think about having like um I in a few days you will be ha in in few ye coming years you might even have a system where you have a separate uh sitting setup box and uh you have uh um something like uh uh you do you do you suppose you are not able to watch some programme and actually it downloading all the time for you and uh you can just you know uh when you come back you could just switch on that thing and uh watch a program .	interface specialist presentation
+A	1491.43	Mm-hmm .	interface specialist presentation
+A	1502.15	Mm-hmm .	interface specialist presentation
+A	1517.03	Mm-hmm .	interface specialist presentation
+A	1524.08	Mm-hmm .	interface specialist presentation
+A	1526.73	Mm .	interface specialist presentation
+A	1533.3	Mm .	interface specialist presentation
+C	1534.44	In that case you want to browse faster , browse slow , you want to have those kind of functionalities .	interface specialist presentation
+A	1537.72	Mm .	interface specialist presentation
+B	1538.35	Mm mm mm mm mm .	interface specialist presentation
+A	1540.16	Mm .	interface specialist presentation
+D	1540.36	These are kind of next generation functionalities .	interface specialist presentation
+C	1542.16	It's the next generation thing , but it is going to come in couple of years .	interface specialist presentation
+B	1543.88	Mm yes , but I think it's i i it's already there , I mean the hard disk uh recorders uh I I've seen them in the shop .	interface specialist presentation
+A	1544.58	Mm .	interface specialist presentation
+C	1545.53	It's goi Yeah it's Yeah .	interface specialist presentation
+A	1549.43	Mm .	interface specialist presentation
+C	1550.93	Yeah .	interface specialist presentation
+A	1551.28	Yeah .	interface specialist presentation
+D	1551.3	Mm 'kay .	interface specialist presentation
+C	1551.61	So it's going to record your things and you and you you need basically the functionalities what you need in both uh uh video as well as in the standard T_V_ thing .	interface specialist presentation
+A	1554.32	Mm .	interface specialist presentation
+A	1556.95	Yeah .	interface specialist presentation
+A	1558.52	That's fair enough .	interface specialist presentation
+A	1560.34	Mm .	interface specialist presentation
+A	1561.24	But I don't think we're trying to make a universal remote here .	interface specialist presentation
+C	1564.52	No no we are not making a universal remote , we are just looking at uh giving a scenario , I have a T_V_ and tomorrow I am going to have set up box which is going to sit there and uh it's going to do that job for me .	interface specialist presentation
+A	1564.92	That's , yeah .	interface specialist presentation
+A	1571.66	Mm .	interface specialist presentation
+A	1573.79	Mm .	interface specialist presentation
+A	1574.98	Because y Mm-hmm .	interface specialist presentation
+B	1575.36	W w w w we need to decide on on on on in how far we go to in this .	interface specialist presentation
+B	1582.04	Mean , you can go pretty far I f I think with with with functions and possible uh future p uh prospects yes .	interface specialist presentation
+A	1582.51	Mm .	interface specialist presentation
+A	1586.89	Mm .	interface specialist presentation
+A	1589.33	Yep .	interface specialist presentation
+C	1590.21	Yeah .	interface specialist presentation
+C	1590.48	So Okay so that p ends my presentation .	interface specialist presentation
+B	1591.19	But it's good to keep in mind .	interface specialist presentation
+A	1592.75	Mm .	interface specialist presentation
+B	1596.43	Mm .	interface specialist presentation
+B	1596.86	Very well .	interface specialist presentation
+C	1596.96	Well .	discussion
+C	1597.52	So we can always discuss about it for example uh the presently the video market actually uh this demand , video over-demand or what we call it as , it's presently booming up actually so it i like people are providing like uh things like uh uh movies , you can select actually so you want to watch a movie and uh your p your provider gives a list of movies , and then you select those list .	discussion
+D	1609.51	Mm-hmm .	discussion
+A	1610.28	Mm .	discussion
+A	1612.88	Yeah .	discussion
+A	1628.75	Mm-hmm .	discussion
+D	1628.94	Yeah .	discussion
+C	1629.18	And it basically you go off , it downloads the movie , it gives for you and then when you come you want to loo watch it on your T_V_ .	discussion
+D	1633.12	Yeah .	discussion
+A	1633.2	Mm .	discussion
+C	1637.99	And thi this is going to come .	discussion
+B	1638.04	Good .	discussion
+D	1639.03	Or even you don't need to download it , it's streamed uh online uh yeah .	discussion
+C	1642.85	Yeah it can be streamed online for you and you can say what time I want to watch the movie and Yeah so .	discussion
+D	1643.5	Yeah .	discussion
+D	1646.9	Yeah .	discussion
+A	1647.27	Mm .	discussion
+B	1648.98	Um , so u um I have uh received some some some some well points of of thinking over of my account manager and uh I would like to share them with you .	discussion
+C	1650.36	Yeah .	discussion
+A	1661.11	Mm-hmm .	discussion
+B	1661.14	Um first thing is uh teletext is a well known feature of televisions but it's it's getting used less and less .	discussion
+D	1661.52	Mm-hmm .	discussion
+A	1667.59	Mm-hmm .	discussion
+C	1671.93	Yeah .	discussion
+B	1671.99	That's that's especially because of the internet of course .	discussion
+A	1675.21	Hmm .	discussion
+B	1676.35	So we should think about it um .	discussion
+B	1680.3	Do we include it , and do we give it a prominent uh prominent uh place on on on the on well huh on the remote mot control itself .	discussion
+A	1688.8	Mm .	discussion
+B	1691.39	Uh as uh a in any case it's it's not used , well very much , but it's it is still used .	discussion
+A	1697.9	Mm .	discussion
+C	1699.91	Um .	discussion
+B	1699.99	Um further yes we must think , uh do we stay uh to to television only , the television as we as we all know it with with broadcasting signals and you can't go back uh huh , or do we uh uh go further as Matthew indicated by supporting uh uh recording uh devices ?	discussion
+B	1725.32	Uh indeed indeed .	discussion
+A	1725.35	So D_V_D_s and V_C_R_s ?	discussion
+A	1727.76	Mm .	discussion
+B	1728.16	And and and the hard disk recorders .	discussion
+B	1732.06	Um , furthermore , uh , w we need really need to interest uh y younger customers and then with younger customers I mean people uh below the age of forty , and our our current customers are mainly forty plus uh which well Forty .	discussion
+A	1749.07	Mm-hmm .	discussion
+A	1754.82	Mm-hmm .	discussion
+D	1756.32	Fourteen or for O okay .	discussion
+D	1758.77	So Mm-hmm .	discussion
+B	1758.82	So that's to that's I mean there's a market but uh they will grow older older and you'll al always need to have the the future with younger people .	discussion
+A	1770.33	Mm-hmm .	discussion
+B	1771.26	Um therefore , younger people like trendy trendy designs , so that's w we should make our our our R_C_ as trendy as possible but it should also be uh have a reliable image , so when it looks too too spacey or too fancy people will think well does it work at all .	discussion
+B	1796.24	Hmm .	discussion
+A	1796.29	Mm .	discussion
+C	1796.56	Yeah it's uh well you you can follow the ideas how you want to keep the keys , you know right now if you take it you have like zero , one , two , three like a keys separately , but suppose if you take the the present trend of mobile phones there are like big thick keys you press on the top , it takes one number , you press on the bottom it takes another number , and uh basically uh uh so the space covered so that you don't see two separate keys there actually so it it is like uh um i i it is like uh Yeah so .	discussion
+A	1809.03	Mm-hmm .	discussion
+A	1814.79	Mm .	discussion
+A	1830.96	Mm .	discussion
+B	1834.63	Ma Maybe Maybe you can draw it on the on the board uh Hmm .	discussion
+A	1836.24	Mm .	discussion
+A	1837.27	But I think taking the idea of getting inspiration from mobile phones is interesting , especially if we're going after a younger market , that's the the the mm the new and the funky things , that's , yeah , there's lot there's lots of pretty mobile phones , not too many pretty remote controls .	discussion
+D	1841.03	Yeah .	discussion
+B	1843.27	Yes yes mo Yes it's recognisable Mm mm .	discussion
+D	1843.77	Because they are already used to that , you know , product .	discussion
+D	1846.24	Yeah .	discussion
+A	1852.31	That's Mm .	discussion
+B	1852.61	And and they are skilled uh by using it .	discussion
+C	1855.92	So for example uh Well uh Okay , it works .	discussion
+D	1858.73	Mm-hmm .	discussion
+D	1859.072	.. .	discussion
+C	1865.86	Fine .	discussion
+C	1866.82	So , for example you have uh presently uh keys like one , two , three like this , actually , and uh uh four five six like that and uh you can have keys like this in form like uh keys like that Forty minutes ?	discussion
+B	1868.19	Mael can you hand me over this uh ?	discussion
+D	1868.85	Yes .	discussion
+B	1874.1	Uh thank you .	discussion
+A	1875.65	Mm-hmm .	discussion
+A	1886.63	Okay .	discussion
+A	1889.0	How much longer have we got for the meeting by the way ?	discussion
+B	1890.61	Mm well I think fi five min Mm-hmm .	discussion
+A	1891.47	'Cause we haven't talked about demographic at all and it's a very important issue .	discussion
+C	1894.0	Yeah so you you you can have uh keys like uh which are which are like so .	discussion
+C	1905.42	too sorry , so we basically don't change the uh original order of them but then the keys are more spacious , they don't look uh so there there is a very sligh thing , so if you press on the top it takes the one , it takes the three , uh four , sorry four here uh five and six , so the keys can be it looks you know not very much cluttered but it looks nice for you don't have too many keys but you can have a lot of options t if you press on the to Yeah .	discussion user target group
+A	1914.67	Mm-hmm .	discussion
+A	1921.8	Mm .	discussion
+A	1927.54	Mm .	discussion
+D	1933.43	Mm-hmm .	discussion
+A	1936.41	Mm .	discussion
+B	1938.91	Okay .	discussion
+B	1940.28	'Kay I I think now that the idea's clear .	user target group
+D	1941.68	Yep .	user target group
+A	1943.01	Mm .	user target group
+B	1943.14	Uh we should now uh try to decide um on our target group .	user target group
+A	1951.3	Yeah .	user target group
+A	1951.9	Which I think is quite tricky .	user target group
+C	1953.67	Yeah .	user target group
+A	1953.87	Um , basically we're trying to get people to buy a remote control wouldn't they already have a remote control with their television when they buy one ?	user target group
+B	1961.63	Of course they have already one .	user target group
+B	1963.0	So our our our remote control has to be better .	user target group
+A	1965.89	But it's not going to have more functionality , 'cause it's only a low market , it's a cheap-end remote control , we can't beat modern functionality , we might we'll be able to beat them on th the look of it , th the design of it but that's not a big seller , if they're not just going to buy a new remote control just 'cause it looks pretty , they have to actually need it as well .	user target group
+C	1965.96	Mm-hmm .	user target group
+B	1982.56	Mm-hmm .	user target group
+A	1985.3	So I'm not sure how we can get people to buy this thing .	user target group
+B	1989.02	Mm .	user target group
+B	1989.61	I well I think many people said uh in your in in your research uh uh uh the appearance of the uh R_C_ is is important when they are buying one but Indeed .	user target group
+A	1996.05	Mm .	user target group
+A	2001.91	Yeah .	user target group
+A	2002.59	But why are they buying one in the first place ?	user target group
+B	2006.05	So that will be about functionality Mm .	user target group
+A	2012.59	Mm .	user target group
+A	2013.15	But if people are buying a new remote control for functionality they'll buy a universal remote .	user target group
+A	2017.58	I've got friends who've got so many things they need a universal remote , otherwise they're using five different remotes for their all their things .	user target group
+B	2023.0	Mm-hmm .	user target group
+B	2023.31	Mm .	user target group
+A	2023.93	In that case they wouldn't buy our product , because it doesn't give them what they need in terms of functionality .	user target group
+B	2028.18	So your you think we should go for a more u universal high-performance What do What do you think about What componen I don't know .	user target group
+A	2033.44	Well , we can't , with the price range .	user target group
+A	2035.82	We We're not building a universal remote , we're not building a high end product .	user target group
+D	2040.04	Yeah we have yeah twelve point five Euros uh per uh per R_ s R_C_ and I think uh with this now you know that chips are very uh cheaps and uh we can include it in our control some new new features .	user target group
+A	2043.14	Mm .	user target group
+A	2052.77	Mm-hmm .	user target group
+A	2059.67	Mm .	user target group
+D	2059.67	Yeah .	user target group
+D	2061.07	And um But yeah that's Ye I don't think L_C_D_ is not necessary well , th for long term .	user target group
+A	2061.28	But yeah .	user target group
+A	2063.19	If we're getting into universal remote territory , we're getting to L_C_D_ screens and things like that which would drive the cost up a lot .	user target group
+B	2069.32	I don't know whether that's necessary .	user target group
+B	2070.94	Is the L_C_D_ screen I think thi this could be this could be a market because uh universal remote controls uh tend to be uh quite expensive .	user target group
+A	2071.68	For universal remotes If you mm .	user target group
+A	2083.97	And quite complicated to use , yes .	user target group
+B	2084.29	S so we can try to go in between , and offer a product which is not as expensive and not as complicated but but still but still people have the idea this is more functional than a normal uh uh R_C_ because it has more uh it it is in some kind universal .	user target group
+A	2091.44	Mm-hmm .	user target group
+A	2092.53	Not as flexible maybe , yeah , but s yeah .	user target group
+D	2093.54	Yeah .	user target group
+D	2101.11	Universal .	user target group
+D	2102.94	Yeah .	user target group
+A	2103.02	Mm-hmm .	user target group
+A	2106.64	Mm-hmm .	user target group
+A	2108.68	But if we're going for the say fifteen to twenty five age group then not many of them would actually own T_V_s to use a remote control on .	user target group
+B	2116.95	Mm yes but w we're targeting I think on more on the on the twenty to forty group .	user target group
+A	2122.9	Okay .	user target group
+A	2124.33	So they're yeah .	user target group
+B	2125.43	People yes .	user target group
+B	2127.28	Who just have or already have a job and have the money but may not want to spend that much money on a on a universal universal control .	user target group
+A	2131.01	Mm-hmm .	user target group
+A	2135.59	Mm-hmm .	user target group
+A	2136.22	Yep .	user target group
+A	2138.26	I don't know really what the the price range for remote controls is .	user target group
+A	2141.33	Are we gonna be at the very bottom of the price range , or are we kind of middle to bottom ?	user target group
+A	2146.04	I don't know .	user target group
+B	2146.53	Uh well I think uh when we think it over I thi I think we are trying to offer the a kind of universal control for for less money .	user target group
+D	2147.24	Mm .	user target group
+A	2153.1	Mm .	user target group
+A	2159.4	Mm-hmm .	user target group
+D	2160.49	Yeah .	user target group
+B	2163.0	So d Do you agree ?	user target group
+C	2164.74	Well Well I it's fine with me like the price as long as it is uh not too expensive .	user target group
+D	2171.87	Yeah because we have to take into account that we are gonna b we are gonna sell uh four aro around four million so when we speak about these numbers uh the price of a chip is uh price of a chip is very cheap .	user target group
+C	2172.26	Uh and it d uh Our provin Mm .	user target group
+A	2187.52	Mm .	user target group
+D	2188.6	So I'm okay for designing um a ne uh less yeah a a kind of universal uh R_C_ yeah .	user target group
+B	2197.11	Mm-hmm .	user target group
+B	2197.78	You think it's possible for the twelve Euro fifty ?	user target group
+D	2200.73	Yeah .	user target group
+B	2201.36	Okay .	user target group
+B	2202.96	Um so then we we decide on on on going to this more universal kind of control .	user target group
+C	2210.59	Uh yeah , that's that's what we needed basically .	user target group
+A	2213.18	Mm-hmm .	user target group
+B	2213.3	Mm .	user target group
+B	2213.52	Mm .	user target group
+B	2213.9	Okay .	user target group
+C	2214.27	Uh that's needed right now .	user target group
+C	2215.77	And uh basically you can look to the standards of other Actu Yeah .	user target group
+D	2215.78	Yeah that's needed , yeah .	user target group
+A	2217.03	Mm .	user target group
+D	2218.07	And if we want to get the market , we really need that .	user target group
+A	2218.42	Yeah .	user target group
+A	2219.81	Yeah .	user target group
+A	2220.82	So I guess what I'd like from a universal remote is maybe choosing between three devices , being able to switch between them , there may be stereo , V_C_R_ and T_V_ .	user target group
+D	2225.55	Yes .	user target group
+D	2229.46	Exactly .	user target group
+A	2230.37	And just be able to s use them all from the same remote , but not at the same time .	user target group
+B	2230.79	Yes .	user target group
+C	2233.42	Yeah you can also browse through all the standards you know , where are the limit of standards for all of them and you can just browse through them .	closing
+D	2233.93	Is that okay for you ?	closing
+D	2234.79	Yeah .	closing
+B	2235.99	Mm mm mm mm .	closing
+D	2237.23	Yeah .	closing
+D	2240.83	Yeah .	closing
+B	2241.48	So given we are going for this uh uh universal type uh m maybe it is good when you try to find out which components you therefore need and y you will try to get more specific uh user interface content and uh maybe you can look on on what trends are in this uh in this type of market .	closing
+D	2252.24	Yes .	closing
+A	2253.56	Mm .	closing
+C	2257.3	Okay .	closing
+C	2258.16	Okay .	closing
+A	2261.06	Mm-hmm yep .	closing
+C	2265.08	Voila .	closing
+C	2268.42	Hmm .	closing
+B	2269.89	So anyone uh has a point to bring in or shall we no .	closing
+C	2270.5	So .	closing
+C	2273.54	Well .	closing
+C	2275.24	Oh I don't have anything right now .	closing
+C	2277.32	We can we'll we'll go and we'll I'm sure we'll up something good for the Yeah so we meet in well what are our Okay .	closing
+D	2277.84	Oh that's that's fine then .	closing
+B	2278.41	Okay .	closing
+A	2282.62	Mm-hmm .	closing
+B	2282.69	W yes , we uh we can have lunch now .	closing
+D	2283.9	Yeah .	closing
+A	2286.04	Mm-hmm .	closing
+B	2286.53	So um Then th th the next meeting will uh after lunch you have uh we have uh thirty minutes of work and then we have the next meeting .	closing
+B	2302.02	But you will be informed via the computer .	closing
+B	2305.93	Okay .	closing
+C	2306.5	Cool .	closing
+D	2306.98	Okay perfect .	closing
+C	2307.15	So see you later .	closing

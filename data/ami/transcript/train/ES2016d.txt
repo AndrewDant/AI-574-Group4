@@ -1,0 +1,533 @@
+B	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+B	0	.	NO_TOPIC
+C	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+D	0	.	NO_TOPIC
+A	14.16	Yep .	agenda/equipment issues
+A	15.15	Soon as I get this .	agenda/equipment issues
+A	27.93	Okay .	opening
+A	30.31	This is our last meeting .	opening
+A	34.35	Um I'll go ahead and go through the minutes from the previous meeting .	opening
+A	38.77	Uh and then we'll have a , the prototype presentation .	opening
+A	46.13	Um then we will um do an evaluation .	opening
+A	50.99	Uh or we'll see what , what we need to have under the criteria for the evaluation .	opening
+A	57.48	Then we'll go through the finance and see if we fall within the budget .	opening
+A	62.05	Um then we'll do the evaluation , and then we can finish up after that with um any changes that we'll need to make , or hopefully everything will fall right in line .	opening
+A	74.54	Um let's see , minutes from the last meeting .	opening
+A	79.09	Um we looked at uh the the trends .	opening
+A	84.3	We had uh the fashion trends that people want a fancy look-and-feel .	opening
+A	88.75	It was twice as important as anything else .	opening
+A	91.56	Um they liked fruit and vegetables in the new styles .	opening
+A	96.78	Um and a spongy feel .	opening
+A	99.65	So we were talking about trying to incorporate those into our prototype .	opening
+A	104.47	Um they wanted limited buttons and simplicity .	opening
+A	109.46	Um then we looked at the uh the method for coming up with our own remote .	opening
+A	117.81	Um looking at other other devices .	opening
+A	121.52	Um the iPod , we really liked the look of that .	opening
+A	125.56	Um we also had uh the kid's remote for a simple idea .	opening
+A	130.73	Um a two part remote , which was what were were originally looking at .	opening
+A	135.14	Uh and then um there was talk of spee uh speech recognition um becoming more uh predominant and easier to use .	opening
+A	148.23	But I think we've still decided not to go with that .	opening
+A	151.61	Then we looked at the components um the materials for the case , the different energy sources , the different types of chips , um and made a decision on what we were going to use to make our remote .	opening
+A	165.25	Um and basically how , what were making for the prototype .	opening
+A	171.82	So I'm going to leave it at that and let you guys take over .	opening
+C	178.69	The prototype discussion .	opening
+A	180.5	The prototype yeah .	opening
+A	181.62	Do you need a this ?	agenda/equipment issues
+C	183.54	No .	agenda/equipment issues
+A	184.45	Okay .	agenda/equipment issues
+C	185.89	There is our remo the banana .	agenda/equipment issues
+B	185.91	Can try to plug that in there but Right .	presentation of prototype(s) agenda/equipment issues
+C	189.15	Um yeah basically we we st went with the colour yellow .	presentation of prototype(s)
+C	194.81	Um working on the principle of a fruit which was mentioned , it's basically designed around a banana .	presentation of prototype(s)
+C	202.0	Um but it would be held in such a fashion , where it is , obviously it wouldn't be that floppy 'cause this would be hard plastic .	presentation of prototype(s)
+C	209.67	These would be like the rubber , the rubber grips .	presentation of prototype(s)
+C	212.69	So that's so that would hopefully help with grip , or like the ergonomics of it .	presentation of prototype(s)
+C	217.67	Um but all the controlling would be done with this scroll wheel .	presentation of prototype(s)
+C	220.78	You have to use your imagination a little bit .	presentation of prototype(s)
+C	222.61	And this here represents the screen , where you , where you'd go through .	presentation of prototype(s)
+A	225.01	Very nice .	presentation of prototype(s)
+C	226.5	And the the simplest functions would be um almost identical to an iPod , where that one way ch through channels , that way th other way through channels .	presentation of prototype(s)
+C	236.83	Volume up and down .	presentation of prototype(s)
+C	238.34	And then to access the more complicated functions you'd you sorta go , you press that and go through the menus .	presentation of prototype(s)
+C	243.74	It's that that simple .	presentation of prototype(s)
+C	244.72	That just represents the infrared uh beam .	presentation of prototype(s)
+C	248.98	That's a simple on and off switch .	presentation of prototype(s)
+C	250.85	Um I don't know , we could use the voice .	presentation of prototype(s)
+C	254.01	T that blue bits should be yellow , d that that'd be where the batteries would be I suppose .	presentation of prototype(s)
+C	258.28	And um that's about it .	presentation of prototype(s)
+C	262.5	It's as simple as you , we could make it really .	presentation of prototype(s)
+C	264.36	Is there anything you want to add ?	presentation of prototype(s)
+B	265.33	That's what we have there .	presentation of prototype(s)
+B	266.41	That's plastic .	presentation of prototype(s)
+B	268.18	Plastic covered with rubber .	presentation of prototype(s)
+B	270.38	We might uh add some more underneath here .	presentation of prototype(s)
+B	274.81	Maybe give it , give it a form .	presentation of prototype(s)
+B	277.63	I mean you're supposed to hold it like that , but um just if you grab it , take it from somewhere , so yeah , you have some rub yeah .	presentation of prototype(s)
+C	281.96	Yeah .	presentation of prototype(s)
+C	282.37	Doesn't make much make much difference .	presentation of prototype(s)
+A	282.77	Mm-hmm .	presentation of prototype(s)
+C	283.75	You could work left-handed or right-handed I suppose .	presentation of prototype(s)
+B	285.81	Exactly , use both .	presentation of prototype(s)
+B	288.53	Might as well think about Th think about the button as well .	presentation of prototype(s)
+C	289.35	T the actual thing might be smaller .	presentation of prototype(s)
+C	293.04	Yeah .	presentation of prototype(s)
+B	293.32	Like either put either one one on either side or not do it at all .	presentation of prototype(s)
+A	298.2	What but what's that button ?	presentation of prototype(s)
+C	299.51	Just the on and off .	presentation of prototype(s)
+B	299.88	It's a quick on-off button .	presentation of prototype(s)
+A	300.4	Uh , 'kay .	presentation of prototype(s)
+B	301.33	That's um yeah I think it's pretty important .	presentation of prototype(s)
+B	305.09	So you don't have to fiddle with that .	presentation of prototype(s)
+A	307.43	'Kay .	presentation of prototype(s)
+B	307.81	Right ?	presentation of prototype(s)
+B	308.66	Um that's not um I'd say a bit smaller would probably be nice .	presentation of prototype(s)
+C	313.83	Yeah .	presentation of prototype(s)
+B	313.87	You wanna play with that over there .	presentation of prototype(s)
+B	316.43	There you go .	presentation of prototype(s)
+C	316.92	It's you know it's flimsy 'cause it's made out of heavy Play-Doh , but And whether or not it would fall into the cost everything I suppose .	presentation of prototype(s)
+A	319.35	Would you like to uh Well done .	presentation of prototype(s)
+B	319.65	Right .	presentation of prototype(s)
+D	320.85	Pretty impressive .	presentation of prototype(s)
+D	326.75	Kind of a banana .	presentation of prototype(s)
+C	332.93	With the scroll and the L_C_D_ .	presentation of prototype(s)
+A	336.34	Well luckily we are going to find out .	presentation of prototype(s)
+A	340.01	Or not luckily .	presentation of prototype(s)
+A	341.83	Um do you have a marketing presentation for us .	agenda/equipment issues
+D	343.37	I do .	agenda/equipment issues
+D	351.71	Okay .	evaluation of prototype(s)
+D	353.44	You guys are gonna help me do an evaluation of the criteria .	evaluation of prototype(s)
+D	359.49	Um .	evaluation of prototype(s)
+D	379.95	Okay .	evaluation of prototype(s)
+D	381.8	So first I'll just discuss some of the criteria that I found .	evaluation of prototype(s)
+D	385.61	Just based on the past trend reports that I was looking at earlier .	evaluation of prototype(s)
+D	390.58	And then we'll do a group evaluation of the prototype .	evaluation of prototype(s)
+D	394.24	And then we will calculate the average score to see how we did .	evaluation of prototype(s)
+D	397.8	Um so the criteria we're gonna be looking at are the complaints um that we heard from the users who were interviewed earlier .	evaluation of prototype(s)
+D	408.25	So we're gonna be doing it based on a seven point scale .	evaluation of prototype(s)
+D	422.68	And one is going to mean true , that we did actually achieve that .	evaluation of prototype(s)
+D	429.11	With seven being false , we did not achieve that .	evaluation of prototype(s)
+D	439.52	Okay .	evaluation of prototype(s)
+D	441.43	So for the first one , we need to decide , did we solved the problem of the users who complained about an ugly remote ?	look and usability
+A	452.31	I think it's definitely different than anything else out there .	look and usability
+D	453.19	Mm .	look and usability
+C	454.51	Yeah .	look and usability
+A	455.58	So if they think that what is out there is ugly , then yes I would say , I would say most definitely .	look and usability
+C	459.1	I would .	look and usability
+A	460.91	It's bright .	look and usability
+C	461.76	It's bright .	look and usability
+C	462.25	It's It's curved .	look and usability
+A	463.03	It still has your traditional black .	look and usability
+C	465.82	It's not there's no sharp angles to it .	look and usability
+A	468.85	Yep , not angular .	look and usability
+D	470.8	Mm .	look and usability
+B	471.37	I'd say , when it comes to the ergonomics , the form and stuff , yes that's definitely more beautiful than your average .	look and usability
+B	480.49	However the colour , we don't have a say in that .	look and usability
+D	482.19	Yeah I think the colours detract a little bit .	look and usability
+C	483.92	Some people might say it .	look and usability
+B	484.42	That has been , that has been dictated pretty much by the company .	look and usability
+C	484.86	Yeah .	look and usability
+A	486.28	Mm .	look and usability
+B	487.29	So uh to answer that honestly I would rather say like uh , we have not solved the problem completely with the ugly remote because the colour is ugly , definitely .	look and usability
+D	487.63	That's true .	look and usability
+A	488.55	Yep .	look and usability
+D	495.28	Yeah .	look and usability
+C	498.43	Yeah .	look and usability
+B	499.31	'S nothing you can say about that .	look and usability
+B	500.39	I mean I much prefer something like brushed chrome with that form .	look and usability
+C	504.81	Yeah .	look and usability
+B	506.27	But Right .	look and usability
+A	507.36	Yeah something more modern to go a a modern colour to go with the modern form .	look and usability
+B	511.9	Right .	look and usability
+B	512.29	It's different .	look and usability
+B	512.79	You don't want your uh three feet huge L_C_D_ dis display in your living room that's hanging from the wall to be controlled with something like that .	look and usability
+D	525.64	Um okay so , do you think , since we This was a a sign criteria , do you think maybe we should put it somewhere in the middle then ?	look and usability
+D	533.85	Does that sound good ?	look and usability
+B	534.14	Yeah .	look and usability
+A	535.57	Yeah .	look and usability
+C	535.78	Yeah .	look and usability
+D	537.23	What do you think ?	look and usability
+D	537.94	Three ?	look and usability
+D	538.22	Four ?	look and usability
+A	540.88	I would say four .	look and usability
+D	540.92	Five ?	look and usability
+D	543.84	Four is fair .	look and usability
+B	543.97	Yeah .	look and usability
+D	544.55	Okay .	look and usability
+A	546.11	Very non-committal , four .	look and usability
+D	547.58	Okay , the second one .	look and usability
+D	550.45	Did we make it simple for new users ?	look and usability
+B	554.48	It's very intuitive , I think yeah .	look and usability
+C	556.95	Yeah .	look and usability
+C	557.24	I think that was the main aim , one of the main aims that we had .	look and usability
+B	560.57	S give it a one .	look and usability
+D	561.84	One , 'kay .	look and usability
+A	562.37	Yeah .	look and usability
+D	565.89	Okay .	look and usability
+D	567.09	Um , do the controls now match the operating behaviour of the users ?	look and usability
+C	572.88	Uh yeah .	look and usability
+D	573.5	I'd say that So one ?	look and usability
+C	573.56	'Cause we've we've brought it down to basically four controls most common , which are channel and volume .	look and usability
+B	577.73	Right .	look and usability
+A	578.07	Mm-hmm .	look and usability
+C	579.89	And then the other ones are just a matter of just going , just scrolling further .	look and usability
+A	584.01	S scrolling through and selecting a few .	look and usability
+C	585.66	Yeah .	look and usability
+B	586.3	Right .	look and usability
+B	588.22	So that's a one .	look and usability
+D	588.98	Yeah ?	look and usability
+A	589.3	I think that's a one .	look and usability
+D	592.65	Okay .	look and usability
+D	596.89	Okay um the fourth one .	how to find when misplaced
+D	600.44	How about the problem of a remote being easily lost ?	how to find when misplaced
+D	603.33	One of the number one complaints .	how to find when misplaced
+B	604.16	Something that big and that yellow you just don't lose anymore .	how to find when misplaced
+C	606.76	Yeah .	how to find when misplaced
+D	607.46	Whether you want to or not , you're not gonna lose it .	how to find when misplaced
+C	607.55	It's bright yellow .	how to find when misplaced
+C	608.51	Bright yellow's hard to lose .	how to find when misplaced
+C	610.23	But um if we were to , if we were , that , the speech recognition .	how to find when misplaced
+C	614.93	That , we could maybe just use that solely for the the finding thing .	how to find when misplaced
+C	618.32	That was what we'd we'd mentioned .	how to find when misplaced
+A	619.85	So if we incorporate speech recognition into it then it could And it is quite bright and Uh Yeah .	how to find when misplaced
+C	622.98	Just just to use , to find it when it was lost .	how to find when misplaced
+C	625.12	But like I said , like I don't think you'd lose something so yellow so easily .	how to find when misplaced
+B	626.2	Oops .	how to find when misplaced
+C	629.06	And it's not gonna fall , like a rectangle would slip down behind things .	how to find when misplaced
+B	629.25	Hmm .	how to find when misplaced
+C	632.9	That's gonna be a difficult shape to Yeah .	how to find when misplaced
+B	635.15	Well what S Mm .	how to find when misplaced
+C	638.31	Maybe in the middle again , three or four or something ?	how to find when misplaced
+D	640.79	Okay .	how to find when misplaced
+C	641.75	I mean you know loo losing things is one of those things that people can lose , I mean a million ways .	how to find when misplaced
+C	646.18	You can pick it up and walk away with it and then you've lost it .	how to find when misplaced
+D	648.34	That's true .	how to find when misplaced
+A	649.76	But if we do go with the , with the speech recognition , then it , then our scale goes up quite a bit I think .	how to find when misplaced
+D	650.12	Mm .	how to find when misplaced
+B	654.29	Oh yeah .	how to find when misplaced
+C	654.9	Yeah .	how to find when misplaced
+B	654.92	You probably Mm .	how to find when misplaced
+A	655.51	Probably two .	how to find when misplaced
+A	656.9	You know .	how to find when misplaced
+A	657.5	If we eliminate the fact that you know it's impossible to guarantee that it's not gonna be lost then I'd say two .	how to find when misplaced
+C	662.37	Yeah .	how to find when misplaced
+A	668.91	With the speech recognition , which of course may be changed depending on budget .	how to find when misplaced
+C	675.71	Yeah .	how to find when misplaced
+B	676.74	Y you could add an extra feature actually .	how to find when misplaced
+B	681.17	Which makes this thing raise hell when you remove it too far from the television .	how to find when misplaced
+C	687.45	Yeah .	how to find when misplaced
+B	689.87	We could add that but that's nothing we have thought of so far .	how to find when misplaced
+A	693.08	Which , which may be cheaper than speech recognition if it were just a Some sort of proximity Pray that you don't accidentally lose that piece .	how to find when misplaced
+B	696.02	Yes .	how to find when misplaced
+C	697.11	Yeah true .	how to find when misplaced
+C	697.7	But I mean d just those whistling , clapping key rings you have .	how to find when misplaced
+D	697.73	Annoying alarm or something ?	how to find when misplaced
+D	699.51	Yeah .	how to find when misplaced
+B	699.56	It's it's Um the it's based on this anti anti-theft technology for suitcases and stuff , where you have one piece that's attached to your luggage , another piece that starts beeping .	how to find when misplaced
+C	700.58	They're cheap .	how to find when misplaced
+C	701.1	So it can't be that expensive .	how to find when misplaced
+C	705.73	Yeah .	how to find when misplaced
+B	711.86	That can't cost much .	how to find when misplaced
+C	713.01	Yeah .	how to find when misplaced
+B	714.01	So that can also easily be integrated because these things are small enough to to hide , so you have one piece , you have to glue somewhere behind your stick it behind your T_V_ and the other Right .	how to find when misplaced
+C	721.19	stick it on the T_V_ .	how to find when misplaced
+B	728.93	That'd be tough then .	how to find when misplaced
+B	730.41	Well also your remote would uh alarm you if somebody stole you t your television , yeah .	how to find when misplaced
+B	735.42	Ran off with it without taking the beautiful remote control .	how to find when misplaced
+C	738.07	Yeah .	how to find when misplaced
+D	740.71	So .	how to find when misplaced
+D	741.96	Are we adding one of these two features ?	how to find when misplaced
+B	745.13	Let's add one of those features and say yes .	how to find when misplaced
+D	745.26	gonna say okay .	how to find when misplaced
+A	747.4	Okay .	how to find when misplaced
+D	747.99	So we're back to a one ?	how to find when misplaced
+D	749.93	Or a two ?	how to find when misplaced
+C	750.34	Two .	how to find when misplaced
+B	750.73	Two .	how to find when misplaced
+D	750.85	Two , 'kay .	how to find when misplaced
+A	751.05	Two .	how to find when misplaced
+D	753.15	Okay .	evaluation of prototype(s)
+D	753.84	Are we technologically innovative ?	evaluation of prototype(s)
+B	758.64	Uh It's all just It's all just stolen technology when it comes down to right right right right .	evaluation of prototype(s)
+C	759.66	I'd say so .	evaluation of prototype(s)
+C	760.49	Uh don't get many mo remote controls with screens on .	evaluation of prototype(s)
+C	766.91	Yeah it's stolen technology .	evaluation of prototype(s)
+D	766.96	From iPod yeah .	evaluation of prototype(s)
+A	767.82	It's But there's not a lot of yellow , there's not a lotta yellow .	evaluation of prototype(s)
+C	768.47	But we have .	evaluation of prototype(s)
+D	770.17	But for remotes yeah .	evaluation of prototype(s)
+A	773.46	Course that wasn't really we were kinda forced to take that colour .	evaluation of prototype(s)
+C	773.51	Fa 'cause it's stolen .	evaluation of prototype(s)
+D	777.79	Two ?	evaluation of prototype(s)
+D	779.01	Three ?	evaluation of prototype(s)
+A	780.44	I don't know that we are that innovative , to tell you the truth .	evaluation of prototype(s)
+C	782.07	No maybe not .	evaluation of prototype(s)
+B	782.62	Yeah not really .	evaluation of prototype(s)
+D	783.91	But how many remotes do you see like this ?	evaluation of prototype(s)
+D	786.25	Not so many .	evaluation of prototype(s)
+A	786.45	If we added the screaming factor then we go up .	evaluation of prototype(s)
+B	791.98	Right .	evaluation of prototype(s)
+A	792.41	Um I would say we're probably at four .	evaluation of prototype(s)
+D	795.97	Really ?	evaluation of prototype(s)
+D	796.53	Okay .	evaluation of prototype(s)
+D	798.61	That's gonna hurt us .	evaluation of prototype(s)
+D	800.76	Okay .	look and usability
+D	801.53	Um spongy material ?	look and usability
+B	803.68	Yeah well you have that , kind of , sort of .	look and usability
+A	804.53	We have some spongy , yeah .	look and usability
+C	805.16	Yeah as much as as needed , I think .	look and usability
+D	811.59	'Kay .	look and usability
+B	812.74	It's not a one though .	look and usability
+A	813.92	No .	look and usability
+B	813.99	One would be the whole thing to fold and stuff .	look and usability
+A	815.38	Yeah .	look and usability
+A	815.78	Because it's only got what , these parts are the grips and perhaps the back side the bottom the underneath on the back .	look and usability
+B	821.1	Yeah .	look and usability
+C	822.1	Yeah .	look and usability
+B	823.19	So that's a four at most .	look and usability
+A	824.67	Probably a four at most .	look and usability
+D	829.05	And lastly , did we put the fashion in electronics ?	look and usability
+A	829.13	Possibly even a five .	look and usability
+B	835.06	Y yes .	look and usability
+D	835.97	I'd say we did .	look and usability
+C	836.03	Yeah .	look and usability
+A	836.67	If your fashion is b is Carmen Miranda , you betcha .	look and usability
+B	836.75	More Well the recent fashion is rather displayed in the in the L_C_D_ and the way you operate it than the form and the colour , but it definitely is .	look and usability
+C	839.46	Yeah .	look and usability
+C	844.62	On the Yeah .	look and usability
+A	846.01	It's true .	look and usability
+C	850.05	Be what we were told , and they'd say yeah , definitely .	look and usability
+D	852.68	'Kay .	look and usability
+D	854.36	Alright .	evaluation of prototype(s)
+D	857.03	Now we just gotta calculate .	evaluation of prototype(s)
+D	861.16	Six eight twelve sixteen .	evaluation of prototype(s)
+D	866.23	Seventeen divided by s Eight .	evaluation of prototype(s)
+A	870.23	Seven is Two point two point four ?	evaluation of prototype(s)
+C	882.87	Is that some long division ?	evaluation of prototype(s)
+C	884.99	No .	evaluation of prototype(s)
+D	885.5	Well I haven't done math in years .	evaluation of prototype(s)
+A	885.73	Something .	evaluation of prototype(s)
+D	889.0	What two I dunno .	evaluation of prototype(s)
+C	892.36	Just , I'm sure there's a .	evaluation of prototype(s)
+D	893.55	Okay we'll say two point four two .	evaluation of prototype(s)
+D	896.73	Right ?	evaluation of prototype(s)
+D	898.43	How does that look ?	evaluation of prototype(s)
+B	900.58	I'm impressed .	evaluation of prototype(s)
+B	901.18	I can't do that without a calculator .	evaluation of prototype(s)
+C	902.35	No I can't do long very impressive .	evaluation of prototype(s)
+D	903.96	It's been a while .	evaluation of prototype(s)
+A	910.85	And what what is the acceptable criteria ?	evaluation of prototype(s)
+A	916.08	Is there like a scale that we have to hit ?	evaluation of prototype(s)
+D	918.1	Oh no .	evaluation of prototype(s)
+D	918.97	They just told me to pick my own criteria and have you guys evaluate it basically .	evaluation of prototype(s)
+A	926.89	Alright then .	evaluation of prototype(s)
+D	930.87	So that's that .	evaluation of prototype(s)
+A	935.07	Okay .	costing
+A	935.65	Well , let's see .	costing
+A	939.57	Now we get to do the budget numbers .	project budget
+A	942.87	You didn't know that you were gonna have a budget .	project budget
+A	947.5	But we do .	project budget
+A	951.47	Okay .	project budget
+C	951.98	Yeah .	project budget
+C	952.07	Yeah so .	project budget
+C	954.3	You'd been going a long time dividing that .	project budget
+C	955.81	It's two point four two eight five se it just keeps going on .	project budget
+D	957.97	Oh my god .	project budget
+D	958.73	Okay .	project budget
+C	959.07	Two point four two basically .	project budget
+D	960.92	Yeah we'll go with that .	project budget
+D	963.17	Not too shabby .	project budget
+A	963.27	So I have here an Yeah .	project budget
+B	964.92	Fifty percent , you're kidding .	project budget
+B	967.42	P It's too much .	project budget
+A	968.41	We want a fifty percent profit on this .	project budget
+A	970.69	Oh you can't really see that very well .	project budget
+C	973.06	Charge about three hundred quid for it .	project budget
+A	975.92	Twelve and a half Euros is what supposed to cost us .	project budget
+A	978.64	Okay , so Well let's see .	project budget agenda/equipment issues
+B	983.13	Um Uh Battery .	components, materials and energy sources agenda/equipment issues
+A	984.22	The f the Wonder if I can make this What the Oh it won't let me do that .	agenda/equipment issues
+A	1007.06	Okay .	costing
+A	1010.01	Alright so at top , I don't know if you guys can read that or not .	components, materials and energy sources
+A	1013.98	I can't 'cause I don't have my glasses on , but so we've got the energy source .	components, materials and energy sources
+A	1017.85	There's uh four , five , six categories .	components, materials and energy sources
+A	1022.25	We have energy source , electronics , case .	components, materials and energy sources
+A	1026.11	Then we have case material supplements , interface type , and then button supplements .	components, materials and energy sources
+A	1033.88	Okay so Uh first of all energy source , we picked battery .	components, materials and energy sources
+A	1040.1	Um and how many batteries do we think this will probably take ?	components, materials and energy sources
+A	1043.44	Probably some e either two or four .	components, materials and energy sources
+B	1047.46	Two .	components, materials and energy sources
+A	1048.08	Two ?	components, materials and energy sources
+A	1051.68	Like it .	components, materials and energy sources
+B	1052.67	At four it's gonna be too heavy , so that that's not our problem .	components, materials and energy sources
+B	1055.92	People can change it every month .	components, materials and energy sources
+B	1060.74	They won't know until after they bought it .	components, materials and energy sources
+A	1061.08	Excellent .	components, materials and energy sources
+A	1064.03	This is consumerism .	components, materials and energy sources
+A	1065.99	Alright so for the electronics our choices are simpl simple chip-on-print , regular chip-on-print , advanced chip-on-print , sample sensor , sample speaker .	components, materials and energy sources
+C	1077.46	We're advanced chip are we ?	components, materials and energy sources
+B	1078.7	That's the advanced chip-on-print , yeah .	components, materials and energy sources
+A	1080.76	'Kay , we have one of those .	components, materials and energy sources
+A	1086.83	'Kay then the case is a Probably it's double curved .	components, materials and energy sources
+B	1091.37	Double curved , yes .	components, materials and energy sources
+A	1097.28	Case materials are plastic .	components, materials and energy sources
+B	1099.17	Plastic .	components, materials and energy sources
+A	1102.85	Um I guess it's two , since one for the top , one for the bottom .	components, materials and energy sources
+B	1106.56	N no .	components, materials and energy sources
+A	1107.15	Is that right or is it just one ?	components, materials and energy sources
+B	1108.88	No that's just one .	components, materials and energy sources
+A	1109.4	Maybe it's one because of the 'Kay .	components, materials and energy sources
+B	1111.49	It's just one mo single mould , we can do that .	components, materials and energy sources
+C	1114.37	Yeah yeah .	components, materials and energy sources
+D	1115.2	Right .	components, materials and energy sources
+A	1117.01	I guess it doesn't matter 'cause the price on that one is zero , which is nice .	components, materials and energy sources
+B	1119.43	Exactly , right .	components, materials and energy sources
+D	1119.81	Oh .	components, materials and energy sources
+A	1121.18	Special colour ?	components, materials and energy sources
+B	1122.98	That's not a special colour .	components, materials and energy sources
+D	1124.32	Bright yellow .	components, materials and energy sources
+B	1124.62	It's a specially ugly colour , but it's not special .	components, materials and energy sources
+A	1128.79	Interface type .	components, materials and energy sources
+A	1129.71	We have pushbutton , scroll-wheel interface , integrated scroll-wheel pushbutton , and an L_C_D_ display .	components, materials and energy sources
+C	1130.05	S That's Yeah .	components, materials and energy sources
+B	1132.63	S Yes unfortunately .	components, materials and energy sources
+A	1138.63	So we actually have the L_C_D_ display and then is it the integrated or is it Yeah .	components, materials and energy sources
+C	1142.29	And then I'd say the integrated .	components, materials and energy sources
+A	1149.1	'Kay .	components, materials and energy sources
+A	1149.62	Button supplement ?	components, materials and energy sources
+A	1150.36	Special colour ?	components, materials and energy sources
+C	1151.49	Mm .	components, materials and energy sources
+A	1152.21	Um special form ?	components, materials and energy sources
+A	1156.42	Special material .	components, materials and energy sources
+B	1158.45	We could of course make the buttons wood .	components, materials and energy sources
+B	1162.25	Say mahogany or so Mm-hmm or titanium .	components, materials and energy sources
+D	1165.0	It'd look really lovely .	components, materials and energy sources
+A	1166.22	Or titanium .	components, materials and energy sources
+D	1167.03	Yeah .	components, materials and energy sources
+A	1167.27	They cost us all the same .	components, materials and energy sources
+C	1167.93	remote control .	components, materials and energy sources
+B	1168.79	Uh just Yeah that's too much .	components, materials and energy sources
+A	1169.12	Well we only have one button so really we shouldn't be charged , we shouldn't be charged anything for the the button supplements .	components, materials and energy sources
+C	1172.52	No that's getting a bit tiny .	components, materials and energy sources
+A	1177.2	Um Okay .	components, materials and energy sources
+C	1177.98	Yeah .	components, materials and energy sources
+C	1178.35	I'd ignore that .	components, materials and energy sources
+D	1179.99	Leave it blank .	components, materials and energy sources
+A	1181.69	We're gonna leave that one blank because we run on a L_C_D_ and scroll .	components, materials and energy sources
+A	1186.27	So our total is fifteen point five .	components, materials and energy sources
+A	1191.34	Which I believe is by three Euros over .	components, materials and energy sources
+B	1198.35	It's hard to believe .	components, materials and energy sources
+B	1201.54	So we'll go for the hand dynamo huh ?	components, materials and energy sources
+A	1207.79	So the only thing better than um a banana-shaped remote is one that you shake .	components, materials and energy sources
+C	1209.88	If it w What if we completely took out the the one single button we've got on .	components, materials and energy sources
+C	1216.15	And just had a scroll wheel interface .	components, materials and energy sources
+C	1219.88	And the L_C_D_ display .	components, materials and energy sources
+C	1221.45	I suppose the L_C_D_ C_ display's the one that's pushing it up a bit though .	components, materials and energy sources
+A	1227.51	Yeah 'cause the Well 'cause we have to have both right ?	components, materials and energy sources
+C	1231.87	Yeah .	components, materials and energy sources
+B	1233.5	I mean let's let's face it , it also depends on the software on the on the television .	components, materials and energy sources
+C	1237.28	Yeah .	components, materials and energy sources
+B	1238.09	You can have the the information that this thing transmits be being displayed on the on the screen .	components, materials and energy sources
+A	1244.75	Mm-hmm .	components, materials and energy sources
+B	1245.32	So s yeah let's take away the Yeah .	components, materials and energy sources
+C	1246.74	Yeah you could maybe take out the L_C_D_ dis display even , if it if it comes up on the computer itsel on the T_V_ itself .	components, materials and energy sources
+B	1249.39	Yeah .	components, materials and energy sources
+B	1253.73	Right .	components, materials and energy sources
+A	1254.37	So we may not need the L_C_D_ display ?	components, materials and energy sources
+C	1256.42	Uh that is possible yeah .	components, materials and energy sources
+B	1259.22	Right .	components, materials and energy sources
+B	1260.39	We may not need it .	components, materials and energy sources
+B	1265.01	There you go .	costing
+A	1265.64	Well there we go .	costing
+B	1265.76	Perfect .	costing
+C	1266.18	There we go .	costing
+A	1266.64	Twelve point five .	costing
+D	1266.87	Perfect .	costing
+A	1269.93	Okay .	costing
+A	1271.7	So we just remove our screen here .	discussion
+C	1275.5	Screen .	discussion
+C	1276.66	Make it a bigger dial .	discussion
+C	1277.88	Easier to use .	discussion
+C	1279.02	Even easier to use then .	discussion
+A	1282.72	Besides look at what the L_C_D_ does to our lovely remote .	discussion
+B	1286.57	Okay , the So we can just take away a heck of a lot of the there you go .	discussion
+A	1287.86	Back to the design room boys .	discussion
+D	1297.65	What's the blue part ?	discussion
+B	1298.27	central ?	discussion
+C	1298.6	That was just we ran out of yellow .	discussion
+D	1299.24	Oh that's the batteries .	discussion
+B	1299.38	Oh that's just yeah .	discussion
+D	1300.96	Okay .	discussion
+B	1303.94	There you go .	discussion
+C	1304.36	There you go .	discussion
+B	1305.0	Oops .	discussion
+C	1305.29	Even simpler .	discussion
+D	1308.13	Looks more like a banana .	discussion
+C	1309.69	Yeah .	discussion
+C	1310.91	For all those fruit lovers out there .	discussion
+B	1311.22	There you go .	discussion
+B	1311.57	One more criteria .	discussion
+A	1314.74	Okay so the costs under twelve point five Euro .	costing
+A	1319.31	Was no .	costing
+A	1320.08	We redesigned it .	costing
+C	1321.65	Yeah .	discussion
+A	1321.82	Now it's yes .	costing
+A	1323.39	Next slide .	evaluation of project process
+A	1325.79	Project evaluation .	evaluation of project process
+A	1327.48	Uh project process , satisfaction with , for example , room for creativity , leadership , teamwork , means , new ideas found .	evaluation of project process
+A	1336.16	Um So I guess that Let's see here .	evaluation of project process
+A	1363.84	I think that perhaps the project evaluation's just supposed to be completed by me .	evaluation of project process
+A	1368.03	But I'd like to hear your thoughts .	evaluation of project process
+D	1377.07	Trying to fill in some time there .	evaluation of project process
+B	1377.8	Fair enough .	evaluation of project process
+A	1382.22	Uh h what did you think of our project process ?	evaluation of project process
+C	1387.96	I think we did yeah I think we did quite well .	evaluation of project process
+B	1388.19	Great .	evaluation of project process
+B	1390.03	Yeah .	evaluation of project process
+C	1390.6	Um Yeah .	evaluation of project process
+A	1390.69	Good .	evaluation of project process
+D	1390.9	Good teamwork .	evaluation of project process
+B	1391.75	Just half a day , you have a remote .	evaluation of project process
+B	1393.7	There you go .	evaluation of project process
+C	1394.82	Right from the start of the day .	evaluation of project process
+A	1397.31	Yeah I think we st we started off a little little weak .	evaluation of project process
+C	1397.69	We sort of knew where we were going straight away I thought .	evaluation of project process
+A	1402.33	Our leadership was quite weak in the beginning .	evaluation of project process
+A	1404.87	Um um But as the day went along we had more idea of what we were doing .	evaluation of project process
+A	1414.34	Um room for creativity ?	evaluation of project process
+A	1417.04	There was that .	evaluation of project process
+A	1418.37	Um I think we tried a lotta different things and um I think it was um interesting as you guys brought up more um information and studies that we were right on with a lot of those things .	evaluation of project process
+A	1433.75	Um you guys worked together well as a team .	evaluation of project process
+A	1436.49	And um the means ?	evaluation of project process
+A	1440.21	Which was the whiteboard and the pens .	evaluation of project process
+C	1440.4	Yeah .	evaluation of project process
+C	1441.33	We've used the whiteboard .	evaluation of project process
+B	1442.61	Super super .	evaluation of project process
+A	1443.8	I had some problem with the pen I think , but minus your p Well Have a we have a list of employees that you would like fired .	evaluation of project process
+D	1445.6	Minus your PowerPoint fiasco .	evaluation of project process
+B	1447.8	Well that's not my fault .	evaluation of project process
+B	1449.17	That's obviously the people I work for uh that work for me , uh they've just you know Heads are gonna roll , believe me .	evaluation of project process
+D	1449.3	No I know .	evaluation of project process
+D	1449.99	I'm yeah .	evaluation of project process
+D	1451.99	Incom Mm .	evaluation of project process
+B	1459.1	Yes yes .	evaluation of project process
+A	1460.43	Okay .	evaluation of project process
+A	1460.97	N new ideas found ?	evaluation of project process
+A	1463.21	Um Yes for the remote .	evaluation of project process
+D	1465.66	Kinda .	evaluation of project process
+A	1468.09	Maybe no not f for technology .	evaluation of project process
+C	1471.02	Technology used .	evaluation of project process
+A	1475.26	Alright .	closing
+A	1476.21	Closing .	closing
+A	1477.35	Costs are within the budget .	closing
+A	1479.13	Project is evaluated .	closing
+A	1482.84	Um complete the final questionnaire and meeting summary .	closing
+A	1486.51	That's it .	closing
+C	1487.28	Excellent .	closing
+A	1490.7	And I still have to do my minutes for the last meeting .	closing
+A	1498.94	Actually .	closing
+A	1502.21	Um so there will probably be another questionnaire coming up .	closing
+D	1509.57	We might have a while though .	closing
+A	1509.99	And then we'll have to check with the main boss whether we can , what goes on after that .	closing
+A	1515.45	But that's the end of our meeting .	closing
