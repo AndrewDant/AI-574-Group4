@@ -13,9 +13,11 @@ dependencies:
   - transformers=4.41.2
   - datasets
   - evaluate
-  - tensorboard
   - nltk
   - accelerate=0.30.1
   - ipykernel
+  - pip
+  - jiwer
   - pip:
       - rouge_score
+      - whisper
