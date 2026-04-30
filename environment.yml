@@ -20,4 +20,4 @@ dependencies:
   - jiwer
   - pip:
       - rouge_score
-      - whisper
+      - openai-whisper
