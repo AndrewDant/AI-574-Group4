@@ -1,3 +1,4 @@
 data/**/audio/**
 results/
 logs/
+saved_model/

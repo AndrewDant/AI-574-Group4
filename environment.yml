@@ -18,6 +18,7 @@ dependencies:
   - ipykernel
   - pip
   - jiwer
+  - tensorboard
   - pip:
       - rouge_score
       - openai-whisper
